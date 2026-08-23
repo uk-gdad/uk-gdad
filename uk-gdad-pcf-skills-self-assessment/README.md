@@ -42,8 +42,8 @@ for what to do about a gap.
 ## Note on the skill list
 
 The tool carries 189 skills from
-<https://ddat-capability-framework.service.gov.uk/skills>. The role summaries
-name 183. The two lists are different vintages of the framework; see
-[known drift](../spec/index.md#known-drift).
+<https://ddat-capability-framework.service.gov.uk/skills>, which publishes 185
+today; the role summaries name 183. The three lists have been compared and
+reconciled as far as the source allows — see [spec/skills.md](../spec/skills.md).
 
 Full contract: [spec/index.md](spec/index.md).

@@ -93,6 +93,9 @@ exactly; a prefix match conflates them.
 | [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md) | A standalone self-rating tool | 1 |
 | [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md) | The published website | — |
 
+The skill catalogue and how the repository's vocabularies compare against it:
+[`spec/skills.md`](skills.md).
+
 Every project has the same shape:
 
 ```
@@ -316,29 +319,18 @@ it **advisory** because it needs human judgement.
 Recorded rather than fixed, because fixing needs a decision or a source that
 this repository does not hold.
 
-1. **Two skill vocabularies.** The role summaries name 183 distinct skills; the
-   self-assessment tool carries 189 taken from the framework's skills page. Ten
-   names exist only in the tool and four only in the summaries, and some are the
-   same skill renamed upstream:
+1. **Skill vocabularies.** Three lists exist: the framework's published
+   catalogue (185 skills), the `Skill:` names across the 205 summaries (183),
+   and the self-assessment tool's list (189). They have been compared against
+   the catalogue and reconciled as far as the source allows — see
+   [`spec/skills.md`](skills.md).
 
-   | Summaries | Self-assessment tool |
-   | --- | --- |
-   | `Requirements definition and management` | `Defining and managing business needs, user needs and requirements` |
-   | `Systems analysis` | `Digital and data systems analysis` |
-   | `Programming and build (data engineering)` | `Programming and build (data and analytics engineering)` |
+   What remains: 7 catalogue skills that no summary names, which may simply
+   belong to roles or levels this repository does not carry; and 5 names used
+   here and in the tool that the catalogue no longer lists, all content-design
+   related, which look like an upstream reorganisation. Mapping those needs the
+   framework's content designer role pages, not a judgement call here.
 
-   The tool additionally lists `Continual service improvement`,
-   `Data compliance and security`, `Systems design (frontend developer)`,
-   `Technical understanding`, `Turning business problems into data design` and
-   `Working within constraints (performance analyst)`, which no summary names.
-   The two lists are different vintages of the framework. Reconciling them needs
-   a fresh download of the framework data, not a judgement call here. Until
-   then: summaries are canonical for what a role level requires; the tool's list
-   is canonical for the published skill catalogue.
-
-   One name was reconciled, because both the bullet text and the tool agreed:
-   `Ownership and topic` in 46 summaries was a mis-parse of
-   `Ownership and initiative`, and has been corrected.
 2. **Assessment word counts.** The contract asks for approximately 4,000 words
    per assessment section. Actual lengths vary widely. Not enforced.
 3. **Link rot.** Upskilling documents name several hundred external URLs. No

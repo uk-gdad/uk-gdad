@@ -52,12 +52,14 @@ the current slider values; nothing is uploaded.
 ## Skill list
 
 The tool carries its own list of 189 skills, taken from
-<https://ddat-capability-framework.service.gov.uk/skills>. The role summaries
-name 183 distinct skills. The two lists do not match, and reconciling them is
-recorded as [known drift](../../spec/index.md#known-drift) in the root
-specification. Until they are reconciled, the summaries are canonical for what a
-*role level* requires, and this list is canonical for what the framework
-publishes as a skill catalogue.
+<https://ddat-capability-framework.service.gov.uk/skills>, which publishes 185
+today. The role summaries name 183. The three lists have been compared against
+the catalogue in [`spec/skills.md`](../../spec/skills.md), and what could be
+reconciled from the source has been.
+
+The summaries stay canonical for what a *role level* requires; this list stays
+canonical for what the framework publishes as a catalogue. When the framework
+changes, re-fetch the catalogue and redo that comparison.
 
 ## Publishing
 

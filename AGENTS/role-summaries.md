@@ -48,7 +48,14 @@ level - a technical role and a management role."
 ## Changing one
 
 These are adapted from the framework, so a change needs a source. Nothing goes
-in that the framework does not say. If a skill name looks wrong, check it
-against <https://ddat-capability-framework.service.gov.uk/skills> and the
-self-assessment tool's list before editing 46 files — see
-[known drift](../spec/index.md#known-drift).
+in that the framework does not say.
+
+If a skill name looks wrong, check it against the catalogue snapshot in
+[`spec/skills.md`](../spec/skills.md) and against
+<https://ddat-capability-framework.service.gov.uk/skills> before editing. Four
+names have been corrected that way; five more are known not to match the
+catalogue and are recorded there rather than guessed at.
+
+Match whole lines when renaming a skill. `Systems analysis` is a prefix of
+nothing today, but `User focus` is a prefix of `User focus (content design)`,
+and a careless substitution would merge two different skills.
