@@ -47,7 +47,7 @@ Skill: Enterprise and business architecture (business analyst)
 - work with limited direction to translate business drivers, goals and constraints into business objectives
 - help to define required capabilities and support organisational changes to create operating models that meet business objectives
 
-Skill: Requirements definition and management
+Skill: Defining and managing business needs, user needs and requirements
 - direct the approach to requirements management
 - enable others to select and apply appropriate life cycle methods
 - influence the prioritisation of complex requirement sets, enabling long-term strategic decision making and short-term tactical fixes
@@ -58,7 +58,7 @@ Skill: Stakeholder relationship management
 - ensure stakeholder's objectives are set and support teams to meet them
 - influence and negotiate with senior stakeholders to resolve issues and enable progress
 
-Skill: Systems analysis
+Skill: Digital and data systems analysis
 - lead the identification and analysis of IT system capabilities, developing models and system requirements
 - use systems analysis to support a deeper understanding of how processes and systems work, and to identify gaps
 - work with other digital professionals to design and develop system and user interfaces, identify gaps in functionality and assess the effect of proposed software changes on users or the organisation

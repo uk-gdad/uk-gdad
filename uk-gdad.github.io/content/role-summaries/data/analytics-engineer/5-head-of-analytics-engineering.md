@@ -51,7 +51,7 @@ Skill: Problem management
 - identify and describe problems, and help others to describe them
 - build problem-solving capabilities in others
 
-Skill: Programming and build (data engineering)
+Skill: Programming and build (data and analytics engineering)
 - set local or team-based standards for programming tools and techniques and can select appropriate development methods
 - advise on the application of standards and methods and ensure compliance
 - take technical responsibility for all stages and iterations in a software development project, providing method-specific technical advice and guidance to project stakeholders

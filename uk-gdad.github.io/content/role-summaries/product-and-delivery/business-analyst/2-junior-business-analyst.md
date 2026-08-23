@@ -37,7 +37,7 @@ Skill: Context, problem and option analysis
 - explain the importance of understanding that internal and external factors influence the organisation
 - contribute to identifying and assessing multiple options and formulating recommendations, under supervision
 
-Skill: Requirements definition and management
+Skill: Defining and managing business needs, user needs and requirements
 - support identifying, analysing, capturing and validating business and user requirements
 - work under supervision to manage requirements and support their prioritisation, within a defined scope
 - provide distinct task-based outputs for parts of the project as directed, using a predetermined requirements management life cycle
@@ -46,7 +46,7 @@ Skill: Stakeholder relationship management
 - describe who your stakeholders are and the importance of managing relationships with them
 - explain what your stakeholders find important and why
 
-Skill: Systems analysis
+Skill: Digital and data systems analysis
 - support the analysis of IT system capabilities and work under supervision to identify and specify system requirements
 - support the development of specifications and models for bespoke IT systems or software packages
 

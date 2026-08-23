@@ -44,7 +44,7 @@ Skill: Context, problem and option analysis
 - define problem statements and develop and evaluate multiple options
 - formulate recommendations, considering feasibility, benefits and impact
 
-Skill: Requirements definition and management
+Skill: Defining and managing business needs, user needs and requirements
 - identify, analyse, challenge and validate business and user requirements
 - work under limited supervision to co-ordinate and review the prioritisation of requirements
 - use appropriate requirements management life cycle methods to complete tasks and outputs related to the project
@@ -55,7 +55,7 @@ Skill: Stakeholder relationship management
 - build and reach consensus with stakeholders
 - work to improve stakeholder relationships using evidence to explain decisions
 
-Skill: Systems analysis
+Skill: Digital and data systems analysis
 - identify and analyse IT system capabilities
 - develop models and system requirements for bespoke IT systems or software packages, with minimal supervision
 

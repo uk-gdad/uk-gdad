@@ -50,7 +50,7 @@ Skill: Problem management
 - ensure that the right actions are taken to investigate, resolve and anticipate problems
 - co-ordinate the team to investigate problems, implement solutions and take preventive measures
 
-Skill: Programming and build (data engineering)
+Skill: Programming and build (data and analytics engineering)
 - use agreed standards and tools to design, code, test, correct and document moderate-to-complex programs and scripts from agreed specifications and subsequent iterations
 - collaborate with others to review specifications where appropriate
 

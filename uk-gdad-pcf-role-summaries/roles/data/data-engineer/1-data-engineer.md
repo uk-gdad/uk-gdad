@@ -44,7 +44,7 @@ Skill: Problem management
 - investigate problems in systems, processes and services, with an understanding of the level of a problem, for example, strategic, tactical or operational
 - contribute to the implementation of remedies and preventative measures
 
-Skill: Programming and build (data engineering)
+Skill: Programming and build (data and analytics engineering)
 - design, code, test, correct and document simple programs or scripts under the direction of others
 
 Skill: Testing

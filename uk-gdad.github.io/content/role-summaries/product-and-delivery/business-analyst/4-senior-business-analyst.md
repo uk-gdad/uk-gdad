@@ -43,7 +43,7 @@ Skill: Context, problem and option analysis
 - set goals for a piece of work that aligns to the organisation's strategic context
 - lead the approach to developing and evaluating multiple options, sharing and advocating for recommendations to gain support
 
-Skill: Requirements definition and management
+Skill: Defining and managing business needs, user needs and requirements
 - advise on the approach to requirements management within a project or programme
 - define the most appropriate requirements management life cycle methods and ensure the requirement can be traced in the design, build, test, tender and evaluation phases
 - co-ordinate and review the prioritisation of requirements and engage in the negotiation of solutions to help meet programme objectives
@@ -54,7 +54,7 @@ Skill: Stakeholder relationship management
 - identify and resolve issues, influence stakeholders and manage relationships effectively
 - build long-term strategic relationships and communicate clearly and regularly with stakeholders
 
-Skill: Systems analysis
+Skill: Digital and data systems analysis
 - lead the identification and analysis of IT system capabilities, developing models and system requirements
 - use systems analysis to support a deeper understanding of how processes and systems work, and to identify gaps
 - work with other digital professionals to design and develop system and user interfaces, identify gaps in functionality and assess the effect of proposed software changes on users or the organisation
