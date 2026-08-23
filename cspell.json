@@ -1,10 +1,34 @@
 {
     "version": "0.2",
-    "ignorePaths": [],
+    "ignorePaths": [
+        "node_modules/**",
+        "uk-gdad.github.io/build/**",
+        "uk-gdad.github.io/.svelte-kit/**",
+        "uk-gdad.github.io/pnpm-lock.yaml"
+    ],
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
-        "Skillsoft"
+        "GDAD",
+        "Skillsoft",
+        "Coursera",
+        "Udemy",
+        "OpenCourseWare",
+        "psychometric",
+        "kebab",
+        "SvelteKit",
+        "svelte",
+        "sveltejs",
+        "pnpm",
+        "prerender",
+        "prerendered",
+        "prerendering",
+        "favicon",
+        "gsed",
+        "nojekyll",
+        "upskill",
+        "upskilling",
+        "upskills"
     ],
     "ignoreWords": [],
     "import": []
