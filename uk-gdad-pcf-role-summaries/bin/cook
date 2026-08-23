@@ -1,0 +1,25 @@
+#!/bin/sh
+set -euf
+
+# Cook the Claude markdown output to use better formatting.
+# Specifically, this script adjusts the headlines and casings.
+# See the corresponding file cook-test.md for test examples.
+
+gsed '/./{H;$!d} ; x ;
+s/\n#* *[0-9]\{1,\}\. \(\**Title:\** \|\)\(.*\)\n\{1,\}\(\**\w\{1,\}:\** \|\)\(.*\)\n\{1,\}\(\**\w\{1,\}:\** \|\)\(.*\)\n\{1,\}\**URL:\** \(.*\)\n\{1,\}\**Summary:\** \(.*\)/\n- [\2](\7): \8 \4. \6./;
+s/\n#* *[0-9]\{1,\}\. \(\**Title:\** \|\)\(.*\)\n\{1,\}\(\**\w\{1,\}:\** \|\)\(.*\)\n\{1,\}\**URL:\** \(.*\)\n\{1,\}\**Summary:\** \(.*\)/\n- [\2](\5): \6 \4./;
+s/\n#* *[0-9]\{1,\}\. \(\**Title:\** \|\)\(.*\)\n\{1,\}\**URL:\** \(.*\)\n\{1,\}\**Summary:\** \(.*\)/\n- [\2](\3): \4/;
+s/\n#* *COURSERA COURSES\( ([0-9]\{1,\})\|\)/\n## Coursera courses/;
+s/\n#* *UDEMY COURSES\( ([0-9]\{1,\})\|\)/\n## Udemy courses/;
+s/\n#* *SKILLSOFT COURSES\( ([0-9]\{1,\})\|\)/\n## Skillsoft courses/;
+s/\n#* *EDX COURSES\( ([0-9]\{1,\})\|\)/\n## edX courses/;
+s/\n#* *MIT OPENCOURSEWARE COURSES\( ([0-9]\{1,\})\|\)/\n## MIT OpenCourseWare courses/;
+s/\n#* *BLOG POSTS\( ([0-9]\{1,\})\|\)/\n## Blog posts/;
+s/\n#* *RESEARCH ARTICLES\( ([0-9]\{1,\})\|\)/\n## Research articles/;
+s/\n#* *YOUTUBE VIDEOS\( ([0-9]\{1,\})\|\)/\n## Videos/;
+s/\n#* *AMAZON KINDLE BOOKS\( ([0-9]\{1,\})\|\)/\n## Books/;
+s/\n----*/\n/g;
+s/\n----*$/\n/g;
+s/\n====*/\n/;
+s/\n====*$/\n/g;
+' "$@"
