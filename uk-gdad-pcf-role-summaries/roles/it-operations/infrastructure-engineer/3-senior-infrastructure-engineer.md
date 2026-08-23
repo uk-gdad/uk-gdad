@@ -23,7 +23,7 @@ Skill: Information security
 Skill: Modern development standards
 - apply modern development standards and support others in applying them
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - own an issue until a new owner has been found or the problem has been mitigated or resolved
 
 Skill: Problem management

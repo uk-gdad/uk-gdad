@@ -23,7 +23,7 @@ Skill: Business analysis (IT operations)
 - communicate recommendations persuasively to important stakeholders
 - identify the simplest of a variety of approaches
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - take accountability for issues that occur and be proactive in searching for potential problems
 - achieve excellent user outcomes
 

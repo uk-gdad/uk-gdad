@@ -21,7 +21,7 @@ Skill: Modern development standards
 - explain the most important principles of modern development standards and how they apply to your work
 - apply apply modern development standards principles under guidance
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - own an issue until a new owner has been found or the problem has been mitigated or resolved
 
 Skill: Problem management

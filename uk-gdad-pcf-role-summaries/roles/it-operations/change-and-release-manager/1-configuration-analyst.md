@@ -28,7 +28,7 @@ Skill: Continuity management
 Skill: Incident management
 - identify and register incidents, gathering the required information and allocating it to the appropriate channel
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - show an awareness of problem resolution processes
 - pass problems on to your team
 

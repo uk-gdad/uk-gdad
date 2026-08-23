@@ -32,7 +32,7 @@ Skill: Continuity management
 Skill: Incident management
 - diagnose and prioritise incidents, investigate their causes and find resolutions
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - take accountability for issues that occur and be proactive in searching for potential problems
 - achieve excellent user outcomes
 

@@ -19,7 +19,7 @@ Skill: Customer service management
 Skill: IT service reporting
 - use data analytics skills to make decisions that enhance business performance
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - take accountability for issues that occur and be proactive in searching for potential problems
 - achieve excellent user outcomes
 

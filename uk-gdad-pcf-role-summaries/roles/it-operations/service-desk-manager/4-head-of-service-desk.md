@@ -22,7 +22,7 @@ Skill: Customer service management
 Skill: IT service reporting
 - use prediction methodologies to produce and maintain a holistic view of important trends across multiple processes.
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - take accountability for issues that occur and be proactive in searching for potential problems
 - achieve excellent user outcomes
 

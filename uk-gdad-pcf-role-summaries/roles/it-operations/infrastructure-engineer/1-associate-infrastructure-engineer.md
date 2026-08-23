@@ -14,7 +14,7 @@ Skill: Information security
 Skill: Modern development standards
 - explain the importance of using modern development standards
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - show an awareness of problem resolution processes
 - pass problems on to your team
 

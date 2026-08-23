@@ -20,7 +20,7 @@ Skill: Business analysis (IT operations)
 - investigate problems and opportunities in existing processes, and contribute to recommending solutions
 - work with stakeholders to identify objectives and potential benefits
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - own an issue until a new owner has been found or the problem has been mitigated or resolved
 
 Skill: Service focus

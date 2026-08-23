@@ -18,7 +18,7 @@ Skill: IT service reporting
 Skill: Incident management
 - lead the investigation and resolution of incidents
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - take accountability for issues that occur and be proactive in searching for potential problems
 - achieve excellent user outcomes
 

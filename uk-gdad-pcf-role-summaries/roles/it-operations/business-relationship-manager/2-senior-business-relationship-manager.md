@@ -24,7 +24,7 @@ Skill: Business analysis (IT operations)
 - lead the collection of information and creation of recommendations for improvements
 - absorb large amounts of conflicting information and use it to produce solutions
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - take accountability for issues that occur and be proactive in searching for potential problems
 - achieve excellent user outcomes
 

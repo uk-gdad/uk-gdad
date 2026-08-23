@@ -22,7 +22,7 @@ Skill: IT service reporting
 - work with stakeholders to discuss any changes in the reporting processes
 - interpret a data set and communicate this to others
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - own an issue until a new owner has been found or the problem has been mitigated or resolved
 
 Skill: Service focus

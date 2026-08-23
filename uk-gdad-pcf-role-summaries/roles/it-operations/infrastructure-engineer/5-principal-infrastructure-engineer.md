@@ -24,7 +24,7 @@ Skill: Modern development standards
 - identify and apply modern development standards to support complex projects and programmes
 - lead others in applying modern development standards
 
-Skill: Ownership and topic
+Skill: Ownership and initiative
 - take accountability for issues that occur and be proactive in searching for potential problems
 - achieve excellent user outcomes
 
