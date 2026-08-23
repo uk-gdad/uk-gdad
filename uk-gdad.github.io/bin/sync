@@ -1,0 +1,63 @@
+#!/bin/sh
+# Vendor everything this site builds from into the site project itself, so the
+# project stays buildable on its own once it is pushed to its public repository.
+#
+#   1. Lily Design System Svelte components  -> src/lib/lily/
+#   2. UK GDAD PCF markdown from the sibling projects -> content/
+#   3. The standalone skills self-assessment tool -> static/self-assessment/
+#
+# Re-run after the upstream sources change:  ./bin/sync
+set -eu
+
+site="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
+gdad="$(CDPATH= cd -- "$site/.." && pwd)"
+lily="${LILY_DESIGN_SYSTEM:-$HOME/git/lilydesignsystem/lily-design-system}"
+
+# 1. Lily Design System components.
+
+lily_svelte="$lily/lily-design-system-svelte-headless/components"
+if [ -d "$lily_svelte" ]; then
+    mkdir -p "$site/src/lib/lily"
+    for component in $(cat "$site/bin/lily-components.txt"); do
+        source_file="$lily_svelte/$component/$component.svelte"
+        if [ -f "$source_file" ]; then
+            cp "$source_file" "$site/src/lib/lily/$component.svelte"
+        else
+            echo "sync: missing Lily component: $component" >&2
+            exit 1
+        fi
+    done
+    echo "sync: Lily components -> src/lib/lily/"
+else
+    echo "sync: skipping Lily components; not found at $lily_svelte" >&2
+fi
+
+# 2. UK GDAD PCF content.
+
+sync_content() {
+    from="$gdad/$1/roles/"
+    to="$site/content/$2/"
+    if [ ! -d "$from" ]; then
+        echo "sync: skipping $2; not found at $from" >&2
+        return
+    fi
+    mkdir -p "$to"
+    rsync -a --delete --prune-empty-dirs --include='*/' --include='*.md' --exclude='*' "$from" "$to"
+    echo "sync: $1 -> content/$2/"
+}
+
+sync_content uk-gdad-pcf-role-summaries role-summaries
+sync_content uk-gdad-pcf-upskilling-resources upskilling-resources
+sync_content uk-gdad-pcf-continuing-professional-development-checklists continuing-professional-development-checklists
+sync_content uk-gdad-pcf-assessments assessments
+
+# 3. Skills self-assessment tool.
+
+self_assessment="$gdad/uk-gdad-pcf-skills-self-assessment/index.html"
+if [ -f "$self_assessment" ]; then
+    mkdir -p "$site/static/tools"
+    cp "$self_assessment" "$site/static/tools/skills-self-assessment.html"
+    echo "sync: uk-gdad-pcf-skills-self-assessment -> static/tools/skills-self-assessment.html"
+else
+    echo "sync: skipping skills self-assessment; not found at $self_assessment" >&2
+fi
