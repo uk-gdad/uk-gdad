@@ -1,4 +1,22 @@
 #!/bin/sh
+#
+# HISTORICAL — not part of the content pipeline. Kept for the record.
+#
+# This is the one-off migration that moved the role documents from a flat
+# layout, where the profession and role were baked into the file name, into the
+# current tree:
+#
+#   assessments/architecture-solution-architect-lead-solution-architect.md
+#   -> roles/architecture/solution-architect/4-lead-solution-architect.md
+#
+# It has already been applied to all four role projects. The paths below refer
+# to the old top-level `assessments/` directory, which no longer exists; the
+# equivalent today is `uk-gdad-pcf-assessments/roles/`. Do not run this script
+# expecting it to work as-is.
+#
+# For the layout it produced, and the rules that now govern it, see
+# spec/index.md. To check the layout, run bin/check.
+
 GIT_TOP_DIR="$(git rev-parse --show-toplevel)"
 
 #for subdir0 in assessments summaries upskills; do

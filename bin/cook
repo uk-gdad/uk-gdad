@@ -1,9 +1,17 @@
 #!/bin/sh
 set -euf
 
-# Cook the Claude markdown output to use better formatting.
-# Specifically, this script adjusts the headlines and casings.
-# See the corresponding file cook-test.md for test examples.
+# Cook raw AI markdown output into the format that the upskilling resources
+# specification requires: turn numbered Title/URL/Summary blocks into single
+# list items, and shouted headings into sentence-case level-2 headings.
+#
+#   bin/cook draft.md > uk-gdad-pcf-upskilling-resources/roles/<slug>.md
+#
+# Requires GNU sed as `gsed` (brew install gnu-sed).
+# See bin/cook-test.md for the cases it handles, and
+# uk-gdad-pcf-upskilling-resources/spec/index.md for the target format.
+#
+# This is a sed script, not a parser. Always read the result.
 
 gsed '/./{H;$!d} ; x ;
 s/\n#* *[0-9]\{1,\}\. \(\**Title:\** \|\)\(.*\)\n\{1,\}\(\**\w\{1,\}:\** \|\)\(.*\)\n\{1,\}\(\**\w\{1,\}:\** \|\)\(.*\)\n\{1,\}\**URL:\** \(.*\)\n\{1,\}\**Summary:\** \(.*\)/\n- [\2](\7): \8 \4. \6./;

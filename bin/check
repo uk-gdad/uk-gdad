@@ -1,0 +1,299 @@
+#!/usr/bin/env python3
+"""Check the repository against spec/index.md.
+
+The specification in `spec/` is the single source of truth for this repository.
+This script is that specification expressed as code: every rule it enforces is
+stated in `spec/index.md`, and every rule stated there that can be checked
+mechanically is enforced here.
+
+Usage:
+
+    bin/check              # check everything, print a report, exit 1 on failure
+    bin/check --quiet      # print only failures
+    bin/check --list       # list the canonical role index, one slug per line
+
+Exit status is 0 when every check passes, 1 otherwise.
+"""
+
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+
+# spec/index.md § Taxonomy — the eight professions of the framework.
+PROFESSIONS = {
+    "architecture",
+    "chief-digital-and-data",
+    "data",
+    "it-operations",
+    "product-and-delivery",
+    "quality-assurance-testing",
+    "software-development",
+    "user-centred-design",
+}
+
+# spec/index.md § Projects — the canonical project is listed first; the other
+# three must mirror its role index exactly.
+CANONICAL = "uk-gdad-pcf-role-summaries"
+DERIVED = [
+    "uk-gdad-pcf-upskilling-resources",
+    "uk-gdad-pcf-continuing-professional-development-checklists",
+    "uk-gdad-pcf-assessments",
+]
+
+# spec/index.md § Document contracts — required headings per project.
+REQUIRED_SECTIONS = {
+    "uk-gdad-pcf-upskilling-resources": [
+        "Coursera courses",
+        "Udemy courses",
+        "Skillsoft courses",
+        "edX courses",
+        "MIT OpenCourseWare courses",
+        "Blog posts",
+        "Research articles",
+        "Videos",
+        "Books on Amazon",
+        "Professional development tips",
+    ],
+    "uk-gdad-pcf-continuing-professional-development-checklists": [
+        "Types",
+        "Phases",
+        "Events",
+        "Teamwork",
+        "UK GDAD PCF Role Skill Specifics",
+    ],
+    "uk-gdad-pcf-assessments": [
+        "Introduction",
+        "Advisory",
+        "Workplace job-specific cognitive assessment",
+        "Workplace job-specific numeric reasoning assessment",
+        "Workplace job-specific verbal reasoning assessment",
+        "Workplace job-specific situational judgement assessment",
+        "Conclusion",
+    ],
+}
+
+# spec/index.md § Document contracts — required title shape per project.
+REQUIRED_TITLE_SUFFIX = {
+    "uk-gdad-pcf-upskilling-resources": "- upskill resources",
+    "uk-gdad-pcf-assessments": "- Psychometric Assessment Resources",
+}
+REQUIRED_TITLE_EXACT = {
+    "uk-gdad-pcf-continuing-professional-development-checklists": (
+        "# UK GDAD PCF Continuing Professional Development Checklist"
+    ),
+}
+
+# spec/index.md § Website — the content the site vendors, and where from.
+SITE = "uk-gdad.github.io"
+SITE_CONTENT = {
+    "role-summaries": CANONICAL,
+    "upskilling-resources": "uk-gdad-pcf-upskilling-resources",
+    "continuing-professional-development-checklists": (
+        "uk-gdad-pcf-continuing-professional-development-checklists"
+    ),
+    "assessments": "uk-gdad-pcf-assessments",
+}
+
+SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+NUMBERED = re.compile(r"^(\d+)-(.+)$")
+ROLE_LINE = re.compile(r"^(.+?) role: (.+)$")
+
+failures: list[str] = []
+notes: list[str] = []
+
+
+def fail(message: str) -> None:
+    failures.append(message)
+
+
+def role_slugs(project: str) -> list[str]:
+    """Every role document in a project, as a slug relative to its roles/ dir."""
+    root = ROOT / project / "roles"
+    if not root.is_dir():
+        fail(f"{project}: no roles/ directory")
+        return []
+    return sorted(
+        path.relative_to(root).with_suffix("").as_posix()
+        for path in root.rglob("*.md")
+    )
+
+
+def check_canonical_index(canonical: list[str]) -> None:
+    """§ Role index — path shape, profession names, and level numbering."""
+    if not canonical:
+        fail(f"{CANONICAL}: canonical role index is empty")
+        return
+
+    by_role: dict[str, list[tuple[int, str]]] = {}
+
+    for slug in canonical:
+        segments = slug.split("/")
+        if len(segments) not in (2, 3):
+            fail(f"{CANONICAL}: {slug}.md is not <profession>/[<role>/]<level>")
+            continue
+        if segments[0] not in PROFESSIONS:
+            fail(f"{CANONICAL}: {slug}.md has unknown profession '{segments[0]}'")
+        for segment in segments[1:]:
+            stem = NUMBERED.sub(r"\2", segment)
+            if not SLUG.match(stem):
+                fail(f"{CANONICAL}: {slug}.md has non-kebab-case segment '{segment}'")
+
+        if len(segments) == 3:
+            numbered = NUMBERED.match(segments[2])
+            if not numbered:
+                fail(f"{CANONICAL}: {slug}.md must start with a level number")
+                continue
+            by_role.setdefault("/".join(segments[:2]), []).append(
+                (int(numbered.group(1)), slug)
+            )
+
+    for role, levels in sorted(by_role.items()):
+        numbers = sorted(number for number, _ in levels)
+        expected = list(range(1, len(numbers) + 1))
+        if numbers != expected:
+            fail(
+                f"{CANONICAL}: {role} levels are numbered {numbers}, expected {expected}"
+            )
+
+
+def check_mirrors(canonical: list[str]) -> None:
+    """§ Role index — the derived projects mirror the canonical index exactly."""
+    wanted = set(canonical)
+    for project in DERIVED:
+        found = set(role_slugs(project))
+        for slug in sorted(wanted - found):
+            fail(f"{project}: missing {slug}.md")
+        for slug in sorted(found - wanted):
+            fail(f"{project}: {slug}.md is not in the canonical role index")
+
+
+def check_summaries(canonical: list[str]) -> None:
+    """§ Document contracts — role summaries parse into role, level and skills."""
+    for slug in canonical:
+        path = ROOT / CANONICAL / "roles" / f"{slug}.md"
+        lines = path.read_text(encoding="utf-8").splitlines()
+        if not lines:
+            fail(f"{CANONICAL}: {slug}.md is empty")
+            continue
+        if not ROLE_LINE.match(lines[0].strip()):
+            fail(f"{CANONICAL}: {slug}.md line 1 is not '<Profession> role: <Role>'")
+
+        levels = [line for line in lines if line.startswith("Role level:")]
+        if len(levels) != 1:
+            fail(f"{CANONICAL}: {slug}.md has {len(levels)} 'Role level:' lines, expected 1")
+
+        skills = [line for line in lines if line.startswith("Skill:")]
+        if not skills:
+            fail(f"{CANONICAL}: {slug}.md names no skills")
+
+
+def check_documents(canonical: list[str]) -> None:
+    """§ Document contracts — titles and required sections in derived projects."""
+    for project in DERIVED:
+        sections = REQUIRED_SECTIONS.get(project, [])
+        suffix = REQUIRED_TITLE_SUFFIX.get(project)
+        exact = REQUIRED_TITLE_EXACT.get(project)
+
+        for slug in canonical:
+            path = ROOT / project / "roles" / f"{slug}.md"
+            if not path.is_file():
+                continue  # already reported by check_mirrors
+            text = path.read_text(encoding="utf-8")
+            title = text.split("\n", 1)[0].strip()
+
+            if exact and title != exact:
+                fail(f"{project}: {slug}.md title is '{title}', expected '{exact}'")
+            if suffix and not title.endswith(suffix):
+                fail(f"{project}: {slug}.md title does not end with '{suffix}'")
+            if not title.startswith("# "):
+                fail(f"{project}: {slug}.md does not start with a level-1 heading")
+
+            for section in sections:
+                if f"\n## {section}\n" not in text:
+                    fail(f"{project}: {slug}.md is missing section '## {section}'")
+
+
+def check_website(canonical: list[str]) -> None:
+    """§ Website — vendored content matches its sources, byte for byte."""
+    site = ROOT / SITE
+    if not site.is_dir():
+        notes.append(f"{SITE}: not present, skipping website checks")
+        return
+
+    content = site / "content"
+    if not content.is_dir():
+        fail(f"{SITE}: no content/ directory — run {SITE}/bin/sync")
+        return
+
+    for directory, project in SITE_CONTENT.items():
+        target = content / directory
+        if not target.is_dir():
+            fail(f"{SITE}: content/{directory}/ is missing — run {SITE}/bin/sync")
+            continue
+
+        vendored = sorted(
+            path.relative_to(target).with_suffix("").as_posix()
+            for path in target.rglob("*.md")
+        )
+        if vendored != canonical:
+            extra = set(vendored) - set(canonical)
+            missing = set(canonical) - set(vendored)
+            for slug in sorted(extra):
+                fail(f"{SITE}: content/{directory}/{slug}.md is not a canonical role")
+            for slug in sorted(missing):
+                fail(f"{SITE}: content/{directory}/{slug}.md is missing")
+            continue
+
+        for slug in canonical:
+            source = ROOT / project / "roles" / f"{slug}.md"
+            copy = target / f"{slug}.md"
+            if source.is_file() and source.read_bytes() != copy.read_bytes():
+                fail(f"{SITE}: content/{directory}/{slug}.md is stale — run {SITE}/bin/sync")
+
+    manifest = site / "bin" / "lily-components.txt"
+    if manifest.is_file():
+        wanted = [line.strip() for line in manifest.read_text().splitlines() if line.strip()]
+        for component in wanted:
+            if not (site / "src" / "lib" / "lily" / f"{component}.svelte").is_file():
+                fail(f"{SITE}: src/lib/lily/{component}.svelte is missing — run {SITE}/bin/sync")
+
+
+def main() -> int:
+    quiet = "--quiet" in sys.argv
+    canonical = role_slugs(CANONICAL)
+
+    if "--list" in sys.argv:
+        print("\n".join(canonical))
+        return 0
+
+    check_canonical_index(canonical)
+    check_mirrors(canonical)
+    check_summaries(canonical)
+    check_documents(canonical)
+    check_website(canonical)
+
+    if not quiet:
+        print(f"canonical role levels: {len(canonical)}")
+        print(f"professions:           {len({slug.split('/')[0] for slug in canonical})}")
+        for project in DERIVED:
+            print(f"{project}: {len(role_slugs(project))}")
+        for note in notes:
+            print(f"note: {note}")
+
+    if failures:
+        print(f"\n{len(failures)} check(s) failed:", file=sys.stderr)
+        for message in failures:
+            print(f"  {message}", file=sys.stderr)
+        return 1
+
+    if not quiet:
+        print("\nall checks passed")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
