@@ -353,13 +353,11 @@
                 <input
                   :id="x.id"
                   type="range"
-                  :value="x.value"
+                  x-model.number="x.value"
                   min="0"
                   max="4"
                   step="1"
                   list="input_range_list_0_to_4"
-                  @change="saveToLocalStorage"
-                  oninput="this.nextElementSibling.value = this.value"
                 />
                 <output><span x-text="x.value"></span></output>
               </td>
