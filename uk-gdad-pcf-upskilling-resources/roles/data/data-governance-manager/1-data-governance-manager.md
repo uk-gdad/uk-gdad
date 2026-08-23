@@ -1,4 +1,4 @@
-# Data Governance Manager - Training and Professional Development Resources
+# Data governance manager - upskill resources
 
 ## Job Role Summary
 
@@ -6,9 +6,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 ---
 
-## Online Courses
-
-### Coursera
+## Coursera courses
 
 1. **Data Governance with Dataplex Universal Catalog**
    - URL: https://www.coursera.org/learn/data-governance-with-dataplex-universal-catalog
@@ -22,7 +20,7 @@ A data governance manager plans, monitors and enforces the management of data as
    - URL: https://www.coursera.org/learn/data-governance-databricks
    - Summary: Offered by Board Infinity, this course is perfect for data professionals, data governance analysts, data stewards, and IT managers who want to learn data governance workflows using Databricks tools.
 
-### Udemy
+## Udemy courses
 
 1. **Data Governance - The Complete Course for Beginners**
    - URL: https://www.udemy.com/course/data-governance-training-course/
@@ -36,7 +34,7 @@ A data governance manager plans, monitors and enforces the management of data as
    - URL: https://www.udemy.com/course/data-governance-in-2025-frameworks-compliance-quality/
    - Summary: Focuses on governance frameworks, implementation strategies, and best practices. Takes a real-world, practical approach to modern data governance challenges.
 
-### Skillsoft
+## Skillsoft courses
 
 1. **Modern Data Management: Data Governance**
    - URL: https://www.skillsoft.com/course/modern-data-management-data-governance-9fdd5671-86a8-40a7-9ff3-95ff1491382d
@@ -50,7 +48,7 @@ A data governance manager plans, monitors and enforces the management of data as
    - URL: https://www.skillsoft.com/course/implementing-governance-strategies-0d5b15b0-02da-11e9-9b88-ab3a6758d14d
    - Summary: Beginner-level course with Big Data focus that examines the five main requirements when an all-encompassing governance strategy is being planned and designed, teaching how to build a data governance plan by identifying the most important data domain.
 
-### edX
+## edX courses
 
 1. **Enterprise Data Management (Indiana University)**
    - URL: https://www.edx.org/learn/data-management/indiana-university-enterprise-data-management
@@ -64,7 +62,7 @@ A data governance manager plans, monitors and enforces the management of data as
    - URL: https://www.edx.org/certificates/professional-certificate/microsoft-sc-400-information-protection-officer
    - Summary: This program offers four SC-400 courses for implementing and managing information protection and compliance in Microsoft 365, covering DLP, data governance, records management, data monitoring with Purview, and insider/privacy risk management.
 
-### MIT OpenCourseWare
+## MIT OpenCourseWare courses
 
 1. **Database Systems (6.830)**
    - URL: https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/
@@ -80,7 +78,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 ---
 
-## Blog Posts
+## Blog posts
 
 1. **Data governance: Best practices** (dbt Labs, November 2024)
    - URL: https://www.getdbt.com/blog/data-governance-best-practices
@@ -124,7 +122,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 ---
 
-## Research Articles
+## Research articles
 
 1. **Mapping the Evolution of Data Governance Scientific Research** (Cambridge Core - Data & Policy, July 2025)
    - URL: https://www.cambridge.org/core/journals/data-and-policy/article/mapping-the-evolution-of-data-governance-scientific-research/CF523042CBEC4DEDA4EBDCB048321C2D
@@ -168,7 +166,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 ---
 
-## YouTube Videos
+## Videos
 
 1. **Intricity101: What is Data Governance?**
    - URL: Search "Intricity101 data governance" on YouTube
@@ -212,7 +210,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 ---
 
-## Amazon Kindle Books
+## Books on Amazon
 
 1. **Data Governance Handbook: A practical approach to building trust in data** by Wendy S. Batchelder
    - URL: https://www.amazon.com/Data-Governance-Handbook-practical-approach-ebook/dp/B0BYK29KG7

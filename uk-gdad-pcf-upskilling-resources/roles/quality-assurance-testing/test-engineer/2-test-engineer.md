@@ -16,7 +16,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - For more contact Joel Henderson <joel@joelparkerhenderson.com>
 
-## Coursera Courses
+## Coursera courses
 
 - [Software Testing and Automation Specialization](https://www.coursera.org/specializations/software-testing-automation): This program covers automated functional tests for both front-end and back-end code and teaches how to use automated testing to achieve full mutation coverage. The specialization provides comprehensive training in test automation techniques for software engineers and test engineers. Provider: University of Minnesota.
 

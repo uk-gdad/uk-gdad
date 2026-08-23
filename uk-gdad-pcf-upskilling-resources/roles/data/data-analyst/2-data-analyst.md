@@ -122,7 +122,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Storytelling with Data - YouTube Channel](https://www.youtube.com (Search: "Storytelling with Data")): The storytelling with data YouTube channel was voted most helpful video channel in the 2022 Data Literacy Awards and regularly publishes new content. The channel features video examples of effective data storytelling, quick tips, tool tutorials, and in-depth case studies. Topics include improving presentation skills, turning data into stories, and creating compelling visualizations.
 
-## Books
+## Books on Amazon
 
 - [Python for Data Analysis by Wes McKinney (3rd Edition, 2022)](https://www.amazon.com/Python-Data-Analysis-Wes-McKinney-ebook/dp/B0B9HY3WX7): Written by Wes McKinney, the creator of the Python pandas project, this book is ideal for analysts new to Python and for Python programmers new to data science and scientific computing. The book is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python, offering a comprehensive guide to becoming an effective data analyst. The latest edition was updated in 2022 with modern best practices.
 
