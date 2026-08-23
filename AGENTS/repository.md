@@ -9,6 +9,7 @@ uk-gdad/
 │   ├── check                     Validates the repository against spec/
 │   ├── cook                      Reformats raw AI output into required markdown
 │   ├── cook-test.md              Worked examples for bin/cook
+│   ├── publish                   Pushes uk-gdad.github.io/ to the site repository
 │   └── normalize                 Historical one-off migration; not in the pipeline
 ├── AGENTS.md, AGENTS/            These notes
 ├── README.md                     Orientation
@@ -51,6 +52,9 @@ on the website. Changing a slug means changing four files and re-running
   mechanical.
 - **Re-run `uk-gdad.github.io/bin/sync` after touching content**, or `bin/check`
   will report the website's vendored copies as stale.
+- **Publish the site with `bin/publish`**, never by committing in the site
+  repository. It is a subtree publishing target; a commit made there breaks the
+  next push.
 
 ## Do not
 

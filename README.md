@@ -63,6 +63,10 @@ pnpm install
 pnpm dev          # http://localhost:5173
 ```
 
+**Publish the website.** `bin/publish` checks the repository, then pushes
+`uk-gdad.github.io/` to its own repository, where GitHub Actions builds it and
+GitHub Pages serves it.
+
 More in the [manual](index.md), including tutorials for finding your role,
 adding a role level, and publishing the site.
 
@@ -111,7 +115,10 @@ that does not work in practice.
 2. Make the change in the canonical project first, then the derived ones.
 3. Run `bin/check`.
 4. If you touched content, run `uk-gdad.github.io/bin/sync`.
-5. Open an issue or a pull request.
+5. Open an issue or a pull request here — not on
+   [uk-gdad.github.io](https://github.com/uk-gdad/uk-gdad.github.io), which is
+   published from this repository by `bin/publish` and overwritten on each
+   publish.
 
 Working with an AI coding agent? [AGENTS.md](AGENTS.md) and [AGENTS/](AGENTS)
 hold the working notes; `CLAUDE.md` points at them.

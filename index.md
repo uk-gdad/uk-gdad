@@ -270,11 +270,45 @@ Prerendering crawls every internal link, so a broken link fails the build. That
 is deliberate: with 1,017 pages, the build is the only link checker that will
 ever keep up.
 
-### Deploy it
+### Publish it
 
-GitHub Actions builds and deploys on push to `main`
-(`.github/workflows/deploy.yml`). In the repository settings: **Pages → Build
-and deployment → Source → GitHub Actions**.
+The site lives here as `uk-gdad.github.io/` and is published to a repository of
+its own, <https://github.com/uk-gdad/uk-gdad.github.io>, where GitHub Actions
+builds it (`.github/workflows/deploy.yml`) and GitHub Pages serves it at
+<https://uk-gdad.github.io>.
+
+From the repository root, once the site changes are committed:
+
+```sh
+bin/publish --dry-run    # check, and report what would be pushed
+bin/publish              # check, then push
+```
+
+`bin/publish` runs `bin/check` first — the site vendors `content/` from the four
+role projects, and a stale copy would otherwise be published as the real thing —
+then hands the push to `git subtree`:
+
+```sh
+git subtree push --prefix=uk-gdad.github.io site main
+```
+
+`git subtree` splits the history of `uk-gdad.github.io/` into a synthetic branch
+whose commits are only that subdirectory's, with the site at the root, and
+pushes that. So the site repository is a genuine repository — it clones, builds
+and deploys on its own — with no trace of the other 820 files here.
+
+The `site` remote is set up once:
+
+```sh
+git remote add site git@github.com:uk-gdad/uk-gdad.github.io.git
+```
+
+**The site repository is a publishing target, not a place to work.** Never
+commit to it directly, and never accept a pull request there. A commit made on
+that side has no common ancestor with the next split, so the next `bin/publish`
+is rejected as a non-fast-forward, and the only cures are a force push that
+discards it or a rewrite of the subtree history. Everything — including the
+workflow file and the site's own `README.md` — is edited here and pushed out.
 
 For a custom domain, add `static/CNAME` and update the origin in
 `static/robots.txt` and `src/routes/sitemap.xml/+server.ts`.
@@ -374,6 +408,8 @@ management track of a split level. The four retired
 | `bin/check --quiet` | Failures only |
 | `bin/check --list` | The canonical role index, one slug per line |
 | `bin/cook draft.md` | Reformat raw AI output into the required markdown |
+| `bin/publish` | Check, then push `uk-gdad.github.io/` to the site repository |
+| `bin/publish --dry-run` | Check, and report what would be pushed |
 | `uk-gdad.github.io/bin/sync` | Refresh the website's vendored inputs |
 | `cd uk-gdad.github.io && pnpm dev` | Run the site locally |
 | `cd uk-gdad.github.io && pnpm build` | Build the site |

@@ -12,6 +12,12 @@ Actions to GitHub Pages.
 Specification: [spec/index.md](spec/index.md) · Working notes:
 [AGENTS.md](AGENTS.md)
 
+> **This repository is published, not developed.** It is a `git subtree` of
+> `uk-gdad.github.io/` in <https://github.com/uk-gdad/uk-gdad>, pushed from
+> there by `bin/publish`. Commits and pull requests made here are lost on the
+> next publish, and a commit here blocks it. Open issues and pull requests
+> against [uk-gdad/uk-gdad](https://github.com/uk-gdad/uk-gdad) instead.
+
 ## Layout
 
 ```

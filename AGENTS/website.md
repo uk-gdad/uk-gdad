@@ -21,6 +21,8 @@ pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```
 
+From the repository root, `bin/publish` checks and then publishes.
+
 ## Vendored, never edited
 
 - `content/` — a byte-for-byte copy of the four `roles/` trees
@@ -28,6 +30,18 @@ pnpm preview    # production-mode preview
 - `static/tools/skills-self-assessment.html` — the self-assessment tool
 
 Edit the source, run `./bin/sync`, then `bin/check` from the repository root.
+
+## Publishing
+
+The site is published to <https://github.com/uk-gdad/uk-gdad.github.io> by
+`bin/publish` at the repository root, which runs `bin/check` and then
+`git subtree push --prefix=uk-gdad.github.io site main`. GitHub Actions builds
+the pushed repository and GitHub Pages serves it.
+
+That repository is a publishing target, not a place to work. A commit made there
+directly has no common ancestor with the next subtree split, so the next publish
+is rejected. Edit everything here — the workflow file and the site's `README.md`
+included. See index.md § Tutorial: publish the website.
 
 ## Where the logic lives
 

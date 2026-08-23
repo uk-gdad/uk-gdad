@@ -1,0 +1,71 @@
+#!/bin/sh
+# Publish the website by pushing uk-gdad.github.io/ to its own public
+# repository, where GitHub Actions builds it and GitHub Pages serves it.
+#
+#   bin/publish              # check, then push to the site repository
+#   bin/publish --dry-run    # check and report what would be pushed
+#
+# The site project is a subdirectory here and a repository of its own at
+# <https://github.com/uk-gdad/uk-gdad.github.io>. `git subtree` splits the
+# history of that subdirectory into a synthetic branch and pushes it, so the
+# site repository carries only the site's commits, with the site at its root.
+#
+# The site repository is a publishing target, not a place to work. Never commit
+# to it directly: the next subtree push has no common ancestor with such a
+# commit, and is rejected. Everything is edited here.
+#
+# See index.md § Tutorial: publish the website.
+set -eu
+
+root="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
+prefix="uk-gdad.github.io"
+remote="${UK_GDAD_SITE_REMOTE:-site}"
+branch="main"
+
+cd "$root"
+
+dry_run=""
+case "${1:-}" in
+    "")         ;;
+    --dry-run)  dry_run=1 ;;
+    *)          echo "publish: unknown argument: $1" >&2
+                echo "publish: usage: bin/publish [--dry-run]" >&2
+                exit 2 ;;
+esac
+
+# The subtree split reads committed history, so anything uncommitted, including
+# a stale bin/sync run, would be published as it was at the last commit.
+if [ -n "$(git status --porcelain "$prefix")" ]; then
+    echo "publish: $prefix has uncommitted changes; commit them first" >&2
+    git status --short "$prefix" >&2
+    exit 1
+fi
+
+if ! git remote get-url "$remote" >/dev/null 2>&1; then
+    echo "publish: no git remote named '$remote'" >&2
+    echo "publish: git remote add $remote git@github.com:uk-gdad/uk-gdad.github.io.git" >&2
+    exit 1
+fi
+
+# The site vendors content/ from the four role projects. bin/check reports a
+# stale copy, which would otherwise be published as the real thing.
+echo "publish: checking the repository"
+bin/check --quiet
+
+if [ -n "$dry_run" ]; then
+    echo "publish: would push $prefix/ to $(git remote get-url "$remote") $branch"
+    git fetch --quiet "$remote" "$branch" 2>/dev/null || true
+    if git rev-parse --quiet --verify "$remote/$branch" >/dev/null 2>&1; then
+        echo "publish: remote $branch is at $(git rev-parse --short "$remote/$branch")"
+    else
+        echo "publish: remote $branch does not exist yet; this would be the first push"
+    fi
+    exit 0
+fi
+
+echo "publish: pushing $prefix/ to $remote $branch"
+git subtree push --prefix="$prefix" "$remote" "$branch"
+
+echo "publish: pushed. GitHub Actions builds and deploys:"
+echo "publish:   https://github.com/uk-gdad/uk-gdad.github.io/actions"
+echo "publish:   https://uk-gdad.github.io"
