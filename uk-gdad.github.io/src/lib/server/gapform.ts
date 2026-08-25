@@ -92,11 +92,15 @@ export function createFormWriter(): FormWriter {
       if (ANSWER.test(text)) {
         const key = keyFor(question === null ? `Answer ${(group += 1)}` : `Q${question}`);
         const name = question === null ? `answer-${group}` : `q${question}-answer`;
+        // The visible label reads "Your answer:" on every one of them, so the
+        // field takes its name from the question as well. Without that, moving
+        // from field to field announces the same three words sixty times over.
+        const named = question === null ? `${name}-label` : `q${question}-prompt ${name}-label`;
         return (
           `<div class="form-field">` +
-          `<label class="form-label" for="${name}">Your answer:</label>` +
+          `<label class="form-label" id="${name}-label" for="${name}">Your answer:</label>` +
           `<textarea class="form-textarea" id="${name}" name="${name}" rows="6"` +
-          ` data-key="${escapeAttribute(key)}"></textarea>` +
+          ` aria-labelledby="${named}" data-key="${escapeAttribute(key)}"></textarea>` +
           `</div>\n`
         );
       }

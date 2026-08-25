@@ -95,6 +95,10 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
   `Rating: User focus` — which is its column heading in an export and its key in
   the JSON. Where one question carries both a tick list and a free-text
   follow-up, the second field takes a letter: `Q27`, then `Q27b`.
+- **Every control names itself.** A tick list is a `fieldset` labelled by its
+  question; a rating is a `fieldset` with a legend naming its skill; a textarea
+  is labelled by its question *and* by its own "Your answer:" label, because
+  otherwise sixty fields on a page would all announce the same three words.
 - **Answers on a skills gap form** are saved to `localStorage` by
   `static/assets/gapform.js`, under the page's own path, and restored on the
   next visit. The toolbar it reveals exports them as TSV (a row of headings, a
