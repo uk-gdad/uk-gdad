@@ -42,6 +42,7 @@ DERIVED = [
     "uk-gdad-pcf-upskilling-resources",
     "uk-gdad-pcf-continuing-professional-development-checklists",
     "uk-gdad-pcf-assessments",
+    "uk-gdad-pcf-roles-skills-gap-forms",
 ]
 
 # spec/index.md § Document contracts — required headings per project.
@@ -74,12 +75,27 @@ REQUIRED_SECTIONS = {
         "Workplace job-specific situational judgement assessment",
         "Conclusion",
     ],
+    "uk-gdad-pcf-roles-skills-gap-forms": [
+        "Introduction",
+        "Advisory",
+        "How to fill in this form",
+        "Rating scale",
+        "About this role level",
+        "Job tasks",
+        "Job skills",
+        "Job performance expectations",
+        "Legal compliance",
+        "Human resources best practices",
+        "Your development priorities",
+        "Next steps",
+    ],
 }
 
 # spec/index.md § Document contracts — required title shape per project.
 REQUIRED_TITLE_SUFFIX = {
     "uk-gdad-pcf-upskilling-resources": "- upskill resources",
     "uk-gdad-pcf-assessments": "- Psychometric Assessment Resources",
+    "uk-gdad-pcf-roles-skills-gap-forms": "- skills gap form",
 }
 REQUIRED_TITLE_EXACT = {
     "uk-gdad-pcf-continuing-professional-development-checklists": (
@@ -96,6 +112,7 @@ SITE_CONTENT = {
         "uk-gdad-pcf-continuing-professional-development-checklists"
     ),
     "assessments": "uk-gdad-pcf-assessments",
+    "roles-skills-gap-forms": "uk-gdad-pcf-roles-skills-gap-forms",
 }
 
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
@@ -217,6 +234,49 @@ def check_documents(canonical: list[str]) -> None:
                     fail(f"{project}: {slug}.md is missing section '## {section}'")
 
 
+def check_skill_blocks(canonical: list[str]) -> None:
+    """§ Document contracts — skills gap forms carry one block per skill the
+    summary names, in the summary's order, with the name exactly as written.
+
+    A summary may name one skill under several headings; consumers merge those
+    into a single block, so the expected list is deduplicated but order is kept.
+    """
+    project = "uk-gdad-pcf-roles-skills-gap-forms"
+    if project not in DERIVED:
+        return
+
+    for slug in canonical:
+        summary = ROOT / CANONICAL / "roles" / f"{slug}.md"
+        form = ROOT / project / "roles" / f"{slug}.md"
+        if not form.is_file():
+            continue  # already reported by check_mirrors
+
+        expected: list[str] = []
+        for line in summary.read_text(encoding="utf-8").splitlines():
+            if line.startswith("Skill:"):
+                name = line.split(":", 1)[1].strip()
+                if name not in expected:
+                    expected.append(name)
+
+        found = [
+            line[len("### Skill: "):].strip()
+            for line in form.read_text(encoding="utf-8").splitlines()
+            if line.startswith("### Skill: ")
+        ]
+
+        if found == expected:
+            continue
+
+        missing = [name for name in expected if name not in found]
+        extra = [name for name in found if name not in expected]
+        for name in missing:
+            fail(f"{project}: {slug}.md has no block for skill '{name}'")
+        for name in extra:
+            fail(f"{project}: {slug}.md has a block for '{name}', not in the summary")
+        if not missing and not extra:
+            fail(f"{project}: {slug}.md skill blocks are not in the summary's order")
+
+
 def check_website(canonical: list[str]) -> None:
     """§ Website — vendored content matches its sources, byte for byte."""
     site = ROOT / SITE
@@ -274,6 +334,7 @@ def main() -> int:
     check_mirrors(canonical)
     check_summaries(canonical)
     check_documents(canonical)
+    check_skill_blocks(canonical)
     check_website(canonical)
 
     if not quiet:

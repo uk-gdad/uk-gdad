@@ -60,5 +60,5 @@ no level number, so they sit directly under the profession directory.
 - **CPD** — Continuing Professional Development.
 - **Slug** — the path identity of a role level. See `AGENTS/repository.md`.
 - **Canonical** — of `uk-gdad-pcf-role-summaries`: it defines what exists.
-- **Derived** — of the other three role projects: they follow the canonical index.
+- **Derived** — of the other four role projects: they follow the canonical index.
 - **Vendored** — of the website's inputs: copied in, never edited in place.

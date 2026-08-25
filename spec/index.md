@@ -33,9 +33,9 @@ This repository does three things with that framework:
 
 1. **Restates** it as one plain-text file per role level, so that people and
    software can read it without scraping a website or parsing a spreadsheet.
-2. **Extends** it with three further documents per role level: upskilling
-   resources, a continuing professional development checklist, and a practice
-   assessment.
+2. **Extends** it with four further documents per role level: upskilling
+   resources, a continuing professional development checklist, a practice
+   assessment, and a skills gap form for an employee to fill in.
 3. **Publishes** all of it as a static website.
 
 Non-goals: this repository is not the framework, does not set pay or grading,
@@ -90,6 +90,7 @@ exactly; a prefix match conflates them.
 | [`uk-gdad-pcf-upskilling-resources`](../uk-gdad-pcf-upskilling-resources/spec/index.md) | Courses, posts, research, videos, books | 205 |
 | [`uk-gdad-pcf-continuing-professional-development-checklists`](../uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) | CPD checklists | 205 |
 | [`uk-gdad-pcf-assessments`](../uk-gdad-pcf-assessments/spec/index.md) | Practice psychometric assessments | 205 |
+| [`uk-gdad-pcf-roles-skills-gap-forms`](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md) | Skills gap forms, sent by HR and filled in by an employee | 205 |
 | [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md) | A standalone self-rating tool | 1 |
 | [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md) | The published website | — |
 
@@ -108,7 +109,7 @@ Every project has the same shape:
 ## Role index
 
 `uk-gdad-pcf-role-summaries/roles/` **is** the role index. It defines which role
-levels exist. The other three role projects mirror it exactly: same paths, same
+levels exist. The other four role projects mirror it exactly: same paths, same
 file names, 205 files each. A file that exists in one and not the others is a
 defect, not a variation.
 
@@ -141,9 +142,9 @@ of a role level everywhere in this repository:
 software-development/software-developer/4-senior-developer
 ```
 
-The same slug addresses the same role level in all four projects, and it is the
+The same slug addresses the same role level in all five projects, and it is the
 URL path on the website. Never renumber or rename a file without changing it in
-all four projects and re-running `bin/check`.
+all five projects and re-running `bin/check`.
 
 ## Document contracts
 
@@ -186,6 +187,7 @@ Extra sections are allowed; missing ones are a defect.
 | Upskilling | `# <Level> - upskill resources` | Coursera courses · Udemy courses · Skillsoft courses · edX courses · MIT OpenCourseWare courses · Blog posts · Research articles · Videos · Books on Amazon · Professional development tips |
 | CPD | `# UK GDAD PCF Continuing Professional Development Checklist` | Types · Phases · Events · Teamwork · UK GDAD PCF Role Skill Specifics |
 | Assessments | `# <Level> - Psychometric Assessment Resources` | Introduction · Advisory · Workplace job-specific cognitive assessment · Workplace job-specific numeric reasoning assessment · Workplace job-specific verbal reasoning assessment · Workplace job-specific situational judgement assessment · Conclusion |
+| Skills gap forms | `# <Level> - skills gap form` | Introduction · Advisory · How to fill in this form · Rating scale · About this role level · Job tasks · Job skills · Job performance expectations · Legal compliance · Human resources best practices · Your development priorities · Next steps |
 
 Only the `- Psychometric Assessment Resources` suffix is enforced on assessment
 titles. The part before it names the level in title case, and where the role and
@@ -244,7 +246,8 @@ derived document:
 ```
 role summary ──┬──> upskilling resources
                ├──> CPD checklist
-               └──> assessment
+               ├──> assessment
+               └──> skills gap form
 ```
 
 The steps, for one role level:
@@ -301,11 +304,13 @@ bin/check --list    # the canonical role index, one slug per line
 Run it before every commit that touches content. It checks:
 
 1. The canonical index parses: path shape, profession names, level numbering.
-2. The three derived projects mirror the canonical index exactly.
+2. The four derived projects mirror the canonical index exactly.
 3. Every summary has a role line, one level line and at least one skill.
 4. Every derived document has its required title and required sections.
-5. The website's vendored content matches its sources byte for byte.
-6. Every Lily component named in the manifest is vendored.
+5. Every skills gap form carries one block per skill its summary names, in the
+   summary's order, with the skill name exactly as written.
+6. The website's vendored content matches its sources byte for byte.
+7. Every Lily component named in the manifest is vendored.
 
 Adding a rule to this specification means adding it to `bin/check`, or marking
 it **advisory** because it needs human judgement.
@@ -341,3 +346,11 @@ this repository does not hold.
    per assessment section. Actual lengths vary widely. Not enforced.
 3. **Link rot.** Upskilling documents name several hundred external URLs. No
    automated link check runs. Advisory only.
+4. **A run-on bullet in one summary.** In
+   `data/digital-evaluator/5-head-of-digital-evaluation`, the second bullet of
+   *Evaluation delivery* runs two expectations together with no separator:
+   "assure the evaluation work of digital evaluator teams define best practice
+   and methodologies for evaluation and ensure they are shared across teams".
+   The summary quotes the framework as published, so it is left as it is. The
+   skills gap form for that level separates the two and says why, so a reader
+   comparing the two counts does not think one of them is wrong.

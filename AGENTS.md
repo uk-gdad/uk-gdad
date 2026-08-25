@@ -1,7 +1,7 @@
 # UK GDAD PCF
 
 United Kingdom (UK) Government Digital and Data (GDAD) Profession Capability
-Framework (PCF): 8 professions, 52 roles, 205 role levels, 4 documents each.
+Framework (PCF): 8 professions, 52 roles, 205 role levels, 5 documents each.
 
 The living specification is the [spec/](spec/index.md) directory — entry point
 `spec/index.md`, one `spec/index.md` per project. It is the single source of
@@ -15,6 +15,7 @@ truth. The reference docs below are the working knowledge that goes with it.
 @AGENTS/upskilling-resources.md
 @AGENTS/continuing-professional-development.md
 @AGENTS/assessments.md
+@AGENTS/roles-skills-gap-forms.md
 @AGENTS/website.md
 @AGENTS/validation.md
 

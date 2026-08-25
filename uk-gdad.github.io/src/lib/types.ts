@@ -5,7 +5,7 @@
 // page. Keep them small — every field here is shipped to the browser.
 
 /** One of the four kinds of document the site publishes for a role level. */
-export type ResourceKind = 'summary' | 'upskilling' | 'development' | 'assessment';
+export type ResourceKind = 'summary' | 'upskilling' | 'development' | 'assessment' | 'gapform';
 
 /** A role level: one markdown file per document kind, e.g. "Senior developer". */
 export type Level = {
@@ -105,6 +105,13 @@ export const RESOURCES: {
     short: 'Assessment',
     base: '/assessments',
     description: 'Cognitive, numeric, verbal and situational judgement practice for the role.'
+  },
+  {
+    kind: 'gapform',
+    title: 'Skills gap form',
+    short: 'Gap form',
+    base: '/skills-gap-forms',
+    description: 'A form to fill in about the skills this level needs, and where your gaps are.'
   }
 ];
 

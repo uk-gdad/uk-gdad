@@ -45,6 +45,7 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | `content/upskilling-resources/` | `uk-gdad-pcf-upskilling-resources/roles/` |
 | `content/continuing-professional-development-checklists/` | `uk-gdad-pcf-continuing-professional-development-checklists/roles/` |
 | `content/assessments/` | `uk-gdad-pcf-assessments/roles/` |
+| `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
 | `src/lib/lily/` | Lily Design System, per `bin/lily-components.txt` |
 | `static/tools/skills-self-assessment.html` | `uk-gdad-pcf-skills-self-assessment/index.html` |
 
@@ -64,6 +65,7 @@ Trailing slashes always. The slug from the root specification is the path.
 | `/upskilling/<slug>/` | Upskilling resources | 205 |
 | `/continuing-professional-development/<slug>/` | CPD checklist | 205 |
 | `/assessments/<slug>/` | Practice assessment | 205 |
+| `/skills-gap-forms/<slug>/` | Skills gap form | 205 |
 | `/skills/` | All skills, searchable | 1 |
 | `/skills/<skill>/` | One skill and every level that expects it | 183 |
 | `/skills-self-assessment/` | The self-assessment tool | 1 |
@@ -90,7 +92,7 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
 pnpm install
 pnpm dev        # http://localhost:5173
 pnpm check      # svelte-check, must be clean
-pnpm build      # build/, 1,017 pages
+pnpm build      # build/, 1,222 pages
 pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```

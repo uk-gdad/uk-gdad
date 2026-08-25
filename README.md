@@ -5,9 +5,9 @@ Profession Capability Framework (PCF).
 
 The framework at <https://ddat-capability-framework.service.gov.uk/> describes
 the digital and data roles used across UK government. This repository restates
-it as plain files you can read, grep and link to — and adds three more documents
-for every role level: upskilling resources, a development checklist, and
-practice assessment material.
+it as plain files you can read, grep and link to — and adds four more documents
+for every role level: upskilling resources, a development checklist, practice
+assessment material, and a skills gap form to fill in.
 
 **Website:** <https://uk-gdad.github.io> · **Manual:** [index.md](index.md) ·
 **Specification:** [spec/index.md](spec/index.md)
@@ -25,10 +25,12 @@ practice assessment material.
 | [Upskilling resources](uk-gdad-pcf-upskilling-resources) | Courses, blog posts, research, videos, books | 205 |
 | [CPD checklists](uk-gdad-pcf-continuing-professional-development-checklists) | Continuing professional development, per level | 205 |
 | [Assessments](uk-gdad-pcf-assessments) | Practice cognitive, numeric, verbal and situational judgement material | 205 |
+| [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms) | A form HR sends and an employee fills in, one per level | 205 |
 | [Skills self-assessment](uk-gdad-pcf-skills-self-assessment) | A single-page tool for rating yourself | 1 |
 | [Website](uk-gdad.github.io) | The published static site | — |
 
-Covering **8 professions**, **52 roles**, **205 role levels** and **183 skills**.
+Covering **8 professions**, **52 roles**, **205 role levels** and **183 skills** —
+**1,025 documents** in all, published as **1,222 web pages**.
 
 ## Quick start
 
@@ -45,11 +47,13 @@ cd uk-gdad
 # What role levels exist?
 bin/check --list
 
-# One role level, four ways
-cat uk-gdad-pcf-role-summaries/roles/software-development/software-developer/4-senior-developer.md
-cat uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/4-senior-developer.md
-cat uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/4-senior-developer.md
-cat uk-gdad-pcf-assessments/roles/software-development/software-developer/4-senior-developer.md
+# One role level, five ways
+SLUG=software-development/software-developer/4-senior-developer
+cat uk-gdad-pcf-role-summaries/roles/$SLUG.md
+cat uk-gdad-pcf-upskilling-resources/roles/$SLUG.md
+cat uk-gdad-pcf-continuing-professional-development-checklists/roles/$SLUG.md
+cat uk-gdad-pcf-assessments/roles/$SLUG.md
+cat uk-gdad-pcf-roles-skills-gap-forms/roles/$SLUG.md
 
 # Which levels need a given skill?
 grep -rl "^Skill: User focus" uk-gdad-pcf-role-summaries/roles | wc -l
@@ -72,7 +76,7 @@ adding a role level, and publishing the site.
 
 ## How it fits together
 
-One **slug** identifies a role level everywhere — in all four projects, and as
+One **slug** identifies a role level everywhere — in all five projects, and as
 the URL on the website:
 
 ```
@@ -80,7 +84,7 @@ software-development/software-developer/4-senior-developer
 ```
 
 `uk-gdad-pcf-role-summaries/roles/` is the role index: it defines which role
-levels exist, and the other three projects mirror it exactly, 205 files each.
+levels exist, and the other four projects mirror it exactly, 205 files each.
 
 Derived documents are always written from the canonical summary, never from
 each other:
@@ -88,8 +92,13 @@ each other:
 ```
 role summary ──┬──> upskilling resources
                ├──> CPD checklist
-               └──> assessment
+               ├──> assessment
+               └──> skills gap form
 ```
+
+Never from each other: a derived document copied from a neighbouring one is how
+two levels end up saying the same thing, which is exactly what these documents
+exist to distinguish.
 
 ## Validate
 
@@ -103,8 +112,8 @@ bin/check --list    # the canonical role index
 ```
 
 Run it before every commit that touches content. It checks the role index, the
-mirroring, the document contracts, and that the website's vendored copies are
-not stale.
+mirroring, the document contracts, that every skills gap form covers exactly the
+skills its summary names, and that the website's vendored copies are not stale.
 
 ## Contributing
 
@@ -130,7 +139,7 @@ Capability Framework, © Crown copyright, available under the
 [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 Attribution is required wherever they are republished.
 
-Everything written for this repository — upskilling, CPD, assessments, the
-tooling and the website — is offered under the same terms.
+Everything written for this repository — upskilling, CPD, assessments, skills
+gap forms, the tooling and the website — is offered under the same terms.
 
 Contact: Joel Henderson <joel@joelparkerhenderson.com>
