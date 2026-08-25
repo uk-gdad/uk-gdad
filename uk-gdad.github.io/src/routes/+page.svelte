@@ -45,8 +45,8 @@
 <section class="section">
   <SectionHeading
     eyebrow="For every role level"
-    heading="Four documents per role level"
-    subtitle="Start from a role summary, then follow it through to learning, development and assessment."
+    heading="Five documents per role level"
+    subtitle="Start from a role summary, then follow it through to learning, development, assessment and a skills gap form."
   />
   <ul class="card-grid">
     {#each RESOURCES as resource (resource.kind)}
@@ -58,7 +58,7 @@
       </li>
     {/each}
   </ul>
-  <p><a href="/roles/">Find a role level</a> to open all four.</p>
+  <p><a href="/roles/">Find a role level</a> to open all five.</p>
 </section>
 
 <section class="section">

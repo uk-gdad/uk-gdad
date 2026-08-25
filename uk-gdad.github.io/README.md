@@ -4,7 +4,7 @@ The public website for the [UK GDAD PCF projects](https://github.com/uk-gdad/uk-
 — the United Kingdom Government Digital and Data (GDAD) Profession Capability
 Framework (PCF) — at <https://uk-gdad.github.io>.
 
-A SvelteKit project using `@sveltejs/adapter-static` that prerenders **1,017
+A SvelteKit project using `@sveltejs/adapter-static` that prerenders **1,222
 pages** to plain HTML, built with the
 [Lily Design System™](https://lilydesignsystem.com/) and deployed by GitHub
 Actions to GitHub Pages.
@@ -30,7 +30,8 @@ uk-gdad.github.io/
 │   ├── role-summaries/
 │   ├── upskilling-resources/
 │   ├── continuing-professional-development-checklists/
-│   └── assessments/
+│   ├── assessments/
+│   └── roles-skills-gap-forms/
 ├── src/
 │   ├── app.html              Document shell
 │   ├── lib/
@@ -62,6 +63,7 @@ uk-gdad.github.io/
 | `/upskilling/<slug>/` | Upskilling resources for that level | 205 |
 | `/continuing-professional-development/<slug>/` | Development checklist | 205 |
 | `/assessments/<slug>/` | Practice assessment | 205 |
+| `/skills-gap-forms/<slug>/` | Skills gap form to read and fill in | 205 |
 | `/skills/` | Every skill the framework names | 1 |
 | `/skills/<skill>/` | One skill, and every level that expects it | 183 |
 | `/skills-self-assessment/` | The self-assessment tool | 1 |
@@ -103,8 +105,13 @@ copy is a failing check.
 
 - **Role summaries** are plain text, not markdown. `src/lib/server/content.ts`
   parses them into role, level, duties and skills, then renders structured HTML.
-- **The other three** are markdown, rendered at build time with `marked`.
-  Headings get stable ids and feed an on-page contents list.
+- **The other four** — upskilling, development, assessments and skills gap
+  forms — are markdown, rendered at build time with `marked`. Headings get
+  stable ids and feed an on-page contents list.
+- **Gap-form paths end in `/roles`**, exactly as summary paths do, so the link
+  rewriter in `content.ts` must test for `skills-gap` **before** it tests for a
+  summary. Reordering those tests silently sends every gap-form link to the
+  summary instead.
 - **Markdown links to `.md` files** are rewritten to site URLs where they
   resolve, and rendered as plain text where they do not, so a placeholder never
   becomes a broken link.

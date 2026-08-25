@@ -50,6 +50,7 @@ sync_content uk-gdad-pcf-role-summaries role-summaries
 sync_content uk-gdad-pcf-upskilling-resources upskilling-resources
 sync_content uk-gdad-pcf-continuing-professional-development-checklists continuing-professional-development-checklists
 sync_content uk-gdad-pcf-assessments assessments
+sync_content uk-gdad-pcf-roles-skills-gap-forms roles-skills-gap-forms
 
 # 3. Skills self-assessment tool.
 

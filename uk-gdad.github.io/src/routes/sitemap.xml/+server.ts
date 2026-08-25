@@ -17,7 +17,8 @@ export function GET() {
     ...getLevelRows().map((row) => `/roles/${row.slug}/`),
     ...getSlugsFor('upskilling').map((slug) => `/upskilling/${slug}/`),
     ...getSlugsFor('development').map((slug) => `/continuing-professional-development/${slug}/`),
-    ...getSlugsFor('assessment').map((slug) => `/assessments/${slug}/`)
+    ...getSlugsFor('assessment').map((slug) => `/assessments/${slug}/`),
+    ...getSlugsFor('gapform').map((slug) => `/skills-gap-forms/${slug}/`)
   ];
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>

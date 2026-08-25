@@ -25,7 +25,8 @@ const DIRECTORIES: Record<ResourceKind, string> = {
   summary: 'role-summaries',
   upskilling: 'upskilling-resources',
   development: 'continuing-professional-development-checklists',
-  assessment: 'assessments'
+  assessment: 'assessments',
+  gapform: 'roles-skills-gap-forms'
 };
 
 /** Every markdown file under a directory, as slugs relative to it. */
@@ -198,7 +199,8 @@ export function getProfessions(): Profession[] {
         summary: true,
         upskilling: exists('upskilling', slug),
         development: exists('development', slug),
-        assessment: exists('assessment', slug)
+        assessment: exists('assessment', slug),
+        gapform: exists('gapform', slug)
       }
     };
     role.levels.push(level);
@@ -328,15 +330,19 @@ function resolveLink(href: string, from: { kind: ResourceKind; slug: string }): 
     if (!known.has(slug)) continue;
 
     const prefix = segments.slice(0, index).join('/');
-    const kind: ResourceKind = /upskill/i.test(prefix)
-      ? 'upskilling'
-      : /assessment/i.test(prefix)
-        ? 'assessment'
-        : /continuing|professional|cpd|checklist/i.test(prefix)
-          ? 'development'
-          : /summar|^roles?$|\/roles?$/i.test(prefix)
-            ? 'summary'
-            : from.kind;
+    // Gap-form paths end in `/roles` like the summaries do, so they are tested
+    // first — otherwise the summary pattern would claim them.
+    const kind: ResourceKind = /skills-gap|gap-form/i.test(prefix)
+      ? 'gapform'
+      : /upskill/i.test(prefix)
+        ? 'upskilling'
+        : /assessment/i.test(prefix)
+          ? 'assessment'
+          : /continuing|professional|cpd|checklist/i.test(prefix)
+            ? 'development'
+            : /summar|^roles?$|\/roles?$/i.test(prefix)
+              ? 'summary'
+              : from.kind;
 
     if (kind !== 'summary' && !statSafe(kind, slug)) return null;
     const base = RESOURCE_BASES[kind];
@@ -349,7 +355,8 @@ const RESOURCE_BASES: Record<ResourceKind, string> = {
   summary: '/roles',
   upskilling: '/upskilling',
   development: '/continuing-professional-development',
-  assessment: '/assessments'
+  assessment: '/assessments',
+  gapform: '/skills-gap-forms'
 };
 
 function statSafe(kind: ResourceKind, slug: string): boolean {
