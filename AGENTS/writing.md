@@ -49,8 +49,10 @@ bin/serial-comma --held    # the lists that need a person, not a script
 ```
 
 It cannot always tell a list of three from a pair hung off a sentence. When it
-proposes a comma that is wrong, read the line, and add it to
-`bin/serial-comma-declined.md` so the script stops proposing it.
+proposes a comma that is wrong, or `--held` hands you a list it will not judge,
+read the line and add it to `bin/serial-comma-declined.md`. That file is the
+record of every such decision, so `--held` printing nothing means nobody has
+work waiting rather than that nobody has looked.
 
 It governs prose written here and stops at anything quoted. Leave the comma
 as published in:

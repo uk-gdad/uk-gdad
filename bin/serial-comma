@@ -30,9 +30,10 @@ Exit status is 0 when there is nothing to change, 1 when there is. `--write`
 and `--held` always exit 0.
 
 `--held` prints the lists where an item either side of the pivot comma is long
-enough that only a person can tell a list from a clause. It is a reading list,
-not a work list: the corpus was worked through once by hand, and what it prints
-today was judged then and left alone deliberately.
+enough that the rules will not judge them at all. It is a work list: everything
+on it wants a person to read it and either add the comma or record the line in
+`bin/serial-comma-declined.md`. The corpus was worked through once already, so
+on a clean tree it prints nothing.
 """
 
 from __future__ import annotations
