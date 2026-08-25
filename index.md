@@ -6,7 +6,7 @@ Everything in this repository, how to use it, and how to add to it.
 - [Tutorial: find your role and plan a quarter](#tutorial-find-your-role-and-plan-a-quarter)
 - [Tutorial: add a role level](#tutorial-add-a-role-level)
 - [Tutorial: publish the website](#tutorial-publish-the-website)
-- [Reference: the four document types](#reference-the-four-document-types)
+- [Reference: the five document types](#reference-the-five-document-types)
 - [Reference: slugs and paths](#reference-slugs-and-paths)
 - [Reference: commands](#reference-commands)
 - [Recipes](#recipes)
@@ -29,9 +29,10 @@ This repository takes that framework and does three things.
 read by a person with `cat` or by a program with a five-line parser — no
 scraping, no spreadsheet.
 
-**Extends it.** Three further documents per role level, because knowing what a
-level requires is only the first question. The next three are *how do I learn
-this*, *how do I keep developing*, and *what might I be assessed on*.
+**Extends it.** Four further documents per role level, because knowing what a
+level requires is only the first question. The next four are *how do I learn
+this*, *how do I keep developing*, *what might I be assessed on*, and *where am
+I against this today* — the last of these a form to read and fill in.
 
 **Publishes it.** A static website at <https://uk-gdad.github.io> where all of
 it is browsable, searchable and linkable.
@@ -44,8 +45,8 @@ The numbers:
 | Roles | 52 |
 | Role levels | 205 (201 in use, 4 retired) |
 | Distinct skills | 183 |
-| Documents | 820 |
-| Website pages | 1,017 |
+| Documents | 1,025 |
+| Website pages | 1,222 |
 
 ### The shape of it
 
@@ -58,7 +59,8 @@ uk-gdad/
 ├── uk-gdad-pcf-role-summaries/                 CANONICAL — defines what exists
 ├── uk-gdad-pcf-upskilling-resources/           ─┐
 ├── uk-gdad-pcf-continuing-professional-…/       ├─ derived, mirror the canonical
-├── uk-gdad-pcf-assessments/                    ─┘
+├── uk-gdad-pcf-assessments/                     │
+├── uk-gdad-pcf-roles-skills-gap-forms/         ─┘
 ├── uk-gdad-pcf-skills-self-assessment/         A single-page rating tool
 └── uk-gdad.github.io/                          The published site
 ```
@@ -183,7 +185,7 @@ ls uk-gdad-pcf-role-summaries/roles/data/data-engineer/
 1-data-engineer.md  2-senior-data-engineer.md  3-lead-data-engineer.md  4-head-of-data-engineering.md
 ```
 
-A new level between 2 and 3 means renumbering 3 and 4 — in all four projects.
+A new level between 2 and 3 means renumbering 3 and 4 — in all five projects.
 
 ### 2. Write the summary
 
@@ -206,9 +208,9 @@ Skill: Data modelling
 EOF
 ```
 
-### 3. Write the three derived documents
+### 3. Write the four derived documents
 
-Same slug, in each of the other three projects. Each has its own contract:
+Same slug, in each of the other four projects. Each has its own contract:
 
 - [Upskilling](uk-gdad-pcf-upskilling-resources/spec/index.md) — title
   `# Principal data engineer - upskill resources`, ten required sections.
@@ -216,6 +218,9 @@ Same slug, in each of the other three projects. Each has its own contract:
   the general sections from `spec/template.md`, plus a level-specific section.
 - [Assessments](uk-gdad-pcf-assessments/spec/index.md) — seven required
   sections including the advisory.
+- [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms/spec/index.md) — title
+  `# Principal data engineer - skills gap form`, twelve required sections, and
+  numbered questions running in one sequence through the document.
 
 Write each one from the summary, never from a neighbouring level's document.
 
@@ -262,12 +267,12 @@ pnpm dev                 # http://localhost:5173
 
 ```sh
 pnpm check               # svelte-check; must be clean
-pnpm build               # build/ — 1,017 prerendered pages
+pnpm build               # build/ — 1,222 prerendered pages
 pnpm preview             # serve the built site
 ```
 
 Prerendering crawls every internal link, so a broken link fails the build. That
-is deliberate: with 1,017 pages, the build is the only link checker that will
+is deliberate: with 1,222 pages, the build is the only link checker that will
 ever keep up.
 
 ### Publish it
@@ -322,7 +327,7 @@ itself; it is vendored from the Lily Design System by `bin/sync`.
 
 ---
 
-## Reference: the four document types
+## Reference: the five document types
 
 ### Role summary — what the level is
 
@@ -373,6 +378,41 @@ reasoning, verbal reasoning and situational judgement, then a conclusion.
 Practice material only. It is not validated, not normed, and not fit for making
 decisions about people — which is what the required `## Advisory` section says.
 
+### Skills gap form — where you are against it today
+
+Markdown, twelve sections: introduction, advisory, how to fill it in, the rating
+scale, about the level, then job tasks, job skills, job performance
+expectations, legal compliance, human resources best practices, development
+priorities, and next steps.
+
+Human resources sends it; an employee reads it and fills it in. Questions are
+numbered in one run through the whole document, so answers travel back on their
+own:
+
+```
+**Q17.** Which recurring problem originates with a supplier? What have you done
+about it?
+
+*Your answer:*
+```
+
+The core is `## Job skills`: one block per skill the summary names, in the
+summary's order, giving what the framework expects at this level, what that
+looks like in practice, and what changes at the next level — then a 0–4 rating
+scale and two to four questions.
+
+Three rules make one good, and all three are about honesty:
+
+- **Say what the framework actually says.** Where a level repeats the one below,
+  say so. Where it drops a skill, narrows, or sits below its own subordinate,
+  say that too. Never smooth an anomaly into a clean progression.
+- **Never guess about another level.** Every "identical at X" or "a step up from
+  X" is a claim about a different summary. Read it. `bin/check` cannot verify
+  these, and a wrong one is confidently wrong about someone's next step.
+- **Separate capability from access.** The most useful answer on these forms is
+  "I could do this and nobody has ever asked me to", so where a skill needs
+  authority, a team or a budget the reader may not have, say so in the block.
+
 ---
 
 ## Reference: slugs and paths
@@ -391,6 +431,7 @@ It is the identity of a role level everywhere:
 | Upskilling | `uk-gdad-pcf-upskilling-resources/roles/<slug>.md` |
 | CPD | `uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md` |
 | Assessment | `uk-gdad-pcf-assessments/roles/<slug>.md` |
+| Skills gap form | `uk-gdad-pcf-roles-skills-gap-forms/roles/<slug>.md` |
 | Website | `https://uk-gdad.github.io/roles/<slug>/` |
 
 Rules: kebab-case throughout; the profession is one of the eight; the number
@@ -475,6 +516,31 @@ comm -23 \
 ls uk-gdad-pcf-role-summaries/roles/software-development/software-developer/
 ```
 
+**How one skill changes across a role** — the check to run before writing any
+"identical at X" or "a step up from X" claim in a skills gap form:
+
+```sh
+ROLE=uk-gdad-pcf-role-summaries/roles/it-operations/infrastructure-engineer
+for f in "$ROLE"/*.md; do
+  echo "== $(basename "$f" .md)"
+  awk '/^Skill: Coding and scripting$/{f=1;next} /^Skill:/{f=0} f&&/^- /' "$f"
+done
+```
+
+Levels that print the same bullets are identical in the published text; that is
+worth saying in the form, and worth never guessing at. Note that a `-management`
+sibling is the same level on a different track, so it is not the next step.
+
+**Every question in a skills gap form**
+
+```sh
+grep -n '^\*\*Q[0-9]*\.' \
+  uk-gdad-pcf-roles-skills-gap-forms/roles/data/data-analyst/3-senior-data-analyst.md
+```
+
+They run in one sequence from `Q1` through the whole document, so an answer
+carries its own number and can travel back without the form.
+
 ---
 
 ## Questions
@@ -485,20 +551,28 @@ everything else is written here. For anything affecting pay, grading,
 recruitment or promotion, use the official framework and talk to your
 organisation.
 
-**How much of this is AI-generated?** The upskilling, CPD and assessment
-documents are AI-assisted with human review, and every one of them says so.
-Role summaries are adapted from the published framework.
+**How much of this is AI-generated?** The upskilling, CPD, assessment and
+skills gap form documents are AI-assisted with human review, and every one of
+them says so. Role summaries are adapted from the published framework.
 
 **Why plain text for the summaries and markdown for everything else?** Summaries
 are data — read far more often by programs than by people, and worth being able
-to parse with string prefixes alone. The other three are prose for people, where
+to parse with string prefixes alone. The other four are prose for people, where
 markdown earns its keep.
 
-**Why four files per role level instead of one?** Different lifecycles. A
+**Why five files per role level instead of one?** Different lifecycles. A
 summary changes when the framework changes. Upskilling links rot. CPD advice
 matures. Assessments are the longest documents by far — 3.5 million words across
 the corpus, against 96,000 for the summaries — and nobody reading a summary
-wants to scroll past them.
+wants to scroll past them. Skills gap forms are the only ones written to be
+*filled in* rather than read, which is why they carry a rating scale and
+numbered questions and nothing else does.
+
+**Can I fill a skills gap form in on the website?** No. Every page is
+prerendered static HTML — there is no server and nothing to submit to, and each
+form says so in `## How to fill in this form`. Print it, or copy the questions
+into whatever your organisation uses. The questions are numbered in one run so
+the answers make sense on their own.
 
 **Why does the website copy content in rather than reading the projects?** So it
 still builds when it is pushed to its own repository, where the sibling projects
@@ -512,5 +586,5 @@ contract your change has to meet, then run `bin/check`.
 **Something does not match the official framework.** The framework changes
 upstream. Update the summaries from a fresh download, then run
 `bin/check --list` and diff it against the previous output — that diff is the
-work list for the other three projects. Two known mismatches are recorded under
+work list for the other four projects. Known mismatches are recorded under
 [known drift](spec/index.md#known-drift).

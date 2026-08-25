@@ -16,7 +16,7 @@ cd uk-gdad.github.io
 pnpm install
 pnpm dev        # http://localhost:5173
 pnpm check      # svelte-check — must be clean
-pnpm build      # build/ — 1,017 pages
+pnpm build      # build/ — 1,222 pages
 pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```
@@ -25,7 +25,7 @@ From the repository root, `bin/publish` checks and then publishes.
 
 ## Vendored, never edited
 
-- `content/` — a byte-for-byte copy of the four `roles/` trees
+- `content/` — a byte-for-byte copy of the five `roles/` trees
 - `src/lib/lily/` — Lily components, per `bin/lily-components.txt`
 - `static/tools/skills-self-assessment.html` — the self-assessment tool
 
@@ -47,7 +47,7 @@ included. See index.md § Tutorial: publish the website.
 
 - `src/lib/server/content.ts` — reads `content/` at build time. Holds the
   summary parser, the catalog, the skill index, and the markdown renderer.
-- `src/lib/server/document.ts` — shared load for the three markdown routes.
+- `src/lib/server/document.ts` — shared load for the four markdown routes.
 - `src/lib/types.ts` — shapes shared with the browser. Everything here ships to
   the client, so keep it small.
 
