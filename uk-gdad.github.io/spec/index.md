@@ -104,7 +104,10 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
   next visit. The toolbar it reveals exports them as TSV (a row of headings, a
   row of answers, with tabs and newlines backslash-escaped) or as JSON, and
   clears both the form and the saved copy. Nothing is sent anywhere: there is no
-  server to send it to.
+  server to send it to. It flushes on `pagehide`, so the last words typed
+  before a tab closes are not lost, and its status line repeats the message
+  already in the markup when it saves, so the live region announces restoring,
+  exporting, clearing and failing — and stays silent while someone types.
 
 ## Build and deploy
 

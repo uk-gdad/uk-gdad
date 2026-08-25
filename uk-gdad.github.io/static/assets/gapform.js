@@ -22,6 +22,8 @@
 
   var STORE = 'uk-gdad-pcf:gapform:' + window.location.pathname;
   var SAVE_DELAY = 400;
+  // Word for word the message in the markup — see `DocumentPage.svelte`.
+  var SAVED = 'Your answers are saved in this browser as you type. Nothing is sent anywhere.';
 
   /** Every field on the page, in the order a reader meets them. */
   var fields = Array.prototype.map.call(keyed, function (element) {
@@ -72,7 +74,7 @@
   }
 
   function say(message) {
-    if (status) status.textContent = message;
+    if (status && status.textContent.trim() !== message) status.textContent = message;
   }
 
   // Saving ---------------------------------------------------------------
@@ -89,7 +91,12 @@
         STORE,
         JSON.stringify({ version: 1, saved: new Date().toISOString(), answers: answers })
       );
-      say('Saved in this browser at ' + new Date().toLocaleTimeString());
+      // The status line is a live region, so a screen reader reads any change
+      // aloud. Saving happens every few seconds while someone types, and a
+      // timestamp here would interrupt them constantly. This is word for word
+      // what the markup already says, so a routine save announces nothing;
+      // only restoring, exporting, clearing and failing have anything to say.
+      say(SAVED);
     } catch (error) {
       // Private browsing, a full store, or storage turned off altogether.
       if (!warned) {
@@ -238,6 +245,13 @@
 
   document.addEventListener('input', scheduleSave);
   document.addEventListener('change', scheduleSave);
+  // Typing and closing the tab inside the save delay would lose the last few
+  // words. `pagehide` covers closing, navigating away, and the mobile case of
+  // switching apps, which `beforeunload` does not.
+  window.addEventListener('pagehide', function () {
+    window.clearTimeout(pending);
+    save();
+  });
 
   restore();
   tools.hidden = false;
