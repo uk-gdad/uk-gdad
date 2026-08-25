@@ -30,12 +30,15 @@ people and organizational development staff, or legal compliance staff.
 
 ## How to fill in this form
 
-This page is a web page. You cannot type into it and there is no button to send
-it. Nothing you write goes anywhere near this website.
+You can fill this form in on screen. Type into the boxes, tick the boxes that
+apply, and pick a rating where one is asked for. Your answers are saved in
+this browser, on this device, so you can close the page and come back to them.
+Nothing is sent anywhere.
 
 So pick whichever suits you:
 
-- Print the page and write on it.
+- Fill it in here, then use Export TSV or Export as JSON at the top of the
+  page, or print it. Clear answers empties the form afterwards.
 - Copy the questions into a document or an email, and answer there.
 - Answer in whatever tool your organisation already uses.
 

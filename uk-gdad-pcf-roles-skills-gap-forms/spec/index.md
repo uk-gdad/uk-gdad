@@ -158,21 +158,33 @@ The en-US spelling of "organization's" is inherited from the same paragraph in
 the other projects and stays as it is, per
 [`AGENTS/writing.md`](../../AGENTS/writing.md).
 
-### The page cannot capture typing
+### The page can be filled in, but nothing is saved
 
-The website is prerendered static HTML with no server and no JavaScript on
-content pages. Nothing on the form can be typed into, submitted or saved, and
-the form must never pretend otherwise.
+The markdown carries no HTML. The website builds the controls from the three
+answer shapes below when it renders a form, in
+[`src/lib/server/gapform.ts`](../../uk-gdad.github.io/src/lib/server/gapform.ts):
+a free-text prompt becomes a labelled `<textarea>`, a rating becomes a radio
+group, and a choice becomes checkboxes where the question invites more than one
+answer and radios where it does not.
 
-So `## How to fill in this form` says how the answers actually travel: print the
-page and write on it, or copy the questions into a document or email, or paste
-them into whatever tool the organisation already uses. Every question carries a
-number so that an answer can travel back on its own, without the question
-attached.
+What has not changed is where the answers go, which is nowhere but the reader's
+own browser. The site is prerendered static HTML with no server. A single
+script, `static/assets/gapform.js`, saves the answers to that browser's
+`localStorage` under the page's own path, and exports them on request as TSV or
+as JSON. Nothing is submitted, and nothing reaches this site or any other.
 
-Never write "submit", "click", "save", "upload" or "the system will". Never
-write HTML form elements, fake text boxes, or rules of underscores that pretend
-to be one.
+So `## How to fill in this form` says all of it — that the form can be filled in
+on screen, that the answers are saved in that browser and on that device alone,
+how they leave (Export TSV, Export as JSON, print, or copy), and that Clear
+answers empties the form and deletes the saved copy, which matters on a shared
+computer. Every question carries a number so that an answer can travel back on
+its own, without the question attached.
+
+Never write "submit", "save", "upload" or "the system will", and prefer "tick"
+to "click" or "tap", because the form is printed as often as it is read on
+screen. Never write HTML form elements, fake text boxes, or rules of underscores
+into the markdown: the controls come from the renderer, and the markdown stays
+readable as text.
 
 ### Question and answer conventions
 
@@ -211,7 +223,12 @@ person say they do not know:
 - [ ] Not sure
 ```
 
-Task items are always unchecked. They are for the reader to tick.
+Task items are always unchecked. They are for the reader to tick, and the
+website renders them as working controls.
+
+The one exception is the worked example in `## Rating scale`, which is inside a
+blockquote and uses `- [x]` to show what a filled-in answer looks like. The
+website renders that one ticked and disabled, so an example stays an example.
 
 ### Standing questions
 

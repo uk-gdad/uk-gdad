@@ -18,6 +18,7 @@ import type {
   TocEntry
 } from '$lib/types';
 import { slugify } from '$lib/types';
+import { createFormWriter } from './gapform';
 
 const CONTENT = join(process.cwd(), 'content');
 
@@ -402,6 +403,11 @@ export function renderMarkdown(
     return seen ? `${base}-${seen}` : base;
   };
 
+  // Skills gap forms are meant to be filled in, so their questions, answer
+  // prompts, and tick lists become real form controls. Every other document is
+  // prose and renders as prose.
+  const form = from.kind === 'gapform' ? createFormWriter() : null;
+
   const renderer = new marked.Renderer();
   renderer.heading = function ({ tokens: headingTokens, depth }) {
     const text = this.parser.parseInline(headingTokens);
@@ -410,7 +416,18 @@ export function renderMarkdown(
     const plain = decodeEntities(text.replace(/<[^>]*>/g, ''));
     const id = identify(plain);
     if (depth === 2 || depth === 3) toc.push({ id, text: plain, depth });
+    form?.heading(id, plain, depth);
     return `<h${depth} id="${id}">${text}</h${depth}>\n`;
+  };
+
+  const renderList = renderer.list;
+  renderer.paragraph = function ({ tokens: paragraphTokens, text }) {
+    const html = this.parser.parseInline(paragraphTokens);
+    return form?.paragraph(text, html) ?? `<p>${html}</p>\n`;
+  };
+  renderer.list = function (token) {
+    const fields = form?.list(token, (item) => this.parser.parseInline(item.tokens));
+    return fields ?? renderList.call(this, token);
   };
 
   renderer.link = function ({ href, title, tokens: linkTokens }) {

@@ -47,6 +47,14 @@ included. See index.md § Tutorial: publish the website.
 
 - `src/lib/server/content.ts` — reads `content/` at build time. Holds the
   summary parser, the catalog, the skill index, and the markdown renderer.
+- `src/lib/server/gapform.ts` — turns a skills gap form's questions, answer
+  prompts, and tick lists into form controls while the markdown renders. Only
+  that one document kind; everything else stays prose.
+- `static/assets/gapform.js` — the only script on a content page, loaded by a
+  skills gap form alone. Saves the reader's answers to their own browser and
+  exports them as TSV or JSON. It is plain ES5-era JavaScript with no build
+  step, because `csr = false` means nothing on the page is hydrated: the
+  toolbar's buttons are wired up by id, not by Svelte.
 - `src/lib/server/document.ts` — shared load for the four markdown routes.
 - `src/lib/types.ts` — shapes shared with the browser. Everything here ships to
   the client, so keep it small.

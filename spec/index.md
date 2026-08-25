@@ -261,7 +261,7 @@ The steps, for one role level:
 5. Run `bin/check`.
 6. Review as a human. Nothing here is publishable unreviewed.
 
-Two helpers support step 3, both at the repository root:
+Three helpers support step 3, all at the repository root:
 
 - [`bin/cook`](../bin/cook) reformats raw AI output — numbered `Title:` / `URL:` /
   `Summary:` blocks and shouted headings — into the required markdown. Uses
@@ -282,6 +282,13 @@ so that it stays buildable when it is pushed to its own repository:
   components listed in `uk-gdad.github.io/bin/lily-components.txt`.
 - `uk-gdad.github.io/static/tools/skills-self-assessment.html` is a copy of the
   self-assessment tool.
+
+Skills gap forms are the one document kind the site does more than render: it
+turns their `*Your answer:*` prompts and tick lists into HTML form controls, so
+that a reader can fill the form in on screen. Their answers are saved in that
+reader's own browser and can be exported as TSV or as JSON; nothing is submitted
+and nothing reaches the site. See
+[the project specification](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md).
 
 `uk-gdad.github.io/bin/sync` refreshes all three. `bin/check` verifies that the
 copies match their sources byte for byte, so stale vendored content is a

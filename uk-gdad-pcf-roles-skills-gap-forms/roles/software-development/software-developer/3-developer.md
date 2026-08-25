@@ -29,12 +29,16 @@ people and organizational development staff, or legal compliance staff.
 
 ## How to fill in this form
 
-This is a static web page. There is nothing to type into and nothing to send
-from here — your answers never touch this site.
+You can fill this form in on screen: the boxes below take typing, the tick
+boxes tick, and each skill has a rating to choose. Your answers are saved in
+this browser, on this device, so you can close the page and come back to them.
+Nothing is sent anywhere.
 
-Print it and write on it, copy the questions into a document, or paste them into
-whatever your organisation uses for development conversations. Every question is
-numbered so that answers travel back on their own.
+When you have finished, use Export TSV or Export as JSON at the top of the
+page, or print it, or copy your answers into whatever your organisation uses
+for development conversations. Every question is numbered so that answers
+travel back on their own. Clear answers empties the form and deletes the saved
+copy, which is worth doing on a computer other people use.
 
 Worth knowing:
 

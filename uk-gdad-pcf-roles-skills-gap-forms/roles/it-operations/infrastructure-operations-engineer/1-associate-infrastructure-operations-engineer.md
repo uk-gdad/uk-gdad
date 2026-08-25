@@ -21,10 +21,16 @@ staff, or people and organizational development staff, or legal compliance staff
 
 ## How to fill in this form
 
-This is a web page that does not save anything. There is no button to press and nothing gets sent from here.
+You can fill this form in on screen. Type into the boxes, tick the boxes that
+apply, and pick a rating where one is asked for. Your answers are saved in
+this browser, on this device, so you can close the page and come back to them.
+Nothing is sent anywhere.
 
-Print it out, or copy the questions into a document, or paste them into whatever your organisation uses for
-these conversations. Every question has a number, so your answers make sense on their own.
+When you have finished, use Export TSV or Export as JSON at the top of the
+page, or print it out, or copy your answers into whatever your organisation
+uses for these conversations. Every question has a number, so your answers
+make sense on their own. Clear answers empties the form and deletes the saved
+copy. If other people use this computer, press it when you have finished.
 
 A few things worth knowing:
 

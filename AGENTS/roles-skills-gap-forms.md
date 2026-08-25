@@ -25,6 +25,13 @@ Questions are numbered `**Q1.**` upwards, in one run across the whole document,
 each followed by `*Your answer:*` or a checkbox list. The number is the point:
 answers travel back on their own, without the form.
 
+Those two shapes are what the website turns into controls — a textarea, and a
+radio or checkbox group — so write them exactly as the contract has them. The
+website also saves a reader's answers in their own browser and exports them as
+TSV or JSON, keyed by the question number, which is one more reason the
+numbering has to be right. The markdown itself stays plain markdown; see the
+project specification.
+
 ## The three things that make one good
 
 **One block per skill, in the summary's order.** Each gives what the framework
@@ -66,11 +73,15 @@ describe risk only at a level they would be comfortable saying out loud.
 - Never attribute a skill to a level whose summary does not name it.
 - Never state what a level above or below expects without reading that summary.
   Guessing produces a form that is confidently wrong about someone's next step.
-- Never instruct the reader to work a control that is not there: no "click",
-  "tap", "submit", "save", "upload" or "the system will", and no fake text boxes
-  or rules of underscores. The page is static and is printed as often as it is
-  read on screen. This is about instructions, not vocabulary — "a clickable
-  prototype" is the right term of art in interaction design, and stays.
+- Never promise something the page cannot do. The website renders the answer
+  prompts and tick lists as real controls, and saves the answers in the reader's
+  own browser, but there is no server: nothing is submitted and nothing is sent,
+  so no "submit", "upload" or "the system will". Prefer "tick" to "click" or
+  "tap": the form is printed as often as it is read on screen. This is about
+  instructions, not vocabulary — "a clickable prototype" is the right term of
+  art in interaction design, and stays.
+- Never write HTML, a fake text box, or a rule of underscores into the markdown.
+  The controls come from the renderer; the source stays readable as text.
 
 ## Before committing
 

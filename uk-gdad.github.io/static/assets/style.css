@@ -695,6 +695,89 @@ th {
   color: var(--lily-text-muted);
 }
 
+/* Skills gap forms are filled in on the page, so their questions, answer
+   prompts, and tick lists render as real controls. `gapform.js` keeps the
+   answers in the reader's own browser and exports them; nothing is sent. */
+
+.form-question {
+  margin-top: 1.75rem;
+}
+
+.form-field {
+  margin: 0 0 1.75rem;
+}
+.form-label {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+.form-textarea {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  font: inherit;
+  color: var(--lily-text);
+  background: var(--lily-page-bg);
+  border: 2px solid var(--lily-text);
+  border-radius: 0;
+  resize: vertical;
+}
+.form-textarea:focus-visible {
+  outline: 3px solid var(--lily-focus);
+  outline-offset: 0;
+  box-shadow: inset 0 0 0 2px var(--lily-text);
+}
+
+.form-choices {
+  margin: 0 0 1.75rem;
+  padding: 0;
+  border: 0;
+}
+.form-choice {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  padding: 0.35rem 0.5rem;
+  border-radius: var(--lily-radius);
+}
+.form-choice:hover,
+.form-choice:has(input:checked) {
+  background: var(--lily-primary-wash);
+}
+.form-choice input {
+  flex: none;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin: 0.3rem 0 0;
+  accent-color: var(--lily-primary);
+}
+.form-choice label {
+  cursor: pointer;
+}
+/* The worked example in the rating scale section shows the controls ticked. */
+.form-choice input:disabled + label {
+  cursor: default;
+}
+/* The global focus style fills the control itself, which hides a tick. */
+.form-choices input:focus-visible {
+  background: none;
+  outline: 3px solid var(--lily-focus);
+  outline-offset: 1px;
+  box-shadow: 0 0 0 4px var(--lily-text);
+}
+
+.gapform-tools {
+  margin-top: 1.5rem;
+}
+.gapform-tools .button-row {
+  margin: 0 0 0.5rem;
+}
+.gapform-status {
+  margin: 0;
+  font-size: 0.9375rem;
+  color: var(--lily-text-muted);
+}
+
 .skill-list {
   list-style: none;
   padding: 0;
@@ -866,5 +949,24 @@ th {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  /* A form is printed as often as it is filled in on screen. */
+  .form-textarea {
+    min-height: 6rem;
+    border: 1px solid var(--lily-text);
+    print-color-adjust: exact;
+  }
+  .form-choice input {
+    print-color-adjust: exact;
+  }
+  .form-choice:hover,
+  .form-choice:has(input:checked) {
+    background: none;
+  }
+  .gapform-tools {
+    display: none;
   }
 }

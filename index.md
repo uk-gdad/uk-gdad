@@ -396,6 +396,12 @@ about it?
 *Your answer:*
 ```
 
+The markdown is plain markdown, and the website makes it fillable: an answer
+prompt becomes a textarea, a rating becomes a radio group, and a tick list
+becomes checkboxes or radios. Answers are saved in the reader's own browser and
+export as TSV or JSON, keyed by question number. Nothing is submitted — there is
+no server to submit to.
+
 The core is `## Job skills`: one block per skill the summary names, in the
 summary's order, giving what the framework expects at this level, what that
 looks like in practice, and what changes at the next level — then a 0–4 rating

@@ -19,7 +19,10 @@ linked to without cloning anything.
   pushed to its own repository. Inputs are vendored — see below.
 - **Accessible.** Semantic HTML, one `h1` per page, visible focus, skip link,
   breadcrumbs, and no colour-only signalling. Content pages carry no client-side
-  JavaScript at all.
+  JavaScript, with one exception: a skills gap form loads
+  `static/assets/gapform.js`, which saves the reader's answers in their own
+  browser and exports them. The form works without it — the controls are plain
+  HTML — so the buttons that script owns stay hidden until it runs.
 
 ## Stack
 
@@ -85,6 +88,19 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
   placeholder never becomes a broken link.
 - **Retired levels** are titled by their role name and marked with a badge,
   rather than being titled `NOT IN USE`.
+- **Skills gap forms** are meant to be filled in, so `src/lib/server/gapform.ts`
+  renders their answer prompts as textareas and their tick lists as radio or
+  checkbox groups while the markdown renders. Every control is plain HTML, with
+  no form element and no action. Each carries a `data-key` — `Q17`, or
+  `Rating: User focus` — which is its column heading in an export and its key in
+  the JSON. Where one question carries both a tick list and a free-text
+  follow-up, the second field takes a letter: `Q27`, then `Q27b`.
+- **Answers on a skills gap form** are saved to `localStorage` by
+  `static/assets/gapform.js`, under the page's own path, and restored on the
+  next visit. The toolbar it reveals exports them as TSV (a row of headings, a
+  row of answers, with tabs and newlines backslash-escaped) or as JSON, and
+  clears both the form and the saved copy. Nothing is sent anywhere: there is no
+  server to send it to.
 
 ## Build and deploy
 

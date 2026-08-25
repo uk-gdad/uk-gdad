@@ -30,12 +30,16 @@ staff, or legal compliance staff.
 
 ## How to fill in this form
 
-This is a web page you can read, not one you can type into. Nothing you write here would be
-saved or sent — the page has no way to do that.
+You can fill this form in on screen. Type into the boxes, tick the boxes that
+apply, and pick a rating where one is asked for. Your answers are saved in
+this browser, on this device, so you can close the page and come back to them.
+Nothing is sent anywhere.
 
-So: print it, or copy the questions into a document, or paste them into whatever your
-organisation uses for development conversations. Every question is numbered, so your
-answers make sense on their own.
+So: when you have finished, use Export TSV or Export as JSON at the top of the
+page, or print it, or copy your answers into whatever your organisation uses
+for development conversations. Every question is numbered, so your answers
+make sense on their own. Clear answers empties the form and deletes the saved
+copy, which is worth doing on a computer other people use.
 
 A few things worth knowing before you start:
 
