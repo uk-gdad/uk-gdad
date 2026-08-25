@@ -10,8 +10,8 @@ Your role summary says that as an associate user researcher you are in an entry-
 
 This document is organised into four main sections, one for each of the common assessment types you might encounter:
 
-1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, and prioritisation, using the everyday materials of a research team such as recruitment screeners, session schedules, consent checklists and note templates.
-2. A numeric reasoning assessment — percentages, proportions, averages and simple tables, using the kinds of numbers a research team actually handles, such as participant counts, no-show rates, task completion figures and accessibility statistics.
+1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, and prioritisation, using the everyday materials of a research team such as recruitment screeners, session schedules, consent checklists, and note templates.
+2. A numeric reasoning assessment — percentages, proportions, averages and simple tables, using the kinds of numbers a research team actually handles, such as participant counts, no-show rates, task completion figures, and accessibility statistics.
 3. A verbal reasoning assessment — reading passages like research standards, ethics guidance and stakeholder emails, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic workplace dilemmas pitched at a trainee level, with clear guidance on the most and least effective responses and, importantly, on why.
 
@@ -108,7 +108,7 @@ Which screen shows the clearest pattern of difficulty across participants?
 
 **Correct answer: A**
 
-**Explanation:** Count the participants affected by each screen rather than counting the total number of mentions. The address entry screen caused hesitation for P1, P2, P4 and P5, which is four of the five participants. The upload evidence screen affected P3 and P5, which is two. The confirmation screen affected P2 alone, which is one. Four out of five is the clearest pattern, so the answer is A. Notice the counting discipline here: what matters in this kind of analysis is how many different people hit a problem, not how many times the problem is written down. Notice too that identifying the pattern is not the same as explaining it — the address screen might be badly labelled, or it might simply be the first screen where users have to type something, and typing is slower than tapping. Your role summary asks you to show awareness of the need for careful analysis, and this is what that looks like in miniature: count properly first, interpret second.
+**Explanation:** Count the participants affected by each screen rather than counting the total number of mentions. The address entry screen caused hesitation for P1, P2, P4, and P5, which is four of the five participants. The upload evidence screen affected P3 and P5, which is two. The confirmation screen affected P2 alone, which is one. Four out of five is the clearest pattern, so the answer is A. Notice the counting discipline here: what matters in this kind of analysis is how many different people hit a problem, not how many times the problem is written down. Notice too that identifying the pattern is not the same as explaining it — the address screen might be badly labelled, or it might simply be the first screen where users have to type something, and typing is slower than tapping. Your role summary asks you to show awareness of the need for careful analysis, and this is what that looks like in miniature: count properly first, interpret second.
 
 **Question 4 (easy) — Prioritisation on a research day**
 
@@ -355,7 +355,7 @@ Which task had a completion rate of exactly 75%?
 
 **Question 4 (easy) — Simple average**
 
-Five usability sessions lasted 45, 50, 60, 55 and 40 minutes. What was the mean session length?
+Five usability sessions lasted 45, 50, 60, 55, and 40 minutes. What was the mean session length?
 
 - A) 48 minutes
 - B) 50 minutes
@@ -364,7 +364,7 @@ Five usability sessions lasted 45, 50, 60, 55 and 40 minutes. What was the mean 
 
 **Correct answer: B**
 
-**Explanation:** The mean is the total divided by the count. Add the values: 45 + 50 = 95, plus 60 = 155, plus 55 = 210, plus 40 = 250. Divide by 5 sessions: 250 ÷ 5 = 50 minutes, so the answer is B. A useful shortcut for a set of numbers clustered around a round figure is to work from the middle: guess 50, then note the differences from 50 as −5, 0, +10, +5 and −10, which sum to zero, confirming the mean is exactly 50. That method is quicker and less error-prone than long addition under time pressure, and it works whenever the numbers sit close together.
+**Explanation:** The mean is the total divided by the count. Add the values: 45 + 50 = 95, plus 60 = 155, plus 55 = 210, plus 40 = 250. Divide by 5 sessions: 250 ÷ 5 = 50 minutes, so the answer is B. A useful shortcut for a set of numbers clustered around a round figure is to work from the middle: guess 50, then note the differences from 50 as −5, 0, +10, +5, and −10, which sum to zero, confirming the mean is exactly 50. That method is quicker and less error-prone than long addition under time pressure, and it works whenever the numbers sit close together.
 
 **Question 5 (easy) — Incentive budget**
 
@@ -524,25 +524,25 @@ The verbal skills tested map onto your role's named skills:
 
 "All user research involving members of the public must be recorded in the team's research log within two working days of the session. The log entry must state the date, the method used and whether consent was obtained. Recordings of sessions may be retained for up to twelve months, after which they must be deleted unless the lead user researcher has documented a specific reason for keeping them for longer. Anonymised notes are not subject to the twelve-month limit."
 
-**Question 1 (easy)** — Statement: "A session held on a Monday must be logged by the following Wednesday, assuming no public holidays." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "A session held on a Monday must be logged by the following Wednesday, assuming no public holidays." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage requires logging within two working days of the session. Counting two working days from Monday gives Tuesday and Wednesday, so the deadline is Wednesday, and the statement adds the correct caveat about public holidays. The statement follows necessarily, so it is True. Note the care taken over "working days" rather than "days" — that distinction is exactly the sort of small word that decides these questions, and the statement respects it. If the statement had said "by the following Tuesday", it would have been False.
 
-**Question 2 (easy)** — Statement: "Anonymised notes must be deleted after twelve months." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Anonymised notes must be deleted after twelve months." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final sentence of the passage says directly that anonymised notes are not subject to the twelve-month limit, so the statement contradicts the passage and is False. Be careful not to over-read that final sentence in the other direction, though: saying the twelve-month limit does not apply is not the same as saying the notes may be kept for ever, and a statement claiming they can be kept indefinitely would be a Cannot Say, because the passage simply does not address it. The passage tells you which rule does not apply, not which rule does.
 
-**Question 3 (moderate)** — Statement: "A recording kept for fourteen months is a breach of the rules." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A recording kept for fourteen months is a breach of the rules." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage sets a twelve-month limit but explicitly allows a longer retention period where the lead user researcher has documented a specific reason. You have not been told whether such a reason was documented for this recording. If it was, fourteen months is permitted; if it was not, fourteen months is a breach. Because both remain possible, the correct classification is Cannot Say. This is the archetypal Cannot Say structure: a rule with an exception, plus facts that do not tell you whether the exception applies. Candidates who mark this False are reasoning from the general rule and forgetting the exception clause they read three lines earlier.
 
-**Question 4 (moderate)** — Statement: "The log entry must include the participant's name." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "The log entry must include the participant's name." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -552,25 +552,25 @@ The verbal skills tested map onto your role's named skills:
 
 "Recruitment for the pilot study was carried out through an online panel. The team acknowledges that this approach may under-represent people who are not confident using digital services. Two of the twelve participants used assistive technology. The team plans to supplement the pilot with face-to-face sessions in three community locations, subject to funding being confirmed in April."
 
-**Question 5 (easy)** — Statement: "Twelve people took part in the pilot study." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Twelve people took part in the pilot study." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that two of the twelve participants used assistive technology, which establishes that there were twelve participants in total. The statement restates that directly, so it is True. This is the most straightforward question type in the section — a fact stated plainly, tested plainly — and it is worth answering quickly and confidently so that you bank the time for the harder items. Resist the urge to look for a hidden trick in easy items; sometimes the passage simply says the thing.
 
-**Question 6 (moderate)** — Statement: "The face-to-face sessions will take place in April." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The face-to-face sessions will take place in April." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says the team plans face-to-face sessions subject to funding being confirmed in April. Two separate assumptions would be needed to reach the statement: that the funding will indeed be confirmed, and that the sessions themselves will happen in April rather than later. The passage supports neither. April is the month named for the funding decision, not for the sessions, and a plan subject to a condition is not a certainty. Cannot Say is correct. This question rewards reading the sentence structure carefully — the phrase "subject to" is a conditional flag, and conditional flags almost always point towards Cannot Say.
 
-**Question 7 (moderate)** — Statement: "The team is aware that its recruitment method has a limitation." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The team is aware that its recruitment method has a limitation." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The second sentence says the team acknowledges that the online panel approach may under-represent people who are not confident using digital services. Acknowledging a way in which a method may fall short is precisely being aware of a limitation, so the statement follows and is True. Notice that the passage's word is "may", which is appropriately cautious, and the statement's word is "a limitation", which is general enough to be supported by that cautious phrasing. Had the statement claimed "the team knows its recruitment method excluded digitally excluded users", that would be a stronger claim than "may under-represent", and the answer would shift to Cannot Say.
 
-**Question 8 (harder)** — Statement: "Fewer than one in five pilot participants used assistive technology." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Fewer than one in five pilot participants used assistive technology." True, False, or Cannot Say?
 
 **Correct answer: True**
 
@@ -580,19 +580,19 @@ The verbal skills tested map onto your role's named skills:
 
 "The service standard requires teams to conduct research with users at every stage of a service's life, including after it goes live. Teams should include participants with a range of access needs. Where a team cannot recruit participants with a particular access need, it should record this gap and explain how it will address it. Research findings should be shared openly across the organisation unless they contain personal data or commercially sensitive information."
 
-**Question 9 (easy)** — Statement: "Research should continue after a service goes live." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Research should continue after a service goes live." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence requires research at every stage of a service's life and adds "including after it goes live", which states the point explicitly. The statement is True. This is a good example of a passage anticipating the reader's likely assumption — many people assume research stops at launch, and the standard has been written to close that assumption off. In your own reading, treat an "including" clause as a signal that the author is deliberately covering a case people tend to miss.
 
-**Question 10 (moderate)** — Statement: "A team that cannot recruit any blind participants has breached the service standard." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A team that cannot recruit any blind participants has breached the service standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage anticipates exactly this situation and provides a route through it: where a team cannot recruit participants with a particular access need, it should record the gap and explain how it will address it. So failing to recruit blind participants is not in itself a breach; the standard is breached only if the team also fails to record and address the gap. The statement claims a breach has occurred purely from the failure to recruit, which contradicts the passage, making it False. This is worth internalising beyond the test, because it reflects how good standards are written — they set an expectation, then tell you what honesty looks like when the expectation cannot be met.
 
-**Question 11 (harder)** — Statement: "All research findings must be shared openly across the organisation." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "All research findings must be shared openly across the organisation." True, False, or Cannot Say?
 
 **Correct answer: False**
 

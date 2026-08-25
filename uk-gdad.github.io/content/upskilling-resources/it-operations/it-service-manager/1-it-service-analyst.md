@@ -22,7 +22,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals): Hardware, the internet, software, troubleshooting and customer service. The standard first course for frontline support.
 
-- [ITSM Foundations: Optimizing IT Service Management](https://www.coursera.org/learn/itsm-foundations-optimizing-it-service-management): Core ITSM principles through a working platform, covering requests, incidents and problems.
+- [ITSM Foundations: Optimizing IT Service Management](https://www.coursera.org/learn/itsm-foundations-optimizing-it-service-management): Core ITSM principles through a working platform, covering requests, incidents, and problems.
 
 - [Root Cause Analysis: Principles and Benefits](https://www.coursera.org/learn/root-cause-analysis-principles-and-benefits): A systematic process for identifying fundamental causes and preventing recurrence, which is explicitly part of this role.
 
@@ -48,15 +48,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): Useful context on how the services you support are built and operated.
 
-- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models and infrastructure, which is where the services now live.
+- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models, and infrastructure, which is where the services now live.
 
 ## MIT OpenCourseWare courses
 
 - [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Hardware, operating systems, databases and security, for people with little technical background.
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Root cause analysis, value stream mapping and improvement planning, which is what your checklists should come from.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Root cause analysis, value stream mapping, and improvement planning, which is what your checklists should come from.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Operating systems, networks, performance and fault tolerance, which is what the faults you diagnose are made of.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Operating systems, networks, performance, and fault tolerance, which is what the faults you diagnose are made of.
 
 ## Blog posts
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Sources of Customer Satisfaction and Dissatisfaction with Information Technology Help Desks](https://link.springer.com/article/10.1023/A:1009794622860): Empirical work on what actually drives satisfaction with support, which is rarely what teams assume.
 
-- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Finds solution quality, consultation experience and tangibles as the real dimensions.
+- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Finds solution quality, consultation experience, and tangibles as the real dimensions.
 
 - [An investigation of technical support issues influencing user satisfaction](https://digital.library.unt.edu/ark:/67531/metadc2528/): Finds the support method and the technician's experience level to be significant.
 
@@ -128,7 +128,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A Guide to Computer User Support for Help Desk and Support Specialists](https://www.amazon.com/Guide-Computer-User-Support-Specialists/dp/1285852680): The support role as a discipline, including the communication half that determines satisfaction.
 
-- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark and West. A compact reference for repeated diagnostics.
+- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark, and West. A compact reference for repeated diagnostics.
 
 - [Root Cause Analysis: The Core of Problem Solving and Corrective Action](https://www.amazon.com/Root-Cause-Analysis-Problem-Corrective-ebook/dp/B0BQJQQZ8C): By Duke Okes. A disciplined investigation method rather than a checklist.
 

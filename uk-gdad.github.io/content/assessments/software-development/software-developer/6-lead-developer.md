@@ -26,7 +26,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At lead level the materials are architectural options, incident evidence, technology choices, standards decisions and the work of the team you are responsible for.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
 
 Three things distinguish this section at your level.
 

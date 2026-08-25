@@ -817,7 +817,7 @@ exactly why it is worth asking for the date yourself.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/6-lead-developer.md)
-  — courses, articles, talks and books pitched at lead developer.
+  — courses, articles, talks, and books pitched at lead developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/6-lead-developer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/software-developer/6-lead-developer.md)

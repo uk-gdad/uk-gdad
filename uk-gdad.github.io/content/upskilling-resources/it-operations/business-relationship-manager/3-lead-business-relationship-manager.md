@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.665 Power and Negotiation](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/syllabus/): Negotiation with power treated as an explicit variable, which is the honest frame for senior stakeholder arbitration.
 
-- [15.281 Advanced Communication for Leaders](https://ocw.mit.edu/courses/15-281-advanced-communication-for-leaders-spring-2016/): Presenting to a hostile audience, running productive meetings and contributing to group decision-making under pressure.
+- [15.281 Advanced Communication for Leaders](https://ocw.mit.edu/courses/15-281-advanced-communication-for-leaders-spring-2016/): Presenting to a hostile audience, running productive meetings, and contributing to group decision-making under pressure.
 
 - [15.311 Organizational Processes](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/pages/assignments/): Organisational behaviour and process, which explains why the same relationship problem recurs in different departments.
 
@@ -88,7 +88,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Relational dynamics in information technology outsourcing: An integrative review](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijmr.12347): An integrative review of 127 empirical studies on what makes outsourcing relationships work. Directly relevant to external stakeholder leadership.
 
-- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for supplier relationship management across five organisations.
+- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure, and process for supplier relationship management across five organisations.
 
 - [A Review of the IT Outsourcing Empirical Literature and Future Research Directions](https://journals.sagepub.com/doi/10.1057/jit.2010.21): Finds relationship management to be the perennial difficulty across two decades of outsourcing research.
 
@@ -136,7 +136,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny and colleagues. The most useful shared vocabulary for a team that handles difficult conversations daily.
 
-- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton and Heen. What is actually happening in a conversation that keeps failing, which is what you are diagnosing when things escalate.
+- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton, and Heen. What is actually happening in a conversation that keeps failing, which is what you are diagnosing when things escalate.
 
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2): By Chris Voss and Tahl Raz. Tactical empathy applied to negotiation, effective in high-stakes internal disputes.
 

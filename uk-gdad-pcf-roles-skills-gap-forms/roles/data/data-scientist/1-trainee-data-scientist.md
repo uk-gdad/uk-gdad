@@ -19,7 +19,7 @@ ethical considerations; and be aware of the technologies used.
 to have depth yet. What they expect is curiosity and the willingness to ask.
 
 Nothing here is scored, marked or ranked. There are no right answers. Eight skills,
-each with a plain explanation, a rating and a couple of questions. Take about 25
+each with a plain explanation, a rating, and a couple of questions. Take about 25
 minutes, and stop and come back if you want to.
 
 ## Advisory

@@ -676,7 +676,7 @@ Why do employers use SJTs for test engineers? Because at your level, judgement i
 
 - **Defect and risk communication scenarios** map to your **Managing, reporting and resolving defects** skill: choosing when, how, and to whom to communicate a defect's impact — and holding the line on evidence when others prefer optimism.
 - **Cross-discipline collaboration scenarios** map to your role's core duties: working closely with developers on code-level understanding and unit coverage, and collaborating with analysts on acceptance scenario coverage — including when those relationships get strained.
-- **Pressure-on-quality scenarios** map to your **Test and quality planning** skill: adapting approaches based on risk when time shrinks, rather than abandoning them; and to your **Test analysis** skill of advocating for test needs such as data, access and environments.
+- **Pressure-on-quality scenarios** map to your **Test and quality planning** skill: adapting approaches based on risk when time shrinks, rather than abandoning them; and to your **Test analysis** skill of advocating for test needs such as data, access, and environments.
 - **Mentoring scenarios** map to your **coaching and mentoring** duty: developing testers without doing their work for them, and correcting without discouraging.
 - **Stakeholder dynamics scenarios** map to your **Communicating between the technical and non-technical** skill: hosting difficult discussions, advocating for the team externally, and managing differing perspectives without either capitulation or combat.
 

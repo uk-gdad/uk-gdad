@@ -12,8 +12,8 @@ There is one thing worth naming about interaction design specifically. Your disc
 
 The document is organised into four main sections:
 
-1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using components, flows, specifications and research evidence.
-2. A numeric reasoning assessment — percentages, error rates, device comparisons, funnel data, averages and ratios, with an emphasis on interpreting figures rather than only calculating them.
+1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using components, flows, specifications, and research evidence.
+2. A numeric reasoning assessment — percentages, error rates, device comparisons, funnel data, averages, and ratios, with an emphasis on interpreting figures rather than only calculating them.
 3. A verbal reasoning assessment — reading design standards, accessibility criteria, review reports and stakeholder correspondence, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic dilemmas at your level of independence, with guidance on the most and least effective responses and on why.
 
@@ -33,7 +33,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical materials rather than abstract shapes. You will work with what a junior interaction designer actually handles: components and their specifications, a flow with branches, a set of error messages, analytics for a page, research observations, an extract from a design standard.
 
-The format is normally an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, raising difficulty after correct answers, so a test that feels hard is usually one you are doing well on. Most employers receive an acuity report showing speed against accuracy, which rewards careful work.
+The format is normally an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, raising difficulty after correct answers, so a test that feels hard is usually one you are doing well on. Most employers receive an acuity report showing speed against accuracy, which rewards careful work.
 
 For a junior interaction designer this section is closer to your daily work than it may appear, because the core of the craft is disciplined noticing at two scales. You notice that a page uses a pattern in a way the pattern was not built for. You notice that splitting a question across two pages doubles the number of times someone on a slow connection has to wait. You notice that a validation rule rejects a format most people type. You notice that the focus order jumps over the error summary. You notice that two screens in the same service handle the same choice differently. Each is an act of comparison, deduction or error detection.
 
@@ -252,7 +252,7 @@ You realise a flow diagram you shared a fortnight ago, which the team has been b
 
 A numeric reasoning assessment measures how accurately you handle the numbers your job produces. It is not a maths exam. There are no equations and no formulae to memorise. Most platforms provide a calculator, and where they do not the arithmetic is deliberately simple. What is measured is whether you can read a table correctly, identify which figures matter, choose the right operation, and interpret the result without overstating it.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a small table, chart or paragraph of figures followed by a multiple-choice question. Time per item is tight, so the operative skill is locating the relevant numbers quickly and disregarding the deliberately irrelevant ones.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a small table, chart, or paragraph of figures followed by a multiple-choice question. Time per item is tight, so the operative skill is locating the relevant numbers quickly and disregarding the deliberately irrelevant ones.
 
 Your role names analysing, synthesising and clearly explaining evidence relevant to users or a service, and specifically mentions web analytics data. That makes this section directly job-relevant. A junior interaction designer reads error rates to find the field that is failing, compares device performance to spot exclusion, reads drop-off to decide which page to look at, checks whether an iteration made any difference, and translates all of it into something a team can act on.
 
@@ -322,7 +322,7 @@ Which device has the lowest completion rate, and how many users does it lose?
 
 **Question 4 (easy) — Average and its limits**
 
-Six participants took 20, 25, 30, 30, 35 and 140 seconds to complete a step. What is the mean, and is it a good summary?
+Six participants took 20, 25, 30, 30, 35, and 140 seconds to complete a step. What is the mean, and is it a good summary?
 
 - A) 30 seconds; yes
 - B) 47 seconds; yes
@@ -465,7 +465,7 @@ Your team wants to know whether a redesign improved completion. Baseline is 62%,
 
 A verbal reasoning assessment measures how accurately you read. It is one of the strongest predictors of performance in roles that run on documents, and interaction design is such a role. You read design standards, accessibility criteria, component specifications, content guidance, technical constraints and the words users say. Reading any of those slightly wrong changes what gets built.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension questions, main-point questions, and items asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension questions, main-point questions, and items asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Everything you know about the Design System, about WCAG, about what your team does — set it aside. If the passage contradicts what you believe, the passage still governs. This feels unnatural and it is the largest single source of lost marks: candidates recognise a statement as true of the world and mark it True even though the passage never said it. That is a Cannot Say.
 
@@ -492,25 +492,25 @@ The verbal skills tested map onto your named skills:
 
 "All new public-facing services must use components from the Design System where a suitable component exists. Where no suitable component exists, teams may create a new one, provided it is documented and tested with assistive technology before use in a live service. Components created before this policy took effect must be reviewed within 12 months. Teams are encouraged, but not required, to contribute new components back to the Design System."
 
-**Question 1 (easy)** — Statement: "Teams must contribute new components back to the Design System." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Teams must contribute new components back to the Design System." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says teams are *encouraged, but not required*, to contribute components back. The statement's "must" contradicts that explicitly, so False. This is the clearest form of the pattern — an explicit removal of an obligation. Note that the passage attaches hard requirements elsewhere in the same breath, to documentation and assistive technology testing, so a reader skimming for the general tone would get this wrong in either direction.
 
-**Question 2 (moderate)** — Statement: "A team that creates a new component without testing it with assistive technology has breached the requirements." True, False or Cannot Say?
+**Question 2 (moderate)** — Statement: "A team that creates a new component without testing it with assistive technology has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage permits creating a new component *provided it is documented and tested with assistive technology before use in a live service*. Those are conditions on the permission, and failing one means the permission does not apply, so the requirement is breached. True. Note the contrast with Question 1: there the passage explicitly removed an obligation, giving False; here it attached conditions to a permission, and failing a condition is a breach. Distinguishing an explicit exemption from a conditional permission is one of the more useful habits this section builds, and it transfers directly to reading real standards.
 
-**Question 3 (moderate)** — Statement: "A component created two years ago must have been reviewed by now." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A component created two years ago must have been reviewed by now." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** Components created before the policy took effect must be reviewed within 12 months — but the passage never says when the policy took effect. If it took effect two years ago, a review would be overdue; if six months ago, it would not. Because the fact you would need is absent, the answer is Cannot Say. Whenever a passage sets a deadline relative to a policy's commencement, check whether the commencement date is actually given. Its absence is deliberate and it appears in this section repeatedly.
 
-**Question 4 (moderate)** — Statement: "A service may use a component that is not in the Design System." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A service may use a component that is not in the Design System." True, False, or Cannot Say?
 
 **Correct answer: True**
 
@@ -520,25 +520,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the application form found that users on mobile devices completed more slowly than desktop users and were more likely to abandon at the document upload step. The review notes that mobile users differed from desktop users in age and in whether they were completing the form at home. The review did not assess whether abandoned applications were later completed on another device. It recommends that the team consider whether a redesigned upload step would reduce mobile abandonment."
 
-**Question 5 (easy)** — Statement: "Mobile users were more likely to abandon at the upload step." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Mobile users were more likely to abandon at the upload step." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the passage's careful "more likely to abandon" rather than "usually abandon", and the statement respects it. A statement claiming mobile users "usually abandon" would be far stronger than the passage supports.
 
-**Question 6 (moderate)** — Statement: "The mobile interface causes abandonment at the upload step." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The mobile interface causes abandonment at the upload step." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and explicitly names two ways the groups differed: age, and whether they were completing the form at home. Either could explain it — someone completing a form away from home is less likely to have their documents to hand, which produces upload abandonment regardless of interface quality. The passage neither asserts nor excludes an interface cause, so Cannot Say. The design consequence is direct: if the interface is the cause you redesign it; if the cause is that mobile users are not at home, the answer is saving and returning, or telling people what they will need before they start.
 
-**Question 7 (moderate)** — Statement: "Users who abandoned on mobile did not complete the application at all." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Users who abandoned on mobile did not complete the application at all." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the review did not assess whether abandoned applications were later completed on another device. Declared silence establishes nothing, so Cannot Say. This item is worth dwelling on because the intuitive reading is wrong in a specific and consequential way: abandonment on one device may be a user sensibly switching to a laptop where the documents are, which is a mild inconvenience rather than a service failure. Not knowing which of those it is changes how urgent the problem is, and the review flagged the gap rather than letting readers assume.
 
-**Question 8 (harder)** — Statement: "The review recommends redesigning the upload step." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends redesigning the upload step." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -548,19 +548,19 @@ The verbal skills tested map onto your named skills:
 
 "Interactive components must be operable using a keyboard alone. Where a component uses a non-standard interaction, the team must provide a documented keyboard alternative. Focus must be visible at all times and must not be trapped within a component. Where a component displays an error, the error must be programmatically associated with the field it relates to; a visual association alone is not sufficient."
 
-**Question 9 (easy)** — Statement: "A visual association between an error and its field is sufficient." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "A visual association between an error and its field is sufficient." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final clause states that a visual association alone is not sufficient and that the error must be programmatically associated. The statement contradicts this directly, so False. The word doing the work is "programmatically", and skimming past it produces exactly the failure the requirement exists to prevent: a message placed next to a field is obvious to a sighted user and may be entirely absent for someone whose screen reader encounters fields and messages in whatever order the markup dictates.
 
-**Question 10 (moderate)** — Statement: "A component with a non-standard interaction breaches the requirements." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A component with a non-standard interaction breaches the requirements." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage does not prohibit non-standard interactions; it requires that where one is used, a documented keyboard alternative is provided. So a non-standard interaction with such an alternative complies, and the statement — asserting a breach from the interaction alone — is contradicted. False. This is a standard setting a condition rather than a prohibition, and reading it as a prohibition produces two bad outcomes: teams avoid legitimate solutions unnecessarily, or conclude the rule is unrealistic and ignore it entirely.
 
-**Question 11 (harder)** — Statement: "A component in which focus is briefly trapped while a dialogue is open complies with the passage." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A component in which focus is briefly trapped while a dialogue is open complies with the passage." True, False, or Cannot Say?
 
 **Correct answer: False**
 

@@ -8,10 +8,10 @@ Psychometric assessments are structured, standardised exercises that measure the
 
 This resource is organised into four main sections, one for each assessment type:
 
-1. **Workplace job-specific cognitive assessment** — measuring pattern recognition, logical deduction, error checking, prioritisation and problem solving using the artefacts you genuinely handle: roadmaps, reference architectures, principles, standards and transition states.
-2. **Workplace job-specific numeric reasoning assessment** — measuring your ability to interpret budgets, licensing costs, capacity figures, portfolio metrics and total cost of ownership comparisons.
-3. **Workplace job-specific verbal reasoning assessment** — measuring precise comprehension of the written material you work with daily: architecture principles, government standards, strategy papers, governance minutes and stakeholder emails.
-4. **Workplace job-specific situational judgement assessment** — measuring the quality of your professional judgement in realistic dilemmas involving senior stakeholders, delivery teams, governance boards and suppliers.
+1. **Workplace job-specific cognitive assessment** — measuring pattern recognition, logical deduction, error checking, prioritisation and problem solving using the artefacts you genuinely handle: roadmaps, reference architectures, principles, standards, and transition states.
+2. **Workplace job-specific numeric reasoning assessment** — measuring your ability to interpret budgets, licensing costs, capacity figures, portfolio metrics, and total cost of ownership comparisons.
+3. **Workplace job-specific verbal reasoning assessment** — measuring precise comprehension of the written material you work with daily: architecture principles, government standards, strategy papers, governance minutes, and stakeholder emails.
+4. **Workplace job-specific situational judgement assessment** — measuring the quality of your professional judgement in realistic dilemmas involving senior stakeholders, delivery teams, governance boards, and suppliers.
 
 Each section explains what the assessment measures, maps it explicitly to the skills in your role profile — architecting for the whole context, architecture communication, commercial perspective, community collaboration, enterprise architecture, making architectural decisions, problem definition and shaping, and strategy design — and then gives you a substantial set of practice questions with full worked explanations, followed by preparation tips and common pitfalls.
 
@@ -25,11 +25,11 @@ This assessment information is created by AI and is work in progress for educati
 
 ### About this assessment
 
-A workplace job-specific cognitive ability assessment is a targeted psychometric test that measures the exact mental processes needed for your role — not abstract intelligence, but applied thinking. Unlike a generic IQ test, it uses practical workplace scenarios and realistic artefacts to predict how effectively you will perform as an enterprise architect. Questions mimic the everyday tasks and data formats of your actual job: architecture roadmaps, dependency maps, principles catalogues, transition-state plans and governance decision logs.
+A workplace job-specific cognitive ability assessment is a targeted psychometric test that measures the exact mental processes needed for your role — not abstract intelligence, but applied thinking. Unlike a generic IQ test, it uses practical workplace scenarios and realistic artefacts to predict how effectively you will perform as an enterprise architect. Questions mimic the everyday tasks and data formats of your actual job: architecture roadmaps, dependency maps, principles catalogues, transition-state plans, and governance decision logs.
 
 Typical format and timing: these assessments are usually delivered online and timed, most commonly 15 to 30 minutes, with objective scoring against a benchmark or norm group. Many platforms offer short, ungraded practice questions first so you can get comfortable with the interface, and some use adaptive testing that adjusts question difficulty based on your previous answers. Employers typically receive a breakdown showing speed versus accuracy rather than a single score, so working carefully and steadily matters as much as working quickly.
 
-For an enterprise architect, cognitive assessment matters because your role is fundamentally about structured thinking under complexity. You are expected to take a strategic view across all architectural domains, portfolios and programmes; to spot inconsistencies between 'as is', 'to be' and transitional states; to trace interdependencies through the organisation's ecosystem; and to prioritise changes that enable delivery at pace. Every one of those duties is, at its core, a cognitive operation: pattern recognition, logical deduction, error checking, prioritisation and problem solving. A well-designed cognitive assessment for your role simply isolates these operations and measures them directly.
+For an enterprise architect, cognitive assessment matters because your role is fundamentally about structured thinking under complexity. You are expected to take a strategic view across all architectural domains, portfolios and programmes; to spot inconsistencies between 'as is', 'to be' and transitional states; to trace interdependencies through the organisation's ecosystem; and to prioritise changes that enable delivery at pace. Every one of those duties is, at its core, a cognitive operation: pattern recognition, logical deduction, error checking, prioritisation, and problem solving. A well-designed cognitive assessment for your role simply isolates these operations and measures them directly.
 
 ### What it measures for your role
 
@@ -290,7 +290,7 @@ A business case argues: "Departments that adopted the shared platform reduced th
 What is the strongest criticism of this inference?
 
 1. Twenty per cent is too small a saving to matter.
-2. The early adopters may differ systematically from the remaining departments (for example, simpler estates or newer systems), so their average saving cannot simply be projected onto the rest — and a 20% saving in some departments does not equal a 20% fall in total organisational costs.
+2. The early adopters may differ systematically from the remaining departments (for example, simpler estates, or newer systems), so their average saving cannot simply be projected onto the rest — and a 20% saving in some departments does not equal a 20% fall in total organisational costs.
 3. Shared platforms never save money.
 4. The business case should have used median rather than mean.
 
@@ -318,7 +318,7 @@ What is the strongest criticism of this inference?
 
 ### About this assessment
 
-A workplace job-specific numeric reasoning assessment evaluates your ability to analyse, interpret, and make sound decisions using numerical data drawn from your actual role. It mimics the data-handling demands of enterprise architecture, focusing on practical business mathematics — percentages, ratios, cost comparisons and capacity figures — rather than abstract formulae. The question inputs are the tables and figures you already encounter: portfolio budgets, licensing schedules, total cost of ownership comparisons, hosting capacity plans, benefits projections and sustainability metrics.
+A workplace job-specific numeric reasoning assessment evaluates your ability to analyse, interpret, and make sound decisions using numerical data drawn from your actual role. It mimics the data-handling demands of enterprise architecture, focusing on practical business mathematics — percentages, ratios, cost comparisons and capacity figures — rather than abstract formulae. The question inputs are the tables and figures you already encounter: portfolio budgets, licensing schedules, total cost of ownership comparisons, hosting capacity plans, benefits projections, and sustainability metrics.
 
 Typical format and timing: numeric reasoning tests are usually online, strictly timed, and calculator-friendly — most platforms allow or provide an on-screen calculator, because the point is interpretation, not mental arithmetic. Expect a series of data sets (a table or chart) each followed by two to four questions, with roughly one to two minutes per question. Accuracy under time pressure is the game: quick, correct extraction of the right figures from a busy table matters more than mathematical sophistication.
 
@@ -577,7 +577,7 @@ What is the total cost of each option over the eighteen months, and which is che
 
 ### About this assessment
 
-A workplace job-specific verbal reasoning assessment evaluates how well you understand, analyse, and draw correct conclusions from written business information. It mirrors the exact reading demands of your role: dense strategy papers, architecture principles, government technology standards, governance board minutes, supplier correspondence and policy documents. The defining discipline is fact-based logic — you must answer based strictly on the text provided, setting aside your own considerable professional knowledge.
+A workplace job-specific verbal reasoning assessment evaluates how well you understand, analyse, and draw correct conclusions from written business information. It mirrors the exact reading demands of your role: dense strategy papers, architecture principles, government technology standards, governance board minutes, supplier correspondence, and policy documents. The defining discipline is fact-based logic — you must answer based strictly on the text provided, setting aside your own considerable professional knowledge.
 
 Typical format and timing: you are given a passage of role-relevant text followed by a series of statements. For each statement you choose **True** (the passage logically supports it), **False** (the passage logically contradicts it), or **Cannot Say** (the passage provides insufficient information either way). Some tests add multiple-choice comprehension questions about the passage's main argument or a specific clause. Timing is tight — often less than a minute per question — to simulate workplace reading under deadline pressure.
 
@@ -819,12 +819,12 @@ A workplace job-specific situational judgement assessment evaluates your decisio
 
 Typical format and timing: each item presents a short scenario — a conflict, an ethical dilemma, or an operational challenge — followed by three to five possible responses. You are usually asked to select the **most effective** and **least effective** actions, or to rank or rate every option from best to worst. Timing is generous or absent: the test measures your natural judgement, not your speed. Scoring compares your choices with those of experienced practitioners and with the organisation's competency framework.
 
-Why does this matter for your role? Enterprise architecture is judged less by artefacts than by influence. Your role profile is explicit: you lead and influence cross-cutting change, consult and support collaboration across the business, communicate complicated and risky topics to senior stakeholders, develop the architecture community, and guide the organisation's decisions through governance rather than authority. Nearly every one of those duties is a judgement call about people, timing, escalation and candour. A situational judgement assessment simply compresses those calls into scenarios: a director bypassing governance, a supplier pressuring a decision, an architect community losing faith, a delivery team about to breach a principle for a deadline. How you choose to act — and what you choose never to do — reveals how you will actually operate in the role.
+Why does this matter for your role? Enterprise architecture is judged less by artefacts than by influence. Your role profile is explicit: you lead and influence cross-cutting change, consult and support collaboration across the business, communicate complicated and risky topics to senior stakeholders, develop the architecture community, and guide the organisation's decisions through governance rather than authority. Nearly every one of those duties is a judgement call about people, timing, escalation, and candour. A situational judgement assessment simply compresses those calls into scenarios: a director bypassing governance, a supplier pressuring a decision, an architect community losing faith, a delivery team about to breach a principle for a deadline. How you choose to act — and what you choose never to do — reveals how you will actually operate in the role.
 
 ### What it measures for your role
 
 - **Architecture communication**: scenarios test whether you adapt your message to your audience, manage expectations honestly, and advocate for teams to senior stakeholders without burning trust.
-- **Community collaboration**: expect dilemmas about motivating architects, handling conflict within the community, contributing to others' work and creating the right team environment.
+- **Community collaboration**: expect dilemmas about motivating architects, handling conflict within the community, contributing to others' work, and creating the right team environment.
 - **Making architectural decisions** and governance: scenarios probe whether you escalate through the right channels, keep decisions transparent, and balance pace against managed risk.
 - **Architect for the whole context**: dilemmas will pit your immediate programme's interests against wider organisational objectives, testing whether you act on the bigger picture and influence colleagues across the organisation.
 - **Commercial perspective**: supplier and sourcing scenarios test propriety, fairness and value for money under commercial pressure.
@@ -1034,7 +1034,7 @@ Possible actions:
 
 ## Conclusion
 
-Well done — you have worked through a substantial and demanding set of materials. You have explored the four assessment types most relevant to your work as an enterprise architect: cognitive ability, where you practised logical deduction, error checking and prioritisation on roadmaps, decision records and standards; numeric reasoning, where you worked through budgets, licence models, total cost of ownership, risk exposure and capacity figures; verbal reasoning, where you sharpened the discipline of answering strictly from the text of principles, minutes, supplier letters and horizon-scanning briefings; and situational judgement, where you weighed realistic dilemmas involving directors, delivery teams, suppliers, governance boards and your own architecture community.
+Well done — you have worked through a substantial and demanding set of materials. You have explored the four assessment types most relevant to your work as an enterprise architect: cognitive ability, where you practised logical deduction, error checking and prioritisation on roadmaps, decision records and standards; numeric reasoning, where you worked through budgets, licence models, total cost of ownership, risk exposure, and capacity figures; verbal reasoning, where you sharpened the discipline of answering strictly from the text of principles, minutes, supplier letters and horizon-scanning briefings; and situational judgement, where you weighed realistic dilemmas involving directors, delivery teams, suppliers, governance boards and your own architecture community.
 
 A few themes will have stood out. Precision with words and numbers is not pedantry in your role — it is the foundation of credible guidance. Rules and models should be applied faithfully and challenged openly, never quietly bent. Transparency beats cleverness in every dilemma. And influence, the true currency of enterprise architecture, is built through engagement first, governance always, and escalation rarely.
 

@@ -754,7 +754,7 @@ about them. It is fair to expect a conversation rather than silence.
 These three pages cover the same role level and pick up where this form stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/2-junior-developer.md)
-  — courses, blog posts, videos and books for a junior developer.
+  — courses, blog posts, videos, and books for a junior developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/2-junior-developer.md)
   — concrete things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/software-developer/2-junior-developer.md)

@@ -63,7 +63,7 @@ Which entries fail the standard?
 
 A) Staff Survey Responses only
 B) Staff Survey Responses and Website Analytics Feed
-C) Staff Survey Responses, Grants Payment Ledger and Website Analytics Feed
+C) Staff Survey Responses, Grants Payment Ledger, and Website Analytics Feed
 D) All four entries
 
 **Correct answer: C**
@@ -291,9 +291,9 @@ D) Projects 3 and 4
 
 ### About this assessment
 
-A workplace job-specific numeric reasoning assessment evaluates your ability to analyse, interpret and make sound decisions using numerical data. It deliberately mimics the data-handling demands of your actual role, focusing on practical business arithmetic — percentages, ratios, budgets, rates and trends — rather than abstract formulas or advanced mathematics. For a data governance manager, the inputs will look familiar: data quality scorecards, risk exposure tables, training uptake figures, remediation budgets, catalogue coverage statistics and maturity assessment results.
+A workplace job-specific numeric reasoning assessment evaluates your ability to analyse, interpret and make sound decisions using numerical data. It deliberately mimics the data-handling demands of your actual role, focusing on practical business arithmetic — percentages, ratios, budgets, rates and trends — rather than abstract formulas or advanced mathematics. For a data governance manager, the inputs will look familiar: data quality scorecards, risk exposure tables, training uptake figures, remediation budgets, catalogue coverage statistics, and maturity assessment results.
 
-Typical format and timing: questions present a table, chart or short dataset followed by multiple-choice questions. Time limits are strict — commonly 20 to 30 minutes for 15 to 25 questions — so quick, accurate extraction of the right figures matters as much as the arithmetic itself. Most assessments allow or provide an onscreen calculator: the test prioritises interpretation over mental arithmetic, so the skill being measured is choosing the right calculation, not doing long division in your head. Results are compared against a norm group, and employers often see accuracy and speed separately.
+Typical format and timing: questions present a table, chart, or short dataset followed by multiple-choice questions. Time limits are strict — commonly 20 to 30 minutes for 15 to 25 questions — so quick, accurate extraction of the right figures matters as much as the arithmetic itself. Most assessments allow or provide an onscreen calculator: the test prioritises interpretation over mental arithmetic, so the skill being measured is choosing the right calculation, not doing long division in your head. Results are compared against a norm group, and employers often see accuracy and speed separately.
 
 Why does this matter for your role? Data governance is increasingly a numbers-driven discipline. When you identify opportunities to improve the quality and trustworthiness of data, you evidence them with completeness, accuracy and timeliness percentages. When you advise risk owners on whether an exposure is within risk tolerance, you work with likelihood scores, impact values and expected-loss arithmetic. When you advocate for better data management, your business cases stand on cost-benefit figures. When you measure data maturity or monitor compliance, you aggregate scores and track trends. An employer testing your numeric reasoning is testing whether the numbers in your recommendations can be trusted.
 
@@ -304,7 +304,7 @@ Why does this matter for your role? Data governance is increasingly a numbers-dr
 - **Budget and cost-benefit calculations** map to your duty to **advocate for better use and management of data** — tactical recommendations, as your **Communicating analysis and insight** skill describes, must be backed by defensible figures.
 - **Training and adoption statistics** map to **Data literacy improvement** — measuring uptake, completion rates and awareness scores is how you evidence that literacy is improving.
 - **Maturity scoring and weighted averages** map to **Data maturity** — maturity models produce dimensional scores you must aggregate, compare and track over time.
-- **Compliance rates and trend analysis** map to **Data standards** — monitoring compliance in a team means reading rates, spotting changes and quantifying breach impact.
+- **Compliance rates and trend analysis** map to **Data standards** — monitoring compliance in a team means reading rates, spotting changes, and quantifying breach impact.
 
 ### Practice questions
 
@@ -588,7 +588,7 @@ D) 132
 
 ### About this assessment
 
-A workplace job-specific verbal reasoning assessment evaluates how well you understand, analyse and draw correct conclusions from written material of the kind your role deals with every day. It mirrors the exact reading demands of data governance work: dense policy documents, data standards, sharing agreements, audit findings, stakeholder emails and strategy papers. The defining discipline of the format is *fact-based logic*: you must answer strictly from the text provided, setting aside everything you know professionally — even where your expert knowledge tells you what the policy "probably" means or "should" say.
+A workplace job-specific verbal reasoning assessment evaluates how well you understand, analyse and draw correct conclusions from written material of the kind your role deals with every day. It mirrors the exact reading demands of data governance work: dense policy documents, data standards, sharing agreements, audit findings, stakeholder emails, and strategy papers. The defining discipline of the format is *fact-based logic*: you must answer strictly from the text provided, setting aside everything you know professionally — even where your expert knowledge tells you what the policy "probably" means or "should" say.
 
 Typical format and timing: you are shown a passage, then asked a series of statements to judge as **True** (the passage logically supports the statement), **False** (the passage logically contradicts it), or **Cannot Say** (the passage provides insufficient information either way). Some questions are multiple-choice comprehension instead — identifying the best summary, the correct application of a rule, or the author's position. Timing is tight: typically less than a minute per question, simulating the pace at which you skim-then-verify documents against a deadline.
 
@@ -596,12 +596,12 @@ Why does this matter for your role? Almost every artefact you produce or enforce
 
 ### What it measures for your role
 
-- **Precise rule extraction** maps to **Data standards** ("use data policies, processes and standards effectively") and **Data governance** — determining exactly what a policy requires, permits and prohibits.
+- **Precise rule extraction** maps to **Data standards** ("use data policies, processes and standards effectively") and **Data governance** — determining exactly what a policy requires, permits, and prohibits.
 - **Distinguishing stated fact from inference** maps to **Enabling and informing risk-based decisions** — advice to risk owners must separate what the evidence says from what you suspect.
 - **Reading stakeholder correspondence accurately** maps to **Stakeholder relationship management** and **Communicating between the technical and non-technical** — consensus building starts from a correct understanding of each party's stated position.
 - **Comprehending compliance and audit text** maps to **Data management** ("follow organisational data governance, including policies on data access, sharing, dissemination and protection") and to your duty to analyse the impact if a standard is breached.
 - **Judging tone and emphasis in strategy documents** maps to **Strategic thinking** — communicating how activities meet strategic goals requires grasping what a strategy actually prioritises.
-- **Ethics and privacy language** maps to **Data ethics and privacy** — recognising when a text does, or does not, establish a lawful basis, a consent condition or an ethical safeguard.
+- **Ethics and privacy language** maps to **Data ethics and privacy** — recognising when a text does, or does not, establish a lawful basis, a consent condition, or an ethical safeguard.
 
 ### Practice questions
 
@@ -845,7 +845,7 @@ C) Cannot Say
 
 ### About this assessment
 
-A workplace job-specific situational judgement assessment evaluates your decision-making, interpersonal skill and professional conduct by presenting realistic workplace dilemmas and asking how you would respond. Unlike the reasoning tests, there is usually no single objectively right answer computed by logic or arithmetic — several responses may seem reasonable, and the assessment measures how closely your choices align with the values and behaviours the role demands. For a data governance manager in UK government, those values are well documented: putting user needs first, transparency, collaboration across disciplines, accessibility and inclusion, proportionate risk management, and the Civil Service values of integrity, honesty, objectivity and impartiality.
+A workplace job-specific situational judgement assessment evaluates your decision-making, interpersonal skill and professional conduct by presenting realistic workplace dilemmas and asking how you would respond. Unlike the reasoning tests, there is usually no single objectively right answer computed by logic or arithmetic — several responses may seem reasonable, and the assessment measures how closely your choices align with the values and behaviours the role demands. For a data governance manager in UK government, those values are well documented: putting user needs first, transparency, collaboration across disciplines, accessibility and inclusion, proportionate risk management, and the Civil Service values of integrity, honesty, objectivity, and impartiality.
 
 Typical format and timing: each scenario describes a situation drawn from the role — a data owner resisting accountability, a delivery team wanting to bypass a review, an ethics concern in a new data use — followed by three to five possible actions. You are asked either to pick the **most effective** and **least effective** actions, or to rank or rate every option. Timing is usually generous or untimed: the test wants your natural judgement, not your speed.
 
@@ -996,7 +996,7 @@ D) Email your concerns to the programme director so they are on record, and take
 
 ### Preparation tips
 
-- **Anchor on the values, not on cleverness.** UK public sector SJTs reward user focus, transparency, collaboration, proportionality and integrity. When torn between options, ask which one a fair-minded observer would say served the public and the organisation — not which is most ingenious.
+- **Anchor on the values, not on cleverness.** UK public sector SJTs reward user focus, transparency, collaboration, proportionality, and integrity. When torn between options, ask which one a fair-minded observer would say served the public and the organisation — not which is most ingenious.
 - **Look for the "both/and" option.** The most effective answer usually solves the immediate problem *and* addresses the underlying cause *and* preserves the relationship. Options that achieve only one of the three are rarely the best available.
 - **Rehearse your escalation logic.** Before the test, articulate for yourself when you would escalate a data risk: continuing exposure, exceeded tolerance, failed local engagement, or a decision that properly belongs to a risk owner. Options that escalate too early (avoiding your own responsibility) or too late (sitting on a live risk) are both marked down.
 - **Beware the sympathetic shortcut.** Scenarios are engineered so that helping a pressured colleague by waiving a control feels kind. Practise noticing whose interests are absent from the room — usually the data subjects' — and weight them deliberately.
@@ -1007,7 +1007,7 @@ D) Email your concerns to the programme director so they are on record, and take
 
 - **Answering idealistically rather than effectively.** Choosing the option that sounds most virtuous ("refuse to present", "object until everything is reviewed") over the one that is practically effective in a real organisation. Assessors score workplace effectiveness, not moral display.
 - **Selecting passive options.** Options that record, forward, monitor or await guidance while a risk continues are consistently among the lowest-scoring. Visibility is not mitigation; an email is not a control.
-- **Ignoring the organisational culture and values.** UK government SJTs presume collaboration, transparency and user focus. Unilateral rulings, public naming-and-shaming and workarounds may be scored well in other cultures; not here.
+- **Ignoring the organisational culture and values.** UK government SJTs presume collaboration, transparency, and user focus. Unilateral rulings, public naming-and-shaming and workarounds may be scored well in other cultures; not here.
 - **Solving today at tomorrow's expense.** Waiving a review, absorbing a task or accepting a vanity figure relieves immediate pressure while planting the next incident. Strong answers price in the precedent being set.
 - **Over-escalating and under-escalating.** Passing an unprocessed dispute upward is as weak as sitting on a breach. The role adds value by preparing decisions, not by relaying problems — and by acting immediately on the genuinely non-negotiable.
 - **Forgetting the absent stakeholder.** In data dilemmas, the people the data is about are never in the meeting. Options that protect their rights and interests almost always outrank options that only balance the interests present in the room.
@@ -1016,7 +1016,7 @@ D) Email your concerns to the programme director so they are on record, and take
 
 Well done for working through this guide — it represents a substantial investment in yourself, and that investment pays off twice: once in any formal assessment you sit, and again every working day, because the abilities these four assessments measure are the abilities your role runs on.
 
-You have practised the cognitive skills of a data governance manager: checking catalogue entries against exact thresholds, reasoning through RACI logic and layered policy rules, spotting the difference between a one-off anomaly and a systemic decline, and prioritising when a potential breach, a statutory deadline and a quality dip all land at once. You have worked the numbers that underpin credible governance advice: quality scorecards, expected-loss risk arithmetic, cost-benefit cases, coverage projections with moving denominators, and the ever-treacherous distinction between percentage points and per cent. You have exercised the disciplined reading that policies, audit findings, stakeholder emails and strategy papers demand — holding the line at "Cannot Say" when the words are not there, and catching the "only" that turns silence into prohibition. And you have rehearsed judgement in the situations that define the job: unowned datasets, two-week ultimatums, quiet breaches, vanity metrics, resistant owners and deletion programmes in a hurry.
+You have practised the cognitive skills of a data governance manager: checking catalogue entries against exact thresholds, reasoning through RACI logic and layered policy rules, spotting the difference between a one-off anomaly and a systemic decline, and prioritising when a potential breach, a statutory deadline and a quality dip all land at once. You have worked the numbers that underpin credible governance advice: quality scorecards, expected-loss risk arithmetic, cost-benefit cases, coverage projections with moving denominators, and the ever-treacherous distinction between percentage points and per cent. You have exercised the disciplined reading that policies, audit findings, stakeholder emails and strategy papers demand — holding the line at "Cannot Say" when the words are not there, and catching the "only" that turns silence into prohibition. And you have rehearsed judgement in the situations that define the job: unowned datasets, two-week ultimatums, quiet breaches, vanity metrics, resistant owners, and deletion programmes in a hurry.
 
 If some questions caught you out, be encouraged rather than discouraged — every explanation you paused over is a reasoning pattern now available to you that was not there before. Consider revisiting the sections after a few weeks; spaced repetition consolidates these skills remarkably well. You might also practise generating your own questions from the documents you handle at work, which deepens the skill further and often improves the documents too.
 

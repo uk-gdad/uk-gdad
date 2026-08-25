@@ -20,9 +20,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer): Covers front-end, back-end and cloud-native application development, including GitHub, Node.js, React, continuous integration and delivery, containers, Docker, Kubernetes, databases, application security, microservices and serverless computing.
+- [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer): Covers front-end, back-end and cloud-native application development, including GitHub, Node.js, React, continuous integration and delivery, containers, Docker, Kubernetes, databases, application security, microservices, and serverless computing.
 
-- [Microsoft Full-Stack Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer): Twelve courses covering front-end and back-end technologies, database management, security protocols and cloud deployment.
+- [Microsoft Full-Stack Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer): Twelve courses covering front-end and back-end technologies, database management, security protocols, and cloud deployment.
 
 - [Java FullStack Developer](https://www.coursera.org/specializations/java-fullstack): Covers core Java including object-oriented programming, multithreading and data structures, alongside front-end and back-end frameworks. Java remains common in UK government estates.
 
@@ -66,7 +66,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Don't be afraid to code in the open: here's how to do it securely](https://technology.blog.gov.uk/2017/09/27/dont-be-afraid-to-code-in-the-open-heres-how-to-do-it-securely/): Addresses which subsets of code should be kept closed and how to work securely in public repositories.
 
-- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, internationalisation, privacy and security considerations specific to government software engineering.
+- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, internationalisation, privacy, and security considerations specific to government software engineering.
 
 - [Learning to code at GDS](https://gds.blog.gov.uk/2019/07/18/learning-to-code-at-gds/): On making coding accessible within an organisation, covering skills development and routes into technical roles.
 
@@ -82,7 +82,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, software process, quality assurance, integration patterns, defects and build patterns.
+- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, software process, quality assurance, integration patterns, defects, and build patterns.
 
 - [On the effects of continuous delivery on code quality: A case study in industry](https://www.sciencedirect.com/science/article/abs/pii/S0920548921000830): A twelve-month industrial case study of what adopting continuous delivery actually did to source code and product quality.
 
@@ -149,7 +149,7 @@ We welcome constructive feedback to improve this page and these lists.
 ## Professional development tips
 
 - Balance hands-on work with enabling others, and be honest with yourself about the split
-- Set technical standards through review, templates and automated checks rather than through documents
+- Set technical standards through review, templates, and automated checks rather than through documents
 - Learn to give difficult feedback early and kindly, since delayed feedback is the harder unkindness
 - Understand how your team's work is funded and prioritised, so you can shape it rather than receive it
 - Develop people deliberately, including the ones who will eventually be better than you

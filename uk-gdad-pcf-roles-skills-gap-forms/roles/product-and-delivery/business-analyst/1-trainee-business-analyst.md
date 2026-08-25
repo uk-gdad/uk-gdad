@@ -648,7 +648,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/product-and-delivery/business-analyst/1-trainee-business-analyst.md)
-  — courses, blog posts, videos and books for a trainee business analyst.
+  — courses, blog posts, videos, and books for a trainee business analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/business-analyst/1-trainee-business-analyst.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/business-analyst/1-trainee-business-analyst.md)

@@ -110,7 +110,7 @@ contributing to design concepts.
 **Two things worth knowing about this role.**
 
 First, four of your seven skills are worded **identically at interaction designer** — design
-communication, designing for everyone, evidence-based design and iterative design. Only designing
+communication, designing for everyone, evidence-based design, and iterative design. Only designing
 strategically, designing together and leading design change. The step up is about judgement and
 trust rather than new craft.
 
@@ -420,7 +420,7 @@ the law correctly.
 
 - [ ] The accessibility regulations for public sector websites and apps
 - [ ] The Web Content Accessibility Guidelines
-- [ ] Keyboard navigation, focus order and error announcement
+- [ ] Keyboard navigation, focus order, and error announcement
 - [ ] The Equality Act 2010 and the public sector equality duty
 - [ ] Data protection, and asking only for what a service needs
 - [ ] The GOV.UK Service Standard and service assessments

@@ -148,7 +148,7 @@ A high-impact design (national reporting service) presents to your design author
 Your problem-anticipation review surfaces three facts from different sources: (a) the virtualisation platform vendor's latest licensing announcement moves per-socket pricing to per-core, roughly tripling list cost at your estate's core counts on next renewal in 14 months; (b) two of your five platform specialists have this quarter mentioned recruiters' approaches in passing; (c) the data platform team has begun deploying new workloads onto the virtualisation estate at roughly double the historical rate, per capacity reports. No incident or request connects them. What do these facts jointly constitute?
 
 - A) Three unrelated operational notes for three separate registers.
-- B) A converging strategic squeeze on the virtualisation estate: cost per unit is about to triple (a) exactly as consumption accelerates (c), multiplying the renewal exposure — while the expertise to execute any response (optimisation, migration, renegotiation) is at flight risk (b). Jointly they justify immediate action: model the renewal cost under current growth, open alternatives early (renegotiation leverage, containerisation or cloud offload for the growth workloads), and secure the retention of the specialists any response will need.
+- B) A converging strategic squeeze on the virtualisation estate: cost per unit is about to triple (a) exactly as consumption accelerates (c), multiplying the renewal exposure — while the expertise to execute any response (optimisation, migration, renegotiation) is at flight risk (b). Jointly they justify immediate action: model the renewal cost under current growth, open alternatives early (renegotiation leverage, containerisation, or cloud offload for the growth workloads), and secure the retention of the specialists any response will need.
 - C) A case for immediately migrating off the virtualisation platform.
 - D) A staffing issue for HR, a licensing issue for procurement, and a capacity issue for the platform team.
 
@@ -769,7 +769,7 @@ A significant vulnerability in a platform component requires a migration the org
 
 **Question 9 (harder) — Recurring failures with different causes**
 
-A platform has had four significant outages in a year, each with a different immediate cause: a certificate expiry, a full disk, a misconfigured limit and a dependency timeout. What is the most effective response?
+A platform has had four significant outages in a year, each with a different immediate cause: a certificate expiry, a full disk, a misconfigured limit, and a dependency timeout. What is the most effective response?
 
 - A) Fix each cause thoroughly.
 - B) Look for the shared property — most likely that all four were conditions that develop observably before they fail and none was detected in advance — because four different causes with the same consequence usually indicate one missing capability rather than four unrelated faults.

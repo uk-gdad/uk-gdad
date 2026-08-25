@@ -273,7 +273,7 @@ Every worked answer below shows its arithmetic step by step. Follow the steps ev
 
 ### How this assessment maps to your role
 
-- **Percentages, ratios and proportions** map to **Agile and Lean practices** (helping teams measure, evaluate and visualise outcomes) and to reporting on delivery: completion rates, defect ratios, and utilisation are the everyday units of delivery conversation.
+- **Percentages, ratios and proportions** map to **Agile and Lean practices** (helping teams measure, evaluate, and visualise outcomes) and to reporting on delivery: completion rates, defect ratios, and utilisation are the everyday units of delivery conversation.
 - **Averages, medians and trends** map to **Planning**: using data to inform planning means choosing the representative number — and knowing when an average misleads.
 - **Rate and capacity arithmetic** maps to **Maintaining delivery momentum**: managing pace and tempo quantitatively — throughput per week, capacity after leave, time to drain a queue.
 - **Budget and cost calculations** map to **Financial management**: monitoring cost and budget, balancing cost versus value, and reporting financial delivery all reduce to day rates, run rates, variances, and comparisons done correctly.

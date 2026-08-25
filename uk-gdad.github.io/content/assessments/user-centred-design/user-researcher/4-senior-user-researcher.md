@@ -12,7 +12,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — reasoning about evidence quality, methodological trade-offs, competing hypotheses, prioritisation across teams, and the diagnosis of problems in research others have done.
 2. A numeric reasoning assessment — rates, weighted comparisons, funnel analysis, sampling adequacy, base rates and the interrogation of quantitative claims presented by others.
-3. A verbal reasoning assessment — dense standards, evaluation reports, governance documents and stakeholder correspondence, with true/false/cannot-say and comprehension items pitched at genuine ambiguity.
+3. A verbal reasoning assessment — dense standards, evaluation reports, governance documents, and stakeholder correspondence, with true/false/cannot-say and comprehension items pitched at genuine ambiguity.
 4. A situational judgement assessment — dilemmas involving ethics, assurance, supervision, organisational politics and the defence of evidence under pressure.
 
 Each section provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
@@ -31,7 +31,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At senior level the materials are messier and the reasoning less mechanical. You will meet evidence that supports two incompatible readings, research designs with a flaw that compromises some conclusions but not others, prioritisation problems with no dominant option, and claims made by other people that need diagnosing rather than merely accepting or rejecting.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level, which means the comparison set is other experienced practitioners. Adaptive platforms raise difficulty after correct answers, so a hard test is usually a good sign. Employers generally receive an acuity report distinguishing speed from accuracy, which rewards precision over pace.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level, which means the comparison set is other experienced practitioners. Adaptive platforms raise difficulty after correct answers, so a hard test is usually a good sign. Employers generally receive an acuity report distinguishing speed from accuracy, which rewards precision over pace.
 
 What distinguishes this section at your level is the shift from producing sound reasoning to auditing it. Your role names evaluating the quality of research against accepted professional standards, critiquing colleagues' findings to assure best practice, and advising on the choice and application of techniques. Each of those is a diagnostic act performed on somebody else's work, often under time pressure and often in a setting where saying "this does not support that conclusion" carries a social cost. Several items below put you in exactly that position.
 
@@ -244,7 +244,7 @@ A team presents findings from research conducted by an agency: 400 survey respon
 
 A numeric reasoning assessment measures how accurately you handle quantitative material. At senior level the emphasis shifts decisively from calculating to interrogating. You will still need to compute rates and averages correctly, but the harder items ask whether a figure means what somebody claims it means — which is, not coincidentally, the question you are most often the only person in the room able to ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Time per item is tight, so the operative skill is locating what matters and disregarding what does not. Calculators are usually provided; the arithmetic is deliberately tractable.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Time per item is tight, so the operative skill is locating what matters and disregarding what does not. Calculators are usually provided; the arithmetic is deliberately tractable.
 
 There is a professional stake here worth naming plainly. Quantitative evidence carries unearned authority in most organisations: a number in a slide is treated as fact, a qualitative finding as an opinion, regardless of the rigour behind either. Senior researchers who cannot interrogate numbers confidently lose arguments they should win, and occasionally win arguments they should lose. Being the person who asks "what is the denominator, and who could not have appeared in this data?" is a substantial part of the value you add — and your role's requirement to influence stakeholders and resolve issues frequently comes down to exactly that question, asked calmly, in a room where a decision is already moving.
 
@@ -454,7 +454,7 @@ A business case states: "User research shows 92% of users can complete the servi
 
 A verbal reasoning assessment measures how accurately you read. In a senior role that runs on documents — service standards, ethics frameworks, evaluation reports, ministerial submissions, business cases, contracts and the transcribed words of participants — reading accuracy is the substrate everything else rests on. A misread exception clause in a governance document produces a compliance failure; a misread finding in a colleague's report produces bad advice given confidently.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your professional knowledge must be set aside entirely — and here is the uncomfortable part, which is specific to people at your level: expertise actively hurts you in this section. The more you know about research ethics or data protection or the Service Manual, the more readily you supply a connection the text does not make, and the more confident you feel while doing it. Senior candidates lose marks on verbal reasoning at rates that surprise them, and the mechanism is almost always this one.
 
@@ -481,25 +481,25 @@ The verbal skills tested map onto your named skills:
 
 "Research programmes must be registered with the profession's central register before fieldwork begins, unless the programme consists entirely of studies already registered individually. Registration requires a named senior user researcher accountable for the programme's ethical conduct. Where a programme involves participants who may be considered vulnerable, the accountable researcher must additionally confirm that a safeguarding protocol is in place; the protocol itself is not submitted. Programmes may be amended after registration provided amendments are recorded within five working days."
 
-**Question 1 (easy)** — Statement: "Every research programme must be registered before fieldwork begins." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Every research programme must be registered before fieldwork begins." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception: programmes consisting entirely of individually registered studies are exempt. The statement's "every" contradicts that, so it is False. The pattern — absolute term in the statement, exception in the passage — is the most reliable in the section. Note also the word "entirely" in the exception, which narrows it considerably: a programme where most but not all studies are individually registered does not qualify, and that distinction supplies Question 3 below.
 
-**Question 2 (easy)** — Statement: "The safeguarding protocol must be submitted to the central register." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "The safeguarding protocol must be submitted to the central register." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage states directly that the protocol itself is not submitted; what is required is the accountable researcher's confirmation that one is in place. The statement contradicts this, making it False. The item tests whether you read to the end of a sentence that appeared to be finished — the semicolon clause carries the operative fact, and a reader who stopped after "safeguarding protocol is in place" would plausibly answer True. Governance prose routinely places the qualification after the semicolon.
 
-**Question 3 (moderate)** — Statement: "A programme of four studies, three of which are individually registered, must be registered as a programme." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A programme of four studies, three of which are individually registered, must be registered as a programme." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The exemption applies only where a programme consists *entirely* of individually registered studies. Three of four does not meet that condition, so the exemption does not apply and the general requirement stands — the statement follows, making it True. This item rewards holding "entirely" in mind from the first sentence through to a scenario presented several lines later. It also mirrors something real: partial compliance with an exception condition is non-compliance, and teams frequently assume the reverse, reasoning that they are "mostly covered".
 
-**Question 4 (moderate)** — Statement: "An amendment recorded eight working days after it was made complies with the requirements." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "An amendment recorded eight working days after it was made complies with the requirements." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -509,25 +509,25 @@ The verbal skills tested map onto your named skills:
 
 "The cross-government review of research practice found considerable variation in how departments assure research quality. Four departments operate formal peer review; the remainder rely on line management oversight. The review notes that departments with formal peer review reported higher confidence in their findings, though it did not assess whether findings were in fact more accurate. The review recommends that the profession consider developing a common assurance standard."
 
-**Question 5 (easy)** — Statement: "Some departments do not operate formal peer review." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some departments do not operate formal peer review." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that four departments operate formal peer review and the remainder rely on line management oversight, which establishes directly that some do not. The statement follows and is True. Straightforward — answer it fast and bank the time. The only trap available here would be reading "the remainder" as possibly empty, but the passage's own phrasing rules that out by describing what the remainder does.
 
-**Question 6 (moderate)** — Statement: "Formal peer review produces more accurate findings." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Formal peer review produces more accurate findings." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports that departments with formal peer review had higher *confidence* in their findings, and then states explicitly that the review did not assess whether findings were more accurate. Confidence and accuracy are different constructs, and the passage flags its own silence on the second. So the answer is Cannot Say. This is a doubly-signposted item: the passage distinguishes the constructs and then declares the gap, and a candidate who still answers True has substituted a professional intuition — that peer review probably does improve accuracy — for what the text supports. That intuition may well be correct, and it is not evidence.
 
-**Question 7 (moderate)** — Statement: "The review recommends developing a common assurance standard." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The review recommends developing a common assurance standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The review recommends that the profession *consider developing* a common assurance standard. That is a recommendation to evaluate an option, not a recommendation to adopt it. The statement collapses the two and asserts a recommendation the review did not make, so it is False rather than Cannot Say — the passage tells you what was recommended, and it was something else. This distinction pervades real governance writing, and misreading it in the workplace produces the familiar spectacle of a team implementing something nobody asked for, or a review author objecting that their recommendation has been overstated.
 
-**Question 8 (harder)** — Statement: "Line management oversight is an inadequate form of assurance." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Line management oversight is an inadequate form of assurance." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -537,19 +537,19 @@ The verbal skills tested map onto your named skills:
 
 "Departments should design research so that findings reach decision-makers before decisions are taken. Where this is not possible, the reason must be recorded. Research findings must not be amended to reflect the preferences of stakeholders; presentation may be adapted to the audience provided the substance is unchanged. Researchers who are asked to alter findings should raise the matter with the head of user research, who is accountable for the integrity of research outputs across the department."
 
-**Question 9 (easy)** — Statement: "Findings may be presented differently for different audiences." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Findings may be presented differently for different audiences." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that presentation may be adapted to the audience provided the substance is unchanged. The statement, which claims only that different presentation is permitted, follows and is True. Note that the statement is weaker than the passage's full provision — it omits the substance condition — but a weaker statement that the passage supports is still True. Candidates sometimes mark such statements False for being incomplete, which confuses "does not state everything" with "states something wrong".
 
-**Question 10 (moderate)** — Statement: "A researcher who is asked to alter findings must refuse." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A researcher who is asked to alter findings must refuse." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says two related things: findings must not be amended to reflect stakeholder preferences, and researchers asked to alter findings should raise the matter with the head of user research. Neither states what the individual researcher must personally do at the moment of the request. A requirement to escalate is not the same as a requirement to refuse — indeed the escalation route exists partly so that the individual is not left to refuse alone. Since the passage neither imposes nor excludes a duty to refuse, the answer is Cannot Say. This is a genuinely subtle item, and it rewards noticing that "must not be amended" is a rule about outcomes while "should raise the matter" is a rule about conduct.
 
-**Question 11 (harder)** — Statement: "Where findings cannot reach decision-makers before a decision, the department has breached the requirement." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "Where findings cannot reach decision-makers before a decision, the department has breached the requirement." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -608,7 +608,7 @@ Protect the integrity of the evidence, and protect other people's ability to pro
 
 Develop capability while solving the problem. The best answers at your level frequently teach, delegate with support, or change a process — not because that is nicer, but because a senior researcher who only produces outputs does not scale.
 
-Escalate what genuinely requires authority you do not hold, and handle everything else. Safeguarding, ethics approvals, data incidents and serious professional misconduct go up. Methodological disagreements, stakeholder pressure, scope conflicts and peer feedback you handle.
+Escalate what genuinely requires authority you do not hold, and handle everything else. Safeguarding, ethics approvals, data incidents, and serious professional misconduct go up. Methodological disagreements, stakeholder pressure, scope conflicts and peer feedback you handle.
 
 One trap: options that are pleasant, and options that are decisive, are both attractive for reasons unconnected to effectiveness.
 

@@ -554,7 +554,7 @@ doing nothing?
 
 ## Legal compliance
 
-Your accountabilities cover pay, performance, moves and exits, which brings
+Your accountabilities cover pay, performance, moves, and exits, which brings
 employment duties into the job alongside the product ones. These questions ask
 about awareness, training and support, not about whether you can state the law
 correctly.
@@ -569,7 +569,7 @@ apply.
 - [ ] The public sector equality duty, under the Equality Act 2010
 - [ ] Equal pay and fair pay decisions
 - [ ] Recruitment and fair selection
-- [ ] Performance management, capability and exit processes
+- [ ] Performance management, capability, and exit processes
 - [ ] Reasonable adjustments
 - [ ] Managing public money, or your organisation's financial rules
 - [ ] Government technology and spend controls
@@ -701,7 +701,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/product-and-delivery/product-manager/5-head-of-product.md)
-  — courses, articles, talks and books pitched at head of product.
+  — courses, articles, talks, and books pitched at head of product.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/product-manager/5-head-of-product.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/product-manager/5-head-of-product.md)

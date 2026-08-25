@@ -12,7 +12,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — evidence auditing at a distance, cross-service synthesis, systemic diagnosis, strategic prioritisation, and reasoning about organisational mechanisms.
 2. A numeric reasoning assessment — weighted aggregation, funnel and cohort data, sampling adequacy, business case and vendor claims, and the interrogation of figures already embedded in decisions.
-3. A verbal reasoning assessment — governance frameworks, audit reports, cross-government standards and technical specifications, with items pitched at real ambiguity.
+3. A verbal reasoning assessment — governance frameworks, audit reports, cross-government standards, and technical specifications, with items pitched at real ambiguity.
 4. A situational judgement assessment — ethics and inclusion at scale, assurance across boundaries, coaching and conditions, and the defence of design positions in senior forums.
 
 Each section provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
@@ -31,7 +31,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At lead level the materials are organisational and the reasoning is diagnostic and strategic. You will meet evidence assembled by other people for other purposes, standards applied unevenly across teams, findings that appear to conflict until you establish what each measured, and prioritisation problems whose units are services and shared assets rather than screens.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both rewarding precision.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both rewarding precision.
 
 Three things characterise this section at your level.
 
@@ -247,7 +247,7 @@ Reviewing a year of outputs, you find two teams consistently produce accessible 
 
 A numeric reasoning assessment measures how accurately you handle quantitative material. At lead level the emphasis is almost wholly on interrogation. You will need to compute correctly, but the questions that matter ask whether a figure means what somebody claims — and in most rooms you enter, you may be the only person who will ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
 
 The professional stake is large. Quantitative evidence carries unearned authority: a number in a board paper is a fact, a design argument is a view, regardless of the rigour behind either. The figures you encounter are increasingly consequential and increasingly detached from anyone who could explain them — business cases, vendor conformance claims, benefits figures, performance metrics copied between documents for years without the definition being re-checked. Your role names gaining support for design strategy from senior leaders, and in practice that frequently reduces to whether you can engage credibly with the numbers those leaders work from.
 
@@ -315,7 +315,7 @@ What is the overall completion rate, and the gap between highest and lowest grou
 
 **Question 4 (easy) — Centre and spread**
 
-Thirteen sessions produced task times in seconds: 12, 15, 18, 20, 22, 25, 28, 30, 35, 40, 45, 50 and 300. Which summary is most defensible?
+Thirteen sessions produced task times in seconds: 12, 15, 18, 20, 22, 25, 28, 30, 35, 40, 45, 50, and 300. Which summary is most defensible?
 
 - A) Mean 49.2 seconds
 - B) Median 28 seconds, range 12 to 300, with the 300-second case described separately
@@ -324,7 +324,7 @@ Thirteen sessions produced task times in seconds: 12, 15, 18, 20, 22, 25, 28, 30
 
 **Correct answer: B**
 
-**Explanation:** The mean of about 49 exceeds eleven of the thirteen observations, so it represents almost nobody. The median is the seventh value, 28 seconds, which describes the group well. But the median alone conceals a session lasting more than ten times the typical duration, which is almost certainly the most informative observation in the set. Option B gives centre, spread and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to write into your standard: a central figure never travels alone, and an outlier is a lead to investigate rather than noise to absorb — the person who took 300 seconds hit something the other twelve did not.
+**Explanation:** The mean of about 49 exceeds eleven of the thirteen observations, so it represents almost nobody. The median is the seventh value, 28 seconds, which describes the group well. But the median alone conceals a session lasting more than ten times the typical duration, which is almost certainly the most informative observation in the set. Option B gives centre, spread, and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to write into your standard: a central figure never travels alone, and an outlier is a lead to investigate rather than noise to absorb — the person who took 300 seconds hit something the other twelve did not.
 
 **Question 5 (moderate) — Weighted aggregation**
 
@@ -337,7 +337,7 @@ Four studies of a component: 15 participants at 40% success; 25 at 60%; 10 at 70
 
 **Correct answer: B**
 
-**Explanation:** Convert each rate to counts. Study 1: 40% of 15 = 6. Study 2: 60% of 25 = 15. Study 3: 70% of 10 = 7. Study 4: 80% of 30 = 24. Total 6 + 15 + 7 + 24 = 52, across 80 participants, so 52 ÷ 80 = 0.65, which is 65% and the answer is B. Option A is the unweighted mean of 40, 60, 70 and 80, which is 62.5 and over-weights the two smallest studies at the expense of the 30-participant study that should dominate. Always return to counts, and re-check the total before it leaves your hands — at your level a plausible-looking figure travels on your authority and nobody downstream will question it. Ask the prior question too: aggregating four studies of a component is meaningful only if the task and population were comparable.
+**Explanation:** Convert each rate to counts. Study 1: 40% of 15 = 6. Study 2: 60% of 25 = 15. Study 3: 70% of 10 = 7. Study 4: 80% of 30 = 24. Total 6 + 15 + 7 + 24 = 52, across 80 participants, so 52 ÷ 80 = 0.65, which is 65% and the answer is B. Option A is the unweighted mean of 40, 60, 70, and 80, which is 62.5 and over-weights the two smallest studies at the expense of the 30-participant study that should dominate. Always return to counts, and re-check the total before it leaves your hands — at your level a plausible-looking figure travels on your authority and nobody downstream will question it. Ask the prior question too: aggregating four studies of a component is meaningful only if the task and population were comparable.
 
 **Question 6 (moderate) — Funnel denominators**
 
@@ -456,9 +456,9 @@ A board paper states: "Testing confirms 93% of users can complete the service in
 
 ### About this assessment
 
-A verbal reasoning assessment measures how accurately you read. At your level the documents that matter are governance frameworks, organisational standards, audit reports, cross-government guidance, technical specifications, board papers and contracts. A misread exception clause becomes a compliance failure across several teams; a misread audit finding becomes advice given confidently to a director general.
+A verbal reasoning assessment measures how accurately you read. At your level the documents that matter are governance frameworks, organisational standards, audit reports, cross-government guidance, technical specifications, board papers, and contracts. A misread exception clause becomes a compliance failure across several teams; a misread audit finding becomes advice given confidently to a director general.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and the part specific to your level is this: expertise actively costs marks. The more accessibility criteria and component specifications you have read, the more readily you supply the clause you expect and feel entirely confident doing it. Candidates at your level underperform on verbal reasoning at rates that surprise them, and this is nearly always the mechanism. The counter-habit must be mechanical: before marking anything True, put your finger on the words.
 
@@ -485,25 +485,25 @@ The verbal skills tested map onto your named skills:
 
 "Organisations must submit an annual design assurance return to the cross-government profession board, unless all design work within the organisation has been delivered under a centrally managed programme. Returns must confirm that accessibility assurance was completed where required, and must list any services where it was not. Where an organisation identifies a service released without required accessibility assurance, it must notify the board within ten working days of identifying it, separately from the annual return. Returns are published across government; notifications are not."
 
-**Question 1 (easy)** — Statement: "Every organisation must submit an annual design assurance return." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Every organisation must submit an annual design assurance return." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception: organisations where all design work was delivered under a centrally managed programme are exempt. The statement's "every" contradicts that, so False. This is the most reliable pattern in the section. Note that the exception says "all design work", not "most", which narrows it substantially and supplies the material for Question 3.
 
-**Question 2 (easy)** — Statement: "Notifications of missed accessibility assurance are published across government." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Notifications of missed accessibility assurance are published across government." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final sentence states that returns are published across government and notifications are not. The statement contradicts this, so False. The item tests whether you read past the point where a sentence appeared to finish — the semicolon clause carries the operative distinction, and a reader who registered "returns are published across government" would generalise it. Governance prose places qualifications after semicolons with striking regularity, and slowing down there rather than speeding up is a habit worth building deliberately when you are reading at volume.
 
-**Question 3 (moderate)** — Statement: "An organisation where nineteen of twenty services were delivered under a centrally managed programme must submit a return." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "An organisation where nineteen of twenty services were delivered under a centrally managed programme must submit a return." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The exemption applies only where *all* design work was delivered centrally. Nineteen of twenty does not satisfy that, so the exemption does not apply and the requirement stands — the statement follows and is True. The item rewards carrying "all" from the first sentence to a scenario several lines later. It also reflects a recurring organisational error: partial satisfaction of an exception condition is non-compliance, and organisations routinely assume the reverse on the reasoning that they are substantially covered. Catching that before a return is due, rather than after it is late, is squarely your job.
 
-**Question 4 (moderate)** — Statement: "A service released without required accessibility assurance must be notified within ten working days of release." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A service released without required accessibility assurance must be notified within ten working days of release." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -513,25 +513,25 @@ The verbal skills tested map onto your named skills:
 
 "The cross-government review of component libraries found considerable variation between departments. Five departments maintain a shared internal library; the remainder rely on team-level components. Departments with a shared library reported fewer accessibility defects reaching live, although the review did not examine whether their components were more accessible when tested independently. The review recommends that the profession board consider whether a common approach to component governance would be proportionate."
 
-**Question 5 (easy)** — Statement: "Some departments do not maintain a shared internal component library." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some departments do not maintain a shared internal component library." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that five departments maintain one and the remainder rely on team-level components, establishing directly that some do not. True. Answer quickly and bank the time. The only conceivable ambiguity — whether "the remainder" might be empty — is closed by the passage describing what the remainder does.
 
-**Question 6 (moderate)** — Statement: "Shared component libraries produce more accessible components." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Shared component libraries produce more accessible components." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports fewer defects reaching live and then states explicitly that whether the components were more accessible when tested independently was not examined. Those are different things, and the gap between them is instructive: a shared library might produce better components, or might simply concentrate review so that defects are caught before release rather than after, or might be maintained by departments that also happen to have stronger assurance for unrelated reasons. The passage flags its own silence, so Cannot Say. A candidate answering True has substituted professional intuition for what the text supports — and at your level that is exactly the substitution that produces a cross-government recommendation resting on a finding the review declined to make.
 
-**Question 7 (moderate)** — Statement: "The review recommends introducing common component governance." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The review recommends introducing common component governance." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The review recommends that the board *consider whether* a common approach would be proportionate, which includes concluding it would not be. The statement asserts a recommendation to introduce, which was not made, so False rather than Cannot Say: the passage tells you what was recommended and it was something different. This pervades review and audit prose and produces a familiar sequence in which a recommendation to consider becomes a commitment to deliver, is tracked, and is reported against for a year without anyone having decided it was right.
 
-**Question 8 (harder)** — Statement: "Team-level components are a weaker approach than a shared library." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Team-level components are a weaker approach than a shared library." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -541,19 +541,19 @@ The verbal skills tested map onto your named skills:
 
 "Design decisions must not be altered to reflect the preferences of stakeholders where doing so would misrepresent the evidence. Presentation may be adapted to the audience provided the substance is unchanged. Where a designer is asked to alter a design rationale, the matter must be raised with the head of profession, who is accountable for the integrity of design outputs. Where design input cannot reach decision-makers before a decision is taken, the reason must be recorded; records are reviewed annually."
 
-**Question 9 (easy)** — Statement: "Design rationale may be presented differently to different audiences." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Design rationale may be presented differently to different audiences." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The second sentence permits adapting presentation to the audience provided substance is unchanged, and the statement claims only that different presentation is permitted. It follows and is True. The statement is weaker than the passage's full provision, omitting the substance condition — but a weaker statement the passage supports is still True. Candidates occasionally mark such statements False for incompleteness, confusing "does not say everything" with "says something wrong".
 
-**Question 10 (moderate)** — Statement: "A designer asked to alter a design rationale must refuse." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A designer asked to alter a design rationale must refuse." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage establishes that decisions must not be altered where doing so would misrepresent the evidence, and that a request must be raised with the head of profession. Neither states what the individual designer must personally do at the moment of the request. A duty to escalate is not a duty to refuse — arguably the escalation route exists so that an individual is not left to refuse alone, which is a substantive protection and, in a role adjacent to yours, the protection you are expected to provide. Note also that the first sentence's prohibition is itself conditional: alteration is prohibited *where doing so would misrepresent the evidence*, which is narrower than a blanket prohibition. Cannot Say.
 
-**Question 11 (harder)** — Statement: "Altering a design rationale at a stakeholder's request always breaches the requirements." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "Altering a design rationale at a stakeholder's request always breaches the requirements." True, False, or Cannot Say?
 
 **Correct answer: False**
 

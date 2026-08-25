@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of head of 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you manage a team providing first and second line technical support, ensure support for existing and emerging ICT services, provide technical advice to project teams, ensure the team develops so it can advise on future projects, and manage and monitor service desk service level agreements and performance. The resources below emphasise capability building, performance management, experience measurement and advising delivery.
+At this role level you manage a team providing first and second line technical support, ensure support for existing and emerging ICT services, provide technical advice to project teams, ensure the team develops so it can advise on future projects, and manage and monitor service desk service level agreements and performance. The resources below emphasise capability building, performance management, experience measurement, and advising delivery.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Service Level Management and IT Governance](https://www.udemy.com/course/service-level-management-and-it-governance/): The benefits of service level agreements, key success factors and continuous improvement of the process. Directly the accountability at this level.
+- [Service Level Management and IT Governance](https://www.udemy.com/course/service-level-management-and-it-governance/): The benefits of service level agreements, key success factors, and continuous improvement of the process. Directly the accountability at this level.
 
 - [IT Service Management: develop SLA, Service Catalog, OLA](https://www.udemy.com/course/it-service-management-develop-sla-service-catalog-ola/): Aligning IT to business goals through service catalogue, SLA and OLA, including third-party services.
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process, capacity and cycle time analysis, which is the analytical basis for staffing and performance targets.
+- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process, capacity, and cycle time analysis, which is the analytical basis for staffing and performance targets.
 
 - [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement and root cause analysis at function scale.
 
@@ -142,7 +142,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): By Cole Nussbaumer Knaflic. Performance reporting that senior stakeholders act on.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence about practice and outcomes, useful when advising project teams.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence about practice and outcomes, useful when advising project teams.
 
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook/dp/B07K3QBWG1): By Melissa Perri. Outcome focus over output counting, which is the culture a support function needs.
 

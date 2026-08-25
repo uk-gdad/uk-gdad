@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols and resource co-ordination.
+- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols, and resource co-ordination.
 
 - [Major Incident Management Course from Scratch to End](https://www.udemy.com/course/major-incident-management-course-from-scratch-to-end/): A course focused specifically on the major incident process rather than incident management generally.
 
@@ -38,13 +38,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Event, Incident, and Problem Management: ITIL](https://www.skillsoft.com/course/event-incident-and-problem-management-0fe6c829-bdd7-4921-9a23-d8a7365ae359): The three practices as a connected sequence, at the level where you own the handoffs.
 
-- [Backup and Recovery: Business Continuity and Disaster Recovery](https://www.skillsoft.com/course/backup-recovery-business-continuity-disaster-recovery-a53ef3a2-f008-46b5-972b-233568bac681): Business impact assessment, risk assessment and system resilience, which is the substance behind your continuity runbooks.
+- [Backup and Recovery: Business Continuity and Disaster Recovery](https://www.skillsoft.com/course/backup-recovery-business-continuity-disaster-recovery-a53ef3a2-f008-46b5-972b-233568bac681): Business impact assessment, risk assessment, and system resilience, which is the substance behind your continuity runbooks.
 
-- [Business Continuity Programs](https://www.skillsoft.com/course/business-continuity-programs-e45de5fa-63d1-40d2-8897-4bc581034c3f): Planning recovery of operations across pandemic, natural disaster, technological failure and human error.
+- [Business Continuity Programs](https://www.skillsoft.com/course/business-continuity-programs-e45de5fa-63d1-40d2-8897-4bc581034c3f): Planning recovery of operations across pandemic, natural disaster, technological failure, and human error.
 
 ## edX courses
 
-- [Cyber Incident Response and Investigation (IBM)](https://www.edx.org/learn/cybersecurity/ibm-cyber-incident-response-and-investigation): Defensive tactics, access controls and monitoring, since major incidents increasingly have a security dimension.
+- [Cyber Incident Response and Investigation (IBM)](https://www.edx.org/learn/cybersecurity/ibm-cyber-incident-response-and-investigation): Defensive tactics, access controls, and monitoring, since major incidents increasingly have a security dimension.
 
 - [Penetration Testing and Incident Response (IBM)](https://www.edx.org/learn/penetration-testing/ibm-penetration-testing-and-incident-response): The phases of incident response and the forensic process, useful when evidence handling matters.
 
@@ -52,9 +52,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Fault tolerance, replication, transactions and isolation, which is the theory behind cascading failure.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Fault tolerance, replication, transactions, and isolation, which is the theory behind cascading failure.
 
-- [15.281 Advanced Communication for Leaders](https://ocw.mit.edu/courses/15-281-advanced-communication-for-leaders-spring-2016/): Presenting to a hostile audience, running productive meetings and contributing to group decisions under pressure. Directly applicable to a crisis bridge.
+- [15.281 Advanced Communication for Leaders](https://ocw.mit.edu/courses/15-281-advanced-communication-for-leaders-spring-2016/): Presenting to a hostile audience, running productive meetings, and contributing to group decisions under pressure. Directly applicable to a crisis bridge.
 
 - [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Root cause analysis and improvement planning, which is where a major incident should end up.
 
@@ -94,7 +94,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Enhancing reliability in AI inference services: An empirical study on real production incidents](https://arxiv.org/pdf/2511.07424): An analysis of 156 high-impact production incidents with findings that generalise.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis techniques across metrics, traces and logs.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis techniques across metrics, traces, and logs.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): The challenges and enablers in root cause analysis, including bias and data quality.
 
@@ -126,13 +126,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command system used by emergency services, applied to IT. The core text for this role.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command system used by emergency services, applied to IT. The core text for this role.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Incident response, command structure and postmortem practice in detail.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Incident response, command structure, and postmortem practice in detail.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity failure patterns, which lets you recognise a cascade early.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Debugging genuinely novel failures, which is what a crisis usually is.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Debugging genuinely novel failures, which is what a crisis usually is.
 
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869): By Rosenthal and Jones. Discovering weakness deliberately, which is the mature version of testing your runbooks.
 
@@ -144,7 +144,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Root Cause Analysis: Improving Performance for Bottom-Line Results](https://www.amazon.com/Root-Cause-Analysis-Performance-Bottom-Line-ebook/dp/B07TLG2HBM): By Latino, Latino and Latino. What a holistic root cause analysis system looks like across an organisation.
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operations at scale, with substantial material on outage handling.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operations at scale, with substantial material on outage handling.
 
 ## Professional development tips
 

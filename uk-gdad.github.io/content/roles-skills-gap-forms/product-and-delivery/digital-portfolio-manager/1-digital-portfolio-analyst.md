@@ -567,7 +567,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/product-and-delivery/digital-portfolio-manager/1-digital-portfolio-analyst.md)
-  — courses, blog posts, videos and books for a digital portfolio analyst.
+  — courses, blog posts, videos, and books for a digital portfolio analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/digital-portfolio-manager/1-digital-portfolio-analyst.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/digital-portfolio-manager/1-digital-portfolio-analyst.md)

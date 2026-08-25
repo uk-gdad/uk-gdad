@@ -20,17 +20,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [MD-102 Endpoint Administrator (Packt)](https://www.coursera.org/specializations/packt-md-102-endpoint-administrator): Enrolling and configuring devices across Windows, iOS, Android and ChromeOS with Intune, implementing security baselines, automating updates and troubleshooting device issues.
+- [MD-102 Endpoint Administrator (Packt)](https://www.coursera.org/specializations/packt-md-102-endpoint-administrator): Enrolling and configuring devices across Windows, iOS, Android and ChromeOS with Intune, implementing security baselines, automating updates, and troubleshooting device issues.
 
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support): Troubleshooting, networking, operating systems, system administration, automation and security, useful for filling specific gaps.
 
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Python, Git and configuration management for automating administration tasks. The fastest route out of repeating the same fix by hand.
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Python, Git, and configuration management for automating administration tasks. The fastest route out of repeating the same fix by hand.
 
 ## Udemy courses
 
 - [MD-102: Microsoft 365 Endpoint Administrator Full Course](https://www.udemy.com/course/md-102-microsoft-365-endpoint-admin-associate-full-course/): Preparing infrastructure, Autopilot and device management, app management and device protection.
 
-- [Microsoft Certified Endpoint Administrator (MD-102)](https://www.udemy.com/course/microsoft-certified-endpoint-administrator-md-102/): Deploying, securing, managing and monitoring Windows devices using Intune, Entra ID, Autopilot, Defender and Windows Update.
+- [Microsoft Certified Endpoint Administrator (MD-102)](https://www.udemy.com/course/microsoft-certified-endpoint-administrator-md-102/): Deploying, securing, managing and monitoring Windows devices using Intune, Entra ID, Autopilot, Defender, and Windows Update.
 
 - [IT service operations and Service Desk management](https://www.udemy.com/course/it-service-operations-and-service-desk-management/): Incident and request models, and building monitoring into service operations.
 
@@ -44,17 +44,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## edX courses
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines and observability.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines, and observability.
 
-- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models and infrastructure, which is what the services on the device connect to.
+- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models, and infrastructure, which is what the services on the device connect to.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): Context on how the services behind end user computing are built and run.
 
 ## MIT OpenCourseWare courses
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Operating systems, naming, networks, performance and fault tolerance. The material behind most faults you diagnose.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Operating systems, naming, networks, performance, and fault tolerance. The material behind most faults you diagnose.
 
-- [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Broad coverage across hardware, operating systems, databases, security and enterprise applications.
+- [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Broad coverage across hardware, operating systems, databases, security, and enterprise applications.
 
 - [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process and cycle time analysis, which underpins the performance indicators you report against.
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Sources of Customer Satisfaction and Dissatisfaction with Information Technology Help Desks](https://link.springer.com/article/10.1023/A:1009794622860): What actually drives satisfaction with IT support, which is often not resolution speed alone.
 
-- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Finds solution quality, consultation experience and tangibles as the real dimensions.
+- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Finds solution quality, consultation experience, and tangibles as the real dimensions.
 
 - [An investigation of technical support issues influencing user satisfaction](https://digital.library.unt.edu/ark:/67531/metadc2528/): Finds support method and technician experience level to be the significant factors.
 
@@ -104,13 +104,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Videos
 
-- [Microsoft Intune and Autopilot Setup Guide](https://www.youtube.com/playlist?list=PLY27VNfjvp0U5DOYtdNmAZBZ8AOzdJlDy): Device provisioning, app deployment and compliance policies as a full playlist.
+- [Microsoft Intune and Autopilot Setup Guide](https://www.youtube.com/playlist?list=PLY27VNfjvp0U5DOYtdNmAZBZ8AOzdJlDy): Device provisioning, app deployment, and compliance policies as a full playlist.
 
 - [How to Setup Windows Autopilot in Microsoft Intune](https://www.youtube.com/watch?v=T6CdidqByTc): A step-by-step Autopilot setup, which removes most manual build work.
 
 - [Intune Tutorial 38: Autopilot Troubleshooting Tips in Intune](https://www.youtube.com/watch?v=QrM3Yrn8AdQ): Troubleshooting when provisioning goes wrong, which is where the real skill sits.
 
-- [Intune Debug Toolkit](https://www.youtube.com/watch?v=LCwoz0z-URw): Diagnosing errors, deployment failures and device management issues.
+- [Intune Debug Toolkit](https://www.youtube.com/watch?v=LCwoz0z-URw): Diagnosing errors, deployment failures, and device management issues.
 
 - [ITIL 4 Foundation Change control](https://www.youtube.com/watch?v=iD0fnEzHjoU): The change control practice you apply.
 
@@ -132,11 +132,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A Guide to Computer User Support for Help Desk and Support Specialists](https://www.amazon.com/Guide-Computer-User-Support-Specialists/dp/1285852680): The support role as a discipline, including the communication half that determines satisfaction.
 
-- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark and West. A compact diagnostic reference.
+- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark, and West. A compact diagnostic reference.
 
 - [Mastering System Center Configuration Manager](https://www.amazon.com/Mastering-System-Center-Configuration-Manager/dp/1119258456): Planning, deploying software and operating systems, security, monitoring and troubleshooting at fleet scale.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The standing reference for enterprise operations practice.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The standing reference for enterprise operations practice.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. The ITIL incident practice, supporting the Level 3 qualification.
 
@@ -144,7 +144,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): By Cole Nussbaumer Knaflic. Practical guidance for the reporting expected at this level.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Why unplanned work crowds out improvement, which is the trap this role falls into.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Why unplanned work crowds out improvement, which is the trap this role falls into.
 
 ## Professional development tips
 

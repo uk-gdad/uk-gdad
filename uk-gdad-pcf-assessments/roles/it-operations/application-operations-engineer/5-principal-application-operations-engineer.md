@@ -818,7 +818,7 @@ One of your leads — twelve years in the organisation, deeply loyal, personally
 
 **Question 12 (hard) — The minister's deadline and the release you own**
 
-A ministerial announcement in nine days commits your department to launching a new citizen-facing feature. The programme is late; the feature reached your operations acceptance gate yesterday with: performance testing complete only for half the projected launch traffic, two known defects (one with a workaround, one intermittent and undiagnosed), and no rehearsed rollback for the data migration component. The programme director, backed by the digital director, asks you to waive the acceptance gate: "It's nine days. The announcement is made. Make it work." What is the most effective response?
+A ministerial announcement in nine days commits your department to launching a new citizen-facing feature. The programme is late; the feature reached your operations acceptance gate yesterday with: performance testing complete only for half the projected launch traffic, two known defects (one with a workaround, one intermittent, and undiagnosed), and no rehearsed rollback for the data migration component. The programme director, backed by the digital director, asks you to waive the acceptance gate: "It's nine days. The announcement is made. Make it work." What is the most effective response?
 
 - A) Waive the gate — the announcement is a political fact, and operations must serve the department's commitments.
 - B) Hold the gate absolutely: the criteria exist for exactly this pressure, and the launch moves when the criteria are met, announcement or no announcement.

@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [ITSM Foundations: Optimizing IT Service Management](https://www.coursera.org/learn/itsm-foundations-optimizing-it-service-management): Core ITSM principles through a working platform, covering service requests, incidents and problems.
+- [ITSM Foundations: Optimizing IT Service Management](https://www.coursera.org/learn/itsm-foundations-optimizing-it-service-management): Core ITSM principles through a working platform, covering service requests, incidents, and problems.
 
 - [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Incidents, problems, service requests, change management and the CMDB in one connected view.
 
@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Incident management from logging to resolution, including P1 and P2 handling, validation, communication and post-incident analysis.
+- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Incident management from logging to resolution, including P1 and P2 handling, validation, communication, and post-incident analysis.
 
 - [Master Incident and Major Incident Management](https://www.udemy.com/course/master-incident-major-incident-management-get-job-ready/): Incident management fundamentals through to major incident handling, structured for people taking responsibility for it.
 
@@ -46,21 +46,21 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): How DevOps and SRE change the shape of incident work.
 
-- [Cyber Incident Response and Investigation (IBM)](https://www.edx.org/learn/cybersecurity/ibm-cyber-incident-response-and-investigation): Network defensive tactics, access controls and monitoring, since a growing share of incidents have a security dimension.
+- [Cyber Incident Response and Investigation (IBM)](https://www.edx.org/learn/cybersecurity/ibm-cyber-incident-response-and-investigation): Network defensive tactics, access controls, and monitoring, since a growing share of incidents have a security dimension.
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, pipelines and observability, which is the environment you are diagnosing inside.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, pipelines, and observability, which is the environment you are diagnosing inside.
 
 ## MIT OpenCourseWare courses
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Fault tolerance through replication, transactions and isolation, plus performance and networks. The theory behind the failures you handle.
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Root cause analysis, value stream mapping and improvement planning.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Root cause analysis, value stream mapping, and improvement planning.
 
 - [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process and cycle time analysis, which is the reasoning behind prioritising a queue.
 
 ## Blog posts
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [The Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook): Roles, severity definitions, communication and review, published openly.
 
@@ -88,9 +88,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Cyber Incident Response and Planning: A Flexible Approach](https://www.sciencedirect.com/science/article/abs/pii/S1361372321000099): Develops an incident response maturity model aligned to practice requirements.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs, and multi-model data.
 
-- [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): Identifies 14 challenges and 17 enablers, including expertise gaps, bias and poor data quality.
+- [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): Identifies 14 challenges and 17 enablers, including expertise gaps, bias, and poor data quality.
 
 - [Improving the Software Problem Management Process: A Case Study](https://link.springer.com/chapter/10.1007/11908562_5): The difficulties in a real problem management process, from a case study.
 
@@ -114,7 +114,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Performing Postmortems and Postmortem Templates](https://www.youtube.com/watch?v=Y-vY2iCoyTU): Templates, which are what turn a postmortem intention into a habit.
 
-- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces and timelines.
+- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces, and timelines.
 
 - [Full-stack Observability](https://www.youtube.com/watch?v=toS5rvET7hg): Observability across the stack, which is where your diagnosis actually happens.
 
@@ -126,21 +126,21 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command system used by emergency services, applied to IT. The single most useful book for this role.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command system used by emergency services, applied to IT. The single most useful book for this role.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. The ITIL incident management practice, useful for the Level 3 qualification.
 
 - [Problem Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Problem-Management-Newbies-Guidance-Beginners-ebook/dp/B00PNNZ4LY): By William Edwards. Problem management including Kepner-Tregoe analysis, which is where your incidents should lead.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical incident response, on-call load and postmortem practice.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical incident response, on-call load and postmortem practice.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Debugging failures nobody predicted, which is what incidents mostly are.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Debugging failures nobody predicted, which is what incidents mostly are.
 
 - [Root Cause Analysis: The Core of Problem Solving and Corrective Action](https://www.amazon.com/Root-Cause-Analysis-Problem-Corrective-ebook/dp/B0BQJQQZ8C): By Duke Okes. A disciplined investigation method rather than a checklist.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity failure patterns, which lets you recognise a failure mode faster.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The enterprise operations reference.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The enterprise operations reference.
 
 - [ITSM QuickStart Guide: The Simplified Beginner's Guide to IT Service Management](https://www.amazon.com/ITSM-QuickStart-Simplified-Beginners-Management/dp/1945051086): By ClydeBank Technology. Orientation to ITSM culture and language.
 

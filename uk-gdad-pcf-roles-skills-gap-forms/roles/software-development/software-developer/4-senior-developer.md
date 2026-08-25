@@ -9,7 +9,7 @@ between what you do now and what your organisation needs from someone at this
 level, and to work out what would close it.
 
 At your level the interesting gaps are rarely technical. The framework already
-assumes you can design, build, test and operate software of medium-to-high
+assumes you can design, build, test, and operate software of medium-to-high
 complexity. What it adds at senior is everything around that: planning and
 leading work across sets of related stories, holding the whole system in your
 head and teaching it to others, working with other disciplines, coaching, and
@@ -384,7 +384,7 @@ looks like, and what has stopped you closing that gap?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** The core craft: reviewing specifications, then designing,
-coding, testing and documenting programs of real complexity with the right
+coding, testing, and documenting programs of real complexity with the right
 standards and tools.
 
 **What the framework expects at this level.** That you collaborate with others
@@ -824,7 +824,7 @@ than no form, so it is fair to ask for a date.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/4-senior-developer.md)
-  — courses, articles, talks and books pitched at senior developer.
+  — courses, articles, talks, and books pitched at senior developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/4-senior-developer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/software-developer/4-senior-developer.md)

@@ -293,7 +293,7 @@ A gentle note if numbers make you nervous: numeric anxiety is common, including 
 - **Reading tables and charts** maps to **Design communication** and **Evidence-based design**: before you can clearly explain evidence to others, you must extract the right numbers from the right rows — and when you present data visually yourself, understanding how charts can mislead helps you design honest ones.
 - **Averages and simple summaries** map to working with researchers or analysts to inform, develop and test a design idea: usability timings, satisfaction scores, and test results usually arrive as averages, and you need to know what an average does and does not tell you.
 - **Grid and dimension arithmetic** maps to **Iterative design**: prototyping at different fidelities and building layouts on grids involves quick, reliable arithmetic with column widths, gutters, margins, and image dimensions.
-- **Proportional scaling** maps to the craft core of your role — layout, spacing, colour, type and iconography: resizing images and graphic elements without distortion is ratio arithmetic, done many times a day.
+- **Proportional scaling** maps to the craft core of your role — layout, spacing, colour, type, and iconography: resizing images and graphic elements without distortion is ratio arithmetic, done many times a day.
 
 ### Practice questions
 
@@ -575,7 +575,7 @@ Statement: The label on a greyed-out button must meet the 4.5:1 ratio.
 
 *Passage B — for Questions 5 to 8*
 
-"The design system provides three button styles: primary, secondary and warning. Guidance states that a page should contain no more than one primary button, which should be used for the main action the user is expected to take. Secondary buttons may be used for alternative actions. The warning style should be reserved for actions that are difficult or impossible to reverse, such as deleting a record. Teams departing from the design system should record the reason. The design system is updated quarterly."
+"The design system provides three button styles: primary, secondary, and warning. Guidance states that a page should contain no more than one primary button, which should be used for the main action the user is expected to take. Secondary buttons may be used for alternative actions. The warning style should be reserved for actions that are difficult or impossible to reverse, such as deleting a record. Teams departing from the design system should record the reason. The design system is updated quarterly."
 
 **Question 5 (easy)**
 
@@ -587,7 +587,7 @@ Statement: The design system provides three button styles.
 
 **Correct answer: A**
 
-**Explanation:** Stated directly: primary, secondary and warning. Straightforward, and worth reading carefully anyway, because the questions that follow turn on the guidance attached to each.
+**Explanation:** Stated directly: primary, secondary, and warning. Straightforward, and worth reading carefully anyway, because the questions that follow turn on the guidance attached to each.
 
 **Question 6 (moderate)**
 
@@ -912,7 +912,7 @@ You have worked through four assessments built around the reasoning a junior gra
 
 The cognitive section was about working carefully from what is in front of you — spotting the pattern in a set of inconsistencies, following a rule through several conditions, and checking details rather than trusting a first impression.
 
-The numeric section was ordinary arithmetic done accurately: ratios, spacing scales, proportions and percentages, with the recurring lesson that writing the steps down beats doing it in your head.
+The numeric section was ordinary arithmetic done accurately: ratios, spacing scales, proportions, and percentages, with the recurring lesson that writing the steps down beats doing it in your head.
 
 The verbal section asked for something slightly counterintuitive — reading exactly what a standard says and setting aside what you know. Large-scale text has a two-part definition. Interface components have a different threshold from text. "Should" is not "must". And research that did not include a group tells you nothing about that group either way.
 

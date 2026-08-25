@@ -10,8 +10,8 @@ You already do these things daily. You own the enterprise architecture vision, s
 
 The document is organised into four main sections, each covering one assessment type:
 
-1. **Workplace job-specific cognitive assessment** - logical reasoning, pattern recognition, error checking and prioritisation using the artefacts you genuinely handle: roadmaps, reference architectures, decision records and transition plans.
-2. **Workplace job-specific numeric reasoning assessment** - interpretation of budgets, supplier costs, capacity figures, portfolio metrics and value-for-money calculations.
+1. **Workplace job-specific cognitive assessment** - logical reasoning, pattern recognition, error checking and prioritisation using the artefacts you genuinely handle: roadmaps, reference architectures, decision records, and transition plans.
+2. **Workplace job-specific numeric reasoning assessment** - interpretation of budgets, supplier costs, capacity figures, portfolio metrics, and value-for-money calculations.
 3. **Workplace job-specific verbal reasoning assessment** - precise comprehension of standards, policies, board papers and stakeholder correspondence.
 4. **Workplace job-specific situational judgement assessment** - realistic dilemmas drawn from the stakeholder landscape of a lead enterprise architect in UK government.
 
@@ -38,7 +38,7 @@ Expect a short set of ungraded practice questions before the assessment begins, 
 Mapped against the skills in your role profile, a cognitive assessment probes:
 
 - **Enterprise architecture** and **Strategy design**: can you hold 'as is', 'to be' and transitional states in mind simultaneously, reason about the ordering of change, and spot where a proposed sequence of deliveries breaks a dependency? Questions test whether you can connect strategies or visions across an organisation logically, not just rhetorically.
-- **Making architectural decisions**: deductive reasoning from architectural principles, policies and standards to a specific design decision; identifying which governance rule applies, and detecting when a decision record contradicts itself or the standards it cites.
+- **Making architectural decisions**: deductive reasoning from architectural principles, policies, and standards to a specific design decision; identifying which governance rule applies, and detecting when a decision record contradicts itself or the standards it cites.
 - **Problem definition and shaping**: framing a problem characterised by high complexity so that a solution can be created requires isolating the true constraints from the noise. Cognitive items test exactly this - separating relevant from irrelevant information under time pressure.
 - **Architect for the whole context**: pattern recognition across trend data, and inference about how societal and industry shifts might impact the organisation.
 - **Commercial perspective**: logical evaluation of supplier options and contractual constraints, where multiple conditions must hold at once.
@@ -237,7 +237,7 @@ If D1 and D2 are reviewed in session one, which allocation of the remaining deci
 A. Session two: D3 and D4; session three: D5.
 B. Session two: D3 and D5; session three: D4.
 C. Session two: D4 only; session three: D3, D5 and a carried-over item.
-D. Session three: D3, D4 and D5.
+D. Session three: D3, D4, and D5.
 
 **Correct answer: A.**
 
@@ -301,9 +301,9 @@ D. Service resilience
 
 ### About this assessment
 
-A workplace job-specific numeric reasoning assessment evaluates your ability to analyse, interpret and make sound decisions using numerical data in the formats your role actually handles. It emphasises business mathematics - percentages, ratios, cost comparisons, capacity figures and trend calculations - rather than abstract formulae. Most assessments allow or provide an on-screen calculator, because the assessed skill is interpretation and decision-making, not mental arithmetic. Expect strict time limits, typically around a minute to ninety seconds per question, which rewards quick, accurate extraction of the right numbers from tables, charts and dashboards.
+A workplace job-specific numeric reasoning assessment evaluates your ability to analyse, interpret and make sound decisions using numerical data in the formats your role actually handles. It emphasises business mathematics - percentages, ratios, cost comparisons, capacity figures, and trend calculations - rather than abstract formulae. Most assessments allow or provide an on-screen calculator, because the assessed skill is interpretation and decision-making, not mental arithmetic. Expect strict time limits, typically around a minute to ninety seconds per question, which rewards quick, accurate extraction of the right numbers from tables, charts, and dashboards.
 
-For a lead enterprise architect, the data will look like investment cases, supplier pricing schedules, cloud consumption reports, portfolio dashboards, workforce plans and sustainability metrics. Your duty to guide the organisation towards reuse, sustainability and scalability "to achieve value for money and reduce risk" is, at bottom, a quantitative claim: you must be able to demonstrate, with defensible numbers, why one architectural direction creates more value than another. Numeric reasoning assessments simulate exactly that demonstration under time pressure.
+For a lead enterprise architect, the data will look like investment cases, supplier pricing schedules, cloud consumption reports, portfolio dashboards, workforce plans, and sustainability metrics. Your duty to guide the organisation towards reuse, sustainability and scalability "to achieve value for money and reduce risk" is, at bottom, a quantitative claim: you must be able to demonstrate, with defensible numbers, why one architectural direction creates more value than another. Numeric reasoning assessments simulate exactly that demonstration under time pressure.
 
 ### What it measures for your role
 
@@ -547,7 +547,7 @@ This strictness is not artificial. As the owner of architectural principles, pol
 Mapped to your role profile, verbal items test:
 
 - **Architecture communication**: before you can communicate with technical and non-technical stakeholders at all levels, or mediate difficult architectural discussions, you must first extract precisely what a text claims - and register what it deliberately does not claim. Misreading a position paper before mediating a dispute is fatal to the mediation.
-- **Making architectural decisions** and governance: standards and policies are texts. Judging whether a proposal complies means reading both with precision, including scope clauses, exceptions and definitions.
+- **Making architectural decisions** and governance: standards and policies are texts. Judging whether a proposal complies means reading both with precision, including scope clauses, exceptions, and definitions.
 - **Problem definition and shaping**: distinguishing what a problem statement asserts from what it assumes is the verbal core of challenging requirements and assumptions - a coaching behaviour named explicitly in your skills.
 - **Architect for the whole context**: horizon-scanning sources - industry reports, analyst notes, policy consultations - reward readers who separate evidenced findings from vendor spin and speculation.
 - **Commercial perspective**: contract schedules and supplier responses are precisely the genre where "shall", "may", "reasonable endeavours" and "subject to" carry financial weight.
@@ -925,7 +925,7 @@ D. Continue delivering to the current strategy while the debate resolves itself 
 
 **Most effective: B. Least effective: D.**
 
-**Explanation:** B treats the strategy as what your role profile says it is: something owned, evolved and defended on evidence - not a personal artefact. Co-sponsoring with the COO converts an adversary into a joint owner of the outcome; time-boxing and the interim decision rule address the quietly accruing damage (paused programmes) that every other option ignores; and taking the criticisms as inputs honours the ones you know are valid. This is strategy design as the profession defines it - connecting and enabling, removing blockers - performed under political pressure. A defends the parts worth defending but positions you as the strategy's advocate rather than the organisation's, and leaves the valid criticisms to be discovered by others later, at greater cost to you. C outsources your core accountability at the first challenge; external perspectives can help within a review you shape, but wholesale redrafting by consultants signals the enterprise architecture function cannot do its job. D is least effective despite feeling dutiful: "carry on while leadership argues" abandons the field precisely when the organisation needs strategic clarity, leaves the paused programmes bleeding, and lets the strategy's fate be settled by whoever shows up - the opposite of taking a leading role in the overall direction of business and digital capabilities.
+**Explanation:** B treats the strategy as what your role profile says it is: something owned, evolved, and defended on evidence - not a personal artefact. Co-sponsoring with the COO converts an adversary into a joint owner of the outcome; time-boxing and the interim decision rule address the quietly accruing damage (paused programmes) that every other option ignores; and taking the criticisms as inputs honours the ones you know are valid. This is strategy design as the profession defines it - connecting and enabling, removing blockers - performed under political pressure. A defends the parts worth defending but positions you as the strategy's advocate rather than the organisation's, and leaves the valid criticisms to be discovered by others later, at greater cost to you. C outsources your core accountability at the first challenge; external perspectives can help within a review you shape, but wholesale redrafting by consultants signals the enterprise architecture function cannot do its job. D is least effective despite feeling dutiful: "carry on while leadership argues" abandons the field precisely when the organisation needs strategic clarity, leaves the paused programmes bleeding, and lets the strategy's fate be settled by whoever shows up - the opposite of taking a leading role in the overall direction of business and digital capabilities.
 
 ### Preparation tips
 
@@ -947,7 +947,7 @@ D. Continue delivering to the current strategy while the debate resolves itself 
 
 ## Conclusion
 
-You have worked through a substantial body of practice material: logical and analytical reasoning over roadmaps, principles and decision records; numerical interpretation of budgets, supplier pricing, capacity plans and sustainability metrics; precise reading of standards, board papers, contract schedules and horizon-scanning reports; and judgement calls drawn from the real stakeholder terrain of a lead enterprise architect - resistant programme directors, enthusiastic board members, deadlocked architects, bidding suppliers and strategies under fire.
+You have worked through a substantial body of practice material: logical and analytical reasoning over roadmaps, principles and decision records; numerical interpretation of budgets, supplier pricing, capacity plans, and sustainability metrics; precise reading of standards, board papers, contract schedules, and horizon-scanning reports; and judgement calls drawn from the real stakeholder terrain of a lead enterprise architect - resistant programme directors, enthusiastic board members, deadlocked architects, bidding suppliers and strategies under fire.
 
 If one theme runs through all four assessment types, it is this: the disciplines they measure are the disciplines your role already demands. Deducing only what the evidence entails, verifying whole-life numbers before recommending, reading what a text actually says, and choosing the proportionate, transparent, capability-building response under pressure - these are not test-taking tricks but the daily craft of owning an enterprise architecture vision and leading the people who deliver it.
 

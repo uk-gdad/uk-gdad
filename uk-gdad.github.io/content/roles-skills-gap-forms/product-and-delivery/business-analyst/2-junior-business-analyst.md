@@ -488,7 +488,7 @@ reporting.
 ### Skill: User experience analysis
 
 **What this means.** Using what user research finds to shape what gets built, and
-connecting user needs to system, product or service requirements. This skill is
+connecting user needs to system, product, or service requirements. This skill is
 new at your level.
 
 **What the framework expects at this level.** Two things: understand the
@@ -710,7 +710,7 @@ about them.
 These three pages cover the same role level and pick up where this form stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/product-and-delivery/business-analyst/2-junior-business-analyst.md)
-  — courses, blog posts, videos and books for a junior business analyst.
+  — courses, blog posts, videos, and books for a junior business analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/business-analyst/2-junior-business-analyst.md)
   — concrete things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/business-analyst/2-junior-business-analyst.md)

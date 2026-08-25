@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of head of 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are accountable for the evaluation function, its strategy, its independence and its capability, and you represent evaluation evidence at senior level. The resources below emphasise strategy, independence and capability building.
+At this role level you are accountable for the evaluation function, its strategy, its independence and its capability, and you represent evaluation evidence at senior level. The resources below emphasise strategy, independence, and capability building.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -30,7 +30,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Creating a Theory of Change and Logic Model](https://www.udemy.com/course/how-to-create-a-logic-model/): Explains who uses logic models, the definitions involved, and how to build one step by step as a management and communication tool for planning, monitoring and evaluating.
 
-- [Essentials of Monitoring and Evaluation](https://www.udemy.com/course/essentials-of-monitoring-and-evaluation/): Covers the theory of change approach, articulating goals, assumptions and change pathways, and building a diagram of inputs, activities, outputs, outcomes and resources.
+- [Essentials of Monitoring and Evaluation](https://www.udemy.com/course/essentials-of-monitoring-and-evaluation/): Covers the theory of change approach, articulating goals, assumptions and change pathways, and building a diagram of inputs, activities, outputs, outcomes, and resources.
 
 - [Impact Measurement in Monitoring and Evaluation](https://www.udemy.com/course/impact-evaluation-masterclass/): Covers practical and theoretical skills for rigorously evaluating the impact of projects and programmes across sectors.
 
@@ -132,7 +132,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Evaluation in Practice](https://us.amazon.com/dp/B08CYWGNDN): Guides thinking about the design of mixed methods evaluations through worked examples and explanations.
 
-- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV): Kohavi, Tang and Xu. The standard reference for experimentation in digital services, drawing on tens of thousands of live experiments.
+- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV): Kohavi, Tang, and Xu. The standard reference for experimentation in digital services, drawing on tens of thousands of live experiments.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): Cole Nussbaumer Knaflic. Practical guidance on turning findings into an argument decision makers can follow.
 
@@ -150,7 +150,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - Set an evaluation strategy that names the decisions the function exists to inform
 - Judge the function by decisions improved and interventions changed, not by reports published
-- Build the conditions for good evaluation, including data access, early involvement and honest reporting
+- Build the conditions for good evaluation, including data access, early involvement, and honest reporting
 - Protect the independence of evaluation findings, since that is the source of their value
 - Grow capability deliberately through recruitment, mentoring and a visible development path
 - Represent evaluation at senior level, including when the evidence is unwelcome

@@ -336,7 +336,7 @@ Each numeric skill in the assessment maps onto your role profile:
 
 - **Percentages and availability arithmetic** map to ensuring designs meet **SLAs (service level agreements)**. Converting "99.5% availability" into hours of downtime per month is a bread-and-butter associate task.
 - **Tables and cost comparison** map to drafting **recommendations for network support** and awareness of new technology solutions. Recommendations live or die on clear like-for-like cost arithmetic.
-- **Capacity and utilisation figures** map to creating and maintaining **network plans** and to your **IT infrastructure** skill — port counts, bandwidth headroom, and growth projections for LAN, WAN, wifi and data centre LAN estates.
+- **Capacity and utilisation figures** map to creating and maintaining **network plans** and to your **IT infrastructure** skill — port counts, bandwidth headroom, and growth projections for LAN, WAN, wifi, and data centre LAN estates.
 - **Ratios and unit conversions** map to **planning infrastructure runs** and translating logical designs into physical designs (your **systems design** skill): cable lengths, rack units, power draw, and megabits versus megabytes.
 - **Multi-step problem solving** maps to **systems integration** and **troubleshooting and problem resolution**: working through linked figures (throughput, loss, budget) in the right order without losing track.
 
@@ -452,9 +452,9 @@ D) 80%
 
 You are planning a small comms room. The cabinet has 42U of rack space and a power budget of 3,000 watts. You must install:
 
-- 4 switches, each 1U and 150 W
-- 2 routers, each 2U and 250 W
-- 1 firewall pair, together 2U and 400 W
+- 4 switches, each 1U, and 150 W
+- 2 routers, each 2U, and 250 W
+- 1 firewall pair, together 2U, and 400 W
 - 1 UPS, 4U and drawing no budget (it supplies power)
 
 After installation, how much rack space and power budget remain?

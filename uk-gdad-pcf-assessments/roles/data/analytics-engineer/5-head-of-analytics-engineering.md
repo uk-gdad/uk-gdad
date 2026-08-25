@@ -239,7 +239,7 @@ D) "Have you tried refreshing the dashboard?"
 
 **Correct answer: B.**
 
-**Explanation:** Your Problem management skill includes "identify and describe problems, and help others to describe them" - and most reported data discrepancies dissolve under precise definition rather than requiring a technical fix. The two most common causes of a mismatch like this are definitional (received versus completed, first-touch versus final decision) and temporal (calendar month versus operational reporting period, time zone of the cut-off). Option B tests both in one question and, crucially, helps the stakeholder articulate what their number actually measures - communicating between the technical and the non-technical in its most practical form. Options A and C leap to solutions before the problem exists in any well-defined form. Option D is a support-desk reflex, not leadership diagnosis. Only after B fails to resolve the gap would you commission reconciliation work: profiling the source, tracing lineage, checking filters and joins.
+**Explanation:** Your Problem management skill includes "identify and describe problems, and help others to describe them" - and most reported data discrepancies dissolve under precise definition rather than requiring a technical fix. The two most common causes of a mismatch like this are definitional (received versus completed, first-touch versus final decision) and temporal (calendar month versus operational reporting period, time zone of the cut-off). Option B tests both in one question and, crucially, helps the stakeholder articulate what their number actually measures - communicating between the technical and the non-technical in its most practical form. Options A and C leap to solutions before the problem exists in any well-defined form. Option D is a support-desk reflex, not leadership diagnosis. Only after B fails to resolve the gap would you commission reconciliation work: profiling the source, tracing lineage, checking filters, and joins.
 
 #### Question 11 (challenging) - Deduction with an innovation claim
 
@@ -963,7 +963,7 @@ The organisation announces tomorrow a widely-trailed "single view of performance
 Options:
 
 A) Say nothing; 8% marginally affected is within tolerance and the announcement is not your call.
-B) Tell the senior owner of the announcement tonight, with a one-page factual summary: what is stale, the likely magnitude and direction of error in the headline figures, the three-day path to corrected data, and options (delay, annotate the affected figures, publish with a dated caveat and scheduled correction) - and let the accountable owner decide with full information.
+B) Tell the senior owner of the announcement tonight, with a one-page factual summary: what is stale, the likely magnitude and direction of error in the headline figures, the three-day path to corrected data, and options (delay, annotate the affected figures, publish with a dated caveat, and scheduled correction) - and let the accountable owner decide with full information.
 C) Unilaterally pull your models from the product tonight to protect your team from association with bad data.
 D) Tell the communications team to fix the wording but not trouble the senior owner.
 E) Email a broad distribution list flagging "possible data issues" without quantification.

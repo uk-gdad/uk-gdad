@@ -14,7 +14,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — evidence auditing at a distance, cross-service synthesis, systemic diagnosis, strategic prioritisation, and reasoning about the organisational mechanisms that produce bad content.
 2. A numeric reasoning assessment — weighted aggregation, contact and funnel data, sampling adequacy, business case claims, and the interrogation of figures already embedded in board decisions.
-3. A verbal reasoning assessment — governance frameworks, audit reports, cross-government standards and ministerial correspondence, with items pitched at real ambiguity.
+3. A verbal reasoning assessment — governance frameworks, audit reports, cross-government standards, and ministerial correspondence, with items pitched at real ambiguity.
 4. A situational judgement assessment — integrity at organisational scale, assurance across boundaries, capability and conditions, cross-government collaboration, and the defence of content positions in senior forums.
 
 Commit to an answer before reading each explanation, and attend particularly where you were quick and sure.
@@ -31,7 +31,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At head-of-profession level the materials are organisational and the reasoning is diagnostic and strategic. You will meet content produced by other people, standards applied unevenly, evidence gathered for other purposes, and prioritisation problems whose units are programmes and shared assets.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
 
 Three things characterise this section at your level.
 
@@ -247,7 +247,7 @@ Reviewing a year of output, you find two teams consistently produce strong conte
 
 A numeric reasoning assessment measures how accurately you handle quantitative material. At your level the emphasis is almost wholly on interrogation. You will need to compute correctly, but the questions that matter ask whether a figure means what somebody claims — and in most rooms you enter, you may be the only person who will ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
 
 The professional stake is unusually high for your discipline, for two connected reasons. Content quality is hard to argue about because everybody reads, which leaves content leadership vulnerable to being treated as taste. And content work is chronically under-resourced because its value is hard to express in numbers other people use. Both problems have the same remedy. A head of content design who can say "two in five calls to this service ask when something will happen, which is 43,200 calls a year at roughly £6 each" is making an argument a director general recognises; one who describes clarity is not. Your role names influencing organisational strategy, and that conversation happens in numbers.
 
@@ -458,7 +458,7 @@ A directorate proposes measuring whether a rewrite improved completion by runnin
 
 A verbal reasoning assessment measures how accurately you read. For most disciplines it is a proxy skill; for yours it is close to the job, which makes this the section where you should score best and where a settled habit costs most.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and here is the part specific to your level: expertise actively costs marks. The more policy and governance prose you have read and translated, the more readily you supply the clause you expect, complete the sentence the way such sentences usually end, and feel entirely confident doing it. Candidates at your level underperform on verbal reasoning at rates that surprise them, and this is nearly always the mechanism. The counter-habit must be mechanical.
 
@@ -485,25 +485,25 @@ The verbal skills tested map onto your named skills:
 
 "Organisations must submit an annual content assurance return to the cross-government profession board, unless all content within the organisation has been produced under a centrally managed programme. Returns must confirm that plain-language review was completed where required and list any services where it was not. Where an organisation identifies content published without required review, it must notify the board within ten working days of identifying it, separately from the annual return. Returns are published across government; notifications are not."
 
-**Question 1 (easy)** — Statement: "Every organisation must submit an annual content assurance return." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Every organisation must submit an annual content assurance return." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception: organisations where all content was produced under a centrally managed programme are exempt. The statement's "every" contradicts that, so False. This is the most reliable pattern in the section. Note that the exception says "all content", not "most", which narrows it substantially and supplies Question 3.
 
-**Question 2 (easy)** — Statement: "Notifications of missed review are published across government." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Notifications of missed review are published across government." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final sentence states that returns are published across government and notifications are not. The statement contradicts this, so False. The item tests whether you read past the point where a sentence appeared to finish — the semicolon clause carries the operative distinction, and a reader who registered the first half would generalise it. Governance prose places qualifications after semicolons with striking regularity, and slowing down there rather than speeding up is a habit worth building when you read at volume. It also has a practical edge: the distinction between what is published and what is not is exactly the sort of thing colleagues ask you to confirm before deciding whether to declare something.
 
-**Question 3 (moderate)** — Statement: "An organisation where nineteen of twenty services produced content under a centrally managed programme must submit a return." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "An organisation where nineteen of twenty services produced content under a centrally managed programme must submit a return." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The exemption applies only where *all* content was produced centrally. Nineteen of twenty does not satisfy that, so the exemption does not apply and the requirement stands — True. The item rewards carrying "all" from the first sentence to a scenario several lines later. It reflects a recurring organisational error: partial satisfaction of an exception condition is non-compliance, and organisations routinely assume the reverse on the reasoning that they are substantially covered. Catching that before a return is due, rather than after it is late and published across government, is squarely your job.
 
-**Question 4 (moderate)** — Statement: "Content published without required review must be notified within ten working days of publication." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "Content published without required review must be notified within ten working days of publication." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -513,25 +513,25 @@ The verbal skills tested map onto your named skills:
 
 "The cross-government review of content assurance found considerable variation between departments. Five departments operate peer review before publication; the remainder rely on individual sign-off. Departments with peer review reported fewer post-publication corrections, although the review did not examine whether their content was more accurate. The review recommends that the profession board consider whether a common assurance approach would be proportionate."
 
-**Question 5 (easy)** — Statement: "Some departments do not operate peer review before publication." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some departments do not operate peer review before publication." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that five departments operate peer review and the remainder rely on individual sign-off, establishing directly that some do not. True. Answer quickly and bank the time. The only conceivable ambiguity — whether "the remainder" might be empty — is closed by the passage describing what the remainder does.
 
-**Question 6 (moderate)** — Statement: "Peer review produces more accurate content." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Peer review produces more accurate content." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports fewer post-publication corrections and then states explicitly that accuracy was not examined. Those are different things, and the gap is instructive: peer-reviewed departments might produce more accurate content, or might catch errors before publication rather than after — which produces the same statistic and is a real benefit — or might simply be less likely to have errors reported. The passage flags its own silence, so Cannot Say. This is the specific trap for someone in your position, because "peer review improves accuracy" is a claim you would like to be true and would probably cite when arguing for a common approach. Citing it and then being asked for the evidence is how a good proposal loses.
 
-**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The review recommends that the board *consider whether* a common approach would be proportionate, which includes concluding it would not be. The statement asserts a recommendation to introduce, which was not made, so False rather than Cannot Say: the passage tells you what was recommended and it was something different. This pervades review prose, and at your level you are likely to be both the person the recommendation reaches and the person who writes what the organisation did about it — so misreading it commits you to something nobody asked for and then reports delivery against it.
 
-**Question 8 (harder)** — Statement: "Individual sign-off is a weaker form of assurance than peer review." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Individual sign-off is a weaker form of assurance than peer review." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -541,19 +541,19 @@ The verbal skills tested map onto your named skills:
 
 "Content must not be altered to reflect the preferences of stakeholders where doing so would make it inaccurate or materially incomplete. Presentation and tone may be adapted to the audience provided the substance is unchanged. Where a content designer is asked to alter content in a way they believe breaches this, the matter must be raised with the head of content design, who is accountable for the integrity of published content. Where content cannot be reviewed before publication, the reason must be recorded; records are reviewed annually."
 
-**Question 9 (easy)** — Statement: "Tone may be adapted for different audiences." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Tone may be adapted for different audiences." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The second sentence permits adapting presentation and tone provided the substance is unchanged, and the statement claims only that tone may be adapted. It follows and is True. The statement is weaker than the passage's full provision, omitting the substance condition — but a weaker statement the passage supports is still True. Candidates occasionally mark such statements False for incompleteness, confusing "does not say everything" with "says something wrong". Note that this clause is the one that resolves most real disputes about softening content: tone is negotiable, substance is not.
 
-**Question 10 (moderate)** — Statement: "A content designer asked to make content less complete must refuse." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A content designer asked to make content less complete must refuse." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage establishes that content must not be altered where doing so would make it materially incomplete, and that a designer asked to do so must raise it with the head of content design. Neither states what the individual must personally do at the moment of the request. A duty to escalate is not a duty to refuse — and the escalation route exists precisely so that an individual is not left to refuse alone, which is a substantive protection and, since the passage names your role as accountable, the protection you are supposed to provide. Cannot Say. Note also that the prohibition is conditional on the alteration making content inaccurate or *materially* incomplete, and "materially" is doing work.
 
-**Question 11 (harder)** — Statement: "Removing any information from a page at a stakeholder's request breaches the requirements." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "Removing any information from a page at a stakeholder's request breaches the requirements." True, False, or Cannot Say?
 
 **Correct answer: False**
 

@@ -1,7 +1,7 @@
 # Continuing professional development checklists — specification
 
 Refines [`spec/index.md`](../../spec/index.md), which governs the taxonomy, the
-role index, slugs, style and licensing. This file covers only what is specific
+role index, slugs, style, and licensing. This file covers only what is specific
 to CPD checklists.
 
 ## Purpose
@@ -16,7 +16,7 @@ rather than being a good intention.
 
 ## Input
 
-- `uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, level and skills.
+- `uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, level, and skills.
 - [`spec/template.md`](template.md) — the general-purpose material, identical in
   every file.
 - For context on what the level is working towards, the matching documents in

@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Fundamental Course of Data Architecture 2.0 (101 level)](https://www.udemy.com/course/data-architecture-big-data-architecture-data-mesh-database-management/): A broad orientation across data architecture, big data architecture, data mesh and database management. Useful for keeping a strategic overview current across a fast-moving landscape.
+- [Fundamental Course of Data Architecture 2.0 (101 level)](https://www.udemy.com/course/data-architecture-big-data-architecture-data-mesh-database-management/): A broad orientation across data architecture, big data architecture, data mesh, and database management. Useful for keeping a strategic overview current across a fast-moving landscape.
 
 - [Data Architecture for Data Engineers: Practical Approaches](https://www.udemy.com/course/data-architecture-for-data-engineers/): Covers warehouses, lakes and lakehouses with practical treatment of modelling, governance and security, keeping strategic direction grounded in what teams can actually build.
 
@@ -108,7 +108,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Demystifying the Medallion and Lakehouse Architectures](https://www.youtube.com/watch?v=iLgDKVlPN1w): Compares lakehouse and medallion approaches and the conditions favouring each.
 
-- [Data Vault and Medallion Architecture Explained](https://www.youtube.com/shorts/rhAQOkUU55U): A concise comparison of Data Vault, data mesh and medallion architecture.
+- [Data Vault and Medallion Architecture Explained](https://www.youtube.com/shorts/rhAQOkUU55U): A concise comparison of Data Vault, data mesh, and medallion architecture.
 
 - [Databricks Medallion Architecture Explained: Best Practices, Examples, and Real-World Use Cases](https://www.youtube.com/watch?v=X-mwxwXGu6Y): Practical guidance from real implementations including common failure modes.
 
@@ -126,7 +126,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill and Robertson's operating model framework, which is the clearest available basis for deciding how much data standardisation an organisation genuinely needs.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill, and Robertson's operating model framework, which is the clearest available basis for deciding how much data standardisation an organisation genuinely needs.
 
 - [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference across all data management knowledge areas, useful as the backbone of an organisational capability model.
 
@@ -150,7 +150,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - Express the data vision in terms of the decisions and services it enables, not the technologies it adopts
 - Publish a small number of durable principles and defend them consistently, rather than a large catalogue nobody reads
-- Build alliances with the chief data officer, information governance and finance, since data strategy fails on funding and permission more often than on design
+- Build alliances with the chief data officer, information governance, and finance, since data strategy fails on funding and permission more often than on design
 - Represent your organisation in cross-government data forums, because interoperability is decided there
 - Give your senior architects genuine decision rights, and hold them to published standards rather than to your personal preference
 - Keep a live assessment of where the current estate diverges from the target, with cost and risk attached

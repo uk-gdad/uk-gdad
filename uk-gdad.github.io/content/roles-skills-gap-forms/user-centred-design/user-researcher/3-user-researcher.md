@@ -43,7 +43,7 @@ Worth knowing:
 - **Answer about the job you do**, not the one on the job description.
 - **"I haven't had the chance" is a real answer**, and more useful than a generous reading of a thin
   example.
-- **Never include anything about a research participant** — no names, details or identifying quotes.
+- **Never include anything about a research participant** — no names, details, or identifying quotes.
 - **Ask who reads it.** If nobody has told you who sees your answers, what they are used for, or how
   long they are kept, ask before you fill it in.
 

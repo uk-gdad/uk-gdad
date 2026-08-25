@@ -143,7 +143,7 @@ published expectation and worth recording.
 
 These questions are about the job as it actually is.
 
-**Q1.** Describe a typical month. Of governance, hard problems and design, which
+**Q1.** Describe a typical month. Of governance, hard problems, and design, which
 actually gets your week?
 
 *Your answer:*

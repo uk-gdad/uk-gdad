@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of head of 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are accountable for the data science function, its strategy, its capability and its ethical practice, and you represent it to the organisation and across government. The resources below emphasise strategy, executive influence and capability building.
+At this role level you are accountable for the data science function, its strategy, its capability and its ethical practice, and you represent it to the organisation and across government. The resources below emphasise strategy, executive influence, and capability building.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -30,7 +30,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/): Covers analysing data, creating visualisations and applying machine learning algorithms in Python, with over a hundred video lectures and detailed code notebooks.
 
-- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/): Covers mathematics, statistics, Python, advanced statistics, machine learning and deep learning, including NumPy, pandas and scikit-learn.
+- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/): Covers mathematics, statistics, Python, advanced statistics, machine learning and deep learning, including NumPy, pandas, and scikit-learn.
 
 - [Machine Learning, Data Science and AI Engineering with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/): A hands-on course covering the practical application of machine learning techniques with attention to how models behave on real data.
 
@@ -150,7 +150,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - Set a data science strategy that names the decisions the function exists to improve
 - Judge the function by decisions changed and services improved, not by models built
-- Build the organisational conditions for good work, including data access, engineering support and ethical governance
+- Build the organisational conditions for good work, including data access, engineering support, and ethical governance
 - Grow and retain scarce specialists through genuine development paths, not only pay
 - Advocate for realistic expectations of what data science can and cannot do
 - Work with the chief data officer and information governance colleagues as partners rather than gatekeepers

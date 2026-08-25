@@ -52,9 +52,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping and root cause analysis. The most useful free course for continual service improvement.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping, and root cause analysis. The most useful free course for continual service improvement.
 
-- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process analysis, capacity analysis and cycle time, which is the analytical basis for resourcing a desk.
+- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process analysis, capacity analysis, and cycle time, which is the analytical basis for resourcing a desk.
 
 - [15.280 Communication for Managers](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/): Communication strategy, directly applicable to service reporting and transition communication.
 

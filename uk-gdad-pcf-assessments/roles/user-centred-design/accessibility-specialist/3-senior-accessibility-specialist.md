@@ -24,7 +24,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical materials rather than abstract puzzles. At your level the materials are audit findings, standards with edge cases, remediation plans, and claims made by teams and suppliers that need diagnosing rather than accepting or rejecting.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
 
 Three things distinguish this section at your level.
 
@@ -233,7 +233,7 @@ A numeric reasoning assessment measures how accurately you handle the quantitati
 
 That second category is where this section earns its place. Accessibility arguments are frequently lost not because the technical case is weak but because it is presented as a technical case in a room making a resourcing decision. "This fails 1.4.3" competes with everything else in a backlog; "this affects an estimated 34,000 people a year, and the organisation has a statutory duty" does not. Being fluent with the arithmetic is what lets you make the second argument, and your role's requirement to manage stakeholder expectations and host difficult discussions with senior stakeholders assumes it.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided.
 
 Four habits carry the load. Establish what the question asks before looking at the data. Identify the denominator and the population it represents. Estimate, calculate, compare. And sanity-check against the world.
 
@@ -278,7 +278,7 @@ A service has 850,000 users a year. If around 1 in 12 men and 1 in 200 women hav
 
 **Question 3 (easy) — Audit counts and severity**
 
-An audit found 2 blockers, 11 serious and 28 minor issues across a service. What proportion of findings are blockers or serious?
+An audit found 2 blockers, 11 serious, and 28 minor issues across a service. What proportion of findings are blockers or serious?
 
 - A) 24%
 - B) 32%
@@ -434,7 +434,7 @@ You need to advise a board on the risk of launching with eleven unresolved serio
 
 A verbal reasoning assessment measures how accurately you read. For most disciplines that is a useful proxy; for yours it is close to the job. Accessibility practice is built on documents written with unusual precision — success criteria, understanding documents, regulations, exemptions, procurement standards — and your authority rests on reading them exactly as written. A specialist who over-reads a criterion loses credibility; one who under-reads it lets a barrier through.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your professional knowledge must be set aside, and this is harder for you than for most candidates: you know these documents, and the more you know them, the more readily you supply the clause you expect rather than the one in front of you. That is the characteristic error at your level.
 
@@ -459,25 +459,25 @@ The verbal skills tested map onto your named skills:
 
 "Public sector bodies must ensure their websites meet the accessibility standard. This does not apply to pre-recorded time-based media published before 23 September 2020, to live time-based media, to online maps provided the essential information is available in an accessible alternative format, or to content on an intranet or extranet published before 23 September 2019 and not substantially revised since. Third-party content that the body neither funds, develops nor controls is also outside scope."
 
-**Question 1 (easy)** — Statement: "All content on a public sector website must meet the standard." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "All content on a public sector website must meet the standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage lists five categories outside scope. The statement's "all" contradicts them, so False. This is the pattern the section relies on, and it is worth noticing that the exemptions here are not marginal — pre-recorded media, live media, maps, older intranet content and third-party content between them cover a substantial amount of what a large organisation publishes. A specialist who carries "everything must conform" as a working assumption will spend effort on content outside scope and be corrected by somebody less expert, which is an avoidable way to lose standing.
 
-**Question 2 (easy)** — Statement: "A live-streamed event published in 2018 is exempt." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "A live-streamed event published in 2018 is exempt." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage exempts live time-based media without any date condition — the date applies to the *pre-recorded* exemption, not the live one. A live stream is therefore exempt regardless of when it was published, and the statement follows. True. The item tests whether you attach the date qualifier to the right clause. A reader carrying "there's a 2020 date on media" as a general rule will check whether 2018 is before 2020, find that it is, and reach the right answer for the wrong reason — which will fail them the moment they meet a live stream from 2023.
 
-**Question 3 (moderate)** — Statement: "An online map is exempt." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "An online map is exempt." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The exemption for online maps is conditional: it applies *provided the essential information is available in an accessible alternative format*. Whether that condition is met is not stated, so the case is undetermined. Cannot Say. This is among the most commonly misapplied exemptions in practice, because the phrase "maps are exempt" circulates as though it were unconditional, and a specialist who repeats it lets teams publish a map with no alternative and believe they are compliant. Note also what the condition requires — essential information in an accessible form, not the map itself — which for a map showing office locations means an address list, and is usually straightforward once somebody asks.
 
-**Question 4 (harder)** — Statement: "Intranet content published in 2018 and rewritten last month is exempt." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "Intranet content published in 2018 and rewritten last month is exempt." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -487,25 +487,25 @@ The verbal skills tested map onto your named skills:
 
 "The audit of the department's services found that teams with an accessibility specialist embedded reported fewer defects at launch than teams without. The audit notes that embedded specialists were assigned to services judged higher risk at the outset. The audit did not assess whether the services were more accessible in use. It recommends that the head of accessibility consider whether embedding should be extended."
 
-**Question 5 (easy)** — Statement: "Teams with an embedded specialist reported fewer defects at launch." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Teams with an embedded specialist reported fewer defects at launch." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the passage's careful "reported fewer defects" rather than "had fewer defects", and the statement respects it. Answer quickly and bank the time for harder items.
 
-**Question 6 (moderate)** — Statement: "Embedding a specialist reduces defects." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Embedding a specialist reduces defects." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then flags that embedded specialists were assigned to services judged higher risk at the outset — which, if anything, works against the association, since higher-risk services would be expected to produce more defects rather than fewer. That makes the finding more interesting and no more conclusive: the assignment was not random, the risk judgement may have been wrong, and other differences may explain it. Cannot Say. This is the specific trap for someone in your position, because "embedding specialists reduces defects" is a claim you would like to be true and would certainly cite when arguing for more embedded posts. Citing it and being asked about the assignment is how a good proposal loses.
 
-**Question 7 (moderate)** — Statement: "Services with embedded specialists are more accessible in use." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Services with embedded specialists are more accessible in use." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the audit did not assess accessibility in use. Declared silence establishes nothing, so Cannot Say. The distinction between defects reported at launch and accessibility in use is exactly the conformance-versus-experience boundary your role names, and it matters here: a team with an embedded specialist might produce fewer catalogued defects and a service that is still difficult to use, or might produce a genuinely better service that the defect count understates. The audit chose not to look, and treating its silence as evidence in either direction is the error.
 
-**Question 8 (harder)** — Statement: "The audit recommends extending embedding." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The audit recommends extending embedding." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -515,19 +515,19 @@ The verbal skills tested map onto your named skills:
 
 "A conformance claim must state the standard and level claimed, the date, the scope of the claim including the pages covered, and any technologies relied upon. Where a page contains third-party content outside the body's control, the claim may exclude that content provided the exclusion is stated. A claim may not be made for a level unless every applicable success criterion at that level and all lower levels is met. Partial conformance may be claimed for content produced by third parties only where the body has requested remediation."
 
-**Question 9 (easy)** — Statement: "A conformance claim must state which pages it covers." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "A conformance claim must state which pages it covers." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence requires the claim to state its scope including the pages covered. The statement restates that, so True. Answer quickly. It is worth noticing why the requirement exists: an unscoped conformance claim is unfalsifiable and therefore worthless, and a great many published claims are exactly that — which makes "which pages does this cover?" one of the most useful questions you can ask of a supplier's documentation.
 
-**Question 10 (moderate)** — Statement: "A service meeting all AA criteria but failing one A criterion may claim AA conformance." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A service meeting all AA criteria but failing one A criterion may claim AA conformance." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The third sentence requires every applicable criterion at the claimed level *and all lower levels* to be met. A failure at A means AA cannot be claimed, so the statement is contradicted. False. This is a genuinely common misunderstanding, because the levels look like a ladder on which you might stand on a higher rung while missing a lower one, and the structure is cumulative instead. The practical consequence is that a single unmet A criterion — a missing page title, say — invalidates an AA claim for the whole page, which is worth knowing before you accept a claim and before you make one.
 
-**Question 11 (harder)** — Statement: "A body may exclude uncontrolled third-party content from a claim without saying so." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A body may exclude uncontrolled third-party content from a claim without saying so." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -727,7 +727,7 @@ You are asked to contribute to a business area's accessibility strategy. The dra
 
 **Correct answer: B. Least effective: A**
 
-**Explanation:** The draft is not wrong, it is incomplete in a specific and consequential way: everything in it operates after the fact. An annual audit tells you what shipped inaccessibly twelve months ago, which is useful for reporting and useless for prevention, and a strategy consisting of a standard and an audit will produce the same defect profile every year. Option B names that and proposes mechanisms at the points where defects are created rather than discovered — the build, the definition of done, procurement and capability. Option A endorses a strategy that will not change anything. Option C increases detection frequency without touching creation, and quadruples your own workload. Option D is a real addition and, on the evidence of most training programmes, insufficient alone.
+**Explanation:** The draft is not wrong, it is incomplete in a specific and consequential way: everything in it operates after the fact. An annual audit tells you what shipped inaccessibly twelve months ago, which is useful for reporting and useless for prevention, and a strategy consisting of a standard and an audit will produce the same defect profile every year. Option B names that and proposes mechanisms at the points where defects are created rather than discovered — the build, the definition of done, procurement, and capability. Option A endorses a strategy that will not change anything. Option C increases detection frequency without touching creation, and quadruples your own workload. Option D is a real addition and, on the evidence of most training programmes, insufficient alone.
 
 **Question 11 (harder) — A difficult discussion with a senior stakeholder**
 

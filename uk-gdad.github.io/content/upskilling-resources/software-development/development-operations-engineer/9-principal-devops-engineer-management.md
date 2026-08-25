@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of principa
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you set platform and delivery engineering direction across teams while carrying senior line management responsibility for the engineering community. The resources below emphasise engineering leadership, capability building and organisational influence.
+At this role level you set platform and delivery engineering direction across teams while carrying senior line management responsibility for the engineering community. The resources below emphasise engineering leadership, capability building, and organisational influence.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -30,7 +30,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [DevOps MasterClass: Terraform, Kubernetes, Ansible, Docker](https://www.udemy.com/course/devops-training/): Covers Terraform, Git, Ansible, Jenkins, Docker, Docker Swarm and Kubernetes, with continuous integration and deployment throughout.
 
-- [DevOps Engineer: Docker, Kubernetes, Jenkins, Terraform, AWS](https://www.udemy.com/course/devops-course-docker-kubernetes-jenkins-aws-terraform/): Covers designing and implementing continuous delivery pipelines and containerising applications, including images, Dockerfiles, volumes and networking.
+- [DevOps Engineer: Docker, Kubernetes, Jenkins, Terraform, AWS](https://www.udemy.com/course/devops-course-docker-kubernetes-jenkins-aws-terraform/): Covers designing and implementing continuous delivery pipelines and containerising applications, including images, Dockerfiles, volumes, and networking.
 
 - [Ultimate DevOps to MLOps Bootcamp: Build ML CI/CD Pipelines](https://www.udemy.com/course/devops-to-mlops-bootcamp/): Takes a real use case from data processing to production deployment on Kubernetes, with model serving, Prometheus and Grafana monitoring and GitOps continuous delivery using ArgoCD.
 
@@ -78,11 +78,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open): The Government Digital Service on why government source code is published openly and what that means for tooling and secrets management.
 
-- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, privacy and security considerations specific to government engineering practice.
+- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, privacy, and security considerations specific to government engineering practice.
 
 ## Research articles
 
-- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, software process, quality assurance, integration patterns, defects and build patterns.
+- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, software process, quality assurance, integration patterns, defects, and build patterns.
 
 - [On the Need to Monitor Continuous Integration Practices: An Empirical Study](https://arxiv.org/pdf/2409.05101): Shows that adopting continuous integration tooling is not the same as practising continuous integration, and proposes what to monitor.
 
@@ -118,7 +118,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Engineering for Software in 8 Minutes, Dave Farley at YOW!](https://www.youtube.com/watch?v=x-29vnDLP4Q): A compact argument for treating software development as an engineering discipline.
 
-- [Complete Jenkins Tutorial: Learn Jenkins From Scratch](https://www.lambdatest.com/video/complete-jenkins-tutorial): Covers continuous integration and delivery with Jenkins, including architecture, GitHub integration and pipeline creation.
+- [Complete Jenkins Tutorial: Learn Jenkins From Scratch](https://www.lambdatest.com/video/complete-jenkins-tutorial): Covers continuous integration and delivery with Jenkins, including architecture, GitHub integration, and pipeline creation.
 
 - [Test Driven Development (TDD) Is A Broken Practice, Dave Farley at GOTO](https://www.youtube.com/watch?v=h-3z8i-MwFg): Clarifies what test-driven development is for by attacking how it is commonly misapplied.
 
@@ -126,11 +126,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The DevOps Handbook: How to Create World-Class Agility, Reliability and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B09G2GS39R): By Kim, Humble, Debois, Willis and Forsgren. The most complete practical treatment of integrating product management, development, quality assurance, operations and security.
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B09G2GS39R): By Kim, Humble, Debois, Willis, and Forsgren. The most complete practical treatment of integrating product management, development, quality assurance, operations, and security.
 
 - [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Nicole Forsgren, Jez Humble and Gene Kim. The research behind the DORA metrics and the evidence that delivery performance predicts organisational performance.
 
-- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B09JWVXFNG): By Kim, Behr and Spafford. A novel, which makes it unusually good at conveying why the problems it describes persist.
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B09JWVXFNG): By Kim, Behr, and Spafford. A novel, which makes it unusually good at conveying why the problems it describes persist.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Jez Humble and David Farley. The foundational text on deployment pipelines and safe frequent release.
 
@@ -148,7 +148,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Professional development tips
 
-- Set platform direction across teams through principles, paved paths and guardrails
+- Set platform direction across teams through principles, paved paths, and guardrails
 - Judge success by services that deploy safely and stay up, not by tooling adopted
 - Build platform engineering as a discipline, including onboarding, standards and a community
 - Work with architecture, security and service management colleagues so decisions hold

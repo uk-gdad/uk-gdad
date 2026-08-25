@@ -576,7 +576,7 @@ on — at the start, at a review gate, or when something goes wrong?
 *Your answer:*
 
 **Q43.** Do your organisation's architectural principles say anything about data
-protection, accessibility or equality? If not, should they?
+protection, accessibility, or equality? If not, should they?
 
 *Your answer:*
 
@@ -698,7 +698,7 @@ about them. A form that goes into a drawer is worse than no form.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/enterprise-architect/1-enterprise-architect.md)
-  — courses, articles, talks and books pitched at enterprise architect.
+  — courses, articles, talks, and books pitched at enterprise architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/enterprise-architect/1-enterprise-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/enterprise-architect/1-enterprise-architect.md)

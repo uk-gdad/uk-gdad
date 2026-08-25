@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of principa
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you set analytical standards, decide where analytical effort is best spent, and represent analysis to senior stakeholders. The resources below emphasise standards, capability building and organisational influence.
+At this role level you set analytical standards, decide where analytical effort is best spent, and represent analysis to senior stakeholders. The resources below emphasise standards, capability building, and organisational influence.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for Analyze Data with SQL](https://www.skillsoft.com/journey/analyze-data-with-sql-001362c7-0428-4dda-958e-36eef936cc1b): Covers using SQL to create databases, pull data and analyse results, with tracks on basics, aggregates, multiple tables, subqueries and intermediate functions, practised on real case studies.
+- [Courses for Analyze Data with SQL](https://www.skillsoft.com/journey/analyze-data-with-sql-001362c7-0428-4dda-958e-36eef936cc1b): Covers using SQL to create databases, pull data, and analyse results, with tracks on basics, aggregates, multiple tables, subqueries and intermediate functions, practised on real case studies.
 
 - [Courses for Data Analytics Specialist](https://www.skillsoft.com/journey/data-analytics-specialist-8bcdfe15-4df7-4ac7-b5b2-e6002d51ddb8): Begins with exploring and visualising data in Excel and progresses through the analytical toolchain.
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.067 Competitive Decision-Making and Negotiation](https://ocw.mit.edu/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/): Develops negotiation skill through integrative bargaining cases between two and more than two parties over multiple issues.
 
-- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, regression and analysis of variance. Worth revisiting so that your methodological judgement stays sound as you lead others.
+- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, regression, and analysis of variance. Worth revisiting so that your methodological judgement stays sound as you lead others.
 
 ## Blog posts
 

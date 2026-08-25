@@ -828,7 +828,7 @@ exactly why it is worth asking for the date yourself.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/frontend-developer/4-senior-frontend-developer.md)
-  — courses, articles, talks and books pitched at senior frontend developer.
+  — courses, articles, talks, and books pitched at senior frontend developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/frontend-developer/4-senior-frontend-developer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/frontend-developer/4-senior-frontend-developer.md)

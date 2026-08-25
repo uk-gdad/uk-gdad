@@ -386,7 +386,7 @@ you cannot do today?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** Writing real software: reviewing specifications, then
-designing, coding, testing and documenting programs of genuine complexity.
+designing, coding, testing, and documenting programs of genuine complexity.
 
 **What the framework expects at this level.** That you collaborate with others
 when necessary to review specifications, and use the agreed specifications to

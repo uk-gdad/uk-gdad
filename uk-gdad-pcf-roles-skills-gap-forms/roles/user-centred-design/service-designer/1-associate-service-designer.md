@@ -16,7 +16,7 @@ channels provided by different parts of government**. The letter, the phone line
 screen and the appeal process are all inside the service, whether or not anyone has drawn them.
 
 Nothing here is scored, marked or ranked. There are no right answers. Seven skills, each with a
-plain explanation, a rating and a couple of questions. Take about 25 minutes.
+plain explanation, a rating, and a couple of questions. Take about 25 minutes.
 
 ## Advisory
 

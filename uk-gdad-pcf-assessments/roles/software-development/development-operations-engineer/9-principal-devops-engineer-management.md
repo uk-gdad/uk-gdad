@@ -12,7 +12,7 @@ The second distinctive thing is that you sit between development and operations 
 
 You may be preparing for a formal assessment, or you may want to re-examine judgement that has become fluent. Fluency is worth checking, because feedback loops on platform and process decisions run in years.
 
-The document has four assessment sections — cognitive, numeric reasoning, verbal reasoning and situational judgement — each with an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips and common pitfalls.
+The document has four assessment sections — cognitive, numeric reasoning, verbal reasoning and situational judgement — each with an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
 
 Answer before reading, and note where you were fast.
 
@@ -77,7 +77,7 @@ A team proposes fully automated deployment to all production regions simultaneou
 
 **Question 3 (moderate) — Recurring failures with different causes**
 
-A platform has had four significant outages in a year, each with a different proximate cause: a certificate expiry, a full disk, a misconfigured limit and a dependency timeout. What is the strongest analysis?
+A platform has had four significant outages in a year, each with a different proximate cause: a certificate expiry, a full disk, a misconfigured limit, and a dependency timeout. What is the strongest analysis?
 
 - A) Four unrelated incidents; fix each cause.
 - B) Four different proximate causes with the same consequence suggests a shared property — most likely that these conditions are not detected before they cause an outage — so the useful question is why a certificate approaching expiry, a disk approaching full and a limit set wrongly all first became visible as user-facing failures.
@@ -454,7 +454,7 @@ A proposed resilience change costs £180,000 to build and £30,000 a year to run
 
 ### About this assessment
 
-A workplace job-specific verbal reasoning assessment tests whether you can determine exactly what written material establishes. At principal level on the management track the material is service level agreements, change management policy, security standards, supplier terms and governance frameworks.
+A workplace job-specific verbal reasoning assessment tests whether you can determine exactly what written material establishes. At principal level on the management track the material is service level agreements, change management policy, security standards, supplier terms, and governance frameworks.
 
 The commonest format gives a passage and asks you to mark statements True, False or Cannot Say. True means the passage establishes it, False means it contradicts it, and Cannot Say means neither — regardless of what you know from running these systems. Your operational experience is the main hazard, because you will supply the usual arrangement where the passage describes this one.
 
@@ -673,7 +673,7 @@ The third is that your teams do work that is noticed only when it fails, which p
 ### How this assessment maps to your role
 
 - **Incident leadership** maps to **Service support** and **Availability and capacity management**.
-- **Balancing delivery and stability** maps to embedding security, stability and capacity in delivery.
+- **Balancing delivery and stability** maps to embedding security, stability, and capacity in delivery.
 - **Resource allocation** maps to **Development process optimisation**.
 - **Capability and recognition** map to rewarding high performers and shaping career paths.
 - **Security leadership** maps to **Information security**.

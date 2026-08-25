@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of lead dev
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you lead a development team technically and as a line manager, responsible for both the software and the people who build it. The resources below emphasise leadership, people development and sustainable engineering practice.
+At this role level you lead a development team technically and as a line manager, responsible for both the software and the people who build it. The resources below emphasise leadership, people development, and sustainable engineering practice.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.067 Competitive Decision-Making and Negotiation](https://ocw.mit.edu/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/): Develops negotiation skill through integrative bargaining cases between two and more than two parties over multiple issues.
 
-- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers specification, abstraction and testing. Worth revisiting so that your technical judgement stays sound as you spend more time leading and less time writing code.
+- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers specification, abstraction, and testing. Worth revisiting so that your technical judgement stays sound as you spend more time leading and less time writing code.
 
 ## Blog posts
 
@@ -66,7 +66,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Don't be afraid to code in the open: here's how to do it securely](https://technology.blog.gov.uk/2017/09/27/dont-be-afraid-to-code-in-the-open-heres-how-to-do-it-securely/): Addresses which subsets of code should be kept closed and how to work securely in public repositories.
 
-- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, internationalisation, privacy and security considerations specific to government software engineering.
+- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, internationalisation, privacy, and security considerations specific to government software engineering.
 
 - [Learning to code at GDS](https://gds.blog.gov.uk/2019/07/18/learning-to-code-at-gds/): On making coding accessible within an organisation, covering skills development and routes into technical roles.
 
@@ -82,7 +82,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, software process, quality assurance, integration patterns, defects and build patterns.
+- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, software process, quality assurance, integration patterns, defects, and build patterns.
 
 - [On the effects of continuous delivery on code quality: A case study in industry](https://www.sciencedirect.com/science/article/abs/pii/S0920548921000830): A twelve-month industrial case study of what adopting continuous delivery actually did to source code and product quality.
 

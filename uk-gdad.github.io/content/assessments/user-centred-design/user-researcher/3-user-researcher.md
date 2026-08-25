@@ -10,10 +10,10 @@ There is a particular reason this matters for user researchers specifically, and
 
 The document is organised into four main sections:
 
-1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using research plans, analysis frameworks, discussion guides and mixed-method evidence.
+1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using research plans, analysis frameworks, discussion guides, and mixed-method evidence.
 2. A numeric reasoning assessment — percentages, rates, weighted averages, funnel data, sampling arithmetic and the interpretation of quantitative evidence alongside qualitative findings.
 3. A verbal reasoning assessment — reading standards, ethics guidance, evaluation reports and stakeholder correspondence, then answering true/false/cannot-say and comprehension questions.
-4. A situational judgement assessment — realistic dilemmas at your level of independence, covering ethics, stakeholder consensus, methodological integrity and team dynamics.
+4. A situational judgement assessment — realistic dilemmas at your level of independence, covering ethics, stakeholder consensus, methodological integrity, and team dynamics.
 
 Each section has the same shape: what the assessment measures, how it maps to the named skills in your role, twelve practice questions with full explanations, preparation tips, and common pitfalls.
 
@@ -31,13 +31,13 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical materials rather than abstract shapes and sequences. At your level the materials get more realistic and the reasoning gets less mechanical: you will meet research plans with competing constraints, evidence that points two ways at once, and questions where the right answer depends on distinguishing what the data supports from what it merely suggests.
 
-The format is usually an online test of fifteen to thirty minutes, covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level, so the comparison is with other experienced practitioners rather than with the general population. Many platforms are adaptive, raising difficulty after correct answers — if the test feels hard, that is usually a good sign. Most employers receive an acuity report showing speed against accuracy rather than a single score, which means precision is rewarded and reckless pace is not.
+The format is usually an online test of fifteen to thirty minutes, covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level, so the comparison is with other experienced practitioners rather than with the general population. Many platforms are adaptive, raising difficulty after correct answers — if the test feels hard, that is usually a good sign. Most employers receive an acuity report showing speed against accuracy rather than a single score, which means precision is rewarded and reckless pace is not.
 
 For a user researcher, the relevance of this section is direct. Independent working means nobody checks your reasoning before it reaches the team. When you decide that four participants hitting the same wall constitutes a finding while two constitutes a hypothesis, that judgement goes straight into a report. When you spot that a screening criterion would systematically exclude the users the study most needs, you spot it or nobody does. When you notice that an analytics figure and a qualitative observation appear to contradict each other, working out which is measuring what is your job alone. These are cognitive acts, and the quality of them determines the quality of everything downstream.
 
 What rises at this level, compared with a more junior one, is the expectation that you reason under genuine ambiguity. Several questions below have no clean answer, only a best one, and the discriminating factor is whether you can identify the strongest reading of incomplete evidence rather than the most comfortable one. Some ask you to hold two things true at once — that a pattern is worth acting on and that it is not yet established. That combination is uncomfortable and it is exactly what good research judgement looks like.
 
-You still need to memorise nothing. Every rule, definition and figure appears in the question. But you will need to apply judgement to information rather than merely process it, and you will need to notice when a question is testing whether you know the limits of your own evidence.
+You still need to memorise nothing. Every rule, definition, and figure appears in the question. But you will need to apply judgement to information rather than merely process it, and you will need to notice when a question is testing whether you know the limits of your own evidence.
 
 ### How this assessment maps to your role
 
@@ -452,7 +452,7 @@ You want to know whether a design change improved completion. Current completion
 
 A verbal reasoning assessment measures how accurately you read. In a role that runs on documents — service standards, ethics guidance, evaluation reports, policy submissions, stakeholder correspondence, and above all the transcribed words of participants — reading accuracy is not a peripheral skill. It is the substrate everything else rests on.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor rules it out. Alongside these come comprehension questions, main-point questions, and items asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor rules it out. Alongside these come comprehension questions, main-point questions, and items asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your professional knowledge — of data protection, of the Service Manual, of what your organisation actually does — must be set aside entirely. If the passage says something you know to be wrong, the passage still governs. This is counter-intuitive for experienced practitioners, and it is the largest single source of lost marks at senior levels specifically: the more you know, the more readily you supply a link the text does not make.
 
@@ -479,25 +479,25 @@ The verbal skills tested map onto your named skills:
 
 "Services must be researched with users at every stage of development, including after go-live. Research plans must be reviewed by a second user researcher before fieldwork begins, unless the research consists solely of usability sessions on an existing prototype. Where a service is used predominantly by people who may be considered vulnerable, an ethics review is additionally required. Findings from all research must be recorded in the organisation's repository within ten working days."
 
-**Question 1 (easy)** — Statement: "All research plans require review by a second user researcher." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "All research plans require review by a second user researcher." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception: plans consisting solely of usability sessions on an existing prototype are exempt from second-researcher review. The statement's "all" contradicts that exception, making it False. This is the most reliable pattern in the section — an absolute term in the statement, a conditional or exception in the passage. Train yourself to treat "all", "every", "always" and "never" as prompts to go back and check for a qualifier, because test writers place them deliberately.
 
-**Question 2 (easy)** — Statement: "Research must continue after a service goes live." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Research must continue after a service goes live." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence requires research at every stage of development and adds "including after go-live", stating the point explicitly. The statement follows and is True. The "including" clause is doing deliberate work here: the author anticipated that readers might assume research stops at launch and closed that assumption off. When you meet an "including" clause in a passage, treat it as the author flagging a case people commonly miss — and expect a question about it.
 
-**Question 3 (moderate)** — Statement: "A study involving usability sessions and interviews on an existing prototype does not require second-researcher review." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A study involving usability sessions and interviews on an existing prototype does not require second-researcher review." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The exemption applies where research consists *solely* of usability sessions on an existing prototype. A study that also includes interviews does not meet that condition, so the exemption does not apply and review is required — the statement is contradicted, making it False. The load-bearing word is "solely", and it is easy to skim past. This item is a good example of why reading the exception clause as carefully as the rule matters: exceptions are usually narrower than they first appear, and candidates who register "prototype usability sessions are exempt" without registering "solely" will answer True.
 
-**Question 4 (moderate)** — Statement: "A service used mainly by people who may be vulnerable requires both a second-researcher review and an ethics review." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A service used mainly by people who may be vulnerable requires both a second-researcher review and an ethics review." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -507,25 +507,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of research practice across the department found that teams generally followed the recruitment standard, though several reported difficulty recruiting participants with learning disabilities. Two teams had conducted research without a published plan; both were operating under time pressure from ministerial commitments. The review did not examine the quality of analysis. It recommends that the head of user research consider whether additional recruitment support is required."
 
-**Question 5 (easy)** — Statement: "Some teams found it hard to recruit participants with learning disabilities." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some teams found it hard to recruit participants with learning disabilities." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that several teams reported difficulty recruiting participants with learning disabilities. "Several" supports "some", and the statement adds nothing beyond what is written. It is True. Note the passage's careful verb — teams "reported" difficulty — and the statement's compatible phrasing. Had the statement said "recruiting participants with learning disabilities is difficult", it would convert reported experience into an established general fact, and the answer would become Cannot Say.
 
-**Question 6 (moderate)** — Statement: "The quality of analysis across the department is adequate." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The quality of analysis across the department is adequate." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the review did not examine the quality of analysis. Silence on a topic — particularly declared silence — establishes nothing in either direction, so the answer is Cannot Say. Candidates sometimes reason that a review finding no problems implies no problems exist, which is exactly the inference this item is built to catch. A review that did not look cannot be evidence that there was nothing to see. The workplace parallel is worth noting too: an assurance exercise that scopes something out has told you nothing about it, and treating its silence as reassurance is a common organisational error.
 
-**Question 7 (moderate)** — Statement: "Time pressure from ministerial commitments caused the two teams to skip publishing a plan." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Time pressure from ministerial commitments caused the two teams to skip publishing a plan." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage states two facts side by side: the teams conducted research without a published plan, and both were operating under time pressure from ministerial commitments. Juxtaposition is not causation. The time pressure may have been the cause, or the teams may have had other reasons and the pressure is incidental context the review chose to mention. The passage does not assert the causal link, so neither can you. This is the same discipline as Question 6 in the cognitive section, and it is worth noticing how often verbal reasoning tests probe causal overreach — it is one of the most common reading errors among intelligent, experienced readers, because supplying a plausible mechanism feels like comprehension.
 
-**Question 8 (harder)** — Statement: "The review recommends providing additional recruitment support." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends providing additional recruitment support." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -535,19 +535,19 @@ The verbal skills tested map onto your named skills:
 
 "Participants must be able to withdraw at any point without giving a reason. Where a participant withdraws, personal data collected from them must be deleted within five working days, unless the data has been anonymised such that the participant can no longer be identified. Anonymised research data may be retained indefinitely for the purposes of analysis and assurance. Researchers should explain the withdrawal process at the start of each session; where sessions are unmoderated, this explanation must appear in the participant information."
 
-**Question 9 (easy)** — Statement: "A participant must give a reason if they wish to withdraw." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "A participant must give a reason if they wish to withdraw." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The first sentence states that participants must be able to withdraw at any point without giving a reason. The statement directly contradicts this, so it is False. Straightforward, and worth answering quickly to preserve time for the harder items. Note in passing that the underlying principle is substantive rather than procedural: requiring a reason creates pressure to justify, which undermines the freedom the right is supposed to guarantee.
 
-**Question 10 (moderate)** — Statement: "Anonymised data from a participant who withdraws must be deleted within five working days." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "Anonymised data from a participant who withdraws must be deleted within five working days." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The deletion requirement applies to personal data and carries an explicit exception for data anonymised such that the participant can no longer be identified. The following sentence confirms that anonymised research data may be retained indefinitely. The statement contradicts both, so it is False. This item tests whether you carried the exception clause forward across a sentence boundary — the exception appears at the end of one sentence and is reinforced at the start of the next, and a reader skimming for the deletion rule may register only the five-day requirement.
 
-**Question 11 (harder)** — Statement: "In an unmoderated study, a researcher need not explain the withdrawal process." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "In an unmoderated study, a researcher need not explain the withdrawal process." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -784,7 +784,7 @@ A developer dismisses your findings as "just what a few people said" and says re
 - **Look for options that solve the instance and the system.** At your level this is the signature of the best answer.
 - **Prefer redirection to refusal.** "Not that, but here is what would work" outperforms "no" in nearly every stakeholder scenario.
 - **Raise it once, properly.** Repeated objection is weaker than one well-evidenced challenge plus a documented risk.
-- **Know your escalation triggers.** Safeguarding, participant vulnerability, ethics approvals and data incidents go up; methodological disagreements and stakeholder pressure you handle.
+- **Know your escalation triggers.** Safeguarding, participant vulnerability, ethics approvals, and data incidents go up; methodological disagreements and stakeholder pressure you handle.
 - **Discuss real cases with peers.** Your organisation's actual norms are what this section measures, and colleagues are the best source.
 
 ### Common pitfalls to avoid

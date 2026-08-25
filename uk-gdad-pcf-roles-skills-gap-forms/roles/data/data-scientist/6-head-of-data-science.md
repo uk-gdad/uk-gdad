@@ -168,7 +168,7 @@ understood.
 
 These questions are about the job as it actually is.
 
-**Q1.** Describe a typical month. Direction, budget, people, ministers and senior
+**Q1.** Describe a typical month. Direction, budget, people, ministers, and senior
 leaders, ethics, representing the department — how does it divide?
 
 *Your answer:*

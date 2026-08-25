@@ -773,7 +773,7 @@ It is Thursday afternoon before a bank holiday weekend. A colleague mentions the
 
 A cross-government campaign will drive traffic to your service on the 1st of next month. Your load estimates suggest peak demand could exceed your tested capacity by around 30%, but the estimate is uncertain. The service owner has publicly committed to the date, and moving it would be embarrassing. You raised capacity informally two weeks ago and nothing happened. What is the most effective response now?
 
-- A) Raise it formally: write a short note quantifying the risk (forecast versus tested capacity, uncertainty range, expected failure mode and citizen impact), propose concrete mitigations — load testing this week, scaling ahead of the date, graceful degradation, a queue-based fallback — and ask the service owner for a decision, offering to talk it through.
+- A) Raise it formally: write a short note quantifying the risk (forecast versus tested capacity, uncertainty range, expected failure mode, and citizen impact), propose concrete mitigations — load testing this week, scaling ahead of the date, graceful degradation, a queue-based fallback — and ask the service owner for a decision, offering to talk it through.
 - B) Say nothing further — you raised it once, the decision is above your pay grade, and you have an email trail proving you flagged it.
 - C) Escalate directly to the service owner's boss, since the service owner ignored the first warning.
 - D) Quietly scale the infrastructure yourself to triple capacity, absorbing the cost into the team's budget without approvals.

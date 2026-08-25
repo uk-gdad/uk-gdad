@@ -619,7 +619,7 @@ Statement: "Change management aims to eliminate all change-related incidents."
 
 **Correct answer: B**
 
-**Explanation:** The passage says change management aims "to minimise the impact of change-related incidents", and separately that effective service transition "cannot eliminate risk entirely". Minimise is not eliminate; the passage's own closing sentence rules out elimination. So the statement is false. This one-word distinction — minimise versus eliminate — is a favourite of test writers and, more importantly, of auditors and of anyone writing acceptance criteria. If a criterion says "risk eliminated", it is probably badly written and impossible to evidence; if it says "risk minimised and residual risk accepted by the service owner", you can actually validate it. Careful reading and good criteria-writing are the same skill.
+**Explanation:** The passage says change management aims "to minimise the impact of change-related incidents", and separately that effective service transition "cannot eliminate risk entirely". Minimise is not eliminate; the passage's own closing sentence rules out elimination. So the statement is false. This one-word distinction — minimise versus eliminate — is a favourite of test writers and, more importantly, of auditors, and of anyone writing acceptance criteria. If a criterion says "risk eliminated", it is probably badly written and impossible to evidence; if it says "risk minimised and residual risk accepted by the service owner", you can actually validate it. Careful reading and good criteria-writing are the same skill.
 
 **Question 11 (moderate) — Comprehension of relationships**
 

@@ -377,7 +377,7 @@ deliberate?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** Writing real software: reviewing specifications, then
-designing, coding, testing and documenting programs of genuine complexity.
+designing, coding, testing, and documenting programs of genuine complexity.
 
 **What the framework expects at this level.** That you collaborate with others
 when necessary to review specifications, and use the agreed specifications to
@@ -456,7 +456,7 @@ delivery machinery?
 ### Skill: Service support
 
 **What this means.** Keeping live services and the toolchain working —
-identifying, locating and fixing faults.
+identifying, locating, and fixing faults.
 
 **What the framework expects at this level.** That you identify, locate and fix
 service faults. This is the plain wording; the technical role at your level

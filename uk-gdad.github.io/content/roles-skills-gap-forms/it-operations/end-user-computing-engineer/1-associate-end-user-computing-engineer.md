@@ -14,7 +14,7 @@ before an important meeting, or their access has stopped working on their first 
 sorts it out is the face of the whole digital function.
 
 Nothing here is scored, marked or ranked. Five skills — the smallest set in this role — each with a
-plain explanation, a rating and a couple of questions. Take about 20 minutes.
+plain explanation, a rating, and a couple of questions. Take about 20 minutes.
 
 ## Advisory
 

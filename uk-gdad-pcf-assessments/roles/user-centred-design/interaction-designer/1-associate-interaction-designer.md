@@ -12,8 +12,8 @@ There is one thing worth saying about interaction design specifically before we 
 
 The document is organised into four main sections:
 
-1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, prioritisation and problem solving, using patterns, components, screens and design standards.
-2. A numeric reasoning assessment — percentages, proportions, averages and simple tables, using the numbers interaction designers actually handle, such as error rates, page drop-off, device splits and completion figures.
+1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, prioritisation and problem solving, using patterns, components, screens, and design standards.
+2. A numeric reasoning assessment — percentages, proportions, averages and simple tables, using the numbers interaction designers actually handle, such as error rates, page drop-off, device splits, and completion figures.
 3. A verbal reasoning assessment — reading passages like design standards, accessibility guidance and stakeholder emails, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic workplace dilemmas pitched at a trainee level, with guidance on the most and least effective responses and, importantly, on why.
 
@@ -277,7 +277,7 @@ A designer proposes replacing a set of radio buttons with a custom dropdown that
 
 A numeric reasoning assessment measures how well you work with the numbers your job produces. This is the section people worry about most, so let us be clear straight away: it is not a maths exam. There are no equations to solve and no formulae to memorise. Most platforms provide a calculator, and where they do not the arithmetic is deliberately simple. What is measured is whether you can read a table correctly, pick the right numbers out of a cluttered display, choose the right operation, and interpret the result sensibly.
 
-The format is usually a timed online test of fifteen to thirty minutes, each item showing a small table, chart or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is finding the relevant numbers quickly and ignoring the rest. Test designers routinely include figures you do not need, precisely to see whether you can tell the difference.
+The format is usually a timed online test of fifteen to thirty minutes, each item showing a small table, chart, or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is finding the relevant numbers quickly and ignoring the rest. Test designers routinely include figures you do not need, precisely to see whether you can tell the difference.
 
 Some designers arrive here convinced they are "not a numbers person". That belief is worth challenging, because interaction design is full of numbers even though it is not a quantitative discipline. You look at how many people trigger a validation error on a field. You compare completion on mobile against desktop. You read how many users reach a page and how many leave it. You check whether a change made any difference. You work out how many people a decision affects. None of that requires advanced mathematics, and all of it requires numerical care, because getting it wrong sends a team to redesign the wrong screen for a fortnight.
 
@@ -289,7 +289,7 @@ A last note about the options. Wrong answers are almost never random. They are t
 
 The numerical skills tested map onto your named skills:
 
-- **Reading tables accurately** maps to **Evidence-based design**, where you identify common sources and types of data that inform user-centred design. Error rates, device splits and page analytics all arrive as tables.
+- **Reading tables accurately** maps to **Evidence-based design**, where you identify common sources and types of data that inform user-centred design. Error rates, device splits, and page analytics all arrive as tables.
 - **Percentages and proportions** map to **Designing for everyone**, because comparing completion between devices or user groups is how exclusion becomes visible in numbers rather than only in stories.
 - **Measuring change** maps to **Iterative design**, where you explain how iteration supports user-centred design. An iteration that has not been measured is a change, not an improvement.
 - **Understanding scale** maps to **Designing strategically**, where aligning to your team's wider goals means knowing how many people a decision affects.
@@ -345,7 +345,7 @@ Which device has a completion rate of exactly 60%?
 
 **Question 4 (easy) — Average time on a task**
 
-Five participants took 40, 55, 45, 60 and 50 seconds to complete a task. What was the mean?
+Five participants took 40, 55, 45, 60, and 50 seconds to complete a task. What was the mean?
 
 - A) 48 seconds
 - B) 50 seconds
@@ -514,25 +514,25 @@ The verbal skills tested map onto your named skills:
 
 "All new public-facing services must use components from the Design System where a suitable component exists. Where no suitable component exists, teams may create a new one, provided it is documented and shared with the cross-government community. New components must be tested with assistive technology before use in a live service. Teams are encouraged, but not required, to contribute new components back to the Design System itself."
 
-**Question 1 (easy)** — Statement: "New components must be tested with assistive technology before live use." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "New components must be tested with assistive technology before live use." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The third sentence states this directly, so it follows necessarily and is True. This is the most straightforward item type, and the right move is to answer fast and confidently to bank time for harder items. Resist hunting for a trick that is not there — candidates lose marks by over-thinking easy items just as often as by rushing hard ones.
 
-**Question 2 (easy)** — Statement: "Teams must contribute new components back to the Design System." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Teams must contribute new components back to the Design System." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says teams are *encouraged, but not required*, to contribute components back. The statement's "must" contradicts that explicitly, so it is False. Note that the passage does two things at once here — it establishes a hard requirement to document and share, and a soft encouragement to contribute — and those are different obligations to different destinations. A reader who conflates "shared with the community" and "contributed to the Design System" will get this wrong, and would also get it wrong in practice by promising a contribution nobody asked for.
 
-**Question 3 (moderate)** — Statement: "A team that creates a new component without documenting it has breached the requirements." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A team that creates a new component without documenting it has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage permits creating a new component *provided it is documented and shared*. Those are conditions on the permission, and failing one means the permission does not apply, so creating an undocumented component breaches the requirement. The statement follows and is True. Note the contrast with Question 2: there the passage explicitly removed an obligation, giving False; here it attached conditions to a permission, and failing a condition is a breach. Distinguishing an explicit exemption from a conditional permission is one of the more useful habits this section builds.
 
-**Question 4 (moderate)** — Statement: "A service may use a component that is not in the Design System." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A service may use a component that is not in the Design System." True, False, or Cannot Say?
 
 **Correct answer: True**
 
@@ -542,25 +542,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the application form found that users on mobile devices completed more slowly than users on desktop and were more likely to abandon at the upload step. The review notes that mobile users differed from desktop users in several respects, including age and whether they were completing the form at home. The review did not assess the quality of completed applications. It recommends that the team consider whether a redesigned upload step would reduce mobile abandonment."
 
-**Question 5 (easy)** — Statement: "Mobile users were more likely to abandon at the upload step than desktop users." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Mobile users were more likely to abandon at the upload step than desktop users." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly, and the statement restates it without addition. True. Note the passage's careful comparative framing — "more likely to abandon" rather than "usually abandon" — and the statement respects it. A statement claiming "mobile users usually abandon at the upload step" would be a much stronger claim than the passage supports and would be a Cannot Say.
 
-**Question 6 (moderate)** — Statement: "The mobile interface causes users to abandon at the upload step." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The mobile interface causes users to abandon at the upload step." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then explicitly flags that mobile and desktop users differed in age and in whether they were completing the form at home. Either could explain the difference — someone completing a form away from home is less likely to have their documents with them, which would produce abandonment at an upload step regardless of interface quality. The passage neither asserts nor rules out an interface cause, so Cannot Say. The design consequence is direct: if the cause is the interface you redesign it, and if the cause is that mobile users do not have their documents to hand you design something else entirely, such as saving and returning or explaining what is needed before the journey starts.
 
-**Question 7 (moderate)** — Statement: "The redesigned upload step will reduce mobile abandonment." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The redesigned upload step will reduce mobile abandonment." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** Two things stand between the passage and the statement. The review recommends only that the team *consider whether* a redesign would reduce abandonment, which is a recommendation to evaluate rather than a prediction. And no redesign has happened, so nothing establishes its effect. Cannot Say. "Consider whether" is a phrase worth learning to spot: it appears constantly in real review documents and is very frequently reported afterwards as a firm recommendation to act, which is how teams end up delivering things nobody decided to do.
 
-**Question 8 (harder)** — Statement: "Applications submitted on mobile are of lower quality." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Applications submitted on mobile are of lower quality." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -570,19 +570,19 @@ The verbal skills tested map onto your named skills:
 
 "Interactive components must be operable using a keyboard alone. Where a component uses a non-standard interaction, the team must provide a documented keyboard alternative. Focus order must follow the visual reading order of the page. Where a component displays an error, the error must be programmatically associated with the field it relates to; a visual association alone is not sufficient."
 
-**Question 9 (easy)** — Statement: "Interactive components must work with a keyboard alone." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Interactive components must work with a keyboard alone." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly. True. Answer quickly and move on. This is worth internalising beyond the test, because keyboard operability is the requirement most often broken by custom components — a control built from generic elements with click handlers will typically work perfectly with a mouse and not at all with a keyboard, and the failure is invisible unless somebody deliberately checks.
 
-**Question 10 (moderate)** — Statement: "A visual association between an error and its field is sufficient." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A visual association between an error and its field is sufficient." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final clause states that a visual association alone is not sufficient; the error must be programmatically associated with its field. The statement contradicts this directly, so False. The reason the passage bothers to say it is worth knowing: an error message placed next to a field is obvious to a sighted user and may be entirely invisible to someone using a screen reader, who encounters fields and messages in whatever order the underlying markup dictates. The word "programmatically" is doing all the work in that sentence, and skimming past it produces exactly the failure the requirement exists to prevent.
 
-**Question 11 (harder)** — Statement: "A component with a non-standard interaction breaches the requirements." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A component with a non-standard interaction breaches the requirements." True, False, or Cannot Say?
 
 **Correct answer: False**
 

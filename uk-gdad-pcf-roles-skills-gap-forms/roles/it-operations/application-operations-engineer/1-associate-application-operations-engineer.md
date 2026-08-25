@@ -14,7 +14,7 @@ stops behaving, someone has to notice, work out what changed, and get it back. L
 starts with watching how experienced people diagnose things.
 
 Nothing here is scored, marked or ranked. There are no right answers. Four skills — the smallest set
-at any level of this role — each with a plain explanation, a rating and a couple of questions. Take
+at any level of this role — each with a plain explanation, a rating, and a couple of questions. Take
 about 20 minutes.
 
 ## Advisory
@@ -91,7 +91,7 @@ team and support application operations engineers in their daily work, under the
 4. Lead application operations engineer
 5. Principal application operations engineer
 
-Your next step is application operations engineer: maintaining services, conducting user and security
+Your next step is application operations engineer: maintaining services, conducting user, and security
 administration, monitoring applications and being accountable for batch processes.
 
 **One thing worth knowing about this role.** Your level has **four** skills. The level above has

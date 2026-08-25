@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Providing Telephone Customer Service](https://www.skillsoft.com/course/providing-telephone-customer-service-5628eb45-fea5-11e6-8638-0242c0a80b06): Etiquette for answering, managing and ending calls, listening, probing questions, tone and empathy. Directly the work at this level.
+- [Providing Telephone Customer Service](https://www.skillsoft.com/course/providing-telephone-customer-service-5628eb45-fea5-11e6-8638-0242c0a80b06): Etiquette for answering, managing and ending calls, listening, probing questions, tone, and empathy. Directly the work at this level.
 
 - [Customer Service: Engaging with Customers](https://www.skillsoft.com/course/customer-service-engaging-with-customers-7ed0de37-784d-4e35-9012-6b0bba7094b9): Techniques for engaging customers and showing flexibility in problem-solving.
 
@@ -46,7 +46,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Project Communications, Stakeholders and Leadership (SkillUp EdTech)](https://www.edx.org/learn/business-management/skillup-edtech-llc-project-communications-stakeholders-leadership): Communication practice, which is most of what a service desk call is.
 
-- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models and infrastructure, which is where the services you support now live.
+- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models, and infrastructure, which is where the services you support now live.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): Useful context on how the services behind your calls are built and run.
 
@@ -128,7 +128,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A Guide to Computer User Support for Help Desk and Support Specialists](https://www.amazon.com/Guide-Computer-User-Support-Specialists/dp/1285852680): The support role as a discipline, including the communication half that determines satisfaction.
 
-- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark and West. A compact reference for the diagnostics you repeat.
+- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark, and West. A compact reference for the diagnostics you repeat.
 
 - [IT Helpdesk Training Best Practices: Desktop Support Troubleshooting and System Administration](https://www.amazon.com/Helpdesk-Training-Best-Practices-Troubleshooting-ebook/dp/B0CZ245SWG): By Rob Botwright. Broad coverage of desktop support and administration.
 
@@ -140,11 +140,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny and colleagues. Directly applicable to the calls that go badly.
 
-- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton and Heen. What is actually happening in a conversation that keeps escalating.
+- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton, and Heen. What is actually happening in a conversation that keeps escalating.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): By Cole Nussbaumer Knaflic. Useful for the basic reporting expected at this level.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Readable context for how your work connects to everything else.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Readable context for how your work connects to everything else.
 
 ## Professional development tips
 

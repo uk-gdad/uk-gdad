@@ -636,7 +636,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
-  — courses, blog posts, videos and books for an associate test analyst.
+  — courses, blog posts, videos, and books for an associate test analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)

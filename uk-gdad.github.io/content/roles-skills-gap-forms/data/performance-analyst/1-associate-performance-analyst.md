@@ -69,7 +69,7 @@ Two things about the scale:
 
 - It describes **what you do at work today**, not what you studied.
 - **0s and 1s are completely normal here.** Four of your seven skills are worded as
-  *describe*, *explain* or *show an awareness*. A 1 is often exactly the published
+  *describe*, *explain*, or *show an awareness*. A 1 is often exactly the published
   expectation.
 
 Here is what a filled-in answer looks like:

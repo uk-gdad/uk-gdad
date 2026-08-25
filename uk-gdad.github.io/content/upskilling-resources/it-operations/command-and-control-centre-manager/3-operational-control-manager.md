@@ -22,13 +22,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture): Aligning incentives between development and operations for mission-critical production support, and improving collaboration between the business and IT.
 
-- [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Reliability measurement, automation and incident response as one connected discipline.
+- [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Reliability measurement, automation, and incident response as one connected discipline.
 
 - [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Incident, problem, change and configuration management at the level where you own the escalation.
 
 ## Udemy courses
 
-- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols and resource co-ordination, which is what leading an investigation involves.
+- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols, and resource co-ordination, which is what leading an investigation involves.
 
 - [Master Incident and Major Incident Management](https://www.udemy.com/course/master-incident-major-incident-management-get-job-ready/): Incident management fundamentals through to major incident handling, structured for people taking on responsibility for it.
 
@@ -38,7 +38,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, change control, incident, asset, monitoring and problem management.
 
-- [Backup and Recovery: Business Continuity and Disaster Recovery](https://www.skillsoft.com/course/backup-recovery-business-continuity-disaster-recovery-a53ef3a2-f008-46b5-972b-233568bac681): Business impact assessment, risk assessment and system resilience, which is the substance behind your continuity runbooks.
+- [Backup and Recovery: Business Continuity and Disaster Recovery](https://www.skillsoft.com/course/backup-recovery-business-continuity-disaster-recovery-a53ef3a2-f008-46b5-972b-233568bac681): Business impact assessment, risk assessment, and system resilience, which is the substance behind your continuity runbooks.
 
 - [Business Continuity Programs](https://www.skillsoft.com/course/business-continuity-programs-e45de5fa-63d1-40d2-8897-4bc581034c3f): Planning recovery of operations for adverse events, from technological failure through to human error.
 
@@ -64,7 +64,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [PagerDuty Incident Response Documentation](https://response.pagerduty.com/): A complete published incident response process, including how major incidents are commanded.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [Alert Fatigue Is Killing Your NOC Efficiency, Techmonarch](https://techmonarch.com/blog/alert-fatigue-is-killing-your-noc-efficiency-heres-what-actually-works/): Argues that automated runbooks remove whole classes of alert from the human queue, but only when the runbook is current.
 
@@ -90,7 +90,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Monitor Alarm Fatigue: An Integrative Review](https://array.aami.org/doi/full/10.2345/0899-8205-46.4.268): A review from clinical monitoring, the domain where alarm fatigue has been studied most rigorously.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis techniques across metrics, traces and logs.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis techniques across metrics, traces, and logs.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): The 14 challenges and 17 enablers of root cause analysis, most of which are addressable by a manager.
 
@@ -126,15 +126,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command system used by emergency services, applied to IT. The best available model for running an escalation.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command system used by emergency services, applied to IT. The best available model for running an escalation.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. On-call load, alerting policy, toil reduction and error budget policy in practice.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. On-call load, alerting policy, toil reduction, and error budget policy in practice.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns, and the failure modes your runbooks should anticipate.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Debugging failures nobody predicted, which is what escalations usually are.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Debugging failures nobody predicted, which is what escalations usually are.
 
-- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operations at scale, with substantial material on operational readiness.
+- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operations at scale, with substantial material on operational readiness.
 
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869): By Rosenthal and Jones. Testing resilience deliberately, which is the mature version of testing your runbooks.
 

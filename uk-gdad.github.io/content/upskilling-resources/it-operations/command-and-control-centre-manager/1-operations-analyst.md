@@ -38,7 +38,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Event, Incident, and Problem Management: ITIL](https://www.skillsoft.com/course/event-incident-and-problem-management-0fe6c829-bdd7-4921-9a23-d8a7365ae359): Monitoring and event management first, then incident, then problem management, which is the order the work reaches you.
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, monitoring and event, incident, change and asset management.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, monitoring and event, incident, change, and asset management.
 
 - [Courses for ITIL Foundation](https://www.skillsoft.com/channel/itil-foundation-2635aa01-2c26-11e7-83d1-dba0327abefc): Supports the Level 3 service management framework qualification expected at this role level.
 
@@ -46,7 +46,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): The principles behind how live services are operated today.
 
-- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models and infrastructure, which is what most of your monitored estate now runs on.
+- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models, and infrastructure, which is what most of your monitored estate now runs on.
 
 - [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, deployment pipelines and observability systems.
 
@@ -54,15 +54,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Hardware, operating systems, databases and security for people with little background in the technology.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Networks, performance and fault tolerance, which explains the failure patterns you watch for.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Networks, performance, and fault tolerance, which explains the failure patterns you watch for.
 
-- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process analysis, capacity analysis and cycle time, which is the general theory behind availability and capacity management.
+- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process analysis, capacity analysis, and cycle time, which is the general theory behind availability and capacity management.
 
 ## Blog posts
 
 - [Monitoring Distributed Systems, Google SRE Book chapter 6](https://sre.google/sre-book/monitoring-distributed-systems/): The four golden signals, and clear guidance on what should interrupt a human and what should not.
 
-- [What are the Four Golden Signals and Why Do They Matter?](https://www.groundcover.com/blog/4-golden-signals): A shorter treatment of latency, traffic, errors and saturation.
+- [What are the Four Golden Signals and Why Do They Matter?](https://www.groundcover.com/blog/4-golden-signals): A shorter treatment of latency, traffic, errors, and saturation.
 
 - [What Is a Network Operations Center (NOC)? Complete Guide, OnPage](https://www.onpage.com/what-is-network-operations-center-noc/): What a control centre is for and how the shift work is structured.
 
@@ -98,7 +98,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Improving the Software Problem Management Process: A Case Study](https://link.springer.com/chapter/10.1007/11908562_5): A case study of the difficulties in a real problem management process.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices across 47 studies.
 
 - [Continual Process Improvement for ITIL Service Operations: A Lean Perspective](https://www.tandfonline.com/doi/full/10.1080/10580530.2019.1587576): A five-step improvement framework for service operations.
 
@@ -132,15 +132,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ITSM QuickStart Guide: The Simplified Beginner's Guide to IT Service Management](https://www.amazon.com/ITSM-QuickStart-Simplified-Beginners-Management/dp/1945051086): By ClydeBank Technology. Fast orientation to ITSM language and frameworks.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command system used by emergency services, applied to IT.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command system used by emergency services, applied to IT.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What good observability is, as opposed to having many dashboards.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What good observability is, as opposed to having many dashboards.
 
-- [Site Reliability Engineering Tidbits: Learn SRE Principles and Techniques](https://www.amazon.com/Site-Reliability-Engineering-Tidbits-Observability-ebook/dp/B09QZHZYPC): By Daniel Mican. Short readable pieces on monitoring, SLOs and debugging.
+- [Site Reliability Engineering Tidbits: Learn SRE Principles and Techniques](https://www.amazon.com/Site-Reliability-Engineering-Tidbits-Observability-ebook/dp/B09QZHZYPC): By Daniel Mican. Short readable pieces on monitoring, SLOs, and debugging.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The standing reference for enterprise operations practice.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The standing reference for enterprise operations practice.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Why unplanned operational work crowds out everything else.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Why unplanned operational work crowds out everything else.
 
 - [Problem Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Problem-Management-Newbies-Guidance-Beginners-ebook/dp/B00PNNZ4LY): By William Edwards. Problem management techniques including Kepner-Tregoe analysis.
 

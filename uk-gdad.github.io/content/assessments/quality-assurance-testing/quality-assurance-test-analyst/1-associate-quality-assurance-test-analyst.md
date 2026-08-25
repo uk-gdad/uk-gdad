@@ -41,7 +41,7 @@ One reassuring point before you start: at the associate level, assessments are c
 
 The assessment dimensions map directly to the named skills in your role summary:
 
-- **Pattern recognition** maps to your **Test analysis** skill: analysing information such as user stories, prototypes, processes and designs, with support, means spotting recurring structures — a naming convention in test cases, a repeated step in a process, a field that appears in one screen but not another. It also supports **Designing and executing tests**, because simple tests are built from patterns: same setup, different data.
+- **Pattern recognition** maps to your **Test analysis** skill: analysing information such as user stories, prototypes, processes, and designs, with support, means spotting recurring structures — a naming convention in test cases, a repeated step in a process, a field that appears in one screen but not another. It also supports **Designing and executing tests**, because simple tests are built from patterns: same setup, different data.
 - **Logical deduction** maps to **Test analysis** and **Designing and executing tests**: when you follow guidance to design simple tests that align to user needs and requirements, you must reason from a rule ("users under 18 cannot register") to its test consequences ("a 17-year-old attempting to register should be refused").
 - **Error checking** maps to **Managing, reporting and resolving defects**: following a defect management process means recording defects with appropriate, accurate information, retesting carefully, and spotting when a report contradicts itself. It also supports **Test engineering**, because supporting the maintenance of automated tests requires noticing when a script and its data no longer match.
 - **Prioritisation** maps to **Test and quality planning** and **Managing, reporting and resolving defects**: following a test plan with support still involves choosing sensibly what to do first, and knowing when a defect needs to be escalated rather than queued.
@@ -143,7 +143,7 @@ Your mentor asks what you notice. What is the most useful observation?
 
 Your team's rule says: "Every user story must have at least one positive test (valid input, expected success) and at least one negative test (invalid input, expected rejection) before it can be marked as tested." Story S1 has two positive tests. Story S2 has one positive test and one negative test. Story S3 has three negative tests. Which stories can be marked as tested under the rule?
 
-- A) S1, S2 and S3
+- A) S1, S2, and S3
 - B) S2 only
 - C) S1 and S2
 - D) S2 and S3
@@ -493,11 +493,11 @@ Why does this matter so much for your role? Because precise reading is a core te
 
 The assessment dimensions map directly to the named skills in your role summary:
 
-- **Reading comprehension** maps to **Test analysis**: analysing information such as user stories, prototypes, processes and designs, with support, begins with extracting exactly what a document says — no more and no less.
+- **Reading comprehension** maps to **Test analysis**: analysing information such as user stories, prototypes, processes, and designs, with support, begins with extracting exactly what a document says — no more and no less.
 - **True / false / cannot say discipline** maps to **Designing and executing tests** and **Test analysis**: a test should check what the requirement actually states; treating an assumption as a stated fact leads to tests that pass while the real requirement fails. Recognising "cannot say" is the same skill as spotting a gap in acceptance criteria and asking about it.
 - **Inference** maps to **Managing, reporting and resolving defects**: reading a defect description or a developer's reply and correctly understanding what is implied — and what is not — keeps the defect process moving without misunderstandings.
 - **Clear-writing judgement** maps to **Communicating between the technical and non-technical**: your role asks you to understand why it is important to communicate technical concepts in non-technical language; choosing the clearest phrasing in a test question rehearses choosing the clearest phrasing in your own reports and emails.
-- **Understanding process documents** maps to **Test and quality planning** and **Test engineering**: following quality testing approaches, plans, strategies and engineering standards, with support, requires you to read those documents accurately — including the conditions and exceptions.
+- **Understanding process documents** maps to **Test and quality planning** and **Test engineering**: following quality testing approaches, plans, strategies, and engineering standards, with support, requires you to read those documents accurately — including the conditions and exceptions.
 
 ### Practice questions
 

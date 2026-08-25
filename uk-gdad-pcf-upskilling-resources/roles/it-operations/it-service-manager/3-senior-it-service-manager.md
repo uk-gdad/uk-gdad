@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of senior I
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are responsible for service management across platforms, multiple channels and services, to ensure service availability, performance and process maturity. The resources below emphasise process maturity assessment, leading investigative work, managing configuration and service risk, and the strategy definition expected once your remit spans services rather than one.
+At this role level you are responsible for service management across platforms, multiple channels and services, to ensure service availability, performance, and process maturity. The resources below emphasise process maturity assessment, leading investigative work, managing configuration and service risk, and the strategy definition expected once your remit spans services rather than one.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -52,9 +52,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping and root cause analysis at multi-service scale.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping, and root cause analysis at multi-service scale.
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, interface management, verification and commissioning, which is useful vocabulary for cross-service work.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, interface management, verification, and commissioning, which is useful vocabulary for cross-service work.
 
 - [15.281 Advanced Communication for Leaders](https://ocw.mit.edu/courses/15-281-advanced-communication-for-leaders-spring-2016/): Presenting to a hostile audience and running productive meetings, both of which service reviews require.
 
@@ -88,7 +88,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementation and impacts of IT Service Management in the IT function](https://www.sciencedirect.com/science/article/abs/pii/S0268401223000099): A systematic review of empirical implementation research from 2012 to 2021.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices across 47 studies.
 
 - [Capacity and availability management by quantitative project management in the IT service industry](https://www.emerald.com/ajq/article-abstract/13/2/163/60850/Capacity-and-availability-management-by): A quantitative approach to capacity and availability across a service portfolio.
 
@@ -112,7 +112,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Insights on How Team Topologies Drive Organizational Success, Manuel Pais at GOTO 2024](https://www.youtube.com/watch?v=HKS5sKsIkkc): Organisational design for flow, which is often the real constraint on process maturity.
 
-- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state and change strategy, which is the structure investigative work needs.
+- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state, and change strategy, which is the structure investigative work needs.
 
 - [Elicitation and Collaboration, CBAP](https://www.youtube.com/watch?v=ULBaB-BKmZA): Certification-depth elicitation, useful for quality-assuring analysis you commission.
 
@@ -130,9 +130,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ITSM for Leaders: A Leader's Guide to Understanding IT Service Management](https://www.amazon.com/ITSM-Leaders-Understanding-Management-Leadership-ebook/dp/B08GB48GPD): By Jeffrey Tefertiller. Service management framed for people accountable across a portfolio.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence on how process affects delivery, which should temper any maturity programme.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence on how process affects delivery, which should temper any maturity programme.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Service level objectives and error budget policy, which modernise service level management.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Service level objectives and error budget policy, which modernise service level management.
 
 - [Implementing ITIL Configuration Management](https://www.amazon.com/Implementing-ITIL-Configuration-Management-Press-ebook/dp/B0054KOLB0): By Larry Klosterboer. Managing configuration items and related information across an organisation.
 

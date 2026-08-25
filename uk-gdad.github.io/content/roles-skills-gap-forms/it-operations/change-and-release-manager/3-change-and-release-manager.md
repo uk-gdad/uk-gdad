@@ -104,7 +104,7 @@ leadership — and the framework does not define it as a next step, so this form
 First, the two levels below yours are worded **almost identically to each other** — ten of eleven skills
 match. Your level is where most of the published progression in this role actually happens: asset and
 configuration management, change management, community collaboration, incident management, ownership,
-problem management, service focus and user focus all rise.
+problem management, service focus, and user focus all rise.
 
 Second, *Continuity management* is worded as **explain the basic principles** at all three levels,
 including yours — the only skill in this role that never changes. Given that you authorise the changes

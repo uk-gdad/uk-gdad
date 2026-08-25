@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of data arc
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you design and build data models to fulfil the organisation's strategic data needs, define and maintain the data technology architecture including metadata, integration and warehouse architecture, and support the data lifecycle in compliance with data policy. The resources below emphasise data modelling, metadata management, data standards and governance fundamentals.
+At this role level you design and build data models to fulfil the organisation's strategic data needs, define and maintain the data technology architecture including metadata, integration and warehouse architecture, and support the data lifecycle in compliance with data policy. The resources below emphasise data modelling, metadata management, data standards, and governance fundamentals.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Data Architecture for Data Engineers: Practical Approaches](https://www.udemy.com/course/data-architecture-for-data-engineers/): Covers traditional and modern data architectures including data warehouses, data lakes and the data lakehouse, with practical treatment of data modelling, governance and security.
+- [Data Architecture for Data Engineers: Practical Approaches](https://www.udemy.com/course/data-architecture-for-data-engineers/): Covers traditional and modern data architectures including data warehouses, data lakes and the data lakehouse, with practical treatment of data modelling, governance, and security.
 
 - [Data Warehouse: The Ultimate Guide](https://www.udemy.com/course/data-warehouse-the-ultimate-guide/): Covers data warehouse fundamentals including architecture, dimensional modelling with facts and dimensions, ETL and ELT, hands-on setup and modern cloud architectures.
 
@@ -48,11 +48,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Relational Database Design (UMBC)](https://www.edx.org/learn/relational-databases/university-of-maryland-baltimore-county-relational-database-design): Teaches how to design relational databases including popular relational models and normal forms, so that designs conform to industry best practice.
 
-- [Enterprise Data Management (Indiana University)](https://www.edx.org/learn/business-administration/indiana-university-enterprise-data-management): Covers data strategy and data governance, relational databases and SQL, data integration, master data management and big data technologies.
+- [Enterprise Data Management (Indiana University)](https://www.edx.org/learn/business-administration/indiana-university-enterprise-data-management): Covers data strategy and data governance, relational databases and SQL, data integration, master data management, and big data technologies.
 
 ## MIT OpenCourseWare courses
 
-- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): A graduate course on the foundations of database systems, covering relational algebra and the relational data model, schema normalisation, query optimisation and transactions.
+- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): A graduate course on the foundations of database systems, covering relational algebra and the relational data model, schema normalisation, query optimisation, and transactions.
 
 - [1.264J Database, Internet, and Systems Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/): Covers data modelling, UML, relational databases and SQL alongside internet technologies including XML, web services and service-oriented architectures.
 
@@ -134,9 +134,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Mastering Data Warehouse Design: Relational and Dimensional Techniques](https://www.amazon.com/Mastering-Data-Warehouse-Design-Dimensional/dp/0471324213): By Claudia Imhoff, Nicholas Galemmo and Jonathan Geiger. Merges Inmon's warehouse design philosophy with Kimball's data mart philosophy into one coherent approach.
 
-- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference text for the knowledge areas of data management, including data architecture, modelling, storage, security, integration, metadata and quality.
+- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference text for the knowledge areas of data management, including data architecture, modelling, storage, security, integration, metadata, and quality.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Provides the operating model framing that determines how much data integration and standardisation an organisation actually needs.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Provides the operating model framing that determines how much data integration and standardisation an organisation actually needs.
 
 - [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): Useful for data architects who need to connect data models to business capability and value stream views.
 

@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of chief in
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-This role creates the environment and culture that secures the organisation's information and technology, setting and leading an information and cyber security strategy, advising the board on risk, and ensuring readiness to detect, respond to and recover from attack. The role level in the framework is recorded as NOT IN USE. The resources below emphasise security strategy, architecture and executive leadership.
+This role creates the environment and culture that secures the organisation's information and technology, setting and leading an information and cyber security strategy, advising the board on risk, and ensuring readiness to detect, respond to and recover from attack. The role level in the framework is recorded as NOT IN USE. The resources below emphasise security strategy, architecture, and executive leadership.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Succeed as Chief Digital Officer and Digital Transformation](https://www.udemy.com/course/succeeding-as-a-digital-leader/): Covers the digital leadership role, including how it relates to and sometimes supersedes traditional CIO and CTO responsibilities.
 
-- [Cybersecurity Solution Architecture 301](https://www.udemy.com/course/cybersecurity-solution-architecture-301-2025-edition/): Aimed at seasoned professionals, covering securing global multi-cloud enterprises against post-quantum threats, AI-driven attacks and continuous regulatory change.
+- [Cybersecurity Solution Architecture 301](https://www.udemy.com/course/cybersecurity-solution-architecture-301-2025-edition/): Aimed at seasoned professionals, covering securing global multi-cloud enterprises against post-quantum threats, AI-driven attacks, and continuous regulatory change.
 
 ## Skillsoft courses
 
@@ -72,11 +72,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Technology in government: Open Source](https://technology.blog.gov.uk/category/open-source/): Posts on open source practice in UK government, including transparency commitments and their practical implications.
 
-- [The Role of CIOs in Modern Business](https://www.skillsoft.com/blog/the-role-of-cios-in-modern-business-and-why-you-should-never-stop-learning): Discusses how the role sits at the crossroads of business strategy and technological innovation, balancing organisational, workforce and technology demands.
+- [The Role of CIOs in Modern Business](https://www.skillsoft.com/blog/the-role-of-cios-in-modern-business-and-why-you-should-never-stop-learning): Discusses how the role sits at the crossroads of business strategy and technological innovation, balancing organisational, workforce, and technology demands.
 
 - [Building a better future: the enterprise architect's role in leading organizational transformation](https://www.cio.com/article/3600078/building-a-better-future-the-enterprise-architects-role-in-leading-organizational-transformation.html): Examines the shift from documenting an organisation to leading change within it.
 
-- [Designing secure access with ZTNA](https://www.ncsc.gov.uk/blogs/designing-secure-access-with-ztna): National Cyber Security Centre guidance on designing zero trust architectures, aimed at architects, security practitioners and technical decision makers.
+- [Designing secure access with ZTNA](https://www.ncsc.gov.uk/blogs/designing-secure-access-with-ztna): National Cyber Security Centre guidance on designing zero trust architectures, aimed at architects, security practitioners, and technical decision makers.
 
 - [Architecting the Future: Enterprise Architecture Strategies for Agile and Resilient Organizations](https://www.rsaconference.com/library/blog/architecting-the-future-enterprise-architecture-strategies-for-agile-and-resilient-organizations): On running technology functions that are agile and resilient at the same time.
 
@@ -126,15 +126,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Driving Digital: The Leader's Guide to Business Transformation Through Technology](https://www.amazon.com/Driving-Digital-Business-Transformation-Technology-ebook/dp/B01N10Y94E): By Isaac Sacolick. Written for chief information, technology, data and digital officers, covering transforming IT into agile operations, developing digital products, enabling data-driven organisations and establishing platforms for emerging technology.
+- [Driving Digital: The Leader's Guide to Business Transformation Through Technology](https://www.amazon.com/Driving-Digital-Business-Transformation-Technology-ebook/dp/B01N10Y94E): By Isaac Sacolick. Written for chief information, technology, data and digital officers, covering transforming IT into agile operations, developing digital products, enabling data-driven organisations, and establishing platforms for emerging technology.
 
 - [Leading in the Digital Age: Disruption, Transformation, Data, Cybersecurity, Artificial Intelligence](https://www.amazon.com/Leading-Digital-Age-Transformation-Cybersecurity-ebook/dp/B07JJJVBJP): By Thomas Cowan. Aimed at C-suite leaders dealing with emerging technologies and the risks that come with them.
 
-- [CIOs and the Digital Transformation: A New Leadership Role](https://www.amazon.com/CIOs-Digital-Transformation-Leadership-Role/dp/3319310259): By Bongiorno, Rizzo and Vaia. An academic but practical treatment of how the information leadership role changes under digital transformation.
+- [CIOs and the Digital Transformation: A New Leadership Role](https://www.amazon.com/CIOs-Digital-Transformation-Leadership-Role/dp/3319310259): By Bongiorno, Rizzo, and Vaia. An academic but practical treatment of how the information leadership role changes under digital transformation.
 
 - [Enterprise Security Architecture: A Business-Driven Approach](https://www.amazon.com/Enterprise-Security-Architecture-Business-Driven-Approach/dp/1032099895): By John Sherwood, Andrew Clark and David Lynas. The definitive treatment of SABSA, the business-driven security architecture framework used to connect security investment to organisational objectives.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Introduces the operating model concept that determines how much integration and standardisation an organisation should pursue.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Introduces the operating model concept that determines how much integration and standardisation an organisation should pursue.
 
 - [Transformed: Moving to the Product Operating Model](https://www.amazon.com/Transformed-Moving-Product-Operating-Silicon-ebook/dp/B0CXG97J55): By Marty Cagan and colleagues. Describes the organisational shift to a product operating model and the leadership behaviours it demands.
 

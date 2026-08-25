@@ -103,7 +103,7 @@ and you are the person the framework holds responsible for the difference.
 Second, four skills are worded **identically at incident manager** below you — asset and configuration
 management, problem management, service management framework knowledge, and community collaboration is
 close in intent. The published step up is concentrated in incident management, continuity, service
-focus, change and availability.
+focus, change, and availability.
 
 **The eleven skills this form covers**, in the framework's order:
 

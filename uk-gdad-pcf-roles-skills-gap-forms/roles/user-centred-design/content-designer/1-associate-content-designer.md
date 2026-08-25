@@ -17,7 +17,7 @@ this form matters more than usual, because what you actually do has probably nev
 written down anywhere.
 
 Nothing here is scored, marked or ranked. There are no right answers. Six skills, each with
-a plain explanation, a rating and a couple of questions. Take about 25 minutes.
+a plain explanation, a rating, and a couple of questions. Take about 25 minutes.
 
 ## Advisory
 
@@ -379,7 +379,7 @@ fair.
 
 ## Legal compliance
 
-Government content carries duties around accessibility, equality and records. These questions
+Government content carries duties around accessibility, equality, and records. These questions
 are about awareness, training and support, not about whether you can recite the law.
 
 **Q27.** Which of these have you had training or a briefing on? Tick any that apply.

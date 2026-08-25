@@ -16,7 +16,7 @@ checklists give that practice a shape.
 Four general sections, identical in every file and shared from
 [spec/template.md](spec/template.md):
 
-- **Types** — structured, reflective and self-directed CPD
+- **Types** — structured, reflective, and self-directed CPD
 - **Phases** — reflect and plan, select and execute, track and apply
 - **Events** — conferences, meetups, courses, communities
 - **Teamwork** — learning with and from colleagues

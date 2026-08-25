@@ -11,7 +11,7 @@ Why do these assessments matter for your role in particular? Content design is c
 This document is organised into four main sections, one for each common assessment type:
 
 1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, and prioritisation using real content design artefacts.
-2. A numeric reasoning assessment — percentages, averages, and simple tables using the kinds of data content teams see, such as page views, task completion rates and feedback scores.
+2. A numeric reasoning assessment — percentages, averages, and simple tables using the kinds of data content teams see, such as page views, task completion rates, and feedback scores.
 3. A verbal reasoning assessment — reading passages like style guide extracts and stakeholder emails, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic workplace dilemmas for someone at your level, with guidance on the most and least effective responses.
 
@@ -872,7 +872,7 @@ A member of the public emails the general feedback inbox, which you help monitor
 ### Common pitfalls to avoid
 
 - **Over-escalating everything.** Asking a senior before fixing your own typo signals dependence, not diligence. Escalate decisions that carry risk or authority beyond your level — handle the rest and stay transparent.
-- **Under-escalating the big ones.** The mirror error: quietly absorbing stakeholder conflicts, accessibility risks or conflicting instructions. If two people with authority disagree, surfacing the conflict is your job; resolving it is theirs.
+- **Under-escalating the big ones.** The mirror error: quietly absorbing stakeholder conflicts, accessibility risks, or conflicting instructions. If two people with authority disagree, surfacing the conflict is your job; resolving it is theirs.
 - **Choosing the "heroic" option.** Rewriting the whole page unasked, spending half a day on someone else's request, refusing to launch — dramatic responses usually overshoot. Proportionality scores better than heroism.
 - **Choosing the conflict-avoidant option.** Saying nothing to keep the peace — about credit, about flawed research, about a stakeholder's jargon — reads as weak judgement, not politeness. Constructive voice beats silence.
 - **Sacrificing honesty for a good story.** Selective reporting, hidden mistakes and quiet non-compliance are heavily penalised in scoring, because they are the behaviours that most damage real teams.

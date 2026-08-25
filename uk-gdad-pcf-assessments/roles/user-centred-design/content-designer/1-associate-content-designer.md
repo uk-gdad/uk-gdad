@@ -13,7 +13,7 @@ There is one thing worth saying about content design specifically. Your discipli
 The document is organised into four main sections:
 
 1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, prioritisation and problem solving, using style guides, drafts, content inventories and research findings.
-2. A numeric reasoning assessment — percentages, proportions, averages and simple tables, using the numbers content teams actually handle, such as page views, search terms, contact volumes and completion rates.
+2. A numeric reasoning assessment — percentages, proportions, averages and simple tables, using the numbers content teams actually handle, such as page views, search terms, contact volumes, and completion rates.
 3. A verbal reasoning assessment — reading passages like style standards, accessibility guidance and stakeholder emails, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic workplace dilemmas pitched at a trainee level, with guidance on the most and least effective responses and on why.
 
@@ -268,7 +268,7 @@ A policy team insists a page must contain the exact phrase "you may be liable to
 
 A numeric reasoning assessment measures how well you work with the numbers your job produces. This is the section people worry about most, so let us be clear: it is not a maths exam. There are no equations to solve and no formulae to memorise. Most platforms provide a calculator, and where they do not the arithmetic is deliberately simple. What is measured is whether you can read a table correctly, pick the right numbers out of a cluttered display, choose the right operation, and interpret the result sensibly.
 
-The format is usually a timed online test of fifteen to thirty minutes, each item showing a small table, chart or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is finding the relevant numbers quickly and ignoring the rest. Test designers routinely include figures you do not need.
+The format is usually a timed online test of fifteen to thirty minutes, each item showing a small table, chart, or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is finding the relevant numbers quickly and ignoring the rest. Test designers routinely include figures you do not need.
 
 Some content designers arrive here convinced they are "not a numbers person", and often chose the discipline partly for that reason. That belief is worth challenging, because content design runs on numbers more than it looks. You read page views to know what people actually reach. You read search terms to know what they cannot find. You read contact centre volumes to know what your page failed to explain. You compare feedback scores across pages. You check whether a change made any difference. None of that requires advanced mathematics, and all of it requires numerical care, because a misread figure sends a team to rewrite the wrong page.
 
@@ -280,7 +280,7 @@ A last note about the options. Wrong answers are almost never random. They are t
 
 The numerical skills tested map onto your named skills:
 
-- **Reading tables accurately** maps to **User focus (content design)**, where gaining insights from data is part of understanding what users need. Page analytics, search logs and feedback all arrive as tables.
+- **Reading tables accurately** maps to **User focus (content design)**, where gaining insights from data is part of understanding what users need. Page analytics, search logs, and feedback all arrive as tables.
 - **Percentages and proportions** map to **User focus** and to **User-centred content design**, because comparing how pages perform is how you decide which content to fix first.
 - **Measuring change** maps to **Agile working (content design)**, where adapting and being responsive to feedback means knowing whether a change helped.
 - **Understanding scale** maps to **Strategic thinking (content design)**, where knowing how many people a piece of content affects is what makes a case for spending time on it.
@@ -336,7 +336,7 @@ A month of site searches shows: "how long" 900, "contact us" 750, "cancel" 150, 
 
 **Question 4 (easy) — Average reading time**
 
-Five pages have average reading times of 40, 55, 45, 60 and 50 seconds. What is the mean?
+Five pages have average reading times of 40, 55, 45, 60, and 50 seconds. What is the mean?
 
 - A) 48 seconds
 - B) 50 seconds
@@ -505,25 +505,25 @@ The verbal skills tested map onto your named skills:
 
 "All content published on the service must be reviewed against the style guide before publication. Where content is a factual correction of published material, it may be published immediately and reviewed within five working days. Content that includes legal wording supplied by the legal team must not be altered without the legal team's agreement, although surrounding explanatory content may be edited freely. Content is reviewed annually thereafter."
 
-**Question 1 (easy)** — Statement: "All content must be reviewed against the style guide before publication." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "All content must be reviewed against the style guide before publication." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception in the second sentence: factual corrections may be published immediately and reviewed within five working days. The statement's "all" and "before publication" together contradict that exception, so it is False. This is the most reliable pattern in the section — an absolute term in the statement, an exception in the passage. Note that the first sentence, read alone, says exactly what the statement says, which is precisely why the item works: reading to the end of a provision before concluding what it requires is the whole discipline.
 
-**Question 2 (easy)** — Statement: "Explanatory content around legal wording may be edited without the legal team's agreement." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Explanatory content around legal wording may be edited without the legal team's agreement." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The third sentence states that legal wording must not be altered without agreement, "although surrounding explanatory content may be edited freely". The statement restates the second half, so it follows and is True. This is worth internalising beyond the test, because it is the specific fact that unlocks most content design arguments about legal text: the constraint attaches to the legal wording itself, not to the page it sits on, which means you can almost always explain what the legal wording means even when you cannot change it.
 
-**Question 3 (moderate)** — Statement: "A factual correction may be published before it has been reviewed against the style guide." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A factual correction may be published before it has been reviewed against the style guide." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The second sentence states that where content is a factual correction of published material, it may be published immediately and reviewed within five working days. Publishing immediately and reviewing afterwards is exactly what the statement describes, so it follows and is True. The item rewards holding two sentences together: the first establishes review before publication as the general rule, and the second carves out a case where the order reverses. A reader who has absorbed the general rule and stops there will mark this False. It is worth noticing why the exception exists — a published page containing a factual error is doing active harm every hour it stands, and a rule requiring review first would keep the error live while the review was arranged, which is exactly backwards.
 
-**Question 4 (moderate)** — Statement: "Content is never reviewed after publication." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "Content is never reviewed after publication." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -533,25 +533,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the guidance found that users who read the eligibility page before starting an application were more likely to complete it. The review notes that these users also differed in other respects, including whether they had applied before. The review did not assess whether the eligibility page was accurate. It recommends that the team consider whether the eligibility page should be more prominent."
 
-**Question 5 (easy)** — Statement: "Users who read the eligibility page were more likely to complete an application." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Users who read the eligibility page were more likely to complete an application." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly, and the statement restates it without addition. True. Note the passage's careful "more likely to complete" rather than "usually completed", and the statement respects it. Answer quickly and bank the time for harder items.
 
-**Question 6 (moderate)** — Statement: "Reading the eligibility page causes users to complete applications." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Reading the eligibility page causes users to complete applications." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then explicitly flags that the two groups differed in other respects, including whether they had applied before. Previous applicants are more likely to complete for reasons entirely unrelated to the page — they know what is required and have their documents — and they may also be more likely to look at the eligibility page out of habit. So the causal direction is genuinely unclear, and the passage neither asserts nor rules it out. Cannot Say. The content design consequence is direct: if the page causes completion, making it prominent helps; if experienced users simply read more pages, making it prominent achieves nothing and adds a step for everyone else.
 
-**Question 7 (moderate)** — Statement: "The eligibility page is accurate." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The eligibility page is accurate." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the review did not assess whether the eligibility page was accurate. Declared silence establishes nothing in either direction, so Cannot Say. Candidates sometimes reason that a page associated with higher completion must be doing its job, which is exactly the inference this item catches — a page could be inaccurate and still correlate with completion, and an inaccurate eligibility page that encourages people to apply when they are not eligible would be actively harmful while looking like a success in the data.
 
-**Question 8 (harder)** — Statement: "The review recommends making the eligibility page more prominent." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends making the eligibility page more prominent." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -561,19 +561,19 @@ The verbal skills tested map onto your named skills:
 
 "Content must be written so that it can be understood by users with a reading age of 9 where the subject matter allows. Where technical or legal terms cannot be avoided, they must be explained at first use. Content must not rely on colour alone to convey meaning. Headings must describe the content that follows them, and must be used in order without skipping levels."
 
-**Question 9 (easy)** — Statement: "All content must be understandable by users with a reading age of 9." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "All content must be understandable by users with a reading age of 9." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement is qualified: "where the subject matter allows". The statement's "all" drops that qualification, and the passage explicitly contemplates subject matter where the standard cannot be met. So the statement is contradicted and is False. This qualifier is doing important and often-misquoted work. It is not a general excuse — most content that claims difficult subject matter could be written far more simply — but it does acknowledge that some content genuinely cannot reach that level, and a content designer who cites the rule without the qualifier will eventually be caught out by a colleague who has read it.
 
-**Question 10 (moderate)** — Statement: "Technical terms must be avoided." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "Technical terms must be avoided." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says that *where technical or legal terms cannot be avoided*, they must be explained at first use. That wording presupposes there are cases where they cannot be avoided and permits their use in those cases, subject to explanation. The statement asserts an absolute prohibition the passage does not impose, so False. Note the structure: a rule addressing what to do in a situation implicitly accepts that the situation occurs. Reading it as a prohibition is a common error and produces content designers who argue that a term must be removed when the actual requirement is that it must be explained.
 
-**Question 11 (harder)** — Statement: "A page using a red asterisk to mark required fields, with no other indication, complies with the passage." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A page using a red asterisk to mark required fields, with no other indication, complies with the passage." True, False, or Cannot Say?
 
 **Correct answer: False**
 

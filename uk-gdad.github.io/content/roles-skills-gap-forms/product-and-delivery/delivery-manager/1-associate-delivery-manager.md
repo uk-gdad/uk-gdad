@@ -672,7 +672,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
-  — courses, blog posts, videos and books for an associate delivery manager.
+  — courses, blog posts, videos, and books for an associate delivery manager.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)

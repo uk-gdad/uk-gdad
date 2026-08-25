@@ -219,12 +219,22 @@ resolved to a real document is rendered as plain text, so a placeholder such as
 - **Spelling** is en-GB in prose that this repository writes: *organisation*,
   *prioritise*, *behaviour*. Framework text is quoted as published, and the
   framework itself uses en-GB.
+- **The serial comma** goes before the conjunction that closes a list of three
+  or more items: *apples, bananas, and oranges*. See
+  [`spec/serial-comma/`](serial-comma/index.md). It applies to prose this
+  repository writes, and not to anything quoted: the framework's own wording,
+  a skill name from the catalogue, an official title such as *Digital, Data and
+  Technology*, or a third-party course, article, or book title all keep the
+  punctuation they were published with. [`bin/serial-comma`](../bin/serial-comma)
+  applies the rule where a list is unmistakable, and `--held` lists the ones
+  that need a person instead. Not enforced by `bin/check`, because telling a
+  list from a clause is a judgement.
 - **The advisory is required.** Every derived document states that its content
   is AI-assisted, is work in progress, is for educational purposes, and that the
   reader should consult their organisation's HR, people development or legal
   colleagues before relying on it. In assessments this is the `## Advisory`
   section and is enforced.
-- **No invented facts.** A course, article or book named in an upskilling
+- **No invented facts.** A course, article, or book named in an upskilling
   document must exist and the link must resolve at the time of writing.
 
 ## Provenance and licensing
@@ -266,6 +276,10 @@ Three helpers support step 3, all at the repository root:
 - [`bin/cook`](../bin/cook) reformats raw AI output — numbered `Title:` / `URL:` /
   `Summary:` blocks and shouted headings — into the required markdown. Uses
   `gsed`. See `bin/cook-test.md` for worked examples.
+- [`bin/serial-comma`](../bin/serial-comma) applies the serial comma rule to the
+  prose this repository writes, and leaves quoted text alone. It reports by
+  default and changes nothing without `--write`. See
+  [`spec/serial-comma/`](serial-comma/index.md).
 - [`bin/normalize`](../bin/normalize) is a historical one-off that moved a flat
   file layout into the current `<profession>/<role>/<level>.md` tree. Kept for
   the record; it is not part of the pipeline.

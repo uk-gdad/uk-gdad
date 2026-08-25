@@ -96,7 +96,7 @@ Separately, the test pack contains TC-106, which traces to no requirement. How m
 
 **Correct answer: C**
 
-**Explanation:** Work through both directions of the rule. Requirement-to-test: R-01, R-02 and R-04 are each covered by at least one test case, but R-03 has none — one breach. Test-to-requirement: TC-101, TC-102, TC-103 and TC-105 all trace correctly, but TC-106 traces to no requirement — a second breach. Total: two distinct breaches. A common error is to count only the visible gap in the table (answer B) and forget the orphaned test case mentioned in the prose, or to double-count R-03 as two problems. Bidirectional traceability checking is core to leading others in designing tests that align to user needs and requirements: an uncovered requirement is untested risk, and an orphaned test is wasted effort — both are quality signals you coach teams to catch themselves.
+**Explanation:** Work through both directions of the rule. Requirement-to-test: R-01, R-02 and R-04 are each covered by at least one test case, but R-03 has none — one breach. Test-to-requirement: TC-101, TC-102, TC-103, and TC-105 all trace correctly, but TC-106 traces to no requirement — a second breach. Total: two distinct breaches. A common error is to count only the visible gap in the table (answer B) and forget the orphaned test case mentioned in the prose, or to double-count R-03 as two problems. Bidirectional traceability checking is core to leading others in designing tests that align to user needs and requirements: an uncovered requirement is untested risk, and an orphaned test is wasted effort — both are quality signals you coach teams to catch themselves.
 
 **Question 4 (moderate) — Prioritisation across a test portfolio**
 
@@ -219,7 +219,7 @@ Your risk register lists four product risks: R1 (incorrect benefit calculation),
 - A) R2 only
 - B) R2 and R3
 - C) R3 only
-- D) R2, R3 and R4
+- D) R2, R3, and R4
 
 **Correct answer: B**
 
@@ -406,7 +406,7 @@ Two releases are compared. Release 1: 120 defects found against 60,000 lines of 
 
 **Correct answer: B**
 
-**Explanation:** Release 1 density = 120 ÷ 60 = 2.0 defects per 1,000 lines (60,000 lines is 60 thousands). Release 2 density = 90 ÷ 30 = 3.0 per 1,000 lines. Change = (3.0 − 2.0) ÷ 2.0 = +50%. So although the raw count fell 25%, the code base being tested halved, and defect density — the like-for-like measure — rose by half. The dashboard's cheerful headline is exactly backwards. This is the "changed base" trap in its purest form: any comparison of raw counts across periods is only valid if the denominator held still, and in delivery it almost never does — code volume, test executions, team size and release cadence all move. As the leader who guides teams in using appropriate data, your standard should be that cross-release comparisons are reported as rates with the base stated, and your review question should always be "what happened to the denominator?" One caveat worth carrying into real life: density measured on *found* defects also depends on how hard you looked, so pair it with escaped-defect data before drawing strategic conclusions — a nuance that itself distinguishes tactical from strategic recommendations, as your framework does.
+**Explanation:** Release 1 density = 120 ÷ 60 = 2.0 defects per 1,000 lines (60,000 lines is 60 thousands). Release 2 density = 90 ÷ 30 = 3.0 per 1,000 lines. Change = (3.0 − 2.0) ÷ 2.0 = +50%. So although the raw count fell 25%, the code base being tested halved, and defect density — the like-for-like measure — rose by half. The dashboard's cheerful headline is exactly backwards. This is the "changed base" trap in its purest form: any comparison of raw counts across periods is only valid if the denominator held still, and in delivery it almost never does — code volume, test executions, team size, and release cadence all move. As the leader who guides teams in using appropriate data, your standard should be that cross-release comparisons are reported as rates with the base stated, and your review question should always be "what happened to the denominator?" One caveat worth carrying into real life: density measured on *found* defects also depends on how hard you looked, so pair it with escaped-defect data before drawing strategic conclusions — a nuance that itself distinguishes tactical from strategic recommendations, as your framework does.
 
 **Question 11 (challenging) — Capacity plan with mixed rates**
 
@@ -844,7 +844,7 @@ A programme approaches you eight weeks before a legally mandated go-live date, a
 
 ## Conclusion
 
-Well done for working through this guide. You have covered a great deal of ground: the mental disciplines of a cognitive assessment — pattern recognition in defect trends, deduction from exit criteria and environment dependencies, error checking of dashboards and traceability matrices; the numerical fluency that turns pass rates, defect densities, supplier SLAs and automation business cases into trustworthy decisions; the verbal precision that parses policies, contracts and reports for exactly what they say; and the professional judgement that navigates release pressure, supplier underperformance, coaching moments, incident reviews and late-engaged programmes with integrity intact.
+Well done for working through this guide. You have covered a great deal of ground: the mental disciplines of a cognitive assessment — pattern recognition in defect trends, deduction from exit criteria and environment dependencies, error checking of dashboards and traceability matrices; the numerical fluency that turns pass rates, defect densities, supplier SLAs, and automation business cases into trustworthy decisions; the verbal precision that parses policies, contracts and reports for exactly what they say; and the professional judgement that navigates release pressure, supplier underperformance, coaching moments, incident reviews, and late-engaged programmes with integrity intact.
 
 If one theme runs through all four sections, it is this: the assessments and your job reward the same habits. Fix the base before computing the percentage. Conclude only what the evidence guarantees. Read the qualifier, the quantifier, and the "only if". Hold the data steady and help with the decision. Address the substance, the system, and the relationship together. None of these is an exam trick — each is a behaviour you already practise as the owner of a quality testing strategy, and deliberate practice here compounds directly into sharper artefact reviews, more credible board papers, and better coaching conversations with your teams.
 

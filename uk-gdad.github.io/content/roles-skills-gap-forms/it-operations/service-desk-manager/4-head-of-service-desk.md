@@ -447,7 +447,7 @@ the law correctly.
 - [ ] Information security, and how information is classified and handled
 - [ ] The Security Policy Framework or the Government Functional Standard for security
 - [ ] Call recording, workforce monitoring, and the rules that apply to both
-- [ ] Retention of tickets, recordings and knowledge articles
+- [ ] Retention of tickets, recordings, and knowledge articles
 - [ ] Freedom of information, and what service records may be disclosable
 - [ ] The Equality Act 2010, reasonable adjustments and the public sector equality duty
 - [ ] Accessibility duties as they apply to support channels

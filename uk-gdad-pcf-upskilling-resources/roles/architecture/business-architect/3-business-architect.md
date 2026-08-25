@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [TOGAF 10 Foundation](https://www.coursera.org/learn/togaf-10-foundation): Covers the full Architecture Development Method, the Enterprise Continuum, the Architecture Repository and Architecture Capability, plus stakeholder management, risk management and architecture trade-offs. Useful for architects who need to establish or refresh a framework in their organisation.
+- [TOGAF 10 Foundation](https://www.coursera.org/learn/togaf-10-foundation): Covers the full Architecture Development Method, the Enterprise Continuum, the Architecture Repository and Architecture Capability, plus stakeholder management, risk management, and architecture trade-offs. Useful for architects who need to establish or refresh a framework in their organisation.
 
 - [Influencing the Organisation](https://www.coursera.org/learn/influencing-the-organisation-leading-within-and-beyond-the-organisation): Covers managing stakeholders and organisational politics while mobilising people, and aligning your mission with the organisation's purpose. Directly supports the mediation and consensus-building expected at this level.
 
@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Enterprise Architecture Modeling Foundation with ArchiMate 3](https://www.udemy.com/course/archimate-3/): Covers the strategy layer, linking capabilities to outcomes, and showing how behaviour elements realise value streams and capabilities. Precision in notation matters more as your models are consumed by others.
 
-- [BIZBOK Exam Prep: 1000+ Business Architecture Questions](https://www.udemy.com/course/bizbok-exam-prep-1000-business-architecture-questions/): Over a thousand practice questions covering the main areas of the Business Architecture Body of Knowledge, aimed at business architects, business analysts and enterprise architects preparing for certification.
+- [BIZBOK Exam Prep: 1000+ Business Architecture Questions](https://www.udemy.com/course/bizbok-exam-prep-1000-business-architecture-questions/): Over a thousand practice questions covering the main areas of the Business Architecture Body of Knowledge, aimed at business architects, business analysts, and enterprise architects preparing for certification.
 
 ## Skillsoft courses
 
@@ -66,7 +66,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Business Architecture Essentials: Aligning your Capabilities, Processes and Business Information](https://processrenewal.com/business-architecture-essentials-aligning-capabilities-processes-business-information-connecting-dots/): Connects capability, process and information models and shows how to keep them coherent as the practice scales.
 
-- [Business Architect Role: Skills, Deliverables, and Value](https://capstera.com/knowledge-hub/articles/business-architect): Describes the deliverable set including capability maps, value stream maps, capability heatmaps, target operating model designs and capability-based roadmaps linking strategic goals to funded initiatives.
+- [Business Architect Role: Skills, Deliverables, and Value](https://capstera.com/knowledge-hub/articles/business-architect): Describes the deliverable set including capability maps, value stream maps, capability heatmaps, target operating model designs, and capability-based roadmaps linking strategic goals to funded initiatives.
 
 - [The Power of Enterprise Architecture Operating Model](https://www.boc-group.com/en/blog/ea/operating-models-in-business-transformation/): Explains how operating models are used to structure business transformation and how architecture teams contribute to them.
 
@@ -88,7 +88,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The theoretical basis of enterprise architecture: A critical review and taxonomy of relevant theories](https://journals.sagepub.com/doi/abs/10.1177/0268396220977873): Kotusev and Kurnia review and classify the theories used to explain architecture practice, giving a stronger conceptual footing for advocacy.
 
-- [Nuanced Responses to Enterprise Architecture Management: Loyalty, Voice, and Exit](https://www.tandfonline.com/doi/full/10.1080/07421222.2018.1550549): Examines how people in organisations actually respond to architecture management, using loyalty, voice and exit as a lens. Useful for understanding resistance.
+- [Nuanced Responses to Enterprise Architecture Management: Loyalty, Voice, and Exit](https://www.tandfonline.com/doi/full/10.1080/07421222.2018.1550549): Examines how people in organisations actually respond to architecture management, using loyalty, voice, and exit as a lens. Useful for understanding resistance.
 
 - [Stakeholder Perception of Enterprise Architecture](https://www.researchgate.net/publication/220757098_Stakeholder_Perception_of_Enterprise_Architecture): Finds stakeholders often perceive architecture management as abstract and hard to comprehend, and links governance processes and communication to stakeholder values.
 
@@ -108,7 +108,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Value Mapping: Critical Business Architecture Viewpoint](https://www.youtube.com/watch?v=YDrxftoXqY4): Reviews the principles and benefits of value mapping and compares different kinds of value model.
 
-- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar on identifying, defining, modelling and mapping value streams to the TOGAF standard.
+- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar on identifying, defining, modelling, and mapping value streams to the TOGAF standard.
 
 - [Value Stream: Architecting Customer-Driven Value](https://www.youtube.com/watch?v=FVfnujP_NGE): Examines how value propositions, value streams and value stages improve the planning, delivery and execution of customer-driven digital transformation.
 
@@ -132,7 +132,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Business Architecture: The Missing Link in Strategy Formulation, Implementation and Execution](https://www.amazon.com/Business-Architecture-Formulation-Implementation-Execution/dp/0994931905): Hadaya and Gagnon's handbook for bridging strategy formulation and execution, with a strong treatment of the architect's role in each.
 
-- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): A practitioner guide to directing strategically aligned, customer centric and outcome focused change.
+- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): A practitioner guide to directing strategically aligned, customer centric, and outcome focused change.
 
 - [Operating Model Canvas: aligning operations and organization with strategy](https://www.amazon.com/Operating-Model-Canvas-Haren-Publishing/dp/9401800715): A concrete framework for defining target operating models, widely used when architecture work must produce an actionable organisational design.
 

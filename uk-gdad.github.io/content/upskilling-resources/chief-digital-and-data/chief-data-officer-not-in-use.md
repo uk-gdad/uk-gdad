@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of chief da
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-This role ensures the organisation can use data to make better decisions, policies and services, balancing data protection and privacy with access, sharing and innovation, and building data literacy across the organisation. The role level in the framework is recorded as NOT IN USE. The resources below emphasise data strategy, governance and executive leadership.
+This role ensures the organisation can use data to make better decisions, policies and services, balancing data protection and privacy with access, sharing and innovation, and building data literacy across the organisation. The role level in the framework is recorded as NOT IN USE. The resources below emphasise data strategy, governance, and executive leadership.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for Chief Data Officer](https://www.skillsoft.com/journey/chief-data-officer-0ac1370e-4f61-42c2-b230-c8a6d5cace29): A curated learning journey for the chief data officer role, covering data infrastructure, data governance and data strategy for a data-driven organisation.
+- [Courses for Chief Data Officer](https://www.skillsoft.com/journey/chief-data-officer-0ac1370e-4f61-42c2-b230-c8a6d5cace29): A curated learning journey for the chief data officer role, covering data infrastructure, data governance, and data strategy for a data-driven organisation.
 
 - [Courses for Data Management (DAMA-DMBOK, Intermediate)](https://www.skillsoft.com/channel/data-management-517347c0-3fc1-4e3d-871a-ed9b81397617): Covers the DAMA knowledge areas including governance, architecture, modelling, storage, security, integration, metadata and quality, giving a common curriculum for a whole function.
 
@@ -72,7 +72,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Technology in government: Open Source](https://technology.blog.gov.uk/category/open-source/): Posts on open source practice in UK government, including transparency commitments and their practical implications.
 
-- [The Role of CIOs in Modern Business](https://www.skillsoft.com/blog/the-role-of-cios-in-modern-business-and-why-you-should-never-stop-learning): Discusses how the role sits at the crossroads of business strategy and technological innovation, balancing organisational, workforce and technology demands.
+- [The Role of CIOs in Modern Business](https://www.skillsoft.com/blog/the-role-of-cios-in-modern-business-and-why-you-should-never-stop-learning): Discusses how the role sits at the crossroads of business strategy and technological innovation, balancing organisational, workforce, and technology demands.
 
 - [Building a better future: the enterprise architect's role in leading organizational transformation](https://www.cio.com/article/3600078/building-a-better-future-the-enterprise-architects-role-in-leading-organizational-transformation.html): Examines the shift from documenting an organisation to leading change within it.
 
@@ -126,15 +126,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Driving Digital: The Leader's Guide to Business Transformation Through Technology](https://www.amazon.com/Driving-Digital-Business-Transformation-Technology-ebook/dp/B01N10Y94E): By Isaac Sacolick. Written for chief information, technology, data and digital officers, covering transforming IT into agile operations, developing digital products, enabling data-driven organisations and establishing platforms for emerging technology.
+- [Driving Digital: The Leader's Guide to Business Transformation Through Technology](https://www.amazon.com/Driving-Digital-Business-Transformation-Technology-ebook/dp/B01N10Y94E): By Isaac Sacolick. Written for chief information, technology, data and digital officers, covering transforming IT into agile operations, developing digital products, enabling data-driven organisations, and establishing platforms for emerging technology.
 
 - [Leading in the Digital Age: Disruption, Transformation, Data, Cybersecurity, Artificial Intelligence](https://www.amazon.com/Leading-Digital-Age-Transformation-Cybersecurity-ebook/dp/B07JJJVBJP): By Thomas Cowan. Aimed at C-suite leaders dealing with emerging technologies and the risks that come with them.
 
-- [CIOs and the Digital Transformation: A New Leadership Role](https://www.amazon.com/CIOs-Digital-Transformation-Leadership-Role/dp/3319310259): By Bongiorno, Rizzo and Vaia. An academic but practical treatment of how the information leadership role changes under digital transformation.
+- [CIOs and the Digital Transformation: A New Leadership Role](https://www.amazon.com/CIOs-Digital-Transformation-Leadership-Role/dp/3319310259): By Bongiorno, Rizzo, and Vaia. An academic but practical treatment of how the information leadership role changes under digital transformation.
 
 - [The Chief Data Officer's Playbook](https://www.amazon.com/Chief-Data-Officers-Playbook/dp/1783302577): By Caroline Carruthers and Peter Jackson. A practical guide to establishing and running a data leadership function, widely used in UK public sector.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Introduces the operating model concept that determines how much integration and standardisation an organisation should pursue.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Introduces the operating model concept that determines how much integration and standardisation an organisation should pursue.
 
 - [Transformed: Moving to the Product Operating Model](https://www.amazon.com/Transformed-Moving-Product-Operating-Silicon-ebook/dp/B0CXG97J55): By Marty Cagan and colleagues. Describes the organisational shift to a product operating model and the leadership behaviours it demands.
 

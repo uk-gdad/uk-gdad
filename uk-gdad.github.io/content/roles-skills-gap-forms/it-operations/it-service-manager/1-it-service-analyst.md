@@ -49,7 +49,7 @@ Worth knowing:
 
 - **Skipping a question means nothing.** A blank is not a finding.
 - **"I have not had the chance" is a real answer** and a more useful one than a guess.
-- **Do not include anything sensitive** — no credentials, no ticket details, no colleagues' or users' names.
+- **Do not include anything sensitive** — no credentials, no ticket details, no colleagues', or users' names.
 - **Ask who reads it.** If nobody has told you who sees your answers, what they are used for, or how long
   they are kept, ask before you fill it in.
 
@@ -104,7 +104,7 @@ service support team.
 **Two things worth knowing about this role.**
 
 First, **five of your nine skills are worded identically at the level above**: IT service reporting,
-ownership and initiative, stakeholder relationship management, strategic thinking and user focus. The step to
+ownership and initiative, stakeholder relationship management, strategic thinking, and user focus. The step to
 IT service manager is not mostly a skills step — it is a step into defining agreements and running a team.
 That is unusual, and it means the useful preparation is exposure rather than training.
 

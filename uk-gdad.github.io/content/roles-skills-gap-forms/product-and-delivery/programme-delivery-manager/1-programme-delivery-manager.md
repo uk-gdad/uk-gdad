@@ -522,7 +522,7 @@ role expects?
 
 ## Legal compliance
 
-Programme roles carry commercial, financial and records duties alongside the
+Programme roles carry commercial, financial, and records duties alongside the
 delivery ones, and high-profile programmes attract external scrutiny. These
 questions ask about awareness, training and support, not about whether you can
 state the law correctly.

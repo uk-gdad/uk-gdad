@@ -4,15 +4,15 @@
 
 Welcome. This resource has been prepared specifically for you as a Head of Data Governance working within the UK Government Digital and Data profession. Whether you are preparing for an internal selection process, benchmarking your own capabilities, or simply investing in your continued professional development, this document gives you a structured, role-specific way to practise and reflect.
 
-Psychometric assessments are standardised exercises designed to measure the mental capabilities and behavioural tendencies that predict performance in a particular role. At your level, they are rarely about raw speed of calculation or vocabulary. Instead, they probe the qualities that distinguish effective senior leaders: the ability to spot the flaw in a governance framework before it becomes an incident, to interpret a data maturity dashboard accurately under time pressure, to extract precisely what a regulation does and does not require, and to exercise sound judgement when senior stakeholders, ministers, regulators and delivery teams pull in different directions.
+Psychometric assessments are standardised exercises designed to measure the mental capabilities and behavioural tendencies that predict performance in a particular role. At your level, they are rarely about raw speed of calculation or vocabulary. Instead, they probe the qualities that distinguish effective senior leaders: the ability to spot the flaw in a governance framework before it becomes an incident, to interpret a data maturity dashboard accurately under time pressure, to extract precisely what a regulation does and does not require, and to exercise sound judgement when senior stakeholders, ministers, regulators, and delivery teams pull in different directions.
 
 For a Head of Data Governance, these capabilities map directly onto your day-to-day accountabilities: providing strategic oversight of data governance alongside the chief data officer, setting and monitoring adherence to policies, frameworks and standards, owning organisational data risk, advising across government on data security best practice, and building the long-term senior relationships and data literacy culture that make good governance stick.
 
 This document is organised into four assessment sections, each aligned to a recognised psychometric assessment type:
 
-1. **Workplace job-specific cognitive assessment** — reasoning, pattern recognition, error checking and prioritisation using the artefacts you genuinely handle: RACI matrices, data catalogues, risk registers and policy hierarchies.
-2. **Workplace job-specific numeric reasoning assessment** — interpretation of compliance metrics, data maturity scores, risk exposure figures, budgets and training statistics.
-3. **Workplace job-specific verbal reasoning assessment** — precise comprehension of policies, standards, regulatory texts, board papers and cross-government correspondence.
+1. **Workplace job-specific cognitive assessment** — reasoning, pattern recognition, error checking and prioritisation using the artefacts you genuinely handle: RACI matrices, data catalogues, risk registers, and policy hierarchies.
+2. **Workplace job-specific numeric reasoning assessment** — interpretation of compliance metrics, data maturity scores, risk exposure figures, budgets, and training statistics.
+3. **Workplace job-specific verbal reasoning assessment** — precise comprehension of policies, standards, regulatory texts, board papers, and cross-government correspondence.
 4. **Workplace job-specific situational judgement assessment** — realistic dilemmas involving data owners, the chief data officer, regulators, senior stakeholders and delivery teams.
 
 Each section explains what the assessment measures and why it matters for your role, maps the assessment dimensions to the specific skills in your capability framework, provides a substantial bank of practice questions with fully worked explanations, and closes with preparation tips and common pitfalls.
@@ -27,7 +27,7 @@ This assessment information is created by AI and is work in progress for educati
 
 ### About this assessment
 
-A workplace job-specific cognitive ability assessment is a targeted psychometric test designed to measure the exact mental processes needed for your role, using practical workplace scenarios and data rather than abstract puzzles. Unlike a generic IQ test, every stimulus is drawn from the material a Head of Data Governance genuinely handles: data catalogues, RACI matrices, policy hierarchies, risk registers, assurance reports and cross-government standards documents.
+A workplace job-specific cognitive ability assessment is a targeted psychometric test designed to measure the exact mental processes needed for your role, using practical workplace scenarios and data rather than abstract puzzles. Unlike a generic IQ test, every stimulus is drawn from the material a Head of Data Governance genuinely handles: data catalogues, RACI matrices, policy hierarchies, risk registers, assurance reports, and cross-government standards documents.
 
 Typical format: online, timed, usually 15 to 30 minutes, with 15 to 25 questions of varying difficulty. Scoring is objective and normed against a comparison group, and modern platforms often report speed versus accuracy separately rather than a single number. Some platforms adapt question difficulty based on your previous answers, so a test that feels progressively harder usually means you are doing well. You will normally receive short, ungraded practice questions first so you can get comfortable with the interface.
 
@@ -41,7 +41,7 @@ The assessment dimensions map directly onto the skills in your capability framew
 - **Error checking and consistency analysis** map to your **Data standards** and **Data life cycle** skills: creating data standards, overseeing compliance, and ensuring governance principles are applied with best practice across the life cycle require you to spot contradictions, gaps and misclassifications quickly.
 - **Prioritisation and problem solving** map to your **Enabling and informing risk-based decisions** skill: acting as a point of escalation and applying risk methodologies at the most complex levels means ranking issues correctly when everything looks urgent.
 - **Pattern recognition and trend inference** map to your **Data innovation** and **Data maturity** skills: horizon-scanning for emerging trends and overseeing the data maturity model both require you to see the signal in noisy, multi-dimensional information.
-- **Abstract-to-concrete translation** maps to your **Strategic thinking** skill: leading the design and implementation of strategy demands moving fluently between principles (a policy statement) and instances (a specific dataset, owner or process).
+- **Abstract-to-concrete translation** maps to your **Strategic thinking** skill: leading the design and implementation of strategy demands moving fluently between principles (a policy statement) and instances (a specific dataset, owner, or process).
 
 ### Practice questions
 
@@ -563,7 +563,7 @@ A benchmarking survey you commissioned reports that 18 of 45 comparable public b
 - **Over-calculating** — computing exact figures when estimation would eliminate three options faster; the test rewards accurate sufficiency, not precision theatre.
 - **Time-sink questions** — one hard compound-growth item can cost you three easy marks; flag and return.
 - **Importing outside knowledge** — use only the numbers given, even where you know your organisation's real figures differ.
-- **Ignoring stated constraints** — protected budget lines, licence caps and FTE fractions change answers; the question text is a specification, and partial reading produces confident wrong answers.
+- **Ignoring stated constraints** — protected budget lines, licence caps, and FTE fractions change answers; the question text is a specification, and partial reading produces confident wrong answers.
 
 ## Workplace job-specific verbal reasoning assessment
 
@@ -1004,7 +1004,7 @@ The independent data maturity assessment you commissioned scores the organisatio
 
 **Most effective: A. Least effective: B.**
 
-**Explanation:** The committee members' underlying point is half-right — comparing scores across a methodology change *is* misleading — but their remedy is manipulation. Option A gives the legitimate insight (measurement improved; the decline is largely artefactual) through legitimate means: original figures preserved, methodological note explicit, any restatement labelled and additional. That is "work with senior stakeholders to provide data assurance" and "report assessment findings to boards or committees" done with integrity intact. Option E fails differently: presenting a decline you know to be artefactual without explanation actively misleads in the pessimistic direction, and boards over-correct on false bad news too. Option C hides the trend, which is the report's point. Option D lets the people with a stake in the answer negotiate the measurement. Option B is least effective: an unlabelled restatement to manufacture a flattering trend is data manipulation, plainly — and the Head of Data Governance doing it licenses every directorate to do the same to you. You are the organisation's standard for honest measurement; the standard is set by what you do under exactly this pressure.
+**Explanation:** The committee members' underlying point is half-right — comparing scores across a methodology change *is* misleading — but their remedy is manipulation. Option A gives the legitimate insight (measurement improved; the decline is largely artefactual) through legitimate means: original figures preserved, methodological note explicit, any restatement labelled, and additional. That is "work with senior stakeholders to provide data assurance" and "report assessment findings to boards or committees" done with integrity intact. Option E fails differently: presenting a decline you know to be artefactual without explanation actively misleads in the pessimistic direction, and boards over-correct on false bad news too. Option C hides the trend, which is the report's point. Option D lets the people with a stake in the answer negotiate the measurement. Option B is least effective: an unlabelled restatement to manufacture a flattering trend is data manipulation, plainly — and the Head of Data Governance doing it licenses every directorate to do the same to you. You are the organisation's standard for honest measurement; the standard is set by what you do under exactly this pressure.
 
 **Question 11 (moderate) — The colleague department asks for your playbook**
 
@@ -1035,7 +1035,7 @@ At 14:00 you learn, in the same hour: (1) a journalist has emailed the press off
 
 ### Preparation tips
 
-- **Anchor on the values, not on cleverness.** UK public sector situational judgement rewards user needs, transparency, collaboration, accessibility and inclusion. When torn between options, ask: which action best serves the public and keeps the record honest? At your level, also ask: which action makes the *system* better, not just this incident?
+- **Anchor on the values, not on cleverness.** UK public sector situational judgement rewards user needs, transparency, collaboration, accessibility, and inclusion. When torn between options, ask: which action best serves the public and keeps the record honest? At your level, also ask: which action makes the *system* better, not just this incident?
 - **Look for the option that verifies before acting.** Senior scenarios are salted with second-hand claims ("the CDO is relaxed", "it was probably anonymised"). Effective options establish facts; ineffective ones act on hearsay or hope.
 - **Prefer root-cause options over symptom options — except in live emergencies.** The strongest answers usually contain both containment now and a systemic fix after (Question 7's pattern). But when a clock is running — regulatory windows, board deadlines — containment comes first.
 - **Beware options that protect you rather than the organisation.** Documented objections while permitting harm, quiet workarounds, blame-first responses: these are engineered to tempt experienced operators who have been burned before.
@@ -1053,13 +1053,13 @@ At 14:00 you learn, in the same hour: (1) a journalist has emailed the press off
 
 ## Conclusion
 
-You have now worked through the four psychometric assessment types most relevant to your role as Head of Data Governance: cognitive reasoning with the governance artefacts you handle daily; numeric reasoning across compliance metrics, risk exposure, maturity scores and budgets; verbal reasoning over the policies, standards and correspondence whose exact wording carries your accountability; and situational judgement across the stakeholder, ethical and escalation dilemmas that define senior data leadership.
+You have now worked through the four psychometric assessment types most relevant to your role as Head of Data Governance: cognitive reasoning with the governance artefacts you handle daily; numeric reasoning across compliance metrics, risk exposure, maturity scores, and budgets; verbal reasoning over the policies, standards and correspondence whose exact wording carries your accountability; and situational judgement across the stakeholder, ethical and escalation dilemmas that define senior data leadership.
 
 If one theme runs through all four sections, it is this: at your level, assessments measure discipline more than speed. The disciplines you practised here — checking every clause, computing from the correct base, asserting only what the text supports, verifying before acting, and keeping the record honest under pressure — are not test techniques. They are the working habits of a trusted head of data governance, and every practice question was built from the duties in your own framework: strategic oversight with the chief data officer, standards-setting, risk ownership, cross-government advice, senior relationships, and the literacy culture you champion.
 
 As next steps, consider returning to the questions you found hardest after a few weeks and noticing whether your reasoning has changed; building your own practice items from live documents in your week, which doubles as quality assurance on those documents; and using the situational judgement section as a leadership reflection tool, perhaps with a mentor or your CDO, since discussing why an option is least effective is one of the fastest ways to sharpen shared judgement in your team.
 
-Be encouraged: the fact that you have worked through this material carefully is itself evidence of the professional seriousness the role demands. Psychometric assessments, approached this way, stop being hurdles and become mirrors — and leaders who look in the mirror regularly keep improving. Good luck with whatever assessment, appointment or development conversation lies ahead. Your organisation, and the citizens whose data it holds, benefit directly from the care you bring to this work.
+Be encouraged: the fact that you have worked through this material carefully is itself evidence of the professional seriousness the role demands. Psychometric assessments, approached this way, stop being hurdles and become mirrors — and leaders who look in the mirror regularly keep improving. Good luck with whatever assessment, appointment, or development conversation lies ahead. Your organisation, and the citizens whose data it holds, benefit directly from the care you bring to this work.
 
 ---
 

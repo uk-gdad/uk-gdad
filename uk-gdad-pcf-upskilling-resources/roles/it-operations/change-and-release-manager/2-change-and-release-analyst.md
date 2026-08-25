@@ -20,11 +20,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd): Replacing manual release steps with automation, covering CI features, branch workflows and pipeline tooling.
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd): Replacing manual release steps with automation, covering CI features, branch workflows, and pipeline tooling.
 
 - [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Change management and the configuration management database alongside incident and problem management.
 
-- [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Reliability measurement, automation and incident response, which is the language your DevOps colleagues will use.
+- [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Reliability measurement, automation, and incident response, which is the language your DevOps colleagues will use.
 
 ## Udemy courses
 
@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Change Management (ITSM ServiceNow)](https://www.udemy.com/course/change-management-itsm-servicenow/): Change management with a focus on the change advisory board and mediating between delivery pressure and risk aversion.
 
-- [CMDB Done Right with ServiceNow](https://www.udemy.com/course/cmdb-done-right-with-servicenow/): Configuration management including baselines, configuration item relationships and change control, which is what impact assessment depends on.
+- [CMDB Done Right with ServiceNow](https://www.udemy.com/course/cmdb-done-right-with-servicenow/): Configuration management including baselines, configuration item relationships, and change control, which is what impact assessment depends on.
 
 ## Skillsoft courses
 
@@ -46,13 +46,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Continuous Integration and Delivery (CI/CD) (IBM)](https://www.edx.org/learn/continuous-integration/ibm-continuous-integration-and-delivery-ci-cd): An introduction with hands-on labs using real tooling.
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines and observability, which is the environment your releases land in.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines, and observability, which is the environment your releases land in.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): The principles behind how DevOps teams expect change to be handled.
 
 ## MIT OpenCourseWare courses
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, naming, networks and fault tolerance, which is the material behind most release failures.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, naming, networks, and fault tolerance, which is the material behind most release failures.
 
 - [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Transactions and schema design, which matters whenever a release includes a data migration.
 
@@ -96,7 +96,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementation and impacts of IT Service Management in the IT function](https://www.sciencedirect.com/science/article/abs/pii/S0268401223000099): A systematic review of empirical ITSM implementation research.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces and logs, which is what post-release investigation needs.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, and logs, which is what post-release investigation needs.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): Identifies the challenges and enablers of root cause analysis, including data quality and bias.
 
@@ -116,7 +116,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Navigating your CMDB: Tips and Tricks from an Implementation Expert](https://www.youtube.com/watch?v=ifi6SoBP13w): Practical advice on keeping configuration data usable.
 
-- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Structured reporting from logs, metrics and timelines, which transfers well to post-release analysis.
+- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Structured reporting from logs, metrics, and timelines, which transfers well to post-release analysis.
 
 - [Postmortem Culture at Google](https://www.youtube.com/watch?v=qgHWzQ2zcqQ): Blameless review, which is the only kind of post-release analysis that yields honest information.
 
@@ -130,19 +130,19 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementing ITIL Change and Release Management](https://www.amazon.com/Implementing-ITIL-Change-Release-Management/dp/0138150419): By Larry Klosterboer. Implementation-level detail on the two processes you run.
 
-- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Bob Aiello and Leslie Sachs. Source control, build engineering, environment configuration, change control, release engineering and deployment together.
+- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Bob Aiello and Leslie Sachs. Source control, build engineering, environment configuration, change control, release engineering, and deployment together.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns learned from real production failures.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. The research behind change failure rate and lead time, and the evidence that heavyweight approval does not help.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. The research behind change failure rate and lead time, and the evidence that heavyweight approval does not help.
 
 - [Implementing ITIL Configuration Management](https://www.amazon.com/Implementing-ITIL-Configuration-Management-Press-ebook/dp/B0054KOLB0): By Larry Klosterboer. The configuration data your impact assessments rely on.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical SRE, including how release and reliability negotiate with each other.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical SRE, including how release and reliability negotiate with each other.
 
-- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operations at scale, with substantial treatment of deployment.
+- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operations at scale, with substantial treatment of deployment.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. A readable account of why change queues form and what they cost.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. A readable account of why change queues form and what they cost.
 
 - [The CMDB Imperative: How to Realize the Dream and Avoid the Nightmares](https://www.amazon.com/CMDB-Imperative-Realize-Dream-Nightmares/dp/0137008376): By O'Donnell and Casanova. Honest about the failure modes of configuration data.
 

@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of content 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you set the strategy for an organisation's content, covering what is published, how it is governed and how it is maintained across its lifecycle. The resources below emphasise content strategy, governance and evidence-based decisions.
+At this role level you set the strategy for an organisation's content, covering what is published, how it is governed and how it is maintained across its lifecycle. The resources below emphasise content strategy, governance, and evidence-based decisions.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility and career development.
+- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility, and career development.
 
 - [Courses for UX Design](https://www.skillsoft.com/channel/ux-design-f0507340-0b21-11e7-a3e9-a39d8b265364): A channel covering design techniques and tools, guidelines and patterns, and the research methods that inform them.
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Human-Computer Interaction II: Cognition, Context and Culture (GTx)](https://www.edx.org/course/human-computer-interaction-ii-cognition-context-cu): The continuation, covering how cognition, context and culture shape how people actually use interfaces.
 
-- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles and deliverables.
+- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles, and deliverables.
 
 ## MIT OpenCourseWare courses
 
@@ -62,9 +62,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk): The authoritative GOV.UK guidance, based on research into how people actually read online and use GOV.UK.
 
-- [Content design on the GDS blog](https://gds.blog.gov.uk/category/content-design/): Posts from the team that codified the discipline, covering plain English, readability and writing for the web.
+- [Content design on the GDS blog](https://gds.blog.gov.uk/category/content-design/): Posts from the team that codified the discipline, covering plain English, readability, and writing for the web.
 
-- [GOV.UK editorial style guide](https://gds.blog.gov.uk/2012/07/02/gov-uk-editorial-style-guide/): Explains the reasoning behind consistent rules for tone, language and presentation across government content.
+- [GOV.UK editorial style guide](https://gds.blog.gov.uk/2012/07/02/gov-uk-editorial-style-guide/): Explains the reasoning behind consistent rules for tone, language, and presentation across government content.
 
 - [Writing content for everyone](https://gds.blog.gov.uk/2016/02/23/writing-content-for-everyone/): Explains the reading age 9 standard and the finding that higher literacy readers also prefer plain English because it is faster to understand.
 
@@ -134,7 +134,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/1933820118): By Steve Portigal. Content decisions depend on understanding readers, and this is the best guide to the interview craft.
 
-- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky and Moed. A methods reference for the research that should inform content decisions.
+- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky, and Moed. A methods reference for the research that should inform content decisions.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): Cole Nussbaumer Knaflic. Practical guidance for content that has to carry quantitative evidence.
 
@@ -148,7 +148,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Professional development tips
 
-- Set content strategy from evidence about user needs, search behaviour and failure demand
+- Set content strategy from evidence about user needs, search behaviour, and failure demand
 - Take a whole-organisation view, since content problems usually cross team boundaries
 - Define governance for content, including who owns what and when it is reviewed
 - Work with policy, communications and legal colleagues so that strategy is implementable

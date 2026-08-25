@@ -87,7 +87,7 @@ You are correcting configuration records after a desk move. The CMDB shows:
 | MN-2210 | Monitor | B. Osei | Floor 2, Desk 15 | In use |
 | DK-0913 | Dock | Unassigned | Floor 2, Desk 15 | In use |
 
-B. Osei works daily at Desk 15 using a laptop, monitor and dock. Which record most clearly needs correcting?
+B. Osei works daily at Desk 15 using a laptop, monitor, and dock. Which record most clearly needs correcting?
 
 - A) LT-4471
 - B) LT-4472
@@ -96,7 +96,7 @@ B. Osei works daily at Desk 15 using a laptop, monitor and dock. Which record mo
 
 **Correct answer: B**
 
-**Explanation:** LT-4472 is assigned to B. Osei and located at their desk, yet its status reads "In storage" — contradicting the fact that B. Osei uses a laptop daily at that desk. The dock's "Unassigned" user field (D) is a lesser inconsistency worth tidying, but docks are sometimes deliberately assigned to desks rather than people, so it is not the clearest error; the question asks for the record that most clearly needs correcting. LT-4471 and MN-2210 are internally consistent. Your **Asset and configuration management** skill is exactly this: track, log and correct information to protect assets. In an assessment, compare each record against the stated facts and pick the contradiction, not merely the untidiness.
+**Explanation:** LT-4472 is assigned to B. Osei and located at their desk, yet its status reads "In storage" — contradicting the fact that B. Osei uses a laptop daily at that desk. The dock's "Unassigned" user field (D) is a lesser inconsistency worth tidying, but docks are sometimes deliberately assigned to desks rather than people, so it is not the clearest error; the question asks for the record that most clearly needs correcting. LT-4471 and MN-2210 are internally consistent. Your **Asset and configuration management** skill is exactly this: track, log, and correct information to protect assets. In an assessment, compare each record against the stated facts and pick the contradiction, not merely the untidiness.
 
 **Question 4 (moderate) — Prioritisation using an impact and urgency matrix**
 
@@ -149,7 +149,7 @@ How many scheduled entries breach the policy?
 
 **Correct answer: C**
 
-**Explanation:** The freeze covers the last five calendar days before 1 April: 27, 28, 29, 30 and 31 March. Entry 1 (25 March) is outside the freeze and inside the weeknight window — compliant. Entry 2 (28 March) is a standard change inside the freeze — breach. Entry 3 (30 March) is inside the freeze, but rule (iii) permits emergency changes at any time with service owner approval, which is attached — compliant. Entry 4 (31 March) is a standard change inside the freeze — breach, even though the time of day is otherwise acceptable. Two breaches. The working steps matter: first establish the freeze dates precisely, then test each entry against the rule that governs its type. Applying change control procedures under supervision — your **Change management** skill — is exactly this kind of careful rule application, and assessments reward candidates who identify which rule applies before judging compliance.
+**Explanation:** The freeze covers the last five calendar days before 1 April: 27, 28, 29, 30, and 31 March. Entry 1 (25 March) is outside the freeze and inside the weeknight window — compliant. Entry 2 (28 March) is a standard change inside the freeze — breach. Entry 3 (30 March) is inside the freeze, but rule (iii) permits emergency changes at any time with service owner approval, which is attached — compliant. Entry 4 (31 March) is a standard change inside the freeze — breach, even though the time of day is otherwise acceptable. Two breaches. The working steps matter: first establish the freeze dates precisely, then test each entry against the rule that governs its type. Applying change control procedures under supervision — your **Change management** skill — is exactly this kind of careful rule application, and assessments reward candidates who identify which rule applies before judging compliance.
 
 **Question 7 (moderate) — Pattern and trend recognition across weeks**
 
@@ -175,7 +175,7 @@ A user's laptop cannot reach any internal service, but a colleague's laptop at t
 
 **Correct answer: B**
 
-**Explanation:** The best single test is the one that splits the hypothesis space most evenly — a controlled swap. If the user's laptop works on the colleague's known-good port, the fault lies in the original port, cable or socket configuration; if it still fails, the fault lies in the laptop itself. Either outcome eliminates roughly half the possibilities. A restart (A) might clear the fault without telling you what it was, and if it fails you have learned little. Asking when it started (C) is good practice but is information gathering, not a discriminating test, and the question allows only one move. Checking the file server (D) is already effectively answered: the colleague reaches internal services, so shared infrastructure is very likely fine. Assessment problem solving rewards choosing tests by expected information gained — the same instinct that delivers first-time resolution instead of an afternoon of guesswork.
+**Explanation:** The best single test is the one that splits the hypothesis space most evenly — a controlled swap. If the user's laptop works on the colleague's known-good port, the fault lies in the original port, cable, or socket configuration; if it still fails, the fault lies in the laptop itself. Either outcome eliminates roughly half the possibilities. A restart (A) might clear the fault without telling you what it was, and if it fails you have learned little. Asking when it started (C) is good practice but is information gathering, not a discriminating test, and the question allows only one move. Checking the file server (D) is already effectively answered: the colleague reaches internal services, so shared infrastructure is very likely fine. Assessment problem solving rewards choosing tests by expected information gained — the same instinct that delivers first-time resolution instead of an afternoon of guesswork.
 
 **Question 9 (challenging) — Multi-constraint scheduling of a fix**
 
@@ -253,7 +253,7 @@ Five events occurred during an outage, but the log timestamps come from three sy
 
 A workplace job-specific numeric reasoning assessment measures your ability to interpret, manipulate and draw sound conclusions from numerical information of the kind your role genuinely produces. Rather than abstract arithmetic, you work with service management data: ticket volumes, SLA achievement percentages, availability figures, mean time to resolve, first-time fix rates, capacity utilisation, and simple cost calculations.
 
-Typical format: an online, timed test lasting 20 to 35 minutes with 15 to 25 questions, each presenting a table, chart or short data description followed by multiple-choice options. Calculators are usually permitted — the test measures reasoning with numbers, not mental arithmetic for its own sake. Questions typically require percentages, ratios, averages, rates of change, and reading values accurately from tables. Adaptive versions adjust difficulty as you go, and employers typically see accuracy, speed, and consistency.
+Typical format: an online, timed test lasting 20 to 35 minutes with 15 to 25 questions, each presenting a table, chart, or short data description followed by multiple-choice options. Calculators are usually permitted — the test measures reasoning with numbers, not mental arithmetic for its own sake. Questions typically require percentages, ratios, averages, rates of change, and reading values accurately from tables. Adaptive versions adjust difficulty as you go, and employers typically see accuracy, speed, and consistency.
 
 For an incident manager, numeric reasoning is core business. You judge whether the service is meeting its SLA targets, whether an incident trend is rising or noise, whether capacity headroom is shrinking, and whether your team's first-time fix rate justifies the way work is routed. You also use numbers persuasively: when you escalate a fault or propose a preventative measure, the case is usually numerical — how many users, how many hours lost, how often it recurs. Employers assess numeric reasoning for this role because a manager who misreads a percentage or confuses an average with a target makes confident-sounding decisions on false foundations, and in incident management those decisions play out in real time against real users.
 
@@ -606,7 +606,7 @@ Statement: "Direct routing will reduce average resolution times for hardware inc
 
 **Correct answer: C**
 
-**Explanation:** The passage reports a trial result in Building A: 9.1 hours falling to 4.3 hours — indeed more than half. But the statement predicts the outcome in Building C, a different building with possibly different incident mixes, distances and staffing. The passage neither guarantees the result will transfer nor denies it; extrapolation from A to C is plausible operational reasoning, but it is not stated. Cannot say. This distinction — between what a document reports and what it predicts — is one the best incident managers apply daily: trial evidence justifies trying the change, not promising its result. If you had answered True, notice the exact mechanism of the error: importing a real number from one context into a claim about another.
+**Explanation:** The passage reports a trial result in Building A: 9.1 hours falling to 4.3 hours — indeed more than half. But the statement predicts the outcome in Building C, a different building with possibly different incident mixes, distances, and staffing. The passage neither guarantees the result will transfer nor denies it; extrapolation from A to C is plausible operational reasoning, but it is not stated. Cannot say. This distinction — between what a document reports and what it predicts — is one the best incident managers apply daily: trial evidence justifies trying the change, not promising its result. If you had answered True, notice the exact mechanism of the error: importing a real number from one context into a claim about another.
 
 **Question 10 (moderate) — Clear-writing judgement**
 

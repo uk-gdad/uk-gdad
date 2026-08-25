@@ -521,7 +521,7 @@ corridor.
 - [ ] Data protection — the UK General Data Protection Regulation and the Data Protection Act 2018
 - [ ] Information security, and how information is classified and handled
 - [ ] Managing privileged access, and the principle of least privilege
-- [ ] Joiners, movers and leavers processes
+- [ ] Joiners, movers, and leavers processes
 - [ ] Secure handling of credentials and secrets
 - [ ] The Computer Misuse Act 1990
 - [ ] The Security Policy Framework or the Government Functional Standard for security

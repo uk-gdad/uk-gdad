@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of lead tes
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you lead test engineering across a service or programme, set automation standards, and build shared testing infrastructure. The resources below emphasise engineering leadership, shared tooling and strategy.
+At this role level you lead test engineering across a service or programme, set automation standards, and build shared testing infrastructure. The resources below emphasise engineering leadership, shared tooling, and strategy.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -46,7 +46,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Automated Software Testing Professional Certificate (DelftX)](https://www.edx.org/certificates/professional-certificate/delftx-automated-software-testing): A professional certificate covering automated testing methodology and practice, designed to make you a better developer through practical testing training.
 
-- [Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability (DelftX)](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2): Covers specification-based testing, boundary testing, test adequacy, code coverage and modern development environments including JUnit.
+- [Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability (DelftX)](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2): Covers specification-based testing, boundary testing, test adequacy, code coverage, and modern development environments including JUnit.
 
 - [Automated Software Testing: Model and State-based Testing (DelftX)](https://www.edx.org/learn/software-testing/delft-university-of-technology-automated-software-testing-model-and-state-based-testing): Covers mutation and property-based testing, the limitations of current techniques, and using state machines to represent systems and generate test cases against coverage criteria.
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.067 Competitive Decision-Making and Negotiation](https://ocw.mit.edu/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/): Develops negotiation skill through integrative bargaining cases between two and more than two parties over multiple issues.
 
-- [16.355J Software Engineering Concepts](https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/): Covers the software process, requirements, design principles, testing, formal analysis, reviews and quality management. Worth revisiting so your judgement about quality stays grounded as you lead.
+- [16.355J Software Engineering Concepts](https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/): Covers the software process, requirements, design principles, testing, formal analysis, reviews, and quality management. Worth revisiting so your judgement about quality stays grounded as you lead.
 
 ## Blog posts
 
@@ -82,7 +82,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [Benefits and limitations of automated software testing: Systematic literature review and practitioner survey](https://ieeexplore.ieee.org/document/6228988/): Combines a systematic review with a survey of 115 professionals, finding benefits in reusability, repeatability, coverage and execution effort, against high initial investment in setup, tool selection and training.
+- [Benefits and limitations of automated software testing: Systematic literature review and practitioner survey](https://ieeexplore.ieee.org/document/6228988/): Combines a systematic review with a survey of 115 professionals, finding benefits in reusability, repeatability, coverage and execution effort, against high initial investment in setup, tool selection, and training.
 
 - [Test automation maturity improves product quality: quantitative study of open source projects](https://www.sciencedirect.com/science/article/pii/S0164121222000280): An empirical study of 37 open source Java projects using continuous integration, finding higher automation maturity associated with higher product quality and shorter release cycles.
 
@@ -90,7 +90,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [An Analysis and Survey of the Development of Mutation Testing](https://dl.acm.org/doi/10.1109/tse.2010.62): Jia and Harman's comprehensive survey of mutation testing as a fault-based technique studied over three decades.
 
-- [Using Mutation Analysis for Assessing and Comparing Testing Coverage Criteria](https://ieeexplore.ieee.org/document/1703390/): Andrews, Briand, Labiche and Namin on empirically assessing test techniques across block, decision, C-use and P-use criteria.
+- [Using Mutation Analysis for Assessing and Comparing Testing Coverage Criteria](https://ieeexplore.ieee.org/document/1703390/): Andrews, Briand, Labiche and Namin on empirically assessing test techniques across block, decision, C-use, and P-use criteria.
 
 - [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies covering quality assurance alongside development activities, defects and build patterns.
 
@@ -128,7 +128,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Complete Guide to Test Automation](https://www.amazon.com/Complete-Guide-Test-Automation-Maintaining-ebook/dp/B07FKGVQP6): By Arnon Axelrod. Covers techniques, practices and patterns for building and maintaining test automation that survives contact with a changing codebase.
 
-- [The Complete Software Tester](https://www.amazon.com/Complete-Software-Tester-Strategies-High-Quality-ebook/dp/B09NGVVCJ9): By Kristin Jackvony. Covers manual exploratory testing, API testing, security testing, getting started with automation, version control and command line basics.
+- [The Complete Software Tester](https://www.amazon.com/Complete-Software-Tester-Strategies-High-Quality-ebook/dp/B09NGVVCJ9): By Kristin Jackvony. Covers manual exploratory testing, API testing, security testing, getting started with automation, version control, and command line basics.
 
 - [Software Testing and Quality Assurance: Theory and Practice](https://www.amazon.com/Software-Testing-Quality-Assurance-Practice-ebook/dp/B00VYM24KC): By Naik and Tripathy. A textbook covering quality models, testing maturity models and test process improvement, balancing theory with practice.
 
@@ -136,13 +136,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [BDD in Action: Behavior-driven development for the whole software lifecycle](https://www.amazon.com/BDD-Action-Behavior-driven-development-lifecycle/dp/161729165X): By John Ferguson Smart. Covers behaviour-driven development across the whole lifecycle rather than as a test-writing style.
 
-- [Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts](https://www.amazon.com/Continuous-Testing-DevOps-Professionals-Practical-ebook/dp/B07H8PH7VB): By Eran Kinsbruner. Documents continuous testing alongside continuous integration and delivery, covering technique, culture and tooling.
+- [Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts](https://www.amazon.com/Continuous-Testing-DevOps-Professionals-Practical-ebook/dp/B07H8PH7VB): By Eran Kinsbruner. Documents continuous testing alongside continuous integration and delivery, covering technique, culture, and tooling.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): Humble and Farley on the deployment pipeline, in which testing is the central mechanism rather than a gate at the end.
 
 - [Hands-On Selenium WebDriver with Java](https://www.amazon.com/Hands-Selenium-WebDriver-Java-Garcia-ebook/dp/B09WZHXDWR): By Boni García. A practical treatment of Selenium's main features with ready-to-run examples.
 
-- [The Cucumber Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/Cucumber-Book-Behaviour-Driven-Development-Developers-ebook/dp/B0D9MK3ZVN): By Wynne, Hellesoy and Tooke. Comprehensive coverage of behaviour-driven development using Cucumber.
+- [The Cucumber Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/Cucumber-Book-Behaviour-Driven-Development-Developers-ebook/dp/B0D9MK3ZVN): By Wynne, Hellesoy, and Tooke. Comprehensive coverage of behaviour-driven development using Cucumber.
 
 - [The Software Test Engineer's Handbook: A Study Guide for the ISTQB Test Analyst and Technical Test Analyst Advanced Level Certificates](https://www.skillsoft.com/book/the-software-test-engineers-handbook-a-study-guide-for-the-istqb-test-analyst-and-technical-test-analyst-advanced-level-certificates-2012-2nd-edition-064687b0-5ba0-11e7-b7eb-7a380c12f70a): A study guide for the advanced ISTQB certificates, useful whether or not you sit the exam.
 

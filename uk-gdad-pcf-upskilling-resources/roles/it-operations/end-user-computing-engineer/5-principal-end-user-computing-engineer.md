@@ -68,7 +68,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [End User Experience Monitoring: Essential New Practices, baramundi](https://www.baramundi.com/en-us/blog/article/end-user-experience-monitoring): Proactive servicing and experience monitoring as an operating model rather than a tool.
 
-- [Google SRE Book, table of contents](https://sre.google/sre-book/table-of-contents/): The full set of essays, including capacity planning, managing operational load and eliminating toil.
+- [Google SRE Book, table of contents](https://sre.google/sre-book/table-of-contents/): The full set of essays, including capacity planning, managing operational load, and eliminating toil.
 
 - [Embracing Risk, Google SRE Book chapter 3](https://sre.google/sre-book/embracing-risk/): Error budgets, which turn reliability from an argument into a negotiated number.
 
@@ -82,7 +82,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for managing supplier relationships at organisational level.
+- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure, and process for managing supplier relationships at organisational level.
 
 - [A Review of the IT Outsourcing Empirical Literature and Future Research Directions](https://journals.sagepub.com/doi/10.1057/jit.2010.21): Twenty years of outsourcing research, including governance and capability variables.
 
@@ -130,19 +130,19 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V): By Will Larson. Systems thinking applied to organisations, including sizing teams and managing growth.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Research-grounded evidence for the practices you are asking an organisation to fund.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Research-grounded evidence for the practices you are asking an organisation to fund.
 
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731): By Tanya Reilly. Strategic thinking and setting technical standards without line authority.
 
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897): By Camille Fournier. The people leadership and development you now lead on.
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operations at scale, with case studies from organisations that had to solve it.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operations at scale, with case studies from organisations that had to solve it.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): By Cole Nussbaumer Knaflic. Directly relevant to using data analytics to drive decisions others will act on.
 
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook/dp/B07K3QBWG1): By Melissa Perri. Outcome focus over output counting, which is the discipline a roadmap needs.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Introducing these practices into an organisation with existing commitments.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Introducing these practices into an organisation with existing commitments.
 
 - [ITSM for Leaders: A Leader's Guide to Understanding IT Service Management](https://www.amazon.com/ITSM-Leaders-Understanding-Management-Leadership-ebook/dp/B08GB48GPD): By Jeffrey Tefertiller. Service management framed for the people who fund and govern it.
 

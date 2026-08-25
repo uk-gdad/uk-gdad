@@ -24,7 +24,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [DevOps Pro: Linux, Docker, Kubernetes, CI/CD and IaC](https://www.coursera.org/specializations/devops-linux-docker-kubernetes-ci-cd-iac): Every layer of the modern stack with production-like labs, useful for filling gaps across a broad remit.
 
-- [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Reliability measurement, automation and incident response, which is the operational half of translating a design.
+- [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Reliability measurement, automation, and incident response, which is the operational half of translating a design.
 
 ## Udemy courses
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Abstractions and implementation techniques for distributed systems, including naming, storage and fault tolerance.
+- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Abstractions and implementation techniques for distributed systems, including naming, storage, and fault tolerance.
 
 - [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Requirements, architecture, trade-space exploration, integration and interface management, verification and validation.
 
@@ -84,13 +84,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Strategies and Challenges in Cloud-to-Cloud Migration Using Infrastructure as Code](https://link.springer.com/chapter/10.1007/978-3-031-78392-0_1): A migration case study with honest treatment of the obstacles and their mitigations.
 
-- [Leveraging Infrastructure-as-Code Automation to Establish Standardized, Reliable, and Reproducible Cloud Infrastructure](https://zenodo.org/records/19452393): Configuration drift, deployment variability and traceability, which are design problems.
+- [Leveraging Infrastructure-as-Code Automation to Establish Standardized, Reliable, and Reproducible Cloud Infrastructure](https://zenodo.org/records/19452393): Configuration drift, deployment variability, and traceability, which are design problems.
 
 - [Infrastructure as Code: Technology Review and Research Challenges](https://www.researchgate.net/publication/389406746_Infrastructure_as_Code_-Technology_Review_and_Research_Challenges): A review of the field and its unresolved problems.
 
 - [Infrastructure as code: A paradigm shift in cloud resource management and deployment automation](https://www.researchgate.net/publication/391453229_Infrastructure_as_code_A_paradigm_shifts_in_cloud_resource_management_and_deployment_automation): Empirical outcomes across organisations, useful when arguing for investment.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs, and multi-model data.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): Challenges and enablers in root cause analysis, most of which are addressable at senior level.
 
@@ -110,7 +110,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Evolution of Infrastructure as Code: Terraform vs KCC, IEEE Cloud Summit](https://www.youtube.com/watch?v=8pGJ1HIh5b8): A conference comparison of approaches, at the level of trade-offs rather than syntax.
 
-- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Practitioner talks on Kubernetes, Terraform, IaC and GitOps.
+- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Practitioner talks on Kubernetes, Terraform, IaC, and GitOps.
 
 - [How to Structure Your Platform Team (Team Topologies)](https://www.youtube.com/watch?v=nFTRSFHpmKs): Platform team structure, relevant to the workforce input expected at this level.
 
@@ -130,21 +130,21 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Infrastructure as Code: Designing and Delivering Dynamic Systems for the Cloud Age](https://www.amazon.com/Infrastructure-Code-Designing-Delivering-Dynamic/dp/109815035X): By Kief Morris. Patterns for structuring infrastructure code that several people maintain.
 
-- [Terraform: Up and Running: Writing Infrastructure as Code](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747): By Yevgeniy Brikman. Module design, state management and team workflows.
+- [Terraform: Up and Running: Writing Infrastructure as Code](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747): By Yevgeniy Brikman. Module design, state management, and team workflows.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns, which is a design review checklist in book form.
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operating distributed services, including operational readiness for a new design.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operating distributed services, including operational readiness for a new design.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical SRE, including capacity planning and toil reduction.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical SRE, including capacity planning and toil reduction.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Humble and Farley. The deployment pipeline and the ecosystem around it.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What a system has to expose to be operable.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What a system has to expose to be operable.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence linking practice to outcomes, useful for roadmap arguments.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence linking practice to outcomes, useful for roadmap arguments.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. Standards, documentation and team practice at enterprise scale.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. Standards, documentation, and team practice at enterprise scale.
 
 ## Professional development tips
 
@@ -153,5 +153,5 @@ We welcome constructive feedback to improve this page and these lists.
 - Define the integration build and co-ordinate build activity across systems rather than assuming it will converge
 - Translate architectural designs into operational reality, and tell architects early when a design will not operate
 - Define test conditions from requirements, and be explicit about non-functional coverage
-- Contribute to roadmaps with evidence about capacity, cost and risk rather than preference
+- Contribute to roadmaps with evidence about capacity, cost, and risk rather than preference
 - Consult specialists early and record what they told you, so the knowledge outlives the ticket

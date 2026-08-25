@@ -126,7 +126,7 @@ half you arrived without is a legitimate development need, not a shortfall.
 Your next step is lead machine learning engineer: leading the most complex technical
 work, co-ordinating models from research and development into production, defining
 ways of working across the life cycle, identifying training needs, and defining
-software standards for ethics, risk and security.
+software standards for ethics, risk, and security.
 
 **One thing worth knowing about this role.** Two of your six skills — applied maths,
 statistics and scientific practices, and data ethics and privacy — are worded

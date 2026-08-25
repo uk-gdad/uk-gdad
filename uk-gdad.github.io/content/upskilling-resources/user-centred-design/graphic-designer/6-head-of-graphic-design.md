@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of head of 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are accountable for graphic design across the organisation, its standards, its identity and its capability. The resources below emphasise organisational design direction, discipline building and executive influence.
+At this role level you are accountable for graphic design across the organisation, its standards, its identity and its capability. The resources below emphasise organisational design direction, discipline building, and executive influence.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility and career development.
+- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility, and career development.
 
 - [Courses for UX Design](https://www.skillsoft.com/channel/ux-design-f0507340-0b21-11e7-a3e9-a39d8b265364): A channel covering design techniques and tools, guidelines and patterns, and the research methods that inform them.
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Human-Computer Interaction II: Cognition, Context and Culture (GTx)](https://www.edx.org/course/human-computer-interaction-ii-cognition-context-cu): The continuation, covering how cognition, context and culture shape how people actually use interfaces.
 
-- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles and deliverables.
+- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles, and deliverables.
 
 ## MIT OpenCourseWare courses
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.067 Competitive Decision-Making and Negotiation](https://ocw.mit.edu/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/): Develops negotiation skill through integrative bargaining cases between two and more than two parties over multiple issues.
 
-- [6.831 User Interface Design and Implementation](https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/): Covers human capabilities including perception, colour vision and attention, which are the evidence base behind visual design decisions.
+- [6.831 User Interface Design and Implementation](https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/): Covers human capabilities including perception, colour vision, and attention, which are the evidence base behind visual design decisions.
 
 ## Blog posts
 
@@ -134,13 +134,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Covers how visual decisions become accessible or inaccessible in implementation.
 
-- [Web Accessibility by Design: Inclusive Front-End Patterns and UI Guidelines](https://www.amazon.com/Web-Accessibility-Design-Inclusive-Guidelines-ebook/dp/B0FMJSVY2D): Covers colour contrast, motion control and visual presentation alongside markup.
+- [Web Accessibility by Design: Inclusive Front-End Patterns and UI Guidelines](https://www.amazon.com/Web-Accessibility-Design-Inclusive-Guidelines-ebook/dp/B0FMJSVY2D): Covers colour contrast, motion control, and visual presentation alongside markup.
 
-- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): Cooper, Reimann, Cronin and Noessel. Connects visual decisions to behaviour and to user goals.
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): Cooper, Reimann, Cronin, and Noessel. Connects visual decisions to behaviour and to user goals.
 
 - [Content Design](https://www.amazon.com/Content-Design-Sarah-Winters/dp/1916323316): By Sarah Winters. Visual and written content have to work together, and this sets the standard for the written half in government.
 
-- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky and Moed. A methods reference for testing visual work with real users.
+- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky, and Moed. A methods reference for testing visual work with real users.
 
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/1933820118): By Steve Portigal. Visual design decisions are stronger when grounded in what users actually said.
 
@@ -148,10 +148,10 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Professional development tips
 
-- Set the organisation's approach to visual design, including standards, identity and tooling
+- Set the organisation's approach to visual design, including standards, identity, and tooling
 - Judge the function by services people can read, understand and use, not by visual output
 - Build graphic design as a discipline with a visible career path and real development
-- Work with heads of interaction design, content and communications as genuine peers
+- Work with heads of interaction design, content, and communications as genuine peers
 - Make the case for design investment with evidence about comprehension and accessibility
 - Develop successors deliberately and give them real accountability
 - Contribute to cross-government design communities, since shared visual patterns reduce cost for everyone

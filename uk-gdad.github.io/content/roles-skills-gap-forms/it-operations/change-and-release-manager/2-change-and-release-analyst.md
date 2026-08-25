@@ -103,7 +103,7 @@ impact, documenting requests and actioning them. That is the narrowest published
 in the whole framework, so your accountabilities carry the rest of the difference.
 
 Second, the step to change and release manager changes far more: asset and configuration management,
-community collaboration, incident management, ownership, problem management, service focus and user focus
+community collaboration, incident management, ownership, problem management, service focus, and user focus
 all rise, while change management shifts to implementing and optimising the processes themselves.
 
 **The eleven skills this form covers**, in the framework's order:

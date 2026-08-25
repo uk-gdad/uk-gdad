@@ -774,7 +774,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/product-and-delivery/business-analyst/6-head-of-business-analysis.md)
-  — courses, articles, talks and books pitched at head of business analysis.
+  — courses, articles, talks, and books pitched at head of business analysis.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/business-analyst/6-head-of-business-analysis.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/business-analyst/6-head-of-business-analysis.md)

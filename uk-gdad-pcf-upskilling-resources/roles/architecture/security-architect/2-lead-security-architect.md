@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of lead sec
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you undertake complex, high risk work across several projects, interact with senior stakeholders across departments, research and apply innovative security architecture solutions, and develop vision, principles and strategy for security architects. The resources below emphasise advanced architecture, influence and strategy.
+At this role level you undertake complex, high risk work across several projects, interact with senior stakeholders across departments, research and apply innovative security architecture solutions, and develop vision, principles and strategy for security architects. The resources below emphasise advanced architecture, influence, and strategy.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -30,13 +30,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Security Architecture and Review with Threat Modeling: Hands On](https://www.udemy.com/course/security-architecture-and-design-review-with-threat-modeling/): Covers designing and implementing secure systems, identifying security threats and mitigating them through a structured architecture and design review process.
 
-- [Cybersecurity Solution Architecture 201](https://www.udemy.com/course/cybersecurity-solution-architecture-201/): Moves from foundational controls to enterprise-scale design across thirteen modules, refining threat modelling skill with STRIDE, PASTA and MITRE ATT&CK.
+- [Cybersecurity Solution Architecture 201](https://www.udemy.com/course/cybersecurity-solution-architecture-201/): Moves from foundational controls to enterprise-scale design across thirteen modules, refining threat modelling skill with STRIDE, PASTA, and MITRE ATT&CK.
 
-- [Cyber Security Architecture Fundamentals](https://www.udemy.com/course/cyber-security-architecture-fundamentals/): Covers principles and best practice for designing security architectures, including threat modelling, risk assessment, security design patterns, access control, cryptography, network security, cloud security and incident response.
+- [Cyber Security Architecture Fundamentals](https://www.udemy.com/course/cyber-security-architecture-fundamentals/): Covers principles and best practice for designing security architectures, including threat modelling, risk assessment, security design patterns, access control, cryptography, network security, cloud security, and incident response.
 
 ## Skillsoft courses
 
-- [Courses for Security Architect](https://www.skillsoft.com/journey/security-architect-5ab7fde5-80f9-4602-9049-c9094b776589): A curated learning journey for the security architect role, spanning secure design principles, architecture models and risk.
+- [Courses for Security Architect](https://www.skillsoft.com/journey/security-architect-5ab7fde5-80f9-4602-9049-c9094b776589): A curated learning journey for the security architect role, spanning secure design principles, architecture models, and risk.
 
 - [Defensible Security](https://www.skillsoft.com/course/defensible-security-4325f320-efc3-45ba-956d-6829c2b8160d): Explores defensible architecture and zero trust models from the standpoint of a security architect, covering the tools that address network security challenges and reviewing common security models and standards.
 
@@ -60,7 +60,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Blog posts
 
-- [Designing secure access with ZTNA](https://www.ncsc.gov.uk/blogs/designing-secure-access-with-ztna): National Cyber Security Centre guidance on designing zero trust network access architectures aligned with zero trust principles, aimed at architects, security practitioners and technical decision makers.
+- [Designing secure access with ZTNA](https://www.ncsc.gov.uk/blogs/designing-secure-access-with-ztna): National Cyber Security Centre guidance on designing zero trust network access architectures aligned with zero trust principles, aimed at architects, security practitioners, and technical decision makers.
 
 - [NCSC zero trust principles](https://nocomplexity.com/documents/securityarchitecture/architecture/NCSC-zerotrustprinciples.html): A structured presentation of the NCSC's eight zero trust design principles, from knowing your architecture through to choosing services designed for zero trust.
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A descriptive study of Microsoft's threat modeling technique](https://dl.acm.org/doi/10.1007/s00766-013-0195-2): Published in Requirements Engineering, this is the empirical evaluation of STRIDE that the field lacked, involving 57 final-year computer science master's students and quantifying cost and effectiveness.
 
-- [strideSEA: A STRIDE-centric Security Evaluation Approach](https://arxiv.org/pdf/2503.19030): Integrates STRIDE as the central classification scheme across threat modelling, attack scenario analysis, risk analysis and countermeasure recommendation within a secure development lifecycle.
+- [strideSEA: A STRIDE-centric Security Evaluation Approach](https://arxiv.org/pdf/2503.19030): Integrates STRIDE as the central classification scheme across threat modelling, attack scenario analysis, risk analysis, and countermeasure recommendation within a secure development lifecycle.
 
 - [Threat modeling: uncover security design flaws using the STRIDE approach](https://www.researchgate.net/publication/291127084_Threat_modeling-uncover_security_design_flaws_using_the_stride_approach): The foundational description of the STRIDE technique and its application to design review.
 
@@ -138,11 +138,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-Kurose-ebook/dp/B0FP1SXZV3): Kurose and Ross. The clearest available account of why network protocols work the way they do, which underpins most protocol-level security reasoning.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill and Robertson. Provides the operating model framing that determines how far security standardisation should reach.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill, and Robertson. Provides the operating model framing that determines how far security standardisation should reach.
 
 - [The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5): Kotusev's empirical account of architecture practice, useful for positioning security architecture within the wider function.
 
-- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A textbook treatment of frameworks, methods and governance across architecture domains.
+- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A textbook treatment of frameworks, methods, and governance across architecture domains.
 
 - [Execution Architecture: The System Between Strategy and Results](https://www.amazon.com/Execution-Architecture-Between-Strategy-Results-ebook/dp/B0GYPZCZKQ): A leadership framework for understanding why strategy, including security strategy, under-converts into delivered outcomes.
 

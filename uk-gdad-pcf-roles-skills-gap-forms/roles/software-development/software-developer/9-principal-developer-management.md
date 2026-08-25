@@ -16,7 +16,7 @@ other people's security work, and control design practice across an enterprise
 architecture. Alongside that sit the accountabilities you share with the
 technical role: deep expertise applied across multiple teams, capability built
 through mobility, career paths and recruitment, and emerging technology
-identified, tested and championed.
+identified, tested, and championed.
 
 Nothing here is scored, marked or ranked, and no answer is compared with a
 colleague's. Each of your ten skills gets an explanation, a note on how the
@@ -371,7 +371,7 @@ deliberate?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** The craft itself: reviewing specifications, then designing,
-coding, testing and documenting software of real complexity.
+coding, testing, and documenting software of real complexity.
 
 **What the framework expects at this level.** That you collaborate with others
 when necessary to review specifications, and use the agreed specifications to
@@ -666,7 +666,7 @@ apply.
 - [ ] The public sector equality duty, under the Equality Act 2010
 - [ ] Records management and the Freedom of Information Act 2000
 - [ ] The Civil Service Code, or your organisation's code of conduct
-- [ ] Procurement, contract and commercial obligations
+- [ ] Procurement, contract, and commercial obligations
 - [ ] Employment and people policies relevant to managing others
 - [ ] None of these
 - [ ] Not sure

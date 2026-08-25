@@ -551,7 +551,7 @@ training and support, not about whether you can state the law correctly.
 **Q39.** Which of these have you had training or a briefing on? Tick any that apply.
 
 - [ ] Data protection — the UK General Data Protection Regulation and the Data Protection Act 2018
-- [ ] Data minimisation, retention and secure deletion
+- [ ] Data minimisation, retention, and secure deletion
 - [ ] Information security, and how information is classified and handled
 - [ ] Managing privileged access, and the principle of least privilege
 - [ ] Logging and monitoring, and what may lawfully be logged

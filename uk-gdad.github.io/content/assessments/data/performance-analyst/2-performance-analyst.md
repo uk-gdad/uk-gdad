@@ -490,7 +490,7 @@ The third is that tool and supplier documentation defines capability narrowly. Y
 
 - **Reading metric definitions** maps to **Performance measurement** and creating measurement frameworks.
 - **Reading data quality documentation** maps to **Quality assurance of data and analysis**.
-- **Reading tool and procurement documentation** maps to advising on procurement, implementation and validation of tools.
+- **Reading tool and procurement documentation** maps to advising on procurement, implementation, and validation of tools.
 - **Reading research** maps to **User-centred analysis**.
 - **Separating evidence from claim** maps to **Analysis and insight**.
 - **Describing findings precisely** maps to **Communicating analysis and insight**.
@@ -695,7 +695,7 @@ The third is that you are often the only analyst in the room, which means nobody
 - **Framework design** maps to **Performance measurement** and creating frameworks with the wider team.
 - **Assuring analysis** maps to **Quality assurance of data and analysis**.
 - **Presenting findings** maps to **Communicating analysis and insight**.
-- **Tool decisions** maps to advising on procurement, implementation and validation of tools.
+- **Tool decisions** maps to advising on procurement, implementation, and validation of tools.
 - **Working as the sole analyst** maps to working independently and knowing when to seek guidance.
 - **Community contribution** maps to actively contributing to the performance analysis community.
 

@@ -37,7 +37,7 @@ Why does this matter for your role specifically? Senior evaluation work is, at i
 
 Each cognitive dimension maps directly to skills named in your role profile:
 
-- **Logical deduction and causal reasoning** map to your **Evaluation delivery** skill: evaluating digital services using process evaluation, impact evaluation, theory of change, experimentation and economic evaluation all depend on rigorous if-then reasoning about activities, outputs, outcomes and unintended effects.
+- **Logical deduction and causal reasoning** map to your **Evaluation delivery** skill: evaluating digital services using process evaluation, impact evaluation, theory of change, experimentation and economic evaluation all depend on rigorous if-then reasoning about activities, outputs, outcomes, and unintended effects.
 - **Error checking and inconsistency detection** map to your **Quality assurance of data and analysis** skill: specifying how data should be cleansed and prepared, bringing data together from different sources, and communicating the limitations of data all require you to spot the discrepancy others miss.
 - **Prioritisation and problem solving** map to your **Evaluation planning and strategy** skill: ensuring monitoring and evaluation plans are appropriate and proportionate, identifying evidence needs, and considering wider policy and practical constraints are exercises in structured prioritisation.
 - **Pattern recognition in indicators and frameworks** maps to your **Product and service monitoring** skill: turning theory of change indicators into measurement frameworks, and working with performance analysts on dashboards, requires you to see structure and anomaly in sets of metrics.
@@ -169,7 +169,7 @@ D) 9,400 is plausible because the two sources should be added together
 
 **Question 7 (moderate) - Rule application across service phases**
 
-Your department applies these internal rules, derived from the Service Standard: during discovery, teams gather qualitative evidence of user needs but do not set quantitative targets; during alpha, teams test hypotheses and define candidate indicators; during beta, teams collect baseline and live performance data against those indicators; during live, teams run full impact evaluation.
+Your department applies these internal rules, derived from the Service Standard: during discovery, teams gather qualitative evidence of user needs but do not set quantitative targets; during alpha, teams test hypotheses, and define candidate indicators; during beta, teams collect baseline and live performance data against those indicators; during live, teams run full impact evaluation.
 
 A programme board asks four teams to report. Which team's activity is misaligned with its phase?
 
@@ -748,7 +748,7 @@ This assessment matters for your role because judgement is the substance of seni
 - **Ethical judgement** maps to your **Data ethics and privacy** skill: working with stakeholders to identify and address ethical and privacy concerns, and constructively challenging proposed policies.
 - **Leadership of evaluators** maps to your role-level duty to assure the work of other evaluators, including handling quality problems in ways that develop people rather than merely correcting outputs.
 - **Proportionality and pragmatism** map to your **Evaluation planning and strategy** and **Monitoring and evaluation across the product life cycle** skills: ensuring plans are appropriate and proportionate within real policy and practical constraints.
-- **Multidisciplinary collaboration** maps to your role-level duty to work in a multidisciplinary team, where evaluators, user researchers, performance analysts, designers and policy colleagues bring different priorities.
+- **Multidisciplinary collaboration** maps to your role-level duty to work in a multidisciplinary team, where evaluators, user researchers, performance analysts, designers, and policy colleagues bring different priorities.
 
 ### Practice questions
 
@@ -906,7 +906,7 @@ D) Email the investment board a copy of central government evaluation guidance a
 
 ### Preparation tips
 
-- **Anchor on public sector values before you start.** User needs first, transparency about evidence, collaboration across disciplines, accessibility and inclusion. When two options both seem defensible, the one that better serves users and evidence integrity usually scores higher.
+- **Anchor on public sector values before you start.** User needs first, transparency about evidence, collaboration across disciplines, accessibility, and inclusion. When two options both seem defensible, the one that better serves users and evidence integrity usually scores higher.
 - **Answer as the senior professional you are, at your best.** Situational judgement rewards your considered judgement, not your worst Tuesday. Choose what you would do with a clear head, but keep it practical: idealised answers that ignore constraints score poorly too.
 - **Look for the option that addresses the root cause.** Options that fix the immediate symptom while leaving the underlying process, relationship, or incentive broken are usually mid-ranked. The strongest options often pair the immediate action with the systemic one.
 - **Calibrate escalation.** The best answers usually attempt direct resolution first and escalate when the issue is irreversible, unresolved, or above your authority. Reflexive escalation and quiet absorption both lose marks.
@@ -924,7 +924,7 @@ D) Email the investment board a copy of central government evaluation guidance a
 
 ## Conclusion
 
-You have now worked through four complete assessment types, each grounded in the real substance of senior digital evaluation: cognitive reasoning with theories of change, measurement frameworks and assurance findings; numeric reasoning with completion rates, budgets, benefit-cost ratios and attrition arithmetic; verbal reasoning with guidance extracts, stakeholder emails, ethics submissions and published reports; and situational judgement across the pressured, human moments where evaluation integrity is really decided.
+You have now worked through four complete assessment types, each grounded in the real substance of senior digital evaluation: cognitive reasoning with theories of change, measurement frameworks, and assurance findings; numeric reasoning with completion rates, budgets, benefit-cost ratios and attrition arithmetic; verbal reasoning with guidance extracts, stakeholder emails, ethics submissions, and published reports; and situational judgement across the pressured, human moments where evaluation integrity is really decided.
 
 If you attempted the questions actively, you have done far more than prepare for a test. You have rehearsed the core disciplines of your profession: checking causal chains link by link, choosing the right denominator, refusing to let plausible inference pass as evidence, and holding professional lines while keeping stakeholder relationships strong. Every explanation you disagreed with and then worked through is a small act of the same quality assurance you apply to others' work, turned constructively on your own reasoning.
 

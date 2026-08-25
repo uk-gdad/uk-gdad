@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of apprenti
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are learning to build user interfaces with close support, developing foundational skills in markup, styling and behaviour. The resources below emphasise HTML, CSS and JavaScript fundamentals, accessibility and the GOV.UK Design System.
+At this role level you are learning to build user interfaces with close support, developing foundational skills in markup, styling, and behaviour. The resources below emphasise HTML, CSS and JavaScript fundamentals, accessibility and the GOV.UK Design System.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -28,9 +28,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Front-End Web Development with HTML, CSS, JavaScript, React](https://www.udemy.com/course/frontend-web-development-bootcamp/): Covers HTML5 semantic markup, forms, media elements and accessibility; CSS3 layouts, flexbox, grid and responsive design; modern JavaScript; and React components, state, props and hooks.
+- [Front-End Web Development with HTML, CSS, JavaScript, React](https://www.udemy.com/course/frontend-web-development-bootcamp/): Covers HTML5 semantic markup, forms, media elements and accessibility; CSS3 layouts, flexbox, grid, and responsive design; modern JavaScript; and React components, state, props, and hooks.
 
-- [Become a Front-End Developer: HTML, CSS and Bootstrap](https://www.udemy.com/course/become-a-front-end-developer/): Includes web performance and accessibility topics such as lazy loading, ARIA labels, keyboard navigation and load-time improvement.
+- [Become a Front-End Developer: HTML, CSS and Bootstrap](https://www.udemy.com/course/become-a-front-end-developer/): Includes web performance and accessibility topics such as lazy loading, ARIA labels, keyboard navigation, and load-time improvement.
 
 - [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/): A large, frequently updated course covering semantic elements including main, nav, section, article, aside, header and footer to improve accessibility and search visibility.
 
@@ -76,7 +76,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [11 barriers to coding in the open and how to overcome them](https://technology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/): The common objections to working in public and how each is answered.
 
-- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, internationalisation, privacy and security considerations specific to government software.
+- [Government Software Engineering Community Blog](https://software-engineering-in-government.github.io/): Covers accessibility, internationalisation, privacy, and security considerations specific to government software.
 
 - [Technology in government: Open Standards](https://technology.blog.gov.uk/category/open-standards/): Covers how open standards are chosen and applied, which shapes frontend technology choices.
 
@@ -100,7 +100,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [On the effects of continuous delivery on code quality: A case study in industry](https://www.sciencedirect.com/science/article/abs/pii/S0920548921000830): A twelve-month industrial case study of what continuous delivery adoption did to code and product quality.
 
-- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, quality assurance, defects and build patterns.
+- [The Effects of Continuous Integration on Software Development: a Systematic Literature Review](https://arxiv.org/pdf/2103.05451): Analyses 101 empirical studies across development activities, quality assurance, defects, and build patterns.
 
 ## Videos
 
@@ -126,7 +126,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Written for anyone who writes frontend code, with a strong focus on HTML and on JavaScript-powered components such as toggles, accordions, modals, filters and navigation.
+- [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Written for anyone who writes frontend code, with a strong focus on HTML and on JavaScript-powered components such as toggles, accordions, modals, filters, and navigation.
 
 - [Web Accessibility by Design: Inclusive Front-End Patterns and UI Guidelines](https://www.amazon.com/Web-Accessibility-Design-Inclusive-Guidelines-ebook/dp/B0FMJSVY2D): Covers semantic HTML and ARIA roles, accessible forms and navigation, colour contrast and motion control, with actionable techniques.
 

@@ -166,7 +166,7 @@ assets and components.**
 licence freed up. Correcting is the part that matters: fixing a record you notice is wrong rather than
 working around it.
 
-**Worded identically at every level of this role** — analyst, senior analyst, manager and head of service
+**Worded identically at every level of this role** — analyst, senior analyst, manager, and head of service
 desk all read the same. It is the only skill here that never rises, so anything you build now counts all the
 way up.
 
@@ -390,7 +390,7 @@ something done quickly. These questions are about what training you have had, so
 - [ ] What to do if you think data has been lost or exposed
 - [ ] Recognising a social engineering attempt — someone pretending to be a colleague
 - [ ] Accessibility and reasonable adjustments for colleagues
-- [ ] Handling aggressive, distressing or abusive contact
+- [ ] Handling aggressive, distressing, or abusive contact
 - [ ] How long call recordings and ticket records are kept
 - [ ] None of these
 - [ ] Not sure

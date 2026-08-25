@@ -17,7 +17,7 @@ they have to do. The question "what is the one thing this screen is asking?" is 
 craft.
 
 Nothing here is scored, marked or ranked. There are no right answers. Seven skills, each with a
-plain explanation, a rating and a couple of questions. Take about 25 minutes.
+plain explanation, a rating, and a couple of questions. Take about 25 minutes.
 
 ## Advisory
 
@@ -101,12 +101,12 @@ direction from more senior designers, and identifying user issues and needs.
 
 **Two things worth knowing about this role.**
 
-First, three of your seven skills — designing strategically, designing together and leading
+First, three of your seven skills — designing strategically, designing together, and leading
 design — are worded **identically at junior interaction designer**. They do not change when you are
 promoted.
 
 Second, and worth knowing early in your career: **the framework publishes exactly the same seven
-skills, with exactly the same wording, for interaction designers, graphic designers and service
+skills, with exactly the same wording, for interaction designers, graphic designers, and service
 designers** — at every level. The only published difference between the three roles is the
 one-sentence role description. So the skills cannot tell you what makes interaction design
 different from its neighbours; the craft is in the work, not in the framework text. This form asks
@@ -421,7 +421,7 @@ and support, not about whether you can recite the law.
 
 - [ ] The accessibility regulations for public sector websites and apps
 - [ ] The Web Content Accessibility Guidelines
-- [ ] Keyboard navigation, focus order and error announcement
+- [ ] Keyboard navigation, focus order, and error announcement
 - [ ] The Equality Act 2010 and the public sector equality duty
 - [ ] Data protection — what a service should and should not ask people for
 - [ ] The GOV.UK Service Standard

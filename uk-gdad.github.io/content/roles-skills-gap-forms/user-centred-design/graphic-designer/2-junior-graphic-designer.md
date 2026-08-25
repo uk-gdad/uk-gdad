@@ -270,7 +270,7 @@ importance of constructive feedback in the design process.
 **Same wording as associate graphic designer.**
 
 **What that looks like here.** Design in government happens with content designers, interaction
-designers, researchers and developers in the room. The graphic decisions and the words are not
+designers, researchers, and developers in the room. The graphic decisions and the words are not
 separable — type size and line length change how readable content is as much as the sentences
 do.
 
@@ -421,11 +421,11 @@ support, not about whether you can state the law correctly.
 **Q30.** Which of these have you had training or a briefing on? Tick any that apply.
 
 - [ ] The accessibility regulations for public sector websites and apps
-- [ ] The Web Content Accessibility Guidelines, especially colour contrast, text and target
+- [ ] The Web Content Accessibility Guidelines, especially colour contrast, text, and target
       sizes
 - [ ] The Equality Act 2010 and the public sector equality duty
 - [ ] Your organisation's brand and design standards
-- [ ] Image licensing, font licensing and copyright
+- [ ] Image licensing, font licensing, and copyright
 - [ ] Data protection, where designs include real data or examples
 - [ ] None of these
 - [ ] Not sure

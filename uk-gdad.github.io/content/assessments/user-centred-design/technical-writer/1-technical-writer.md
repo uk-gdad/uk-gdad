@@ -26,7 +26,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical materials rather than abstract puzzles. At your level the materials are documentation sets, API references, release notes, support tickets, analytics on developer portals, and content produced by colleagues you are coaching.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level.
 
 Three things distinguish this section for a technical writer.
 
@@ -106,7 +106,7 @@ Which is strongest, and why?
 
 **Correct answer: B**
 
-**Explanation:** The right frame is what your input can still change and what happens if it does not. An API released to public beta without reference documentation is not partially usable — an external developer cannot integrate without knowing the endpoints, parameters and error codes, so the release is effectively blocked for its audience while appearing to have happened. The window matters too: first impressions of a developer product are formed at first contact and are expensive to change. Item 2 is genuinely harmful and generating occasional confusion rather than blocking anyone, so it goes next. Item 3 is documentation for a deprecated feature, which raises whether it should be rewritten at all rather than marked deprecated and left. Item 4 has real leverage and no deadline. Option A ranks harm correctly and misses that item 1 is a total barrier rather than a partial one.
+**Explanation:** The right frame is what your input can still change and what happens if it does not. An API released to public beta without reference documentation is not partially usable — an external developer cannot integrate without knowing the endpoints, parameters, and error codes, so the release is effectively blocked for its audience while appearing to have happened. The window matters too: first impressions of a developer product are formed at first contact and are expensive to change. Item 2 is genuinely harmful and generating occasional confusion rather than blocking anyone, so it goes next. Item 3 is documentation for a deprecated feature, which raises whether it should be rewritten at all rather than marked deprecated and left. Item 4 has real leverage and no deadline. Option A ranks harm correctly and misses that item 1 is a total barrier rather than a partial one.
 
 **Question 5 (moderate) — Content that should not exist**
 
@@ -220,7 +220,7 @@ You realise that a code sample you published two months ago contains a parameter
 - **Ask who will keep this current.** Documentation nobody maintains is a liability.
 - **Lead with the working example for a developer audience.** Concepts come after something works.
 - **Replace "appropriately" with the parameters of the decision.** Default, units, range, consequences, recommendation.
-- **Treat zero traffic as ambiguous.** Obsolete, rarely-needed and unfindable look identical.
+- **Treat zero traffic as ambiguous.** Obsolete, rarely-needed, and unfindable look identical.
 - **Check whether an error in one sample appears in others.** Samples get copied.
 
 ### Common pitfalls to avoid
@@ -238,11 +238,11 @@ You realise that a code sample you published two months ago contains a parameter
 
 ### About this assessment
 
-A numeric reasoning assessment measures how accurately you handle the quantitative material your role produces and consumes. For a technical writer that material is unusually varied: documentation analytics, search logs, support ticket volumes, API usage figures, error rates, and the numbers inside the content itself — rate limits, timeouts, payload sizes, version numbers and retention periods.
+A numeric reasoning assessment measures how accurately you handle the quantitative material your role produces and consumes. For a technical writer that material is unusually varied: documentation analytics, search logs, support ticket volumes, API usage figures, error rates, and the numbers inside the content itself — rate limits, timeouts, payload sizes, version numbers, and retention periods.
 
 That last category deserves emphasis, because it is where numerical care in your discipline differs from most. A number in your documentation is not a summary or an argument; it is an instruction somebody will implement. A rate limit stated as 100 requests per minute when it is 100 per hour will cause every integrator who reads it to build something that fails in production, and unlike a vague sentence it will fail silently until it does not.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided.
 
 Four habits carry the load. Establish what the question asks before looking at the data. Identify the denominator and the population it represents. Estimate, calculate, compare. And sanity-check against the world — which for you includes checking whether a documented figure is physically plausible.
 
@@ -309,7 +309,7 @@ Documentation states a maximum request payload of 2 MB. A developer asks how man
 
 **Correct answer: B**
 
-**Explanation:** 2 MB is roughly 2,000 KB, and 2,000 ÷ 4 = 500 records — so the arithmetic gives A and the useful answer is B. The caveat is what makes it good documentation: the limit applies to the whole encoded request, which includes headers, JSON structural characters, field names repeated per record and any encoding expansion, so a client designed to send exactly 500 will intermittently exceed the limit as record sizes vary. Advising against designing for the maximum is the kind of practical guidance that distinguishes documentation written by somebody who has integrated with an API from documentation written by somebody transcribing a specification.
+**Explanation:** 2 MB is roughly 2,000 KB, and 2,000 ÷ 4 = 500 records — so the arithmetic gives A and the useful answer is B. The caveat is what makes it good documentation: the limit applies to the whole encoded request, which includes headers, JSON structural characters, field names repeated per record, and any encoding expansion, so a client designed to send exactly 500 will intermittently exceed the limit as record sizes vary. Advising against designing for the maximum is the kind of practical guidance that distinguishes documentation written by somebody who has integrated with an API from documentation written by somebody transcribing a specification.
 
 **Question 5 (moderate) — Comparing documentation versions**
 
@@ -443,7 +443,7 @@ A draft states: "The endpoint returns up to 1,000 results per page, with a maxim
 
 A verbal reasoning assessment measures how accurately you read. For your discipline it is close to the job itself: you spend your working life reading specifications, RFCs, engineering tickets, code comments and API contracts, and turning them into something a reader can act on. Getting that wrong in either direction is serious — understate a constraint and integrators build something that breaks; overstate one and they build defensively around a limit that does not exist.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your professional knowledge must be set aside, and this is harder for you than for most: you know how these systems usually work, and the temptation to supply the behaviour you would expect rather than the one described is exactly what produces documentation asserting things the specification never said.
 
@@ -468,25 +468,25 @@ The verbal skills tested map onto your named skills:
 
 "Clients must include an Authorization header on all requests to protected endpoints. Clients may include an Idempotency-Key header on POST requests; where present, the server will return the original response for any repeated request with the same key within 24 hours. Servers must reject requests exceeding 2 MB with a 413 response. Clients should implement exponential backoff on 429 responses."
 
-**Question 1 (easy)** — Statement: "Clients must include an Idempotency-Key header on POST requests." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Clients must include an Idempotency-Key header on POST requests." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says clients *may* include the header — it is optional. The statement's "must" contradicts that, so False. In specification prose "may", "should" and "must" are terms of art with defined force, and this passage uses all three deliberately: the Authorization header is mandatory, idempotency keys are optional, and backoff is recommended. A technical writer who flattens those into a single register produces documentation that either over-constrains integrators or under-warns them, and both cost trust. Reading them exactly is the foundational skill of the discipline.
 
-**Question 2 (easy)** — Statement: "A repeated POST with the same Idempotency-Key after 30 hours will return the original response." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "A repeated POST with the same Idempotency-Key after 30 hours will return the original response." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage guarantees the original response for repeats *within 24 hours*. Thirty hours falls outside that window, so the guarantee does not apply and the statement is contradicted. False. Note what the passage does not say: it does not state what happens after 24 hours, so the request might be processed as new, might be rejected, or might behave in some other way. That is worth registering because it is exactly the sort of thing you would need to establish before documenting, and the honest draft says the guarantee holds for 24 hours rather than inventing the behaviour beyond it.
 
-**Question 3 (moderate)** — Statement: "A client that does not implement exponential backoff is non-compliant." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A client that does not implement exponential backoff is non-compliant." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says clients *should* implement exponential backoff. In specification usage "should" indicates a strong recommendation that may be departed from for good reason, not a requirement — so a client without it is not compliant with the recommendation and is not non-compliant with the specification. The statement asserts non-compliance, which the passage does not support, so False. This distinction is one integrators care about, because "should" tells them the behaviour is expected and they will not be rejected for omitting it, while "must" tells them their client will break. Documentation that renders both as "you need to" removes information the reader needs.
 
-**Question 4 (harder)** — Statement: "A 1.9 MB request will be accepted." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A 1.9 MB request will be accepted." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -496,25 +496,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the developer portal found that teams publishing reference documentation alongside code releases reported fewer integration support tickets than teams publishing separately. The review notes that the teams publishing alongside releases were also those with dedicated technical writers. The review did not assess documentation accuracy. It recommends that the portal team consider whether alongside-release publishing should be standard."
 
-**Question 5 (easy)** — Statement: "Teams publishing documentation alongside releases reported fewer integration tickets." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Teams publishing documentation alongside releases reported fewer integration tickets." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the passage's careful "reported fewer" rather than "had fewer", and the statement respects it. Answer quickly and bank the time for harder items.
 
-**Question 6 (moderate)** — Statement: "Publishing alongside releases reduces support tickets." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Publishing alongside releases reduces support tickets." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then flags that the same teams had dedicated technical writers — which is a substantial confound, since a team with a dedicated writer would be expected to produce better documentation regardless of when it publishes. So the fall in tickets may be attributable to the writer, the timing, both, or something else the review did not name. Cannot Say. This is the trap for someone in your position, because "publishing alongside releases reduces tickets" is a claim you would like to be true and would cite when arguing for the practice. The stronger argument is available and honest: documentation published after a release is documentation integrators did not have when they needed it, which is a reason on its own without needing the ticket data to carry it.
 
-**Question 7 (moderate)** — Statement: "The documentation produced alongside releases was more accurate." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The documentation produced alongside releases was more accurate." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the review did not assess accuracy. Declared silence establishes nothing, so Cannot Say. The distinction matters in your field more than in most: documentation published under release pressure could plausibly be *less* accurate while generating fewer tickets, if it arrives in time to prevent the confused questions that a later and better document would have answered. Fewer tickets and better documentation are different things, and a review that measured one and not the other has told you about one.
 
-**Question 8 (harder)** — Statement: "The review recommends making alongside-release publishing standard." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends making alongside-release publishing standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -524,19 +524,19 @@ The verbal skills tested map onto your named skills:
 
 "Documentation for a public API must state the endpoint, method, required and optional parameters with types, the response schema, and all error codes the endpoint can return. Where an endpoint is deprecated, the documentation must state the deprecation date and the recommended alternative. Code samples must be executable as written against the documented version. Documentation must be reviewed whenever the endpoint changes, and at least annually."
 
-**Question 9 (easy)** — Statement: "Documentation must list all error codes an endpoint can return." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Documentation must list all error codes an endpoint can return." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence requires all error codes the endpoint can return. The statement restates that, so True. Answer quickly. It is worth noting why the requirement is stated so strongly: an undocumented error code is one an integrator cannot handle, and the failure mode is a client that works in testing and falls over in production when an unanticipated response arrives. This is among the most commonly incomplete sections of API documentation, usually because the writer documents the errors they encountered rather than the ones the endpoint can produce.
 
-**Question 10 (moderate)** — Statement: "A code sample that works against the current version but not the documented version satisfies the requirement." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A code sample that works against the current version but not the documented version satisfies the requirement." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement is that samples are executable as written *against the documented version*. A sample working only against a different version fails that, so the statement is contradicted. False. The scenario is realistic and worth recognising: documentation for version 2 gets updated with samples tested against version 3 because that is what the writer had running locally, and every integrator still on version 2 — which is the audience for that documentation — finds the sample fails. The requirement names the documented version specifically because this is the error it exists to prevent.
 
-**Question 11 (harder)** — Statement: "Documentation reviewed eleven months ago, with no endpoint changes since, is compliant." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "Documentation reviewed eleven months ago, with no endpoint changes since, is compliant." True, False, or Cannot Say?
 
 **Correct answer: True**
 

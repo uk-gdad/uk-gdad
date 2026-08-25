@@ -68,7 +68,7 @@ Two things about the scale:
 - It describes **what you do at work today**, not the remit on your job
   description.
 - **A 4 is a claim about other people** — that someone else's practice changed
-  because of you and would stay changed if you moved on. At senior, one or two
+  because of you and would stay changed if you moved on. At senior, one, or two
   are reasonable and nine would not be believable.
 
 A filled-in answer looks like this:

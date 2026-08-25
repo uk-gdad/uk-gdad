@@ -424,11 +424,11 @@ law correctly.
 **Q31.** Which of these have you had training or a briefing on? Tick any that apply.
 
 - [ ] The accessibility regulations for public sector websites and apps
-- [ ] The Web Content Accessibility Guidelines, especially colour contrast, text and target
+- [ ] The Web Content Accessibility Guidelines, especially colour contrast, text, and target
       sizes
 - [ ] The Equality Act 2010 and the public sector equality duty
 - [ ] Your organisation's brand and design standards
-- [ ] Image licensing, font licensing and copyright
+- [ ] Image licensing, font licensing, and copyright
 - [ ] Data protection, where designs include real data or examples
 - [ ] The GOV.UK Service Standard and service assessments
 - [ ] None of these

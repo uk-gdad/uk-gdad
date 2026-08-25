@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd): Covers replacing manual release processes with automation, key CI features, branch workflows and CI tooling. Directly relevant to owning code deployment.
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd): Covers replacing manual release processes with automation, key CI features, branch workflows, and CI tooling. Directly relevant to owning code deployment.
 
 - [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Operating reliable systems at scale, combining automation, monitoring, incident response and reliability measurement.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, change control, incident, IT asset, monitoring, event and problem management in one pass.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, change control, incident, IT asset, monitoring, event, and problem management in one pass.
 
 - [Courses for SQL Database Administration](https://www.skillsoft.com/channel/sql-database-administration-d3de6ea0-e197-11e6-91a7-0242c0a80704): Covers backup strategy, auditing, data protection and administration at beginner through expert level, matching the routine database configuration work at this level.
 
@@ -54,9 +54,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Fault tolerance through replication, transactions and isolation, plus performance and networking. The material behind most complex production failures.
 
-- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Query optimisation, transactions and schema design, which is what performance forecasting and tuning actually require.
+- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Query optimisation, transactions, and schema design, which is what performance forecasting and tuning actually require.
 
-- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Abstractions and implementation techniques for distributed systems, including naming, storage and fault tolerance.
+- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Abstractions and implementation techniques for distributed systems, including naming, storage, and fault tolerance.
 
 ## Blog posts
 
@@ -68,23 +68,23 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Operate a reliable service, GOV.UK Service Standard point 14](https://www.gov.uk/service-manual/service-standard/point-14-operate-a-reliable-service): The reliability expectation your change and release work has to satisfy.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [IT Change Management: ITIL Framework and Best Practices, Atlassian](https://www.atlassian.com/itsm/change-management): How to reduce incidents from change while keeping the process agile.
 
-- [The Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook): An openly published handbook covering roles, severity, communication and review.
+- [The Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook): An openly published handbook covering roles, severity, communication, and review.
 
 - [A day in the life of a GDS Site Reliability Engineer](https://gds.blog.gov.uk/2022/06/10/a-day-in-the-life-of-a-gds-site-reliability-engineer-sre/): Describes building tooling and pipelines that let developers change services rapidly and safely.
 
 - [What Is Root Cause Analysis? The Complete RCA Guide, Splunk](https://www.splunk.com/en_us/blog/learn/root-cause-analysis.html): RCA as a structured, data-driven process, covering several techniques including Pareto analysis and Six Sigma methods.
 
-- [Atlassian Asset and Service Configuration Management Handbook](https://www.atlassian.com/whitepapers/it-asset-and-service-configuration-management-in-jira-service-management): Dependency visibility between applications, services and infrastructure, which is what change impact assessment depends on.
+- [Atlassian Asset and Service Configuration Management Handbook](https://www.atlassian.com/whitepapers/it-asset-and-service-configuration-management-in-jira-service-management): Dependency visibility between applications, services, and infrastructure, which is what change impact assessment depends on.
 
 ## Research articles
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): A structured review of RCA techniques across metrics, traces, logs and multi-model data in microservice systems.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): A structured review of RCA techniques across metrics, traces, logs, and multi-model data in microservice systems.
 
-- [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): Identifies 14 challenges and 17 enablers in RCA, including expertise gaps, bias and poor data quality.
+- [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): Identifies 14 challenges and 17 enablers in RCA, including expertise gaps, bias, and poor data quality.
 
 - [A Survey of Time Series Anomaly Detection Methods in the AIOps Domain](https://arxiv.org/abs/2308.00393): The detection methods underneath modern alerting, and their failure modes.
 
@@ -114,7 +114,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Postmortem Culture at Google](https://www.youtube.com/watch?v=qgHWzQ2zcqQ): Running blameless postmortems in an organisation where they carry real weight.
 
-- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces and incident timelines.
+- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces, and incident timelines.
 
 - [Full-stack Observability](https://www.youtube.com/watch?v=toS5rvET7hg): Observability across the stack, at the level of depth a senior engineer needs.
 
@@ -130,19 +130,19 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns and antipatterns, written from real production failures. The single most useful book for taking services live.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. How to put SRE practices in place in an existing organisation.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. How to put SRE practices in place in an existing organisation.
 
-- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Distributed service operations with case studies from large operators.
+- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Distributed service operations with case studies from large operators.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Debugging unfamiliar failures rather than only watching known ones.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Debugging unfamiliar failures rather than only watching known ones.
 
 - [Implementing ITIL Change and Release Management](https://www.amazon.com/Implementing-ITIL-Change-Release-Management/dp/0138150419): By Larry Klosterboer. Implementation-level guidance on the processes you co-ordinate.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. The research linking deployment practice to delivery and stability outcomes, which is useful evidence in change conversations.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. The research linking deployment practice to delivery and stability outcomes, which is useful evidence in change conversations.
 
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869): By Casey Rosenthal and Nora Jones. Deliberately testing resilience rather than waiting to discover it.
 
-- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Designing, deploying, monitoring and sustaining enterprise systems at scale.
+- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Designing, deploying, monitoring, and sustaining enterprise systems at scale.
 
 - [Root Cause Analysis: The Core of Problem Solving and Corrective Action](https://www.amazon.com/Root-Cause-Analysis-Problem-Corrective-ebook/dp/B0BQJQQZ8C): By Duke Okes. A disciplined method for the trend and pattern investigation expected at this level.
 

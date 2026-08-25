@@ -22,9 +22,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [DevOps Pro: Linux, Docker, Kubernetes, CI/CD and IaC](https://www.coursera.org/specializations/devops-linux-docker-kubernetes-ci-cd-iac): Five courses from Linux administration through to provisioning cloud infrastructure with code, with labs that simulate production.
 
-- [Infrastructure Automation with Terraform](https://www.coursera.org/learn/infrastructure-automation-with-terraform): Automating infrastructure with Terraform across AWS, GCP and Azure.
+- [Infrastructure Automation with Terraform](https://www.coursera.org/learn/infrastructure-automation-with-terraform): Automating infrastructure with Terraform across AWS, GCP, and Azure.
 
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Python, Git and configuration management for automating administration. The most direct route to the coding and scripting skill at this level.
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Python, Git, and configuration management for automating administration. The most direct route to the coding and scripting skill at this level.
 
 ## Udemy courses
 
@@ -38,7 +38,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Courses for Infrastructure Support Engineer to CloudOps Engineer](https://www.skillsoft.com/journey/infrastructure-support-engineer-to-cloudops-engineer-ad448a45-f6fb-483d-8052-639db011e8e4): A journey aimed at exactly this transition, including hybrid deployment with AWS Outposts and Azure Arc.
 
-- [CompTIA Security+: Architecture and Infrastructure Concepts](https://www.skillsoft.com/course/comptia-security-architecture-infrastructure-concepts-d0eaa404-cd35-4ebf-a136-757b9966024a): High availability, resilience, the cloud responsibility matrix, infrastructure as code, containers and network design.
+- [CompTIA Security+: Architecture and Infrastructure Concepts](https://www.skillsoft.com/course/comptia-security-architecture-infrastructure-concepts-d0eaa404-cd35-4ebf-a136-757b9966024a): High availability, resilience, the cloud responsibility matrix, infrastructure as code, containers, and network design.
 
 - [SecOps Engineer: System Infrastructure Security](https://www.skillsoft.com/course/secops-engineer-system-infrastructure-security-e98ce80a-7e50-4eef-bfe7-28cf3a653e0e): Applying security controls to infrastructure specifically, which is the skill described at this role level.
 
@@ -46,7 +46,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Introduction to Kubernetes and Cloud Native Technologies Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-kubernetes-and-cloud-native-technologies): Linux administration, IaaS, PaaS and CaaS, containers and images, software-defined networking and storage.
 
-- [Introduction to Containers, Kubernetes and OpenShift (IBM)](https://www.edx.org/course/introduction-to-containers-kubernetes-and-openshift): Containers and the surrounding ecosystem including Docker, Kubernetes, OpenShift and Istio.
+- [Introduction to Containers, Kubernetes and OpenShift (IBM)](https://www.edx.org/course/introduction-to-containers-kubernetes-and-openshift): Containers and the surrounding ecosystem including Docker, Kubernetes, OpenShift, and Istio.
 
 - [Continuous Integration and Delivery (CI/CD) (IBM)](https://www.edx.org/learn/continuous-integration/ibm-continuous-integration-and-delivery-ci-cd): Pipelines with hands-on labs, which is how infrastructure changes should reach production.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, naming, networks, performance, fault tolerance and security, which is the conceptual base for systems design.
 
-- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Server design, network programming, naming, storage systems, security and fault tolerance.
+- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Server design, network programming, naming, storage systems, security, and fault tolerance.
 
 - [6.858 Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/): Threat models, real attacks and the techniques that defend against them, drawn from research papers.
 
@@ -86,11 +86,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Infrastructure as code: A paradigm shift in cloud resource management and deployment automation](https://www.researchgate.net/publication/391453229_Infrastructure_as_code_A_paradigm_shifts_in_cloud_resource_management_and_deployment_automation): Empirical outcomes including provisioning time and incident resolution improvements.
 
-- [Leveraging Infrastructure-as-Code Automation to Establish Standardized, Reliable, and Reproducible Cloud Infrastructure](https://zenodo.org/records/19452393): Addresses configuration drift, deployment variability and traceability, which are the real problems IaC is for.
+- [Leveraging Infrastructure-as-Code Automation to Establish Standardized, Reliable, and Reproducible Cloud Infrastructure](https://zenodo.org/records/19452393): Addresses configuration drift, deployment variability, and traceability, which are the real problems IaC is for.
 
 - [Strategies and Challenges in Cloud-to-Cloud Migration Using Infrastructure as Code](https://link.springer.com/chapter/10.1007/978-3-031-78392-0_1): A migration case study with honest treatment of the obstacles.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs, and multi-model data.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): The challenges and enablers of root cause analysis, including data quality and bias.
 
@@ -122,11 +122,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Postmortem Culture at Google](https://www.youtube.com/watch?v=qgHWzQ2zcqQ): Blameless review, which is where troubleshooting turns into prevention.
 
-- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Conference talks on Kubernetes, Terraform, IaC and GitOps from practitioners.
+- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Conference talks on Kubernetes, Terraform, IaC, and GitOps from practitioners.
 
 ## Books on Amazon
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Distributed and cloud service operations, with case studies from large operators.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Distributed and cloud service operations, with case studies from large operators.
 
 - [Infrastructure as Code: Designing and Delivering Dynamic Systems for the Cloud Age](https://www.amazon.com/Infrastructure-Code-Designing-Delivering-Dynamic/dp/109815035X): By Kief Morris. The principles and patterns, independent of any one tool.
 
@@ -136,13 +136,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns, and what production-ready actually means.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Debugging failures nobody anticipated.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Debugging failures nobody anticipated.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Humble and Farley. The deployment pipeline, which infrastructure changes should also travel through.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The enterprise reference, particularly good on standards and third-party working.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The enterprise reference, particularly good on standards and third-party working.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical SRE including toil reduction and capacity work.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical SRE including toil reduction and capacity work.
 
 - [Terraform Cookbook: Provision, run, and scale cloud architecture](https://www.amazon.com/Terraform-Cookbook-Provision-architecture-real-world/dp/1804616427): By Mikael Krief. Recipe-style solutions for real provisioning problems.
 

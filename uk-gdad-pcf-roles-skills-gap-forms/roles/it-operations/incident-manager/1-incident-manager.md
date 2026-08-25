@@ -14,7 +14,7 @@ troubleshooting and diagnosing or escalating faults to major incident managers a
 and coach apprentices and share knowledge with colleagues. The framework also notes that in some
 departments your responsibilities may mirror those of an end user computing engineer.
 
-That is an unusually mixed job description — hands-on hardware work, incident oversight and coaching in
+That is an unusually mixed job description — hands-on hardware work, incident oversight, and coaching in
 the same paragraph. Which of those dominates depends entirely on where you work, which makes the first
 section of this form more useful than usual.
 

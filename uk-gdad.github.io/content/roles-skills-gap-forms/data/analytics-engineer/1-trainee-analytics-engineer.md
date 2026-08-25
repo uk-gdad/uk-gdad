@@ -19,7 +19,7 @@ done that yet" is the expected answer to a lot of what follows, and writing it
 down is exactly what this form is for.
 
 Nothing here is scored, marked or ranked. There are no right answers. Seven
-skills, each with a plain explanation, a rating and a couple of questions. Take
+skills, each with a plain explanation, a rating, and a couple of questions. Take
 about 25 minutes, and stop and come back if you want to.
 
 ## Advisory

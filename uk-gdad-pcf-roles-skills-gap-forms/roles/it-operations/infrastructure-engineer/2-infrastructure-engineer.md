@@ -94,9 +94,9 @@ At this level you:
 4. Lead infrastructure engineer
 5. Principal infrastructure engineer
 
-Your next step is senior infrastructure engineer: building, administering, supporting and maintaining
+Your next step is senior infrastructure engineer: building, administering, supporting, and maintaining
 solutions, working with technical architects to translate architectural designs into operations, and
-providing input into workforce, budget and technology roadmaps.
+providing input into workforce, budget, and technology roadmaps.
 
 **Two things worth knowing about this role.**
 
@@ -340,7 +340,7 @@ work.**
 
 **New at your level** — the associate below does not have it.
 
-**What that looks like here.** Turning scattered requirements, constraints and opinions into something
+**What that looks like here.** Turning scattered requirements, constraints, and opinions into something
 consistent that other people can follow: a build standard, a runbook, a naming convention that survives
 contact with reality.
 
@@ -521,7 +521,7 @@ These questions ask about awareness, training and support, not about whether you
 **Q37.** Which of these have you had training or a briefing on? Tick any that apply.
 
 - [ ] Data protection — the UK General Data Protection Regulation and the Data Protection Act 2018
-- [ ] Data minimisation, retention and secure deletion
+- [ ] Data minimisation, retention, and secure deletion
 - [ ] Information security, and how information is classified and handled
 - [ ] Where data is allowed to be stored, including any restrictions on location
 - [ ] Managing privileged access, and the principle of least privilege

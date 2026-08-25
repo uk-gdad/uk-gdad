@@ -12,7 +12,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — evidence auditing at a distance, cross-programme synthesis, strategic prioritisation, diagnosis of systemic problems, and reasoning about organisational mechanisms.
 2. A numeric reasoning assessment — weighted aggregation, funnel and cohort data, sampling adequacy, vendor and business case claims, and the interrogation of figures already embedded in board-level decisions.
-3. A verbal reasoning assessment — governance frameworks, audit reports, ministerial correspondence and cross-government standards, with items pitched at real ambiguity.
+3. A verbal reasoning assessment — governance frameworks, audit reports, ministerial correspondence, and cross-government standards, with items pitched at real ambiguity.
 4. A situational judgement assessment — ethics and safeguarding at organisational scale, assurance across boundaries, talent and capability, and the defence of evidence at senior and cross-government levels.
 
 Each section provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
@@ -31,7 +31,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At head-of-profession level the materials are organisational and the reasoning is almost entirely diagnostic and strategic. You will meet evidence assembled by other people for other purposes, standards applied unevenly across an organisation, findings that appear to conflict until you establish what each measured, and prioritisation problems where the units are programmes and capabilities rather than tasks.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and most employers receive an acuity report distinguishing speed from accuracy, which rewards precision over pace.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and most employers receive an acuity report distinguishing speed from accuracy, which rewards precision over pace.
 
 Three things characterise this section at your level.
 
@@ -39,7 +39,7 @@ The first is reasoning at a distance. You almost never see raw data. You see a r
 
 The second is that the interesting questions are usually about mechanisms rather than instances. When something goes wrong repeatedly, the informative feature is the distribution of the failures. Concentrated in one team, under one condition, among experienced people? That is a process telling you it cannot be complied with. Scattered randomly? That is something else entirely. Reading distributions diagnostically is what separates organisational leadership from very senior practice.
 
-The third is that prioritisation is genuinely hard because nothing dominates. Programmes differ in time horizon, reversibility, population affected and political weight, and there is no formula. The discriminating factor is whether you reason from value of information — how much does a decision change as a result of what research says, and is there still time — rather than from importance, urgency or visibility.
+The third is that prioritisation is genuinely hard because nothing dominates. Programmes differ in time horizon, reversibility, population affected and political weight, and there is no formula. The discriminating factor is whether you reason from value of information — how much does a decision change as a result of what research says, and is there still time — rather than from importance, urgency, or visibility.
 
 You need to memorise nothing. What you need is the discipline not to let fluency substitute for examination.
 
@@ -247,7 +247,7 @@ Reviewing a year of outputs, you find that studies from two teams are consistent
 
 A numeric reasoning assessment measures how accurately you handle quantitative material. At your level the emphasis is almost wholly on interrogation. You will need to compute correctly, but the questions that matter ask whether a figure means what somebody claims — and in most rooms you enter, you are the only person who will ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
 
 The professional stake is large. Quantitative evidence carries unearned authority: a number in a board paper is a fact, a qualitative finding is a view, regardless of the rigour behind either. The figures you encounter are increasingly consequential and increasingly detached from anyone who could explain them — business cases, vendor claims, benefits realisation figures, performance metrics that have been copied between documents for two years without anyone re-checking the definition. Being the person who asks what the denominator is, which population it represents and how the metric is defined is a substantial part of what your role contributes. Influencing senior stakeholders very often reduces to precisely that question, asked calmly, while a decision is moving.
 
@@ -324,7 +324,7 @@ Thirteen sessions produced task times in minutes: 5, 6, 7, 8, 8, 9, 10, 11, 12, 
 
 **Correct answer: B**
 
-**Explanation:** The mean of about 16.1 exceeds eleven of the thirteen observations, so it represents almost nobody. The median is the seventh value, which is 10, and that describes the group well. But the median alone conceals a session lasting more than eight times the typical duration, and that session is very likely the most informative observation in the set — something went badly wrong for that person, and finding out what is the point of the research. Option B supplies centre, spread and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to enforce organisationally: a central figure never travels alone, and an outlier is a lead, not noise.
+**Explanation:** The mean of about 16.1 exceeds eleven of the thirteen observations, so it represents almost nobody. The median is the seventh value, which is 10, and that describes the group well. But the median alone conceals a session lasting more than eight times the typical duration, and that session is very likely the most informative observation in the set — something went badly wrong for that person, and finding out what is the point of the research. Option B supplies centre, spread, and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to enforce organisationally: a central figure never travels alone, and an outlier is a lead, not noise.
 
 **Question 5 (moderate) — Weighted aggregation**
 
@@ -337,7 +337,7 @@ Four studies: 15 participants at 40% completion; 25 at 60%; 10 at 70%; 30 at 80%
 
 **Correct answer: B**
 
-**Explanation:** Convert each rate to counts before combining. Study 1: 40% of 15 = 6 completions. Study 2: 60% of 25 = 15. Study 3: 70% of 10 = 7. Study 4: 80% of 30 = 24. Total completions 6 + 15 + 7 + 24 = 52, across 80 participants, so 52 ÷ 80 = 0.65, which is 65% and the answer is B. Option A is the unweighted mean of 40, 60, 70 and 80, which is 62.5 and over-weights the two smallest studies at the expense of the 30-participant study that should dominate. Always return to counts. And build in a second habit alongside it, because at your level an aggregation error leaves your hands and travels on your authority: re-check the total before it goes anywhere. A plausible-looking figure attributed to the head of profession is the one nobody downstream will question.
+**Explanation:** Convert each rate to counts before combining. Study 1: 40% of 15 = 6 completions. Study 2: 60% of 25 = 15. Study 3: 70% of 10 = 7. Study 4: 80% of 30 = 24. Total completions 6 + 15 + 7 + 24 = 52, across 80 participants, so 52 ÷ 80 = 0.65, which is 65% and the answer is B. Option A is the unweighted mean of 40, 60, 70, and 80, which is 62.5 and over-weights the two smallest studies at the expense of the 30-participant study that should dominate. Always return to counts. And build in a second habit alongside it, because at your level an aggregation error leaves your hands and travels on your authority: re-check the total before it goes anywhere. A plausible-looking figure attributed to the head of profession is the one nobody downstream will question.
 
 **Question 6 (moderate) — Funnel denominators**
 
@@ -456,9 +456,9 @@ A board paper states: "Research confirms 93% of users can complete the service i
 
 ### About this assessment
 
-A verbal reasoning assessment measures how accurately you read. At your level the documents that matter are governance frameworks, audit reports, cross-government standards, ministerial correspondence, board papers and contracts. A misread exception clause becomes an organisation-wide compliance failure; a misread audit finding becomes advice given confidently to a permanent secretary.
+A verbal reasoning assessment measures how accurately you read. At your level the documents that matter are governance frameworks, audit reports, cross-government standards, ministerial correspondence, board papers, and contracts. A misread exception clause becomes an organisation-wide compliance failure; a misread audit finding becomes advice given confidently to a permanent secretary.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and the part specific to you is this: expertise actively costs you marks here. The more governance prose you have read, the more readily you supply the clause you expect, complete the sentence the way such sentences usually end, and feel entirely confident doing it. Candidates at your level underperform on verbal reasoning at rates that surprise them, and the mechanism is nearly always this one. The counter-habit has to be mechanical: before marking anything True, put your finger on the words.
 
@@ -485,25 +485,25 @@ The verbal skills tested map onto your named skills:
 
 "Organisations must submit an annual research assurance return to the cross-government profession board, unless all research within the organisation has been conducted under a centrally managed programme. Returns must confirm that ethics review was completed where required, and must list any studies where it was not. Where an organisation identifies a study conducted without required ethics review, it must notify the board within ten working days of identifying it, separately from the annual return. Returns are published across government; notifications are not."
 
-**Question 1 (easy)** — Statement: "Every organisation must submit an annual research assurance return." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Every organisation must submit an annual research assurance return." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception: organisations where all research was conducted under a centrally managed programme are exempt. The statement's "every" contradicts that, making it False. This is the most reliable pattern in the section — absolute term in the statement, exception in the passage. Note that the exception says "all research", not "most", which narrows it substantially and supplies Question 3.
 
-**Question 2 (easy)** — Statement: "Notifications of missed ethics review are published across government." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Notifications of missed ethics review are published across government." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final sentence states that returns are published across government and notifications are not. The statement contradicts this, making it False. The item tests whether you read past the point where a sentence appeared to finish its work — the semicolon clause carries the operative distinction, and a reader who registered "returns are published across government" and moved on would generalise it to notifications. Governance prose places qualifications after semicolons with striking regularity, and slowing down there rather than speeding up is a habit worth building deliberately.
 
-**Question 3 (moderate)** — Statement: "An organisation where nineteen of twenty studies ran under a centrally managed programme must submit a return." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "An organisation where nineteen of twenty studies ran under a centrally managed programme must submit a return." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The exemption applies only where *all* research ran under a centrally managed programme. Nineteen of twenty does not satisfy that, so the exemption does not apply and the requirement stands — the statement follows and is True. The item rewards carrying "all" from the first sentence to a scenario several lines later. It also reflects a real and recurring organisational error: partial satisfaction of an exception condition is non-compliance, and organisations routinely assume the reverse on the reasoning that they are substantially covered. Catching that assumption before a return is due, rather than after, is squarely your job.
 
-**Question 4 (moderate)** — Statement: "A study conducted without required ethics review must be notified within ten working days of the study concluding." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A study conducted without required ethics review must be notified within ten working days of the study concluding." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -513,25 +513,25 @@ The verbal skills tested map onto your named skills:
 
 "The cross-government review of research assurance found considerable variation between departments. Five departments operate peer review before publication; the remainder rely on line management sign-off. Departments with peer review reported fewer instances of findings being challenged after publication, although the review did not examine whether those findings were more robust. The review recommends that the profession board consider whether a common assurance approach would be proportionate."
 
-**Question 5 (easy)** — Statement: "Some departments do not operate peer review before publication." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some departments do not operate peer review before publication." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that five departments operate peer review and the remainder rely on line management sign-off, establishing directly that some do not. The statement follows and is True. Answer quickly and bank the time. The only conceivable ambiguity — whether "the remainder" might be empty — is closed off by the passage describing what the remainder does.
 
-**Question 6 (moderate)** — Statement: "Peer review produces more robust findings." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Peer review produces more robust findings." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports fewer post-publication challenges in peer-reviewed departments and then states explicitly that robustness was not examined. Fewer challenges and greater robustness are different things: findings may be challenged less because they are better, or because they are blander, or because peer review sands off the phrasing that invites challenge. The passage flags its own silence, so the answer is Cannot Say. A candidate who still answers True has substituted professional intuition for what the text supports. The intuition may well be right, and it is not evidence — and at your level this is exactly the substitution that produces a cross-government recommendation resting on a finding the review declined to make.
 
-**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The review recommends that the profession board *consider whether* a common approach would be proportionate, which includes the possibility of concluding that it would not be. The statement asserts a recommendation to introduce, which the review did not make, so it is False rather than Cannot Say — the passage tells you what was recommended and it was something else. This distinction pervades review and audit prose, and misreading it produces a familiar sequence: a recommendation to consider becomes a commitment to deliver, the commitment is tracked, and eighteen months later a board is reporting delivery against something nobody ever decided to do.
 
-**Question 8 (harder)** — Statement: "Line management sign-off is a weaker form of assurance than peer review." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Line management sign-off is a weaker form of assurance than peer review." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -541,19 +541,19 @@ The verbal skills tested map onto your named skills:
 
 "Research findings must not be altered to reflect the preferences of stakeholders. Presentation may be adapted to the audience provided the substance is unchanged. Where a researcher is asked to alter findings, the matter must be raised with the head of profession, who is accountable for the integrity of research outputs. Where findings cannot reach decision-makers before a decision is taken, the reason must be recorded; records are reviewed annually by the profession board."
 
-**Question 9 (easy)** — Statement: "Findings may be presented differently to different audiences." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Findings may be presented differently to different audiences." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The second sentence permits adapting presentation to the audience provided substance is unchanged, and the statement claims only that different presentation is permitted. It follows and is True. The statement is weaker than the passage's full provision, omitting the substance condition — but a weaker statement the passage supports is still True. Candidates occasionally mark such statements False for incompleteness, confusing "does not say everything" with "says something wrong".
 
-**Question 10 (moderate)** — Statement: "A researcher asked to alter findings must refuse." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A researcher asked to alter findings must refuse." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage establishes that findings must not be altered to reflect stakeholder preferences, and that a request to alter must be raised with the head of profession. Neither states what the individual researcher must personally do at the moment of the request. A duty to escalate is not a duty to refuse — arguably the escalation route exists so that an individual is not left to refuse alone, which is a substantive protection and, in your role, the protection you are supposed to provide. Since the passage neither imposes nor excludes a duty to refuse, the answer is Cannot Say. The item rewards noticing that "must not be altered" is a rule about outcomes while "must be raised" is a rule about conduct, and that neither entails the other.
 
-**Question 11 (harder)** — Statement: "A decision taken before findings were available breaches the requirements unless the reason is recorded." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A decision taken before findings were available breaches the requirements unless the reason is recorded." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -604,7 +604,7 @@ This section measures whether your judgement matches what the profession conside
 
 Three features distinguish your level.
 
-The first is that almost nothing you do is executed by you. An option that solves a problem through your personal intervention is usually the second-best answer, because it does not survive your absence and does not scale past your calendar. The reliable tell of a strong option at your level is that it changes a mechanism, a standard, a routine or a capability.
+The first is that almost nothing you do is executed by you. An option that solves a problem through your personal intervention is usually the second-best answer, because it does not survive your absence and does not scale past your calendar. The reliable tell of a strong option at your level is that it changes a mechanism, a standard, a routine, or a capability.
 
 The second is that your authority is largely informal. You do not line-manage most of the people whose practice you assure, you cannot compel a directorate, and you influence stakeholders who substantially outrank you. Options that lead with instruction, mandate or escalation tend to score poorly — not because escalation is wrong, but because it is capital you spend rather than a tool you use freely.
 

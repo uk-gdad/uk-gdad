@@ -37,7 +37,7 @@ Why it matters for your role: as a leader of data science you are the person oth
 
 The assessment dimensions map directly onto the GDAD skills for a principal data scientist:
 
-- **Applied maths, statistics and scientific practices**: logical deduction about experimental designs, model outputs and statistical claims; spotting when a conclusion does not follow from the evidence; critiquing analyses at a glance.
+- **Applied maths, statistics and scientific practices**: logical deduction about experimental designs, model outputs, and statistical claims; spotting when a conclusion does not follow from the evidence; critiquing analyses at a glance.
 - **Data engineering**: reasoning about pipeline dependencies, data cleansing sequences, reusable checks, and how failures propagate through architectures spanning cloud and on-premise components.
 - **Programming and build (data science)**: error checking in code review situations, tracing logic through processing steps, evaluating whether an implementation matches a specification, and reasoning about efficiency and optimisation.
 - **Understanding product delivery**: prioritisation under constraints, dependency ordering, defining the minimum viable product, and distinguishing critical-path work from noise.
@@ -496,7 +496,7 @@ Why it matters for your role: a principal data scientist is a professional reade
 
 ### What it measures for your role
 
-- **Data ethics and privacy**: extracting obligations, permissions and prohibitions from policy documents; spotting the difference between what a policy requires and what it merely encourages; constructively challenging proposed policies means first reading them exactly.
+- **Data ethics and privacy**: extracting obligations, permissions, and prohibitions from policy documents; spotting the difference between what a policy requires and what it merely encourages; constructively challenging proposed policies means first reading them exactly.
 - **Applied maths, statistics and scientific practices**: distinguishing correlation language from causal language in analytical reports; identifying what a stated result does and does not support.
 - **Delivering business impact**: reading stakeholder correspondence accurately - what was actually promised, requested, or conceded - and communicating compelling stories without overstating the evidence.
 - **Understanding product delivery**: parsing delivery documentation, requirement statements, and definitions of done; the difference between "the MVP includes" and "the MVP may later include".
@@ -696,7 +696,7 @@ Why it matters for your role: at principal level, judgement *is* the job. You le
 
 - **Data science innovation** and leadership: coaching rather than rescuing, inspiring curiosity, challenging the status quo constructively, and creating opportunities for your team rather than hoarding the interesting work.
 - **Data ethics and privacy**: identifying and addressing ethical and privacy concerns with stakeholders, communicating how ethical issues fit the wider organisational context, and constructively challenging proposed policies.
-- **Delivering business impact**: balancing user needs, organisational objectives and technical purity; communicating compelling, honest stories about analysis; managing what happens when the evidence disappoints the sponsor.
+- **Delivering business impact**: balancing user needs, organisational objectives, and technical purity; communicating compelling, honest stories about analysis; managing what happens when the evidence disappoints the sponsor.
 - **Understanding product delivery**: MVP discipline, prioritisation calls, and working with multidisciplinary specialists when delivery and data science pull in different directions.
 - **Developing data science capability**: handling underperformance, growth, credit, and CPD in the team you manage; building capability across the wider organisation.
 - **Applied maths, statistics and scientific practices** and **Programming and build**: the professional-integrity dimensions - what you do when rigour, standards, or open-source principles collide with expedience.

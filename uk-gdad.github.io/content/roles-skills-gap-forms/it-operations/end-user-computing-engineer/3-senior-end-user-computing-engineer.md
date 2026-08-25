@@ -503,8 +503,8 @@ awareness, training and support, not about whether you can state the law correct
 - [ ] Data protection — the UK General Data Protection Regulation and the Data Protection Act 2018
 - [ ] Information security, and how information is classified and handled
 - [ ] Managing privileged access, and the principle of least privilege
-- [ ] Joiners, movers and leavers processes
-- [ ] Device encryption, disposal and secure wiping
+- [ ] Joiners, movers, and leavers processes
+- [ ] Device encryption, disposal, and secure wiping
 - [ ] The Computer Misuse Act 1990
 - [ ] Your organisation's security incident reporting route
 - [ ] None of these

@@ -703,7 +703,7 @@ conversation. A form that goes into a drawer is worse than no form.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/solution-architect/3-senior-solution-architect.md)
-  — courses, articles, talks and books pitched at senior solution architect.
+  — courses, articles, talks, and books pitched at senior solution architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/solution-architect/3-senior-solution-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/solution-architect/3-senior-solution-architect.md)

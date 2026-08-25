@@ -32,13 +32,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Mastering ITIL Problem Management and Optimization in ITSM](https://www.udemy.com/course/mastering-problem-management-and-optimization-in-itsm/): Investigating patterns and trends, which is how change-caused problems get found rather than absorbed.
 
-- [CMDB Done Right with ServiceNow](https://www.udemy.com/course/cmdb-done-right-with-servicenow/): Planning, designing, running and auditing configuration management, which is what owning the CMDB requires.
+- [CMDB Done Right with ServiceNow](https://www.udemy.com/course/cmdb-done-right-with-servicenow/): Planning, designing, running, and auditing configuration management, which is what owning the CMDB requires.
 
 ## Skillsoft courses
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): The practices you are accountable for, including change control, availability, capacity and asset management.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): The practices you are accountable for, including change control, availability, capacity, and asset management.
 
-- [Service Desk, IT Asset, Service Configuration, and Change Control Management: ITIL](https://www.skillsoft.com/course/service-desk-it-asset-service-configuration-and-change-control-management-2292f3ad-2832-42ed-b23a-014758fa6da3): The asset, configuration and change control practices treated together.
+- [Service Desk, IT Asset, Service Configuration, and Change Control Management: ITIL](https://www.skillsoft.com/course/service-desk-it-asset-service-configuration-and-change-control-management-2292f3ad-2832-42ed-b23a-014758fa6da3): The asset, configuration, and change control practices treated together.
 
 - [Business Continuity Programs](https://www.skillsoft.com/course/business-continuity-programs-e45de5fa-63d1-40d2-8897-4bc581034c3f): Continuity planning for adverse events, supporting the continuity principles you need to be able to explain and apply.
 
@@ -126,13 +126,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. The research on change failure rate, lead time and approval processes. The most important book for this role.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. The research on change failure rate, lead time, and approval processes. The most important book for this role.
 
 - [Implementing ITIL Change and Release Management](https://www.amazon.com/Implementing-ITIL-Change-Release-Management/dp/0138150419): By Larry Klosterboer. Implementation detail for the processes you own and improve.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Humble and Farley. The deployment pipeline and the governance model that goes with it.
 
-- [Implementing ITIL Configuration Management](https://www.amazon.com/Implementing-ITIL-Configuration-Management-Press-ebook/dp/B0054KOLB0): By Larry Klosterboer. Planning, deploying and administering configuration management for an organisation.
+- [Implementing ITIL Configuration Management](https://www.amazon.com/Implementing-ITIL-Configuration-Management-Press-ebook/dp/B0054KOLB0): By Larry Klosterboer. Planning, deploying, and administering configuration management for an organisation.
 
 - [The CMDB Imperative: How to Realize the Dream and Avoid the Nightmares](https://www.amazon.com/CMDB-Imperative-Realize-Dream-Nightmares/dp/0137008376): By O'Donnell and Casanova. The failure modes of configuration management programmes, which is what you are trying to avoid.
 
@@ -140,11 +140,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team interaction modes, which explains why some change queues never clear.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical SRE, including error budget policy as a change governance mechanism.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical SRE, including error budget policy as a change governance mechanism.
 
 - [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Aiello and Sachs. The six pillars of configuration management, integrated with ITIL.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Change queues, work in progress and constraint theory, told as a story you can lend to a stakeholder.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Change queues, work in progress and constraint theory, told as a story you can lend to a stakeholder.
 
 ## Professional development tips
 

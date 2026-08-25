@@ -38,7 +38,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Software Quality Assurance](https://www.skillsoft.com/course/software-quality-assurance-63cc19d0-f9e0-4809-b96a-ca14fab12298): Grounding in quality assurance, which is the discipline behind validation and testing.
 
-- [CompTIA Security+: Architecture and Infrastructure Concepts](https://www.skillsoft.com/course/comptia-security-architecture-infrastructure-concepts-d0eaa404-cd35-4ebf-a136-757b9966024a): High availability, resilience, cloud responsibility, infrastructure as code and containers. Useful for checking security criteria credibly.
+- [CompTIA Security+: Architecture and Infrastructure Concepts](https://www.skillsoft.com/course/comptia-security-architecture-infrastructure-concepts-d0eaa404-cd35-4ebf-a136-757b9966024a): High availability, resilience, cloud responsibility, infrastructure as code, and containers. Useful for checking security criteria credibly.
 
 - [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity, change control, incident, asset, monitoring and problem management.
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Cyber Incident Response and Investigation (IBM)](https://www.edx.org/learn/cybersecurity/ibm-cyber-incident-response-and-investigation): Defensive tactics, access controls and monitoring, supporting the security criteria you check.
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, pipelines and observability, which is the environment you are accepting into.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, pipelines, and observability, which is the environment you are accepting into.
 
 ## MIT OpenCourseWare courses
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.858 Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/): Threat models, real attacks and the techniques that defend against them, which is what security criteria should reflect.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, networks, performance and fault tolerance, which is what your non-functional testing is probing.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, networks, performance, and fault tolerance, which is what your non-functional testing is probing.
 
 ## Blog posts
 
@@ -64,7 +64,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [How to Prove Go-Live Readiness in CAB, ITIL 4 Guide](https://itiligence.co.uk/how-to-prove-go-live-readiness-in-cab-in-under-10-minutes/): Presenting evidence-based readiness confidence concisely, which is what escalation to a board needs.
 
-- [Service Transition Readiness: What "Ready" Actually Means, ITIL 4](https://itiligence.co.uk/service-transition-readiness-basics/): Validation results reviewed, back-out plans in place, support teams briefed and operational acceptance signed off.
+- [Service Transition Readiness: What "Ready" Actually Means, ITIL 4](https://itiligence.co.uk/service-transition-readiness-basics/): Validation results reviewed, back-out plans in place, support teams briefed, and operational acceptance signed off.
 
 - [ITIL Service Validation and Testing, Purple Griffon](https://www.purplegriffon.com/blog/itil-service-validation-and-testing): Validation and testing as an ITIL practice, and how acceptance criteria are used.
 
@@ -132,15 +132,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementing ITIL Change and Release Management](https://www.amazon.com/Implementing-ITIL-Change-Release-Management/dp/0138150419): By Larry Klosterboer. The processes your readiness work sits inside.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What a service must expose to be supportable in production.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What a service must expose to be supportable in production.
 
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869): By Rosenthal and Jones. Testing resilience deliberately, which is the mature form of readiness testing.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical SRE, including operational readiness review as a formal step.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical SRE, including operational readiness review as a formal step.
 
-- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Aiello and Sachs. Environment configuration, change control and release engineering together.
+- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Aiello and Sachs. Environment configuration, change control, and release engineering together.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence about which practices reduce change failure, which should shape your criteria.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence about which practices reduce change failure, which should shape your criteria.
 
 - [Implementing ITIL Configuration Management](https://www.amazon.com/Implementing-ITIL-Configuration-Management-Press-ebook/dp/B0054KOLB0): By Larry Klosterboer. The configuration data your impact assessment depends on.
 
@@ -150,7 +150,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - Test against the acceptance criteria as written, and say plainly when the criteria themselves are inadequate
 - Check security criteria against the NCSC and Secure by Design principles rather than a supplier's assurance
-- Escalate risks with likelihood, impact and evidence attached, since a bare concern is easy to overrule
+- Escalate risks with likelihood, impact, and evidence attached, since a bare concern is easy to overrule
 - Verify the back-out plan by reading it, and where possible by rehearsing it
 - Confirm that support teams have been briefed and have runbooks, since that is where readiness most often fails
 - Assess change impact from dependency data and be explicit where that data is unreliable

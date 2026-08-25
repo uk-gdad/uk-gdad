@@ -380,7 +380,7 @@ deliberate?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** Writing real software: reviewing specifications, then
-designing, coding, testing and documenting programs of genuine complexity.
+designing, coding, testing, and documenting programs of genuine complexity.
 
 **What the framework expects at this level.** That you collaborate with others
 when necessary to review specifications, and use the agreed specifications to
@@ -828,7 +828,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/development-operations-engineer/8-principal-devops-engineer.md)
-  — courses, articles, talks and books pitched at principal DevOps engineer.
+  — courses, articles, talks, and books pitched at principal DevOps engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/development-operations-engineer/8-principal-devops-engineer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/development-operations-engineer/8-principal-devops-engineer.md)

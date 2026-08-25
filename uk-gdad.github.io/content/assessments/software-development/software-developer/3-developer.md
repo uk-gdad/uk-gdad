@@ -22,9 +22,9 @@ This assessment information is created by AI and is work in progress for educati
 
 ### About this assessment
 
-A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical workplace materials rather than abstract puzzles. Instead of number sequences you will meet bug reports, log extracts, test results, code review situations, deployment decisions and specifications.
+A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical workplace materials rather than abstract puzzles. Instead of number sequences you will meet bug reports, log extracts, test results, code review situations, deployment decisions, and specifications.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, so a test that feels hard is usually one you are doing well on, and acuity reports distinguishing speed from accuracy reward precision.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, so a test that feels hard is usually one you are doing well on, and acuity reports distinguishing speed from accuracy reward precision.
 
 Three things characterise this section for a developer.
 
@@ -231,7 +231,7 @@ A colleague adds a test asserting that a function returns successfully when call
 
 A numeric reasoning assessment measures how accurately you handle the quantitative material your role produces. Developers sometimes assume this section is beneath them because they work with numbers constantly, and that assumption is worth examining: the numbers in this section are not arithmetic problems but operational ones — error rates, latency percentiles, capacity headroom, throughput, storage growth and the figures in a performance report — and the errors people make with them are errors of interpretation rather than calculation.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
 
 Four habits carry the load. Establish what the question asks before looking at the data. Identify the denominator and the population it represents. Estimate, calculate, compare. And sanity-check against the world — which for you means asking whether a figure is physically plausible given what you know about the system.
 
@@ -434,7 +434,7 @@ A report states that a batch job processed 2.4 million records in 90 seconds. Yo
 
 A verbal reasoning assessment measures how accurately you read. Developers sometimes expect this to be the least relevant section and it is arguably the most: you build from specifications, tickets, standards and API contracts, and the gap between what a document says and what you assume it says is where a substantial proportion of defects originate. A misread requirement produces working software that does the wrong thing, which is more expensive than software that does not work, because nobody notices for months.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your knowledge of how systems usually work must be set aside — and this is the specific hazard for a developer, because you know what a sensible system would do, and supplying that rather than what the specification says is exactly how requirements get implemented as the developer imagined them.
 
@@ -459,25 +459,25 @@ The verbal skills tested map onto your named skills:
 
 "Clients must include an Authorization header on all requests to protected endpoints. Clients may include an Idempotency-Key header on POST requests; where present, the server returns the original response for any repeated request with the same key within 24 hours. Servers must reject requests exceeding 2 MB with a 413 response. Clients should implement exponential backoff on 429 responses."
 
-**Question 1 (easy)** — Statement: "Clients must include an Idempotency-Key on POST requests." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Clients must include an Idempotency-Key on POST requests." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says clients *may* include it — optional. The statement's "must" contradicts that, so False. The passage uses three modal terms deliberately, and the distinction is operational rather than pedantic: Authorization is mandatory so a client without it fails, idempotency keys are optional so a client without one works but loses replay protection, and backoff is recommended so a client without it works and behaves badly under load. Implementing all three as mandatory produces unnecessary work; implementing all three as optional produces a client that fails.
 
-**Question 2 (easy)** — Statement: "A repeated POST with the same key after 30 hours returns the original response." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "A repeated POST with the same key after 30 hours returns the original response." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The guarantee applies within 24 hours, and 30 falls outside it, so the statement is contradicted. False. Note what the passage does not establish: what happens after 24 hours is unstated, so the repeat might be processed as a new request, rejected, or something else. If you were implementing a client that retries after a long delay, that is a question you would need answered rather than assumed — and assuming it is safe because it was safe within the window is exactly how duplicate payments happen.
 
-**Question 3 (moderate)** — Statement: "A client that does not implement exponential backoff violates the specification." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A client that does not implement exponential backoff violates the specification." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says clients *should* implement backoff. In specification usage "should" indicates a strong recommendation that may be departed from with good reason, not a requirement — so a client without it departs from a recommendation and does not violate the specification. False. The practical distinction matters: "must" tells you your client will be rejected, while "should" tells you it will work and will hammer a struggling service, which is a reason to implement it and not a compliance question. Reading the two as equivalent removes information you use to prioritise.
 
-**Question 4 (harder)** — Statement: "A 1.9 MB request will be accepted." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A 1.9 MB request will be accepted." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -487,25 +487,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the platform found that teams using the shared deployment pipeline reported fewer failed releases than teams with bespoke pipelines. The review notes that teams on the shared pipeline were generally newer services with simpler architectures. The review did not assess whether failed releases were more severe in either group. It recommends that the platform team consider whether shared pipeline use should be mandatory."
 
-**Question 5 (easy)** — Statement: "Teams using the shared pipeline reported fewer failed releases." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Teams using the shared pipeline reported fewer failed releases." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the passage's "reported fewer" rather than "had fewer", and the statement respects it. Answer quickly and bank the time for harder items.
 
-**Question 6 (moderate)** — Statement: "The shared pipeline reduces failed releases." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The shared pipeline reduces failed releases." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then flags a substantial confound: the shared-pipeline teams were newer services with simpler architectures, which would be expected to have fewer failed releases whatever pipeline they used. So the difference may be attributable to the pipeline, to the simplicity, or to both. Cannot Say. This is the shape of most infrastructure comparisons and it is worth recognising, because the argument for a shared pipeline does not need this finding — reduced duplication and consistent security controls stand on their own — and resting the case on a confounded number invites somebody to dismantle it.
 
-**Question 7 (moderate)** — Statement: "Failed releases on bespoke pipelines were more severe." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Failed releases on bespoke pipelines were more severe." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that severity was not assessed. Declared silence establishes nothing, so Cannot Say. The possibility is worth registering because it could run either way: teams with bespoke pipelines may have more failures that are trivially rolled back, or fewer that are catastrophic, and a count of failures without severity is a metric that could rank two very different situations identically. A review measuring frequency and not severity has told you about frequency.
 
-**Question 8 (harder)** — Statement: "The review recommends making the shared pipeline mandatory." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends making the shared pipeline mandatory." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -515,19 +515,19 @@ The verbal skills tested map onto your named skills:
 
 "All code must be reviewed by at least one other developer before merging to the main branch, unless the change is a documentation-only change. Code containing changes to authentication or authorisation must be reviewed by two developers, at least one of whom is not on the authoring team. All merges to main must pass the automated test suite. Emergency fixes may be merged with a single review provided a second review is completed within one working day."
 
-**Question 9 (easy)** — Statement: "All changes require review before merging to main." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "All changes require review before merging to main." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage exempts documentation-only changes. The statement's "all" contradicts that, so False. The exemption is narrow and worth reading precisely — "documentation-only" means a change touching no code, so a change updating a comment and a variable name is not exempt. That is the kind of distinction people get wrong in the permissive direction under time pressure, and it is why the exemption is drafted with "only" rather than "documentation changes".
 
-**Question 10 (moderate)** — Statement: "An emergency fix merged with one review, with a second review completed three days later, complies." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "An emergency fix merged with one review, with a second review completed three days later, complies." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The emergency provision permits a single review *provided a second review is completed within one working day*. Three days exceeds that, so the condition fails and the merge does not comply. False. Note the structure: the emergency route is not an exemption from two reviews but a deferral of one, which is a different thing — and the practical consequence is that an emergency fix creates an obligation for the following day that is easy to forget once the incident is over, which is exactly when it gets forgotten.
 
-**Question 11 (harder)** — Statement: "An authentication change reviewed by two developers from the authoring team complies." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "An authentication change reviewed by two developers from the authoring team complies." True, False, or Cannot Say?
 
 **Correct answer: False**
 

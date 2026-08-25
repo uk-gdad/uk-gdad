@@ -651,7 +651,7 @@ Three artefacts describe the same journey. The user story: "Users can save a dra
 - **Blurring "reported" with "asserted".** "The supplier states the endpoints are unchanged" is evidence about the supplier's claim, not about the endpoints. Attribution phrases are the most commonly missed signal in hard questions and in real supplier correspondence alike.
 - **Inflating obligations.** "Logged with a target release" is not "will be fixed next release"; "raise as a risk" is not "halt the project". Match the strength of the verb, not the vibe of the sentence.
 - **Confusing False with Cannot say.** False requires contradiction; silence yields Cannot say. Before answering False, point to the clause that actively conflicts with the statement.
-- **Choosing confident-sounding writing over clear writing.** In clear-writing questions, jargon density and assertiveness are distractors; the correct option states facts, bounds, consequence and next step plainly. Apply the same test to your own release-meeting sentences.
+- **Choosing confident-sounding writing over clear writing.** In clear-writing questions, jargon density and assertiveness are distractors; the correct option states facts, bounds, consequence, and next step plainly. Apply the same test to your own release-meeting sentences.
 - **Resolving discrepancies instead of reporting them.** When artefacts conflict, the analytical task is to enumerate the conflicts and route them for decision — options that quietly pick a winner ("the spec is wrong") are penalised in tests and cause rework in projects.
 
 ## Workplace job-specific situational judgement assessment

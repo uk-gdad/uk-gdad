@@ -506,7 +506,7 @@ environments, and would it survive an audit?
 
 *Your answer:*
 
-**Q38.** What governs personal data in defect reports, screenshots and session
+**Q38.** What governs personal data in defect reports, screenshots, and session
 recordings across your teams — a process, or a habit?
 
 *Your answer:*
@@ -643,7 +643,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/test-manager/2-head-of-test.md)
-  — courses, articles, talks and books pitched at head of test.
+  — courses, articles, talks, and books pitched at head of test.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-manager/2-head-of-test.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/quality-assurance-testing/test-manager/2-head-of-test.md)

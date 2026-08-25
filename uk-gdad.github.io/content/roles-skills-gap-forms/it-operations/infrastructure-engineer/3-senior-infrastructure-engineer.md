@@ -13,8 +13,8 @@ At this level you:
 - ensure services are integrated, delivered and operated as required
 - work with and support third parties in providing infrastructure services
 - **work with technical architects to translate architectural designs into operations**
-- **provide input into overall management** — workforce, budget, technology roadmaps, projects and tasks
-- lead and direct infrastructure specialist teams in building, managing, supporting and maintaining solutions
+- **provide input into overall management** — workforce, budget, technology roadmaps, projects, and tasks
+- lead and direct infrastructure specialist teams in building, managing, supporting, and maintaining solutions
   according to departmental policy, **if taking a managerial path**
 
 That last clause matters. This is the level where the role forks, and the framework leaves the choice open

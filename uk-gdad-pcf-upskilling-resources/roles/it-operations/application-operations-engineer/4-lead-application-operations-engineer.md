@@ -30,13 +30,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Mastering ITIL Problem Management and Optimization in ITSM](https://www.udemy.com/course/mastering-problem-management-and-optimization-in-itsm/): Analysing and resolving root causes of recurring incidents, and optimising the practice rather than only operating it.
 
-- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols and resource co-ordination, which is what leading an investigation actually involves.
+- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols, and resource co-ordination, which is what leading an investigation actually involves.
 
 - [Root Cause Analysis: A Leader's Guide to Problem Solving](https://www.udemy.com/course/root-cause-analysis-a-leaders-guide-to-problem-solving/): Root cause analysis and the 8D method, framed for people who have to direct the investigation rather than perform it.
 
 ## Skillsoft courses
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, change control, incident, IT asset, monitoring, event and problem management. Worth revisiting when you own the standards rather than follow them.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, change control, incident, IT asset, monitoring, event, and problem management. Worth revisiting when you own the standards rather than follow them.
 
 - [Service Desk, IT Asset, Service Configuration, and Change Control Management: ITIL](https://www.skillsoft.com/course/service-desk-it-asset-service-configuration-and-change-control-management-2292f3ad-2832-42ed-b23a-014758fa6da3): The asset, configuration and change control practices you are setting policy for.
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Complexity control, modularity, fault tolerance and performance. The conceptual grounding for setting technical standards.
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous process improvement, value stream mapping, root cause analysis and improvement planning.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous process improvement, value stream mapping, root cause analysis, and improvement planning.
 
 ## Blog posts
 
@@ -66,7 +66,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Release Engineering, Google SRE Book chapter 8](https://sre.google/sre-book/table-of-contents/): Release as a discipline with its own standards, which is the argument you will need to make.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [The Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook): Roles, severity definitions, communication and review, published openly and worth borrowing from.
 
@@ -132,11 +132,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Matthew Skelton and Manuel Pais. Team structure and cognitive load, which determines whether your standards survive contact with delivery.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. The research linking practices to outcomes, which is the strongest evidence available for a strategy argument.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. The research linking practices to outcomes, which is the strongest evidence available for a strategy argument.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns, and a source of concrete standards for what production-ready means.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. How to introduce SRE practice into an organisation that does not have it.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. How to introduce SRE practice into an organisation that does not have it.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Jez Humble and David Farley. The deployment pipeline and the governance around it.
 

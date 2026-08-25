@@ -17,7 +17,7 @@ requirements. At this level you:
 - manage provision of expertise to programmes and projects
 - manage the development of architectural solutions for IT operations, throughout the service life cycle
 
-People, suppliers and obligations. The technical skills are still there, but the level description is about
+People, suppliers, and obligations. The technical skills are still there, but the level description is about
 what you are answerable for rather than what you build.
 
 Twelve skills. Expect about 35 minutes.

@@ -356,7 +356,7 @@ A service runs 6 instances at £0.48 per instance-hour, all month (730 hours). M
 
 **Question 8 (moderate) — Choosing the right average for recovery time**
 
-Your last five service faults took 20, 35, 40, 45 and 210 minutes to restore. The 210-minute fault involved waiting for a third-party supplier. Which statement best summarises typical restoration time?
+Your last five service faults took 20, 35, 40, 45, and 210 minutes to restore. The 210-minute fault involved waiting for a third-party supplier. Which statement best summarises typical restoration time?
 
 - A) The mean is 70 minutes, so typical restoration takes about 70 minutes.
 - B) The median is 40 minutes, which better represents typical restoration because the 210-minute outlier inflates the mean.

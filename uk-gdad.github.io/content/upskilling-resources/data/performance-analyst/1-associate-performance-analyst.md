@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of associat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you support performance analysis for a service with guidance, learning to collect, interpret and present data about how the service is performing for users. The resources below emphasise analytics fundamentals, government measurement requirements and clear reporting.
+At this role level you support performance analysis for a service with guidance, learning to collect, interpret and present data about how the service is performing for users. The resources below emphasise analytics fundamentals, government measurement requirements, and clear reporting.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -30,7 +30,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Google Analytics 4 (GA4): Become a Web Analytics Specialist](https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/): Covers GA4 and Google Tag Manager from the basics, including integration with related Google products and analysing reports to reach actionable conclusions.
 
-- [A/B Testing and Experimentation for Beginners](https://www.udemy.com/course/ab-testing-and-experimentation-for-websites-and-marketing/): Covers aligning teams with objectives, defining goals and metrics, developing test ideas, running experiments and analysing results.
+- [A/B Testing and Experimentation for Beginners](https://www.udemy.com/course/ab-testing-and-experimentation-for-websites-and-marketing/): Covers aligning teams with objectives, defining goals and metrics, developing test ideas, running experiments, and analysing results.
 
 - [Product Management: Concise Guide to Product Analytics](https://www.udemy.com/course/product-analytics/): Covers active usage, core and casual use, retention and growth metrics, with a deep dive into identifying good A/B test candidates and building a test plan.
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, regression and analysis of variance, which underpin any honest claim about whether performance changed.
+- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, regression, and analysis of variance, which underpin any honest claim about whether performance changed.
 
 - [14.310x Data Analysis for Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/): Covers regression and econometrics, design of experiments, randomised controlled trials and visualisation, taught in R with policy applications.
 
@@ -62,7 +62,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Metrics and measurement on the Services in government blog](https://services.blog.gov.uk/category/metrics-and-measurement/): The UK government blog category on how service teams use service-specific KPIs to monitor, iterate and improve their services.
 
-- [Data you must publish, GOV.UK Service Manual](https://www.gov.uk/service-manual/measuring-success/data-you-must-publish): The mandatory measurement requirements for UK government services, covering cost per transaction, user satisfaction, completion rate and digital take-up.
+- [Data you must publish, GOV.UK Service Manual](https://www.gov.uk/service-manual/measuring-success/data-you-must-publish): The mandatory measurement requirements for UK government services, covering cost per transaction, user satisfaction, completion rate, and digital take-up.
 
 - [Beating performance anxiety](https://gds.blog.gov.uk/2013/03/28/beating-performance-anxiety/): A Government Digital Service post on measuring progress across user experience, running costs and channel shift, and on keeping indicators simple and actionable.
 

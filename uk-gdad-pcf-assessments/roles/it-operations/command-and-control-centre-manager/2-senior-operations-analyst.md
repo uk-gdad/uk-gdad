@@ -447,7 +447,7 @@ Change CR-1102 proposes a 45-minute outage to the licensing portal. Traffic data
 - **Assuming counts from different systems are disjoint.** Overlap (duplicates, merges, double-reporting) explains most reconciliation gaps. Check for it before declaring data lost or a source wrong.
 - **Unweighted averages over unequal populations.** Averaging percentages from services of very different sizes flatters the small and hides the large. Weight by usage when user experience is the question.
 - **Stopping before the comparison.** "Compute, then compare against the threshold/target/elapsed time" — questions and KPIs alike are only answered by the second half.
-- **Trusting a plausible-looking figure over your own working.** Dashboards, reports and colleagues' summaries all assert numbers with confidence. Verified arithmetic outranks assertion — when your recomputation disagrees with a stated figure, check your working once, then trust it and query the source.
+- **Trusting a plausible-looking figure over your own working.** Dashboards, reports, and colleagues' summaries all assert numbers with confidence. Verified arithmetic outranks assertion — when your recomputation disagrees with a stated figure, check your working once, then trust it and query the source.
 
 ## Workplace job-specific verbal reasoning assessment
 
@@ -463,7 +463,7 @@ The cardinal rule for the true/false/cannot-say format: judge only from the pass
 
 ### How this assessment maps to your role
 
-- **Precise procedural comprehension** maps to **Change management** and **Continuity management**: documenting and actioning change requests, and working with continuity processes, depend on reading conditions, exceptions and time windows exactly as written.
+- **Precise procedural comprehension** maps to **Change management** and **Continuity management**: documenting and actioning change requests, and working with continuity processes, depend on reading conditions, exceptions, and time windows exactly as written.
 - **Fact extraction and record accuracy** map to your defining duty of **correct information flow, record keeping and data capture**, and to **Incident management**: a diagnosis or handover is only as reliable as the distinction it keeps between what is stated, inferred, and unknown.
 - **True/false/cannot-say discipline** maps to **Problem management**: investigating patterns and trends means treating "errors stopped after the restart" as sequence, not cause, until evidence closes the gap — the same discipline the assessment scores directly.
 - **Argument evaluation** maps to **Availability and capacity management** and **Asset and configuration management**: capacity cases, supplier claims and compliance assertions arrive as arguments, and assessing them means finding the unsupported step.

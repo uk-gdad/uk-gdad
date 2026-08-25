@@ -142,7 +142,7 @@ Which statement best describes the pattern?
 
 **Correct answer: B**
 
-**Explanation:** Read each row carefully. Search shows P, F, P, F — a fail every other day, which is an alternating pattern worth reporting because intermittent failures often point to timing or environment issues. Payment shows P, P, F, F — it passed early in the week and has failed on Wednesday and Thursday, the two most recent days, which suggests something changed midweek. Option A wrongly says Search fails every day. Option C is too sweeping: Login, Upload and Logout passed every day. Option D is contradicted by Wednesday, when Payment failed but Search passed. Reading tables row by row, and describing exactly what you see rather than a general impression, is a core habit for supporting the maintenance of automated tests — and when you spot patterns like these, raising awareness of them is precisely the defect-awareness duty your role describes.
+**Explanation:** Read each row carefully. Search shows P, F, P, F — a fail every other day, which is an alternating pattern worth reporting because intermittent failures often point to timing or environment issues. Payment shows P, P, F, F — it passed early in the week and has failed on Wednesday and Thursday, the two most recent days, which suggests something changed midweek. Option A wrongly says Search fails every day. Option C is too sweeping: Login, Upload, and Logout passed every day. Option D is contradicted by Wednesday, when Payment failed but Search passed. Reading tables row by row, and describing exactly what you see rather than a general impression, is a core habit for supporting the maintenance of automated tests — and when you spot patterns like these, raising awareness of them is precisely the defect-awareness duty your role describes.
 
 **Question 6 (moderate) — Logical deduction about test coverage**
 
@@ -492,7 +492,7 @@ Why does verbal reasoning matter so much for an associate test engineer? Because
 
 ### How this assessment maps to your role
 
-- **Comprehension of requirements and stories** maps to your **Test analysis** skill: analysing information such as user stories, prototypes, processes and designs, with support, is applied reading comprehension — the passage is the story, and the statements are your candidate test conditions.
+- **Comprehension of requirements and stories** maps to your **Test analysis** skill: analysing information such as user stories, prototypes, processes, and designs, with support, is applied reading comprehension — the passage is the story, and the statements are your candidate test conditions.
 - **True/false/cannot-say discipline** maps to your **Designing and executing tests** skill: a test should verify what the requirement states, not what you assume; "cannot say" is the verbal twin of "this needs clarifying with the analyst before I script it".
 - **Reading process documents accurately** maps to your **Managing, reporting and resolving defects** and **Test and quality planning** skills: following a defect management process, and following quality testing approaches and plans with support, both depend on reading procedural text and applying it faithfully.
 - **Clear-writing judgement** maps to your **Communicating between the technical and non-technical** skill: explaining why technical concepts should be communicated in non-technical language — and recognising which sentence does that best — is exactly what clear-writing questions measure.

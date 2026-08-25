@@ -17,7 +17,7 @@ that users see and understand interactions. Whether someone notices the one butt
 on a page is a graphic design outcome.
 
 Nothing here is scored, marked or ranked. There are no right answers. Seven skills, each with a
-plain explanation, a rating and a couple of questions. Take about 25 minutes.
+plain explanation, a rating, and a couple of questions. Take about 25 minutes.
 
 ## Advisory
 

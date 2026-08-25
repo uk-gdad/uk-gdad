@@ -22,15 +22,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Agile Project Management (Google)](https://www.coursera.org/learn/agile-project-management): Part of the Google Project Management Certificate, covering Scrum pillars and values, building and managing a product backlog, value-driven delivery and organising Scrum events.
 
-- [Applied Scrum for Agile Project Management (UMD)](https://www.coursera.org/learn/applied-scrum-for-agile-project-management): Covers applying Scrum roles, processes and tools to real team situations, with a strong foundation in agile principles.
+- [Applied Scrum for Agile Project Management (UMD)](https://www.coursera.org/learn/applied-scrum-for-agile-project-management): Covers applying Scrum roles, processes, and tools to real team situations, with a strong foundation in agile principles.
 
 - [Agile Project Management: Estimate, Lead and Deliver Value](https://www.coursera.org/learn/agile-project-management-estimate-lead-deliver-value): Covers estimation, leading delivery and connecting delivery activity to value rather than to output.
 
 ## Udemy courses
 
-- [Agile Scrum Master Certification Training](https://www.udemy.com/course/agile-scrum-master-certification-training-psm-i-csm/): Covers facilitating Scrum events, coaching self-managing teams through servant leadership, impediment removal and change management.
+- [Agile Scrum Master Certification Training](https://www.udemy.com/course/agile-scrum-master-certification-training-psm-i-csm/): Covers facilitating Scrum events, coaching self-managing teams through servant leadership, impediment removal, and change management.
 
-- [Mastering Agile Project Management and the Scrum Master's Role](https://www.udemy.com/course/mastering-agile-navigating-the-scrum-masters-role/): Explores the role as coach and servant leader, supporting the team and removing impediments while facilitating planning, stand-ups, reviews and retrospectives.
+- [Mastering Agile Project Management and the Scrum Master's Role](https://www.udemy.com/course/mastering-agile-navigating-the-scrum-masters-role/): Explores the role as coach and servant leader, supporting the team and removing impediments while facilitating planning, stand-ups, reviews, and retrospectives.
 
 - [Certified Scrum Expert: Mentor, Coach and Transform Teams](https://www.udemy.com/course/scrum-master-expert-mentor-coach-and-transform-teams/): Covers the advanced skills of servant leadership, agile coaching and acting as a change agent, including mentoring developers and influencing leadership.
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [15.783J Product Design and Development](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/): A project-based Sloan course integrating marketing, design and manufacturing in creating a new product, covering identifying customer needs, concept generation and product architecture.
+- [15.783J Product Design and Development](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/): A project-based Sloan course integrating marketing, design and manufacturing in creating a new product, covering identifying customer needs, concept generation, and product architecture.
 
 - [15.980J Organizing for Innovative Product Development](https://ocw.mit.edu/courses/15-980j-organizing-for-innovative-product-development-spring-2007/): Covers technology transfer, the relationship between science and technology, and the innovation process as an organisational problem.
 
@@ -62,7 +62,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A day in the life of a delivery manager](https://gds.blog.gov.uk/2012/12/12/a-day-in-the-life-of-a-delivery-manager/): The Government Digital Service on the delivery manager as servant leader, enabling the team by removing impediments and building an effective working environment.
 
-- [Explaining the role of a Delivery Manager](https://emilywebber.co.uk/what-is-an-agile-delivery-manager/): Emily Webber on what good delivery managers do, including building motivated teams, protecting collaboration, coaching in agile technique and identifying blockers proactively.
+- [Explaining the role of a Delivery Manager](https://emilywebber.co.uk/what-is-an-agile-delivery-manager/): Emily Webber on what good delivery managers do, including building motivated teams, protecting collaboration, coaching in agile technique, and identifying blockers proactively.
 
 - [Making the change from project to delivery management](https://defradigital.blog.gov.uk/2017/09/27/making-the-change-from-project-to-delivery-management/): A first-hand account of moving from project management to delivery management in a government department.
 
@@ -72,7 +72,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The role of the agile wall at GDS](https://gds.blog.gov.uk/2012/12/19/the-agile-wall/): On making work visible so that teams focus and others can see what is happening, still the cheapest delivery management tool available.
 
-- [Agile delivery, GOV.UK Service Manual](https://www.gov.uk/service-manual/agile-delivery): The authoritative guidance covering principles, tools, governance, user stories, planning and the discovery, alpha, beta, live and retirement phases.
+- [Agile delivery, GOV.UK Service Manual](https://www.gov.uk/service-manual/agile-delivery): The authoritative guidance covering principles, tools, governance, user stories, planning and the discovery, alpha, beta, live, and retirement phases.
 
 - [Agile and government services: an introduction](https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction): Explains why agile is government policy for digital services and what that means for delivery practice.
 
@@ -126,7 +126,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N): By Marty Cagan. The most widely used single reference on how strong product teams work, covering people, process and product culture.
+- [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N): By Marty Cagan. The most widely used single reference on how strong product teams work, covering people, process, and product culture.
 
 - [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products-ebook/dp/B094PVB97X): By Teresa Torres. A practical system for continuous discovery, including opportunity solution trees and interview habits.
 
@@ -136,13 +136,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The Product Book: How to Become a Great Product Manager](https://www.amazon.com/Product-Book-Become-Great-Manager-ebook/dp/B071HFBGXR): A practical introduction to the role, useful for people entering product management from another discipline.
 
-- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV): Kohavi, Tang and Xu. The standard reference for experimentation, drawn from tens of thousands of live experiments.
+- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV): Kohavi, Tang, and Xu. The standard reference for experimentation, drawn from tens of thousands of live experiments.
 
 - [Lean Analytics: Use Data to Build a Better Startup Faster](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM): Croll and Yoskovitz. The discipline of choosing the one metric that matters right now.
 
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F): Osterwalder and Pigneur. The Business Model Canvas, a fast way to frame a proposition with stakeholders.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): Forsgren, Humble and Kim. The evidence that delivery performance predicts organisational performance, useful when arguing for engineering investment.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): Forsgren, Humble, and Kim. The evidence that delivery performance predicts organisational performance, useful when arguing for engineering investment.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): Cole Nussbaumer Knaflic. Practical guidance on making evidence persuasive to decision makers.
 

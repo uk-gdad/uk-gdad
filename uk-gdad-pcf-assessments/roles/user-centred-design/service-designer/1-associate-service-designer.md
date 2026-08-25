@@ -12,7 +12,7 @@ There is one thing worth saying about service design specifically before we star
 
 The document is organised into four main sections:
 
-1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, prioritisation and problem solving, using service maps, design standards, journey steps and research findings.
+1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, prioritisation and problem solving, using service maps, design standards, journey steps, and research findings.
 2. A numeric reasoning assessment — percentages, proportions, averages and simple tables, using the numbers service teams actually handle, such as journey drop-off, channel volumes, waiting times and completion rates.
 3. A verbal reasoning assessment — reading passages like design standards, accessibility guidance and stakeholder emails, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic workplace dilemmas pitched at a trainee level, with guidance on the most and least effective responses and, importantly, on why.
@@ -289,7 +289,7 @@ A last practical note about the options. Wrong answers in numeric tests are almo
 
 The numerical skills tested map onto the skills named in your role:
 
-- **Reading tables accurately** maps to **Evidence-based design**, where you identify common sources and types of data that inform user-centred design. Journey analytics, channel volumes and completion rates all arrive as tables.
+- **Reading tables accurately** maps to **Evidence-based design**, where you identify common sources and types of data that inform user-centred design. Journey analytics, channel volumes, and completion rates all arrive as tables.
 - **Percentages and proportions** map to **Evidence-based design** and to **Designing for everyone**, because comparing completion between user groups or channels is how exclusion becomes visible in numbers rather than only in stories.
 - **Averages** map to **Iterative design**, where understanding how long a step actually takes tells you whether an iteration improved anything.
 - **Reading a journey end to end** maps to **Designing strategically**, where aligning to wider goals means understanding the whole service, including the waiting times nobody designed.
@@ -345,7 +345,7 @@ Which channel has a completion rate of exactly 85%?
 
 **Question 4 (easy) — Average handling time**
 
-Five telephone calls about a service lasted 6, 9, 4, 11 and 10 minutes. What was the mean call length?
+Five telephone calls about a service lasted 6, 9, 4, 11, and 10 minutes. What was the mean call length?
 
 - A) 7 minutes
 - B) 8 minutes
@@ -514,25 +514,25 @@ The verbal skills tested map onto your named skills:
 
 "All new public-facing services must meet the accessibility standard before launch. Where a service cannot meet a specific requirement, the team must publish an accessibility statement explaining the gap and the plan to close it. Services launched before this policy came into effect must meet the standard within 18 months. Internal-facing tools are not covered by this policy, although teams are encouraged to apply the same standard."
 
-**Question 1 (easy)** — Statement: "New public-facing services must meet the accessibility standard before launch." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "New public-facing services must meet the accessibility standard before launch." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly, so it follows necessarily and is True. This is the most straightforward item type, and the right move is to answer it fast and confidently so you bank the time for harder items. Resist hunting for a trick that is not there — sometimes the passage simply says the thing, and candidates lose marks by over-thinking easy items just as often as by rushing hard ones.
 
-**Question 2 (easy)** — Statement: "Internal tools must meet the accessibility standard." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Internal tools must meet the accessibility standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says internal-facing tools are not covered by the policy, and adds that teams are *encouraged* to apply the same standard. Encouragement is not a requirement, so the statement's "must" contradicts the passage and the answer is False. Note the two-part structure, which appears constantly in policy prose: an exclusion followed by a softer aspiration. Candidates who read only the second half will mark this True, and candidates who read only the first half will get it right for a slightly incomplete reason.
 
-**Question 3 (moderate)** — Statement: "A service that cannot meet one requirement has breached the policy." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A service that cannot meet one requirement has breached the policy." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage anticipates exactly this situation and provides a route through it: where a service cannot meet a specific requirement, the team must publish an accessibility statement explaining the gap and the plan to close it. So failing to meet a requirement is not itself a breach — the breach would be failing to publish the statement. The statement claims a breach from the failure alone, which contradicts the passage, making it False. Well-written standards commonly work this way: they set an expectation and then define what honesty looks like when it cannot be met. Reading them as absolute produces unnecessary alarm and, worse, encourages teams to conceal gaps rather than declare them.
 
-**Question 4 (moderate)** — Statement: "A service launched two years ago must now meet the standard." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A service launched two years ago must now meet the standard." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -542,25 +542,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the licensing service found that most applicants completed the online journey without help, but that applicants using the postal route took considerably longer and were more likely to submit incomplete applications. The review team notes that postal applicants differed from online applicants in several respects, including age and prior use of the service. The review recommends that the service team consider whether additional support for postal applicants is needed. Funding for any changes has not been agreed."
 
-**Question 5 (easy)** — Statement: "Postal applicants were more likely to submit incomplete applications than online applicants." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Postal applicants were more likely to submit incomplete applications than online applicants." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly. The statement restates it without addition, so it is True. Note the passage's careful comparative framing — "more likely" rather than "usually" or "always" — and the statement respects it. If the statement had said "postal applicants usually submit incomplete applications", that would be a much stronger claim than the passage supports, and the answer would shift to Cannot Say.
 
-**Question 6 (moderate)** — Statement: "The postal route causes applications to be incomplete." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The postal route causes applications to be incomplete." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then explicitly flags that postal and online applicants differed in other respects including age and prior use of the service. Either of those could be responsible for the difference in completeness. The passage neither asserts nor rules out that the route itself is the cause, so the answer is Cannot Say. This distinction matters far beyond the test: if the cause is the postal form's design you fix the form, and if the cause is that postal applicants are largely first-time users who need more guidance, you fix something else entirely. Treating an association as a cause is one of the most reliable ways for a team to spend three months improving the wrong thing.
 
-**Question 7 (moderate)** — Statement: "Additional support for postal applicants will be provided." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Additional support for postal applicants will be provided." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** Two things stand between the passage and the statement. The review recommends only that the team *consider whether* support is needed, which is a recommendation to evaluate rather than to provide. And the passage adds that funding for any changes has not been agreed. Neither the decision nor the means is established, so the answer is Cannot Say. "Consider whether" is a phrase worth learning to spot, because it appears constantly in real review and audit documents and is very frequently reported afterwards as though it were a firm recommendation to act.
 
-**Question 8 (harder)** — Statement: "Most online applicants did not need help to complete the journey." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Most online applicants did not need help to complete the journey." True, False, or Cannot Say?
 
 **Correct answer: True**
 
@@ -570,19 +570,19 @@ The verbal skills tested map onto your named skills:
 
 "Teams should offer users a choice of channel wherever practicable. A digital channel must not be the only option for services used predominantly by people at risk of digital exclusion. Where a service withdraws a channel, the team must assess the impact on affected users and record the assessment. Users who need assistance must be able to reach a person, by telephone or in person, during published service hours."
 
-**Question 9 (easy)** — Statement: "A digital-only service is always prohibited." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "A digital-only service is always prohibited." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The prohibition in the passage is specific: a digital channel must not be the only option for services used predominantly by people at risk of digital exclusion. That narrow scope implies digital-only may be acceptable elsewhere, and in any case the statement's "always" goes well beyond what the passage says. So it is False. Reading the scope of a prohibition accurately is the skill here, and it has an obvious workplace parallel: a rule that forbids something in defined circumstances is telling you about the undefined circumstances too.
 
-**Question 10 (moderate)** — Statement: "A team that withdraws a channel without recording an impact assessment has breached the requirements." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A team that withdraws a channel without recording an impact assessment has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage requires that where a service withdraws a channel, the team must assess the impact on affected users and record the assessment. Withdrawing without recording fails that requirement directly, so the statement follows and is True. Contrast this with Question 3 in Passage A, where the passage supplied a route for handling a failure and the breach lay in not taking that route. Here the requirement is unconditional, so failing it is straightforwardly a breach. Distinguishing between a rule with an escape route and a rule without one is one of the most useful reading habits this section builds.
 
-**Question 11 (harder)** — Statement: "Users must be able to reach a person at any time." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "Users must be able to reach a person at any time." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -726,7 +726,7 @@ You have made a journey map showing that a service that appears to take twenty m
 - A) Remove them; the stakeholder knows what the map is for.
 - B) Explain that the waiting periods are the largest part of the user's experience and that removing them would make the map describe something users do not recognise — and offer to show them differently, for example greyed out, so the design steps remain clear.
 - C) Refuse and send the map unchanged.
-- D) Make two versions, one with and one without.
+- D) Make two versions, one with, and one without.
 
 **Correct answer: B. Least effective: A**
 

@@ -245,9 +245,9 @@ A director asks you to "make the licensing process faster". Initial analysis sho
 
 ### About this assessment
 
-A workplace job-specific numeric reasoning assessment measures your ability to interpret, manipulate and draw sound conclusions from quantitative information of the kind your role genuinely handles. It is not a mathematics exam: the arithmetic rarely goes beyond percentages, ratios, averages, rates and simple projections. What it tests is whether you can extract the right numbers from tables and charts, perform the right operations under time pressure, and — crucially for an analyst — recognise what a number does and does not show.
+A workplace job-specific numeric reasoning assessment measures your ability to interpret, manipulate and draw sound conclusions from quantitative information of the kind your role genuinely handles. It is not a mathematics exam: the arithmetic rarely goes beyond percentages, ratios, averages, rates, and simple projections. What it tests is whether you can extract the right numbers from tables and charts, perform the right operations under time pressure, and — crucially for an analyst — recognise what a number does and does not show.
 
-Typical format: an online, timed test of 20 to 40 minutes with 15 to 25 questions, each based on a table, chart or short data-rich passage. Most platforms allow a calculator and rough paper, and many are adaptive. Employers typically look at both accuracy and speed, and some report a "carefulness" indicator based on whether your errors cluster on questions with plausible-looking distractors. Question data is usually fictional but realistic — exactly as in the practice set below.
+Typical format: an online, timed test of 20 to 40 minutes with 15 to 25 questions, each based on a table, chart, or short data-rich passage. Most platforms allow a calculator and rough paper, and many are adaptive. Employers typically look at both accuracy and speed, and some report a "carefulness" indicator based on whether your errors cluster on questions with plausible-looking distractors. Question data is usually fictional but realistic — exactly as in the practice set below.
 
 For a senior business analyst, numeric reasoning is not an adjacent skill; it is load-bearing. You define success measures and baselines, quantify the effects of change, appraise options with costs and benefits, review test outcome reports full of pass rates and defect counts, and challenge performance claims made by suppliers and stakeholders. When you lead analysis and evaluation to assess business process improvements, the assessment is numeric: cycle times, error rates, unit costs, uptake percentages. When you coordinate prioritisation, the trade-offs are numeric: value scores, effort estimates, capacity. And because you review others' work and develop best practice, employers want confidence that a wrong denominator or a misread chart will not get past you. A percentage error that survives your review can misdirect a programme board.
 
@@ -256,7 +256,7 @@ For a senior business analyst, numeric reasoning is not an adjacent skill; it is
 - **Percentages and percentage change** map to **Business process improvement**: defining performance problems and assessing improvements means computing and comparing error rates, completion rates, and before/after changes correctly — including the difference between percentage points and percentages.
 - **Ratios and proportions** map to **Context, problem and option analysis**: options appraisals turn on cost per transaction, benefit-cost ratios, and proportional allocation of shared costs across options.
 - **Averages and distributions** map to **Business modelling** and **Testing (business analysis)**: modelling how a process performs requires knowing when a mean misleads and a median informs, and test outcome reports demand correct aggregation of pass rates across unevenly sized test suites.
-- **Rates and capacity arithmetic** map to **Adapting to delivery methodologies** and **Requirements definition and management**: negotiating delivery priorities honestly requires converting velocity, capacity and demand into feasible scope.
+- **Rates and capacity arithmetic** map to **Adapting to delivery methodologies** and **Requirements definition and management**: negotiating delivery priorities honestly requires converting velocity, capacity, and demand into feasible scope.
 - **Reading tables and charts** maps to **User experience analysis** and **Stakeholder relationship management**: analytics funnels, survey results and dashboard extracts are how user experience evidence arrives, and communicating clearly and regularly with stakeholders means presenting numbers that survive scrutiny.
 
 ### Practice questions
@@ -430,8 +430,8 @@ A dashboard shows 5,200 applications received in June. The operational team's ca
 
 - **Dividing by the wrong base.** Percentage change divides by the original value; per-step funnel drop-off divides by that step's entrants. Both are relentlessly tested because both are relentlessly fumbled in real reports.
 - **Averaging averages.** Never average two rates from different-sized groups without weighting. If a report does it, the report is wrong — and if you do it in a test, the distractor is waiting.
-- **Confusing percentage points with percentages.** A rise from 60% to 69% is 9 points and 15% relative. Choose language deliberately, in tests and in press lines alike.
-- **Ignoring time-phasing.** Annualised benefits, mid-year go-lives and ramp-up periods interact. The full-year full-rate figure is almost always one of the wrong options.
+- **Confusing percentage points with percentages.** A rise from 60% to 69% is 9 points and 15% relative. Choose language deliberately, in tests, and in press lines alike.
+- **Ignoring time-phasing.** Annualised benefits, mid-year go-lives, and ramp-up periods interact. The full-year full-rate figure is almost always one of the wrong options.
 - **Quoting the gap without decomposing it.** When two sources disagree, the difference is the start of the analysis, not the finding. Decompose before you conclude.
 - **Speed-reading the question stem.** Numeric stems hide the operative words — "relative to users entering it", "in year 1", "per application". Read the final sentence of the stem twice; it usually defines the calculation.
 
@@ -629,7 +629,7 @@ The draft requirement reads: "NFR-020: Search must be fast." Which rewrite best 
 - **Underline modal verbs and qualifiers.** "Must", "may", "should", "only", "unless", "in principle", "subject to" — these small words carry the meaning. Reading with a deliberate eye for them transfers directly from tests to policy documents and stakeholder emails.
 - **Set aside expertise.** You know how government grants and assessments really work; the test passage may describe a world that works differently. Answer from the passage alone — the same discipline you apply when a new policy overrides your assumptions from the last one.
 - **Practise on real material.** GOV.UK service standards, published policy notes and your own programme's papers are ideal practice passages. Write three statements per passage — one true, one false, one unverifiable — and check your reasoning.
-- **For clear-writing questions, apply a checklist.** Faithful to the source? Specific about actions, owners and dates? Free of new ambiguity? The best option usually wins on all three; distractors typically win on tone but lose on content.
+- **For clear-writing questions, apply a checklist.** Faithful to the source? Specific about actions, owners, and dates? Free of new ambiguity? The best option usually wins on all three; distractors typically win on tone but lose on content.
 - **Pace yourself by passage, not by question.** Read the passage once carefully (a minute is rarely wasted), then answer its cluster of questions quickly. Re-reading the passage from scratch for every question is the main cause of running out of time.
 
 ### Common pitfalls to avoid

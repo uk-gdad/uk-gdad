@@ -12,7 +12,7 @@ You may be preparing for a formal assessment, or you may want to re-examine judg
 
 Three things shape what follows. First, resource allocation is a zero-sum activity where every yes is an unstated no, and the discipline is making the no explicit. Second, business requirements as stated are usually solutions in disguise, and the useful work is recovering the need underneath. Third, strategy at your level is mostly about what you will not do, which is the part organisations resist.
 
-The document has four assessment sections, each with an overview, a mapping to your skills, twelve questions with explanations, preparation tips and pitfalls.
+The document has four assessment sections, each with an overview, a mapping to your skills, twelve questions with explanations, preparation tips, and pitfalls.
 
 Answer before reading, and note where you were fast.
 
@@ -26,7 +26,7 @@ This assessment information is created by AI and is work in progress for educati
 
 ### About this assessment
 
-A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through role-realistic material. On the management track at principal level that means programme strategy, resource allocation, requirements analysis, organisational process design and capability planning.
+A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through role-realistic material. On the management track at principal level that means programme strategy, resource allocation, requirements analysis, organisational process design, and capability planning.
 
 The format is typically fifteen to thirty minutes online, covering deduction, pattern recognition, error checking, prioritisation and applied problem solving, scored against a norm group of comparable seniority.
 
@@ -44,7 +44,7 @@ The third is that organisational effects lag and confound. A change you make now
 - **Allocation and prioritisation** map to managing resource allocation for solution development programmes.
 - **Strategy reasoning** maps to setting the strategy for those programmes.
 - **Process diagnosis** maps to **Development process optimisation**.
-- **Capability reasoning** maps to developing capability through mobility, career paths and recruitment.
+- **Capability reasoning** maps to developing capability through mobility, career paths, and recruitment.
 - **Risk and security judgement** map to **Information security** and **Systems design**.
 
 ### Practice questions
@@ -231,7 +231,7 @@ Two credible technical strategies are proposed for the next three years. Both ar
 
 ### About this assessment
 
-A workplace job-specific numeric reasoning assessment tests whether you can reach a defensible conclusion from data at speed. On the management track at principal level the data is programme finance, resource models, benefits cases, portfolio-level delivery metrics and capacity plans.
+A workplace job-specific numeric reasoning assessment tests whether you can reach a defensible conclusion from data at speed. On the management track at principal level the data is programme finance, resource models, benefits cases, portfolio-level delivery metrics, and capacity plans.
 
 The format is typically fifteen to twenty-five minutes with a calculator, mixing computation with interpretation. Interpretation items dominate at your level, because the numbers you deal with are mostly produced by other people who want a particular answer.
 
@@ -530,7 +530,7 @@ Statement: The programme cannot receive funding between quarterly investment com
 
 *Passage B — for Questions 5 to 8*
 
-"The service agreement between the digital function and the client function provides that the client function is responsible for defining business requirements and for prioritising the delivery backlog. The digital function is responsible for technical decisions, including choice of technology, architecture and delivery approach. Where a business requirement can only be met at disproportionate technical cost, the digital function must set out the cost and propose alternatives, and the client function decides whether to proceed. Changes to the agreement require the consent of both functions. The agreement was last revised at the start of the current financial year."
+"The service agreement between the digital function and the client function provides that the client function is responsible for defining business requirements and for prioritising the delivery backlog. The digital function is responsible for technical decisions, including choice of technology, architecture, and delivery approach. Where a business requirement can only be met at disproportionate technical cost, the digital function must set out the cost and propose alternatives, and the client function decides whether to proceed. Changes to the agreement require the consent of both functions. The agreement was last revised at the start of the current financial year."
 
 **Question 5 (easy)**
 
@@ -674,7 +674,7 @@ The third is that you are far enough from delivery that your picture is second-h
 - **Resource allocation** maps to managing resource allocation for solution development programmes.
 - **Client relationships** maps to working with client functions to establish business requirements.
 - **Strategy leadership** maps to setting programme strategy.
-- **Capability development** maps to mobility, career paths and recruitment.
+- **Capability development** maps to mobility, career paths, and recruitment.
 - **Process and standards** map to **Development process optimisation** and setting policy.
 - **Technical judgement in a management context** maps to your expert-level technical skills.
 

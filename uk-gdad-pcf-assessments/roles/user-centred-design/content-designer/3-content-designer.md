@@ -6,7 +6,7 @@ Welcome. This guide is written for you as a content designer in the UK Governmen
 
 You may be preparing for a formal assessment as part of a recruitment or promotion process, or you may simply want to sharpen the reasoning your job depends on. Either way, it is worth being precise about what psychometric assessment is at this level. It is not an intelligence test and it is not a knowledge quiz. It is a standardised sample of the thinking a role demands, and for a competent practitioner that thinking has a particular character: you are rarely choosing between a right answer and a wrong one, and usually choosing between defensible options under incomplete information, competing constraints and real consequences.
 
-Three features of your role shape the questions here. First, you are comfortable using evidence to make content decisions — which means the assessment will test whether you know what a piece of evidence supports, not merely whether you can read it. Second, you influence stakeholders across government, which is a negotiating skill resting on your evidence being unassailable and your reasoning being explicable. Third, you work across the end-to-end journey, which means the unit you are responsible for is rarely the page in front of you: it is the sequence of things a person reads, including the letter, the email, the error message and the thing the contact centre says.
+Three features of your role shape the questions here. First, you are comfortable using evidence to make content decisions — which means the assessment will test whether you know what a piece of evidence supports, not merely whether you can read it. Second, you influence stakeholders across government, which is a negotiating skill resting on your evidence being unassailable and your reasoning being explicable. Third, you work across the end-to-end journey, which means the unit you are responsible for is rarely the page in front of you: it is the sequence of things a person reads, including the letter, the email, the error message, and the thing the contact centre says.
 
 There is a discipline-specific point worth naming. Content design is routinely mistaken for writing, and much of what you actually do is deciding what should exist. The strongest content decisions are often deletions, reorderings, or the recognition that a page should not exist because the question it answers should never have arisen. Several items below turn on that, because it is where content design earns most of its value and where it is most often prevented from doing so.
 
@@ -14,7 +14,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — evidence quality, competing explanations, prioritisation, risk, and the diagnosis of problems in content and in the systems that produce it.
 2. A numeric reasoning assessment — rates, funnel data, search and contact volumes, weighted figures and the interrogation of quantitative claims made by others.
-3. A verbal reasoning assessment — standards, policy sources, review reports and stakeholder correspondence, with items pitched at genuine ambiguity.
+3. A verbal reasoning assessment — standards, policy sources, review reports, and stakeholder correspondence, with items pitched at genuine ambiguity.
 4. A situational judgement assessment — realistic dilemmas at your level of independence, covering integrity, stakeholder consensus, and team dynamics.
 
 Each section provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
@@ -33,7 +33,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical materials rather than abstract puzzles. At your level the materials get messier and the reasoning less mechanical. You will meet evidence supporting two incompatible readings, constraints that turn out to be negotiable and others that do not, and prioritisation problems with no dominant option.
 
-The format is usually an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, so a test that feels hard is usually one you are doing well on, and acuity reports distinguishing speed from accuracy reward precision.
+The format is usually an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, so a test that feels hard is usually one you are doing well on, and acuity reports distinguishing speed from accuracy reward precision.
 
 Two things distinguish this section at your level.
 
@@ -248,7 +248,7 @@ Three weeks after a rewrite you supported, you realise the research behind it re
 
 A numeric reasoning assessment measures how accurately you handle the quantitative material your role produces and consumes. At your level the emphasis shifts from calculating to interrogating. You will still need to compute rates correctly, but the harder items ask whether a figure means what somebody claims — which is, not coincidentally, the question you are often the only person in the room positioned to ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
 
 There is a professional stake worth naming. Quantitative evidence carries unearned authority: a number in a slide is treated as fact and a content argument as a matter of taste, regardless of the rigour behind either. Content designers who cannot interrogate numbers confidently lose arguments they should win — and the arguments they lose are frequently about whether content work is worth doing at all, because content improvements are hard to attribute and easy to dismiss. Your role names being comfortable using evidence and data to make content decisions, and that comfort has to extend to challenging somebody else's numbers as well as reading your own.
 
@@ -459,7 +459,7 @@ Your team wants to know whether a rewrite improved completion. Baseline is 60%, 
 
 A verbal reasoning assessment measures how accurately you read. For most disciplines that is a proxy skill; for yours it is close to the job itself, which makes this the section where you should score best and where a careless habit costs most.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your professional knowledge must be set aside — and this becomes harder, not easier, with experience. The more policy prose you have translated, the more readily you supply the clause you expect and feel confident doing it.
 
@@ -486,25 +486,25 @@ The verbal skills tested map onto your named skills:
 
 "All content published on the service must be reviewed against the style guide before publication. Where content is a factual correction of published material, it may be published immediately and reviewed within five working days. Content that includes legal wording supplied by the legal team must not be altered without the legal team's agreement, although surrounding explanatory content may be edited freely. All published content is reviewed annually."
 
-**Question 1 (easy)** — Statement: "Explanatory content around legal wording may be edited without the legal team's agreement." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Explanatory content around legal wording may be edited without the legal team's agreement." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The third sentence states that legal wording must not be altered without agreement, "although surrounding explanatory content may be edited freely". The statement restates the second half, so True. This is worth internalising beyond the test, because it is the fact that unlocks most content design arguments about legal text: the constraint attaches to the legal wording itself, not to the page containing it, which means you can almost always explain what the wording means even where you cannot change it.
 
-**Question 2 (moderate)** — Statement: "A factual correction may be published before it has been reviewed against the style guide." True, False or Cannot Say?
+**Question 2 (moderate)** — Statement: "A factual correction may be published before it has been reviewed against the style guide." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The second sentence permits factual corrections to be published immediately and reviewed within five working days, which is exactly what the statement describes. True. The item rewards holding two sentences together: the first establishes review before publication as the general rule, and the second reverses the order for a defined case. A reader who absorbs the general rule and stops will mark this False. The exception exists for a good reason worth noticing — a published page containing a factual error is doing harm every hour it stands, and a rule requiring review first would keep the error live while the review was arranged.
 
-**Question 3 (moderate)** — Statement: "Legal wording may never be altered." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "Legal wording may never be altered." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage prohibits altering legal wording *without the legal team's agreement*, which means alteration with their agreement is permitted. The statement's "never" drops the condition and asserts an absolute prohibition the passage does not impose, so it is False. This is a distinction with real consequences in practice: content designers who believe legal wording is untouchable never ask, and legal teams are frequently more willing to agree a clearer formulation than anyone assumes — particularly when you bring evidence that the current wording is not understood, since incomprehensible warnings serve their purposes no better than yours.
 
-**Question 4 (harder)** — Statement: "A page containing legal wording is reviewed annually." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A page containing legal wording is reviewed annually." True, False, or Cannot Say?
 
 **Correct answer: True**
 
@@ -514,25 +514,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the guidance found that users who read the eligibility page before applying were more likely to complete an application. The review notes that these users differed in other respects, including whether they had applied before. The review did not assess whether the eligibility page was accurate. It recommends that the team consider whether the eligibility page should be more prominent."
 
-**Question 5 (easy)** — Statement: "Users who read the eligibility page were more likely to complete an application." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Users who read the eligibility page were more likely to complete an application." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the passage's careful "more likely to complete" rather than "usually completed", and the statement respects it. Answer quickly and bank time for the harder items.
 
-**Question 6 (moderate)** — Statement: "Reading the eligibility page causes users to complete applications." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Reading the eligibility page causes users to complete applications." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and explicitly flags that the groups differed, including in whether they had applied before. Previous applicants are more likely to complete for reasons unrelated to the page — they know what is needed and have their documents — and may also be more likely to look at the eligibility page out of familiarity, which reverses the causal arrow entirely. So the passage neither asserts nor rules out a causal role. Cannot Say. The content consequence is direct: if the page causes completion, prominence helps; if experienced users simply read more pages, prominence achieves nothing and adds a step for everyone else.
 
-**Question 7 (moderate)** — Statement: "The eligibility page is accurate." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The eligibility page is accurate." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the review did not assess accuracy. Declared silence establishes nothing, so Cannot Say. Candidates sometimes reason that a page associated with higher completion must be doing its job, which is the inference this item catches — and the failure mode it protects against is a real one. An inaccurate eligibility page that encourages people to apply when they are not eligible would correlate with higher completion while causing considerable harm, and it would look like a success in exactly the data this review reports.
 
-**Question 8 (harder)** — Statement: "The review recommends making the eligibility page more prominent." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends making the eligibility page more prominent." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -542,19 +542,19 @@ The verbal skills tested map onto your named skills:
 
 "Content must be written so that it can be understood by users with a reading age of 9 where the subject matter allows. Where technical or legal terms cannot be avoided, they must be explained at first use. Content must not rely on colour alone to convey meaning. Headings must describe the content that follows and must be used in order without skipping levels. These requirements apply to public-facing content and to internal guidance used by more than fifty staff."
 
-**Question 9 (easy)** — Statement: "All content must be understandable by users with a reading age of 9." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "All content must be understandable by users with a reading age of 9." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement is qualified: "where the subject matter allows". The statement's "all" drops that, and the passage explicitly contemplates subject matter where the standard cannot be met, so it is False. This qualifier is frequently misquoted in both directions. It is not a general excuse — most content claiming difficult subject matter could be far simpler — and it does acknowledge genuine cases. A content designer who cites the rule without the qualifier will eventually be corrected by a colleague who has read it, which is an avoidable way to lose an argument you were otherwise winning.
 
-**Question 10 (moderate)** — Statement: "Technical terms must be avoided." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "Technical terms must be avoided." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says that *where technical or legal terms cannot be avoided*, they must be explained at first use. That wording presupposes such cases exist and permits the terms, subject to explanation. The statement asserts an absolute prohibition the passage does not impose, so False. Note the structure: a rule addressing what to do in a situation implicitly accepts the situation occurs. Reading it as a prohibition produces content designers arguing that a term must be removed when the actual requirement is that it must be explained — and losing, because the term is often genuinely necessary.
 
-**Question 11 (moderate)** — Statement: "These requirements apply to internal guidance used by twenty staff." True, False or Cannot Say?
+**Question 11 (moderate)** — Statement: "These requirements apply to internal guidance used by twenty staff." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 

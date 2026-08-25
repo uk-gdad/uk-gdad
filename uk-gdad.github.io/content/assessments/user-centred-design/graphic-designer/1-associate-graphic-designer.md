@@ -12,8 +12,8 @@ There is one thing worth saying about graphic design in government specifically.
 
 The document is organised into four main sections:
 
-1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, prioritisation and problem solving, using specifications, layouts, type scales, colour values and design standards.
-2. A numeric reasoning assessment — percentages, ratios, proportions and simple tables, using the numbers designers actually handle, such as contrast ratios, type scales, spacing units, screen size splits and completion rates.
+1. A workplace job-specific cognitive assessment — pattern spotting, logical deduction, error checking, prioritisation and problem solving, using specifications, layouts, type scales, colour values, and design standards.
+2. A numeric reasoning assessment — percentages, ratios, proportions and simple tables, using the numbers designers actually handle, such as contrast ratios, type scales, spacing units, screen size splits, and completion rates.
 3. A verbal reasoning assessment — reading passages like accessibility criteria, brand guidelines and stakeholder emails, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic workplace dilemmas pitched at a trainee level, with guidance on the most and least effective responses.
 
@@ -261,7 +261,7 @@ A numeric reasoning assessment measures how well you work with the numbers your 
 
 Let us be clear about what the test is not. It is not a maths exam. There are no equations to solve and no formulae to memorise. Most platforms provide a calculator, and where they do not the arithmetic is deliberately simple. What is measured is whether you can read a table correctly, pick the right numbers out of a cluttered display, choose the right operation, and interpret the result sensibly.
 
-The format is usually a timed online test of fifteen to thirty minutes, each item showing a small table, chart or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is finding the relevant numbers quickly and ignoring the rest.
+The format is usually a timed online test of fifteen to thirty minutes, each item showing a small table, chart, or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is finding the relevant numbers quickly and ignoring the rest.
 
 At associate level the content is modest: percentages, ratios, proportions, simple averages, and reading values from tables. Four techniques carry you through. Work out what the question is asking before looking at the data. Identify the two or three numbers you need. Do the arithmetic one step at a time. Then sanity-check.
 
@@ -488,25 +488,25 @@ The verbal skills tested map onto your named skills:
 
 "Text smaller than 24 pixels must have a contrast ratio of at least 4.5:1 against its background. Text 24 pixels or larger, or 19 pixels or larger and bold, must have a contrast ratio of at least 3:1. Logotypes are exempt from these requirements. Decorative images that convey no information are exempt, although any text within an image is not."
 
-**Question 1 (easy)** — Statement: "All text must have a contrast ratio of at least 4.5:1." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "All text must have a contrast ratio of at least 4.5:1." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage sets a lower threshold of 3:1 for large text and bold text at 19 pixels or above, and exempts logotypes entirely. The statement's "all" contradicts both, so False. This is the most reliable pattern in the section — an absolute term in the statement, exceptions in the passage. It is also a genuinely common misquotation in practice: "everything needs 4.5:1" is the version most people carry in their heads, and applying it to a large heading produces a needlessly dark palette and an argument with whoever chose the brand.
 
-**Question 2 (easy)** — Statement: "Text inside a decorative image is exempt from the contrast requirements." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Text inside a decorative image is exempt from the contrast requirements." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final sentence exempts decorative images conveying no information and then states explicitly that any text within an image is not exempt. The statement contradicts this, so False. The item tests whether you read to the end of a sentence that appeared to have finished its work — the clause after "although" reverses the exemption for the specific case the statement asks about. Standards routinely place the qualification in exactly that position, and it is worth slowing down rather than speeding up when you see "although", "except" or "provided that" arriving late in a sentence.
 
-**Question 3 (moderate)** — Statement: "Bold text at 19 pixels needs a contrast ratio of at least 4.5:1." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "Bold text at 19 pixels needs a contrast ratio of at least 4.5:1." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The second sentence sets 3:1 for text that is "24 pixels or larger, **or** 19 pixels or larger and bold". Bold text at 19 pixels satisfies the second route, so the applicable threshold is 3:1, not 4.5:1, and the statement is contradicted. False. This is the "or" trap, and it is the single most consequential misreading in applying contrast criteria. Read as "and", the sentence would require text to be both 24 pixels and bold, which would make the whole clause almost useless and push designers towards unnecessarily dark palettes. Read as written, it recognises that large text and bold text are both easier to read, and either qualifies.
 
-**Question 4 (moderate)** — Statement: "A logotype containing text must meet the 4.5:1 requirement." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A logotype containing text must meet the 4.5:1 requirement." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -516,25 +516,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the service found that users on screens narrower than 400 pixels completed tasks less often than users on wider screens. The review notes that these users also differed in other respects, including connection speed and whether they were using the service away from home. The review did not assess whether the layout reflowed correctly at narrow widths. It recommends that the team consider whether a narrow-width review would be worthwhile."
 
-**Question 5 (easy)** — Statement: "Users on screens narrower than 400 pixels completed tasks less often." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Users on screens narrower than 400 pixels completed tasks less often." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the passage's comparative framing — "less often than users on wider screens" — and the statement respects it. Answer quickly and bank the time for the harder items.
 
-**Question 6 (moderate)** — Statement: "The narrow layout causes users to fail tasks." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The narrow layout causes users to fail tasks." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and explicitly names two ways the groups differed: connection speed and whether they were away from home. Either could explain the difference — someone on a slow connection away from home may be interrupted, may not have documents to hand, or may abandon before the page loads, all independently of how the layout behaves. The passage neither asserts nor rules out a layout cause, so Cannot Say. The design consequence is direct: if the layout is at fault you fix the reflow, and if the cause is context you design for interruption and slow loading, which are different pieces of work.
 
-**Question 7 (moderate)** — Statement: "The layout reflows correctly at narrow widths." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The layout reflows correctly at narrow widths." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the review did not assess whether the layout reflowed correctly. Declared silence establishes nothing in either direction, so Cannot Say. This item is worth dwelling on because the professional temptation runs towards False — given the completion gap, you may well suspect the reflow is broken, and you may be right. The passage supports neither, and marking False would be substituting expertise for evidence, which is exactly what this section penalises. In the workplace the right response is to go and check, which costs ten minutes; in the test, the check is not available and neither is the conclusion.
 
-**Question 8 (harder)** — Statement: "The review recommends a narrow-width review." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends a narrow-width review." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -544,19 +544,19 @@ The verbal skills tested map onto your named skills:
 
 "Interactive elements must have a visible focus indicator with a contrast ratio of at least 3:1 against adjacent colours. Touch targets must be at least 24 by 24 pixels, unless an equivalent target of at least 24 by 24 pixels is available elsewhere on the same screen. Meaning must not be conveyed by colour alone. Icons used without a text label must be from the approved set."
 
-**Question 9 (easy)** — Statement: "Meaning may be conveyed by colour alone if the colour is high contrast." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Meaning may be conveyed by colour alone if the colour is high contrast." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage states without qualification that meaning must not be conveyed by colour alone. The statement introduces a condition the passage does not recognise, and high contrast does not address the requirement's purpose, which concerns people who cannot distinguish the colours at all rather than people who cannot see them clearly. False. It is worth being precise about that purpose, because "make it a stronger red" is a common and useless response to this requirement — a stronger red is still only red.
 
-**Question 10 (moderate)** — Statement: "Every touch target must be at least 24 by 24 pixels." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "Every touch target must be at least 24 by 24 pixels." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement carries an exception: a smaller target is permitted if an equivalent target of at least 24 by 24 pixels is available elsewhere on the same screen. The statement's "every" drops that, so it is contradicted and False. The exception exists for a practical reason worth knowing: a small inline link inside a paragraph cannot always be enlarged without breaking the text, and the requirement accepts that provided the same action is reachable from a properly sized control nearby. Reading the exception is what lets you keep an inline link rather than fighting to enlarge it.
 
-**Question 11 (harder)** — Statement: "An icon with a text label must be from the approved set." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "An icon with a text label must be from the approved set." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -639,11 +639,11 @@ Your senior designer asks you to "produce an icon set for the new journey by Thu
 
 **Correct answer: B. Least effective: C**
 
-**Explanation:** Your role description says explicitly that you work under supervision and need to develop, so asking for guidance is doing your job correctly. Option B combines willingness with honesty and makes a specific, small request — and note how specific it is, naming grid, stroke and optical size rather than asking vaguely for help, which is far easier for a senior to grant and demonstrates you know what you do not know. Option A risks a set that is subtly inconsistent, which is worse than an obviously wrong one because it will ship. Option C is least effective, declining a development opportunity and handing the work back. Option D leaves your senior with a false picture of your skills.
+**Explanation:** Your role description says explicitly that you work under supervision and need to develop, so asking for guidance is doing your job correctly. Option B combines willingness with honesty and makes a specific, small request — and note how specific it is, naming grid, stroke, and optical size rather than asking vaguely for help, which is far easier for a senior to grant and demonstrates you know what you do not know. Option A risks a set that is subtly inconsistent, which is worse than an obviously wrong one because it will ship. Option C is least effective, declining a development opportunity and handing the work back. Option D leaves your senior with a false picture of your skills.
 
 **Question 2 (easy) — Something you notice in live content**
 
-Reviewing a live service, you notice that the "cancel" and "continue" buttons are distinguished only by colour — one green, one red — with no difference in shape, position or label styling beyond the words. What should you do?
+Reviewing a live service, you notice that the "cancel" and "continue" buttons are distinguished only by colour — one green, one red — with no difference in shape, position, or label styling beyond the words. What should you do?
 
 - A) Say nothing; the words are different, so it is fine.
 - B) Raise it with your senior designer, describing specifically that a user who cannot distinguish red from green has only the labels to rely on, and that the colour is doing work the design is treating as decorative.

@@ -715,7 +715,7 @@ A draft architecture principle reads: "Business capabilities should be reused ac
 
 **Correct answer: B**
 
-**Explanation:** Normative drafting distinguishes "must" (mandatory) from "should" (recommended). Reuse is a "should" — a strong steer, not an absolute rule. Approval for duplication is a "must" — the only strict requirement in the sentence. Recording in the register is another "should", making option C and therefore option D wrong. Reading modal verbs with legal precision is essential when you support the definition of principles, patterns, standards and policies: a principle whose "must" and "should" are placed carelessly will be enforced unevenly, argued over in every design authority, and quietly ignored where it is weakest. Many architects find that half their governance disputes dissolve once everyone reads the actual modal verb in the actual sentence.
+**Explanation:** Normative drafting distinguishes "must" (mandatory) from "should" (recommended). Reuse is a "should" — a strong steer, not an absolute rule. Approval for duplication is a "must" — the only strict requirement in the sentence. Recording in the register is another "should", making option C and therefore option D wrong. Reading modal verbs with legal precision is essential when you support the definition of principles, patterns, standards, and policies: a principle whose "must" and "should" are placed carelessly will be enforced unevenly, argued over in every design authority, and quietly ignored where it is weakest. Many architects find that half their governance disputes dissolve once everyone reads the actual modal verb in the actual sentence.
 
 **Passage D (for Questions 14-16) — Extract from a machinery-of-government briefing note**
 

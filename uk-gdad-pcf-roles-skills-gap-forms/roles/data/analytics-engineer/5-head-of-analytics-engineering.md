@@ -482,7 +482,7 @@ year doing nothing?
 ## Legal compliance
 
 At head level you own the standards that determine how the organisation's data is
-structured, joined and exposed, which makes several legal duties a design question
+structured, joined, and exposed, which makes several legal duties a design question
 you are answerable for. These questions ask about awareness, training and support,
 not about whether you can state the law correctly.
 

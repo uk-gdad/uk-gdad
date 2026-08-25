@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of trainee 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are learning business analysis with close support, developing skills in investigation, modelling and requirements. The resources below emphasise analysis fundamentals, elicitation technique and process modelling.
+At this role level you are learning business analysis with close support, developing skills in investigation, modelling, and requirements. The resources below emphasise analysis fundamentals, elicitation technique, and process modelling.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [BCS Foundation Certificate in Business Analysis Exam Preparation](https://www.udemy.com/course/bcs-foundation-business-analysis-exam-prep-900-questions/): Covers the strategic context for business analysis, the POPIT model, PESTLE analysis, investigation techniques, requirements engineering and stakeholder analysis, with a large practice question bank.
+- [BCS Foundation Certificate in Business Analysis Exam Preparation](https://www.udemy.com/course/bcs-foundation-business-analysis-exam-prep-900-questions/): Covers the strategic context for business analysis, the POPIT model, PESTLE analysis, investigation techniques, requirements engineering, and stakeholder analysis, with a large practice question bank.
 
 - [Business Analysis: Process Modelling](https://www.udemy.com/course/business-analysis-process-modelling-foundation/): Teaches process modelling from the ground up so that you can construct models that accurately reflect business requirements.
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [15.783J Product Design and Development](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/): A project-based Sloan course integrating marketing, design and manufacturing in creating a new product, covering identifying customer needs, concept generation and product architecture.
+- [15.783J Product Design and Development](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/): A project-based Sloan course integrating marketing, design and manufacturing in creating a new product, covering identifying customer needs, concept generation, and product architecture.
 
 - [15.980J Organizing for Innovative Product Development](https://ocw.mit.edu/courses/15-980j-organizing-for-innovative-product-development-spring-2007/): Covers technology transfer, the relationship between science and technology, and the innovation process as an organisational problem.
 
@@ -76,7 +76,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Business Architect Role: Skills, Deliverables, and Value](https://capstera.com/knowledge-hub/articles/business-architect): Useful for understanding where business analysis ends and business architecture begins, a boundary often disputed.
 
-- [Business Architecture Essentials: Aligning your Capabilities, Processes and Business Information](https://processrenewal.com/business-architecture-essentials-aligning-capabilities-processes-business-information-connecting-dots/): Connects process, capability and information models, which is the analyst's core integration problem.
+- [Business Architecture Essentials: Aligning your Capabilities, Processes and Business Information](https://processrenewal.com/business-architecture-essentials-aligning-capabilities-processes-business-information-connecting-dots/): Connects process, capability, and information models, which is the analyst's core integration problem.
 
 - [Capabilities and Value Streams: Business Architecture's Essential Alliance](https://www.bpminstitute.org/resources/articles/capabilities-value-streams-business-architectures-essential-alliance/): Explains how capability and value stream views support root cause analysis and planning.
 
@@ -128,11 +128,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Business Analysis (BCS)](https://www.amazon.com/Business-Analysis-Debra-Paul-ebook/dp/B08DG5YNCN): By Debra Paul, James Cadle and colleagues. The standard UK reference, aligned to BCS qualifications, covering investigation, modelling, requirements engineering and business case development.
 
-- [Business Analysis Techniques: 99 essential tools for success](https://www.amazon.com/Business-Analysis-Techniques-Debra-Turner/dp/1780172737): By Cadle, Paul and Turner. A reference of techniques with guidance on when each applies, useful as a working toolkit.
+- [Business Analysis Techniques: 99 essential tools for success](https://www.amazon.com/Business-Analysis-Techniques-Debra-Turner/dp/1780172737): By Cadle, Paul, and Turner. A reference of techniques with guidance on when each applies, useful as a working toolkit.
 
 - [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS): By Jeff Patton. A holistic approach to using stories in agile development without losing sight of the whole.
 
-- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): By Hunsley, Paul and colleagues. Extends analysis practice into capability and value stream views.
+- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): By Hunsley, Paul, and colleagues. Extends analysis practice into capability and value stream views.
 
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook/dp/B07K3QBWG1): By Melissa Perri. On measuring outcomes rather than output, which reframes what requirements are for.
 

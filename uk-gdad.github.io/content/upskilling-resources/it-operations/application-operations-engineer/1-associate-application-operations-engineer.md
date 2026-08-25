@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Broad coverage of hardware, operating systems, software development tools, relational databases and security, aimed at people with little background in computer technology.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Covers controlling complexity, client-server design, operating systems, performance, networks and fault tolerance. The fault tolerance lectures explain why systems fail in the ways you will observe.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Covers controlling complexity, client-server design, operating systems, performance, networks, and fault tolerance. The fault tolerance lectures explain why systems fail in the ways you will observe.
 
 - [RES.6-004 Principles of Computer System Design: An Introduction](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/): A freely available text on system design principles, including a substantial treatment of faults and how systems tolerate them.
 
@@ -62,7 +62,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Operate a reliable service, GOV.UK Service Standard point 14](https://www.gov.uk/service-manual/service-standard/point-14-operate-a-reliable-service): The standard your work is judged against in UK government: minimise downtime, monitor appropriately, and have a proportionate plan to respond.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [PagerDuty Incident Response Documentation](https://response.pagerduty.com/): An openly published incident response process, covering how to prepare new people for on-call and how major incidents are handled.
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementation and impacts of IT Service Management in the IT function](https://www.sciencedirect.com/science/article/abs/pii/S0268401223000099): A systematic review of empirical ITSM research published between 2012 and 2021, showing what implementations actually achieve.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Analyses 47 articles to extract the benefits, challenges and practices of ITSM implementation.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Analyses 47 articles to extract the benefits, challenges, and practices of ITSM implementation.
 
 - [Site Reliability Engineering (SRE) and Observations on SRE Process to Make Tasks Easier](https://arxiv.org/html/2505.01926v1): A practitioner-oriented account of the SRE process and where its friction points sit.
 
@@ -92,7 +92,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Artificial Intelligence for IT Operations (AIOps) Workshop White Paper](https://arxiv.org/pdf/2101.06054): Maps the AIOps field from resource management through to failure prediction, anomaly detection and remediation.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Reviews root cause analysis techniques across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Reviews root cause analysis techniques across metrics, traces, logs, and multi-model data.
 
 - [Improving the Software Problem Management Process: A Case Study](https://link.springer.com/chapter/10.1007/11908562_5): A case study of the challenges in a real software problem management process, rather than an idealised description of one.
 
@@ -134,7 +134,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Gene Kim, Kevin Behr and George Spafford. A novel, and the fastest way to understand why unmanaged operational work destroys delivery.
 
-- [The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The reference text for enterprise operations practice, worth owning early and rereading.
+- [The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The reference text for enterprise operations practice, worth owning early and rereading.
 
 - [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Rob Schnepp, Ron Vidal and Chris Hawley. Applies the incident command system used by emergency services to IT operations.
 

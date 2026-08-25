@@ -8,12 +8,12 @@ Psychometric assessments are structured, standardised exercises that measure the
 
 This document is organised into four assessment areas, each aligned to your role's skills as defined in the GDAD Profession Capability Framework:
 
-1. **Workplace job-specific cognitive assessment** — pattern recognition, logical deduction, error checking and prioritisation using the artefacts a principal security architect genuinely handles: architecture diagrams, control frameworks, firewall rule sets and threat models.
+1. **Workplace job-specific cognitive assessment** — pattern recognition, logical deduction, error checking and prioritisation using the artefacts a principal security architect genuinely handles: architecture diagrams, control frameworks, firewall rule sets, and threat models.
 2. **Workplace job-specific numeric reasoning assessment** — interpreting risk metrics, security programme budgets, remediation statistics and capacity figures, and reasoning about cost-benefit trade-offs in controls.
-3. **Workplace job-specific verbal reasoning assessment** — drawing precise conclusions from dense written material such as security policies, assurance reports, legal guidance and senior stakeholder correspondence.
-4. **Workplace job-specific situational judgement assessment** — exercising professional judgement in realistic dilemmas involving senior risk owners, delivery teams, suppliers and cross-government stakeholders.
+3. **Workplace job-specific verbal reasoning assessment** — drawing precise conclusions from dense written material such as security policies, assurance reports, legal guidance, and senior stakeholder correspondence.
+4. **Workplace job-specific situational judgement assessment** — exercising professional judgement in realistic dilemmas involving senior risk owners, delivery teams, suppliers, and cross-government stakeholders.
 
-Each section explains what the assessment measures, maps it explicitly to your role's skills, provides a substantial set of practice questions with worked answers, and closes with preparation tips and common pitfalls. Work through the questions actively: attempt each one before reading the explanation, note where your reasoning diverged, and revisit those areas. Used this way, the document supports practice, self-reflection and preparation in equal measure.
+Each section explains what the assessment measures, maps it explicitly to your role's skills, provides a substantial set of practice questions with worked answers, and closes with preparation tips and common pitfalls. Work through the questions actively: attempt each one before reading the explanation, note where your reasoning diverged, and revisit those areas. Used this way, the document supports practice, self-reflection, and preparation in equal measure.
 
 You bring deep expertise to this material already. Treat these exercises as an opportunity to make that expertise visible under assessment conditions — and enjoy the process.
 
@@ -25,7 +25,7 @@ You bring deep expertise to this material already. Treat these exercises as an o
 
 ### About this assessment
 
-A workplace job-specific cognitive ability assessment is a targeted psychometric test that measures the exact mental processes your role demands, using practical workplace scenarios rather than abstract puzzles. Unlike a generic IQ test, every stimulus mimics the everyday tasks and data formats of the actual job — for a Principal Security Architect, that means architecture diagrams, control mappings, access rules, vulnerability data and threat models. Assessments of this kind are typically delivered online, timed at around 15 to 30 minutes, objectively scored against a norm group, and validated so that questions predict job success without bias.
+A workplace job-specific cognitive ability assessment is a targeted psychometric test that measures the exact mental processes your role demands, using practical workplace scenarios rather than abstract puzzles. Unlike a generic IQ test, every stimulus mimics the everyday tasks and data formats of the actual job — for a Principal Security Architect, that means architecture diagrams, control mappings, access rules, vulnerability data, and threat models. Assessments of this kind are typically delivered online, timed at around 15 to 30 minutes, objectively scored against a norm group, and validated so that questions predict job success without bias.
 
 For a principal-level role, cognitive assessments carry particular weight because the role is defined by decision quality on services of high complexity and risk. When you set a long-term security strategy across the breadth of an organisation, you are performing sustained acts of pattern recognition (what recurs across these systems?), logical deduction (what must follow if this trust assumption fails?), error checking (which of these configurations contradicts the stated principle?) and prioritisation (which of these unprecedented problems do we solve first?). The assessment compresses those acts into short, sharply timed items. Expect a mixture of diagrammatic reasoning, rule-based deduction, consistency checking across documents, and ordering or scheduling problems. Modern platforms may adapt difficulty to your answers, and employers usually receive a breakdown of speed versus accuracy rather than a single score — so disciplined accuracy matters as much as pace.
 
@@ -204,8 +204,8 @@ Your remediation squad can absorb 8 units of work this sprint. Five remediations
 
 A) R1 and R3
 B) R1 and R5
-C) R2, R3 and R5
-D) R1, R3 and R5
+C) R2, R3, and R5
+D) R1, R3, and R5
 
 **Correct answer: A.**
 
@@ -325,7 +325,7 @@ D) £900,000
 
 **Question 3 (easy) — Ratio of findings**
 
-A security architecture review across three major programmes yields 45 findings: 9 critical, 18 high and 18 medium. What is the ratio of critical to high to medium findings in its simplest form?
+A security architecture review across three major programmes yields 45 findings: 9 critical, 18 high, and 18 medium. What is the ratio of critical to high to medium findings in its simplest form?
 
 A) 9:18:18
 B) 1:2:2
@@ -569,25 +569,25 @@ In format terms, expect a series of short passages, each followed by two to five
 
 "All new digital services must complete a security architecture review before public beta. Services handling special category data must additionally obtain senior risk owner sign-off before private beta. Where a service reuses an approved architectural pattern without modification, the review may be conducted as a desk-based assessment. Reviews conducted more than twelve months before public beta must be refreshed. This standard does not apply to services procured as commodity software-as-a-service, which follow the third-party assurance process."
 
-**Question 1 (easy).** True, False or Cannot Say: "A new digital service that reuses an approved pattern without modification is exempt from security architecture review."
+**Question 1 (easy).** True, False, or Cannot Say: "A new digital service that reuses an approved pattern without modification is exempt from security architecture review."
 
 **Correct answer: False.**
 
 **Explanation:** The passage says such a service's review "may be conducted as a desk-based assessment" — a lighter form of review, not an exemption. The review obligation stands; only its format changes. Watch for statements that upgrade a concession into an exemption: the difference between "lighter-touch" and "not required" is precisely the kind of distinction you police in real standards.
 
-**Question 2 (easy).** True, False or Cannot Say: "Commodity software-as-a-service products receive no security scrutiny."
+**Question 2 (easy).** True, False, or Cannot Say: "Commodity software-as-a-service products receive no security scrutiny."
 
 **Correct answer: False.**
 
 **Explanation:** The passage states such services "follow the third-party assurance process". Being out of scope of this standard is not the same as receiving no scrutiny; the text names the alternative route explicitly. The statement contradicts the passage, so the answer is False rather than Cannot Say.
 
-**Question 3 (moderate).** True, False or Cannot Say: "A service handling special category data needs senior risk owner sign-off before public beta."
+**Question 3 (moderate).** True, False, or Cannot Say: "A service handling special category data needs senior risk owner sign-off before public beta."
 
 **Correct answer: True.**
 
 **Explanation:** The passage requires sign-off before private beta, and private beta precedes public beta in the standard service lifecycle the passage assumes (review "before public beta", sign-off "before private beta" as an additional, earlier gate). If sign-off must exist before private beta, it necessarily exists before public beta. This item rewards careful sequencing of the stated gates. Note the strict-reading caution: the conclusion follows from the passage's own ordering of the two beta phases, not from outside knowledge.
 
-**Question 4 (moderate).** True, False or Cannot Say: "Desk-based assessments are less rigorous than full security architecture reviews."
+**Question 4 (moderate).** True, False, or Cannot Say: "Desk-based assessments are less rigorous than full security architecture reviews."
 
 **Correct answer: Cannot Say.**
 
@@ -597,13 +597,13 @@ In format terms, expect a series of short passages, each followed by two to five
 
 "The department's residual cyber risk remains within appetite this quarter, although the margin has narrowed for the third consecutive quarter. The principal driver is the delayed decommissioning of the legacy case-management estate, now forecast to complete in Q4 rather than Q2. The security architecture team has compensated with additional network segmentation, which the chief information security officer considers proportionate on an interim basis. Should decommissioning slip beyond Q4, the accounting officer will be asked to formally accept the elevated risk or fund accelerated migration. No exploitation of the legacy estate has been detected to date."
 
-**Question 5 (moderate).** True, False or Cannot Say: "The department's cyber risk is currently outside appetite."
+**Question 5 (moderate).** True, False, or Cannot Say: "The department's cyber risk is currently outside appetite."
 
 **Correct answer: False.**
 
 **Explanation:** The opening sentence states residual risk "remains within appetite this quarter". The narrowing margin signals a trend, not a breach. Distinguishing a deteriorating trajectory from a crossed threshold is a distinction you make constantly when communicating risk at senior levels — and the passage's own words settle it here.
 
-**Question 6 (moderate).** True, False or Cannot Say: "The legacy estate has not been compromised."
+**Question 6 (moderate).** True, False, or Cannot Say: "The legacy estate has not been compromised."
 
 **Correct answer: Cannot Say.**
 
@@ -620,7 +620,7 @@ D) The department will breach its risk appetite.
 
 **Explanation:** The passage presents a disjunction: formal acceptance or funding acceleration. Option A collapses the disjunction into one branch; C invents a consequence the text nowhere states (the CISO's view is described as "proportionate on an interim basis", with no withdrawal threatened); D predicts a breach the passage does not assert — it describes a decision point, not an outcome. Preserving disjunctions faithfully is essential in escalation papers: the moment "accept or fund" becomes "must fund", you have misbriefed your accounting officer.
 
-**Question 8 (hard).** True, False or Cannot Say: "The additional network segmentation was implemented because decommissioning was delayed."
+**Question 8 (hard).** True, False, or Cannot Say: "The additional network segmentation was implemented because decommissioning was delayed."
 
 **Correct answer: True.**
 
@@ -630,19 +630,19 @@ D) The department will breach its risk appetite.
 
 "The supplier's platform encrypts customer data at rest using keys managed in a certified hardware security module. Encryption in transit is enforced for all external interfaces; internal service-to-service traffic is encrypted where the deployment architecture supports it. The supplier commits to notifying customers of any personal data breach within 48 hours of becoming aware. Penetration testing is conducted annually by an independent firm; the most recent test identified two medium-severity findings, both of which the supplier states have been remediated. Remediation evidence was not reviewed as part of this assessment."
 
-**Question 9 (moderate).** True, False or Cannot Say: "All traffic within the supplier's platform is encrypted."
+**Question 9 (moderate).** True, False, or Cannot Say: "All traffic within the supplier's platform is encrypted."
 
 **Correct answer: False.**
 
 **Explanation:** The passage carves out internal traffic: it is encrypted "where the deployment architecture supports it", which entails there are architectures where it is not. "All external interfaces" plus a conditional internal statement cannot support "all traffic". Qualifier-spotting — where, unless, to the extent that — is the heart of reading supplier assurances, because those qualifiers are exactly where the residual risk lives.
 
-**Question 10 (hard).** True, False or Cannot Say: "The two medium-severity findings from the most recent penetration test have been fixed."
+**Question 10 (hard).** True, False, or Cannot Say: "The two medium-severity findings from the most recent penetration test have been fixed."
 
 **Correct answer: Cannot Say.**
 
 **Explanation:** The passage reports that "the supplier states" the findings have been remediated, and immediately adds that remediation evidence "was not reviewed as part of this assessment". A claim attributed to an interested party, explicitly unverified, cannot ground True; nothing contradicts it either, so it is not False. Cannot Say precisely captures the evidential position — and noticing attribution ("the supplier states") is a professional reflex this item deliberately tests. In your real reviews, this is the sentence you would flag for evidence before relying on it.
 
-**Question 11 (hard).** True, False or Cannot Say: "The supplier will notify customers within 48 hours of a personal data breach occurring."
+**Question 11 (hard).** True, False, or Cannot Say: "The supplier will notify customers within 48 hours of a personal data breach occurring."
 
 **Correct answer: False.**
 
@@ -652,13 +652,13 @@ D) The department will breach its risk appetite.
 
 "Confidential computing enclaves protect data in use by isolating computation within hardware-attested environments. Early adopters in the financial sector report that enclave attestation adds measurable latency, although published benchmarks vary widely by workload. Proponents argue the technology could eventually remove the need to trust cloud infrastructure administrators. Current implementations, however, depend on the correctness of the processor vendor's firmware, and several attestation bypass vulnerabilities have been disclosed and patched in the last three years. Government pilots have so far been limited to non-production analytics workloads."
 
-**Question 12 (moderate).** True, False or Cannot Say: "Confidential computing removes the need to trust cloud infrastructure administrators."
+**Question 12 (moderate).** True, False, or Cannot Say: "Confidential computing removes the need to trust cloud infrastructure administrators."
 
 **Correct answer: False.**
 
 **Explanation:** The passage attributes this as a future possibility argued by proponents ("could eventually remove"), and immediately undercuts it for current implementations, which "depend on the correctness of the processor vendor's firmware". The statement asserts as accomplished fact what the passage frames as advocacy about the future; the passage's present-tense caveats contradict it. Distinguishing a proponent's claim from an established property is the exact skill you use when validating new technologies for adoption across the organisation.
 
-**Question 13 (moderate).** True, False or Cannot Say: "Government organisations have used confidential computing in production services."
+**Question 13 (moderate).** True, False, or Cannot Say: "Government organisations have used confidential computing in production services."
 
 **Correct answer: False.**
 
@@ -675,7 +675,7 @@ D) A technology whose only obstacle is latency.
 
 **Explanation:** The passage balances promise (protection of data in use, proponents' trust argument) against caveats (latency, firmware dependence, disclosed-and-patched bypasses, non-production pilots only). Option A overstates maturity against the explicit non-production limitation; C overstates failure — vulnerabilities were "disclosed and patched", and nothing "failed in practice"; D reduces multiple caveats to one. Summary items reward weighing every clause, exactly as you would when contributing to developments on security properties in technology and briefing others on whether to adopt.
 
-**Question 15 (hard).** True, False or Cannot Say: "Enclave attestation latency makes confidential computing unsuitable for citizen-facing transactional services."
+**Question 15 (hard).** True, False, or Cannot Say: "Enclave attestation latency makes confidential computing unsuitable for citizen-facing transactional services."
 
 **Correct answer: Cannot Say.**
 
@@ -685,19 +685,19 @@ D) A technology whose only obstacle is latency.
 
 "Thank you for your review of the identity platform design. I accept the recommendation to defer the biometric enrolment feature until the privacy assessment concludes, though I remain concerned about the impact on our published roadmap. On the federation question, my technical lead disagrees with your assessment that the proposed token lifetime creates undue risk; she believes the compensating monitoring controls are sufficient. I would like your team and hers to reach a joint position before the design authority meets on the 14th. Separately, the Cabinet Office has asked whether our pattern could be reused by two other departments; I have said we are open to this in principle, subject to your view on the security implications of multi-tenancy. Funding for phase two is not yet confirmed."
 
-**Question 16 (easy).** True, False or Cannot Say: "The programme director has rejected the recommendation to defer biometric enrolment."
+**Question 16 (easy).** True, False, or Cannot Say: "The programme director has rejected the recommendation to defer biometric enrolment."
 
 **Correct answer: False.**
 
 **Explanation:** The email says "I accept the recommendation to defer" — an explicit acceptance, with a concern noted alongside it. Accepting-with-reservations is still accepting; the statement contradicts the text directly. Under time pressure, candidates sometimes let the word "concerned" colour the whole sentence, but the verdict rests on the operative verb.
 
-**Question 17 (moderate).** True, False or Cannot Say: "The technical lead believes the token lifetime creates undue risk."
+**Question 17 (moderate).** True, False, or Cannot Say: "The technical lead believes the token lifetime creates undue risk."
 
 **Correct answer: False.**
 
 **Explanation:** The passage says the technical lead "disagrees with your assessment that the proposed token lifetime creates undue risk" and considers the compensating controls sufficient. Her stated position is the opposite of the statement. This item rewards careful tracking of who holds which view in multi-party correspondence — the everyday texture of managing stakeholder expectations across high-risk work, where misattributing a position can derail a design authority meeting.
 
-**Question 18 (moderate).** True, False or Cannot Say: "The pattern will be reused by two other departments."
+**Question 18 (moderate).** True, False, or Cannot Say: "The pattern will be reused by two other departments."
 
 **Correct answer: Cannot Say.**
 
@@ -714,7 +714,7 @@ D) Confirm the security implications of multi-tenancy for the Cabinet Office.
 
 **Explanation:** The only request with the 14th as its deadline is "I would like your team and hers to reach a joint position before the design authority meets on the 14th", concerning the federation disagreement. Option A prejudges the outcome of that joint work; C attaches the recipient to an assessment the email treats as an external dependency; D is a request in substance ("subject to your view") but carries no date and is framed as "separately". Extracting the precise ask, owner and deadline from senior correspondence is a core communication discipline — the difference between responding to what was written and what was skimmed.
 
-**Question 20 (hard).** True, False or Cannot Say: "Phase two of the programme will be cancelled if funding is not confirmed."
+**Question 20 (hard).** True, False, or Cannot Say: "Phase two of the programme will be cancelled if funding is not confirmed."
 
 **Correct answer: Cannot Say.**
 
@@ -724,19 +724,19 @@ D) Confirm the security implications of multi-tenancy for the Cabinet Office.
 
 "Finding 7 (medium): The organisation's security architecture principles have not been formally reviewed since publication three years ago, although individual patterns have been updated on an ad hoc basis. Audit testing of ten recent solution designs found that eight referenced the principles; of these, six evidenced full alignment and two documented approved exceptions. The remaining two designs made no reference to the principles. Management response: accepted. The principal security architect will establish an annual review cycle for the principles, with the first review completing within six months. The two non-referencing designs pre-date the current governance process and will be assessed retrospectively only if they are materially changed."
 
-**Question 21 (moderate).** True, False or Cannot Say: "The audit found that two solution designs breached the security architecture principles."
+**Question 21 (moderate).** True, False, or Cannot Say: "The audit found that two solution designs breached the security architecture principles."
 
 **Correct answer: False.**
 
 **Explanation:** Careful separation of categories is everything here. Of the ten designs, eight referenced the principles: six fully aligned and two with documented approved exceptions — an approved exception is compliance with the governance process, not a breach. The remaining two made no reference to the principles, which is a documentation and governance gap; the audit text does not say those designs breached the principles' content, and indeed it says nothing about their substantive alignment at all. The statement asserts a breach the passage never records, and misreads "approved exceptions" or "no reference" as violations. In audit language, these distinctions carry real consequences — a "breach" finding would demand a different management response entirely.
 
-**Question 22 (moderate).** True, False or Cannot Say: "The principles will be reviewed every year from now on."
+**Question 22 (moderate).** True, False, or Cannot Say: "The principles will be reviewed every year from now on."
 
 **Correct answer: Cannot Say.**
 
 **Explanation:** The management response commits the principal security architect to establish an annual review cycle, with the first review inside six months. A commitment to establish a cycle is a statement of intention, not a report of an operating fact — management responses are promises, and audit follow-up exists precisely because promises are not always kept. The passage neither confirms the cycle will actually run every year nor contradicts it. Candidates who answer True are converting a planned control into an operating one — exactly the error your own assurance reviews are designed to catch.
 
-**Question 23 (hard).** True, False or Cannot Say: "The two designs that did not reference the principles will never be assessed against them."
+**Question 23 (hard).** True, False, or Cannot Say: "The two designs that did not reference the principles will never be assessed against them."
 
 **Correct answer: False.**
 
@@ -762,7 +762,7 @@ D) Confirm the security implications of multi-tenancy for the Cabinet Office.
 
 ### About this assessment
 
-A workplace job-specific situational judgement assessment evaluates decision-making, interpersonal skill and professional conduct through realistic workplace dilemmas. Unlike logic or numeric tests, there is rarely a single objectively right answer: several responses may seem reasonable, and the scoring reflects which behaviours best fit the organisation's values and the demands of the role. Response formats typically ask you to select the most effective and least effective actions from a set, or to rank or rate every option. Timing is usually generous or absent, because the assessment targets your natural judgement rather than your speed.
+A workplace job-specific situational judgement assessment evaluates decision-making, interpersonal skill, and professional conduct through realistic workplace dilemmas. Unlike logic or numeric tests, there is rarely a single objectively right answer: several responses may seem reasonable, and the scoring reflects which behaviours best fit the organisation's values and the demands of the role. Response formats typically ask you to select the most effective and least effective actions from a set, or to rank or rate every option. Timing is usually generous or absent, because the assessment targets your natural judgement rather than your speed.
 
 For a Principal Security Architect, the situational judgement assessment is arguably the most role-authentic of the four. Your effectiveness at this level depends less on producing artefacts yourself and more on how you act as a point of escalation, manage senior stakeholder expectations under constrained timescales, respond to challenge, influence important business and architectural decisions, and further the profession by setting an example. The dilemmas below are calibrated to UK public sector values — user needs, transparency, collaboration, accessibility and inclusion — alongside the specific trust relationship you hold with senior risk owners. When judging options, favour actions that address the root issue, keep risk owners genuinely informed, preserve relationships while telling the truth, and strengthen the organisation's capability rather than just resolving today's incident. Be wary of options that are passive, that pass a problem elsewhere without ownership, or that are idealistic in a way that would not survive contact with a real programme.
 
@@ -950,7 +950,7 @@ A supplier hosting one of your services reports a confirmed breach of their envi
 
 ## Conclusion
 
-You have now worked through the four assessment areas most relevant to your role as a Principal Security Architect: cognitive ability, numeric reasoning, verbal reasoning and situational judgement. Along the way you have traced exploit paths through layered controls, recomputed loss expectancies and remediation trajectories, dissected assurance reports clause by clause, and weighed the judgement calls that come with being an escalation point, an exemplar and a strategy-setter.
+You have now worked through the four assessment areas most relevant to your role as a Principal Security Architect: cognitive ability, numeric reasoning, verbal reasoning, and situational judgement. Along the way you have traced exploit paths through layered controls, recomputed loss expectancies and remediation trajectories, dissected assurance reports clause by clause, and weighed the judgement calls that come with being an escalation point, an exemplar and a strategy-setter.
 
 If a theme runs through all four sections, it is this: the assessments do not test something separate from your job — they compress it. The same discipline that makes you effective in a design authority (state the rule precisely, follow the evidence, respect what the material does and does not establish, choose the action that addresses the root issue) is what earns marks under timed conditions. That should be encouraging. You are not preparing to become someone else for a test; you are practising making your existing expertise visible at speed.
 

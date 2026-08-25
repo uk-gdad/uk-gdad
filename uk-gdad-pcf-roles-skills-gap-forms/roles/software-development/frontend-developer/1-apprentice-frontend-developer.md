@@ -162,7 +162,7 @@ else build interfaces?
 - [ ] Not sure
 
 **Q3.** Which of the three frontend technologies do you feel most and least
-confident in — HTML, CSS or JavaScript?
+confident in — HTML, CSS, or JavaScript?
 
 *Your answer:*
 
@@ -247,7 +247,7 @@ uses assistive technology, time with the testing tools, or something else?
 
 ### Skill: Communicating information
 
-**What this means.** Understanding what designers, product people and other
+**What this means.** Understanding what designers, product people, and other
 stakeholders are asking for, and being understood in return.
 
 **What the framework expects at this level.** That you listen to the needs of
@@ -767,7 +767,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/frontend-developer/1-apprentice-frontend-developer.md)
-  — courses, blog posts, videos and books for an apprentice frontend developer.
+  — courses, blog posts, videos, and books for an apprentice frontend developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/frontend-developer/1-apprentice-frontend-developer.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/frontend-developer/1-apprentice-frontend-developer.md)

@@ -115,7 +115,7 @@ development standards, programming and build, prototyping, and — nearly — us
 focus. Four change: strategic thinking, systems integration, web performance
 optimisation, and leadership and guidance. The rest of the difference sits in
 the accountabilities: helping set direction and embed good practice within
-teams, making decisions based on research, planning and leading development
+teams, making decisions based on research, planning, and leading development
 across sets of related stories, understanding the whole system, and teaching
 others.
 
@@ -824,7 +824,7 @@ to ask for a date.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/frontend-developer/3-frontend-developer.md)
-  — courses, articles, talks and books pitched at frontend developer.
+  — courses, articles, talks, and books pitched at frontend developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/frontend-developer/3-frontend-developer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/frontend-developer/3-frontend-developer.md)

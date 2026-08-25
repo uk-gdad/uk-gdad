@@ -22,7 +22,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Covers operating reliable systems at scale, combining automation, monitoring, incident response and reliability measurement.
 
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Teaches Python, Git and configuration management for automating system administration tasks. The fastest route out of doing routine maintenance by hand.
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Teaches Python, Git, and configuration management for automating system administration tasks. The fastest route out of doing routine maintenance by hand.
 
 - [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Covers incidents, problems, service requests, change management and the configuration management database in a working ITSM platform.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Covers availability, capacity and performance, change control, incident, IT asset, monitoring, event and problem management. Close to a list of your daily responsibilities.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Covers availability, capacity and performance, change control, incident, IT asset, monitoring, event, and problem management. Close to a list of your daily responsibilities.
 
 - [Service Desk, IT Asset, Service Configuration, and Change Control Management: ITIL](https://www.skillsoft.com/course/service-desk-it-asset-service-configuration-and-change-control-management-2292f3ad-2832-42ed-b23a-014758fa6da3): The asset and configuration practices behind maintaining secure configuration and verifying the location and state of IT assets.
 
@@ -54,9 +54,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Covers modularity, operating systems, performance, networks, and fault tolerance including replication, transactions and isolation.
 
-- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Relational algebra, schema normalisation, query optimisation and transactions. Useful when the application problem turns out to be a database problem.
+- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Relational algebra, schema normalisation, query optimisation, and transactions. Useful when the application problem turns out to be a database problem.
 
-- [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Broad coverage of hardware, operating systems, development tools, relational databases, security and enterprise applications.
+- [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Broad coverage of hardware, operating systems, development tools, relational databases, security, and enterprise applications.
 
 ## Blog posts
 
@@ -70,11 +70,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Monitoring the GOV.UK infrastructure](https://technology.blog.gov.uk/2016/03/30/monitoring-the-gov-uk-infrastructure/): Concrete detail on alerting and on-call arrangements for a large public service.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [IT Asset Management Best Practices, Atlassian](https://www.atlassian.com/itsm/it-asset-management/best-practices): Practical guidance on tracking assets and configuration items and keeping the records true.
 
-- [Atlassian Asset and Service Configuration Management Handbook](https://www.atlassian.com/whitepapers/it-asset-and-service-configuration-management-in-jira-service-management): Covers visibility into relationships between applications, services and underlying infrastructure.
+- [Atlassian Asset and Service Configuration Management Handbook](https://www.atlassian.com/whitepapers/it-asset-and-service-configuration-management-in-jira-service-management): Covers visibility into relationships between applications, services, and underlying infrastructure.
 
 - [IT Change Management: ITIL Framework and Best Practices, Atlassian](https://www.atlassian.com/itsm/change-management): Explains how change management minimises disruption while keeping delivery agile.
 
@@ -90,7 +90,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [AIOps for log anomaly detection in the era of LLMs: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S2667305325001346): Reviews log anomaly detection, including recent large language model approaches.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Covers root cause analysis across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Covers root cause analysis across metrics, traces, logs, and multi-model data.
 
 - [Site Reliability Engineering (SRE) and Observations on SRE Process to Make Tasks Easier](https://arxiv.org/html/2505.01926v1): An account of the SRE process and where practitioners find friction.
 
@@ -126,17 +126,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The standing reference for enterprise operations practice.
+- [The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The standing reference for enterprise operations practice.
 
 - [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): The companion volume for distributed and cloud services, with case studies from large operators.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What good observability is, and why dashboards alone are not it.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What good observability is, and why dashboards alone are not it.
 
-- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Building capability to design, deploy, monitor and sustain enterprise software at scale.
+- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Building capability to design, deploy, monitor, and sustain enterprise software at scale.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. The practical companion to the SRE book, oriented to putting practices in place.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. The practical companion to the SRE book, oriented to putting practices in place.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command system applied to IT.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command system applied to IT.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. Grounding in the ITIL incident management practice.
 
@@ -144,7 +144,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ITSM QuickStart Guide: The Simplified Beginner's Guide to IT Service Management](https://www.amazon.com/ITSM-QuickStart-Simplified-Beginners-Management/dp/1945051086): By ClydeBank Technology. Covers ITIL alongside ISO/IEC 20000 and eTOM.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Why unplanned operational work crowds out everything else, told as a story.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Why unplanned operational work crowds out everything else, told as a story.
 
 ## Professional development tips
 

@@ -10,8 +10,8 @@ Your role level shapes everything that follows. As a junior user researcher you 
 
 The document is organised into four main sections, one for each common assessment type:
 
-1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using research artefacts such as discussion guides, analysis grids, participant trackers and session schedules.
-2. A numeric reasoning assessment — percentages, proportions, averages, ratios and simple table interpretation, using participant counts, completion rates, analytics funnels and accessibility comparisons.
+1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using research artefacts such as discussion guides, analysis grids, participant trackers, and session schedules.
+2. A numeric reasoning assessment — percentages, proportions, averages, ratios and simple table interpretation, using participant counts, completion rates, analytics funnels, and accessibility comparisons.
 3. A verbal reasoning assessment — reading standards, ethics guidance, policy summaries and stakeholder emails, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic dilemmas pitched at your level, with guidance on the most and least effective responses and, crucially, on why.
 
@@ -322,7 +322,7 @@ Which task had a completion rate of exactly 55%?
 
 **Question 4 (easy) — Mean session length**
 
-Six sessions lasted 55, 60, 45, 50, 65 and 45 minutes. What was the mean length?
+Six sessions lasted 55, 60, 45, 50, 65, and 45 minutes. What was the mean length?
 
 - A) 50 minutes
 - B) 53 minutes
@@ -444,7 +444,7 @@ Eight participants took these times, in minutes, to complete a task: 2, 3, 3, 4,
 - **Estimate first, always.** Three seconds of "about three quarters" catches most serious mistakes before they happen.
 - **Go back to totals when combining averages.** Never average two means from groups of different sizes.
 - **Learn the percentage point distinction until it is automatic.** Write yourself one sentence about it and re-read it before any assessment.
-- **Practise on your team's real data.** Calculate the completion rate, no-show rate and median session length from an actual tracker. It is more memorable than abstract drills and it makes you useful.
+- **Practise on your team's real data.** Calculate the completion rate, no-show rate, and median session length from an actual tracker. It is more memorable than abstract drills and it makes you useful.
 - **Get familiar with an on-screen calculator.** Fumbling an unfamiliar interface eats the seconds you need for thinking.
 
 ### Common pitfalls to avoid
@@ -464,7 +464,7 @@ Eight participants took these times, in minutes, to complete a task: 2, 3, 3, 4,
 
 A verbal reasoning assessment measures how accurately you read. That sounds almost too basic to be worth testing, yet it is one of the strongest predictors of performance in document-driven work — and user research is document-driven work. You read service standards, ethics guidance, policy summaries, accessibility requirements, discussion guides, consent forms, stakeholder emails and, above all, the words participants actually say. Reading any of those slightly wrong changes what you do next.
 
-The classic format gives you a short passage of dense workplace prose, usually three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily from the passage. False means the passage contradicts it. Cannot Say means the passage neither confirms nor contradicts it, so answering would require information you have not been given. Alongside these you will meet comprehension questions, main-point questions, and questions asking which of four summaries is most accurate.
+The classic format gives you a short passage of dense workplace prose, usually three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily from the passage. False means the passage contradicts it. Cannot Say means the passage neither confirms nor contradicts it, so answering would require information you have not been given. Alongside these you will meet comprehension questions, main-point questions, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Everything you know about research ethics, data protection or the GOV.UK Service Manual must be set aside. If the passage contradicts your professional knowledge, the passage still wins. This feels unnatural and it is the largest single source of lost marks: candidates recognise a statement as true of the world and mark it True even though the passage never said it. That is a Cannot Say.
 
@@ -491,25 +491,25 @@ The verbal skills tested map onto your named skills:
 
 "Teams must publish a research plan before fieldwork begins. The plan must state the research questions, the methods to be used, and the recruitment approach. Where a team intends to research with participants who may be considered vulnerable, the plan must also include a safeguarding section, approved by the lead user researcher. Plans may be revised during fieldwork, provided that any revision is dated and the reason recorded."
 
-**Question 1 (easy)** — Statement: "A research plan must be published before fieldwork starts." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "A research plan must be published before fieldwork starts." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly, so the statement follows necessarily and is True. This is the most straightforward item type in the section, and the right approach is to answer it quickly and confidently so that you bank time for harder items later. Candidates sometimes lose marks on easy items by hunting for a trick that is not there — if the passage plainly says the thing, mark it True and move on.
 
-**Question 2 (easy)** — Statement: "Every research plan must contain a safeguarding section." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Every research plan must contain a safeguarding section." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage requires a safeguarding section only where the team intends to research with participants who may be considered vulnerable. The statement extends that requirement to every plan, which the passage does not support and effectively contradicts, because the conditional wording implies plans without such participants do not need one. So the answer is False. The word doing the work is "every" — absolute terms should always send you back to check whether the passage attached a condition. Here it plainly did.
 
-**Question 3 (moderate)** — Statement: "A plan revised in week two of fieldwork without a recorded reason complies with the requirements." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A plan revised in week two of fieldwork without a recorded reason complies with the requirements." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The final sentence permits revision during fieldwork only on condition that the revision is dated and the reason recorded. A revision without a recorded reason fails one of the two stated conditions, so it does not comply, and the statement is contradicted — False. Note the structure: "provided that" introduces conditions, and failing any one of them breaks compliance. Contrast this with Question 4 below, where the passage is silent rather than conditional; the distinction between a failed condition and an unmentioned matter is exactly what separates False from Cannot Say.
 
-**Question 4 (moderate)** — Statement: "The research plan must state the number of participants." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "The research plan must state the number of participants." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -519,25 +519,25 @@ The verbal skills tested map onto your named skills:
 
 "The evaluation found that participants recruited through community organisations were more likely to report difficulty with the online form than those recruited through the research panel. The evaluation team notes that the two groups differed in several respects, including age and prior use of digital services. Further work is planned for the autumn, funding permitting. The team recommends that recruitment for future rounds should draw on both routes."
 
-**Question 5 (easy)** — Statement: "Participants recruited through community organisations reported more difficulty than panel participants." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Participants recruited through community organisations reported more difficulty than panel participants." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states that community-recruited participants were more likely to report difficulty with the online form, which is what the statement says. It follows necessarily, so the answer is True. Note that the passage's careful phrase is "more likely to report difficulty" rather than "found it harder", and the statement respects that by saying "reported more difficulty". Had the statement claimed they "found the form harder to use", that would convert a report into an objective fact about performance, and the answer would shift to Cannot Say.
 
-**Question 6 (moderate)** — Statement: "The difference in reported difficulty was caused by the recruitment route." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The difference in reported difficulty was caused by the recruitment route." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage records an association and then explicitly flags that the two groups differed in other respects, including age and prior digital experience. Either of those could be responsible for the difference, so causation is not established. The passage neither confirms nor denies that recruitment route is the cause, making this a Cannot Say. This is a genuinely important distinction, and not only for the test: treating an association as a cause is one of the ways a research team ends up fixing the wrong thing. The passage's own authors were careful here, and the question rewards you for reading that care rather than skating past it.
 
-**Question 7 (moderate)** — Statement: "Further work will take place in the autumn." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Further work will take place in the autumn." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says further work is planned for the autumn, funding permitting. Two things stand between the plan and the statement: whether funding will be forthcoming, and the difference between a plan and a certainty. The statement asserts the work will happen, which the passage does not support, so the answer is Cannot Say. "Funding permitting" is a conditional flag of exactly the same family as "subject to", "provided that" and "if approved", and conditional flags point overwhelmingly towards Cannot Say. Train yourself to notice them; they are among the most reliable signposts in the whole section.
 
-**Question 8 (harder)** — Statement: "The evaluation team believes a single recruitment route is insufficient for future rounds." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The evaluation team believes a single recruitment route is insufficient for future rounds." True, False, or Cannot Say?
 
 **Correct answer: True**
 
@@ -547,19 +547,19 @@ The verbal skills tested map onto your named skills:
 
 "Researchers should offer participants a choice of session format, including telephone and face-to-face options where practicable. Remote sessions must not be the only option offered for research on services used predominantly by people at risk of digital exclusion. Incentives should be offered in a form the participant can readily use; vouchers requiring an online account are not suitable for all participants. Where a participant withdraws, any data already collected should be deleted unless it has been fully anonymised."
 
-**Question 9 (easy)** — Statement: "Remote sessions may sometimes be the only format offered." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Remote sessions may sometimes be the only format offered." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The prohibition in the passage is specific: remote sessions must not be the only option for research on services used predominantly by people at risk of digital exclusion. That narrow prohibition implies that in other circumstances — research on a service used mainly by digitally confident people, say — remote-only would not breach this rule. So the statement is supported and the answer is True. Reading the scope of a prohibition accurately is the skill here. A rule that forbids something in defined circumstances is telling you something about the undefined circumstances too, which is why "must not be the only option for X" is not the same as "must never be the only option".
 
-**Question 10 (moderate)** — Statement: "Vouchers are never a suitable incentive." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "Vouchers are never a suitable incentive." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says vouchers requiring an online account are not suitable for all participants. Two qualifiers are being dropped by the statement: the specific type of voucher, and "not suitable for all" rather than "not suitable for any". "Not suitable for all participants" means some participants cannot use them, not that nobody can. The statement's absolute "never" contradicts this, so the answer is False. This is a compact demonstration of why the small words matter — "all" placed after a negative is one of the trickiest constructions in English, and test writers know it.
 
-**Question 11 (harder)** — Statement: "If a participant withdraws, all data collected from them must be deleted." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "If a participant withdraws, all data collected from them must be deleted." True, False, or Cannot Say?
 
 **Correct answer: False**
 

@@ -10,8 +10,8 @@ Your role level raises the bar in three specific ways compared with a trainee, a
 
 The document is organised into four main sections:
 
-1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using service blueprints, design standards, analytics and research evidence.
-2. A numeric reasoning assessment — percentages, drop-off rates, channel comparisons, averages, ratios and journey timings, with an emphasis on interpreting figures rather than only calculating them.
+1. A workplace job-specific cognitive assessment — pattern recognition, logical deduction, error checking, prioritisation and applied problem solving, using service blueprints, design standards, analytics, and research evidence.
+2. A numeric reasoning assessment — percentages, drop-off rates, channel comparisons, averages, ratios, and journey timings, with an emphasis on interpreting figures rather than only calculating them.
 3. A verbal reasoning assessment — reading service standards, accessibility guidance, policy summaries and stakeholder correspondence, then answering true/false/cannot-say and comprehension questions.
 4. A situational judgement assessment — realistic dilemmas at your level of independence, with guidance on the most and least effective responses and on why.
 
@@ -33,7 +33,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical materials rather than abstract shapes. Instead of rotating cubes, you will work with what a junior service designer actually handles: a service blueprint, a set of journey steps, a design standard, analytics, research findings, a channel comparison, an extract from a team's design principles.
 
-The format is normally an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, raising difficulty after correct answers, so a test that feels hard is usually a test you are doing well on. Most employers receive an acuity report showing speed against accuracy rather than a single number, which rewards careful work and penalises reckless pace.
+The format is normally an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, raising difficulty after correct answers, so a test that feels hard is usually a test you are doing well on. Most employers receive an acuity report showing speed against accuracy rather than a single number, which rewards careful work and penalises reckless pace.
 
 For a junior service designer this section is closer to your daily work than it may appear, because the core of your craft is disciplined noticing applied at the scale of a whole journey. You notice that a blueprint shows a step users described completely differently in research. You notice that the "quick" route takes three weeks once a postal wait is included. You notice that a form asks for something the service already holds. You notice that two channels have been designed by different teams to work in incompatible ways. Each of those is a small act of comparison, deduction or error detection, and together they are most of what separates a service that works from one that only looks like it does.
 
@@ -253,7 +253,7 @@ You realise that a journey map you produced and shared a fortnight ago omits an 
 
 A numeric reasoning assessment measures how accurately you handle the numbers your job produces. Let us clear something up first: this is not a maths exam. There are no equations and no formulae to remember. Most platforms provide a calculator, and where they do not, the arithmetic is deliberately simple. What is measured is whether you can read a table correctly, identify which figures matter, choose the right operation, and interpret the result without overstating it.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a small table, chart or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is locating the relevant numbers quickly and disregarding the deliberately irrelevant ones.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a small table, chart, or paragraph of figures followed by a multiple-choice question. Time per item is tight, often around a minute, so the real skill is locating the relevant numbers quickly and disregarding the deliberately irrelevant ones.
 
 Your role names analysing, synthesising and clearly explaining evidence relevant to users or a service, and specifically mentions web analytics data. That makes this section directly job-relevant rather than a generic hurdle. A junior service designer reads drop-off at each step to decide where to focus, compares channel performance to spot exclusion, works out what a journey actually costs a user in elapsed time, checks whether a change made any difference, and translates all of that into something a team can act on. Getting it wrong sends a team to redesign the wrong step for a fortnight.
 
@@ -466,7 +466,7 @@ Your team wants to know whether a design change improved completion. Baseline is
 
 A verbal reasoning assessment measures how accurately you read. It is one of the strongest predictors of performance in roles that run on documents, and service design is emphatically such a role. You read service standards, accessibility requirements, policy summaries, operational procedures, letters sent to users, contracts with suppliers, and the words users say. Reading any of those slightly wrong changes what you design.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension questions, main-point questions, and items asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension questions, main-point questions, and items asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Everything you know about accessibility regulations, everything your team does, everything obviously true about the world — set it aside. If the passage contradicts what you believe, the passage still governs. This feels unnatural and it is the largest single source of lost marks: candidates recognise a statement as true of the world and mark it True even though the passage never said it. That is a Cannot Say.
 
@@ -493,25 +493,25 @@ The verbal skills tested map onto your named skills:
 
 "All new public-facing services must meet the accessibility standard before launch. Where a service cannot meet a specific requirement, the team must publish an accessibility statement setting out the gap and the plan to close it. Existing services must meet the standard within 18 months of this policy taking effect. Internal-facing tools are outside the scope of this policy, although teams are encouraged to apply the same standard."
 
-**Question 1 (easy)** — Statement: "Internal tools must meet the accessibility standard." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Internal tools must meet the accessibility standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage places internal-facing tools outside the policy's scope and says teams are *encouraged* to apply the same standard. Encouragement is not requirement, so the statement's "must" contradicts the passage and the answer is False. Note the two-part structure — an exclusion followed by a softer aspiration — which appears constantly in policy prose. Candidates who register only the second half will mark this True. It is worth being alert to this pattern in real documents too, because "teams are encouraged to" is frequently reported back as though it were an obligation, and occasionally as though it were a prohibition.
 
-**Question 2 (easy)** — Statement: "A service that cannot meet one requirement has breached the policy." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "A service that cannot meet one requirement has breached the policy." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage anticipates this and provides a route: publish an accessibility statement setting out the gap and the plan to close it. Failing to meet a requirement is therefore not itself a breach — the breach would be failing to publish the statement. The statement asserts a breach from the failure alone, contradicting the passage, so it is False. Well-drafted standards commonly work this way, setting an expectation and then defining what honesty looks like when it cannot be met. Reading them as absolute produces unnecessary alarm and, more damagingly, encourages teams to conceal gaps rather than declare them.
 
-**Question 3 (moderate)** — Statement: "A service launched three years ago must now meet the standard." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A service launched three years ago must now meet the standard." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** Existing services must meet the standard within 18 months of the policy taking effect — but the passage never says when the policy took effect. If it took effect three years ago, the deadline has passed; if six months ago, it has not. Because the fact you would need is absent, the answer is Cannot Say. This is a good example of an item that feels answerable until you look for the specific piece of information required. Whenever a passage sets a deadline relative to an event, check that the event's date is actually given.
 
-**Question 4 (moderate)** — Statement: "A team that publishes an accessibility statement has met the policy's requirements." True, False or Cannot Say?
+**Question 4 (moderate)** — Statement: "A team that publishes an accessibility statement has met the policy's requirements." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -521,25 +521,25 @@ The verbal skills tested map onto your named skills:
 
 "The service review found that applicants using the assisted digital route completed applications more slowly than online applicants, and required an average of two contacts with the service. The review notes that assisted digital users differed from online users in several respects, including age and first language. The review did not assess the quality of the completed applications. It recommends that the service team consider whether additional guidance would reduce the number of contacts."
 
-**Question 5 (easy)** — Statement: "Assisted digital applicants required an average of two contacts with the service." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Assisted digital applicants required an average of two contacts with the service." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly. The statement restates it without addition, so it is True. Answer quickly and bank the time for harder items. The only care needed is to notice that the claim is about assisted digital users specifically, not about applicants generally — a statement saying "applicants required an average of two contacts" would broaden it beyond what the passage supports and would be a Cannot Say.
 
-**Question 6 (moderate)** — Statement: "The assisted digital route causes applications to take longer." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The assisted digital route causes applications to take longer." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then explicitly flags that the two groups differed in other respects including age and first language. Either could be responsible for the difference in speed. The passage neither asserts nor excludes a causal role for the route itself, so the answer is Cannot Say. The design consequence is real: if the route's design causes the delay you fix the route, and if assisted digital users are largely people for whom English is an additional language then the fix is translation, interpretation or plainer content. Treating an association as a cause is one of the most reliable ways for a team to spend a quarter improving the wrong thing.
 
-**Question 7 (moderate)** — Statement: "Applications submitted through the assisted digital route are of lower quality." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Applications submitted through the assisted digital route are of lower quality." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the review did not assess the quality of completed applications. Declared silence establishes nothing in either direction, so the answer is Cannot Say. Candidates sometimes reason that slower completion and more contacts imply worse applications, which is exactly the inference the item is built to catch — and it may well be the reverse, since two contacts with the service might produce a better application than one unaided attempt. A review that did not look cannot be evidence about what it did not look at, and treating its silence as information is a common organisational error as well as a test error.
 
-**Question 8 (harder)** — Statement: "The review recommends providing additional guidance." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends providing additional guidance." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -549,19 +549,19 @@ The verbal skills tested map onto your named skills:
 
 "Teams should offer users a choice of channel wherever practicable. A digital channel must not be the only option for services used predominantly by people at risk of digital exclusion. Where a team withdraws a channel, it must assess the impact on affected users and record the assessment; the record is reviewed annually. Users who need assistance must be able to reach a person by telephone during published service hours."
 
-**Question 9 (easy)** — Statement: "Users must be able to reach a person at any time." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Users must be able to reach a person at any time." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says users *who need assistance* must be able to reach a person by telephone *during published service hours*. The statement drops both qualifications, replacing the second with "at any time", which the passage does not support and effectively contradicts. So it is False. Two qualifiers removed is a compact demonstration of why the small words matter: a statement can be assembled entirely from the passage's own vocabulary and still say something the passage does not.
 
-**Question 10 (moderate)** — Statement: "A team that withdraws a channel without recording an impact assessment has breached the requirements." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A team that withdraws a channel without recording an impact assessment has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage requires that where a team withdraws a channel it must assess the impact and record the assessment. Withdrawing without recording fails that requirement directly, so the statement follows and is True. Contrast this with Question 2 in Passage A, where the passage supplied a route for handling a failure and the breach lay in not taking that route. Here the requirement is unconditional. Distinguishing a rule with an escape route from a rule without one is one of the most useful habits this section builds, and it transfers directly to reading real standards, where teams frequently assume an escape route exists because one usually does.
 
-**Question 11 (harder)** — Statement: "A digital-only service for a general-population service breaches the policy." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A digital-only service for a general-population service breaches the policy." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -614,7 +614,7 @@ Four principles carry most scenarios, and they generalise well beyond any single
 
 Users come first, and in service design that specifically means the users who are struggling most. When an option protects someone who cannot complete a journey, it will almost always outrank one protecting a schedule, a budget or somebody's convenience. Whole journeys fail people even when every individual part looks acceptable, and noticing that is what your discipline is for.
 
-Act within your remit and be transparent at its edges. At your level you are expected to make design decisions, run a design session, handle routine stakeholder conversations and identify user needs yourself. You are not expected to overrule a policy requirement, commit the organisation, or absorb a serious accessibility problem without telling anyone. The pattern is: do what you competently can, then tell the right person promptly.
+Act within your remit and be transparent at its edges. At your level you are expected to make design decisions, run a design session, handle routine stakeholder conversations, and identify user needs yourself. You are not expected to overrule a policy requirement, commit the organisation, or absorb a serious accessibility problem without telling anyone. The pattern is: do what you competently can, then tell the right person promptly.
 
 Address problems directly, early, with the person involved. Private, specific, non-accusatory conversation beats public correction, silence, or routing around someone.
 

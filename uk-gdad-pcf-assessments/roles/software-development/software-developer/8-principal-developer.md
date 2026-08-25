@@ -12,7 +12,7 @@ You may be preparing for a formal assessment, or you may simply want to re-exami
 
 Three things shape everything that follows. First, high-impact system design is mostly about failure modes, and the useful question is what happens when a component behaves badly rather than when it works. Second, your influence operates through other people's decisions, which makes how you present reasoning as consequential as the reasoning. Third, championing a technology and evaluating it honestly are in tension, and holding both is a large part of the job.
 
-The document has four assessment sections, each with an overview, a mapping to your skills, twelve questions with explanations, preparation tips and pitfalls.
+The document has four assessment sections, each with an overview, a mapping to your skills, twelve questions with explanations, preparation tips, and pitfalls.
 
 Commit to an answer before reading each explanation.
 
@@ -125,7 +125,7 @@ You are designing a standard that will apply to twelve teams with varying maturi
 
 **Correct answer: B**
 
-**Explanation:** The useful question is not how demanding a standard should be but what it should cover, and the answer follows from where the cost of divergence falls. Divergent interfaces, security controls and data handling impose costs on everyone else; divergent internal testing practices mostly do not. Option B applies that test. Option A sets a bar most teams will fail and creates widespread non-compliance, which then normalises. Option C sets a bar that changes nothing. Option D abandons the coordination that is the point of having a principal-level design authority.
+**Explanation:** The useful question is not how demanding a standard should be but what it should cover, and the answer follows from where the cost of divergence falls. Divergent interfaces, security controls, and data handling impose costs on everyone else; divergent internal testing practices mostly do not. Option B applies that test. Option A sets a bar most teams will fail and creates widespread non-compliance, which then normalises. Option C sets a bar that changes nothing. Option D abandons the coordination that is the point of having a principal-level design authority.
 
 **Question 7 (harder) — Reading a procurement trade-off**
 

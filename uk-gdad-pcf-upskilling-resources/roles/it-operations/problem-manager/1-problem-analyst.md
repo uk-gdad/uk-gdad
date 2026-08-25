@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Mastering ITIL Problem Management and Optimization in ITSM](https://www.udemy.com/course/mastering-problem-management-and-optimization-in-itsm/): Identifying, analysing and resolving the root causes of recurring incidents, with the process and best practices.
+- [Mastering ITIL Problem Management and Optimization in ITSM](https://www.udemy.com/course/mastering-problem-management-and-optimization-in-itsm/): Identifying, analysing, and resolving the root causes of recurring incidents, with the process and best practices.
 
 - [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Incident handling and post-incident analysis, which is where your feeds come from.
 
@@ -52,9 +52,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous process improvement, value stream mapping, root cause analysis and improvement plans. The best free course for this role.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous process improvement, value stream mapping, root cause analysis, and improvement plans. The best free course for this role.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Fault tolerance, performance, networks and recovery, which is the material behind the errors you investigate.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Fault tolerance, performance, networks, and recovery, which is the material behind the errors you investigate.
 
 - [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process analysis and quality improvement, which is the general theory behind preventing recurrence.
 
@@ -72,7 +72,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Example postmortem, Google SRE Book](https://sre.google/sre-book/example-postmortem/): A worked postmortem, which is the most useful single artefact for learning the form.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [A Beginner's Guide to CMDB in ITSM, Lansweeper](https://www.lansweeper.com/blog/cybersecurity/a-beginners-guide-to-cmdb-in-itsm-unlocking-efficiency/): Configuration items and their relationships, which is where an investigation starts.
 
@@ -82,9 +82,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): A structured review of RCA techniques across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): A structured review of RCA techniques across metrics, traces, logs, and multi-model data.
 
-- [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): 14 challenges and 17 enablers, including expertise gaps, employee bias and poor data quality.
+- [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): 14 challenges and 17 enablers, including expertise gaps, employee bias, and poor data quality.
 
 - [Root Cause Analysis in Quality Problem Solving: A Case Study](https://www.researchgate.net/publication/325207104_Root_cause_analysis_in_quality_problem_solving_of_research_information_systems_A_case_study): Identifying underlying causes and preventing recurrence in a real information system.
 
@@ -112,7 +112,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Performing Postmortems and Postmortem Templates](https://www.youtube.com/watch?v=Y-vY2iCoyTU): Templates, which are what make investigations comparable over time.
 
-- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces and timelines.
+- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces, and timelines.
 
 - [ITIL Version 4: Service Configuration Management](https://www.youtube.com/watch?v=I2b6H5mcmJE): Configuration items and why accurate records make investigation possible.
 
@@ -138,7 +138,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Named failure patterns, which speeds up recognising what you are looking at.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Investigating failures nobody predicted, which is most problems.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Investigating failures nobody predicted, which is most problems.
 
 - [Implementing ITIL Change and Release Management](https://www.amazon.com/Implementing-ITIL-Change-Release-Management/dp/0138150419): By Larry Klosterboer. The change processes that both cause and prevent recurrence.
 

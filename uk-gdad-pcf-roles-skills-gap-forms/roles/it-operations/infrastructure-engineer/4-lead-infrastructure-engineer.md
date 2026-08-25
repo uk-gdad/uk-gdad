@@ -13,7 +13,7 @@ service product life cycle**. At this level you:
 - oversee programmes and projects
 - work with technical architects to translate architectural designs into operations, and support them in
   operationalising the designs
-- lead and direct infrastructure specialist teams in building, managing, supporting and maintaining solutions
+- lead and direct infrastructure specialist teams in building, managing, supporting, and maintaining solutions
   according to departmental policy, **if taking a managerial path**
 
 Two things separate you from senior: suppliers and programmes. Neither is a technical skill, and both are
@@ -107,7 +107,7 @@ between you and the top of the role is concentrated in four skills — IT infras
 service focus and systems design — plus the roadmap and supplier accountabilities in the level description.
 
 Second, **on IT infrastructure the published wording places you above the principal.** Yours is leading teams
-and departments in design, implementation, administration and support. The principal's is designing and
+and departments in design, implementation, administration, and support. The principal's is designing and
 implementing solutions — the senior's wording. It is recorded here because it is in the published text, not
 because it should guide a career decision.
 

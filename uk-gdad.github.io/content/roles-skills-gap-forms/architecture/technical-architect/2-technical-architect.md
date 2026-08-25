@@ -598,7 +598,7 @@ about them. A form that goes into a drawer is worse than no form.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/technical-architect/2-technical-architect.md)
-  — courses, articles, talks and books pitched at technical architect.
+  — courses, articles, talks, and books pitched at technical architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/technical-architect/2-technical-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/technical-architect/2-technical-architect.md)

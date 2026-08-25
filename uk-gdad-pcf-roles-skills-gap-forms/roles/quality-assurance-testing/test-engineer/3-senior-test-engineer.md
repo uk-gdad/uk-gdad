@@ -624,7 +624,7 @@ conversation. A form that goes into a drawer is worse than no form.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
-  — courses, articles, talks and books pitched at senior test engineer.
+  — courses, articles, talks, and books pitched at senior test engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)

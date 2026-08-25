@@ -12,7 +12,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — evidence auditing, competing hypotheses, systemic risk, strategic prioritisation, and the diagnosis of problems in designs and research done by other people.
 2. A numeric reasoning assessment — rates, weighted comparisons, funnel and cohort data, sampling adequacy, and the interrogation of quantitative claims embedded in business cases and board papers.
-3. A verbal reasoning assessment — dense standards, evaluation reports, policy documents and stakeholder correspondence, with items pitched at real ambiguity.
+3. A verbal reasoning assessment — dense standards, evaluation reports, policy documents, and stakeholder correspondence, with items pitched at real ambiguity.
 4. A situational judgement assessment — dilemmas involving ethics, assurance, mentoring, organisational politics, and the defence of design positions under pressure.
 
 Each section provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
@@ -31,7 +31,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At senior level the materials are messier and the reasoning less mechanical. You will meet evidence supporting two incompatible readings, designs with a flaw that compromises some conclusions but not others, prioritisation problems with no dominant option, and claims made by other people that need diagnosing rather than accepting or rejecting.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority — so your comparison set is other experienced practitioners. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both of which reward precision over pace.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority — so your comparison set is other experienced practitioners. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both of which reward precision over pace.
 
 Three things distinguish this section at your level.
 
@@ -247,7 +247,7 @@ A policy team has designed an eligibility rule requiring evidence that around a 
 
 A numeric reasoning assessment measures how accurately you handle quantitative material. At senior level the emphasis shifts decisively from calculating to interrogating. You will still need to compute correctly, but the harder items ask whether a figure means what somebody claims — which is, not coincidentally, the question you are frequently the only person in the room positioned to ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
 
 The professional stake is substantial. Quantitative evidence carries unearned authority: a number in a board paper is treated as fact while a design argument is treated as a view, regardless of the rigour behind either. Your role names analysing and explaining complex evidence such as large data sets, and working with service managers and programme directors — people whose world is expressed in numbers. Senior designers who cannot interrogate a figure confidently lose arguments they should win, and occasionally win arguments they should lose. Being able to ask "what is the denominator, and who could not have appeared in this data?" is a large part of the value you add at that table.
 
@@ -324,7 +324,7 @@ Eleven sessions produced task times in minutes: 6, 7, 8, 8, 9, 10, 11, 12, 14, 1
 
 **Correct answer: B**
 
-**Explanation:** The mean of about 15.6 exceeds nine of the eleven observations, so it represents almost nobody. The median is the sixth value, which is 10, and describes the group well. But the median alone conceals a session lasting more than four times the typical duration, and that session is very likely the most informative observation in the set. Option B supplies centre, spread and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to enforce in the work you assure: a central figure never travels alone, and an outlier is a lead rather than noise.
+**Explanation:** The mean of about 15.6 exceeds nine of the eleven observations, so it represents almost nobody. The median is the sixth value, which is 10, and describes the group well. But the median alone conceals a session lasting more than four times the typical duration, and that session is very likely the most informative observation in the set. Option B supplies centre, spread, and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to enforce in the work you assure: a central figure never travels alone, and an outlier is a lead rather than noise.
 
 **Question 5 (moderate) — Weighted aggregation**
 
@@ -337,7 +337,7 @@ Four studies: 10 participants at 50% completion; 20 at 65%; 10 at 70%; 20 at 80%
 
 **Correct answer: B**
 
-**Explanation:** Convert each rate to counts. Study 1: 50% of 10 = 5. Study 2: 65% of 20 = 13. Study 3: 70% of 10 = 7. Study 4: 80% of 20 = 16. Total completions 5 + 13 + 7 + 16 = 41, across 60 participants, so 41 ÷ 60 = 0.683, which is approximately 68% and the answer is B. Option A is the unweighted mean of 50, 65, 70 and 80, which is 66.25 and over-weights the two smallest studies. Always return to counts. And ask the prior question: aggregating four studies is meaningful only if the task and population were comparable, and if they were not, the combined figure is a number without a referent.
+**Explanation:** Convert each rate to counts. Study 1: 50% of 10 = 5. Study 2: 65% of 20 = 13. Study 3: 70% of 10 = 7. Study 4: 80% of 20 = 16. Total completions 5 + 13 + 7 + 16 = 41, across 60 participants, so 41 ÷ 60 = 0.683, which is approximately 68% and the answer is B. Option A is the unweighted mean of 50, 65, 70, and 80, which is 66.25 and over-weights the two smallest studies. Always return to counts. And ask the prior question: aggregating four studies is meaningful only if the task and population were comparable, and if they were not, the combined figure is a number without a referent.
 
 **Question 6 (moderate) — Funnel denominators**
 
@@ -458,7 +458,7 @@ Average handling time on a form fell from 15 to 10 minutes after a redesign. Ove
 
 A verbal reasoning assessment measures how accurately you read. In a senior role that runs on documents — service standards, accessibility regulations, policy submissions, evaluation reports, business cases, contracts and the words users say — reading accuracy is the substrate everything else rests on. A misread exception clause becomes a compliance failure across a programme; a misread finding in a colleague's report becomes advice given confidently to a programme director.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and here is the part specific to your level: expertise actively costs you marks. The more standards and policy documents you have read, the more readily you supply the clause you expect to be there, complete the sentence the way such sentences usually end, and feel confident doing it. Senior candidates underperform on verbal reasoning at rates that surprise them, and this is almost always the mechanism. The counter-habit must be mechanical: before marking anything True, put your finger on the words.
 
@@ -485,25 +485,25 @@ The verbal skills tested map onto your named skills:
 
 "All new public-facing services must meet the accessibility standard before entering public beta, unless an exemption has been agreed in writing by the accessibility lead. Where a service cannot meet a specific requirement, the team must publish an accessibility statement setting out the gap and the plan to close it. Services already in live operation must meet the standard within 18 months of this policy taking effect. Internal-facing tools are outside scope, although teams are encouraged to apply the same standard."
 
-**Question 1 (easy)** — Statement: "Every new public-facing service must meet the accessibility standard before public beta." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Every new public-facing service must meet the accessibility standard before public beta." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception: a written exemption agreed by the accessibility lead. The statement's "every" contradicts that, so it is False. The pattern — absolute term in the statement, exception in the passage — is the most reliable in the section. Note that this passage carries two distinct provisions that are easy to conflate: an exemption route, which removes the requirement, and an accessibility statement route, which handles a specific unmet requirement while the obligation remains. Those are different mechanisms, and Question 4 turns on the distinction.
 
-**Question 2 (easy)** — Statement: "Internal tools must meet the accessibility standard." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Internal tools must meet the accessibility standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage places internal tools outside scope and says teams are *encouraged* to apply the same standard. Encouragement is not requirement, so the statement's "must" contradicts the passage. False. The two-part structure — exclusion followed by soft aspiration — recurs constantly in policy prose and is misreported in both directions: as an obligation by people who want the standard applied, and as a prohibition by people who do not. Reading it accurately is what lets you tell a team truthfully that they are not required to do this and that doing it is a good idea.
 
-**Question 3 (moderate)** — Statement: "A service that entered public beta two years ago without meeting the standard breached the policy." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A service that entered public beta two years ago without meeting the standard breached the policy." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The pre-beta requirement applies to *new* services, and services already live have 18 months from the policy taking effect — but the passage never says when the policy took effect. A service entering beta two years ago may not have been subject to the policy at the time. Because the fact you would need is absent, the answer is Cannot Say. Whenever a passage sets an obligation relative to a policy's commencement, check whether the commencement date is actually given; its absence is deliberate and it appears in this section repeatedly.
 
-**Question 4 (harder)** — Statement: "A team that publishes an accessibility statement no longer needs to meet the requirement it describes." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A team that publishes an accessibility statement no longer needs to meet the requirement it describes." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -513,25 +513,25 @@ The verbal skills tested map onto your named skills:
 
 "The evaluation of the assisted digital route found that users completed more slowly than online users and required an average of 2.4 contacts with the service. The evaluation notes that the two groups differed in age, first language and prior use of the service. It did not assess whether completed applications were of comparable quality, nor whether the additional contacts affected outcomes. The evaluation recommends that the programme consider whether additional guidance would reduce contact volume."
 
-**Question 5 (easy)** — Statement: "Assisted digital users required more than two contacts on average." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Assisted digital users required more than two contacts on average." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states an average of 2.4 contacts, and 2.4 exceeds two, so the statement follows and is True. Answer quickly and bank the time. The only care needed is that the claim concerns assisted digital users specifically — a statement about "users" generally would broaden beyond what the passage supports.
 
-**Question 6 (moderate)** — Statement: "The assisted digital route causes slower completion." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The assisted digital route causes slower completion." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and then names three ways the groups differed: age, first language and prior use. Any could be responsible. The passage neither asserts nor excludes a causal role for the route itself, so the answer is Cannot Say. The design consequence is direct and worth stating: if the route's design causes the delay you redesign the route; if assisted digital users are largely people for whom English is an additional language, the answer is translation or plainer content; if they are largely first-time users, it is guidance. Treating an association as a cause is among the most reliable ways for a programme to spend a quarter improving the wrong thing, and the evaluators were careful precisely to prevent it.
 
-**Question 7 (moderate)** — Statement: "Additional contacts with the service worsen outcomes for users." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "Additional contacts with the service worsen outcomes for users." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the evaluation did not assess whether the additional contacts affected outcomes. Declared silence establishes nothing in either direction, so Cannot Say. Note that the intuitive reading runs the wrong way here: more contact sounds like friction, and it might equally mean users received help that produced a better application. That possibility is exactly why the evaluators flagged the gap rather than implying an answer, and a reader who supplies the intuitive direction has substituted a plausible assumption for the text. An evaluation that did not look cannot be evidence about what it did not look at.
 
-**Question 8 (harder)** — Statement: "The evaluation recommends providing additional guidance." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The evaluation recommends providing additional guidance." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -541,19 +541,19 @@ The verbal skills tested map onto your named skills:
 
 "Teams should offer users a choice of channel wherever practicable. A digital channel must not be the only option for services used predominantly by people at risk of digital exclusion. Where a team withdraws a channel, it must assess the impact on affected users and record the assessment; records are reviewed annually by the accessibility lead. Users who need assistance must be able to reach a person by telephone during published service hours."
 
-**Question 9 (easy)** — Statement: "Users must be able to reach a person at any time." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Users must be able to reach a person at any time." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says users *who need assistance* must be able to reach a person by telephone *during published service hours*. The statement drops both qualifications and replaces the second with "at any time", which the passage does not support. False. Two qualifiers removed is a compact demonstration of why small words matter: a statement can be assembled entirely from the passage's own vocabulary and still assert something the passage does not.
 
-**Question 10 (moderate)** — Statement: "A team that withdraws a channel without recording an impact assessment has breached the requirements." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A team that withdraws a channel without recording an impact assessment has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage requires that where a team withdraws a channel it must assess the impact and record the assessment. Withdrawing without recording fails that directly, so the statement follows and is True. Contrast with Passage A, where a route was supplied for handling an unmet requirement and the breach lay in not taking the route. Here the requirement is unconditional. Distinguishing a rule with an escape route from one without is among the most useful habits this section builds, and it transfers directly to reading real standards, where teams routinely assume an escape route exists because one usually does.
 
-**Question 11 (harder)** — Statement: "A digital-only design for a general-population service complies with this passage." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A digital-only design for a general-population service complies with this passage." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 

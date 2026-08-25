@@ -836,7 +836,7 @@ about them.
 These three pages cover the same role level and pick up where this form stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/frontend-developer/2-junior-frontend-developer.md)
-  — courses, blog posts, videos and books for a junior frontend developer.
+  — courses, blog posts, videos, and books for a junior frontend developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/frontend-developer/2-junior-frontend-developer.md)
   — concrete things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/frontend-developer/2-junior-frontend-developer.md)

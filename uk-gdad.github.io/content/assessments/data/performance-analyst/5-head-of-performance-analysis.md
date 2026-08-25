@@ -292,7 +292,7 @@ The third is that the profession's credibility rests on its numbers being right,
 
 ### What it measures for your role
 
-- **Capability and capacity arithmetic** maps to managing capability through business planning, development and recruitment.
+- **Capability and capacity arithmetic** maps to managing capability through business planning, development, and recruitment.
 - **Portfolio interpretation** maps to **Analysis and insight** and presenting findings that inform wider decisions.
 - **Quality framework arithmetic** maps to defining a framework for quality assurance.
 - **Business case scrutiny** maps to setting the performance analysis strategy.
@@ -416,7 +416,7 @@ To fill the 4 senior vacancies externally, historical data shows an average of 0
 
 **Question 9 (harder) — Portfolio interpretation**
 
-Across eight services, completion rates are 91%, 88%, 63%, 90%, 87%, 41%, 89% and 86%. A director asks for the department's average completion rate. What is the strongest response?
+Across eight services, completion rates are 91%, 88%, 63%, 90%, 87%, 41%, 89%, and 86%. A director asks for the department's average completion rate. What is the strongest response?
 
 - A) 79.4%, the mean of the eight.
 - B) Give the mean with the distribution, because six services sit between 86% and 91% and two sit far below at 63% and 41% — the average describes none of them, and the useful finding is that two services need attention rather than that the department averages 79%.
@@ -714,7 +714,7 @@ The third is that your community watches how you handle the hard cases. Whether 
 - **Championing the community** maps to championing performance analysis and performance analysts.
 - **Setting standards** maps to defining a framework for quality assurance.
 - **Strategy** maps to setting the performance analysis strategy with input from leads and seniors.
-- **Capability management** maps to business planning, development and recruitment.
+- **Capability management** maps to business planning, development, and recruitment.
 - **Escalation** maps to removing blockers and acting as an escalation point.
 - **Influence** maps to **Communicating analysis and insight** and presenting compelling findings.
 

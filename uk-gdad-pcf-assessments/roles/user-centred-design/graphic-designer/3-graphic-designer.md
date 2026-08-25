@@ -26,7 +26,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role genuinely uses, presented through practical materials rather than abstract puzzles. At your level the materials get messier and the reasoning less mechanical. You will meet evidence supporting two readings, constraints that turn out to be negotiable and others that do not, and prioritisation problems with no dominant option.
 
-The format is usually an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, so a test that feels hard is usually one you are doing well on, and acuity reports distinguishing speed from accuracy reward precision.
+The format is usually an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group at a comparable level. Many platforms are adaptive, so a test that feels hard is usually one you are doing well on, and acuity reports distinguishing speed from accuracy reward precision.
 
 Two things distinguish this section at your level.
 
@@ -242,7 +242,7 @@ A numeric reasoning assessment measures how accurately you handle the quantitati
 
 At your level the emphasis shifts from calculating to interrogating. You will still need to compute correctly, but the harder items ask whether a figure means what somebody claims. That is a professionally consequential skill for you specifically, because visual decisions are the ones colleagues feel most entitled to have opinions about, and a measured value is the only thing that reliably converts a matter of taste into a matter of fact.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable.
 
 Four habits carry the load. Establish what the question asks before looking at the data. Identify the denominator and the population it represents. Estimate, calculate, compare. And sanity-check against the world.
 
@@ -445,7 +445,7 @@ After a type size increase, time on page rose 20% and completion was unchanged. 
 
 A verbal reasoning assessment measures how accurately you read. It may feel further from your daily work than the other sections, and it is not: the documents constraining graphic design in government are unusually precise. Accessibility criteria specify ratios and thresholds. Brand guidelines specify permitted and prohibited uses. Design system documentation specifies when a component may and may not be used. Reading any of those slightly wrong produces either a design that fails an audit or a fight you did not need to have — and in this discipline the second is as costly as the first, because credibility spent on an unnecessary argument is not available for a necessary one.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your professional knowledge must be set aside — and this becomes harder with experience, because the more accessibility criteria you have applied, the more readily you supply the clause you expect.
 
@@ -470,25 +470,25 @@ The verbal skills tested map onto your named skills:
 
 "Text smaller than 24 pixels must have a contrast ratio of at least 4.5:1 against its background. Text 24 pixels or larger, or 19 pixels or larger and bold, must have a contrast ratio of at least 3:1. Non-text elements that convey information, including icons and the boundaries of form fields, must have a contrast ratio of at least 3:1. Logotypes are exempt."
 
-**Question 1 (easy)** — Statement: "All text must have a contrast ratio of at least 4.5:1." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "All text must have a contrast ratio of at least 4.5:1." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage sets 3:1 for large and bold text and exempts logotypes. The statement's "all" contradicts both, so False. This is the most reliable pattern in the section, and it is also the most common real misquotation — "everything needs 4.5:1" is the version most people carry, and applying it to a large heading produces a needlessly dark palette and an avoidable argument.
 
-**Question 2 (easy)** — Statement: "The boundary of a form field must meet a contrast requirement." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "The boundary of a form field must meet a contrast requirement." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The third sentence names non-text elements that convey information, "including icons and the boundaries of form fields", and requires at least 3:1. The statement follows and is True. This provision is worth knowing precisely because it is the one designers most often overlook: a very light hairline around an input looks elegant, conveys the essential information that there is a field to type in, and frequently measures well below 3:1 against the page background. The passage's explicit mention of field boundaries exists because that is exactly where the requirement gets forgotten.
 
-**Question 3 (moderate)** — Statement: "Bold text at 20 pixels needs 4.5:1." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "Bold text at 20 pixels needs 4.5:1." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The second sentence sets 3:1 for text "24 pixels or larger, **or** 19 pixels or larger and bold". Bold text at 20 pixels satisfies the second route, since 20 is 19 or larger and it is bold, so the applicable threshold is 3:1 and the statement is contradicted. False. This is the "or" trap, and it is the most consequential misreading in applying contrast criteria. Read as "and", the clause would require text to be both 24 pixels and bold, which would make it nearly useless and push designers towards unnecessarily dark palettes. Read as written, it recognises that size and weight each improve legibility, and either qualifies.
 
-**Question 4 (harder)** — Statement: "A decorative icon must meet 3:1." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A decorative icon must meet 3:1." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -498,25 +498,25 @@ The verbal skills tested map onto your named skills:
 
 "The review found that users on screens narrower than 400 pixels completed tasks less often than users on wider screens. The review notes that these users also differed in connection speed and in whether they were using the service away from home. The review did not assess whether the layout reflowed correctly at narrow widths. It recommends that the team consider whether a narrow-width review would be worthwhile."
 
-**Question 5 (easy)** — Statement: "Narrow-screen users completed tasks less often." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Narrow-screen users completed tasks less often." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the comparative framing — "less often than users on wider screens" — which the statement respects. Answer quickly and bank the time for harder items.
 
-**Question 6 (moderate)** — Statement: "The narrow layout causes users to fail tasks." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The narrow layout causes users to fail tasks." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and names two ways the groups differed: connection speed and whether they were away from home. Either could explain the difference — someone on a slow connection away from home may be interrupted, may lack documents, or may abandon before the page renders, all independently of layout. The passage neither asserts nor excludes a layout cause, so Cannot Say. The design consequence is direct: if the layout is at fault you fix the reflow, and if the cause is context you design for interruption and slow loading, which are different pieces of work with different costs.
 
-**Question 7 (moderate)** — Statement: "The layout reflows correctly at narrow widths." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The layout reflows correctly at narrow widths." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that reflow was not assessed. Declared silence establishes nothing, so Cannot Say. The professional temptation here runs towards False — given a 34 point completion gap you may well suspect the reflow is broken, and you may be right — and marking False would substitute expertise for evidence, which is exactly what this section penalises. Note the asymmetry with real practice: in the workplace the right response is to open the page at 375 pixels, which costs ten minutes and settles it; in the test the check is unavailable and so is the conclusion.
 
-**Question 8 (harder)** — Statement: "The review recommends a narrow-width review." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends a narrow-width review." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -526,19 +526,19 @@ The verbal skills tested map onto your named skills:
 
 "Interactive elements must have a visible focus indicator with a contrast ratio of at least 3:1 against adjacent colours. Touch targets must be at least 24 by 24 pixels, unless an equivalent target of at least 24 by 24 pixels is available elsewhere on the same screen. Meaning must not be conveyed by colour alone. Where a component is provided in the design system, services must use it unless an exemption has been agreed with the lead graphic designer."
 
-**Question 9 (easy)** — Statement: "Meaning may be conveyed by colour alone if the contrast is high." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Meaning may be conveyed by colour alone if the contrast is high." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage states without qualification that meaning must not be conveyed by colour alone. The statement introduces a condition the passage does not recognise, and high contrast does not address the requirement's purpose, which concerns people who cannot distinguish the hues rather than people who cannot see them clearly. False. Being precise about that purpose matters, because "make it a stronger red" is a common and useless response — a stronger red is still only red.
 
-**Question 10 (moderate)** — Statement: "Every touch target must be at least 24 by 24 pixels." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "Every touch target must be at least 24 by 24 pixels." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement carries an exception: a smaller target is permitted where an equivalent target of at least 24 by 24 pixels is available elsewhere on the same screen. The statement's "every" drops that, so False. The exception exists for a practical reason: an inline link inside a paragraph cannot always be enlarged without breaking the text, and the requirement accepts that provided the same action is reachable from a properly sized control nearby. Reading the exception is what lets you keep an inline link rather than fighting to enlarge it, which is an argument you would probably lose and should not be having.
 
-**Question 11 (harder)** — Statement: "A service using a custom component instead of a design system component has breached the requirements." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A service using a custom component instead of a design system component has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 

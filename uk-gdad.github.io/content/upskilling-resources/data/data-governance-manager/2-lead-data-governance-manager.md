@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of lead dat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you lead data governance across a larger area, design the governance operating model, and build stewardship capability in other teams. The resources below emphasise operating model design, prioritisation and coaching stewards.
+At this role level you lead data governance across a larger area, design the governance operating model, and build stewardship capability in other teams. The resources below emphasise operating model design, prioritisation, and coaching stewards.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Fundamentals of Data Governance](https://www.coursera.org/learn/fundamentals-of-data-governance): Covers developing and implementing a comprehensive governance framework for quality, security, compliance and efficient management, including the Data Governance Institute framework, DAMA-DMBOK, GDPR and stewardship roles.
+- [Fundamentals of Data Governance](https://www.coursera.org/learn/fundamentals-of-data-governance): Covers developing and implementing a comprehensive governance framework for quality, security, compliance and efficient management, including the Data Governance Institute framework, DAMA-DMBOK, GDPR, and stewardship roles.
 
 - [Fundamentals of Data Governance: Ownership, Privacy, Security](https://www.coursera.org/learn/fundamentals-of-data-governance-ownership-privacy-and-secu): Covers defining clear roles and responsibilities, ensuring data quality and integrity, and aligning governance with organisational goals and regulatory requirements.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for Data Management (DAMA-DMBOK, Intermediate)](https://www.skillsoft.com/channel/data-management-517347c0-3fc1-4e3d-871a-ed9b81397617): Covers the DAMA knowledge areas including governance, architecture, modelling, storage, security, integration, metadata and quality.
+- [Courses for Data Management (DAMA-DMBOK, Intermediate)](https://www.skillsoft.com/channel/data-management-517347c0-3fc1-4e3d-871a-ed9b81397617): Covers the DAMA knowledge areas including governance, architecture, modelling, storage, security, integration, metadata, and quality.
 
 - [DAMA-DMBOK Essentials: Data Management and Framework](https://www.skillsoft.com/course/dama-dmbok-essentials-data-management-framework-4faa041a-a1b4-42c7-9f83-6efe5dc9c7f8): Explores the principles of data management and the structure of the framework, including key roles and responsibilities and the components of the DAMA Wheel.
 
@@ -48,15 +48,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Spark, Hadoop, and Snowflake for Data Engineering](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-spark-hadoop-and-snowflake-for-data-engineering): Teaches building efficient and scalable pipelines across the three platforms and optimising them with Python, PySpark and MLflow.
 
-- [Apache Spark for Data Engineering and Machine Learning (IBM)](https://www.edx.org/learn/apache-spark/ibm-apache-spark-for-data-engineering-and-machine-learning): Covers Spark Structured Streaming, ETL for machine learning pipelines and Spark ML.
+- [Apache Spark for Data Engineering and Machine Learning (IBM)](https://www.edx.org/learn/apache-spark/ibm-apache-spark-for-data-engineering-and-machine-learning): Covers Spark Structured Streaming, ETL for machine learning pipelines, and Spark ML.
 
 ## MIT OpenCourseWare courses
 
-- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Covers the relational model, schema normalisation, query optimisation and transactions. Understanding how a query planner works is what separates fast pipelines from slow ones.
+- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Covers the relational model, schema normalisation, query optimisation, and transactions. Understanding how a query planner works is what separates fast pipelines from slow ones.
 
 - [1.264J Database, Internet, and Systems Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/): Covers data modelling, UML, relational databases and SQL alongside integration technologies including web services and service-oriented architectures.
 
-- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers specification, abstraction and testing, which are exactly the disciplines that separate maintainable pipelines from fragile ones.
+- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers specification, abstraction, and testing, which are exactly the disciplines that separate maintainable pipelines from fragile ones.
 
 ## Blog posts
 
@@ -66,7 +66,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Data Ethics on the Data in Government blog](https://dataingovernment.blog.gov.uk/category/data-ethics/): Covers how ethical questions about data use are handled in UK public sector practice.
 
-- [Data Governance Operating Model: Products, Quality KPIs, and Cadence](https://nmsconsulting.com/data-governance-operating-model/): Describes the operating model as the system that makes governance happen through decision rights, roles, forums and routines.
+- [Data Governance Operating Model: Products, Quality KPIs, and Cadence](https://nmsconsulting.com/data-governance-operating-model/): Describes the operating model as the system that makes governance happen through decision rights, roles, forums, and routines.
 
 - [Data Stewardship: The Keystone to Enable Data Governance](https://guidehouse.com/insights/advanced-solutions/2023/data-stewardship-to-enable-data-governance): Argues that stewardship is the operational layer without which governance policy has no effect.
 
@@ -86,7 +86,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Data Pipeline Quality (preprint)](https://arxiv.org/abs/2309.07067): The open-access version of the above, including the full taxonomy and the finding that debugging and maintaining pipelines is the most pressing issue data engineers report.
 
-- [An Overview and Critical Analysis of Recent Advances in Challenges Faced in Building Data Engineering Pipelines for Streaming Media](https://www.researchgate.net/publication/372338809_An_Overview_and_Critical_Analysis_of_Recent_Advances_in_Challenges_Faced_in_Building_Data_Engineering_Pipelines_for_Streaming_Media): Covers quality, consistency, completeness, format adherence, scalability, latency and security in streaming pipelines.
+- [An Overview and Critical Analysis of Recent Advances in Challenges Faced in Building Data Engineering Pipelines for Streaming Media](https://www.researchgate.net/publication/372338809_An_Overview_and_Critical_Analysis_of_Recent_Advances_in_Challenges_Faced_in_Building_Data_Engineering_Pipelines_for_Streaming_Media): Covers quality, consistency, completeness, format adherence, scalability, latency, and security in streaming pipelines.
 
 - [Designing a Data Pipeline Architecture for Intelligent Analysis of Streaming Data](https://link.springer.com/chapter/10.1007/978-3-031-72284-4_22): A worked architecture using Kafka for ingestion, a time-series store and real-time visualisation.
 
@@ -104,7 +104,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Videos
 
-- [Data Governance Basics: DAMA-DMBOK, Ownership and Stewardship](https://www.youtube.com/watch?v=4j43GFpRgn4): Covers the framework, ownership models and stewardship roles in a compact form.
+- [Data Governance Basics: DAMA-DMBOK, Ownership and Stewardship](https://www.youtube.com/watch?v=4j43GFpRgn4): Covers the framework, ownership models, and stewardship roles in a compact form.
 
 - [Mastering Data Stewardship: Roles, Models and Implementation Guide](https://www.youtube.com/watch?v=a72KOMur-hU): A practical guide to the stewardship models organisations actually use and how to implement one.
 
@@ -136,7 +136,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Mastering Data Warehouse Design: Relational and Dimensional Techniques](https://www.amazon.com/Mastering-Data-Warehouse-Design-Dimensional/dp/0471324213): Imhoff, Galemmo and Geiger on combining relational and dimensional approaches into a sustainable design.
 
-- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference across data management knowledge areas including integration, metadata and quality.
+- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference across data management knowledge areas including integration, metadata, and quality.
 
 - [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1098121228): By Jake VanderPlas. Strong coverage of pandas and NumPy, which remain central to much pipeline work.
 

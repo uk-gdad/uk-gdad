@@ -10,7 +10,7 @@ what you do now and what the organisation needs from someone at this level.
 At senior the framework stops describing components and starts describing the
 whole toolchain. You transform technical requirements into an effective DevOps
 toolchain that enables product delivery; you make deployment strategies
-repeatable, scalable and highly available; you coach and mentor; and you are the
+repeatable, scalable, and highly available; you coach and mentor; and you are the
 deep technical knowledge that delivery teams call on when a problem will not
 yield. That last part is the one that quietly eats the week, and it is worth
 being honest about how much of your time it takes.
@@ -378,7 +378,7 @@ what has stopped you closing it?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** Writing real software: reviewing specifications, then
-designing, coding, testing and documenting programs of genuine complexity.
+designing, coding, testing, and documenting programs of genuine complexity.
 
 **What the framework expects at this level.** That you collaborate with others
 when necessary to review specifications, and use the agreed specifications to
@@ -407,7 +407,7 @@ made it complex?
 *Your answer:*
 
 **Q23.** How do you test automation that is dangerous to run — something that
-deletes, deploys, scales or rotates?
+deletes, deploys, scales, or rotates?
 
 *Your answer:*
 
@@ -812,7 +812,7 @@ conversation. A form that goes into a drawer is worse than no form.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/development-operations-engineer/4-senior-devops-engineer.md)
-  — courses, articles, talks and books pitched at senior DevOps engineer.
+  — courses, articles, talks, and books pitched at senior DevOps engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/development-operations-engineer/4-senior-devops-engineer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/development-operations-engineer/4-senior-devops-engineer.md)

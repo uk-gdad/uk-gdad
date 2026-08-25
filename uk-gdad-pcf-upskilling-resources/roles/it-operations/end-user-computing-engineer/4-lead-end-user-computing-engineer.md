@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of lead end
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you have expert technical understanding and are accountable for vendor and supplier management. You work with IT operations and other functions, including technical architecture, to understand productivity, development and feasibility at a lower level. The resources below emphasise supplier accountability, high-impact change, leading incident investigation, and the architecture conversations this role has to hold its own in.
+At this role level you have expert technical understanding and are accountable for vendor and supplier management. You work with IT operations and other functions, including technical architecture, to understand productivity, development, and feasibility at a lower level. The resources below emphasise supplier accountability, high-impact change, leading incident investigation, and the architecture conversations this role has to hold its own in.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -24,7 +24,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture): Aligning incentives between development and operations, which is the frame for working with architecture and infrastructure functions.
 
-- [Real-World Engineering Management](https://www.coursera.org/specializations/real-world-engineering-management): Business, technical and leadership skills for engineering leadership.
+- [Real-World Engineering Management](https://www.coursera.org/specializations/real-world-engineering-management): Business, technical, and leadership skills for engineering leadership.
 
 ## Udemy courses
 
@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Procurement Basics: Supplier Relationship Management](https://www.udemy.com/course/procurement-basics-supplier-relationship-management/): Assessing supplier capability and deciding which activities to place with which vendors.
 
-- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols and resource co-ordination.
+- [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Major incident activation criteria, communication protocols, and resource co-ordination.
 
 ## Skillsoft courses
 
@@ -46,15 +46,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Reliable Google Cloud Infrastructure: Design and Process (GoogleCloud)](https://www.edx.org/learn/computer-programming/google-cloud-reliable-google-cloud-infrastructure-design-and-process): Design and process for reliable infrastructure, aimed at architects and IT managers.
 
-- [Cyber Incident Response and Investigation (IBM)](https://www.edx.org/learn/cybersecurity/ibm-cyber-incident-response-and-investigation): Defensive tactics, access controls and monitoring, since endpoint security is increasingly the incident.
+- [Cyber Incident Response and Investigation (IBM)](https://www.edx.org/learn/cybersecurity/ibm-cyber-incident-response-and-investigation): Defensive tactics, access controls, and monitoring, since endpoint security is increasingly the incident.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): The organisational change these practices require, which is the honest scope of adopting them.
 
 ## MIT OpenCourseWare courses
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Requirements, architecture, interface management, verification and validation. Directly useful in architecture conversations.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Requirements, architecture, interface management, verification, and validation. Directly useful in architecture conversations.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Complexity control, modularity, networks and fault tolerance, which is the substance of expert technical understanding.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Complexity control, modularity, networks, and fault tolerance, which is the substance of expert technical understanding.
 
 - [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement and root cause analysis at the scale you now work.
 
@@ -82,7 +82,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for supplier relationship management across five organisations.
+- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure, and process for supplier relationship management across five organisations.
 
 - [A Review of the IT Outsourcing Empirical Literature and Future Research Directions](https://journals.sagepub.com/doi/10.1057/jit.2010.21): Two decades of outsourcing research, including client and supplier capabilities and contractual governance.
 
@@ -126,19 +126,19 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. Enterprise operations practice including fleet management, vendor relations and standards.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. Enterprise operations practice including fleet management, vendor relations, and standards.
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Distributed service operations, with case studies from large operators.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Distributed service operations, with case studies from large operators.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns, and a concrete standard for what production-ready means.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence linking practice to outcomes, useful in both architecture and supplier conversations.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence linking practice to outcomes, useful in both architecture and supplier conversations.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Interaction modes between functions, which is the vocabulary for working with technical architecture.
 
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG): By Larson and Reilly. Technical leadership without line management, which is close to this role's shape.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command model for leading investigations.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command model for leading investigations.
 
 - [Mastering System Center Configuration Manager](https://www.amazon.com/Mastering-System-Center-Configuration-Manager/dp/1119258456): Fleet-scale deployment, security and troubleshooting, useful for challenging supplier designs.
 

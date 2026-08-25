@@ -29,7 +29,7 @@ A workplace job-specific cognitive ability assessment is a targeted psychometric
 
 Typical characteristics of these assessments include:
 
-- **Role-targeted content.** Questions mimic the everyday tasks and data formats of the actual job - in your case, governance frameworks, data quality reports, metadata records, risk registers and standards compliance logs.
+- **Role-targeted content.** Questions mimic the everyday tasks and data formats of the actual job - in your case, governance frameworks, data quality reports, metadata records, risk registers, and standards compliance logs.
 - **Timed format.** You will usually have 15 to 30 minutes to complete the test online, which places a premium on working accurately at pace.
 - **Objective scoring.** Your results are compared against an industry or professional benchmark, often with a breakdown of speed versus accuracy rather than a single score.
 - **Validated design.** Questions are vetted to ensure they predict job success without bias, which is why they focus on realistic artefacts rather than trick puzzles.
@@ -44,7 +44,7 @@ Mapped to the skills in your role profile, a job-specific cognitive assessment f
 - **Pattern recognition across datasets and processes** - supporting your **data life cycle** skill (designing continuous improvements across the life cycle) and your **data maturity** skill (monitoring and improving areas of data maturity). You may be asked to identify the trend or anomaly that explains a series of quality incidents.
 - **Error checking and attention to detail** - underpinning **data management** (monitoring and improving data management practices) and the cataloguing duties of your role, such as catching mismatches between a data asset register and its RACI matrix.
 - **Prioritisation and problem solving under constraint** - reflecting your **enabling and informing risk-based decisions** skill (working with higher impact or more complex risks and advising whether they sit within risk tolerance) and your **strategic thinking** skill (evaluating strategies against business requirements).
-- **Structured reasoning about responsibilities and dependencies** - reflecting your duty to assign ownership of data and ensure a clear RACI (responsible, accountable, consulted and informed) matrix across the organisation.
+- **Structured reasoning about responsibilities and dependencies** - reflecting your duty to assign ownership of data and ensure a clear RACI (responsible, accountable, consulted, and informed) matrix across the organisation.
 
 ### Practice questions
 
@@ -308,7 +308,7 @@ A workplace job-specific numeric reasoning assessment evaluates your ability to 
 Typical characteristics include:
 
 - **Real-world business data.** Question inputs are tables, charts, budget lines and metrics of the kind that cross your desk - not trigonometry.
-- **Basic mathematics, applied carefully.** The operations are percentages, ratios, weighted averages, cost comparisons and projections. The difficulty lies in extracting the right numbers and applying the right operation, not in the arithmetic itself.
+- **Basic mathematics, applied carefully.** The operations are percentages, ratios, weighted averages, cost comparisons, and projections. The difficulty lies in extracting the right numbers and applying the right operation, not in the arithmetic itself.
 - **Calculator friendly.** Most assessments allow or provide an on-screen calculator, prioritising interpretation over mental arithmetic.
 - **Strict time limits.** Expect roughly one to two minutes per question, simulating the pace at which you skim a dashboard before a board meeting.
 
@@ -322,7 +322,7 @@ Mapped to the skills in your role profile, this assessment typically measures:
 - **Quantifying and comparing risks** - your **enabling and informing risk-based decisions** skill requires you to work with likelihood-impact scores, expected losses and mitigation costs in proportion to the risk.
 - **Budget and business-case arithmetic** - implementing wider data management competencies (data quality assurance, metadata management, master data management) means costing programmes, comparing options and defending return-on-investment figures.
 - **Measuring maturity and literacy improvement** - your **data maturity** and **data literacy improvement** skills involve tracking scores, training uptake and capability growth over time, and communicating those trends honestly.
-- **Turning numbers into narratives** - your **communicating analysis and insight** skill (turning complex data into compelling, clear and actionable stories) starts with getting the underlying calculation right; a wrong percentage in a board paper undermines a year of credibility.
+- **Turning numbers into narratives** - your **communicating analysis and insight** skill (turning complex data into compelling, clear, and actionable stories) starts with getting the underlying calculation right; a wrong percentage in a board paper undermines a year of credibility.
 
 ### Practice questions
 
@@ -533,7 +533,7 @@ A workplace job-specific verbal reasoning assessment evaluates how well you unde
 
 Typical characteristics include:
 
-- **Context-specific text.** Passages use genuine industry material: policy clauses, standards, board papers, emails and reports.
+- **Context-specific text.** Passages use genuine industry material: policy clauses, standards, board papers, emails, and reports.
 - **Fact-based logic.** You must answer based strictly on the text provided, setting aside your own expert knowledge - which is often the hardest discipline for experienced professionals.
 - **Strict answer options.** The classic format is True / False / Cannot Say: True means the passage logically guarantees the statement; False means the passage logically contradicts it; Cannot Say means the passage provides insufficient information either way.
 - **Time pressure.** Tests usually allow less than a minute per question once you have read the passage, simulating the pace of real document review.
@@ -869,7 +869,7 @@ D) Ask the unit to have the minister's office direct your permanent secretary to
 
 **Most effective: C. Least effective: A.**
 
-**Explanation:** Option C shows what "urgent and lawful" looks like: it takes the mission seriously (same-day engagement, aggregated or de-identified data at pace) while applying the discipline that protects citizens - purpose specification and data minimisation - and it mobilises the right accountable people (data owner, information rights team) rather than deciding alone. It treats governance as an enabler with a fast lane, which is the strongest possible advocacy for your framework. Option A is least effective: bulk personal-level case data released without an agreed lawful basis or specified purpose is precisely how departments end up in breach, and "retrospective agreement" is not a lawful basis - ministerial interest raises the stakes of getting it right, it does not lower the bar. Option B is the second error the scenario invites: pure process refusal is defensible on paper but fails the organisation - it hands ammunition to everyone who says governance blocks delivery, when faster lawful routes exist. Option D games the accountability system: it seeks cover rather than compliance, and a permanent secretary's instruction would not cure an unlawful share anyway.
+**Explanation:** Option C shows what "urgent and lawful" looks like: it takes the mission seriously (same-day engagement, aggregated, or de-identified data at pace) while applying the discipline that protects citizens - purpose specification and data minimisation - and it mobilises the right accountable people (data owner, information rights team) rather than deciding alone. It treats governance as an enabler with a fast lane, which is the strongest possible advocacy for your framework. Option A is least effective: bulk personal-level case data released without an agreed lawful basis or specified purpose is precisely how departments end up in breach, and "retrospective agreement" is not a lawful basis - ministerial interest raises the stakes of getting it right, it does not lower the bar. Option B is the second error the scenario invites: pure process refusal is defensible on paper but fails the organisation - it hands ammunition to everyone who says governance blocks delivery, when faster lawful routes exist. Option D games the accountability system: it seeks cover rather than compliance, and a permanent secretary's instruction would not cure an unlawful share anyway.
 
 #### Question 6 (challenging) - The quality figures you doubt
 
@@ -946,7 +946,7 @@ D) Leave the framework formally intact but signal informally to directorates whi
 
 ### Preparation tips
 
-- **Anchor on the role's operating reality.** Before the assessment, re-read your role description: lead-level governance works through influence, evidence and proportionality. Options that order, hide, or abdicate almost always score poorly; options that engage, make risk visible, and preserve relationships while holding the line almost always score well.
+- **Anchor on the role's operating reality.** Before the assessment, re-read your role description: lead-level governance works through influence, evidence, and proportionality. Options that order, hide, or abdicate almost always score poorly; options that engage, make risk visible, and preserve relationships while holding the line almost always score well.
 - **Look for the option that does two things at once.** Strong lead-level responses typically solve the immediate problem *and* fix the system that produced it (a methodology note *plus* a measurement standard; a workload fix *plus* a risk register entry). Practise spotting the dual-action option.
 - **Check every option for hidden costs.** Ask of each: what does this do to trust? To the framework's credibility? To the next person who raises a concern? Options that look efficient often spend one of these invisibly.
 - **Distinguish escalation from abdication.** Escalating with evidence after attempting resolution is leadership; escalating first, or pushing decisions to others without your judgement attached, is not. Assessors at your level test this line repeatedly.

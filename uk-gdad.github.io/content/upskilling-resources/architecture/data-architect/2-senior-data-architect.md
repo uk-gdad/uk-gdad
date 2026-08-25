@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of senior d
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you deliver the data vision set by the chief data architect, design data models and metadata systems, interpret organisational needs, and provide oversight and advice to other data architects. The resources below emphasise advanced modelling, metadata systems, integration and governance at scale.
+At this role level you deliver the data vision set by the chief data architect, design data models and metadata systems, interpret organisational needs, and provide oversight and advice to other data architects. The resources below emphasise advanced modelling, metadata systems, integration, and governance at scale.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -44,7 +44,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## edX courses
 
-- [Enterprise Data Management (Indiana University)](https://www.edx.org/learn/business-administration/indiana-university-enterprise-data-management): Covers data strategy and governance, relational databases and SQL, data integration, master data management and big data technologies. A good match for the breadth expected at senior level.
+- [Enterprise Data Management (Indiana University)](https://www.edx.org/learn/business-administration/indiana-university-enterprise-data-management): Covers data strategy and governance, relational databases and SQL, data integration, master data management, and big data technologies. A good match for the breadth expected at senior level.
 
 - [Databases: Modeling and Theory (StanfordOnline)](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory): Covers underlying database principles and design considerations, including UML data modelling and translation to relational schemas.
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Graduate-level foundations of database systems including relational algebra, schema normalisation, query optimisation and transactions. Gives the depth needed to reason about the systems your models will run on.
+- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Graduate-level foundations of database systems including relational algebra, schema normalisation, query optimisation, and transactions. Gives the depth needed to reason about the systems your models will run on.
 
 - [1.264J Database, Internet, and Systems Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/): Covers data modelling, UML, relational databases and SQL alongside integration technologies including XML, web services and service-oriented architectures.
 
@@ -114,7 +114,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Databricks Medallion Architecture Explained: Best Practices, Examples, and Real-World Use Cases](https://www.youtube.com/watch?v=X-mwxwXGu6Y): Practical guidance from real implementations, including the mistakes teams commonly make.
 
-- [dbt and Databricks: Complete beginner tutorial (Data Modelling, Medallion Architecture, CI/CD)](https://www.youtube.com/watch?v=aIxdWqKRQNI): An end-to-end build including modelling, transformation and continuous integration.
+- [dbt and Databricks: Complete beginner tutorial (Data Modelling, Medallion Architecture, CI/CD)](https://www.youtube.com/watch?v=aIxdWqKRQNI): An end-to-end build including modelling, transformation, and continuous integration.
 
 - [Medallion Architecture Data Design and Lakehouse Patterns in Microsoft Fabric](https://www.youtube.com/watch?v=706MVIBivOU): Lakehouse design patterns on the Microsoft stack, common across UK government departments.
 
@@ -134,9 +134,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Building the Data Warehouse](https://www.amazon.com/Building-Data-Warehouse-W-Inmon/dp/0764599445): Inmon's foundational text on the Corporate Information Factory and relational warehousing.
 
-- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference across data management knowledge areas including architecture, modelling, storage, security, integration, metadata and quality.
+- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference across data management knowledge areas including architecture, modelling, storage, security, integration, metadata, and quality.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill and Robertson's operating model framing, which determines how much data integration and standardisation is actually warranted.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill, and Robertson's operating model framing, which determines how much data integration and standardisation is actually warranted.
 
 - [The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment/dp/0645082538): Kotusev's empirical account of which architecture artefacts organisations actually use, and which they quietly abandon.
 

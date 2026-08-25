@@ -276,7 +276,7 @@ compared with physical kit?
 ### Skill: Systems design
 
 **What this means.** Turning a logical intention into something that can actually
-be built — the detail, the documentation and the patterns.
+be built — the detail, the documentation, and the patterns.
 
 **What the framework expects at this level.** Five things: translate logical
 designs into physical designs; produce detailed designs; document your work using
@@ -318,7 +318,7 @@ know?
 
 **What this means.** Making separate systems work together — and in networking,
 that usually means change sequencing, dependencies, and what happens at the
-boundaries between networks, suppliers and organisations.
+boundaries between networks, suppliers, and organisations.
 
 **What the framework expects at this level.** Two things: explain the process and
 principles of integrating systems; and describe the challenges of designing,
@@ -583,7 +583,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/network-architect/1-associate-network-architect.md)
-  — courses, blog posts, videos and books for an associate network architect.
+  — courses, blog posts, videos, and books for an associate network architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/network-architect/1-associate-network-architect.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/network-architect/1-associate-network-architect.md)

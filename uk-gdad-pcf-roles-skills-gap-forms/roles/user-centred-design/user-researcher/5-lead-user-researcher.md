@@ -329,7 +329,7 @@ improve and innovate their user research**.
 **Same wording at head of user research.**
 
 **What that looks like here.** A community of practice is the mechanism that makes assurance
-sustainable. Peer review of plans, shared session observation and honest post-mortems raise the floor
+sustainable. Peer review of plans, shared session observation, and honest post-mortems raise the floor
 faster than any amount of individual feedback from you.
 
 **Rate yourself.**

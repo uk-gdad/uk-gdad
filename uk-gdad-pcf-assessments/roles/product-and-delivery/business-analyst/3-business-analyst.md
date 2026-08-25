@@ -132,7 +132,7 @@ A service's completion rate has fallen. Five facts are established: (i) completi
 
 **Question 6 (moderate) — Deduction with delivery constraints**
 
-Your team must deliver features F1, F2, F3 and F4. Constraints: (i) F2 depends on F1's data model being finalised; (ii) F3 and F4 both depend on F2's API; (iii) the team can develop at most two features in parallel; (iv) F1 takes one sprint, F2 takes two sprints, F3 and F4 take one sprint each. Development of a dependent feature cannot start until the feature it depends on is fully complete. What is the minimum number of sprints to deliver everything?
+Your team must deliver features F1, F2, F3, and F4. Constraints: (i) F2 depends on F1's data model being finalised; (ii) F3 and F4 both depend on F2's API; (iii) the team can develop at most two features in parallel; (iv) F1 takes one sprint, F2 takes two sprints, F3, and F4 take one sprint each. Development of a dependent feature cannot start until the feature it depends on is fully complete. What is the minimum number of sprints to deliver everything?
 
 - A) 4
 - B) 5

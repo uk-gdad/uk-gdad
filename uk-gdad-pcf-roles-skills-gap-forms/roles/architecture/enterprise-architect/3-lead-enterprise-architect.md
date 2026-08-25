@@ -714,7 +714,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/enterprise-architect/3-lead-enterprise-architect.md)
-  — courses, articles, talks and books pitched at lead enterprise architect.
+  — courses, articles, talks, and books pitched at lead enterprise architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/enterprise-architect/3-lead-enterprise-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/enterprise-architect/3-lead-enterprise-architect.md)

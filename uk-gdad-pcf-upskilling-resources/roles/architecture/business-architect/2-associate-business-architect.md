@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of associat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are applying architectural methods to produce outputs, breaking down complexity, managing stakeholder expectations, and beginning to provide advice and recommendations. The resources below emphasise applied modelling technique, consultancy skills and stakeholder relationship management.
+At this role level you are applying architectural methods to produce outputs, breaking down complexity, managing stakeholder expectations, and beginning to provide advice and recommendations. The resources below emphasise applied modelling technique, consultancy skills, and stakeholder relationship management.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -22,9 +22,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [TOGAF 10 Foundation](https://www.coursera.org/learn/togaf-10-foundation): Covers the Architecture Development Method in depth, including the Architecture Vision and Business Architecture phases, plus stakeholder management, risk management, and architecture alternatives and trade-offs. The stakeholder and trade-off material is directly applicable at associate level.
 
-- [Enterprise Data Integration, Governance and Architecture](https://www.coursera.org/specializations/data-architect-advanced): A specialisation covering enterprise data architecture, integration patterns and governance. Useful because business architects are frequently asked to reconcile the business view of information with how data is actually held.
+- [Enterprise Data Integration, Governance and Architecture](https://www.coursera.org/specializations/data-architect-advanced): A specialisation covering enterprise data architecture, integration patterns, and governance. Useful because business architects are frequently asked to reconcile the business view of information with how data is actually held.
 
-- [IBM Systems and Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/ibm-systems-and-solutions-architect): Covers architectural thinking, requirements elicitation, architecture decision records and documentation practice. Strengthens the craft of producing clear, defensible architecture outputs.
+- [IBM Systems and Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/ibm-systems-and-solutions-architect): Covers architectural thinking, requirements elicitation, architecture decision records, and documentation practice. Strengthens the craft of producing clear, defensible architecture outputs.
 
 ## Udemy courses
 
@@ -38,7 +38,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Enterprise Architecture: Architectural Principles and Patterns](https://www.skillsoft.com/course/enterprise-architecture-architectural-principles-patterns-7ad56361-c387-4163-9ed6-571890b250b1): An intermediate course exploring architecture concepts and the principles that should be followed when designing architecture. Helps an associate move from following principles to articulating why they exist.
 
-- [Architecture Development Method (ADM) Cycle](https://www.skillsoft.com/course/architecture-development-method-adm-cycle-d4cd2224-292d-11e7-9844-0242c0a8080b): A detailed treatment of the TOGAF ADM cycle phase by phase, including the inputs, outputs and steps of each phase.
+- [Architecture Development Method (ADM) Cycle](https://www.skillsoft.com/course/architecture-development-method-adm-cycle-d4cd2224-292d-11e7-9844-0242c0a8080b): A detailed treatment of the TOGAF ADM cycle phase by phase, including the inputs, outputs, and steps of each phase.
 
 - [Enterprise Business Architecture: The Formal Link between Strategy and Results (book)](https://www.skillsoft.com/book/enterprise-business-architecture-the-formal-link-between-strategy-and-results-78c22a70-efa2-11e6-9877-0242c0a80506): Explains the approach needed to develop a formal but pragmatic enterprise business architecture, emphasising the importance of architecture in reaching business goals and the behaviours and discipline needed to realise its potential.
 
@@ -104,7 +104,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Videos
 
-- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar defining value and demonstrating how to identify, define, model and map a value stream to the TOGAF standard.
+- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar defining value and demonstrating how to identify, define, model, and map a value stream to the TOGAF standard.
 
 - [Value Mapping: Critical Business Architecture Viewpoint](https://www.youtube.com/watch?v=YDrxftoXqY4): Reviews principles and benefits of value mapping and compares different kinds of value model, helping you choose the right one for a given decision.
 
@@ -126,15 +126,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): By Jonathan Hunsley, Debra Paul and colleagues. A practical guide equipping practitioners to direct strategically aligned, customer centric and outcome focused change.
+- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): By Jonathan Hunsley, Debra Paul and colleagues. A practical guide equipping practitioners to direct strategically aligned, customer centric, and outcome focused change.
 
 - [Business Architecture: The Missing Link in Strategy Formulation, Implementation and Execution](https://www.amazon.com/Business-Architecture-Formulation-Implementation-Execution/dp/0994931905): By Pierre Hadaya and Bernard Gagnon. A handbook for bridging the gap between formulating, implementing and executing strategy.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Introduces the operating model concept and argues architecture may matter more than strategy for execution.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Introduces the operating model concept and argues architecture may matter more than strategy for execution.
 
 - [The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment/dp/0645082538): By Svyatoslav Kotusev. Describes how architecture is actually practised, based on empirical study of real organisations.
 
-- [Operating Model Canvas: aligning operations and organization with strategy](https://www.amazon.com/Operating-Model-Canvas-Haren-Publishing/dp/9401800715): A practical framework for defining a target operating model covering processes, organisation, locations, information and suppliers.
+- [Operating Model Canvas: aligning operations and organization with strategy](https://www.amazon.com/Operating-Model-Canvas-Haren-Publishing/dp/9401800715): A practical framework for defining a target operating model covering processes, organisation, locations, information, and suppliers.
 
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F): By Osterwalder and Pigneur. The canonical Business Model Canvas guide, useful for framing an organisation before detailed modelling.
 

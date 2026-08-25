@@ -20,11 +20,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Change, configuration, incident and problem management, which is the whole set your acceptance decision touches.
+- [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Change, configuration, incident, and problem management, which is the whole set your acceptance decision touches.
 
 - [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd): Automated verification, which is how acceptance evidence should be produced rather than assembled.
 
-- [Stakeholder Management](https://www.coursera.org/learn/stakeholder-management): Stakeholder identification, analysis and collaboration, which is what ensuring criteria are understood actually requires.
+- [Stakeholder Management](https://www.coursera.org/learn/stakeholder-management): Stakeholder identification, analysis, and collaboration, which is what ensuring criteria are understood actually requires.
 
 ## Udemy courses
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Requirements, verification and validation, and commissioning and operations. The clearest treatment of what acceptance and handover mean.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, networks, performance and fault tolerance, which is what fitness for purpose really tests.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, networks, performance, and fault tolerance, which is what fitness for purpose really tests.
 
 - [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Value stream mapping and root cause analysis, useful for improving your own transition process.
 
@@ -62,7 +62,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [How to Prove Go-Live Readiness in CAB, ITIL 4 Guide](https://itiligence.co.uk/how-to-prove-go-live-readiness-in-cab-in-under-10-minutes/): Establishing evidence-based readiness confidence concisely, which is exactly your recommendation.
 
-- [Service Transition Readiness: What "Ready" Actually Means, ITIL 4](https://itiligence.co.uk/service-transition-readiness-basics/): Validation results, back-out plans, support briefings and operational acceptance as the concrete gate.
+- [Service Transition Readiness: What "Ready" Actually Means, ITIL 4](https://itiligence.co.uk/service-transition-readiness-basics/): Validation results, back-out plans, support briefings, and operational acceptance as the concrete gate.
 
 - [ITIL 4 Transition Agility Checklist, Service Readiness in one page](https://itiligence.co.uk/transition-agility-checklist-lite/): Operational acceptance criteria and major incident readiness in a compact form.
 
@@ -132,17 +132,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Humble and Farley. The pipeline and the governance around it.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Operational readiness review as a formal step, which is essentially your role.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Operational readiness review as a formal step, which is essentially your role.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What a service must expose to be supportable.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What a service must expose to be supportable.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence on which practices reduce change failure, which should shape your criteria rather than tradition.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence on which practices reduce change failure, which should shape your criteria rather than tradition.
 
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869): By Rosenthal and Jones. Testing resilience before go-live rather than discovering it after.
 
 - [Implementing ITIL Configuration Management](https://www.amazon.com/Implementing-ITIL-Configuration-Management-Press-ebook/dp/B0054KOLB0): By Larry Klosterboer. The configuration data your impact and readiness assessments depend on.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command model, which early-life support should be prepared to use.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command model, which early-life support should be prepared to use.
 
 - [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny and colleagues. For the conversation where you recommend not going live.
 

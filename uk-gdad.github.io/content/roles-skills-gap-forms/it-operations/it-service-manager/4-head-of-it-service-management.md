@@ -446,7 +446,7 @@ ask about awareness, training and support, not about whether you can state the l
 - [ ] Managing Public Money, or your organisation's spend controls
 - [ ] The Equality Act 2010, reasonable adjustments and the public sector equality duty
 - [ ] Accessibility duties, including the public sector website and mobile application regulations
-- [ ] Records management, retention and freedom of information
+- [ ] Records management, retention, and freedom of information
 - [ ] None of these
 - [ ] Not sure
 

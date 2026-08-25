@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of associat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you apply data science techniques with growing independence, prepare and manipulate data, contribute to multidisciplinary teams and build your understanding of ethics, engineering and delivery. The resources below emphasise applied technique, reproducible practice and clear communication.
+At this role level you apply data science techniques with growing independence, prepare and manipulate data, contribute to multidisciplinary teams and build your understanding of ethics, engineering and delivery. The resources below emphasise applied technique, reproducible practice, and clear communication.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -24,13 +24,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Probability and Statistics for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics): Covers probability distributions, maximum likelihood and maximum a posteriori estimation, performance assessment of models, and hypothesis testing including A/B testing.
 
-- [Statistical Learning for Data Science Specialization](https://www.coursera.org/specializations/statistical-learning-for-data-science): From the University of Colorado Boulder, covering model selection, regression, classification, trees, support vector machines, unsupervised learning, splines and resampling methods.
+- [Statistical Learning for Data Science Specialization](https://www.coursera.org/specializations/statistical-learning-for-data-science): From the University of Colorado Boulder, covering model selection, regression, classification, trees, support vector machines, unsupervised learning, splines, and resampling methods.
 
 ## Udemy courses
 
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/): Covers analysing data, creating visualisations and applying machine learning algorithms in Python, with over a hundred video lectures and detailed code notebooks.
 
-- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/): Covers mathematics, statistics, Python, advanced statistics, machine learning and deep learning, including NumPy, pandas and scikit-learn.
+- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/): Covers mathematics, statistics, Python, advanced statistics, machine learning and deep learning, including NumPy, pandas, and scikit-learn.
 
 - [Machine Learning, Data Science and AI Engineering with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/): A hands-on course covering the practical application of machine learning techniques with attention to how models behave on real data.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.097 Prediction: Machine Learning and Statistics](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/): Starts with machine learning algorithms, then covers the statistical learning theory that provides their mathematical foundation, before moving into Bayesian analysis.
 
-- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis and nonparametric statistics.
+- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis, and nonparametric statistics.
 
 - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/): Reviews linear algebra with applications to probability, statistics and optimisation, including a full explanation of deep learning.
 

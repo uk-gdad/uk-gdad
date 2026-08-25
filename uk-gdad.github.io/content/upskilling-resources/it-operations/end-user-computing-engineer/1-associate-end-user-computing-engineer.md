@@ -44,7 +44,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## edX courses
 
-- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud computing characteristics, models and infrastructure, which is where most end user services now live.
+- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud computing characteristics, models, and infrastructure, which is where most end user services now live.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): Useful context on how the services you support are built and operated.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Hardware, operating systems, software tools, relational databases and security, for people with little technical background.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Operating systems, networks, performance and fault tolerance, which is what the faults you handle are made of.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Operating systems, networks, performance, and fault tolerance, which is what the faults you handle are made of.
 
 - [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process and cycle time analysis, which is the reasoning behind the performance indicators you will be reporting.
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Sources of Customer Satisfaction and Dissatisfaction with Information Technology Help Desks](https://link.springer.com/article/10.1023/A:1009794622860): Empirical work on what actually drives satisfaction with IT support, which is rarely what teams assume.
 
-- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Finds three quality dimensions, solution quality, consultation experience and tangibles, rather than the standard SERVQUAL set.
+- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Finds three quality dimensions, solution quality, consultation experience, and tangibles, rather than the standard SERVQUAL set.
 
 - [An investigation of technical support issues influencing user satisfaction](https://digital.library.unt.edu/ark:/67531/metadc2528/): Finds the support method and the technician's experience level to be the significant variables.
 
@@ -94,7 +94,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementation and impacts of IT Service Management in the IT function](https://www.sciencedirect.com/science/article/abs/pii/S0268401223000099): A systematic review of empirical ITSM research from 2012 to 2021.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices extracted across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices extracted across 47 studies.
 
 - [Improving the Software Problem Management Process: A Case Study](https://link.springer.com/chapter/10.1007/11908562_5): A case study of the real difficulties in a problem management process.
 
@@ -110,7 +110,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ServiceNow CMDB Explained: What It Is, Why It Matters, and How It Works](https://www.youtube.com/watch?v=ITtsb7c0WxE): A clear introduction to configuration data.
 
-- [Microsoft Intune and Autopilot Setup Guide](https://www.youtube.com/playlist?list=PLY27VNfjvp0U5DOYtdNmAZBZ8AOzdJlDy): A playlist on device provisioning, app deployment and compliance policies, which is the modern shape of this work.
+- [Microsoft Intune and Autopilot Setup Guide](https://www.youtube.com/playlist?list=PLY27VNfjvp0U5DOYtdNmAZBZ8AOzdJlDy): A playlist on device provisioning, app deployment, and compliance policies, which is the modern shape of this work.
 
 - [Windows Autopilot in Intune: Onboarding Done Properly](https://www.youtube.com/watch?v=2TLFxEUT1Dg): How devices are provisioned without manual build, which is where the discipline is heading.
 
@@ -128,7 +128,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A Guide to Computer User Support for Help Desk and Support Specialists](https://www.amazon.com/Guide-Computer-User-Support-Specialists/dp/1285852680): A textbook covering the support role as a discipline, including the communication half of it.
 
-- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark and West. A compact reference for the diagnostics you will do repeatedly.
+- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark, and West. A compact reference for the diagnostics you will do repeatedly.
 
 - [IT Helpdesk Training Best Practices: Desktop Support Troubleshooting and System Administration](https://www.amazon.com/Helpdesk-Training-Best-Practices-Troubleshooting-ebook/dp/B0CZ245SWG): By Rob Botwright. Broad coverage of desktop support and system administration.
 
@@ -140,9 +140,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Problem Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Problem-Management-Newbies-Guidance-Beginners-ebook/dp/B00PNNZ4LY): By William Edwards. Problem management techniques including Kepner-Tregoe analysis.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The enterprise operations reference, worth starting early.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The enterprise operations reference, worth starting early.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Readable, and a fast way to see how support work connects to everything else.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Readable, and a fast way to see how support work connects to everything else.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): By Cole Nussbaumer Knaflic. Directly useful for the basic reporting expected at this role level.
 

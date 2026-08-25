@@ -103,7 +103,7 @@ Your next step is senior IT service manager.
 **Two things worth knowing about this role.**
 
 First, **five of your nine skills are worded identically at the level below**: IT service reporting,
-ownership and initiative, stakeholder relationship management, strategic thinking and user focus. The step
+ownership and initiative, stakeholder relationship management, strategic thinking, and user focus. The step
 from analyst to manager is not mostly a skills step in the published text — it is a step into agreements,
 governance and a team. If someone is assessing you against skills alone, that step will look smaller than it
 is.

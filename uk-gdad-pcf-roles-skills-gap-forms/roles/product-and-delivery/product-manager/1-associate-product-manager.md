@@ -23,7 +23,7 @@ Nothing here is scored, marked or ranked. There are no right answers. This is
 your chance to say what you need, and it works best when you are honest about the
 gaps.
 
-There are nine skills. Each gets a plain explanation, a rating and a couple of
+There are nine skills. Each gets a plain explanation, a rating, and a couple of
 questions. Take about 30 minutes. You can stop and come back.
 
 ## Advisory

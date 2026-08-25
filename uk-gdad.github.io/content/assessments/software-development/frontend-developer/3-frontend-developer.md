@@ -10,7 +10,7 @@ This is a role where the reasoning is genuinely distinctive. A frontend develope
 
 You may be preparing for a formal assessment as part of a selection process, or you may want to sharpen judgement you already have. Either way, the questions here are built around the decisions this role actually contains: what to do when a design cannot be made accessible as drawn, how to tell whether a performance number means anything, what "it works on my machine" is worth, and how to raise a problem with a designer or a stakeholder so that it lands.
 
-The document has four assessment sections — cognitive, numeric reasoning, verbal reasoning and situational judgement — each with an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips and common pitfalls.
+The document has four assessment sections — cognitive, numeric reasoning, verbal reasoning and situational judgement — each with an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
 
 Try to commit to an answer before reading each explanation. The explanations are where most of the value is, particularly on the questions you found easy.
 
@@ -24,9 +24,9 @@ This assessment information is created by AI and is work in progress for educati
 
 ### About this assessment
 
-A workplace job-specific cognitive assessment measures the reasoning your role demands, using material that looks like your work rather than abstract puzzles. For a frontend developer that means accessibility requirements, browser and device behaviour, design specifications, performance data and interface logic.
+A workplace job-specific cognitive assessment measures the reasoning your role demands, using material that looks like your work rather than abstract puzzles. For a frontend developer that means accessibility requirements, browser and device behaviour, design specifications, performance data, and interface logic.
 
-The format is typically an online test of fifteen to thirty minutes covering logical deduction, pattern recognition, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of people at comparable levels. Some platforms adapt difficulty as you go, and many report speed and accuracy separately.
+The format is typically an online test of fifteen to thirty minutes covering logical deduction, pattern recognition, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of people at comparable levels. Some platforms adapt difficulty as you go, and many report speed and accuracy separately.
 
 Three things distinguish this section at your level.
 
@@ -67,7 +67,7 @@ Your team's standard states: "All interactive components must be operable by key
 A form submits via JavaScript to avoid a page reload. What is the most important question to ask about it?
 
 - A) Whether the JavaScript is minified.
-- B) What happens when the JavaScript does not run — whether the form still submits through a normal HTML form action and produces a working result, because if it does not, users on failed script loads, blocked CDNs or restricted browsers cannot complete the task at all.
+- B) What happens when the JavaScript does not run — whether the form still submits through a normal HTML form action and produces a working result, because if it does not, users on failed script loads, blocked CDNs, or restricted browsers cannot complete the task at all.
 - C) Whether it works in all supported browsers.
 - D) Whether the response is accessible to screen readers.
 
@@ -99,7 +99,7 @@ A user reports that a page "doesn't work on my phone". What is the strongest fir
 
 **Correct answer: B**
 
-**Explanation:** The report contains almost no information, and each of the possible meanings would send you somewhere different. Option B gets the three things that make the report actionable. Option D is the fastest thing to try and device emulation is not the same as a device — it emulates viewport and touch, not the actual browser engine, the CPU, the memory pressure or the network. Option A tests a modern handset on office wifi, which is the configuration least likely to reproduce anything. Option C is useful once you know what to look for.
+**Explanation:** The report contains almost no information, and each of the possible meanings would send you somewhere different. Option B gets the three things that make the report actionable. Option D is the fastest thing to try and device emulation is not the same as a device — it emulates viewport and touch, not the actual browser engine, the CPU, the memory pressure, or the network. Option A tests a modern handset on office wifi, which is the configuration least likely to reproduce anything. Option C is useful once you know what to look for.
 
 **Question 5 (moderate) — Prioritising accessibility findings**
 
@@ -231,7 +231,7 @@ A junior colleague's pull request works correctly but uses a pattern your team h
 
 ### About this assessment
 
-A workplace job-specific numeric reasoning assessment tests whether you can draw a defensible conclusion from data under time pressure. For a frontend developer the data is performance metrics, analytics segmented by device and browser, accessibility audit results, bundle sizes and test coverage.
+A workplace job-specific numeric reasoning assessment tests whether you can draw a defensible conclusion from data under time pressure. For a frontend developer the data is performance metrics, analytics segmented by device and browser, accessibility audit results, bundle sizes, and test coverage.
 
 The format is typically fifteen to twenty-five minutes with a calculator permitted, presenting tables and charts followed by multiple-choice questions. Some items are computational; others ask what the data does and does not support.
 
@@ -453,7 +453,7 @@ You need to make the case for performance work to a service owner. Which figure 
 
 ### About this assessment
 
-A workplace job-specific verbal reasoning assessment tests whether you can determine precisely what a piece of written material establishes. For a frontend developer that material is accessibility standards, design system documentation, browser specifications, service standards and research findings.
+A workplace job-specific verbal reasoning assessment tests whether you can determine precisely what a piece of written material establishes. For a frontend developer that material is accessibility standards, design system documentation, browser specifications, service standards, and research findings.
 
 The commonest format presents a passage followed by statements to be marked True, False or Cannot Say. True means the passage establishes it, False means the passage contradicts it, and Cannot Say means it does neither — regardless of what you happen to know. Your professional knowledge is the main hazard: you will frequently know the right answer about accessibility while the passage in front of you has not said it.
 
@@ -542,7 +542,7 @@ Statement: The design system's date input pattern uses three separate fields.
 
 **Correct answer: A**
 
-**Explanation:** Stated directly: day, month and year as three separate text fields. Straightforward.
+**Explanation:** Stated directly: day, month, and year as three separate text fields. Straightforward.
 
 **Question 6 (moderate)**
 

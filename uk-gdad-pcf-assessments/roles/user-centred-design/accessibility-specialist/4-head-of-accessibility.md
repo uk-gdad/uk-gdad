@@ -26,7 +26,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At head-of-profession level the materials are organisational: audit summaries produced by others, conformance claims from suppliers, risk registers, remediation programmes, and standards applied unevenly across an estate.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority.
 
 Three things characterise this section at your level.
 
@@ -60,7 +60,7 @@ A summary states: "Service X: 41 findings, no blockers." What is the most import
 
 **Correct answer: B**
 
-**Explanation:** All four questions are worth asking and one of them determines whether the others matter. Scope is decisive because blockers cluster in exactly the places lightweight audits skip: authenticated journeys, error states, upload flows, payment steps and anything behind a form. An audit of public pages reporting no blockers is entirely consistent with a service that traps keyboard users at checkout. Option B names this. Option A is the natural first question and presupposes the findings represent the service. Options C and D are legitimate due diligence that does not touch the gap. At your level the useful discipline is to treat "no blockers" as a prompt for a scoping question rather than as reassurance, because the reassuring reports are the ones you are least likely to interrogate and most likely to repeat.
+**Explanation:** All four questions are worth asking and one of them determines whether the others matter. Scope is decisive because blockers cluster in exactly the places lightweight audits skip: authenticated journeys, error states, upload flows, payment steps, and anything behind a form. An audit of public pages reporting no blockers is entirely consistent with a service that traps keyboard users at checkout. Option B names this. Option A is the natural first question and presupposes the findings represent the service. Options C and D are legitimate due diligence that does not touch the gap. At your level the useful discipline is to treat "no blockers" as a prompt for a scoping question rather than as reassurance, because the reassuring reports are the ones you are least likely to interrogate and most likely to repeat.
 
 **Question 2 (easy) — Deduction from a regulatory scope**
 
@@ -188,7 +188,7 @@ You are asked to state the organisation's accessibility risk. Eleven services ha
 
 **Question 11 (harder) — Governance analysis**
 
-You are asked to build accessibility into the organisation's project governance. The existing gateway reviews cover business case, delivery confidence and benefits. What is the strongest approach?
+You are asked to build accessibility into the organisation's project governance. The existing gateway reviews cover business case, delivery confidence, and benefits. What is the strongest approach?
 
 - A) Add an accessibility question to each gateway.
 - B) Identify the decision points where accessibility is actually determined — procurement, technology selection, and the definition of done — and add requirements there, since a gateway question asked after those decisions produces a status report rather than an intervention.
@@ -204,7 +204,7 @@ You are asked to build accessibility into the organisation's project governance.
 Two of your specialists produce audits teams act on; three produce audits teams dispute. Reading a sample, you find the first two consistently state user impact alongside the criterion, and the others cite criteria alone. What is the most useful inference and action?
 
 - A) The three need training on the standards.
-- B) The difference is in how findings are written rather than in technical knowledge — stating user impact makes a finding actionable and hard to dispute, while a criterion reference invites a debate about interpretation — so the action is a reporting standard requiring location, fault, impact and remedy, with examples from the two whose reports work.
+- B) The difference is in how findings are written rather than in technical knowledge — stating user impact makes a finding actionable and hard to dispute, while a criterion reference invites a debate about interpretation — so the action is a reporting standard requiring location, fault, impact, and remedy, with examples from the two whose reports work.
 - C) Reassign auditing to the two.
 - D) Review all audits before issue.
 
@@ -242,7 +242,7 @@ A numeric reasoning assessment measures how accurately you handle quantitative m
 
 The professional stake is direct. Your role owns how accessibility risk is communicated, which means the numbers you put in front of a board become the organisation's understanding of its own position. A figure that flatters — a conformance percentage, an audit coverage rate, a defect count from a tool that examines a third of the criteria — produces complacency that you will spend years correcting. Conversely, a barrier expressed as a criterion reference competes with everything else in a portfolio, while the same barrier expressed as forty thousand people a year and a statutory duty does not.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided.
 
 Four habits carry the load. Establish what the question asks before looking at the data. Identify the denominator and the population it represents. Estimate, calculate, compare. And sanity-check against the world.
 
@@ -443,7 +443,7 @@ Reported defects across the estate fell from 720 to 540 over a year, after an au
 
 A verbal reasoning assessment measures how accurately you read. For your role it is close to a core competence rather than a proxy: accessibility practice rests on documents written with unusual precision — success criteria, regulations, exemptions, procurement standards, conformance claims — and your organisation's legal position depends on those documents being read exactly as written.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone. Your professional knowledge must be set aside, and this is harder for you than for almost any other candidate: you know these documents well enough to complete their sentences, which is precisely the reflex that produces errors. Heads of profession underperform on verbal reasoning at rates that surprise them, and this is nearly always the mechanism.
 
@@ -468,25 +468,25 @@ The verbal skills tested map onto your named skills:
 
 "Public sector bodies must ensure their websites meet the accessibility standard. This does not apply to pre-recorded time-based media published before 23 September 2020, to live time-based media, to online maps provided essential information is available in an accessible alternative format, or to content on an intranet published before 23 September 2019 and not substantially revised since. A body may claim that meeting a requirement would impose a disproportionate burden, provided it carries out and documents an assessment of that burden."
 
-**Question 1 (easy)** — Statement: "All content on a public sector website must meet the standard." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "All content on a public sector website must meet the standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage lists four categories outside scope and a fifth route via disproportionate burden. The statement's "all" contradicts them, so False. Worth noting the scale of what is excluded: between media, maps, older intranet content and the burden provision, a substantial proportion of what a large organisation publishes may be outside the requirement as written. A head of accessibility carrying "everything must conform" as a working assumption will direct effort at content outside scope and be corrected by somebody less expert, which is an expensive way to lose standing.
 
-**Question 2 (easy)** — Statement: "A live-streamed event published in 2018 is exempt." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "A live-streamed event published in 2018 is exempt." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage exempts live time-based media with no date condition attached — the 2020 date applies to the *pre-recorded* exemption. A live stream is therefore exempt regardless of publication date, and the statement follows. True. The item tests whether you attach the date qualifier to the right clause, and a reader carrying "there is a 2020 date on media" as a general rule reaches the right answer here for the wrong reason, then fails the moment they meet a live stream from 2024.
 
-**Question 3 (moderate)** — Statement: "A body may claim disproportionate burden for any requirement it finds costly." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A body may claim disproportionate burden for any requirement it finds costly." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The provision is conditional: a body may claim disproportionate burden *provided it carries out and documents an assessment*. The statement drops the condition and substitutes a subjective test — finding something costly — for a documented assessment, so it is contradicted. False. This is the most misused provision in the regulations and the one most likely to reach you as an organisational position: teams describe work as a disproportionate burden without any assessment, which is not a claim at all, and a body relying on an undocumented burden claim is in a worse position than one that simply disclosed the gap. Knowing that the condition is procedural rather than substantive is what lets you say so.
 
-**Question 4 (harder)** — Statement: "Intranet content published in 2018 and rewritten last month is exempt." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "Intranet content published in 2018 and rewritten last month is exempt." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -496,25 +496,25 @@ The verbal skills tested map onto your named skills:
 
 "The cross-government review found considerable variation in how departments assure accessibility. Six departments run automated checks in their build pipelines; the remainder rely on periodic audit. Departments with automated checks reported fewer defects at release, although the review did not examine whether their services were more accessible in use. The review recommends that the profession consider whether a common assurance approach would be proportionate."
 
-**Question 5 (easy)** — Statement: "Some departments do not run automated checks in their pipelines." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some departments do not run automated checks in their pipelines." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that six departments run automated checks and the remainder rely on periodic audit, establishing directly that some do not. True. Answer quickly and bank the time. The only conceivable ambiguity — whether "the remainder" might be empty — is closed by the passage describing what the remainder does.
 
-**Question 6 (moderate)** — Statement: "Automated checks produce more accessible services." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Automated checks produce more accessible services." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports fewer defects at release and states explicitly that accessibility in use was not examined. Those differ, and the gap is instructive: automated checks catch a defined subset of criteria, so departments using them may genuinely produce fewer of that subset while performing identically on keyboard operation, focus management and meaningful alternatives — which is where the difficult barriers are. Cannot Say. This is the specific trap for someone in your position, because "automation improves accessibility" is a claim you would like to be true and would cite when proposing a common approach. It is worth arguing for automation on the grounds the evidence supports — earlier detection of a known class of defect at negligible marginal cost — which is a strong enough case without overstating it.
 
-**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The review recommends that the profession *consider whether* a common approach would be proportionate, which includes concluding it would not be. The statement asserts a recommendation to introduce, which was not made, so False rather than Cannot Say. At your level you are likely to be both a recipient of this recommendation and a contributor to whatever the profession decides, so misreading it commits you to advocating something nobody asked for — and, more awkwardly, to reporting progress against it.
 
-**Question 8 (harder)** — Statement: "Periodic audit is a weaker assurance approach than automated checking." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Periodic audit is a weaker assurance approach than automated checking." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -524,19 +524,19 @@ The verbal skills tested map onto your named skills:
 
 "An accessibility statement must state the standard and level the service aims to meet, describe any non-accessible content and why, give the date of preparation and last review, and explain how to report problems. Where non-accessible content is claimed to impose a disproportionate burden, the statement must record the assessment. A statement must be reviewed at least annually and whenever the service changes substantially. A statement claiming full conformance may not be published where known non-accessible content exists."
 
-**Question 9 (easy)** — Statement: "A statement must explain how to report problems." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "A statement must explain how to report problems." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence requires the statement to explain how to report problems. The statement restates that, so True. Answer quickly. It is worth noting why the requirement exists and why it is the element most often reduced to a generic contact form: a reporting route is how an organisation learns about barriers it has not found, and one that leads nowhere converts the statement from a disclosure into a formality.
 
-**Question 10 (moderate)** — Statement: "A statement reviewed eleven months ago is compliant." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A statement reviewed eleven months ago is compliant." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The review requirement has two limbs: at least annually, *and* whenever the service changes substantially. Eleven months satisfies the first, but the statement does not tell you whether the service has changed substantially in that period. If it has, a review was due at that point regardless of the calendar. Cannot Say. This compound structure catches organisations that treat the annual review as the whole obligation and let statements go stale through a major release — which is precisely how a statement comes to describe a service that no longer exists, and precisely the kind of thing an enforcement enquiry finds.
 
-**Question 11 (harder)** — Statement: "A service with two known minor non-accessible items may publish a statement claiming full conformance if it plans to fix them." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A service with two known minor non-accessible items may publish a statement claiming full conformance if it plans to fix them." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -649,7 +649,7 @@ Your specialists are spread across directorates, spend most of their time on aud
 
 **Question 4 (moderate) — A governance intervention**
 
-You are asked to build accessibility into project governance. Existing gateways cover business case, delivery confidence and benefits. What is most effective?
+You are asked to build accessibility into project governance. Existing gateways cover business case, delivery confidence, and benefits. What is most effective?
 
 - A) Add an accessibility question at each gateway.
 - B) Identify where accessibility is actually determined — procurement, technology selection and the definition of done — and place requirements there, since a gateway question asked after those decisions produces a status report rather than an intervention.

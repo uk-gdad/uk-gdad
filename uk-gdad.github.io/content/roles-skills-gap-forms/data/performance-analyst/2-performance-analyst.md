@@ -120,7 +120,7 @@ that you:
 4. Lead performance analyst
 5. Head of performance analysis
 
-Your next step is senior performance analyst: delegating, automating or upskilling others
+Your next step is senior performance analyst: delegating, automating, or upskilling others
 where possible, providing leadership in the team, possibly managing one or more analysts,
 and carrying out increasingly complex analysis.
 

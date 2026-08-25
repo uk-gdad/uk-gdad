@@ -106,7 +106,7 @@ you:
 **Two things worth knowing about this role.**
 
 First, four of your seven skills are worded **identically at junior interaction designer** — design
-communication, designing for everyone, evidence-based design and iterative design. What changed on
+communication, designing for everyone, evidence-based design, and iterative design. What changed on
 promotion was designing strategically, designing together and leading design.
 
 Second: **the framework publishes the same seven skills, word for word, for interaction designers,
@@ -423,7 +423,7 @@ ask about awareness, training and support, not about whether you can state the l
 
 - [ ] The accessibility regulations for public sector websites and apps
 - [ ] The Web Content Accessibility Guidelines
-- [ ] Keyboard navigation, focus management and error announcement
+- [ ] Keyboard navigation, focus management, and error announcement
 - [ ] The Equality Act 2010 and the public sector equality duty
 - [ ] Data protection, data minimisation and asking only for what is needed
 - [ ] The GOV.UK Service Standard and service assessments

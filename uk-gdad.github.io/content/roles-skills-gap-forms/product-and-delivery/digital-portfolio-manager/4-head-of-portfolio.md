@@ -588,7 +588,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md)
-  — courses, articles, talks and books pitched at head of portfolio.
+  — courses, articles, talks, and books pitched at head of portfolio.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md)

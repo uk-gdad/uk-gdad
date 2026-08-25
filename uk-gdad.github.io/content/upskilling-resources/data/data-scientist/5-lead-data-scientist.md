@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of lead dat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you lead a data science team, set technical direction, secure the conditions the team needs to work well, and represent data science to senior stakeholders. The resources below emphasise leadership, method standards and organisational influence.
+At this role level you lead a data science team, set technical direction, secure the conditions the team needs to work well, and represent data science to senior stakeholders. The resources below emphasise leadership, method standards, and organisational influence.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -30,7 +30,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/): Covers analysing data, creating visualisations and applying machine learning algorithms in Python, with over a hundred video lectures and detailed code notebooks.
 
-- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/): Covers mathematics, statistics, Python, advanced statistics, machine learning and deep learning, including NumPy, pandas and scikit-learn.
+- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/): Covers mathematics, statistics, Python, advanced statistics, machine learning and deep learning, including NumPy, pandas, and scikit-learn.
 
 - [Machine Learning, Data Science and AI Engineering with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/): A hands-on course covering the practical application of machine learning techniques with attention to how models behave on real data.
 

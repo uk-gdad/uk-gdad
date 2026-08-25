@@ -549,7 +549,7 @@ would a useful version look like?
 
 *Your answer:*
 
-**Q48.** Where do you want to be in two years — principal, solution or enterprise
+**Q48.** Where do you want to be in two years — principal, solution, or enterprise
 architecture, engineering leadership, or somewhere else?
 
 *Your answer:*
@@ -600,7 +600,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/technical-architect/4-lead-technical-architect.md)
-  — courses, articles, talks and books pitched at lead technical architect.
+  — courses, articles, talks, and books pitched at lead technical architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/technical-architect/4-lead-technical-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/technical-architect/4-lead-technical-architect.md)

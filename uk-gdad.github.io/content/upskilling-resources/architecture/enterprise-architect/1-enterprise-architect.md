@@ -38,7 +38,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Enterprise Architecture: Architectural Principles and Patterns](https://www.skillsoft.com/course/enterprise-architecture-architectural-principles-patterns-7ad56361-c387-4163-9ed6-571890b250b1): An intermediate course exploring architecture concepts and the principles that should be followed when designing architecture for applications and systems.
 
-- [Architecture Development Method (ADM) Cycle](https://www.skillsoft.com/course/architecture-development-method-adm-cycle-d4cd2224-292d-11e7-9844-0242c0a8080b): A phase-by-phase treatment of the TOGAF ADM, covering the inputs, steps and outputs of each phase.
+- [Architecture Development Method (ADM) Cycle](https://www.skillsoft.com/course/architecture-development-method-adm-cycle-d4cd2224-292d-11e7-9844-0242c0a8080b): A phase-by-phase treatment of the TOGAF ADM, covering the inputs, steps, and outputs of each phase.
 
 - [Courses for DDAT Enterprise Architect](https://www.skillsoft.com/journey/ddat-enterprise-architect-9cfc71da-ce69-4df8-b22b-fd3f0ac06429): A curated learning journey mapped to the UK Government Digital and Data profession capability framework for this exact role.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ESD.34 System Architecture](https://ocw.mit.edu/courses/esd-34-system-architecture-january-iap-2007/): Covers the principles of architecting complex systems, including decomposition, interfaces, and the relationship between form and function. A rigorous foundation that generalises well beyond software.
 
-- [15.571 Generating Business Value from Information Technology](https://ocw.mit.edu/courses/sloan-school-of-management/15-571-generating-business-value-from-information-technology-spring-2009/syllabus/): Examines how IT enables four fundamental business operating models, using case studies including UPS, Merrill Lynch, 7-Eleven Japan and Pacific Life.
+- [15.571 Generating Business Value from Information Technology](https://ocw.mit.edu/courses/sloan-school-of-management/15-571-generating-business-value-from-information-technology-spring-2009/syllabus/): Examines how IT enables four fundamental business operating models, using case studies including UPS, Merrill Lynch, 7-Eleven Japan, and Pacific Life.
 
 - [1.264J Database, Internet, and Systems Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/): Covers data modelling, UML, relational databases and SQL alongside internet technologies including XML, web services and service-oriented architectures.
 
@@ -120,7 +120,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Business Capabilities and Enterprise Architecture](https://www.youtube.com/watch?v=yHEsK6vdtGE): Covers capability definitions and their application to organisational and system design decisions.
 
-- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar on identifying, defining, modelling and mapping value streams to the standard.
+- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar on identifying, defining, modelling, and mapping value streams to the standard.
 
 - [TOGAF 9.1 Training Video and Tutorial](https://www.youtube.com/watch?v=_s4ZFdmMBdc): A long-form training video covering the framework end to end, useful as a structured refresher.
 
@@ -128,13 +128,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5): By Svyatoslav Kotusev. An empirically grounded account of how architecture is actually practised, including which artefacts organisations genuinely use.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Introduces the four operating models that determine how much integration and standardisation an organisation needs.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Introduces the four operating models that determine how much integration and standardisation an organisation needs.
 
 - [Enterprise Architects: The Agents of Digital Transformation](https://www.amazon.com/Enterprise-Architects-Transformation-Architecture-Research-ebook/dp/B0DGF8SQQ4): By Svyatoslav Kotusev. Focuses on the architect as an actor in organisational change rather than on the framework.
 
-- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A widely used textbook treatment of the discipline, covering frameworks, methods and governance.
+- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A widely used textbook treatment of the discipline, covering frameworks, methods, and governance.
 
-- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): A practitioner guide to the business layer of an enterprise architecture, covering capability, value stream and information views.
+- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): A practitioner guide to the business layer of an enterprise architecture, covering capability, value stream, and information views.
 
 - [Operating Model Canvas: aligning operations and organization with strategy](https://www.amazon.com/Operating-Model-Canvas-Haren-Publishing/dp/9401800715): A concrete framework for describing how an organisation works, which grounds architecture in operational reality.
 

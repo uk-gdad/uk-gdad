@@ -39,7 +39,7 @@ Mapping the assessment dimensions to the skills named in your role profile:
 - **Systems design.** You design systems characterised by high levels of risk, impact, and business or technical complexity, and you control system design practice within an enterprise architecture. Pattern recognition and consistency-checking questions mirror the design assurance work of spotting where a proposed design breaks an established pattern or standard.
 - **Systems integration.** You define the integration build and co-ordinate build activities across systems. Sequencing and dependency questions — deciding the valid order of build steps under stated constraints — draw directly on this skill.
 - **Governance and assurance.** You ensure appropriate and proportionate governance is in place and guide teams through assurance processes such as service assessments. Error-checking questions using governance artefacts (risk registers, decision logs, assessment criteria) test the meticulous attention that assurance work demands.
-- **IT infrastructure.** You lead teams in the design, implementation, administration and support of infrastructure solutions. Prioritisation questions reflect the daily reality of ordering escalations, changes, and coaching commitments across an infrastructure portfolio.
+- **IT infrastructure.** You lead teams in the design, implementation, administration, and support of infrastructure solutions. Prioritisation questions reflect the daily reality of ordering escalations, changes, and coaching commitments across an infrastructure portfolio.
 
 ### Practice questions
 

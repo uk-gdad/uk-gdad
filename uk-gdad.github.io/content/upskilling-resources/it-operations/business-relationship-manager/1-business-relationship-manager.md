@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Stakeholder Management](https://www.coursera.org/learn/stakeholder-management): Four lessons covering stakeholder identification, analysis, collaboration and change support. Written for project managers, business analysts, change managers and relationship managers.
+- [Stakeholder Management](https://www.coursera.org/learn/stakeholder-management): Four lessons covering stakeholder identification, analysis, collaboration, and change support. Written for project managers, business analysts, change managers, and relationship managers.
 
 - [Effective Stakeholder Engagement: A Strategic Approach](https://www.coursera.org/learn/effective-stakeholder-engagement-a-strategic-approach): Treats engagement as something planned rather than reactive, which is exactly what consistency of engagement requires.
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.067 Competitive Decision-Making and Negotiation](https://ocw.mit.edu/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/): Negotiation practice across two-party and multi-party settings with multiple issues.
 
-- [15.668 People and Organizations](https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010/pages/syllabus/): Exercises, simulations and cases developing teamwork, negotiation, communication and leadership skills.
+- [15.668 People and Organizations](https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010/pages/syllabus/): Exercises, simulations and cases developing teamwork, negotiation, communication, and leadership skills.
 
 ## Blog posts
 
@@ -98,7 +98,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Effectiveness of IT Service Management Capability: Value Co-Creation and Value Facilitation Mechanisms](https://www.researchgate.net/publication/333777833_Effectiveness_of_IT_Service_Management_Capability_Value_Co-Creation_and_Value_Facilitation_Mechanisms): Finds that ITSM capability works through business alignment, which is direct evidence for your role's value.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Extracts benefits, challenges and practices across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Extracts benefits, challenges, and practices across 47 studies.
 
 - [Measuring IT Service Management Capability: Scale Development and Empirical Validation](https://www.researchgate.net/publication/299616426_Measuring_IT_Service_Management_Capability_Scale_Development_and_Empirical_Validation): A validated capability measure, useful for continuous improvement activity that is evidenced rather than asserted.
 
@@ -120,7 +120,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [How to do Requirements Elicitation? BABOK v3 Study Group](https://www.youtube.com/watch?v=z_8FLCI689w): Covers the inputs and outputs of elicitation and collaboration, which is where documentation quality comes from.
 
-- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): The strategy analysis knowledge area, connecting current state, future state and change strategy.
+- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): The strategy analysis knowledge area, connecting current state, future state, and change strategy.
 
 - [Get a Job. Build a Career. BRM. Webinar](https://www.youtube.com/watch?v=360lor6yl7I): A BRM Institute webinar on the career path, useful for working out what to develop next.
 
@@ -132,9 +132,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Stakeholder Relationship Management](https://www.amazon.com/Stakeholder-Relationship-Management-Lynda-Bourne/dp/1032838183): By Lynda Bourne. A structured approach to engaging the right stakeholders at the right time and managing expectations continuously.
 
-- [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny, Patterson, McMillan, Switzler and Gregory. How to be persuasive rather than abrasive when a conversation matters.
+- [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny, Patterson, McMillan, Switzler, and Gregory. How to be persuasive rather than abrasive when a conversation matters.
 
-- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton and Heen. The structure underneath conversations that keep going wrong.
+- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton, and Heen. The structure underneath conversations that keep going wrong.
 
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2): By Chris Voss and Tahl Raz. Tactical empathy and active listening, applied to negotiation.
 

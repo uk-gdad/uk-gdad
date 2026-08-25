@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of head of 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are accountable for the user research function, its strategy, its capability and its influence on organisational decisions. The resources below emphasise research strategy, capability building and executive influence.
+At this role level you are accountable for the user research function, its strategy, its capability and its influence on organisational decisions. The resources below emphasise research strategy, capability building, and executive influence.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -32,11 +32,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [UX Design Process from User Research to Usability Testing](https://www.udemy.com/course/ux-design-process-for-beginners-from-user-research-to-usability/): Covers the whole process from user interviews and personas through user stories and information architecture to usability testing.
 
-- [Mastering UX Research: From Fundamentals to Job Skills](https://www.udemy.com/course/ux-research-bootcamp-from-zero-experience-to-job-ready/): Covers strategic research planning, interviews, analysis and deliverables, with both qualitative and quantitative methods including usability testing, surveys, card sorting and tree testing.
+- [Mastering UX Research: From Fundamentals to Job Skills](https://www.udemy.com/course/ux-research-bootcamp-from-zero-experience-to-job-ready/): Covers strategic research planning, interviews, analysis, and deliverables, with both qualitative and quantitative methods including usability testing, surveys, card sorting and tree testing.
 
 ## Skillsoft courses
 
-- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility and career development.
+- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility, and career development.
 
 - [Courses for UX Design](https://www.skillsoft.com/channel/ux-design-f0507340-0b21-11e7-a3e9-a39d8b265364): A channel covering design techniques and tools, guidelines and patterns, and the research methods that inform them.
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Human-Computer Interaction II: Cognition, Context and Culture (GTx)](https://www.edx.org/course/human-computer-interaction-ii-cognition-context-cu): The continuation, covering how cognition, context and culture shape how people actually use interfaces.
 
-- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles and deliverables.
+- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles, and deliverables.
 
 ## MIT OpenCourseWare courses
 
@@ -62,7 +62,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [User research in government](https://userresearch.blog.gov.uk/): The cross-government blog showcasing what user researchers across UK government are working on, with case studies and method write-ups.
 
-- [User research on the GDS blog](https://gds.blog.gov.uk/category/user-research/): Posts from Government Digital Service user researchers on methods, findings and practice.
+- [User research on the GDS blog](https://gds.blog.gov.uk/category/user-research/): Posts from Government Digital Service user researchers on methods, findings, and practice.
 
 - [Design in government: user research](https://designnotes.blog.gov.uk/category/user-research/): The design blog's user research category, covering how research and design work together in practice.
 
@@ -70,7 +70,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Reflections on the user-centred design communities team](https://designnotes.blog.gov.uk/2021/04/01/reflections-on-the-user-centred-design-communities-team/): On building user-centred design capability across the public sector and supporting communities of practice.
 
-- [What the user-centred design communities team achieved](https://designnotes.blog.gov.uk/2021/05/19/what-the-user-centred-design-communities-team-achieved/): Describes supporting over four thousand people working in design, user research and accessibility across the public sector.
+- [What the user-centred design communities team achieved](https://designnotes.blog.gov.uk/2021/05/19/what-the-user-centred-design-communities-team-achieved/): Describes supporting over four thousand people working in design, user research, and accessibility across the public sector.
 
 - [How we took a user-centred approach to understanding inclusion and exclusion in the GDS design team](https://designnotes.blog.gov.uk/2020/08/10/how-we-took-a-user-centred-approach-to-understanding-inclusion-and-exclusion-in-the-gds-design-team/): Applies research methods to the design team itself, a useful model for examining your own practice.
 
@@ -86,7 +86,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Estimating Sample Size for Usability Testing](https://www.redalyc.org/journal/5722/572262176013/html/): Reviews the Virzi, Nielsen and Landauer, and Lewis methods for estimating the sample needed to find a target proportion of problems.
 
-- [To Intervene or Not to Intervene: An Investigation of Three Think-Aloud Protocols in Usability Testing](https://uxpajournal.org/intervene-think-aloud-protocols-usability-testing/): Compares concurrent think-aloud, speech-communication and active intervention across problem identification, task performance, participant experience and cost.
+- [To Intervene or Not to Intervene: An Investigation of Three Think-Aloud Protocols in Usability Testing](https://uxpajournal.org/intervene-think-aloud-protocols-usability-testing/): Compares concurrent think-aloud, speech-communication and active intervention across problem identification, task performance, participant experience, and cost.
 
 - [Effect of Thinking Aloud on UX Metrics: A Review of the Evidence](https://measuringu.com/does-ta-increase-task-times/): Reviews the surprisingly thin evidence on how think-aloud protocols affect the metrics collected alongside them.
 
@@ -153,5 +153,5 @@ We welcome constructive feedback to improve this page and these lists.
 - Build research operations as infrastructure so that researchers spend their time researching
 - Grow capability deliberately through recruitment, mentoring and a visible development path
 - Represent research credibly at senior level, including when findings are unwelcome
-- Work with heads of design, product and delivery as genuine peers
+- Work with heads of design, product, and delivery as genuine peers
 - Contribute to cross-government user research communities, which are unusually strong in this profession

@@ -347,7 +347,7 @@ counting; and four retired levels say `Role level: NOT IN USE`.
 
 ### Upskilling resources — where to learn it
 
-Markdown. Ten sections: Coursera, Udemy, Skillsoft, edX and MIT OpenCourseWare
+Markdown. Ten sections: Coursera, Udemy, Skillsoft, edX, and MIT OpenCourseWare
 courses; blog posts; research articles; videos; books; and written tips.
 
 ```
@@ -355,7 +355,7 @@ courses; blog posts; research articles; videos; books; and written tips.
 ```
 
 Original content only — a course, a post, a paper, a talk, a book. Not
-listicles, channels, magazines or marketing pages.
+listicles, channels, magazines, or marketing pages.
 
 ### CPD checklist — how to keep developing
 
@@ -455,13 +455,18 @@ management track of a split level. The four retired
 | `bin/check --quiet` | Failures only |
 | `bin/check --list` | The canonical role index, one slug per line |
 | `bin/cook draft.md` | Reformat raw AI output into the required markdown |
+| `bin/serial-comma` | Report the lists missing a serial comma; change nothing |
+| `bin/serial-comma --write` | Add the commas it can judge safely |
+| `bin/serial-comma --held` | The lists that need a person, not a script |
 | `bin/publish` | Check, then push `uk-gdad.github.io/` to the site repository |
 | `bin/publish --dry-run` | Check, and report what would be pushed |
 | `uk-gdad.github.io/bin/sync` | Refresh the website's vendored inputs |
 | `cd uk-gdad.github.io && pnpm dev` | Run the site locally |
 | `cd uk-gdad.github.io && pnpm build` | Build the site |
 
-`bin/cook` needs GNU sed (`brew install gnu-sed`). `bin/normalize` is a
+`bin/cook` needs GNU sed (`brew install gnu-sed`). `bin/serial-comma` never
+touches quoted text — the framework's wording, a skill name, an official title,
+or a third-party title — and reports before it writes. `bin/normalize` is a
 historical one-off migration, kept for the record, not part of the pipeline.
 
 ---

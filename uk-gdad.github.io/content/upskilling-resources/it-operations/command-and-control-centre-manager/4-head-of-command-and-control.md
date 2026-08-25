@@ -36,9 +36,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): The practices you set standards for, including availability, capacity and performance management.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): The practices you set standards for, including availability, capacity, and performance management.
 
-- [Business Continuity Programs](https://www.skillsoft.com/course/business-continuity-programs-e45de5fa-63d1-40d2-8897-4bc581034c3f): Continuity planning across pandemic, natural disaster, technological failure and human error scenarios.
+- [Business Continuity Programs](https://www.skillsoft.com/course/business-continuity-programs-e45de5fa-63d1-40d2-8897-4bc581034c3f): Continuity planning across pandemic, natural disaster, technological failure, and human error scenarios.
 
 - [Courses for Digital Transformation Strategy](https://www.skillsoft.com/channel/digital-transformation-strategy-1ac90cd0-dc1f-11e7-9fe8-1b7f5fcc733d): Leadership capability for organisational change, which is what an integration roadmap actually demands.
 
@@ -52,15 +52,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, architecture, trade-space exploration, interface management and commissioning. A good frame for a tooling and integration roadmap.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, architecture, trade-space exploration, interface management, and commissioning. A good frame for a tooling and integration roadmap.
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping and root cause analysis at programme scale.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping, and root cause analysis at programme scale.
 
-- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Capacity analysis, cycle time and process design, which transfers directly to operations capacity planning.
+- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Capacity analysis, cycle time, and process design, which transfers directly to operations capacity planning.
 
 ## Blog posts
 
-- [Google SRE Book, table of contents](https://sre.google/sre-book/table-of-contents/): The full set of essays, including capacity planning, managing operational load and eliminating toil. Worth reading whole at this level.
+- [Google SRE Book, table of contents](https://sre.google/sre-book/table-of-contents/): The full set of essays, including capacity planning, managing operational load, and eliminating toil. Worth reading whole at this level.
 
 - [Embracing Risk, Google SRE Book chapter 3](https://sre.google/sre-book/embracing-risk/): Error budgets, which turn availability from an argument into a negotiated number.
 
@@ -126,17 +126,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. How to introduce these practices into an organisation with existing operational commitments.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. How to introduce these practices into an organisation with existing operational commitments.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team structure and cognitive load, the most useful frame for building a capability.
 
-- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operations at scale, with case studies from organisations that had to solve this.
+- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operations at scale, with case studies from organisations that had to solve this.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. The evidence base for the practices you will ask an organisation to fund.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. The evidence base for the practices you will ask an organisation to fund.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. The standard against which to judge whether your tooling is fit for purpose.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. The standard against which to judge whether your tooling is fit for purpose.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command model, which scales better than ad hoc escalation.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command model, which scales better than ad hoc escalation.
 
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869): By Rosenthal and Jones. Discovering weakness deliberately, which is the mature form of continuity testing.
 

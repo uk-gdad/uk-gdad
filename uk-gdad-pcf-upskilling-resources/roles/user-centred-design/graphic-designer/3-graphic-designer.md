@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of graphic 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you work independently on visual design, producing accessible, accurate and effective visual communication for services and users. The resources below emphasise accessible visual design, information graphics and working with other design disciplines.
+At this role level you work independently on visual design, producing accessible, accurate and effective visual communication for services and users. The resources below emphasise accessible visual design, information graphics, and working with other design disciplines.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -22,7 +22,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Graphic Design Specialization (CalArts)](https://www.coursera.org/specializations/graphic-design): A four-course sequence covering design process, historical context and communication through image-making and typography, completed by a branding capstone suitable for a portfolio.
 
-- [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design): Covers colour theory, composition and visual hierarchy alongside professional typography, including typographic terminology, font anatomy and typesetting rules.
+- [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design): Covers colour theory, composition and visual hierarchy alongside professional typography, including typographic terminology, font anatomy, and typesetting rules.
 
 - [Brand New Brand](https://www.coursera.org/learn/brand-new-brand): The capstone of the Graphic Design Specialization, taking a brand from ideation through creation to presentation as a complete brand development guide.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility and career development.
+- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility, and career development.
 
 - [Courses for UX Design](https://www.skillsoft.com/channel/ux-design-f0507340-0b21-11e7-a3e9-a39d8b265364): A channel covering design techniques and tools, guidelines and patterns, and the research methods that inform them.
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Human-Computer Interaction II: Cognition, Context and Culture (GTx)](https://www.edx.org/course/human-computer-interaction-ii-cognition-context-cu): The continuation, covering how cognition, context and culture shape how people actually use interfaces.
 
-- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles and deliverables.
+- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles, and deliverables.
 
 ## MIT OpenCourseWare courses
 
@@ -134,13 +134,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Covers how visual decisions become accessible or inaccessible in implementation.
 
-- [Web Accessibility by Design: Inclusive Front-End Patterns and UI Guidelines](https://www.amazon.com/Web-Accessibility-Design-Inclusive-Guidelines-ebook/dp/B0FMJSVY2D): Covers colour contrast, motion control and visual presentation alongside markup.
+- [Web Accessibility by Design: Inclusive Front-End Patterns and UI Guidelines](https://www.amazon.com/Web-Accessibility-Design-Inclusive-Guidelines-ebook/dp/B0FMJSVY2D): Covers colour contrast, motion control, and visual presentation alongside markup.
 
-- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): Cooper, Reimann, Cronin and Noessel. Connects visual decisions to behaviour and to user goals.
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): Cooper, Reimann, Cronin, and Noessel. Connects visual decisions to behaviour and to user goals.
 
 - [Content Design](https://www.amazon.com/Content-Design-Sarah-Winters/dp/1916323316): By Sarah Winters. Visual and written content have to work together, and this sets the standard for the written half in government.
 
-- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky and Moed. A methods reference for testing visual work with real users.
+- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky, and Moed. A methods reference for testing visual work with real users.
 
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/1933820118): By Steve Portigal. Visual design decisions are stronger when grounded in what users actually said.
 

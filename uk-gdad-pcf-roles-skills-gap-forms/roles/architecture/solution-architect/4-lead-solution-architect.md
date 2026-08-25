@@ -590,7 +590,7 @@ that a successor will find hard to escape?
 *Your answer:*
 
 **Q45.** Do your standards for technical design say anything about data
-protection, accessibility or equality? Should they say more?
+protection, accessibility, or equality? Should they say more?
 
 *Your answer:*
 
@@ -701,7 +701,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/solution-architect/4-lead-solution-architect.md)
-  — courses, articles, talks and books pitched at lead solution architect.
+  — courses, articles, talks, and books pitched at lead solution architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/solution-architect/4-lead-solution-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/solution-architect/4-lead-solution-architect.md)

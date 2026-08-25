@@ -22,13 +22,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Root Cause Analysis: Principles and Benefits](https://www.coursera.org/learn/root-cause-analysis-principles-and-benefits): A systematic RCA process for preventing recurrence, which is the whole point of the role.
 
-- [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Incident, problem, request, change and configuration management as one connected set of feeds.
+- [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Incident, problem, request, change, and configuration management as one connected set of feeds.
 
 - [Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture): How to align incentives so that prevention gets funded rather than only firefighting.
 
 ## Udemy courses
 
-- [Mastering ITIL Problem Management and Optimization in ITSM](https://www.udemy.com/course/mastering-problem-management-and-optimization-in-itsm/): The problem management process, best practices and optimisation techniques. The closest match to this role.
+- [Mastering ITIL Problem Management and Optimization in ITSM](https://www.udemy.com/course/mastering-problem-management-and-optimization-in-itsm/): The problem management process, best practices, and optimisation techniques. The closest match to this role.
 
 - [Root Cause Analysis: A Leader's Guide to Problem Solving](https://www.udemy.com/course/root-cause-analysis-a-leaders-guide-to-problem-solving/): Root cause analysis and the 8D method, framed for people directing an investigation.
 
@@ -52,11 +52,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping, root cause analysis and improvement plans. The best free course for this role.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping, root cause analysis, and improvement plans. The best free course for this role.
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Fault tolerance through replication, transactions and isolation, plus performance and networks.
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Interface management, verification and validation, which is where the errors between components live.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Interface management, verification, and validation, which is where the errors between components live.
 
 ## Blog posts
 
@@ -74,7 +74,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Example postmortem, Google SRE Book](https://sre.google/sre-book/example-postmortem/): A worked postmortem, useful as both a template and a standard.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [Embracing Risk, Google SRE Book chapter 3](https://sre.google/sre-book/embracing-risk/): Error budgets, which give you a way to argue for prevention work in terms delivery teams accept.
 
@@ -82,7 +82,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): A structured review of RCA techniques across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): A structured review of RCA techniques across metrics, traces, logs, and multi-model data.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): 14 challenges and 17 enablers, including expertise gaps, employee bias, poor data quality, and the tooling that helps.
 
@@ -110,7 +110,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Performing Postmortems and Postmortem Templates](https://www.youtube.com/watch?v=Y-vY2iCoyTU): Templates, which make investigations comparable and therefore trendable.
 
-- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Structured reports from logs, metrics, traces and timelines, which is what pattern analysis needs.
+- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Structured reports from logs, metrics, traces, and timelines, which is what pattern analysis needs.
 
 - [Blameless Post Mortems](https://www.youtube.com/watch?v=4nRahQddtJ0): Why the point of a review is learning rather than attribution.
 
@@ -132,15 +132,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Root Cause Analysis: Improving Performance for Bottom-Line Results](https://www.amazon.com/Root-Cause-Analysis-Performance-Bottom-Line-ebook/dp/B07TLG2HBM): By Latino, Latino and Latino. What a holistic RCA system looks like across an organisation.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command model, useful when working alongside major incident managers.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command model, useful when working alongside major incident managers.
 
 - [ITIL Continual Service Improvement](https://www.amazon.com/Continual-Service-Improvement-Book-Itil/dp/0113310498): By Spalding and Case. The improvement discipline your preventative measures belong to.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Named failure patterns, which lets you recognise a recurring problem faster.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Investigating failures nobody predicted, which is most problems.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Investigating failures nobody predicted, which is most problems.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Postmortem practice and error budget policy, which is how prevention gets funded.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Postmortem practice and error budget policy, which is how prevention gets funded.
 
 - [Implementing ITIL Change and Release Management](https://www.amazon.com/Implementing-ITIL-Change-Release-Management/dp/0138150419): By Larry Klosterboer. The processes through which most of your preventative measures will be delivered.
 

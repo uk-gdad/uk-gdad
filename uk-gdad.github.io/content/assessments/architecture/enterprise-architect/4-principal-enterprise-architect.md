@@ -8,9 +8,9 @@ Psychometric assessments are structured, standardised exercises that measure the
 
 This document contains four assessment guides, each aligned to a recognised assessment type:
 
-1. **Workplace job-specific cognitive assessment** - pattern recognition, logical deduction, error checking and prioritisation using the artefacts you genuinely handle: roadmaps, capability models, transition states, governance decision logs and Digital Twin architectures.
-2. **Workplace job-specific numeric reasoning assessment** - interpretation of budgets, portfolio metrics, supplier cost models, capacity figures and value-for-money analyses.
-3. **Workplace job-specific verbal reasoning assessment** - precise comprehension of dense written material such as architectural principles, strategy papers, commercial frameworks and cross-government policy text.
+1. **Workplace job-specific cognitive assessment** - pattern recognition, logical deduction, error checking and prioritisation using the artefacts you genuinely handle: roadmaps, capability models, transition states, governance decision logs, and Digital Twin architectures.
+2. **Workplace job-specific numeric reasoning assessment** - interpretation of budgets, portfolio metrics, supplier cost models, capacity figures, and value-for-money analyses.
+3. **Workplace job-specific verbal reasoning assessment** - precise comprehension of dense written material such as architectural principles, strategy papers, commercial frameworks, and cross-government policy text.
 4. **Workplace job-specific situational judgement assessment** - realistic dilemmas involving senior stakeholders, architecture communities, supplier decisions and strategic trade-offs, judged against UK public sector values.
 
 Each guide explains what the assessment measures, maps it explicitly to the skills in your role profile, and then gives you a substantial set of practice questions with full worked explanations. Each guide closes with preparation tips and common pitfalls tailored to your level.
@@ -313,9 +313,9 @@ D) 6
 
 ### About this assessment
 
-A workplace job-specific numeric reasoning assessment evaluates how well you analyse, interpret and make sound decisions using numerical data drawn from your actual working context. It is business mathematics, not abstract mathematics: percentages, ratios, weighted comparisons, cost projections and capacity figures, presented in the tables, dashboards and financial summaries a principal enterprise architect genuinely encounters. Most assessments allow or provide an on-screen calculator, because the skill being measured is interpretation and decision quality, not mental arithmetic.
+A workplace job-specific numeric reasoning assessment evaluates how well you analyse, interpret and make sound decisions using numerical data drawn from your actual working context. It is business mathematics, not abstract mathematics: percentages, ratios, weighted comparisons, cost projections and capacity figures, presented in the tables, dashboards, and financial summaries a principal enterprise architect genuinely encounters. Most assessments allow or provide an on-screen calculator, because the skill being measured is interpretation and decision quality, not mental arithmetic.
 
-Expect a strict time limit - commonly 20 to 30 minutes for 15 to 20 questions - and inputs such as portfolio budget tables, supplier pricing schedules, cloud consumption reports, benefits-realisation dashboards and Digital Twin data-quality metrics. Questions typically require two or three extraction-and-calculation steps: find the right figures, combine them correctly, and compare the result against options or a threshold.
+Expect a strict time limit - commonly 20 to 30 minutes for 15 to 20 questions - and inputs such as portfolio budget tables, supplier pricing schedules, cloud consumption reports, benefits-realisation dashboards, and Digital Twin data-quality metrics. Questions typically require two or three extraction-and-calculation steps: find the right figures, combine them correctly, and compare the result against options or a threshold.
 
 For your role, numeric fluency is not optional polish; it is how architectural argument becomes executive decision. When you recommend reuse over build, the recommendation stands or falls on a defensible cost comparison. When you guide the organisation towards sustainability and scalability, you quantify consumption trajectories. When you advise on supplier selection, you evaluate weighted commercial scores. When you present the case for retiring legacy estate to a spending review, the numbers must survive scrutiny by finance directors. An assessment of this kind samples exactly that capability: can you move from a dense table to a correct, decision-ready figure, quickly and without being misled?
 
@@ -447,7 +447,7 @@ D) 79%
 
 **Question 9 (hard) - Ratio reasoning on architecture community growth**
 
-Your architecture community has 45 members: enterprise, solution and technical architects in the ratio 2:4:9. The strategy requires the enterprise-to-solution ratio to reach 1:1.5 within two years while the technical architect headcount stays fixed. If solution architect numbers stay fixed too, how many additional enterprise architects must you develop or recruit?
+Your architecture community has 45 members: enterprise, solution, and technical architects in the ratio 2:4:9. The strategy requires the enterprise-to-solution ratio to reach 1:1.5 within two years while the technical architect headcount stays fixed. If solution architect numbers stay fixed too, how many additional enterprise architects must you develop or recruit?
 
 A) 2
 B) 4
@@ -958,11 +958,11 @@ D) Praise both departments equally to avoid any risk.
 - **Selecting passive or deferring options.** Waiting for the consultancy report, passing the decision to the executive, agreeing to stay silent for three weeks - options that delay, defer or delegate the core judgement consistently score poorly for a role defined by leading at the highest level.
 - **Covert workarounds.** Shadow strategies, quiet dashboard edits, informal approvals and private slow-walking instructions appear in these assessments because they are common in real organisations - and they are reliably the least effective option against public sector values of transparency and accountability.
 - **Ignoring the development dimension.** Scenarios involving your community or your architects almost always contain a coaching opportunity; options that discard people or skip the feedback conversation miss behaviours your role profile names explicitly.
-- **Forgetting whose values are being scored.** UK public sector scoring rewards user needs, value for money, transparency, collaboration, accessibility and inclusion. If two options both seem effective, prefer the one a citizen watching the decision would trust more.
+- **Forgetting whose values are being scored.** UK public sector scoring rewards user needs, value for money, transparency, collaboration, accessibility, and inclusion. If two options both seem effective, prefer the one a citizen watching the decision would trust more.
 
 ## Conclusion
 
-Well done for working through this resource. You have covered the four assessment types most relevant to your role: cognitive reasoning with the roadmaps, decision logs, dependency chains and Digital Twin data you genuinely own; numeric reasoning across supplier evaluations, legacy cost curves, benefits realisation and sustainability trade-offs; verbal reasoning against the principles documents, strategy papers, commercial guidance and senior correspondence whose exact wording is your working material; and situational judgement in the political, human and strategic dilemmas that define leadership at principal level.
+Well done for working through this resource. You have covered the four assessment types most relevant to your role: cognitive reasoning with the roadmaps, decision logs, dependency chains and Digital Twin data you genuinely own; numeric reasoning across supplier evaluations, legacy cost curves, benefits realisation, and sustainability trade-offs; verbal reasoning against the principles documents, strategy papers, commercial guidance and senior correspondence whose exact wording is your working material; and situational judgement in the political, human and strategic dilemmas that define leadership at principal level.
 
 If one theme runs through all four, it is this: the disciplines these assessments measure are the same disciplines that make you effective in post. Checking freshness against cadence, refusing to upgrade "expected to" into "will", computing before committing, verifying before challenging, engaging before escalating - these are simultaneously test techniques and professional habits. Time spent practising them is never wasted, whatever the assessment outcome.
 

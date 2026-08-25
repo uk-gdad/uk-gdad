@@ -720,7 +720,7 @@ D) Provide weekly figures immediately and investigate the 'Unknown' region
 
 **Passage 3 - Extract from the team's Data Transformation Standards**
 
-"Transformation code must be version-controlled, and every change must be linked to a work ticket. Changes to shared models require peer review; changes to a developer's private sandbox do not. Each transformation must include automated tests covering, at minimum, row counts and key uniqueness. Where a transformation applies business rules supplied by a subject matter expert, the rules must be documented in plain English alongside the code, and the documentation must state the expert's name and the date the rule was confirmed. Deviations from this standard are permitted only with the written agreement of the lead analytics engineer, and each deviation must be recorded in the deviations log."
+"Transformation code must be version-controlled, and every change must be linked to a work ticket. Changes to shared models require peer review; changes to a developer's private sandbox do not. Each transformation must include automated tests covering, at minimum, row counts, and key uniqueness. Where a transformation applies business rules supplied by a subject matter expert, the rules must be documented in plain English alongside the code, and the documentation must state the expert's name and the date the rule was confirmed. Deviations from this standard are permitted only with the written agreement of the lead analytics engineer, and each deviation must be recorded in the deviations log."
 
 **Question 9 (easy):** True, False, or Cannot Say: Changes to a developer's private sandbox require peer review.
 

@@ -442,7 +442,7 @@ You are building the case for a process optimisation that will save each of the 
 ### Common pitfalls to avoid
 
 - **Averaging averages without weighting.** At portfolio level nearly every aggregate you touch — lead time, availability, failure rate, cost — must be weighted by volume. The unweighted mean is the single most common lead-level error in tests and in reports to senior stakeholders.
-- **Confusing percentage points with relative change.** A drop from 5% to 3.5% is 1.5 points and 30% relative. Recognition schemes, SLA penalties and assessment questions all turn on the difference.
+- **Confusing percentage points with relative change.** A drop from 5% to 3.5% is 1.5 points and 30% relative. Recognition schemes, SLA penalties, and assessment questions all turn on the difference.
 - **Adding successive percentages.** Two months of 15% growth is 32.25%, not 30%. Compound everything that compounds — especially growth you present to finance.
 - **Reversing percentages by subtraction.** To undo a 12% increase, divide by 1.12; never multiply by 0.88. The asymmetry catches budget baselines constantly.
 - **Reporting run-rate when the question asks required rate.** "What have we achieved per sprint?" and "what must we now achieve per sprint?" are different divisions with different numerators and denominators — and the gap between them is usually the actual finding.
@@ -636,8 +636,8 @@ You are announcing a deprecation to all consuming teams. Which formulation serve
 
 ### Preparation tips
 
-- **Drill the three-way verdict with leadership texts.** Practise on strategy papers, supplier terms and governance minutes: for each paragraph write one True, one False and one Cannot-say statement and test yourself a day later. The exercise doubles as excellent material for the knowledge-sharing sessions you lead.
-- **Underline scope, bounds and conjunctions.** "New services", "first ten", "control plane", "and in any case", "at least 72 hours and not exceeding four hours" — lead-level passages turn on scoping clauses, bounded offers and multi-limb conditions more than on rare words.
+- **Drill the three-way verdict with leadership texts.** Practise on strategy papers, supplier terms, and governance minutes: for each paragraph write one True, one False and one Cannot-say statement and test yourself a day later. The exercise doubles as excellent material for the knowledge-sharing sessions you lead.
+- **Underline scope, bounds and conjunctions.** "New services", "first ten", "control plane", "and in any case", "at least 72 hours and not exceeding four hours" — lead-level passages turn on scoping clauses, bounded offers, and multi-limb conditions more than on rare words.
 - **Extract formulas from prose before computing.** Contracts and SLAs embed arithmetic in sentences. Write the formula in symbols first, then substitute — the same habit that keeps your service-credit claims and capacity clauses correct at work.
 - **Check every limb of compound conditions.** When a rule has two conditions joined by "and", verify both; when joined by "or", one suffices. Half of the hardest T/F/CS items are single-limb readings of two-limb rules.
 - **Answer from the passage; file your expertise for later.** Your knowledge of how migrations or SLAs usually work is the chief source of Cannot-say errors. If the passage does not say it, you cannot say it.

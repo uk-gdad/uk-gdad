@@ -24,7 +24,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals): Hardware, networking, operating systems and troubleshooting, useful if you are coming into infrastructure without a technical background.
 
-- [Intro to Managing Resources Using Infrastructure-as-Code](https://www.coursera.org/learn/codio-introduction-to-managing-resources-using-infrastructure-as-code-techniques): A beginner-level foundation in managing cloud resources with Ansible, Docker, Kubernetes and Terraform.
+- [Intro to Managing Resources Using Infrastructure-as-Code](https://www.coursera.org/learn/codio-introduction-to-managing-resources-using-infrastructure-as-code-techniques): A beginner-level foundation in managing cloud resources with Ansible, Docker, Kubernetes, and Terraform.
 
 ## Udemy courses
 
@@ -40,7 +40,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Courses for Infrastructure and Architecture](https://www.skillsoft.com/channel/infrastructure-architecture-2c012960-dc1f-11e7-9fe8-1b7f5fcc733d): A channel gathering the infrastructure and architecture material, useful for filling specific gaps.
 
-- [CompTIA Security+: Architecture and Infrastructure Concepts](https://www.skillsoft.com/course/comptia-security-architecture-infrastructure-concepts-d0eaa404-cd35-4ebf-a136-757b9966024a): High availability, resilience, the cloud responsibility matrix, infrastructure as code, containers and network infrastructure design.
+- [CompTIA Security+: Architecture and Infrastructure Concepts](https://www.skillsoft.com/course/comptia-security-architecture-infrastructure-concepts-d0eaa404-cd35-4ebf-a136-757b9966024a): High availability, resilience, the cloud responsibility matrix, infrastructure as code, containers, and network infrastructure design.
 
 ## edX courses
 
@@ -48,11 +48,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Introduction to Kubernetes (LinuxFoundationX)](https://www.edx.org/course/introduction-to-kubernetes): Kubernetes concepts, architecture and the deployment model, with practical exercises.
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, CI/CD and observability.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, CI/CD, and observability.
 
 ## MIT OpenCourseWare courses
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Controlling complexity, client-server design, operating systems, performance, networks, naming, security and fault tolerance. The best single grounding for infrastructure work.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Controlling complexity, client-server design, operating systems, performance, networks, naming, security, and fault tolerance. The best single grounding for infrastructure work.
 
 - [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Hardware, operating systems, relational databases, security and enterprise applications, for people with little background.
 
@@ -92,7 +92,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Artificial Intelligence for IT Operations (AIOps) Workshop White Paper](https://arxiv.org/pdf/2101.06054): The AIOps landscape from resource management to failure prediction.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces and logs, which is what troubleshooting looks like at scale.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, and logs, which is what troubleshooting looks like at scale.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): 14 challenges and 17 enablers in root cause analysis, including expertise and data quality.
 
@@ -126,7 +126,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The standing reference for enterprise infrastructure practice. Buy this first.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The standing reference for enterprise infrastructure practice. Buy this first.
 
 - [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): The companion volume for distributed and cloud services.
 
@@ -134,15 +134,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Terraform: Up and Running: Writing Infrastructure as Code](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747): By Yevgeniy Brikman. The standard hands-on treatment of Terraform.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. How to see what infrastructure is actually doing.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. How to see what infrastructure is actually doing.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity failure patterns, learned from real production.
 
-- [Site Reliability Engineering Tidbits: Learn SRE Principles and Techniques](https://www.amazon.com/Site-Reliability-Engineering-Tidbits-Observability-ebook/dp/B09QZHZYPC): By Daniel Mican. Short pieces on monitoring, SLOs, resilience and debugging.
+- [Site Reliability Engineering Tidbits: Learn SRE Principles and Techniques](https://www.amazon.com/Site-Reliability-Engineering-Tidbits-Observability-ebook/dp/B09QZHZYPC): By Daniel Mican. Short pieces on monitoring, SLOs, resilience, and debugging.
 
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321): By Martin Kleppmann. The fundamentals of distributed systems, which infrastructure engineers need earlier than they expect.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Readable context for why infrastructure work is organised the way it is.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Readable context for why infrastructure work is organised the way it is.
 
 - [ITIL 4 Essentials: Your Essential Guide for the ITIL 4 Foundation Exam and Beyond](https://www.skillsoft.com/book/itil-4-essentials-your-essential-guide-for-the-itil-4-foundation-exam-and-beyond-50df3a93-d824-4772-984c-aa36765202b1): Available in the Skillsoft library. The service management context around your engineering work.
 

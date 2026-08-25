@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [CTO Course: Chief Technology Officer and Tech Leadership](https://www.udemy.com/course/cto-chief-technology-officer-en/): A six-session course building a holistic view of the CTO role, covering strategy, architecture and team leadership.
+- [CTO Course: Chief Technology Officer and Tech Leadership](https://www.udemy.com/course/cto-chief-technology-officer-en/): A six-session course building a holistic view of the CTO role, covering strategy, architecture, and team leadership.
 
 - [Certified Chief Technology Officer Mastery Program](https://www.udemy.com/course/chief-technology-officercto-mastery-program/): An extended executive-level curriculum for current and aspiring chief technology officers.
 
@@ -72,7 +72,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Technology in government: Open Source](https://technology.blog.gov.uk/category/open-source/): Posts on open source practice in UK government, including transparency commitments and their practical implications.
 
-- [The Role of CIOs in Modern Business](https://www.skillsoft.com/blog/the-role-of-cios-in-modern-business-and-why-you-should-never-stop-learning): Discusses how the role sits at the crossroads of business strategy and technological innovation, balancing organisational, workforce and technology demands.
+- [The Role of CIOs in Modern Business](https://www.skillsoft.com/blog/the-role-of-cios-in-modern-business-and-why-you-should-never-stop-learning): Discusses how the role sits at the crossroads of business strategy and technological innovation, balancing organisational, workforce, and technology demands.
 
 - [Building a better future: the enterprise architect's role in leading organizational transformation](https://www.cio.com/article/3600078/building-a-better-future-the-enterprise-architects-role-in-leading-organizational-transformation.html): Examines the shift from documenting an organisation to leading change within it.
 
@@ -126,15 +126,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Driving Digital: The Leader's Guide to Business Transformation Through Technology](https://www.amazon.com/Driving-Digital-Business-Transformation-Technology-ebook/dp/B01N10Y94E): By Isaac Sacolick. Written for chief information, technology, data and digital officers, covering transforming IT into agile operations, developing digital products, enabling data-driven organisations and establishing platforms for emerging technology.
+- [Driving Digital: The Leader's Guide to Business Transformation Through Technology](https://www.amazon.com/Driving-Digital-Business-Transformation-Technology-ebook/dp/B01N10Y94E): By Isaac Sacolick. Written for chief information, technology, data and digital officers, covering transforming IT into agile operations, developing digital products, enabling data-driven organisations, and establishing platforms for emerging technology.
 
 - [Leading in the Digital Age: Disruption, Transformation, Data, Cybersecurity, Artificial Intelligence](https://www.amazon.com/Leading-Digital-Age-Transformation-Cybersecurity-ebook/dp/B07JJJVBJP): By Thomas Cowan. Aimed at C-suite leaders dealing with emerging technologies and the risks that come with them.
 
-- [CIOs and the Digital Transformation: A New Leadership Role](https://www.amazon.com/CIOs-Digital-Transformation-Leadership-Role/dp/3319310259): By Bongiorno, Rizzo and Vaia. An academic but practical treatment of how the information leadership role changes under digital transformation.
+- [CIOs and the Digital Transformation: A New Leadership Role](https://www.amazon.com/CIOs-Digital-Transformation-Leadership-Role/dp/3319310259): By Bongiorno, Rizzo, and Vaia. An academic but practical treatment of how the information leadership role changes under digital transformation.
 
 - [The Chief Data Officer's Playbook](https://www.amazon.com/Chief-Data-Officers-Playbook/dp/1783302577): By Caroline Carruthers and Peter Jackson. A practical guide to establishing and running a data leadership function, widely used in UK public sector.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Introduces the operating model concept that determines how much integration and standardisation an organisation should pursue.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Introduces the operating model concept that determines how much integration and standardisation an organisation should pursue.
 
 - [Transformed: Moving to the Product Operating Model](https://www.amazon.com/Transformed-Moving-Product-Operating-Silicon-ebook/dp/B0CXG97J55): By Marty Cagan and colleagues. Describes the organisational shift to a product operating model and the leadership behaviours it demands.
 

@@ -88,13 +88,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Measuring IT Service Management Capability: Scale Development and Empirical Validation](https://www.researchgate.net/publication/299616426_Measuring_IT_Service_Management_Capability_Scale_Development_and_Empirical_Validation): A validated capability measure, better than a maturity assertion when reporting upwards.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices across 47 studies.
 
 - [Strategic IT alignment: twenty-five years on](https://link.springer.com/article/10.1057/jit.2014.35): What alignment research has and has not established, worth reading before adopting a framework.
 
 - [IT-Business Alignment: A Systematic Literature Review](https://www.researchgate.net/publication/349523359_IT-Business_Alignment_A_Systematic_Literature_Review): A synthesis of the alignment literature and its measurement problems.
 
-- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for supplier relationship management.
+- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure, and process for supplier relationship management.
 
 - [Continual Process Improvement for ITIL Service Operations: A Lean Perspective](https://www.tandfonline.com/doi/full/10.1080/10580530.2019.1587576): A five-step improvement framework that can run across a function.
 
@@ -122,7 +122,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [How to Structure Your Platform Team (Team Topologies)](https://www.youtube.com/watch?v=nFTRSFHpmKs): Structuring capability deliberately, which is a resourcing decision.
 
-- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state and change strategy, which is the structure a vision needs to become a plan.
+- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state, and change strategy, which is the structure a vision needs to become a plan.
 
 ## Books on Amazon
 
@@ -130,7 +130,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ITIL Continual Service Improvement](https://www.amazon.com/Continual-Service-Improvement-Book-Itil/dp/0113310498): By Spalding and Case. The core improvement text, which is the substance of process maturity.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence linking practice to outcomes, which is the strongest available argument for a strategy.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence linking practice to outcomes, which is the strongest available argument for a strategy.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team structure and cognitive load, which determines whether your strategy survives delivery.
 
@@ -140,7 +140,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny and colleagues. The conversations that decide whether escalations resolve or repeat.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Service level objectives and error budget policy, which modernise service management.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Service level objectives and error budget policy, which modernise service management.
 
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook/dp/B07K3QBWG1): By Melissa Perri. Building outcome-focused culture, which is what a service management vision should be.
 

@@ -511,7 +511,7 @@ year doing nothing?
 ## Legal compliance
 
 Your services carry data between organisations, which brings data sharing
-agreements, security and contractual duties alongside the engineering ones. These
+agreements, security, and contractual duties alongside the engineering ones. These
 questions ask about awareness, training and support, not about whether you can state
 the law correctly.
 

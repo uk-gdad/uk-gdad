@@ -14,7 +14,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — evidence auditing, competing hypotheses, systemic risk, strategic prioritisation, and the diagnosis of problems in designs and research done by other people.
 2. A numeric reasoning assessment — rates, weighted comparisons, funnel and cohort data, sampling adequacy, and the interrogation of quantitative claims embedded in business cases and board papers.
-3. A verbal reasoning assessment — dense standards, evaluation reports, technical specifications and stakeholder correspondence, with items pitched at real ambiguity.
+3. A verbal reasoning assessment — dense standards, evaluation reports, technical specifications, and stakeholder correspondence, with items pitched at real ambiguity.
 4. A situational judgement assessment — dilemmas involving ethics, assurance, mentoring, organisational politics, and the defence of design positions under pressure.
 
 Each section provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
@@ -33,7 +33,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At senior level the materials are messier and the reasoning less mechanical. You will meet evidence supporting two incompatible readings, designs with a flaw that compromises some conclusions but not others, prioritisation problems with no dominant option, and claims made by other people that need diagnosing rather than accepting or rejecting.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority, so your comparison set is other experienced practitioners. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both rewarding precision over pace.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority, so your comparison set is other experienced practitioners. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both rewarding precision over pace.
 
 Three things distinguish this section at your level.
 
@@ -249,7 +249,7 @@ A technology team has selected a third-party component library that does not mee
 
 A numeric reasoning assessment measures how accurately you handle quantitative material. At senior level the emphasis shifts decisively from calculating to interrogating. You will still need to compute correctly, but the harder items ask whether a figure means what somebody claims — which is, not coincidentally, the question you are frequently the only person in the room positioned to ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and disregarding what does not.
 
 The professional stake is substantial. Quantitative evidence carries unearned authority: a number in a board paper is treated as fact while a design argument is treated as a view, regardless of the rigour behind either. Your role names analysing complex evidence such as large data sets, and working with service managers and programme directors — people whose world is expressed in numbers. Senior designers who cannot interrogate a figure confidently lose arguments they should win, and occasionally win arguments they should lose.
 
@@ -317,7 +317,7 @@ What is the overall completion rate, and the gap between the highest and lowest 
 
 **Question 4 (easy) — Centre and spread**
 
-Eleven participants took these times in seconds: 12, 15, 18, 20, 22, 25, 28, 30, 35, 40 and 240. Which summary is most defensible?
+Eleven participants took these times in seconds: 12, 15, 18, 20, 22, 25, 28, 30, 35, 40, and 240. Which summary is most defensible?
 
 - A) Mean 44.1 seconds
 - B) Median 25 seconds, range 12 to 240, with the 240-second case described separately
@@ -326,7 +326,7 @@ Eleven participants took these times in seconds: 12, 15, 18, 20, 22, 25, 28, 30,
 
 **Correct answer: B**
 
-**Explanation:** The mean of about 44 exceeds ten of the eleven observations, so it represents almost nobody. The median is the sixth value, 25 seconds, which describes the group well. But the median alone conceals a session lasting six times the typical duration, almost certainly the most informative observation in the set. Option B gives centre, spread and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to enforce in the work you assure: a central figure never travels alone, and an outlier is a lead rather than noise — the person who took 240 seconds encountered something the other ten did not, and finding out what is the point.
+**Explanation:** The mean of about 44 exceeds ten of the eleven observations, so it represents almost nobody. The median is the sixth value, 25 seconds, which describes the group well. But the median alone conceals a session lasting six times the typical duration, almost certainly the most informative observation in the set. Option B gives centre, spread, and explicit treatment of the outlier. Option D pairs the range with a misleading centre. Option C buries the extreme case. The rule to enforce in the work you assure: a central figure never travels alone, and an outlier is a lead rather than noise — the person who took 240 seconds encountered something the other ten did not, and finding out what is the point.
 
 **Question 5 (moderate) — Weighted aggregation**
 
@@ -339,7 +339,7 @@ Four studies of the same component: 10 participants at 50% success; 20 at 65%; 1
 
 **Correct answer: B**
 
-**Explanation:** Convert each rate to counts. Study 1: 50% of 10 = 5. Study 2: 65% of 20 = 13. Study 3: 70% of 10 = 7. Study 4: 80% of 20 = 16. Total 5 + 13 + 7 + 16 = 41, across 60 participants, so 41 ÷ 60 = 0.683, about 68% and the answer is B. Option A is the unweighted mean of 50, 65, 70 and 80, which is 66.25 and over-weights the two smallest studies. Always return to counts. And ask the prior question, which matters more at your level: aggregating four studies of a component is meaningful only if the task and population were comparable. If one study tested the component in isolation and another within a full journey, the combined figure is arithmetically correct and referentially empty.
+**Explanation:** Convert each rate to counts. Study 1: 50% of 10 = 5. Study 2: 65% of 20 = 13. Study 3: 70% of 10 = 7. Study 4: 80% of 20 = 16. Total 5 + 13 + 7 + 16 = 41, across 60 participants, so 41 ÷ 60 = 0.683, about 68% and the answer is B. Option A is the unweighted mean of 50, 65, 70, and 80, which is 66.25 and over-weights the two smallest studies. Always return to counts. And ask the prior question, which matters more at your level: aggregating four studies of a component is meaningful only if the task and population were comparable. If one study tested the component in isolation and another within a full journey, the combined figure is arithmetically correct and referentially empty.
 
 **Question 6 (moderate) — Funnel denominators**
 
@@ -460,7 +460,7 @@ Time on a form page fell from 15 to 10 minutes after a redesign. Over the same p
 
 A verbal reasoning assessment measures how accurately you read. In a senior role that runs on documents — standards, accessibility regulations, component specifications, technical constraints, policy submissions, contracts — reading accuracy is the substrate everything else rests on. A misread criterion becomes a compliance failure across a programme; a misread finding in a colleague's report becomes advice given confidently to a programme director.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and here is the part specific to your level: expertise actively costs you marks. The more accessibility criteria and component specifications you have read, the more readily you supply the clause you expect to be there and feel confident doing it. Senior candidates underperform on verbal reasoning at rates that surprise them, and this is nearly always the mechanism. The counter-habit must be mechanical: before marking anything True, put your finger on the words.
 
@@ -487,53 +487,53 @@ The verbal skills tested map onto your named skills:
 
 "All new public-facing services must use components from the Design System where a suitable component exists, unless an exemption has been agreed in writing by the head of interaction design. Where no suitable component exists, teams may create a new one, provided it is documented and tested with assistive technology before use in a live service. Components created before this policy took effect must be reviewed within 12 months. Teams are encouraged, but not required, to contribute new components back to the Design System."
 
-**Question 1 (easy)** — Statement: "Every new public-facing service must use Design System components where a suitable one exists." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Every new public-facing service must use Design System components where a suitable one exists." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches an exception: a written exemption agreed by the head of interaction design. The statement's "every" contradicts that, so False. The pattern — absolute term in the statement, exception in the passage — is the most reliable in the section. Note that this passage carries two distinct mechanisms that are easy to conflate: an exemption, which removes the requirement, and the create-a-new-component route, which handles the case where no suitable component exists while the general obligation remains. They look similar and do different things, and Question 4 turns on the distinction.
 
-**Question 2 (easy)** — Statement: "Teams must contribute new components back to the Design System." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Teams must contribute new components back to the Design System." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says teams are *encouraged, but not required*, to contribute back. The statement's "must" contradicts that explicitly, so False. Note that this soft aspiration sits directly alongside hard requirements — documentation, assistive technology testing, review within 12 months — which is why reading for general tone produces errors in both directions. In practice this is the sentence people quote at each other most often, usually to establish an obligation the passage explicitly declines to create.
 
-**Question 3 (moderate)** — Statement: "A component created three years ago must have been reviewed by now." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A component created three years ago must have been reviewed by now." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** Components created before the policy took effect must be reviewed within 12 months, but the passage never says when the policy took effect. If it took effect three years ago a review would be overdue; if six months ago it would not. Because the fact you would need is absent, Cannot Say. Whenever a passage sets a deadline relative to a commencement, check whether the commencement date is given; its absence is deliberate and recurs throughout this section.
 
-**Question 4 (harder)** — Statement: "A team that creates a new component because no suitable Design System component exists needs a written exemption." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A team that creates a new component because no suitable Design System component exists needs a written exemption." True, False, or Cannot Say?
 
 **Correct answer: False**
 
-**Explanation:** Read the two mechanisms separately. The exemption applies to the requirement to use Design System components *where a suitable component exists*. Where none exists, that requirement is not engaged at all, and the passage provides a distinct route — create a new one, subject to documentation and testing. So no exemption is needed, and the statement is contradicted, making it False rather than Cannot Say. This is a genuinely important distinction beyond the test: teams frequently seek exemptions they do not need, which wastes their time and yours and creates a queue that makes the exemption process look like an obstacle. Reading the two routes apart is what lets you tell a team, accurately, that they can proceed.
+**Explanation:** Read the two mechanisms separately. The exemption applies to the requirement to use Design System components *where a suitable component exists*. Where none exists, that requirement is not engaged at all, and the passage provides a distinct route — create a new one, subject to documentation, and testing. So no exemption is needed, and the statement is contradicted, making it False rather than Cannot Say. This is a genuinely important distinction beyond the test: teams frequently seek exemptions they do not need, which wastes their time and yours and creates a queue that makes the exemption process look like an obstacle. Reading the two routes apart is what lets you tell a team, accurately, that they can proceed.
 
 *Passage B — for Questions 5 to 8*
 
 "The evaluation of the new autocomplete component found that users completed address entry more quickly than with the previous free-text field, and made fewer formatting errors. The evaluation notes that participants were recruited through the departmental panel and all used a mouse. It did not assess performance with assistive technology or on touch devices. It recommends that the programme consider whether the component should be adopted more widely."
 
-**Question 5 (easy)** — Statement: "Participants made fewer formatting errors with the autocomplete than with the free-text field." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Participants made fewer formatting errors with the autocomplete than with the free-text field." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Answer quickly and bank the time. The only care needed is to notice the comparison is against the previous free-text field specifically, not against some general standard — a statement claiming the component "produces few formatting errors" would be a different and unsupported claim.
 
-**Question 6 (moderate)** — Statement: "The autocomplete component performs well with assistive technology." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "The autocomplete component performs well with assistive technology." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that the evaluation did not assess performance with assistive technology. Declared silence establishes nothing in either direction, so Cannot Say. This item is more consequential than it looks. Autocomplete components are among the most common sources of assistive technology failure, because announcing a dynamically filtered list of suggestions correctly is genuinely difficult and frequently done wrong. So the professional temptation runs towards False — you may well suspect it performs badly. The passage supports neither, and marking False would be substituting expertise for evidence in exactly the way this section penalises. In the workplace the right response is to commission the missing test, not to assume its result.
 
-**Question 7 (moderate)** — Statement: "The component is suitable for wider adoption." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The component is suitable for wider adoption." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports favourable findings under specific conditions, flags two untested modes, and recommends only that the programme *consider whether* wider adoption is appropriate. Nothing establishes suitability, and the untested modes are precisely those that would matter for wide adoption. Cannot Say. Note the compounding: a component evaluated only with mouse users from a departmental panel, and never with assistive technology or touch, has been tested in the single most favourable condition available. That is not a reason to conclude it is bad; it is a reason to conclude the evaluation does not answer the adoption question.
 
-**Question 8 (harder)** — Statement: "The evaluation recommends adopting the component more widely." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The evaluation recommends adopting the component more widely." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -543,19 +543,19 @@ The verbal skills tested map onto your named skills:
 
 "Interactive components must be operable using a keyboard alone. Where a component uses a non-standard interaction, the team must provide a documented keyboard alternative. Focus must be visible at all times and must move in an order consistent with the visual presentation. Where a component displays an error, the error must be programmatically associated with the field it relates to; a visual association alone is not sufficient. These requirements apply to public-facing services and to internal tools used by more than fifty staff."
 
-**Question 9 (easy)** — Statement: "A visual association between an error and its field is sufficient." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "A visual association between an error and its field is sufficient." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage states that a visual association alone is not sufficient and that the error must be programmatically associated. The statement contradicts this directly, so False. The word doing the work is "programmatically", and skimming past it produces exactly the failure the requirement exists to prevent — a message beside a field is obvious to a sighted user and may be entirely absent for someone whose screen reader encounters fields and messages in markup order rather than visual order.
 
-**Question 10 (moderate)** — Statement: "These requirements apply to an internal tool used by fifteen staff." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "These requirements apply to an internal tool used by fifteen staff." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The final sentence extends the requirements to internal tools used by more than fifty staff. A tool used by fifteen does not meet that threshold, so the extension does not apply — but the passage does not say the requirements are *excluded* for smaller tools, only where they do apply. Silence about the fifteen-user case leaves it undetermined, so Cannot Say rather than False. This is a fine and common distinction in scoping clauses: stating where a rule applies is not the same as stating where it does not, and a reader who converts the first into the second will confidently tell a team they are exempt when nobody has said so. It is also worth noting that the legal position for internal tools may be governed by something outside this passage entirely.
 
-**Question 11 (harder)** — Statement: "A component whose focus order differs from its visual presentation breaches the requirements." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "A component whose focus order differs from its visual presentation breaches the requirements." True, False, or Cannot Say?
 
 **Correct answer: True**
 

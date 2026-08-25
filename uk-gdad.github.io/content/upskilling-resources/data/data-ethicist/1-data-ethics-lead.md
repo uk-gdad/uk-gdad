@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of data eth
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you lead ethical assessment of data and algorithmic work, advising teams, applying frameworks and standards, and building ethical practice into delivery. The resources below emphasise ethics frameworks, fairness, transparency and government requirements.
+At this role level you lead ethical assessment of data and algorithmic work, advising teams, applying frameworks and standards, and building ethical practice into delivery. The resources below emphasise ethics frameworks, fairness, transparency, and government requirements.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -30,7 +30,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [AI Ethics and Responsible AI: Fairness, Bias, and Governance](https://www.udemy.com/course/ethicsai/): Covers the core concepts of fairness, bias, transparency and accountability and how they are operationalised in governance.
 
-- [Certified AI Ethics and Governance Professional](https://www.udemy.com/course/certified-ai-ethics-governance-professional-a/): Covers responsible AI development in depth, including bias, fairness, transparency, accountability and privacy, with practical application.
+- [Certified AI Ethics and Governance Professional](https://www.udemy.com/course/certified-ai-ethics-governance-professional-a/): Covers responsible AI development in depth, including bias, fairness, transparency, accountability, and privacy, with practical application.
 
 - [Responsible AI Masterclass: Ethics, Fairness and Governance](https://www.udemy.com/course/responsible-ai-masterclass-ethics-bias-governance/): Covers the foundational pillars of responsible AI, recognising types of bias, and designing governance frameworks for organisational accountability and legal compliance.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.097 Prediction: Machine Learning and Statistics](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/): Starts with machine learning algorithms, then covers the statistical learning theory that provides their mathematical foundation, before moving into Bayesian analysis.
 
-- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis and nonparametric statistics.
+- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis, and nonparametric statistics.
 
 - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/): Reviews linear algebra with applications to probability, statistics and optimisation, including a full explanation of deep learning.
 
@@ -94,7 +94,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Reducing the incidence of biased algorithmic decisions through feature importance transparency: an empirical study](https://www.tandfonline.com/doi/full/10.1080/0960085X.2024.2395531): Tests whether transparency actually reduces users' adoption of discriminatory recommendations, rather than assuming it does.
 
-- [Algorithmic fairness in computational medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9463525/): Reviews types of algorithmic bias, fairness quantification metrics and mitigation methods in a high-stakes public service context.
+- [Algorithmic fairness in computational medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9463525/): Reviews types of algorithmic bias, fairness quantification metrics, and mitigation methods in a high-stakes public service context.
 
 - [Ethical and Bias Considerations in Artificial Intelligence and Machine Learning](https://www.sciencedirect.com/science/article/pii/S0893395224002667): A practical review of the ethical and bias questions that arise across the machine learning lifecycle.
 
@@ -108,7 +108,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Ethics of AI Bias, full lecture](https://www.youtube.com/watch?v=NgaW_p7gsRc): An MIT course session on the ethics of AI bias, taking the philosophical questions seriously rather than treating them as compliance.
 
-- [Ethics and AI: Equal Access and Algorithmic Bias](https://www.youtube.com/watch?v=tJQSyzBUAew): Discusses developing technology with a focus on ethics, access and fairness rather than capability alone.
+- [Ethics and AI: Equal Access and Algorithmic Bias](https://www.youtube.com/watch?v=tJQSyzBUAew): Discusses developing technology with a focus on ethics, access, and fairness rather than capability alone.
 
 - [Algorithmic Bias and Fairness: Crash Course AI](https://www.youtube.com/watch?v=gV0_raKR2UQ): A clear, accessible introduction suitable for explaining the issues to non-specialist colleagues.
 

@@ -110,7 +110,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Value Stream: Architecting Customer-Driven Value](https://www.youtube.com/watch?v=FVfnujP_NGE): Examines how value propositions, value streams and value stages improve planning, delivery and execution of customer-driven digital transformation.
 
-- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar on identifying, defining, modelling and mapping value streams to the standard.
+- [TOGAF Business Architecture: Value Stream Guide](https://www.youtube.com/watch?v=W3yHCffXDM0): An Open Group webinar on identifying, defining, modelling, and mapping value streams to the standard.
 
 - [Value Mapping: Critical Business Architecture Viewpoint](https://www.youtube.com/watch?v=YDrxftoXqY4): Compares kinds of value model and their benefits, useful when standardising viewpoints across a team.
 
@@ -138,7 +138,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Transformed: Moving to the Product Operating Model](https://www.amazon.com/Transformed-Moving-Product-Operating-Silicon-ebook/dp/B0CXG97J55): Cagan and colleagues on the organisational shift to a product operating model, including the leadership behaviours it requires.
 
-- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): A practitioner guide to directing strategically aligned, customer centric and outcome focused change.
+- [Business Architecture: A Comprehensive Guide](https://us.amazon.com/Business-Architecture-comprehensive-Jonathan-Hunsley-ebook/dp/B0D2V1F5N5): A practitioner guide to directing strategically aligned, customer centric, and outcome focused change.
 
 - [Business Architecture: The Enabler of Business Strategy](https://us.amazon.com/dp/B0D8C7VWYQ): Samuel Holcman's Business Architecture Center of Excellence methodology.
 
@@ -153,5 +153,5 @@ We welcome constructive feedback to improve this page and these lists.
 - Build a community of practice that outlives any individual, including onboarding material and reusable patterns
 - Develop your executive communication so that a complex enterprise view fits on one page and one minute
 - Invest in succession by giving your strongest architects genuine accountability, not just harder tasks
-- Learn enough about funding, portfolio and commercial processes to make roadmaps actionable
+- Learn enough about funding, portfolio, and commercial processes to make roadmaps actionable
 - Keep a live view of where the organisation is strategically misaligned, and raise it before it becomes a delivery failure

@@ -1,7 +1,7 @@
 # Roles skills gap forms — specification
 
 Refines [`spec/index.md`](../../spec/index.md), which governs the taxonomy, the
-role index, slugs, style and licensing. This file covers only what is specific
+role index, slugs, style, and licensing. This file covers only what is specific
 to skills gap forms.
 
 All 205 documents are written, one per role level, mirroring the canonical role
@@ -491,14 +491,14 @@ These are not advisory. A form that breaks one of them is a defect.
   adjustment.
 - Trade union membership, political opinion, immigration status, criminal
   record, caring responsibilities or financial circumstances.
-- Anything about a named colleague's conduct, performance or capability.
+- Anything about a named colleague's conduct, performance, or capability.
 
 **Never ask the person** to confess to a breach, admit a compliance failure, or
 report wrongdoing. Those have their own routes, and a development form is not
 one of them.
 
 **Never use assessment language.** No score, mark, grade, pass, fail, rank,
-percentile, benchmark or comparison with colleagues. No total at the end of the
+percentile, benchmark, or comparison with colleagues. No total at the end of the
 rating lists.
 
 **Say what an unanswered question means:** nothing. A skipped question is not a
@@ -514,7 +514,7 @@ corridor, nothing above the classification the form will be handled at. A form
 that invites a detailed answer without that warning is asking someone to create
 a document their organisation cannot safely hold.
 
-**Name the law, do not interpret it.** Every statute, regulation or code named
+**Name the law, do not interpret it.** Every statute, regulation, or code named
 must be real and named accurately. If you are not certain a duty applies to this
 role, leave it out — the root specification's rule against invented facts covers
 legislation first of all.
@@ -574,7 +574,7 @@ and is not a target to pad towards.
    information — and differentiate the questions through the work the role
    actually does, not through the skill text. The analyst decides what the
    testing must prove; the engineer builds the machinery that proves it, so
-   their questions are about layers, pipelines, fixtures and refactoring.
+   their questions are about layers, pipelines, fixtures, and refactoring.
 4. Note where the framework's wording for a skill reads as more senior than the
    level — it happens, because the framework reuses skill blocks across levels.
    A junior frontend developer is told to "motivate and empower teams". Restate

@@ -28,7 +28,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Customer Service Training: Dealing with Difficult Customers](https://www.udemy.com/course/customer-service-difficult-customers/): A structured method for conflict management on a call, covering empathy, taking control and turning the interaction round.
+- [Customer Service Training: Dealing with Difficult Customers](https://www.udemy.com/course/customer-service-difficult-customers/): A structured method for conflict management on a call, covering empathy, taking control, and turning the interaction round.
 
 - [Customer Service Training: How to Handle Upset Customers](https://www.udemy.com/course/customer-success-upset-customers/): Apologising, owning mistakes and de-escalating, which is the intervention part of your role.
 
@@ -38,7 +38,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Dealing with Customer Service Incidents and Complaints](https://www.skillsoft.com/course/dealing-with-customer-service-incidents-and-complaints-56289d2c-fea5-11e6-8638-0242c0a80b06): Reducing conflict and handling abusive or irate customers. The closest match to intervening in difficult calls.
 
-- [Customer Service: Generating Effective Solutions](https://www.skillsoft.com/course/customer-service-generating-effective-solutions-892fb5bb-e588-48fa-8aff-4a87f4714141): Finding the root cause, aligning a right-fit solution and delivering resolution.
+- [Customer Service: Generating Effective Solutions](https://www.skillsoft.com/course/customer-service-generating-effective-solutions-892fb5bb-e588-48fa-8aff-4a87f4714141): Finding the root cause, aligning a right-fit solution, and delivering resolution.
 
 - [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity, change control, incident, asset, monitoring and problem management. Supports the Level 3 qualification.
 
@@ -130,7 +130,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny and colleagues. The most useful shared vocabulary for a team that handles difficult calls daily.
 
-- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton and Heen. What is actually happening in a call that keeps escalating.
+- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/014028852X): By Stone, Patton, and Heen. What is actually happening in a call that keeps escalating.
 
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2): By Voss and Raz. Tactical empathy and calibrated questions, which work well on a complaint call.
 
@@ -138,7 +138,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Root Cause Analysis: The Core of Problem Solving and Corrective Action](https://www.amazon.com/Root-Cause-Analysis-Problem-Corrective-ebook/dp/B0BQJQQZ8C): By Duke Okes. A disciplined method for the patterns you escalate.
 
-- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark and West. A compact diagnostic reference for supporting analysts live.
+- [IT Technical Support Troubleshooting Pocket Guide](https://www.amazon.com/Technical-Support-Troubleshooting-Pocket-Guide/dp/1305266536): By Andrews, Dark, and West. A compact diagnostic reference for supporting analysts live.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. The ITIL incident practice, supporting the Level 3 qualification.
 

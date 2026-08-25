@@ -485,7 +485,7 @@ people at this level have the authority for all of it. Rate what you actually do
 and be specific about the rest.
 
 **Different from senior**, which identifies and rectifies problems in team
-dynamics, uses health checks, chooses feedback types and accelerates team
+dynamics, uses health checks, chooses feedback types, and accelerates team
 development.
 
 **Rate yourself.**

@@ -268,7 +268,7 @@ A test completion report shows 168 of 175 executed test cases passed. What is th
 
 **Question 2 (easy) — Average defects per release**
 
-The last five releases introduced 6, 9, 4, 11 and 10 defects respectively. What is the mean number of defects per release?
+The last five releases introduced 6, 9, 4, 11, and 10 defects respectively. What is the mean number of defects per release?
 
 - A) 7
 - B) 8
@@ -326,7 +326,7 @@ Fourteen defects must be closed before go-live. Over the past four days the team
 
 **Question 6 (moderate) — Ratio of severities**
 
-The open defect log shows 6 critical, 18 major and 24 minor defects. What is the ratio of critical to major to minor, in simplest form?
+The open defect log shows 6 critical, 18 major, and 24 minor defects. What is the ratio of critical to major to minor, in simplest form?
 
 - A) 6:18:24
 - B) 1:3:4
@@ -765,7 +765,7 @@ Your readiness testing keeps failing because the staging environment drifts from
 
 **Correct answer: C**
 
-**Explanation:** This scenario tests whether you can convert recurring symptoms into a problem statement — your **Problem management** skill ("investigate problems in systems, processes and services... contribute to remedies and preventative measures") aimed at process rather than code. Option C carries all the ingredients of an effective escalation: evidence (four documented cycles), diagnosis (parity has no owner — a process gap, not a technical mystery), cost (your time, delayed readiness), and a proportionate proposal. Option A is diligence without learning; you will be fixing cycle nine while go-lives slip. Option B converts a legitimate grievance into a work stoppage that punishes projects for a process gap they did not create — escalation exists precisely so you do not have to choose between suffering and striking. Option D is the dangerous one: unauthorised testing in production trades a staging problem for potential live-service incidents and security violations. The rewarded shape, worth memorising: evidence, diagnosis, cost, proposal — routed to the level that can fix the system, not the symptom.
+**Explanation:** This scenario tests whether you can convert recurring symptoms into a problem statement — your **Problem management** skill ("investigate problems in systems, processes, and services... contribute to remedies and preventative measures") aimed at process rather than code. Option C carries all the ingredients of an effective escalation: evidence (four documented cycles), diagnosis (parity has no owner — a process gap, not a technical mystery), cost (your time, delayed readiness), and a proportionate proposal. Option A is diligence without learning; you will be fixing cycle nine while go-lives slip. Option B converts a legitimate grievance into a work stoppage that punishes projects for a process gap they did not create — escalation exists precisely so you do not have to choose between suffering and striking. Option D is the dangerous one: unauthorised testing in production trades a staging problem for potential live-service incidents and security violations. The rewarded shape, worth memorising: evidence, diagnosis, cost, proposal — routed to the level that can fix the system, not the symptom.
 
 **Question 8 (moderate) — Least effective: the awkward stand-up**
 

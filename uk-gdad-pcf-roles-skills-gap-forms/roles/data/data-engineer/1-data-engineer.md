@@ -541,7 +541,7 @@ previously exist. These questions ask about awareness, training and support, not
 about whether you can state the law correctly.
 
 **A note on what to write here.** Describe the work, not the contents. No records,
-no identifiers, no credentials or connection details.
+no identifiers, no credentials, or connection details.
 
 **Q36.** Which of these have you had training or a briefing on? Tick any that
 apply.

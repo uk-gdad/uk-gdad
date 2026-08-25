@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, requirements, architecture, trade-space exploration, integration, interface management, verification and commissioning.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, requirements, architecture, trade-space exploration, integration, interface management, verification, and commissioning.
 
 - [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Distributed systems techniques, at the depth needed to challenge an architectural claim.
 
@@ -108,7 +108,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Enhancing Platform Teams Workflow with Infrastructure as Code](https://www.youtube.com/watch?v=iRw-YvSGr8I): How tooling changes team workflow, which is a design decision not a purchase.
 
-- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Practitioner conference talks on Kubernetes, Terraform, IaC and GitOps.
+- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Practitioner conference talks on Kubernetes, Terraform, IaC, and GitOps.
 
 - [Insights on How Team Topologies Drive Organizational Success, Manuel Pais at GOTO 2024](https://www.youtube.com/watch?v=HKS5sKsIkkc): Organisational design for flow, which is the lever behind most delivery friction.
 
@@ -134,15 +134,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Interaction modes between teams, which is the vocabulary for working with architects and delivery.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. The evidence base for the practices you require of teams and suppliers.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. The evidence base for the practices you require of teams and suppliers.
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operating distributed services at scale, including operational readiness reviews.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operating distributed services at scale, including operational readiness reviews.
 
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG): By Larson and Reilly. Technical leadership without line management, which is often this role's shape.
 
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897): By Camille Fournier. The managerial path, if that is the direction you take.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Introducing these practices into an organisation with existing commitments.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Introducing these practices into an organisation with existing commitments.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Humble and Farley. The pipeline and governance model you can require across programmes.
 

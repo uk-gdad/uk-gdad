@@ -58,7 +58,7 @@ Which entry breaks the labelling pattern?
 
 **Correct answer: C**
 
-**Explanation:** The pattern puts the severity code first, then a hyphen, then the source system. Entries 1, 2 and 4 all follow it. Entry 3 reverses the order, putting the system name before the severity. This looks like a small thing, but it matters in real monitoring work: tools often sort, filter and route alerts based on the label format, so a reversed label can slip past a filter and be missed. When you track and log information as part of asset and configuration management, checking that entries follow the agreed format is one of the simplest and most valuable habits you can build. In the assessment, scan each option against the stated rule one at a time rather than trusting your first glance — the eye loves to "auto-correct" reversed text.
+**Explanation:** The pattern puts the severity code first, then a hyphen, then the source system. Entries 1, 2 and 4 all follow it. Entry 3 reverses the order, putting the system name before the severity. This looks like a small thing, but it matters in real monitoring work: tools often sort, filter, and route alerts based on the label format, so a reversed label can slip past a filter and be missed. When you track and log information as part of asset and configuration management, checking that entries follow the agreed format is one of the simplest and most valuable habits you can build. In the assessment, scan each option against the stated rule one at a time rather than trusting your first glance — the eye loves to "auto-correct" reversed text.
 
 **Question 2 (easy) — Logical deduction from a procedure**
 

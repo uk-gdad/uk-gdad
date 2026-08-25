@@ -2,7 +2,7 @@
 
 Learning and growth resources for every role level in the United Kingdom
 Government Digital and Data (GDAD) Profession Capability Framework (PCF):
-courses, blog posts, research articles, videos and books.
+courses, blog posts, research articles, videos, and books.
 
 **205 documents**, one per role level, each written from that level's
 [role summary](../uk-gdad-pcf-role-summaries).
@@ -35,7 +35,7 @@ Each item is one line:
 ```
 
 Original content only — a course, a post, a paper, a talk, a book. Not
-listicles, channels, magazines or marketing pages.
+listicles, channels, magazines, or marketing pages.
 
 Full contract: [spec/index.md](spec/index.md).
 

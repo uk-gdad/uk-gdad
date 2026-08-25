@@ -252,7 +252,7 @@ would it take?
 
 ### Skill: IT infrastructure
 
-**What this means.** Leading the function that designs, builds, runs and supports
+**What this means.** Leading the function that designs, builds, runs, and supports
 the kit — rather than doing it yourself.
 
 **What the framework expects at this level.** That you lead teams and departments
@@ -601,7 +601,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/network-architect/3-lead-network-architect.md)
-  — courses, articles, talks and books pitched at lead network architect.
+  — courses, articles, talks, and books pitched at lead network architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/network-architect/3-lead-network-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/network-architect/3-lead-network-architect.md)

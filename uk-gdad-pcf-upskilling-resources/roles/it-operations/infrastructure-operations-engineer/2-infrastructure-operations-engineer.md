@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of infrastr
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you prepare and support IT operations solutions and services, physical or virtual, against standards, service requirements and key performance indicators across the product life cycle. You create and maintain documentation, perform routine tasks to process and checklist, monitor infrastructure and application services, and take appropriate action. The resources below emphasise monitoring, documentation, scripting and routine work done reliably.
+At this role level you prepare and support IT operations solutions and services, physical or virtual, against standards, service requirements, and key performance indicators across the product life cycle. You create and maintain documentation, perform routine tasks to process and checklist, monitor infrastructure and application services, and take appropriate action. The resources below emphasise monitoring, documentation, scripting and routine work done reliably.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -20,15 +20,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Advanced Prometheus Alerting and Monitoring](https://www.coursera.org/learn/advanced-prometheus-alerting-and-monitoring): Building a monitoring stack with Prometheus and Grafana, including PromQL, exporters and Alertmanager rules.
+- [Advanced Prometheus Alerting and Monitoring](https://www.coursera.org/learn/advanced-prometheus-alerting-and-monitoring): Building a monitoring stack with Prometheus and Grafana, including PromQL, exporters, and Alertmanager rules.
 
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Python, Git and configuration management for automating administration. The fastest way out of doing routine tasks by hand.
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation): Python, Git, and configuration management for automating administration. The fastest way out of doing routine tasks by hand.
 
 - [Mastering Linux Administration](https://www.coursera.org/specializations/packt-mastering-linux-administration): Networking, shell scripting, security and disaster recovery, then virtualisation and containers.
 
 ## Udemy courses
 
-- [Prometheus: The Complete Hands-On for Monitoring and Alerting](https://www.udemy.com/course/prometheus-course/): Alerting rules, recording rules and query practice, which is what monitoring checks actually depend on.
+- [Prometheus: The Complete Hands-On for Monitoring and Alerting](https://www.udemy.com/course/prometheus-course/): Alerting rules, recording rules, and query practice, which is what monitoring checks actually depend on.
 
 - [The Ultimate DevOps Bootcamp](https://www.udemy.com/course/the-complete-devops-bootcamp/): Linux, networking, containers, Kubernetes and automation with Ansible and Terraform.
 
@@ -46,13 +46,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Introduction to Kubernetes and Cloud Native Technologies Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-kubernetes-and-cloud-native-technologies): Linux administration, IaaS, PaaS and CaaS, containers, software-defined networking and storage.
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, CI/CD and observability systems.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, CI/CD, and observability systems.
 
 - [Introduction to Cloud Infrastructure Technologies (LinuxFoundationX)](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies): The cloud landscape and how the pieces relate, useful when your estate spans several of them.
 
 ## MIT OpenCourseWare courses
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, naming, networks, performance and fault tolerance, which is what the failures you handle are made of.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, naming, networks, performance, and fault tolerance, which is what the failures you handle are made of.
 
 - [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Transactions, query optimisation and schema design, relevant to the routine database configuration work at this level.
 
@@ -90,7 +90,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Leveraging Infrastructure-as-Code Automation to Establish Standardized, Reliable, and Reproducible Cloud Infrastructure](https://zenodo.org/records/19452393): Configuration drift and traceability, which is what routine tasks by hand produce.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs, and multi-model data.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): The challenges and enablers of root cause analysis, including data quality.
 
@@ -126,11 +126,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The enterprise operations reference, especially good on documentation and standards.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The enterprise operations reference, especially good on documentation and standards.
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Distributed service operations with case studies from large operators.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Distributed service operations with case studies from large operators.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What good observability is and what it costs.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What good observability is and what it costs.
 
 - [Infrastructure as Code: Designing and Delivering Dynamic Systems for the Cloud Age](https://www.amazon.com/Infrastructure-Code-Designing-Delivering-Dynamic/dp/109815035X): By Kief Morris. Replacing routine manual tasks with reproducible code.
 
@@ -138,11 +138,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Failure patterns from real production, which speeds up recognition.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical SRE, including reducing the toil that routine tasks create.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical SRE, including reducing the toil that routine tasks create.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. The ITIL incident practice, supporting the Level 3 qualification.
 
-- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Designing, deploying, monitoring and sustaining systems at scale.
+- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Designing, deploying, monitoring, and sustaining systems at scale.
 
 - [ITIL 4 Essentials: Your Essential Guide for the ITIL 4 Foundation Exam and Beyond](https://www.skillsoft.com/book/itil-4-essentials-your-essential-guide-for-the-itil-4-foundation-exam-and-beyond-50df3a93-d824-4772-984c-aa36765202b1): Available in the Skillsoft library. Supports the Level 3 qualification expected at this role level.
 

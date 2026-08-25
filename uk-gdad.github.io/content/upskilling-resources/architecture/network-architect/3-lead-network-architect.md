@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of lead net
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you are accountable for designs and networks representing your business area, act as a point of escalation and subject matter expert, input into governance forums that determine IT strategy, and represent network architects internally and externally. The resources below emphasise leadership, governance, influence and technical currency at scale.
+At this role level you are accountable for designs and networks representing your business area, act as a point of escalation and subject matter expert, input into governance forums that determine IT strategy, and represent network architects internally and externally. The resources below emphasise leadership, governance, influence, and technical currency at scale.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -28,15 +28,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Network Design: Zero to Hero](https://www.udemy.com/course/network-design-zero-to-hero-by-arash-deljoo/): Covers conceptual, intermediate and detailed design of network infrastructure, including internal routing, BGP routing, modern WAN connectivity, data centre design and network security.
+- [Network Design: Zero to Hero](https://www.udemy.com/course/network-design-zero-to-hero-by-arash-deljoo/): Covers conceptual, intermediate and detailed design of network infrastructure, including internal routing, BGP routing, modern WAN connectivity, data centre design, and network security.
 
-- [Cisco Certified CCNP Enterprise 300-420 (ENSLD) Exam](https://www.udemy.com/course/cisco-certified-ccnp-enterprise-300-420-ensld-exam-2026/): Focused on the Designing Cisco Enterprise Networks exam, covering enterprise network design principles, architecture, scalability, security, automation and infrastructure services.
+- [Cisco Certified CCNP Enterprise 300-420 (ENSLD) Exam](https://www.udemy.com/course/cisco-certified-ccnp-enterprise-300-420-ensld-exam-2026/): Focused on the Designing Cisco Enterprise Networks exam, covering enterprise network design principles, architecture, scalability, security, automation, and infrastructure services.
 
-- [CCNP ENCOR 350-401: Complete Cisco Enterprise Networking](https://www.udemy.com/course/ccnp-encor/): Covers architecture, virtualisation, infrastructure, security and automation, with hands-on labs and design principles for two-tier and three-tier enterprise architectures.
+- [CCNP ENCOR 350-401: Complete Cisco Enterprise Networking](https://www.udemy.com/course/ccnp-encor/): Covers architecture, virtualisation, infrastructure, security, and automation, with hands-on labs and design principles for two-tier and three-tier enterprise architectures.
 
 ## Skillsoft courses
 
-- [Courses for Network Architect](https://www.skillsoft.com/journey/network-architect-a0a315f4-ec96-4222-9eb1-42dbc4fff9b8): A curated learning journey for the network architect role, covering secure design principles across OSI and TCP/IP for IPv4 and IPv6, converged protocols, transport architectures, performance metrics and traffic flows.
+- [Courses for Network Architect](https://www.skillsoft.com/journey/network-architect-a0a315f4-ec96-4222-9eb1-42dbc4fff9b8): A curated learning journey for the network architect role, covering secure design principles across OSI and TCP/IP for IPv4 and IPv6, converged protocols, transport architectures, performance metrics, and traffic flows.
 
 - [Zero Trust Networking Bootcamp](https://www.skillsoft.com/channel/zero-trust-networking-bootcamp-88ff8309-cdfc-4bd6-96d1-6b4a36aac02d): A crash course in which Michael J. Shannon demystifies zero trust architectures and offers guidance for launching or improving a zero trust initiative while avoiding common pitfalls.
 
@@ -56,7 +56,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.067 Competitive Decision-Making and Negotiation](https://ocw.mit.edu/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/): Develops negotiation skill through integrative bargaining cases between two and more than two parties over multiple issues.
 
-- [6.829 Computer Networks](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/): Covers design, implementation, analysis and evaluation of large-scale networked systems, including routing, congestion control, quality of service and router architectures. Worth keeping current so that escalation decisions remain technically grounded.
+- [6.829 Computer Networks](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/): Covers design, implementation, analysis and evaluation of large-scale networked systems, including routing, congestion control, quality of service, and router architectures. Worth keeping current so that escalation decisions remain technically grounded.
 
 ## Blog posts
 
@@ -84,13 +84,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A Comprehensive Survey on Data Center Network Architectures](https://ieeexplore.ieee.org/document/9197934/): Surveys data centre network architectures and the challenges of scalability, energy efficiency, congestion and cost that follow directly from architectural design choices.
 
-- [Rethinking the Data Center Networking: Architecture, Network Protocols, and Resource Sharing](https://ieeexplore.ieee.org/document/6990724/): An IEEE journal paper reconsidering data centre network architecture, protocols and resource sharing from first principles.
+- [Rethinking the Data Center Networking: Architecture, Network Protocols, and Resource Sharing](https://ieeexplore.ieee.org/document/6990724/): An IEEE journal paper reconsidering data centre network architecture, protocols, and resource sharing from first principles.
 
 - [Data center network architecture in cloud computing: review, taxonomy, and open research issues](https://www.academia.edu/103971359/Data_center_network_architecture_in_cloud_computing_review_taxonomy_and_open_research_issues): Reviews and classifies cloud data centre network architectures and identifies unresolved research problems.
 
-- [Exploration and Evaluation of Congestion Control Algorithms for Data Center Networks](https://link.springer.com/article/10.1007/s42979-023-02016-4): Evaluates congestion control algorithms against the bursty, delay-sensitive and throughput-sensitive traffic characteristic of data centre networks.
+- [Exploration and Evaluation of Congestion Control Algorithms for Data Center Networks](https://link.springer.com/article/10.1007/s42979-023-02016-4): Evaluates congestion control algorithms against the bursty, delay-sensitive, and throughput-sensitive traffic characteristic of data centre networks.
 
-- [End-to-end congestion control in datacenter networks: a survey](https://link.springer.com/article/10.1007/s11704-025-40212-y): A survey of end-to-end congestion control approaches, covering TCP Incast, TCP Outcast, buffer pressure and queue build-up.
+- [End-to-end congestion control in datacenter networks: a survey](https://link.springer.com/article/10.1007/s11704-025-40212-y): A survey of end-to-end congestion control approaches, covering TCP Incast, TCP Outcast, buffer pressure, and queue build-up.
 
 - [Software defined networking architecture, traffic management, security, and placement: A survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128621001481): A Computer Networks survey covering SDN architecture alongside traffic management, security and controller placement.
 
@@ -134,11 +134,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Zero Trust Security: A Complete Guide](https://www.skillsoft.com/book/zero-trust-security-a-complete-guide-7dd9c646-3fc2-4528-866f-e2f21ce5168d): Covers practical guidelines and requirements for designing and executing a zero trust journey, moving from perimeter-centric techniques to an identity-centric, policy-based approach.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Provides the operating model framing that determines how much network standardisation an organisation actually needs.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Provides the operating model framing that determines how much network standardisation an organisation actually needs.
 
 - [The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5): By Svyatoslav Kotusev. Grounds network architecture work in what the wider architecture function actually does in practice.
 
-- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A textbook treatment of architecture frameworks, methods and governance across all domains including technology.
+- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A textbook treatment of architecture frameworks, methods, and governance across all domains including technology.
 
 - [Operating Model Canvas: aligning operations and organization with strategy](https://www.amazon.com/Operating-Model-Canvas-Haren-Publishing/dp/9401800715): A framework for describing how an organisation works, including the locations and connectivity that network design must serve.
 

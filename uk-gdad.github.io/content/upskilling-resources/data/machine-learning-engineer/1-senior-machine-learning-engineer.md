@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of senior m
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you build, deploy and operate machine learning systems in production, taking responsibility for their reliability, monitoring and lifecycle. The resources below emphasise MLOps, production practice, model evaluation and technical debt.
+At this role level you build, deploy and operate machine learning systems in production, taking responsibility for their reliability, monitoring and lifecycle. The resources below emphasise MLOps, production practice, model evaluation, and technical debt.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -22,9 +22,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production): From DeepLearning.AI, covering the design of a production machine learning system end to end, including project scoping, data needs, modelling strategy and deployment patterns.
 
-- [MLOps: Machine Learning Operations (Duke University)](https://www.coursera.org/specializations/mlops-machine-learning-duke): Covers MLOps principles and data management for building and deploying models in production, across AWS SageMaker, Azure, MLflow and Hugging Face, with pipeline and API development.
+- [MLOps: Machine Learning Operations (Duke University)](https://www.coursera.org/specializations/mlops-machine-learning-duke): Covers MLOps principles and data management for building and deploying models in production, across AWS SageMaker, Azure, MLflow, and Hugging Face, with pipeline and API development.
 
-- [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/learn/mlops-fundamentals): From Google Cloud, introducing tools and best practice for deploying, evaluating, monitoring and operating production machine learning systems.
+- [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/learn/mlops-fundamentals): From Google Cloud, introducing tools and best practice for deploying, evaluating, monitoring, and operating production machine learning systems.
 
 ## Udemy courses
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.097 Prediction: Machine Learning and Statistics](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/): Starts with machine learning algorithms, then covers the statistical learning theory that provides their mathematical foundation, before moving into Bayesian analysis.
 
-- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis and nonparametric statistics.
+- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis, and nonparametric statistics.
 
 - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/): Reviews linear algebra with applications to probability, statistics and optimisation, including a full explanation of deep learning.
 
@@ -150,7 +150,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - Treat the model as one component of a system, since most failures are systems failures rather than modelling failures
 - Build monitoring and drift detection before you need them, not after the first incident
-- Version data, code and models together, since reproducing a result later depends on all three
+- Version data, code, and models together, since reproducing a result later depends on all three
 - Learn the software engineering practices your organisation uses and apply them to machine learning work
 - Read the hidden technical debt paper carefully, since it names the traps you are most likely to fall into
 - Work closely with data engineers, because model quality is bounded by data quality

@@ -26,7 +26,7 @@ A workplace job-specific cognitive ability assessment measures the exact mental 
 
 Typical format: an online, timed test lasting 15 to 30 minutes, with questions covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective, comparing your responses against a norm group, and modern platforms often adapt question difficulty based on your previous answers: answer correctly and the next question gets harder, so do not be discouraged if the test feels increasingly demanding — that usually means you are doing well. Employers usually receive a breakdown of speed versus accuracy rather than a single score, so working both quickly and carefully matters. You will normally be offered short, ungraded practice questions before the real test begins, so you can get comfortable with the interface without pressure.
 
-For a senior DevOps engineer, cognitive ability assessment is particularly relevant because your core professional value is structured thinking applied to complex, interconnected systems. You deliver and integrate software to form a complete DevOps toolchain, and that requires holding many moving parts in mind at once: which pipeline stages depend on which artefacts, which environments differ and why, where a proposed deployment strategy contradicts an availability requirement, and what follows logically when one element of the toolchain changes. On the management track you add a second layer: reasoning about people, priorities and coaching commitments alongside the technology. A well-designed cognitive assessment simulates precisely those demands in miniature.
+For a senior DevOps engineer, cognitive ability assessment is particularly relevant because your core professional value is structured thinking applied to complex, interconnected systems. You deliver and integrate software to form a complete DevOps toolchain, and that requires holding many moving parts in mind at once: which pipeline stages depend on which artefacts, which environments differ and why, where a proposed deployment strategy contradicts an availability requirement, and what follows logically when one element of the toolchain changes. On the management track you add a second layer: reasoning about people, priorities, and coaching commitments alongside the technology. A well-designed cognitive assessment simulates precisely those demands in miniature.
 
 ### How this assessment maps to your role
 
@@ -177,8 +177,8 @@ You must schedule three activities — the artefact repository migration (M), th
 Your dependency records show: services Alpha and Beta both call the authentication library directly; service Gamma calls Beta but never calls the authentication library directly; service Delta calls neither the library nor any of the other three services. A critical vulnerability is announced in the authentication library. Which services could be affected and therefore need assessment?
 
 - A) Alpha and Beta only
-- B) Alpha, Beta and Gamma
-- C) Alpha, Beta, Gamma and Delta
+- B) Alpha, Beta, and Gamma
+- C) Alpha, Beta, Gamma, and Delta
 - D) Beta and Gamma only
 
 **Correct answer: B**
@@ -279,7 +279,7 @@ Last quarter your teams made 240 production deployments, of which 18 caused a de
 
 **Question 3 (easy) — Average pipeline duration**
 
-Five runs of a pipeline this morning took 12, 15, 11, 14 and 18 minutes. What is the mean duration?
+Five runs of a pipeline this morning took 12, 15, 11, 14, and 18 minutes. What is the mean duration?
 
 - A) 13 minutes
 - B) 14 minutes
@@ -427,7 +427,7 @@ You led an optimisation of the release process. Before: 60 releases per quarter,
 
 ### Common pitfalls to avoid
 
-- **Averaging averages without weighting.** Unequal group sizes demand weighted means — in incident data, pipeline data and cost data alike.
+- **Averaging averages without weighting.** Unequal group sizes demand weighted means — in incident data, pipeline data, and cost data alike.
 - **Adding percentage changes.** Two 25% increases compound to 56.25%, not 50%. Distractors rely on the additive error.
 - **Dropping the threshold.** Capacity questions often include an action threshold (80%, error budget pace). Computing time-to-full when the question asks time-to-threshold is a classic lost mark.
 - **Decimal-place slips on large numbers.** 0.35% of 300 million invites a factor-of-ten error. Write the zeros out.
@@ -627,7 +627,7 @@ Which statement best captures the main point?
 - **Underline conditionals and scope words.** "Unless", "provided that", "except", "inclusive", "in total", "alone" — these small words carry the meaning in policies and notices. Practise spotting them on first read.
 - **Watch for attribution.** "The proposal argues", "the vendor claims", "the team estimates" report a claim without endorsing it. Statements that drop the attribution are usually Cannot Say.
 - **Practise on real documents.** Read a Technology Code of Practice point, a security standard, or a change freeze email and write three statements about it: one True, one False, one Cannot Say. Building the questions teaches the distinctions faster than answering them.
-- **For clear-writing items, look for actionability.** The best operational sentence names a trigger, a threshold, an action and an owner. Rank options by how confidently a tired stranger could act on them.
+- **For clear-writing items, look for actionability.** The best operational sentence names a trigger, a threshold, an action, and an owner. Rank options by how confidently a tired stranger could act on them.
 - **Manage passage time.** Skim the passage once for structure, then read the statement, then return to the relevant lines. Re-reading whole passages for every statement is where time drains away.
 
 ### Common pitfalls to avoid

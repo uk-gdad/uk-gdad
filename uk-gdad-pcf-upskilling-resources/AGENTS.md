@@ -1,6 +1,6 @@
 # Upskilling resources
 
-Courses, blog posts, research, videos and books for every role level. Good
+Courses, blog posts, research, videos, and books for every role level. Good
 starting points, not a catalogue.
 
 Part of the [UK GDAD PCF repository](../AGENTS.md). The repository-wide rules —

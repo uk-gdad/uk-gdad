@@ -707,7 +707,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/solution-architect/1-associate-solution-architect.md)
-  — courses, blog posts, videos and books for an associate solution architect.
+  — courses, blog posts, videos, and books for an associate solution architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/solution-architect/1-associate-solution-architect.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/solution-architect/1-associate-solution-architect.md)

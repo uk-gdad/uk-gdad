@@ -38,31 +38,31 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Service Desk, IT Asset, Service Configuration, and Change Control Management: ITIL](https://www.skillsoft.com/course/service-desk-it-asset-service-configuration-and-change-control-management-2292f3ad-2832-42ed-b23a-014758fa6da3): The four practices this role sits across, treated together.
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, change control, incident, IT asset, monitoring, event and problem management.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): Availability, capacity and performance, change control, incident, IT asset, monitoring, event, and problem management.
 
 - [Courses for ITIL Foundation](https://www.skillsoft.com/channel/itil-foundation-2635aa01-2c26-11e7-83d1-dba0327abefc): Supports the Level 3 service management framework qualification expected at this role level.
 
 ## edX courses
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, CI/CD and deployment pipelines. Increasingly, configuration items are defined in code rather than entered by hand.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, CI/CD, and deployment pipelines. Increasingly, configuration items are defined in code rather than entered by hand.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): The principles and practices behind modern change and release work.
 
-- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models and infrastructure, which is what most configuration databases now have to describe.
+- [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models, and infrastructure, which is what most configuration databases now have to describe.
 
 ## MIT OpenCourseWare courses
 
 - [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Broad coverage of hardware, operating systems, relational databases and enterprise applications, for people with little background in the technology.
 
-- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Relational data modelling, normalisation and transactions. A configuration management database is still a database, and its integrity problems are data problems.
+- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Relational data modelling, normalisation, and transactions. A configuration management database is still a database, and its integrity problems are data problems.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, naming, networks and fault tolerance, which is the vocabulary for describing relationships between configuration items.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, naming, networks, and fault tolerance, which is the vocabulary for describing relationships between configuration items.
 
 ## Blog posts
 
 - [A Beginner's Guide to CMDB in ITSM, Lansweeper](https://www.lansweeper.com/blog/cybersecurity/a-beginners-guide-to-cmdb-in-itsm-unlocking-efficiency/): Explains configuration items and their interdependencies, and what a well-maintained CMDB actually buys you.
 
-- [Atlassian Asset and Service Configuration Management Handbook](https://www.atlassian.com/whitepapers/it-asset-and-service-configuration-management-in-jira-service-management): Visibility into relationships between applications, services and underlying infrastructure.
+- [Atlassian Asset and Service Configuration Management Handbook](https://www.atlassian.com/whitepapers/it-asset-and-service-configuration-management-in-jira-service-management): Visibility into relationships between applications, services, and underlying infrastructure.
 
 - [IT Asset Management Best Practices, Atlassian](https://www.atlassian.com/itsm/it-asset-management/best-practices): Practical guidance on tracking assets and configuration items and keeping the records accurate.
 
@@ -76,7 +76,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Operate a reliable service, GOV.UK Service Standard point 14](https://www.gov.uk/service-manual/service-standard/point-14-operate-a-reliable-service): The reliability standard that change control exists to protect.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 - [Being On-Call, PagerDuty](https://response.pagerduty.com/oncall/being_oncall/): Useful context on what happens downstream when a change goes wrong.
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementation and impacts of IT Service Management in the IT function](https://www.sciencedirect.com/science/article/abs/pii/S0268401223000099): A systematic review of empirical ITSM research from 2012 to 2021.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices across 47 studies.
 
 - [Categorization of Software Release Risks and Its Abatement Strategy](https://www.researchgate.net/publication/276499818_Categorization_of_Software_Release_Risks_and_Its_Abatement_Strategy): Threats associated with release activities and the role change management plays in reducing them.
 
@@ -140,11 +140,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ITSM QuickStart Guide: The Simplified Beginner's Guide to IT Service Management](https://www.amazon.com/ITSM-QuickStart-Simplified-Beginners-Management/dp/1945051086): By ClydeBank Technology. Fast orientation to ITSM language and frameworks.
 
-- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Bob Aiello and Leslie Sachs. Source control, build engineering, environment configuration, change control, release engineering and deployment together.
+- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Bob Aiello and Leslie Sachs. Source control, build engineering, environment configuration, change control, release engineering, and deployment together.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. Supports the incident registration expected at this role level.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Shows why uncontrolled change destroys delivery, told as a story.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Shows why uncontrolled change destroys delivery, told as a story.
 
 ## Professional development tips
 
@@ -153,5 +153,5 @@ We welcome constructive feedback to improve this page and these lists.
 - Learn where each configuration item's data actually comes from, and prefer automated discovery to manual entry
 - Record change requests fully enough that someone can reconstruct the decision a year later
 - Solve the small problems you can independently, and say clearly when something exceeds your remit
-- Learn to explain availability, capacity and continuity concepts plainly, since you will be asked
+- Learn to explain availability, capacity, and continuity concepts plainly, since you will be asked
 - Ask to observe the change advisory board, because seeing the decisions made changes how you record them

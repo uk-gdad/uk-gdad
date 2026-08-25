@@ -129,7 +129,7 @@ data scientist sits **above** principal. That is how the framework publishes it,
 matters when you compare job adverts or grades across professions, because the same
 two words mean the opposite here.
 
-The practical difference is real, not just naming. At lead, *data ethics and privacy*
+The practical difference is real, not just naming. At lead, *data ethics, and privacy*
 rises to overseeing compliance across the organisation and developing an ethical
 framework — yours is worded as working with stakeholders on concerns. *Delivering
 business impact* rises to championing data science and taking responsibility for

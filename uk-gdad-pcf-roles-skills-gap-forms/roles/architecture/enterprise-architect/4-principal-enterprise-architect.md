@@ -13,7 +13,7 @@ followed: networking with senior stakeholders across enterprises, supporting
 multiple communities and teams, inspiring other enterprise architects, horizon
 scanning for external influences and risks, being responsible for the overall
 direction of business and digital capabilities — and being responsible for the
-creation, maintenance and consumption of a Digital Twin.
+creation, maintenance, and consumption of a Digital Twin.
 
 That last one is unusual, and the framework does not define it further. Taken
 plainly, it means a maintained model of the organisation — its capabilities,
@@ -591,7 +591,7 @@ understand about legal and commercial risk that you currently do not?
 *Your answer:*
 
 **Q43.** A Digital Twin of an organisation may contain sensitive detail about
-systems, staff and processes. If yours exists, how is access to it governed?
+systems, staff, and processes. If yours exists, how is access to it governed?
 
 *Your answer:*
 

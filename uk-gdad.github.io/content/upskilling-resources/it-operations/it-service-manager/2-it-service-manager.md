@@ -24,7 +24,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ITSM Foundations: Optimizing IT Service Management](https://www.coursera.org/learn/itsm-foundations-optimizing-it-service-management): Core ITSM principles, useful to revisit when you own the process rather than follow it.
 
-- [Stakeholder Management](https://www.coursera.org/learn/stakeholder-management): Stakeholder identification, analysis, collaboration and change support, which is what agreeing an SLA across business functions actually involves.
+- [Stakeholder Management](https://www.coursera.org/learn/stakeholder-management): Stakeholder identification, analysis, collaboration, and change support, which is what agreeing an SLA across business functions actually involves.
 
 ## Udemy courses
 
@@ -52,9 +52,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous process improvement, value stream mapping, root cause analysis and improvement plans. The most directly useful course for continual service improvement.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous process improvement, value stream mapping, root cause analysis, and improvement plans. The most directly useful course for continual service improvement.
 
-- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process analysis, capacity analysis and cycle time, which is the theory behind service level targets.
+- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process analysis, capacity analysis, and cycle time, which is the theory behind service level targets.
 
 - [15.280 Communication for Managers](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/): Writing and speaking strategy, directly applicable to service reporting and change communication.
 
@@ -88,7 +88,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Measuring IT Service Management Capability: Scale Development and Empirical Validation](https://www.researchgate.net/publication/299616426_Measuring_IT_Service_Management_Capability_Scale_Development_and_Empirical_Validation): A validated capability measure, better than a self-assessed maturity score.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices extracted across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices extracted across 47 studies.
 
 - [Ensuring Efficient IT Service Management to Increase Information Systems Availability](https://www.researchgate.net/publication/337847919_Ensuring_Efficient_IT_Service_Management_to_Increase_Information_Systems_Availability): Service management practice connected to measured availability.
 
@@ -120,7 +120,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Engaging Stakeholders: Strategies for Success](https://www.youtube.com/watch?v=LRRJNlZVkKg): Engagement strategy, useful for the SLA negotiation across business functions.
 
-- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state and change strategy, which is the structure a CSI programme needs.
+- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state, and change strategy, which is the structure a CSI programme needs.
 
 - [Full-stack Observability](https://www.youtube.com/watch?v=toS5rvET7hg): The signals behind your availability and performance reporting.
 
@@ -138,11 +138,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): By Cole Nussbaumer Knaflic. Directly applicable to service reporting that stakeholders act on.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command model, useful for a multi-sourced team.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command model, useful for a multi-sourced team.
 
 - [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433): By Grenny and colleagues. The conversations that decide whether an SLA is agreed or imposed.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence on how governance affects delivery, worth reading before adding process.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence on how governance affects delivery, worth reading before adding process.
 
 - [Root Cause Analysis: Improving Performance for Bottom-Line Results](https://www.amazon.com/Root-Cause-Analysis-Performance-Bottom-Line-ebook/dp/B07TLG2HBM): By Latino, Latino and Latino. What a holistic root cause analysis system looks like across a function.
 

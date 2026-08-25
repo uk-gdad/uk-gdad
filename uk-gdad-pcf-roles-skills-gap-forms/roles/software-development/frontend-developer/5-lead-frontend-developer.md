@@ -128,7 +128,7 @@ advocacy and coaching rather than resolution. Everything else keeps its wording.
 The real difference is in the accountabilities: influencing and developing
 organisational strategy with counterparts across government, ensuring the right
 conditions and environment for frontend developers to work, and developing
-departmental capability through internal mobility, career paths and recruitment.
+departmental capability through internal mobility, career paths, and recruitment.
 That is a job about people and conditions, not about services.
 
 **The skills this form covers**, in the framework's order:
@@ -373,7 +373,7 @@ structure causing?
 ### Skill: Modern development standards
 
 **What this means.** The practices that keep code understandable, testable and
-safe to change, applied across projects and programmes rather than teams.
+safe to change, applied across projects, and programmes rather than teams.
 
 **What the framework expects at this level.** That you identify and apply modern
 development standards to support complex projects and programmes, and lead
@@ -843,7 +843,7 @@ exactly why it is worth asking for the date yourself.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/frontend-developer/5-lead-frontend-developer.md)
-  — courses, articles, talks and books pitched at lead frontend developer.
+  — courses, articles, talks, and books pitched at lead frontend developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/frontend-developer/5-lead-frontend-developer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/frontend-developer/5-lead-frontend-developer.md)

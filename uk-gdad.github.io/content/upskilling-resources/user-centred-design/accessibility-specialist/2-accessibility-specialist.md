@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of accessib
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you carry out accessibility work independently, auditing services, advising teams and helping build accessibility into design and delivery. The resources below emphasise audit methodology, inclusive design and cognitive accessibility.
+At this role level you carry out accessibility work independently, auditing services, advising teams and helping build accessibility into design and delivery. The resources below emphasise audit methodology, inclusive design, and cognitive accessibility.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -24,7 +24,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Frontend Development Specialization](https://www.coursera.org/specializations/frontend): Covers HTML, CSS, JavaScript, React and interface design, including applying accessibility best practice in implementation.
 
-- [Human-Computer Interaction I: Fundamentals and Design Principles (GTx)](https://www.coursera.org/learn/user-interface-design-principles-prototyping-practices): Covers established design principles including feedback cycles, affordances and signifiers, which underpin why accessible design works.
+- [Human-Computer Interaction I: Fundamentals and Design Principles (GTx)](https://www.coursera.org/learn/user-interface-design-principles-prototyping-practices): Covers established design principles including feedback cycles, affordances, and signifiers, which underpin why accessible design works.
 
 ## Udemy courses
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Human-Computer Interaction II: Cognition, Context and Culture (GTx)](https://www.edx.org/course/human-computer-interaction-ii-cognition-context-cu): The continuation, covering how cognition, context and culture shape how people actually use interfaces.
 
-- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles and deliverables.
+- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles, and deliverables.
 
 ## MIT OpenCourseWare courses
 
@@ -62,7 +62,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [GOV.UK Design System accessibility strategy](https://design-system.service.gov.uk/accessibility/accessibility-strategy/): Sets out how the Design System follows the four principles underlying WCAG, how components are tested, and what teams remain responsible for themselves.
 
-- [A new accessibility strategy for the GOV.UK Design System](https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/): Explains the plan to align styles, components and patterns with WCAG 2.2 and the timescales involved.
+- [A new accessibility strategy for the GOV.UK Design System](https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/): Explains the plan to align styles, components, and patterns with WCAG 2.2 and the timescales involved.
 
 - [Unlocking Accessibility: Frontend developers discuss semantic HTML and accessible code](https://accessibility.blog.gov.uk/2025/04/25/unlocking-accessibility-frontend-developers-discuss-semantic-html-and-accessible-code/): UK government developers on progressive enhancement and what accessible implementation actually requires.
 
@@ -126,21 +126,21 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Written for anyone who writes frontend code, with a strong focus on HTML and on JavaScript-powered components such as toggles, accordions, modals and navigation.
+- [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Written for anyone who writes frontend code, with a strong focus on HTML and on JavaScript-powered components such as toggles, accordions, modals, and navigation.
 
 - [Web Accessibility by Design: Inclusive Front-End Patterns and UI Guidelines](https://www.amazon.com/Web-Accessibility-Design-Inclusive-Guidelines-ebook/dp/B0FMJSVY2D): Covers semantic HTML and ARIA roles, accessible forms and navigation, colour contrast and motion control, with actionable techniques.
 
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/1933820118): By Steve Portigal. Accessibility work depends on hearing from disabled users properly, and this is the best guide to the interview craft.
 
-- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky and Moed. A methods reference covering when each research approach applies, including observational work.
+- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky, and Moed. A methods reference covering when each research approach applies, including observational work.
 
 - [Content Design](https://www.amazon.com/Content-Design-Sarah-Winters/dp/1916323316): By Sarah Winters. Cognitive accessibility is largely a content problem, and this is the standard treatment.
 
-- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): Cooper, Reimann, Cronin and Noessel. Covers goal-directed design and behaviour patterns, which shape whether a service is usable at all.
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): Cooper, Reimann, Cronin, and Noessel. Covers goal-directed design and behaviour patterns, which shape whether a service is usable at all.
 
 - [Nicely Said: Writing for the Web with Style and Purpose](https://www.amazon.com/Nicely-Said-Writing-Purpose-Voices/dp/0321988191): Fenton and Lee. A practical guide to clear web writing, which is a substantial part of accessible communication.
 
-- [Understanding Your Users: A Practical Guide to User Research Methods](https://www.amazon.com/Understanding-Your-Users-Interactive-Technologies/dp/0128002328): Baxter, Courage and Caine. A detailed guide to planning, running and reporting research, including with participants who need adjustments.
+- [Understanding Your Users: A Practical Guide to User Research Methods](https://www.amazon.com/Understanding-Your-Users-Interactive-Technologies/dp/0128002328): Baxter, Courage, and Caine. A detailed guide to planning, running and reporting research, including with participants who need adjustments.
 
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2): By Martin Fowler. Useful for specialists who must recommend structural changes to code they do not own.
 

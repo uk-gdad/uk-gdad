@@ -396,7 +396,7 @@ made it complex?
 *Your answer:*
 
 **Q23.** How do you test automation that is dangerous to run — something that
-deletes, deploys or rotates?
+deletes, deploys, or rotates?
 
 *Your answer:*
 
@@ -795,7 +795,7 @@ to ask for a date.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/development-operations-engineer/3-devops-engineer.md)
-  — courses, articles, talks and books pitched at DevOps engineer.
+  — courses, articles, talks, and books pitched at DevOps engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/development-operations-engineer/3-devops-engineer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/development-operations-engineer/3-devops-engineer.md)

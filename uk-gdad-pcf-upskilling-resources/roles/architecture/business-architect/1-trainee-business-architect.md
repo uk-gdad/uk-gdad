@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [TOGAF 10 Foundation](https://www.coursera.org/learn/togaf-10-foundation): A structured journey through the core concepts of enterprise architecture, including the BDAT domains, the Architecture Development Method (ADM), architecture governance principles, the Enterprise Continuum and the Architecture Repository. A good first framework course for a trainee who needs the shared vocabulary of the profession.
+- [TOGAF 10 Foundation](https://www.coursera.org/learn/togaf-10-foundation): A structured journey through the core concepts of enterprise architecture, including the BDAT domains, the Architecture Development Method (ADM), architecture governance principles, the Enterprise Continuum, and the Architecture Repository. A good first framework course for a trainee who needs the shared vocabulary of the profession.
 
 - [IBM Systems and Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/ibm-systems-and-solutions-architect): A multi-course programme covering architectural thinking, requirements, architecture decisions and documentation. Useful for a trainee business architect who wants to understand how business architecture connects to the wider architecture disciplines.
 
@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Business Architecture Part 1](https://www.udemy.com/course/business-architecture-part-1/): An introduction to the practice of business architecture, its artefacts and its purpose within an organisation. Aimed at people new to the discipline.
 
-- [Business Architecture Foundation with the TOGAF Standard](https://www.udemy.com/course/togaf-10-ba-foundation/): Covers how to define what a business does through a TOGAF 10 aligned business capability map, including naming, description, layering, heat maps and value-stream mapping. Includes over 200 pages of course material, quiz questions and practice tests.
+- [Business Architecture Foundation with the TOGAF Standard](https://www.udemy.com/course/togaf-10-ba-foundation/): Covers how to define what a business does through a TOGAF 10 aligned business capability map, including naming, description, layering, heat maps and value-stream mapping. Includes over 200 pages of course material, quiz questions, and practice tests.
 
 ## Skillsoft courses
 

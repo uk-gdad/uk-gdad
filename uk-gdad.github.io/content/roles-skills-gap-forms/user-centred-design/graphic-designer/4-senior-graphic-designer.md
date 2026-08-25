@@ -428,7 +428,7 @@ law correctly.
 - [ ] The Web Content Accessibility Guidelines
 - [ ] The Equality Act 2010 and the public sector equality duty
 - [ ] Your organisation's brand and design standards
-- [ ] Image licensing, font licensing and copyright
+- [ ] Image licensing, font licensing, and copyright
 - [ ] Data protection, where designs include real data or examples
 - [ ] The GOV.UK Service Standard and service assessments
 - [ ] None of these

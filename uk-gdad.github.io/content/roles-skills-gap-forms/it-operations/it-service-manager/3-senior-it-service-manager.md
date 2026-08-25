@@ -474,7 +474,7 @@ ask about awareness, training and support, not about whether you can state the l
 - [ ] Public procurement rules and your organisation's commercial policy
 - [ ] Accessibility duties, including the public sector website and mobile application regulations
 - [ ] The Equality Act 2010 and the public sector equality duty
-- [ ] Records management, retention and freedom of information
+- [ ] Records management, retention, and freedom of information
 - [ ] None of these
 - [ ] Not sure
 

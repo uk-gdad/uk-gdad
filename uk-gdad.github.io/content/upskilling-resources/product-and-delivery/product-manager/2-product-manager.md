@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of product 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you own the product for a service, defining outcomes, running discovery, prioritising work and helping a multidisciplinary team deliver value for users. The resources below emphasise continuous discovery, outcome-based prioritisation and experimentation.
+At this role level you own the product for a service, defining outcomes, running discovery, prioritising work, and helping a multidisciplinary team deliver value for users. The resources below emphasise continuous discovery, outcome-based prioritisation, and experimentation.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -20,9 +20,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Digital Product Management (University of Virginia)](https://www.coursera.org/specializations/uva-darden-digital-product-management): Five courses covering product design, hypothesis-driven development and agile working, which are the core of modern product management practice.
+- [Digital Product Management (University of Virginia)](https://www.coursera.org/specializations/uva-darden-digital-product-management): Five courses covering product design, hypothesis-driven development, and agile working, which are the core of modern product management practice.
 
-- [Agile for the Modern Product Manager](https://www.coursera.org/specializations/agile-for-the-modern-product-manager): From Scrum Alliance, covering operating strategically across product discovery, delivery and continuous improvement, with data-driven decision making.
+- [Agile for the Modern Product Manager](https://www.coursera.org/specializations/agile-for-the-modern-product-manager): From Scrum Alliance, covering operating strategically across product discovery, delivery, and continuous improvement, with data-driven decision making.
 
 - [Product Management: Initial Product Strategy and Plan](https://www.coursera.org/learn/product-management-initial-product-strategy-and-plan): Covers the components of a product roadmap and building one in a hands-on lab, which is the artefact most product roles are judged on.
 
@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Advanced Product Management: Agile Methodologies](https://www.udemy.com/course/advanced-agile-product-management/): Covers identifying user needs and the problem space, conveying the problem to teams, and pursuing product-market fit through dual-track discovery and rapid learning cycles.
 
-- [The Complete Agile Scrum Product Owner Masterclass](https://www.udemy.com/course/professional-scrum-product-owner/): Covers the product owner role within Scrum, including backlog management, prioritisation and working with a delivery team.
+- [The Complete Agile Scrum Product Owner Masterclass](https://www.udemy.com/course/professional-scrum-product-owner/): Covers the product owner role within Scrum, including backlog management, prioritisation, and working with a delivery team.
 
 ## Skillsoft courses
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [15.783J Product Design and Development](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/): A project-based Sloan course integrating marketing, design and manufacturing in creating a new product, covering identifying customer needs, concept generation and product architecture.
+- [15.783J Product Design and Development](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/): A project-based Sloan course integrating marketing, design and manufacturing in creating a new product, covering identifying customer needs, concept generation, and product architecture.
 
 - [15.980J Organizing for Innovative Product Development](https://ocw.mit.edu/courses/15-980j-organizing-for-innovative-product-development-spring-2007/): Covers technology transfer, the relationship between science and technology, and the innovation process as an organisational problem.
 
@@ -60,7 +60,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Blog posts
 
-- [Agile delivery, GOV.UK Service Manual](https://www.gov.uk/service-manual/agile-delivery): The authoritative UK government guidance on working in an agile way, covering principles, tools, governance, user stories, planning and the discovery, alpha, beta, live and retirement phases.
+- [Agile delivery, GOV.UK Service Manual](https://www.gov.uk/service-manual/agile-delivery): The authoritative UK government guidance on working in an agile way, covering principles, tools, governance, user stories, planning and the discovery, alpha, beta, live, and retirement phases.
 
 - [Agile and government services: an introduction](https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction): Explains why government policy is to use agile for digital services and what that means in practice.
 
@@ -114,7 +114,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The Nature of Product, Marty Cagan](https://www.youtube.com/watch?v=T3VRz18ntjQ): A keynote addressing the common misconceptions about how good products are actually created.
 
-- [Product Discovery, Product Strategy and Empowered Product Teams, Marty Cagan](https://www.youtube.com/watch?v=saF8fViOrO8): An extended session covering discovery, strategy and what empowerment actually requires from leadership.
+- [Product Discovery, Product Strategy and Empowered Product Teams, Marty Cagan](https://www.youtube.com/watch?v=saF8fViOrO8): An extended session covering discovery, strategy, and what empowerment actually requires from leadership.
 
 - [Marty Cagan on the current era for product management](https://www.youtube.com/watch?v=lu0a-VRkKeY): A full interview on how the discipline is changing and what that means for practitioners.
 
@@ -126,7 +126,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N): By Marty Cagan. The most widely used single reference on how strong product teams work, covering people, process and product culture.
+- [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N): By Marty Cagan. The most widely used single reference on how strong product teams work, covering people, process, and product culture.
 
 - [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products-ebook/dp/B094PVB97X): By Teresa Torres. A practical system for continuous discovery, including opportunity solution trees and interview habits.
 
@@ -136,13 +136,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The Product Book: How to Become a Great Product Manager](https://www.amazon.com/Product-Book-Become-Great-Manager-ebook/dp/B071HFBGXR): A practical introduction to the role, useful for people entering product management from another discipline.
 
-- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV): Kohavi, Tang and Xu. The standard reference for experimentation, drawn from tens of thousands of live experiments.
+- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV): Kohavi, Tang, and Xu. The standard reference for experimentation, drawn from tens of thousands of live experiments.
 
 - [Lean Analytics: Use Data to Build a Better Startup Faster](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM): Croll and Yoskovitz. The discipline of choosing the one metric that matters right now.
 
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F): Osterwalder and Pigneur. The Business Model Canvas, a fast way to frame a proposition with stakeholders.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): Forsgren, Humble and Kim. The evidence that delivery performance predicts organisational performance, useful when arguing for engineering investment.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): Forsgren, Humble, and Kim. The evidence that delivery performance predicts organisational performance, useful when arguing for engineering investment.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): Cole Nussbaumer Knaflic. Practical guidance on making evidence persuasive to decision makers.
 

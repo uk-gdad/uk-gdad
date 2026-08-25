@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of service 
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you co-ordinate across IT operations and manage the acceptance criteria for changes in your area, validating changes against the criteria, gathering evidence and creating materials. The resources below emphasise service acceptance criteria, change control, evidence gathering, and the availability, capacity and continuity concepts you need to be able to explain.
+At this role level you co-ordinate across IT operations and manage the acceptance criteria for changes in your area, validating changes against the criteria, gathering evidence, and creating materials. The resources below emphasise service acceptance criteria, change control, evidence gathering, and the availability, capacity and continuity concepts you need to be able to explain.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -46,7 +46,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Continuous Integration and Delivery (CI/CD) (IBM)](https://www.edx.org/learn/continuous-integration/ibm-continuous-integration-and-delivery-ci-cd): Pipelines with hands-on labs, which shows where automated acceptance evidence comes from.
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines and observability, which is the environment you are accepting into.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines, and observability, which is the environment you are accepting into.
 
 - [Introduction to DevOps and Site Reliability Engineering (LinuxFoundationX)](https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering): The principles behind how modern services are built and run.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Requirements, verification and validation, and commissioning and operations. The clearest treatment of what acceptance actually is.
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, networks, performance and fault tolerance, which is what your criteria are testing for.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, networks, performance, and fault tolerance, which is what your criteria are testing for.
 
 - [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Broad technical coverage, useful when your acceptance work spans unfamiliar technology.
 
@@ -94,7 +94,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Implementation and impacts of IT Service Management in the IT function](https://www.sciencedirect.com/science/article/abs/pii/S0268401223000099): A systematic review of empirical ITSM research from 2012 to 2021.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices across 47 studies.
 
 - [Improving the Software Problem Management Process: A Case Study](https://link.springer.com/chapter/10.1007/11908562_5): The difficulties in a real problem management process, which is where poorly accepted services end up.
 
@@ -140,11 +140,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. The incident practice a badly accepted service will generate work for.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What a service must expose to be supportable, which belongs in your criteria.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What a service must expose to be supportable, which belongs in your criteria.
 
-- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Aiello and Sachs. Source control, environment configuration, change control and release engineering together.
+- [Configuration Management Best Practices: Practical Methods that Work in the Real World](https://www.amazon.com/Configuration-Management-Best-Practices-Practical/dp/0321685865): By Aiello and Sachs. Source control, environment configuration, change control, and release engineering together.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Readable context for why uncontrolled transitions cost so much.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Readable context for why uncontrolled transitions cost so much.
 
 ## Professional development tips
 
@@ -152,6 +152,6 @@ We welcome constructive feedback to improve this page and these lists.
 - Write acceptance criteria that are checkable, because a criterion nobody can test is not a criterion
 - Gather evidence as the change progresses rather than assembling it the day before a decision
 - Include monitoring, runbooks and support handover in the criteria, not only functional behaviour
-- Learn to explain availability, capacity and continuity concepts plainly, since you will be asked
+- Learn to explain availability, capacity, and continuity concepts plainly, since you will be asked
 - Track and correct asset information as you validate, since inaccurate records undermine your evidence
 - Ask what happened to services accepted before you arrived, because failure patterns are the best criteria source

@@ -438,7 +438,7 @@ is in the way?
 ### Skill: Strategic design and business change
 
 **What this means.** Understanding what is happening to the organisation and why,
-and shaping the principles, patterns, standards, policies, roadmaps and vision
+and shaping the principles, patterns, standards, policies, roadmaps, and vision
 that guide how it changes. This skill is new at your level.
 
 **What the framework expects at this level.** Four things: demonstrate a good
@@ -705,7 +705,7 @@ conversation. A form that goes into a drawer is worse than no form.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/business-architect/3-business-architect.md)
-  — courses, articles, talks and books pitched at business architect.
+  — courses, articles, talks, and books pitched at business architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/business-architect/3-business-architect.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/business-architect/3-business-architect.md)

@@ -14,7 +14,7 @@ The document has four main sections:
 
 1. A workplace job-specific cognitive assessment — evidence auditing at a distance, cross-service synthesis, systemic diagnosis, strategic prioritisation, and reasoning about the mechanisms that produce bad content.
 2. A numeric reasoning assessment — weighted aggregation, funnel and contact data, sampling adequacy, business case claims, and the interrogation of figures already embedded in decisions.
-3. A verbal reasoning assessment — governance frameworks, review reports, policy sources and stakeholder correspondence, with items pitched at real ambiguity.
+3. A verbal reasoning assessment — governance frameworks, review reports, policy sources, and stakeholder correspondence, with items pitched at real ambiguity.
 4. A situational judgement assessment — integrity under pressure, assurance across teams, coaching, resourcing, and the defence of content positions in senior forums.
 
 Each section provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
@@ -33,7 +33,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At lead level the materials are organisational and the reasoning is diagnostic. You will meet content produced by other people, standards applied unevenly, evidence gathered for other purposes, and prioritisation problems whose units are teams and services rather than pages.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both rewarding precision.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy, both rewarding precision.
 
 Three things characterise this section at your level.
 
@@ -249,7 +249,7 @@ Reviewing a year of output, you find two teams consistently produce strong conte
 
 A numeric reasoning assessment measures how accurately you handle quantitative material. At lead level the emphasis is almost wholly on interrogation. You will need to compute correctly, but the questions that matter ask whether a figure means what somebody claims — and in most rooms you enter, you may be the only person who will ask.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is deliberately tractable. Time per item is tight, so the operative skill is locating what matters and discarding what does not.
 
 The professional stake is unusually high for your discipline. Content work is chronically under-prioritised because its value is hard to express in numbers other people use, and content quality is unusually hard to argue about because everybody reads and most people believe they can write. Both problems have the same remedy: figures. A lead content designer who can say "two in five calls to this service ask when something will happen, which is 28,800 calls a year" wins resourcing arguments that a lead with a strong view about clarity does not. Your role names working with service managers and programme directors to resource teams, and that conversation happens in numbers.
 
@@ -460,7 +460,7 @@ A team proposes measuring whether a rewrite improved completion by running 25 mo
 
 A verbal reasoning assessment measures how accurately you read. For most disciplines it is a proxy skill; for yours it is close to the job, which makes this the section where you should score best and where a settled habit costs most.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. True means the statement follows necessarily. False means the passage contradicts it. Cannot Say means the passage neither establishes nor excludes it. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and here is the part specific to your level: expertise actively costs marks. The more policy and governance prose you have translated, the more readily you supply the clause you expect and feel entirely confident doing it. Candidates at your level underperform on verbal reasoning at rates that surprise them, and this is nearly always the mechanism. The counter-habit must be mechanical: before marking anything True, put your finger on the words.
 
@@ -487,25 +487,25 @@ The verbal skills tested map onto your named skills:
 
 "All content published on the service must be reviewed against the style guide before publication, unless an exemption has been agreed in writing by the head of content design. Where content is a factual correction of published material, it may be published immediately and reviewed within five working days. Content including legal wording supplied by the legal team must not be altered without the legal team's agreement, although surrounding explanatory content may be edited freely. All published content is reviewed annually."
 
-**Question 1 (easy)** — Statement: "Every piece of content must be reviewed against the style guide before publication." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Every piece of content must be reviewed against the style guide before publication." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage attaches two routes around the general rule: a written exemption from the head of content design, and immediate publication of factual corrections. The statement's "every" contradicts both, so False. Note that this passage carries two distinct mechanisms that are easy to conflate — an exemption, which removes the requirement, and the factual-correction route, which reverses the order while keeping the review obligation. They do different things, and Question 4 turns on the distinction.
 
-**Question 2 (easy)** — Statement: "Legal wording may never be altered." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Legal wording may never be altered." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage prohibits altering legal wording *without the legal team's agreement*, which means alteration with their agreement is permitted. The statement's "never" drops the condition and asserts an absolute prohibition the passage does not impose, so False. This has real consequences for how you brief your teams: content designers who believe legal wording is untouchable never ask, and legal colleagues are frequently more willing to agree a clearer formulation than anyone assumes — particularly when you bring evidence that the current wording is not understood, since an incomprehensible warning serves their purposes no better than yours.
 
-**Question 3 (moderate)** — Statement: "A factual correction is exempt from style guide review." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A factual correction is exempt from style guide review." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says a factual correction may be published immediately *and reviewed within five working days*. The review obligation is not removed; it is deferred. The statement asserts an exemption, which is a different thing, so it is False. This is the distinction flagged in Question 1, and it matters practically: a team believing corrections are exempt will publish them and never review them, and after a year the service contains a layer of content that has never been through the style guide at all — which is exactly the kind of drift an annual review is too coarse to catch.
 
-**Question 4 (harder)** — Statement: "A page containing legal wording is reviewed annually." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A page containing legal wording is reviewed annually." True, False, or Cannot Say?
 
 **Correct answer: True**
 
@@ -515,25 +515,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of content practice across the department found considerable variation in how teams assure quality. Four teams operate peer review before publication; the remainder rely on individual sign-off. Teams with peer review reported fewer post-publication corrections, although the review did not examine whether their content was more accurate. The review recommends that the head of content design consider whether a common assurance approach would be proportionate."
 
-**Question 5 (easy)** — Statement: "Some teams do not operate peer review before publication." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some teams do not operate peer review before publication." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that four teams operate peer review and the remainder rely on individual sign-off, establishing directly that some do not. True. Answer quickly and bank the time. The only conceivable ambiguity — whether "the remainder" might be empty — is closed by the passage describing what the remainder does.
 
-**Question 6 (moderate)** — Statement: "Peer review produces more accurate content." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Peer review produces more accurate content." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports fewer post-publication corrections and then states explicitly that accuracy was not examined. Those are different things, and the gap is instructive: peer-reviewed teams might produce more accurate content, or might catch errors before publication rather than after — which produces the same statistic and is a genuine benefit — or might simply be less likely to have errors reported, if they are also the teams with better relationships with the people who would report them. The passage flags its own silence, so Cannot Say. At your level this is exactly the substitution to guard against, because "peer review improves accuracy" is a claim you would like to be true and might well cite when arguing for a common approach.
 
-**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The review recommends introducing a common assurance approach." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The review recommends that the head of content design *consider whether* a common approach would be proportionate, which includes concluding it would not be. The statement asserts a recommendation to introduce, which was not made, so False rather than Cannot Say: the passage tells you what was recommended and it was something different. Content designers are unusually likely to be the person writing the record of what a review said, which makes reading this precisely a professional obligation rather than a test technique — and at your level you are likely to be the person the recommendation is addressed to, which means misreading it commits you to something nobody asked for.
 
-**Question 8 (harder)** — Statement: "Individual sign-off is a weaker form of assurance than peer review." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Individual sign-off is a weaker form of assurance than peer review." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -543,19 +543,19 @@ The verbal skills tested map onto your named skills:
 
 "Content must be written so that it can be understood by users with a reading age of 9 where the subject matter allows. Where technical or legal terms cannot be avoided, they must be explained at first use. Content must not rely on colour alone to convey meaning. Headings must describe the content that follows and be used in order without skipping levels. These requirements apply to public-facing content and to internal guidance used by more than fifty staff."
 
-**Question 9 (easy)** — Statement: "All content must be understandable by users with a reading age of 9." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "All content must be understandable by users with a reading age of 9." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement is qualified: "where the subject matter allows". The statement's "all" drops that, and the passage explicitly contemplates subject matter where the standard cannot be met, so False. This qualifier is frequently misquoted in both directions. It is not a general excuse — most content claiming difficult subject matter could be far simpler — and it does acknowledge genuine cases. At your level you will be the person adjudicating whether a team's claim of difficult subject matter is honest, which requires reading the rule exactly rather than as a slogan in either direction.
 
-**Question 10 (moderate)** — Statement: "Technical terms must be avoided." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "Technical terms must be avoided." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says that *where technical or legal terms cannot be avoided*, they must be explained at first use. That wording presupposes such cases exist and permits the terms, subject to explanation. The statement asserts an absolute prohibition the passage does not impose, so False. A rule addressing what to do in a situation implicitly accepts the situation occurs. Reading it as a prohibition produces content designers arguing that a term must be removed when the actual requirement is that it must be explained — and losing the argument, because the term is often genuinely necessary and the stakeholder knows it.
 
-**Question 11 (moderate)** — Statement: "These requirements apply to internal guidance used by twenty staff." True, False or Cannot Say?
+**Question 11 (moderate)** — Statement: "These requirements apply to internal guidance used by twenty staff." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -787,7 +787,7 @@ You have solved a content problem — explaining a common benefit rule — that 
 
 - **Absorb pressure downwards.** If a power differential is above the level of the person facing it, it is yours.
 - **Ask what an option does to the system.** An intervention depending on your attention has not solved anything.
-- **Lead with evidence in the other person's currency.** Calls, pounds and hours beat an explanation of the discipline.
+- **Lead with evidence in the other person's currency.** Calls, pounds, and hours beat an explanation of the discipline.
 - **Let people experience the failure.** Reading their own draft aloud teaches what feedback cannot.
 - **Negotiate once on everyone's behalf.** Four content designers having the same losing conversation is a leadership failure.
 - **Supply the wording that makes compliance possible.** Teams omit timescales because nobody has told them what to write when it is uncertain.

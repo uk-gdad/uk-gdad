@@ -386,7 +386,7 @@ to tolerate, and why?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** The craft itself: reviewing specifications, then designing,
-coding, testing and documenting software of real complexity.
+coding, testing, and documenting software of real complexity.
 
 **What the framework expects at this level.** That you collaborate with others
 when necessary to review specifications, and use the agreed specifications to

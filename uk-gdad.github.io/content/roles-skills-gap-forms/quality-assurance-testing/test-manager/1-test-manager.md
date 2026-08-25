@@ -512,7 +512,7 @@ environments — written down, enforced, or assumed?
 
 *Your answer:*
 
-**Q39.** What governs personal data in defect reports, screenshots and session
+**Q39.** What governs personal data in defect reports, screenshots, and session
 recordings across your teams?
 
 *Your answer:*
@@ -635,7 +635,7 @@ conversation. A form that goes into a drawer is worse than no form.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/test-manager/1-test-manager.md)
-  — courses, articles, talks and books pitched at test manager.
+  — courses, articles, talks, and books pitched at test manager.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-manager/1-test-manager.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/quality-assurance-testing/test-manager/1-test-manager.md)

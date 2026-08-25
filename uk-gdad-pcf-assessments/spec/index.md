@@ -1,7 +1,7 @@
 # Assessments — specification
 
 Refines [`spec/index.md`](../../spec/index.md), which governs the taxonomy, the
-role index, slugs, style and licensing. This file covers only what is specific
+role index, slugs, style, and licensing. This file covers only what is specific
 to assessments.
 
 ## Purpose
@@ -40,7 +40,7 @@ with job performance are the failure mode to avoid.
 
 ## Input
 
-`uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, the level and the
+`uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, the level, and the
 skills. Scenarios come from the accountabilities the summary lists, so that the
 material is about the job rather than about puzzles.
 

@@ -1,13 +1,13 @@
 # Upskilling resources — specification
 
 Refines [`spec/index.md`](../../spec/index.md), which governs the taxonomy, the
-role index, slugs, style and licensing. This file covers only what is specific
+role index, slugs, style, and licensing. This file covers only what is specific
 to upskilling resources.
 
 ## Purpose
 
 For every role level, a starting set of places to learn the job: courses, blog
-posts, research, videos and books. Good starting points, not a catalogue.
+posts, research, videos, and books. Good starting points, not a catalogue.
 
 ## Input
 

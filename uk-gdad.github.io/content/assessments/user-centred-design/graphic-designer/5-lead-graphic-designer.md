@@ -6,7 +6,7 @@ Welcome. This guide is written for you as a lead graphic designer in the UK Gove
 
 You may be facing a formal assessment as part of a selection process, or you may want to re-examine reasoning that has become fluent enough to be worth checking. At your level the risk is not that you lack technique but that technique has become automatic, automatic reasoning feels certain, and few people around you are positioned to catch you.
 
-Three features of the role shape everything that follows. First, you assure work you did not produce, on services you have not seen, judged from an output rather than from the thinking behind it. Second, you work at the level of shared assets: tokens, type scales, component styles, grids and standards. A decision at that level is paid for many times over, and its accessibility characteristics propagate to every place it is used — which is why the arithmetic of a colour value matters more when it enters a token set than when it appears on a page. Third, your authority is largely informal, and in a visual discipline that is a particular difficulty: everybody has opinions about colour and type in a way they do not about database schemas, which means your influence rests almost entirely on evidence and measurement rather than on craft authority.
+Three features of the role shape everything that follows. First, you assure work you did not produce, on services you have not seen, judged from an output rather than from the thinking behind it. Second, you work at the level of shared assets: tokens, type scales, component styles, grids, and standards. A decision at that level is paid for many times over, and its accessibility characteristics propagate to every place it is used — which is why the arithmetic of a colour value matters more when it enters a token set than when it appears on a page. Third, your authority is largely informal, and in a visual discipline that is a particular difficulty: everybody has opinions about colour and type in a way they do not about database schemas, which means your influence rests almost entirely on evidence and measurement rather than on craft authority.
 
 The document has four main sections: a cognitive assessment, a numeric reasoning assessment, a verbal reasoning assessment, and a situational judgement assessment. Each provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
 
@@ -24,7 +24,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At lead level the materials are organisational and the reasoning is diagnostic. You will meet work produced by other people, standards applied unevenly, evidence gathered under conditions nobody recorded, and prioritisation problems whose units are shared assets rather than screens.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority. Adaptive platforms raise difficulty after correct answers, and acuity reports distinguish speed from accuracy.
 
 Three things characterise this section at your level.
 
@@ -49,7 +49,7 @@ The cognitive dimensions map onto the skills named in your role summary:
 
 **Question 1 (easy) — Auditing against a standard**
 
-Your standard requires every component entry to state: the problem it solves, when not to use it, its contrast values, its minimum target size, known limitations, and the date last reviewed. An entry states the problem, contrast values, minimum target size and date; describes limitations as "none known"; and has no "when not to use". How many requirements are unmet?
+Your standard requires every component entry to state: the problem it solves, when not to use it, its contrast values, its minimum target size, known limitations, and the date last reviewed. An entry states the problem, contrast values, minimum target size, and date; describes limitations as "none known"; and has no "when not to use". How many requirements are unmet?
 
 - A) 1
 - B) 2
@@ -240,7 +240,7 @@ A numeric reasoning assessment measures how accurately you handle quantitative m
 
 The professional stake is unusually high for your discipline, and worth naming. Visual decisions are the ones colleagues feel most entitled to have opinions about, which leaves design leadership perpetually at risk of being treated as taste. A measured value is the only thing that reliably converts a matter of preference into a matter of fact, and a lead who can say "that token measures 4.4:1, and it is used on eleven pages" is exercising authority that a lead who says "that grey is too light" is not.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is tractable.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided and the arithmetic is tractable.
 
 Four habits carry the load. Establish what the question asks before looking at the data. Identify the denominator and the population it represents. Estimate, calculate, compare. And sanity-check against the world.
 
@@ -300,7 +300,7 @@ A 16-column grid spans 1,440 pixels with 24-pixel gutters between columns and no
 
 **Question 4 (easy) — Centre and spread**
 
-Time to locate a control, in seconds, across eleven participants: 3, 4, 4, 5, 6, 7, 8, 9, 11, 14 and 96. Which summary is most defensible?
+Time to locate a control, in seconds, across eleven participants: 3, 4, 4, 5, 6, 7, 8, 9, 11, 14, and 96. Which summary is most defensible?
 
 - A) Mean 15.2 seconds
 - B) Median 7 seconds, range 3 to 96, with the 96-second case described separately
@@ -309,7 +309,7 @@ Time to locate a control, in seconds, across eleven participants: 3, 4, 4, 5, 6,
 
 **Correct answer: B**
 
-**Explanation:** The values sum to 167, and 167 ÷ 11 = 15.2, so the mean is correct and exceeds ten of the eleven observations. The median is the sixth value, 7 seconds, which describes the group well. But the median alone conceals a session lasting more than thirteen times the typical duration, which is the most informative observation — something about the design defeated that person completely, and in a visual discipline that usually means a contrast, size or hierarchy failure the other ten worked around without noticing. Option B supplies centre, spread and explicit treatment of the outlier. Option D pairs the range with a misleading centre. The rule to write into your reporting conventions: a central figure never travels alone.
+**Explanation:** The values sum to 167, and 167 ÷ 11 = 15.2, so the mean is correct and exceeds ten of the eleven observations. The median is the sixth value, 7 seconds, which describes the group well. But the median alone conceals a session lasting more than thirteen times the typical duration, which is the most informative observation — something about the design defeated that person completely, and in a visual discipline that usually means a contrast, size or hierarchy failure the other ten worked around without noticing. Option B supplies centre, spread, and explicit treatment of the outlier. Option D pairs the range with a misleading centre. The rule to write into your reporting conventions: a central figure never travels alone.
 
 **Question 5 (moderate) — Weighted aggregation**
 
@@ -441,9 +441,9 @@ After a type size increase across a service, time on page rose 18% and completio
 
 ### About this assessment
 
-A verbal reasoning assessment measures how accurately you read. At your level the documents that matter are governance frameworks, organisational standards, accessibility regulations, audit reports, brand guidelines and contracts. A misread exception clause becomes a compliance failure across several teams; a misread audit finding becomes advice given confidently to a director.
+A verbal reasoning assessment measures how accurately you read. At your level the documents that matter are governance frameworks, organisational standards, accessibility regulations, audit reports, brand guidelines, and contracts. A misread exception clause becomes a compliance failure across several teams; a misread audit finding becomes advice given confidently to a director.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and the part specific to your level is this: expertise actively costs marks. The more accessibility criteria you have applied, the more readily you supply the clause you expect. Candidates at your level underperform on verbal reasoning at rates that surprise them, and this is nearly always the mechanism. The counter-habit must be mechanical: before marking anything True, put your finger on the words.
 
@@ -468,25 +468,25 @@ The verbal skills tested map onto your named skills:
 
 "Text smaller than 24 pixels must have a contrast ratio of at least 4.5:1 against its background. Text 24 pixels or larger, or 19 pixels or larger and bold, must have a contrast ratio of at least 3:1. Non-text elements that convey information, including icons and the boundaries of form fields, must have a contrast ratio of at least 3:1. Logotypes are exempt, as is text that is part of an inactive user interface component."
 
-**Question 1 (easy)** — Statement: "All text must have a contrast ratio of at least 4.5:1." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "All text must have a contrast ratio of at least 4.5:1." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage sets 3:1 for large and bold text and exempts logotypes and text in inactive components. The statement's "all" contradicts all three, so False. This is the most common real misquotation in the field — "everything needs 4.5:1" is the version most people carry — and at your level correcting it matters in both directions, because a team applying it to a large heading produces a needlessly dark palette and an avoidable argument with communications, which then makes the necessary arguments harder.
 
-**Question 2 (easy)** — Statement: "Bold text at 20 pixels needs 4.5:1." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "Bold text at 20 pixels needs 4.5:1." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The second sentence sets 3:1 for text "24 pixels or larger, **or** 19 pixels or larger and bold". Bold text at 20 pixels satisfies the second route, so the threshold is 3:1 and the statement is contradicted. False. This is the "or" trap and the most consequential misreading in applying contrast criteria. Read as "and", the clause would require text to be both 24 pixels and bold, which would make it nearly useless. Read as written, it recognises that size and weight each aid legibility, and either qualifies.
 
-**Question 3 (moderate)** — Statement: "The boundary of a disabled form field must meet 3:1." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "The boundary of a disabled form field must meet 3:1." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** Two provisions bear on this and reading them together settles it. Non-text elements that convey information, expressly including the boundaries of form fields, must meet 3:1. The final sentence exempts *text* that is part of an inactive user interface component — and a field boundary is not text. So the exemption does not reach it, the 3:1 requirement stands, and the statement follows. True. The item rewards noticing exactly what an exemption is drafted for: this one covers the label of a disabled control, not the control's visible boundary, and a reader who generalises "inactive components are exempt" from the presence of the word "inactive" will answer False. In practice the distinction is consequential, because a disabled field whose boundary disappears is a field users cannot see at all, which is a different problem from a label they do not need to read.
 
-**Question 4 (harder)** — Statement: "A decorative icon must meet 3:1." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A decorative icon must meet 3:1." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -496,25 +496,25 @@ The verbal skills tested map onto your named skills:
 
 "The audit of design practice found considerable variation between teams. Four teams run a contrast check before handover; the remainder check at review. Teams checking before handover reported fewer defects reaching live, although the audit did not examine whether their designs were more accessible overall. The audit recommends that the head of graphic design consider whether a common check point would be proportionate."
 
-**Question 5 (easy)** — Statement: "Some teams do not run a contrast check before handover." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Some teams do not run a contrast check before handover." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The passage states that four teams check before handover and the remainder check at review, establishing directly that some do not check before handover. True. Answer quickly. The only conceivable ambiguity — whether "the remainder" might be empty — is closed by the passage describing what the remainder does.
 
-**Question 6 (moderate)** — Statement: "Checking before handover produces more accessible designs." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Checking before handover produces more accessible designs." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports fewer defects reaching live and then states explicitly that overall accessibility was not examined. Those are different things, and the gap is instructive: an earlier check might produce better designs, or might catch the same defects sooner — which produces the same statistic and is a genuine benefit — or those teams might differ in other ways entirely. The passage flags its own silence, so Cannot Say. This is the specific trap for someone in your position, because "checking earlier improves accessibility" is a claim you would like to be true and would probably cite when proposing a common check point. Citing it and being asked for the evidence is how a good proposal loses.
 
-**Question 7 (moderate)** — Statement: "The audit recommends introducing a common check point." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The audit recommends introducing a common check point." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The audit recommends that the head of graphic design *consider whether* a common check point would be proportionate, which includes concluding it would not be. The statement asserts a recommendation to introduce, which was not made, so False rather than Cannot Say. This pervades audit prose, and at your level you are likely to be advising the person the recommendation is addressed to — so misreading it commits your organisation to something nobody asked for and then reports delivery against it.
 
-**Question 8 (harder)** — Statement: "Checking at review is a weaker practice than checking before handover." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "Checking at review is a weaker practice than checking before handover." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -524,19 +524,19 @@ The verbal skills tested map onto your named skills:
 
 "Interactive elements must have a visible focus indicator with a contrast ratio of at least 3:1 against adjacent colours. Touch targets must be at least 24 by 24 pixels, unless an equivalent target of at least 24 by 24 pixels is available elsewhere on the same screen. Where a component is provided in the design system, services must use it unless an exemption has been agreed with the head of graphic design. Components added to the system must be documented before use."
 
-**Question 9 (easy)** — Statement: "Every touch target must be at least 24 by 24 pixels." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Every touch target must be at least 24 by 24 pixels." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement carries an exception: a smaller target is permitted where an equivalent target of at least 24 by 24 pixels is available elsewhere on the same screen. The statement's "every" drops that, so False. The exception exists for a practical reason: an inline link inside a paragraph cannot always be enlarged without breaking the text, and the requirement accepts that provided the same action is reachable from a properly sized control nearby. Knowing the exception is what stops your teams fighting an argument they should not be having.
 
-**Question 10 (moderate)** — Statement: "A service using a custom component has breached the requirements." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A service using a custom component has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The third sentence requires services to use the system component *unless an exemption has been agreed with the head of graphic design*. Whether an exemption was agreed is not stated, so the case is undetermined. Cannot Say. This is the rule-plus-exception structure appearing in reading form, and it rewards the same discipline as its logical counterpart — resisting the conclusion that feels obvious from the general rule when the facts are silent on the exception. At your level it has an additional edge: you are likely to be the person who would have granted the exemption, so the question of whether you did is one you can settle rather than infer, which is worth remembering before an accusation you have to withdraw.
 
-**Question 11 (harder)** — Statement: "An undocumented component in the system has breached the requirements." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "An undocumented component in the system has breached the requirements." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 

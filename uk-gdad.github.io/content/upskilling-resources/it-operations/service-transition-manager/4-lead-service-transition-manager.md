@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, interface management, integration, verification, validation and commissioning. The closest academic match to this role.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, interface management, integration, verification, validation, and commissioning. The closest academic match to this role.
 
 - [15.665 Power and Negotiation](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/syllabus/): Negotiation with power treated explicitly, which is honest for co-ordination without formal authority.
 
@@ -90,7 +90,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A Reassessment of Risk Management in Software Projects](https://link.springer.com/content/pdf/10.1007/978-3-319-05915-0_20.pdf): What empirical research shows about risk management and performance, including adoption barriers.
 
-- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for managing suppliers, which is a large part of your co-ordination.
+- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure, and process for managing suppliers, which is a large part of your co-ordination.
 
 - [Relational dynamics in information technology outsourcing: An integrative review](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijmr.12347): 127 empirical studies on what makes supplier relationships work.
 
@@ -122,7 +122,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [PagerDuty Guide: On-Call and Incident Management Best Practices](https://www.youtube.com/watch?v=McBrUhz9Ia4): What the receiving teams need to be able to do from day one.
 
-- [Engaging Stakeholders: Strategies for Success](https://www.youtube.com/watch?v=LRRJNlZVkKg): Engagement strategy across projects, suppliers and service teams.
+- [Engaging Stakeholders: Strategies for Success](https://www.youtube.com/watch?v=LRRJNlZVkKg): Engagement strategy across projects, suppliers, and service teams.
 
 ## Books on Amazon
 
@@ -130,11 +130,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. A concrete standard for what should be allowed into operation.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Operational readiness review and handover, which is essentially your remit.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Operational readiness review and handover, which is essentially your remit.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Interaction modes between teams, which is the best available vocabulary for transition co-ordination.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence on practices and outcomes, which should shape how much process you add.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence on practices and outcomes, which should shape how much process you add.
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0): By Humble and Farley. The pipeline and governance model you can require.
 

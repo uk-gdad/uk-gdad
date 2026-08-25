@@ -40,7 +40,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Courses for Digital Transformation Strategy](https://www.skillsoft.com/channel/digital-transformation-strategy-1ac90cd0-dc1f-11e7-9fe8-1b7f5fcc733d): The leadership capability needed to move an estate rather than a service.
 
-- [Courses for AI for Tech Leaders](https://www.skillsoft.com/journey/ai-for-tech-leaders-ed4c3a60-9772-402d-b447-fae60267094a): Readiness assessment, implementation challenges and success metrics for AI adoption. Relevant to understanding the direction of future technologies honestly rather than fashionably.
+- [Courses for AI for Tech Leaders](https://www.skillsoft.com/journey/ai-for-tech-leaders-ed4c3a60-9772-402d-b447-fae60267094a): Readiness assessment, implementation challenges, and success metrics for AI adoption. Relevant to understanding the direction of future technologies honestly rather than fashionably.
 
 ## edX courses
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, system architecture, trade-space exploration, interface management, verification, validation and commissioning. A good frame for future-technology decisions.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, system architecture, trade-space exploration, interface management, verification, validation, and commissioning. A good frame for future-technology decisions.
 
 - [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Distributed systems abstractions and techniques, which is where expert technical understanding has to reach.
 
@@ -62,15 +62,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Embracing Risk, Google SRE Book chapter 3](https://sre.google/sre-book/embracing-risk/): Error budgets, and the case that reliability targets are a business decision rather than an engineering preference.
 
-- [Google SRE Book, table of contents](https://sre.google/sre-book/table-of-contents/): The full set of essays, including release engineering, capacity planning and managing operational load. Worth reading whole at this level.
+- [Google SRE Book, table of contents](https://sre.google/sre-book/table-of-contents/): The full set of essays, including release engineering, capacity planning, and managing operational load. Worth reading whole at this level.
 
 - [Operate a reliable service, GOV.UK Service Standard point 14](https://www.gov.uk/service-manual/service-standard/point-14-operate-a-reliable-service): The standard your estate is assessed against, including proportionality of response to impact.
 
 - [GOV.UK Service Standard](https://www.gov.uk/service-manual/service-standard): The full standard, which is the governing frame for any strategy you own in UK government.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
-- [The Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook): An openly published handbook covering roles, severity, communication and review.
+- [The Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook): An openly published handbook covering roles, severity, communication, and review.
 
 - [IT Asset Management Best Practices, Atlassian](https://www.atlassian.com/itsm/it-asset-management/best-practices): Asset and configuration management at the point where compliance and risk become the driver.
 
@@ -126,17 +126,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team structure, cognitive load and flow. The most directly useful book for resourcing decisions at this level.
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team structure, cognitive load, and flow. The most directly useful book for resourcing decisions at this level.
 
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V): By Will Larson. Systems thinking applied to organisations, including sizing teams and managing growth.
 
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731): By Tanya Reilly. Strategic thinking and setting standards for technical work without line management authority.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Research-grounded evidence for the practices you are asking an organisation to fund.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Research-grounded evidence for the practices you are asking an organisation to fund.
 
-- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operations at scale, with case studies from organisations that had to solve it.
+- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operations at scale, with case studies from organisations that had to solve it.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Introducing SRE into an organisation that has existing operations commitments.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Introducing SRE into an organisation that has existing operations commitments.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns, updated for virtualised systems and chaos engineering.
 

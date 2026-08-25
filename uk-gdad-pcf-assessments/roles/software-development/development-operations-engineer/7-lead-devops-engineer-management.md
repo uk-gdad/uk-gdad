@@ -275,7 +275,7 @@ One of your services has a 99.95% availability target over a 30-day month. To th
 
 **Question 2 (easy) — Portfolio change failure rate**
 
-Last quarter your three teams deployed 120, 200 and 80 times, with change failure rates of 5%, 4% and 10% respectively. How many failed changes occurred across the portfolio?
+Last quarter your three teams deployed 120, 200 and 80 times, with change failure rates of 5%, 4%, and 10% respectively. How many failed changes occurred across the portfolio?
 
 - A) 19
 - B) 22
@@ -597,7 +597,7 @@ You are reviewing a senior engineer's draft announcement of a new standard to al
 
 **Correct answer: B**
 
-**Explanation:** A standards announcement succeeds when every team can answer four questions from it: what exactly is required, from when, what happens to existing work, and what to do if it does not fit. B answers all four with dates, scope ("all new services"), a migration deadline, an exemption route and a support channel. A is process-proud and content-free: "should, where practicable, be harmonised" mandates nothing and will be read five different ways by five teams — the opposite of leading others in applying standards. C is tone without substance. D converts a standard into a suggestion and embeds its own escape clause, guaranteeing patchy adoption and an unfair playing field between compliant and non-compliant teams. Note that B's virtue is not brevity for its own sake but decidability: every sentence lets a reader make a decision. When you coach senior engineers on communication — part of your technical leadership duty — "could a team lead act on each sentence without asking you anything?" is the review question that improves drafts fastest.
+**Explanation:** A standards announcement succeeds when every team can answer four questions from it: what exactly is required, from when, what happens to existing work, and what to do if it does not fit. B answers all four with dates, scope ("all new services"), a migration deadline, an exemption route, and a support channel. A is process-proud and content-free: "should, where practicable, be harmonised" mandates nothing and will be read five different ways by five teams — the opposite of leading others in applying standards. C is tone without substance. D converts a standard into a suggestion and embeds its own escape clause, guaranteeing patchy adoption and an unfair playing field between compliant and non-compliant teams. Note that B's virtue is not brevity for its own sake but decidability: every sentence lets a reader make a decision. When you coach senior engineers on communication — part of your technical leadership duty — "could a team lead act on each sentence without asking you anything?" is the review question that improves drafts fastest.
 
 **Question 11 (challenging) — Comprehension of contractual language**
 
@@ -793,7 +793,7 @@ The departmental design authority rules that all product lines, including yours,
 
 **Question 10 (challenging) — Building an inclusive senior pipeline**
 
-You have an open senior engineer position. Your two internal candidates: engineer M, confident and vocal, who has asked for the role repeatedly and matches the "obvious" profile; and engineer J, quieter, from a group under-represented in your senior cohort, whose delivery record is at least as strong but who has not put themselves forward and, when sounded out, said "I'm probably not ready". Your senior cohort currently all share similar backgrounds. What is the most effective response?
+You have an open senior engineer position. Your two internal candidates: engineer M, confident, and vocal, who has asked for the role repeatedly and matches the "obvious" profile; and engineer J, quieter, from a group under-represented in your senior cohort, whose delivery record is at least as strong but who has not put themselves forward and, when sounded out, said "I'm probably not ready". Your senior cohort currently all share similar backgrounds. What is the most effective response?
 
 - A) Appoint M — they want it, they fit the profile, and J has self-selected out.
 - B) Appoint J — the cohort needs diversity and their record justifies it.

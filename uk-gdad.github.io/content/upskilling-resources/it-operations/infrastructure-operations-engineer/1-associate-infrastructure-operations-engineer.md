@@ -46,15 +46,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Introduction to Cloud Infrastructure Technologies (LinuxFoundationX)](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies): Maps out the whole cloud landscape and how the tools fit together. An unusually good orientation course.
 
-- [Introduction to Kubernetes (LinuxFoundationX)](https://www.edx.org/course/introduction-to-kubernetes): Kubernetes concepts, architecture and deployment model, with practical exercises.
+- [Introduction to Kubernetes (LinuxFoundationX)](https://www.edx.org/course/introduction-to-kubernetes): Kubernetes concepts, architecture, and deployment model, with practical exercises.
 
 - [DevOps, Cloud, and Agile Foundations Professional Certificate (IBM)](https://www.edx.org/professional-certificate/ibm-devops-cloud-and-agile-foundations/): Cloud characteristics, models and infrastructure, plus agile and DevOps foundations.
 
 ## MIT OpenCourseWare courses
 
-- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, operating systems, performance, networks and fault tolerance. The best single grounding for infrastructure operations.
+- [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Modularity, operating systems, performance, networks, and fault tolerance. The best single grounding for infrastructure operations.
 
-- [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Hardware, operating systems, databases and security for people with little technical background.
+- [15.561 Information Technology Essentials](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/): Hardware, operating systems, databases, and security for people with little technical background.
 
 - [RES.6-004 Principles of Computer System Design: An Introduction](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/): A free text on system design principles, with substantial treatment of faults.
 
@@ -62,7 +62,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Monitoring Distributed Systems, Google SRE Book chapter 6](https://sre.google/sre-book/monitoring-distributed-systems/): The four golden signals and clear rules on what should page a human.
 
-- [What are the Four Golden Signals and Why Do They Matter?](https://www.groundcover.com/blog/4-golden-signals): A shorter treatment of latency, traffic, errors and saturation.
+- [What are the Four Golden Signals and Why Do They Matter?](https://www.groundcover.com/blog/4-golden-signals): A shorter treatment of latency, traffic, errors, and saturation.
 
 - [Being On-Call, PagerDuty](https://response.pagerduty.com/oncall/being_oncall/): What on-call actually requires, worth reading before your first rotation.
 
@@ -78,7 +78,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Operate a reliable service, GOV.UK Service Standard point 14](https://www.gov.uk/service-manual/service-standard/point-14-operate-a-reliable-service): The reliability standard the infrastructure you support has to meet.
 
-- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation and communication.
+- [Incident Response, Google SRE Workbook](https://sre.google/workbook/incident-response/): The practical chapter on running incident response, including command structure, role separation, and communication.
 
 ## Research articles
 
@@ -88,7 +88,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Site Reliability Engineering (SRE) and Observations on SRE Process to Make Tasks Easier](https://arxiv.org/html/2505.01926v1): Practitioner observations on the process and its friction points.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces and logs.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, and logs.
 
 - [Improving the Software Problem Management Process: A Case Study](https://link.springer.com/chapter/10.1007/11908562_5): The real difficulties in a problem management process, from a case study.
 
@@ -126,13 +126,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The standing reference for enterprise infrastructure operations. Buy this first.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The standing reference for enterprise infrastructure operations. Buy this first.
 
 - [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): The companion volume for distributed and cloud services.
 
 - [Site Reliability Engineering Tidbits: Learn SRE Principles and Techniques](https://www.amazon.com/Site-Reliability-Engineering-Tidbits-Observability-ebook/dp/B09QZHZYPC): By Daniel Mican. Short pieces on monitoring, SLOs, resilience and debugging, digestible alongside a full-time job.
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. What good observability is, as opposed to having dashboards.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. What good observability is, as opposed to having dashboards.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. Grounding in the ITIL incident management practice.
 
@@ -144,13 +144,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Failure patterns learned from real production, which helps you recognise what you are looking at.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Readable context for how operations work connects to everything else.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Readable context for how operations work connects to everything else.
 
 ## Professional development tips
 
 - Learn what each monitoring dashboard actually measures, because watching a metric you cannot explain is not monitoring
 - Register incidents with enough context that the responder does not need to come back to you
-- Distinguish strategic, tactical and operational problems out loud, since the level determines who should own it
+- Distinguish strategic, tactical, and operational problems out loud, since the level determines who should own it
 - Get comfortable in a terminal, because most infrastructure diagnosis happens there
 - Learn one scripting language well enough to automate your own repeated checks
 - Escalate early and clearly, since passing a problem on well is a real skill at this level

@@ -374,7 +374,7 @@ incentives? What did you concede?
 ### Skill: Modern development standards
 
 **What this means.** The practices that keep code understandable, testable and
-safe to change, defined and assured across an organisation.
+safe to change, defined, and assured across an organisation.
 
 **What the framework expects at this level.** That you identify and apply modern
 development standards to support complex projects and programmes, and lead
@@ -625,7 +625,7 @@ laboratory measurements and know where they disagree. Other people diagnose
 performance because you taught them how.
 
 **Different from lead frontend developer**, where the skill is identifying and
-resolving issues yourself rather than advocating, coaching and monitoring.
+resolving issues yourself rather than advocating, coaching, and monitoring.
 
 **Rate yourself.**
 
@@ -705,7 +705,7 @@ apply.
 - [ ] The public sector equality duty, under the Equality Act 2010
 - [ ] Records management and the Freedom of Information Act 2000
 - [ ] The Civil Service Code, or your organisation's code of conduct
-- [ ] Procurement, contract and licensing obligations
+- [ ] Procurement, contract, and licensing obligations
 - [ ] Employment and people policies relevant to recruiting and managing others
 - [ ] None of these
 - [ ] Not sure

@@ -370,7 +370,7 @@ Your build pipeline runs 1,400 builds a month at a mean 14 minutes. A proposed c
 
 **Question 8 (harder) — Compound pipeline pass rate**
 
-A pipeline has four stages with failure rates of 3%, 8%, 12% and 2%. What proportion of runs complete successfully?
+A pipeline has four stages with failure rates of 3%, 8%, 12%, and 2%. What proportion of runs complete successfully?
 
 - A) About 75%
 - B) About 78%

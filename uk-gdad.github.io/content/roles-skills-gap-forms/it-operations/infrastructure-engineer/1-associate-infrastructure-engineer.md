@@ -230,7 +230,7 @@ standards.**
 infrastructure defined as code, small frequent changes rather than big rare ones.
 
 **Why this is in an infrastructure role.** Infrastructure used to be built by hand. Now it is increasingly
-written as code, versioned and tested like software. That shift is why this skill is here from your first
+written as code, versioned, and tested like software. That shift is why this skill is here from your first
 day.
 
 **The next step.** At infrastructure engineer you explain the most important principles and apply them under
@@ -450,7 +450,7 @@ be filled.
 - [ ] Keeping credentials and access secure
 - [ ] What to do if you think data has been lost or exposed
 - [ ] Health and safety, if you work in a data centre or handle physical kit
-- [ ] Equality, diversity and inclusion
+- [ ] Equality, diversity, and inclusion
 - [ ] None of these
 - [ ] Not sure
 
@@ -537,7 +537,7 @@ Pull it together. This is the part most likely to be acted on.
 
 *Your answer:*
 
-**Q47.** The level above adds scripting, service focus and testing. Would you like to start on any of those
+**Q47.** The level above adds scripting, service focus, and testing. Would you like to start on any of those
 now?
 
 *Your answer:*

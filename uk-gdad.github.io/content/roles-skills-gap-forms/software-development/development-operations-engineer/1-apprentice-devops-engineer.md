@@ -624,7 +624,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
-  — courses, blog posts, videos and books for an apprentice DevOps engineer.
+  — courses, blog posts, videos, and books for an apprentice DevOps engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)

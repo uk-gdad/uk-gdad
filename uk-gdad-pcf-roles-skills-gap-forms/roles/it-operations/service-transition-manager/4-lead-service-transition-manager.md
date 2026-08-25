@@ -13,7 +13,7 @@ nowhere else in this role:
 > At this level, you will be **solely responsible** for the co-ordination activities across projects,
 > suppliers and service teams.
 
-*Solely* is doing a lot of work in that sentence. Sole responsibility across projects, suppliers and service
+*Solely* is doing a lot of work in that sentence. Sole responsibility across projects, suppliers, and service
 teams — three groups, none of which report to you — is a demanding position, and one where the authority
 rarely matches the accountability.
 
@@ -134,7 +134,7 @@ divide, and how does that compare with how you think it should?
 
 *Your answer:*
 
-**Q2.** "Solely responsible" for co-ordination across projects, suppliers and service teams. Does the
+**Q2.** "Solely responsible" for co-ordination across projects, suppliers, and service teams. Does the
 authority match that? Say plainly.
 
 *Your answer:*
@@ -676,6 +676,6 @@ These three pages cover the same role level and pick up where this one stops:
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/it-operations/service-transition-manager/4-lead-service-transition-manager.md)
   — practice material for job-specific assessment at this level.
 
-Thank you for filling this in. "Solely responsible" for co-ordination across projects, suppliers and service
+Thank you for filling this in. "Solely responsible" for co-ordination across projects, suppliers, and service
 teams is the strongest phrase in this role, and none of those three groups reports to you — so whether the
 authority matches the accountability is the question most worth putting in front of your manager.

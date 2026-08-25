@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [MD-102 Endpoint Administrator (Packt)](https://www.coursera.org/specializations/packt-md-102-endpoint-administrator): Device enrolment across platforms, security baselines, update automation, compliance monitoring and analytics for troubleshooting at fleet scale.
+- [MD-102 Endpoint Administrator (Packt)](https://www.coursera.org/specializations/packt-md-102-endpoint-administrator): Device enrolment across platforms, security baselines, update automation, compliance monitoring, and analytics for troubleshooting at fleet scale.
 
 - [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Incident, problem, change and configuration management at the level where you co-ordinate rather than execute.
 
@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Mastering ITIL Problem Management and Optimization in ITSM](https://www.udemy.com/course/mastering-problem-management-and-optimization-in-itsm/): Identifying and resolving root causes of recurring incidents, which is what escalating repeat issues should lead to.
 
-- [Microsoft Certified Endpoint Administrator (MD-102)](https://www.udemy.com/course/microsoft-certified-endpoint-administrator-md-102/): Deploying, securing, managing and monitoring devices with Intune, Entra ID, Autopilot and Defender.
+- [Microsoft Certified Endpoint Administrator (MD-102)](https://www.udemy.com/course/microsoft-certified-endpoint-administrator-md-102/): Deploying, securing, managing and monitoring devices with Intune, Entra ID, Autopilot, and Defender.
 
 ## Skillsoft courses
 
@@ -44,7 +44,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## edX courses
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, pipelines and observability, which is the estate behind your fleet.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, pipelines, and observability, which is the estate behind your fleet.
 
 - [Reliable Google Cloud Infrastructure: Design and Process (GoogleCloud)](https://www.edx.org/learn/computer-programming/google-cloud-reliable-google-cloud-infrastructure-design-and-process): Design and process for reliable infrastructure, useful for the conversations with infrastructure colleagues.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Networks, performance, fault tolerance and recovery, which is the basis for judging where a fault really lives.
 
-- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Capacity analysis, cycle time and queueing, which is the theory behind prioritising a work queue well.
+- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Capacity analysis, cycle time, and queueing, which is the theory behind prioritising a work queue well.
 
 - [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Value stream mapping and root cause analysis, directly usable on your own team's process.
 
@@ -64,7 +64,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Best Practice for DEX: People, Process and Tech, In That Order, HappySignals](https://www.happysignals.com/blog/best-practice-for-dex): A useful corrective when the proposed answer to a support problem is another tool.
 
-- [End User Experience Monitoring: Essential New Practices, baramundi](https://www.baramundi.com/en-us/blog/article/end-user-experience-monitoring): Proactive servicing, user surveys and using experience monitoring properly.
+- [End User Experience Monitoring: Essential New Practices, baramundi](https://www.baramundi.com/en-us/blog/article/end-user-experience-monitoring): Proactive servicing, user surveys, and using experience monitoring properly.
 
 - [The Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook): Roles, severity, communication and review, useful for standardising how your team runs incidents.
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Sources of Customer Satisfaction and Dissatisfaction with Information Technology Help Desks](https://link.springer.com/article/10.1023/A:1009794622860): What genuinely drives satisfaction, which should shape what you prioritise and report.
 
-- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Solution quality, consultation experience and tangibles as the real dimensions.
+- [Evaluation of User Support: Factors That Affect User Satisfaction With Helpdesks and Helplines](https://www.academia.edu/17926413/Evaluation_of_User_Support_Factors_That_Affect_User_Satisfaction_With_Helpdesks_and_Helplines): Solution quality, consultation experience, and tangibles as the real dimensions.
 
 - [Management of perceptions of information technology service quality](https://www.sciencedirect.com/science/article/abs/pii/S0148296308002270): How perception of service quality is formed and managed, which matters as much as the metrics.
 
@@ -96,7 +96,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): The challenges and enablers of root cause analysis, including data quality and bias.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces and logs.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, and logs.
 
 - [Implementation and impacts of IT Service Management in the IT function](https://www.sciencedirect.com/science/article/abs/pii/S0268401223000099): A systematic review of empirical ITSM research from 2012 to 2021.
 
@@ -106,7 +106,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Intune Tutorial 38: Autopilot Troubleshooting Tips in Intune](https://www.youtube.com/watch?v=QrM3Yrn8AdQ): Diagnosing provisioning failures, which is where fleet-scale problems surface first.
 
-- [Intune Debug Toolkit](https://www.youtube.com/watch?v=LCwoz0z-URw): Diagnosing errors, deployment failures and device management issues systematically.
+- [Intune Debug Toolkit](https://www.youtube.com/watch?v=LCwoz0z-URw): Diagnosing errors, deployment failures, and device management issues systematically.
 
 - [Microsoft Intune and Autopilot Setup Guide](https://www.youtube.com/playlist?list=PLY27VNfjvp0U5DOYtdNmAZBZ8AOzdJlDy): Provisioning, app deployment and compliance policy as a connected set.
 
@@ -126,11 +126,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The enterprise operations reference, particularly good on fleet management and team practice.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The enterprise operations reference, particularly good on fleet management and team practice.
 
 - [Mastering System Center Configuration Manager](https://www.amazon.com/Mastering-System-Center-Configuration-Manager/dp/1119258456): Deployment, security, monitoring and troubleshooting at fleet scale.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command system, which is a strong model for co-ordinating a busy queue.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command system, which is a strong model for co-ordinating a busy queue.
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2): By Cole Nussbaumer Knaflic. Directly applicable to producing reports people act on.
 
@@ -138,13 +138,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897): By Camille Fournier. The transition into managing a team while staying technical.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Toil reduction and operational load, both directly relevant to a support team.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Toil reduction and operational load, both directly relevant to a support team.
 
 - [Implementing ITIL Change and Release Management](https://www.amazon.com/Implementing-ITIL-Change-Release-Management/dp/0138150419): By Larry Klosterboer. The change processes you document and action.
 
 - [A Guide to Computer User Support for Help Desk and Support Specialists](https://www.amazon.com/Guide-Computer-User-Support-Specialists/dp/1285852680): The support discipline as a whole, useful for shaping team standards.
 
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr and Spafford. Work in progress and constraints, which is what your prioritisation problem actually is.
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B0DPNL8863): By Kim, Behr, and Spafford. Work in progress and constraints, which is what your prioritisation problem actually is.
 
 ## Professional development tips
 
@@ -152,6 +152,6 @@ We welcome constructive feedback to improve this page and these lists.
 - Escalate repeat issues with evidence attached, since a pattern with data gets acted on and a complaint does not
 - Interpret your data set before presenting it, and say what you think it means
 - Agree reporting changes with the people who read the reports, rather than changing format unilaterally
-- Build working relationships with infrastructure, capacity and availability colleagues before an incident forces one
+- Build working relationships with infrastructure, capacity, and availability colleagues before an incident forces one
 - Protect your team's time for knowledge work, because it is the first thing squeezed and the highest leverage
 - Stay hands-on enough to know whether a proposed fix is realistic

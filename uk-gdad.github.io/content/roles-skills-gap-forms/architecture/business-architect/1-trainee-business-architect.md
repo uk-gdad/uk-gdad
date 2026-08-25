@@ -631,7 +631,7 @@ These three pages cover the same role level and pick up where this form leaves
 off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/architecture/business-architect/1-trainee-business-architect.md)
-  — courses, blog posts, videos and books for a trainee business architect.
+  — courses, blog posts, videos, and books for a trainee business architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/business-architect/1-trainee-business-architect.md)
   — things to do, skill by skill.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/architecture/business-architect/1-trainee-business-architect.md)

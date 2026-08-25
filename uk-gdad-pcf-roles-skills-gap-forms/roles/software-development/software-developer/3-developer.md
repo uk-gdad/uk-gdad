@@ -364,7 +364,7 @@ like?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** The core craft: reviewing specifications, then designing,
-coding, testing and documenting software of real complexity with the right
+coding, testing, and documenting software of real complexity with the right
 standards and tools.
 
 **What the framework expects at this level.** That you collaborate with others
@@ -796,7 +796,7 @@ to ask for a date.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/3-developer.md)
-  — courses, articles, talks and books pitched at developer.
+  — courses, articles, talks, and books pitched at developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/3-developer.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/software-developer/3-developer.md)

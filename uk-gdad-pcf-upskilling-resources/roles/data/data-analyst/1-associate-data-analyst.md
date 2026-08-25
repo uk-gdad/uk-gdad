@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of associat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you carry out analysis with support, learning to source, clean and interpret data and to present findings clearly. The resources below emphasise SQL, statistical foundations, visualisation and reproducible working.
+At this role level you carry out analysis with support, learning to source, clean and interpret data and to present findings clearly. The resources below emphasise SQL, statistical foundations, visualisation, and reproducible working.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for Analyze Data with SQL](https://www.skillsoft.com/journey/analyze-data-with-sql-001362c7-0428-4dda-958e-36eef936cc1b): Covers using SQL to create databases, pull data and analyse results, with tracks on basics, aggregates, multiple tables, subqueries and intermediate functions, practised on real case studies.
+- [Courses for Analyze Data with SQL](https://www.skillsoft.com/journey/analyze-data-with-sql-001362c7-0428-4dda-958e-36eef936cc1b): Covers using SQL to create databases, pull data, and analyse results, with tracks on basics, aggregates, multiple tables, subqueries and intermediate functions, practised on real case studies.
 
 - [Courses for Data Analytics Specialist](https://www.skillsoft.com/journey/data-analytics-specialist-8bcdfe15-4df7-4ac7-b5b2-e6002d51ddb8): Begins with exploring and visualising data in Excel and progresses through the analytical toolchain.
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis and nonparametric statistics.
+- [15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/): Covers applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis, and nonparametric statistics.
 
 - [14.310x Data Analysis for Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/): Covers harnessing data to answer questions of cultural, social, economic and policy interest, including regression, design of experiments, randomised controlled trials and visualisation, taught in R.
 

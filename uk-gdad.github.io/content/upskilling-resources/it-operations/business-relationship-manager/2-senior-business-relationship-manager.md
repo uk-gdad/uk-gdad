@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [15.665 Power and Negotiation](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/syllabus/): Sloan's treatment of negotiation, with an explicit focus on power as a variable rather than an embarrassment.
 
-- [15.281 Advanced Communication for Leaders](https://ocw.mit.edu/courses/15-281-advanced-communication-for-leaders-spring-2016/): Presenting to a hostile audience, running productive meetings, active listening and contributing to group decisions.
+- [15.281 Advanced Communication for Leaders](https://ocw.mit.edu/courses/15-281-advanced-communication-for-leaders-spring-2016/): Presenting to a hostile audience, running productive meetings, active listening, and contributing to group decisions.
 
 - [15.067 Competitive Decision-Making and Negotiation](https://ocw.mit.edu/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/): Integrative bargaining across multiple parties and multiple issues, which is the shape of most cross-organisation work.
 
@@ -70,7 +70,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Solve a whole problem for users, GOV.UK Service Standard point 2](https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem): The strongest available argument for shared needs and cross-organisational re-use.
 
-- [Use and contribute to open standards, common components and patterns, GOV.UK Service Standard point 13](https://www.gov.uk/service-manual/service-standard/point-13-use-common-standards-components-patterns): The standard behind re-use, central management and commoditisation.
+- [Use and contribute to open standards, common components and patterns, GOV.UK Service Standard point 13](https://www.gov.uk/service-manual/service-standard/point-13-use-common-standards-components-patterns): The standard behind re-use, central management, and commoditisation.
 
 - [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook): How digital and technology work should be commissioned in government, which is where strategic demand meets delivery reality.
 
@@ -96,11 +96,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Strategic Stakeholder Alignment for Organizational Success](https://www.researchgate.net/publication/399827322_Strategic_Stakeholder_Alignment_for_Organizational_Success): Treating stakeholder alignment as a deliberate strategic activity.
 
-- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for managing supplier relationships, which shares most of its mechanics with internal relationship work.
+- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure, and process for managing supplier relationships, which shares most of its mechanics with internal relationship work.
 
 - [Measuring IT Service Management Capability: Scale Development and Empirical Validation](https://www.researchgate.net/publication/299616426_Measuring_IT_Service_Management_Capability_Scale_Development_and_Empirical_Validation): A validated instrument, better than a self-assessed maturity score for demonstrating improvement.
 
-- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges and practices extracted across 47 studies.
+- [An IT Service Management Literature Review: Challenges, Benefits, Opportunities and Implementation Practices](https://www.researchgate.net/publication/349857851_An_IT_Service_Management_Literature_Review_Challenges_Benefits_Opportunities_and_Implementation_Practices): Benefits, challenges, and practices extracted across 47 studies.
 
 ## Videos
 
@@ -110,7 +110,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [4 Pillars of Effective Business Relationship Management](https://www.youtube.com/watch?v=VVGyIO-2d4w): A compact framework for assessing where your own practice is thin.
 
-- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state, risk and change strategy, which is the structure of the investigative work you now lead.
+- [Part 5: Strategy Analysis, BABOK Guide v3.0](https://www.youtube.com/watch?v=TW2qXqUZRjY): Current state, future state, risk, and change strategy, which is the structure of the investigative work you now lead.
 
 - [Business Analyst Training: Requirements Elicitation Techniques, Part 2](https://www.youtube.com/watch?v=fGyMt6tWCPs): The techniques for collecting information when stakeholders disagree with each other.
 
@@ -142,7 +142,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team structure and cognitive load, which explains many relationship failures better than personality does.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Research linking practice to outcomes, and useful evidence in an investment conversation.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Research linking practice to outcomes, and useful evidence in an investment conversation.
 
 - [ITSM for Leaders: A Leader's Guide to Understanding IT Service Management](https://www.amazon.com/ITSM-Leaders-Understanding-Management-Leadership-ebook/dp/B08GB48GPD): By Jeffrey Tefertiller. Service management explained for people who fund and govern it.
 

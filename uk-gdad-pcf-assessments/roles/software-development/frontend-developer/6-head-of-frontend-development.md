@@ -10,7 +10,7 @@ That last cluster is worth pausing on, because it is what makes this role distin
 
 You may be preparing for a formal assessment, or you may want to re-examine judgement that has become fluent. Fluency is the risk at this level: your conclusions are usually right, very few people can check them, and the feedback loops on organisational decisions are long enough that a wrong pattern can persist for years.
 
-The document has four assessment sections — cognitive, numeric reasoning, verbal reasoning and situational judgement — each with an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips and common pitfalls.
+The document has four assessment sections — cognitive, numeric reasoning, verbal reasoning and situational judgement — each with an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
 
 Commit to an answer before reading each explanation, and pay attention where you were quick.
 
@@ -41,7 +41,7 @@ The third is that you are usually reasoning from second-hand information. What r
 - **Standards and assurance reasoning** maps to defining and assuring best practice, and to **Modern development standards**.
 - **Organisational diagnosis** maps to ensuring the right conditions and environment for frontend developers.
 - **Strategy reasoning** maps to **Strategic thinking**, where you lead design and implementation of strategy.
-- **Capability reasoning** maps to internal mobility, career paths and recruitment.
+- **Capability reasoning** maps to internal mobility, career paths, and recruitment.
 - **Accessibility judgement** maps to **Accessibility**, where you advocate and offer design solutions.
 - **Conflict and consensus** map to **Leadership and guidance (frontend developer)** and **Community collaboration**.
 
@@ -453,7 +453,7 @@ You have ten minutes with a departmental board to make the case for accessibilit
 
 ### About this assessment
 
-A workplace job-specific verbal reasoning assessment tests whether you can determine exactly what written material establishes. At head-of-profession level the material is legislation and regulations, accessibility standards, cross-government agreements, assurance frameworks and departmental policy.
+A workplace job-specific verbal reasoning assessment tests whether you can determine exactly what written material establishes. At head-of-profession level the material is legislation and regulations, accessibility standards, cross-government agreements, assurance frameworks, and departmental policy.
 
 The commonest format gives a passage and asks you to mark statements True, False or Cannot Say. True means the passage establishes it, False means it contradicts it, and Cannot Say means neither — regardless of what you know. Deep expertise is the main hazard here, because you will supply from experience what the passage has left unsaid, and you will do it confidently.
 

@@ -439,7 +439,7 @@ These questions ask about awareness, training and support, not about whether you
 - [ ] Recognising social engineering, and how your desk is targeted
 - [ ] Information security, and how information is classified and handled
 - [ ] Call recording, monitoring staff, and the rules that apply to both
-- [ ] Retention of tickets, recordings and knowledge articles
+- [ ] Retention of tickets, recordings, and knowledge articles
 - [ ] Freedom of information, and what service records may be disclosable
 - [ ] Accessibility duties and reasonable adjustments for colleagues
 - [ ] Managing staff exposed to abusive contact

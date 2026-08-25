@@ -385,7 +385,7 @@ looks like, and what has stopped you closing it?
 ### Skill: Programming and build (software engineering)
 
 **What this means.** The core craft: reviewing specifications, then designing,
-coding, testing and documenting software of real complexity with the right
+coding, testing, and documenting software of real complexity with the right
 standards and tools.
 
 **What the framework expects at this level.** That you collaborate with others

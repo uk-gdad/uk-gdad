@@ -32,7 +32,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [The Complete Data Engineering Bootcamp with PySpark](https://www.udemy.com/course/data-engineering-projects-with-pyspark-2025/): Sets up a full stack with Docker, Spark, Airflow and HDFS, writes production-ready PySpark ETL jobs, and schedules them with Airflow DAGs.
 
-- [Data Engineering: Apache Airflow](https://www.udemy.com/course/data-engineering-apache-airflow/): Focuses on orchestrating ETL pipelines in Airflow DAGs, with worked examples using Spark, Elasticsearch and Snowflake.
+- [Data Engineering: Apache Airflow](https://www.udemy.com/course/data-engineering-apache-airflow/): Focuses on orchestrating ETL pipelines in Airflow DAGs, with worked examples using Spark, Elasticsearch, and Snowflake.
 
 ## Skillsoft courses
 
@@ -48,15 +48,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Spark, Hadoop, and Snowflake for Data Engineering](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-spark-hadoop-and-snowflake-for-data-engineering): Teaches building efficient and scalable pipelines across the three platforms and optimising them with Python, PySpark and MLflow.
 
-- [Apache Spark for Data Engineering and Machine Learning (IBM)](https://www.edx.org/learn/apache-spark/ibm-apache-spark-for-data-engineering-and-machine-learning): Covers Spark Structured Streaming, ETL for machine learning pipelines and Spark ML.
+- [Apache Spark for Data Engineering and Machine Learning (IBM)](https://www.edx.org/learn/apache-spark/ibm-apache-spark-for-data-engineering-and-machine-learning): Covers Spark Structured Streaming, ETL for machine learning pipelines, and Spark ML.
 
 ## MIT OpenCourseWare courses
 
-- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Covers the relational model, schema normalisation, query optimisation and transactions. Understanding how a query planner works is what separates fast pipelines from slow ones.
+- [6.830 Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/): Covers the relational model, schema normalisation, query optimisation, and transactions. Understanding how a query planner works is what separates fast pipelines from slow ones.
 
 - [1.264J Database, Internet, and Systems Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/): Covers data modelling, UML, relational databases and SQL alongside integration technologies including web services and service-oriented architectures.
 
-- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers specification, abstraction and testing, which are exactly the disciplines that separate maintainable pipelines from fragile ones.
+- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers specification, abstraction, and testing, which are exactly the disciplines that separate maintainable pipelines from fragile ones.
 
 ## Blog posts
 
@@ -86,7 +86,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Data Pipeline Quality (preprint)](https://arxiv.org/abs/2309.07067): The open-access version of the above, including the full taxonomy and the finding that debugging and maintaining pipelines is the most pressing issue data engineers report.
 
-- [An Overview and Critical Analysis of Recent Advances in Challenges Faced in Building Data Engineering Pipelines for Streaming Media](https://www.researchgate.net/publication/372338809_An_Overview_and_Critical_Analysis_of_Recent_Advances_in_Challenges_Faced_in_Building_Data_Engineering_Pipelines_for_Streaming_Media): Covers quality, consistency, completeness, format adherence, scalability, latency and security in streaming pipelines.
+- [An Overview and Critical Analysis of Recent Advances in Challenges Faced in Building Data Engineering Pipelines for Streaming Media](https://www.researchgate.net/publication/372338809_An_Overview_and_Critical_Analysis_of_Recent_Advances_in_Challenges_Faced_in_Building_Data_Engineering_Pipelines_for_Streaming_Media): Covers quality, consistency, completeness, format adherence, scalability, latency, and security in streaming pipelines.
 
 - [Designing a Data Pipeline Architecture for Intelligent Analysis of Streaming Data](https://link.springer.com/chapter/10.1007/978-3-031-72284-4_22): A worked architecture using Kafka for ingestion, a time-series store and real-time visualisation.
 
@@ -104,7 +104,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Videos
 
-- [Data Engineer Project: An end-to-end Airflow data pipeline with BigQuery, dbt and Soda](https://www.youtube.com/watch?v=DzxtCxi4YaA): A complete project build including orchestration, transformation and data quality checks.
+- [Data Engineer Project: An end-to-end Airflow data pipeline with BigQuery, dbt and Soda](https://www.youtube.com/watch?v=DzxtCxi4YaA): A complete project build including orchestration, transformation, and data quality checks.
 
 - [dbt core and Airflow 101: Building data pipelines demystified](https://www.youtube.com/watch?v=d0wXnimEMUk): From Airflow Summit, covering how the two tools fit together without duplicating responsibilities.
 
@@ -114,7 +114,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Data Engineer's Lunch: Airflow and Spark](https://www.youtube.com/watch?v=V-Ux18que6A): Covers using Airflow to manage Spark jobs, including the failure modes that combination introduces.
 
-- [End-to-End Data Engineering Project with Airflow, dbt and Databricks](https://www.youtube.com/watch?v=ZEE-jNAthB0): A larger project build across an orchestration, transformation and compute stack.
+- [End-to-End Data Engineering Project with Airflow, dbt and Databricks](https://www.youtube.com/watch?v=ZEE-jNAthB0): A larger project build across an orchestration, transformation, and compute stack.
 
 - [Snowflake Data Engineering with dbt and Airflow](https://www.youtube.com/watch?v=vYthwG9PrLI): A guide to building scalable pipelines on a cloud warehouse.
 
@@ -136,7 +136,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Mastering Data Warehouse Design: Relational and Dimensional Techniques](https://www.amazon.com/Mastering-Data-Warehouse-Design-Dimensional/dp/0471324213): Imhoff, Galemmo and Geiger on combining relational and dimensional approaches into a sustainable design.
 
-- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference across data management knowledge areas including integration, metadata and quality.
+- [The DAMA Guide to the Data Management Body of Knowledge](https://www.skillsoft.com/book/the-dama-guide-to-the-data-management-body-of-knowledge-dama-dmbok-guide-first-edition-cc095fa0-f038-11e6-87f4-0242c0a80606): The reference across data management knowledge areas including integration, metadata, and quality.
 
 - [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1098121228): By Jake VanderPlas. Strong coverage of pandas and NumPy, which remain central to much pipeline work.
 

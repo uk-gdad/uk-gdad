@@ -20,7 +20,7 @@ Working with support is what this level is, so saying "I do this with help" is
 the right answer rather than a weak one.
 
 Nothing here is scored, marked or ranked. There are no right answers. Nine skills,
-each with a plain explanation, a rating and a couple of questions. Take about 30
+each with a plain explanation, a rating, and a couple of questions. Take about 30
 minutes, and stop and come back if you want to.
 
 ## Advisory

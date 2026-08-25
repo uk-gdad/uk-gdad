@@ -663,7 +663,7 @@ people who most need one are usually the people nobody asks.
 These three pages cover the same role level and pick up where this one stops:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/data/data-analyst/4-principal-data-analyst.md)
-  — courses, articles, talks and books pitched at principal level.
+  — courses, articles, talks, and books pitched at principal level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/data/data-analyst/4-principal-data-analyst.md)
   — concrete things to do against each of these skills.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/data/data-analyst/4-principal-data-analyst.md)

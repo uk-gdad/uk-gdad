@@ -152,7 +152,7 @@ useful to know.
 *Your answer:*
 
 **Q2.** How much of your week do you spend working alongside someone else —
-pairing, shadowing or watching?
+pairing, shadowing, or watching?
 
 - [ ] Most of it
 - [ ] About half
@@ -168,7 +168,7 @@ pairing, shadowing or watching?
 
 *Your answer:*
 
-**Q5.** Think about your certified training — the college, provider or course
+**Q5.** Think about your certified training — the college, provider, or course
 part of your apprenticeship. What are you covering there at the moment?
 
 *Your answer:*
@@ -384,7 +384,7 @@ fixing, or explaining what you did?
 ### Skill: Prototyping
 
 **What this means.** Building a rough version of something to learn from it —
-on paper, in a slide, in clickable screens or in throwaway code. The point is
+on paper, in a slide, in clickable screens, or in throwaway code. The point is
 the learning, not the artefact. A prototype is meant to be thrown away.
 
 **What the framework expects at this level.** Two things. That you can explain
@@ -711,7 +711,7 @@ work on next? Tick three.
 *Your answer:*
 
 **Q58.** For each one, what is a small first step you could take this month? A
-conversation, a shadowing session, a course module or a ticket all count.
+conversation, a shadowing session, a course module, or a ticket all count.
 
 *Your answer:*
 
@@ -734,7 +734,7 @@ While you wait, these three pages cover the same role level and pick up where
 this form leaves off:
 
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/1-apprentice-developer.md)
-  — courses, blog posts, videos and books for an apprentice developer.
+  — courses, blog posts, videos, and books for an apprentice developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/1-apprentice-developer.md)
   — things to do, skill by skill, so your development has a shape.
 - [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/software-developer/1-apprentice-developer.md)

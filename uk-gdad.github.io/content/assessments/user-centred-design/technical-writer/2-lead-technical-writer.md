@@ -8,7 +8,7 @@ That is a role in which most of what you achieve happens through other people, i
 
 You may be facing a formal assessment as part of a selection process, or you may want to re-examine reasoning that has become fluent enough to be worth checking. At your level the risk is not gaps in technique but that technique has become automatic, automatic reasoning feels certain, and few people around you are positioned to catch you.
 
-Three features of the role shape everything that follows. First, you assure writing you did not produce, on systems you have not integrated with, judged from a document rather than from the thing it describes — which makes reading an output for the shape of the work behind it a core competence. Second, you standardise: tools, templates, processes and ways of working. A decision at that level is paid for many times, and a template that omits a field produces the same gap in every document that uses it. Third, you argue for resource in a discipline whose absence is invisible until an integration fails, which puts unusual weight on your ability to express documentation value in numbers other people already use.
+Three features of the role shape everything that follows. First, you assure writing you did not produce, on systems you have not integrated with, judged from a document rather than from the thing it describes — which makes reading an output for the shape of the work behind it a core competence. Second, you standardise: tools, templates, processes, and ways of working. A decision at that level is paid for many times, and a template that omits a field produces the same gap in every document that uses it. Third, you argue for resource in a discipline whose absence is invisible until an integration fails, which puts unusual weight on your ability to express documentation value in numbers other people already use.
 
 The document has four main sections: a cognitive assessment, a numeric reasoning assessment, a verbal reasoning assessment, and a situational judgement assessment. Each provides an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
 
@@ -26,7 +26,7 @@ This assessment information is created by AI and is work in progress for educati
 
 A workplace job-specific cognitive assessment measures the reasoning your role demands, presented through practical materials rather than abstract puzzles. At lead level the materials are documentation sets you did not write, analytics across a portal, support data, team output, and standards applied unevenly.
 
-The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority.
+The format is typically an online test of fifteen to thirty minutes covering pattern recognition, logical deduction, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority.
 
 Three things distinguish this section at your level.
 
@@ -41,7 +41,7 @@ The third is the maintenance calculus. Your team's capacity is fixed and your do
 The cognitive dimensions map onto the skills named in your role summary:
 
 - **Auditing at a distance** maps to assuring the quality of technical writing across teams.
-- **Systemic diagnosis** maps to standardising tools, ways of communicating and processes.
+- **Systemic diagnosis** maps to standardising tools, ways of communicating, and processes.
 - **Life cycle reasoning** maps to **User-centred content design**, where you direct the approach to content life cycle management.
 - **Strategic prioritisation** maps to **Strategic thinking**, where you lead the design and implementation of strategy.
 - **Capability diagnosis** maps to **User-centred content design**, where you identify gaps in skills and capability and help teams grow.
@@ -242,7 +242,7 @@ A numeric reasoning assessment measures how accurately you handle quantitative m
 
 That is worth stating plainly. A lead technical writer arguing for a fourth writer on the grounds that documentation is important will lose to almost any competing bid. One who can say that integration support tickets cost the organisation a quantified amount, that a documented class of them fell by a measured proportion after a specific intervention, and that the remaining volume implies a particular saving, is making an argument in the currency the decision is taken in. Your role names working with technology leaders and senior stakeholders to resource teams, and that conversation happens in numbers.
 
-The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart or paragraph of figures with a multiple-choice question. Calculators are usually provided.
+The format is typically a timed online test of fifteen to thirty minutes, each item presenting a table, chart, or paragraph of figures with a multiple-choice question. Calculators are usually provided.
 
 Four habits carry the load. Establish what the question asks before looking at the data. Identify the denominator and the population it represents. Estimate, calculate, compare. And sanity-check against the world.
 
@@ -420,7 +420,7 @@ A business case for two additional writers claims a saving of £240,000 a year. 
 - **Annualise and cost before arguing for resource.** Monthly figures do not compete.
 - **Quote the addressable subset, not the total.** It is more defensible and harder to dismiss.
 - **Return to counts before combining rates.** The weighted figure describes what readers encounter.
-- **Treat zero traffic as ambiguous.** Obsolete, rarely-needed and unfindable look identical.
+- **Treat zero traffic as ambiguous.** Obsolete, rarely-needed, and unfindable look identical.
 - **Test attribution before claiming an intervention worked.**
 - **State what would not be done when accepting a capacity request.**
 - **Distrust time on page, and say so before it becomes a target.**
@@ -443,7 +443,7 @@ A business case for two additional writers claims a saving of £240,000 a year. 
 
 A verbal reasoning assessment measures how accurately you read. For your discipline it is close to the job: your team's work consists of reading specifications, tickets, code comments and API contracts and turning them into something a reader can act on, and you assure the result. Getting it wrong in either direction is serious — understate a constraint and integrators build something that breaks, overstate one and they build defensively around a limit that does not exist.
 
-The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False or Cannot Say. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
+The classic format presents a short passage of dense workplace prose, typically three to six sentences, followed by statements to classify as True, False, or Cannot Say. Alongside these come comprehension items, main-point items, and questions asking which of four summaries is most accurate.
 
 The governing rule is that you answer from the passage alone, and the part specific to your level is this: expertise costs marks. You know how these systems usually behave, and supplying the expected behaviour rather than the described one is exactly the error that produces documentation asserting things a specification never said. Candidates at your level underperform on verbal reasoning at rates that surprise them.
 
@@ -468,25 +468,25 @@ The verbal skills tested map onto your named skills:
 
 "Clients must include an Authorization header on all requests to protected endpoints. Clients may include an Idempotency-Key header on POST requests; where present, the server will return the original response for any repeated request with the same key within 24 hours. Servers must reject requests exceeding 2 MB with a 413 response. Clients should implement exponential backoff on 429 responses."
 
-**Question 1 (easy)** — Statement: "Clients must include an Idempotency-Key on POST requests." True, False or Cannot Say?
+**Question 1 (easy)** — Statement: "Clients must include an Idempotency-Key on POST requests." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says clients *may* include it — optional. The statement's "must" contradicts that, so False. The passage uses all three modal terms deliberately: Authorization is mandatory, idempotency keys optional, backoff recommended. A documentation set that flattens those into one register either over-constrains integrators or under-warns them, and at your level the useful output is a house convention on how each is rendered — because four writers left to their own instincts will produce four treatments of the same distinction.
 
-**Question 2 (easy)** — Statement: "A repeated POST with the same key after 30 hours returns the original response." True, False or Cannot Say?
+**Question 2 (easy)** — Statement: "A repeated POST with the same key after 30 hours returns the original response." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The guarantee applies to repeats *within 24 hours*, and 30 hours falls outside it, so the statement is contradicted. False. Note what the passage does not establish: what happens after 24 hours is unstated — the request might be processed as new, rejected, or something else — so an honest draft documents the guarantee and its window and does not invent the behaviour beyond it. That gap is exactly the sort of thing worth flagging to engineering before publication rather than resolving by assumption.
 
-**Question 3 (moderate)** — Statement: "A client without exponential backoff is non-compliant." True, False or Cannot Say?
+**Question 3 (moderate)** — Statement: "A client without exponential backoff is non-compliant." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The passage says clients *should* implement backoff. In specification usage "should" indicates a strong recommendation that may be departed from for good reason, not a requirement — so a client without it departs from a recommendation and is not non-compliant. False. The distinction matters to integrators because it tells them whether omitting the behaviour will get their client rejected or merely leave it less well behaved, and documentation rendering both as "you need to" removes information they use to prioritise. At your level this is a review criterion worth naming explicitly.
 
-**Question 4 (harder)** — Statement: "A 1.9 MB request will be accepted." True, False or Cannot Say?
+**Question 4 (harder)** — Statement: "A 1.9 MB request will be accepted." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
@@ -496,25 +496,25 @@ The verbal skills tested map onto your named skills:
 
 "The review of the developer portal found that teams publishing reference documentation alongside code releases reported fewer integration support tickets than teams publishing separately. The review notes that the teams publishing alongside releases were also those with dedicated technical writers. The review did not assess documentation accuracy. It recommends that the portal team consider whether alongside-release publishing should be standard."
 
-**Question 5 (easy)** — Statement: "Teams publishing alongside releases reported fewer integration tickets." True, False or Cannot Say?
+**Question 5 (easy)** — Statement: "Teams publishing alongside releases reported fewer integration tickets." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence states this directly and the statement restates it without addition. True. Note the careful "reported fewer" rather than "had fewer" — a distinction the statement respects, and one worth preserving whenever your team writes up findings, because reported and actual volumes diverge for reasons that have nothing to do with the thing being measured.
 
-**Question 6 (moderate)** — Statement: "Publishing alongside releases reduces support tickets." True, False or Cannot Say?
+**Question 6 (moderate)** — Statement: "Publishing alongside releases reduces support tickets." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage reports an association and flags that the same teams had dedicated technical writers, which is a substantial confound — a team with a dedicated writer would be expected to produce better documentation whenever it published. So the fall may be attributable to the writer, the timing, both, or something unnamed. Cannot Say. This is the specific trap for someone in your position, because "publishing alongside releases reduces tickets" is a claim you would like to be true and would cite when standardising the process. The stronger and honest argument is available: documentation published after a release is documentation integrators did not have when they needed it, which stands on its own without needing the ticket data.
 
-**Question 7 (moderate)** — Statement: "The documentation published alongside releases was more accurate." True, False or Cannot Say?
+**Question 7 (moderate)** — Statement: "The documentation published alongside releases was more accurate." True, False, or Cannot Say?
 
 **Correct answer: Cannot Say**
 
 **Explanation:** The passage says explicitly that accuracy was not assessed. Declared silence establishes nothing, so Cannot Say. The possibility worth registering is that documentation written under release pressure might be *less* accurate while generating fewer tickets, if it arrives in time to prevent confused questions that a later and better document would have answered. Fewer tickets and better documentation are different outcomes, and a review measuring one has told you about one — which matters if you are about to standardise a process on the strength of it.
 
-**Question 8 (harder)** — Statement: "The review recommends making alongside-release publishing standard." True, False or Cannot Say?
+**Question 8 (harder)** — Statement: "The review recommends making alongside-release publishing standard." True, False, or Cannot Say?
 
 **Correct answer: False**
 
@@ -524,19 +524,19 @@ The verbal skills tested map onto your named skills:
 
 "Documentation for a public API must state the endpoint, method, required and optional parameters with types, the response schema, and all error codes the endpoint can return. Where an endpoint is deprecated, documentation must state the deprecation date and the recommended alternative. Code samples must be executable as written against the documented version. Documentation must be reviewed whenever the endpoint changes, and at least annually."
 
-**Question 9 (easy)** — Statement: "Documentation must list all error codes an endpoint can return." True, False or Cannot Say?
+**Question 9 (easy)** — Statement: "Documentation must list all error codes an endpoint can return." True, False, or Cannot Say?
 
 **Correct answer: True**
 
 **Explanation:** The first sentence requires all error codes the endpoint can return, and the statement restates it. True. Worth noting why the requirement is absolute: an undocumented error code is one an integrator cannot handle, producing clients that work in testing and fail in production when an unanticipated response arrives. It is also the section most commonly incomplete, usually because a writer documents the errors they encountered rather than the ones the endpoint can produce — which is a template and access problem for you rather than a diligence problem for them.
 
-**Question 10 (moderate)** — Statement: "A sample working against the current version but not the documented version satisfies the requirement." True, False or Cannot Say?
+**Question 10 (moderate)** — Statement: "A sample working against the current version but not the documented version satisfies the requirement." True, False, or Cannot Say?
 
 **Correct answer: False**
 
 **Explanation:** The requirement is that samples are executable *against the documented version*. A sample working only against a different version fails that. False. The scenario is entirely realistic: documentation for version 2 gets samples tested against version 3, because that is what the writer had running, and every integrator still on version 2 — the audience for that documentation — finds the sample fails. The requirement names the version specifically because this is the error it exists to prevent, and it is one your review process should be checking rather than assuming.
 
-**Question 11 (harder)** — Statement: "Documentation reviewed eleven months ago, with no endpoint changes since, is compliant." True, False or Cannot Say?
+**Question 11 (harder)** — Statement: "Documentation reviewed eleven months ago, with no endpoint changes since, is compliant." True, False, or Cannot Say?
 
 **Correct answer: True**
 

@@ -414,7 +414,7 @@ state the law correctly.
 - [ ] The accessibility regulations for public sector websites and apps
 - [ ] The Web Content Accessibility Guidelines
 - [ ] The Equality Act 2010 and the public sector equality duty
-- [ ] Data protection, data minimisation and purpose limitation
+- [ ] Data protection, data minimisation, and purpose limitation
 - [ ] Data protection impact assessments
 - [ ] The GOV.UK Service Standard and service assessments
 - [ ] Recruitment and fair selection

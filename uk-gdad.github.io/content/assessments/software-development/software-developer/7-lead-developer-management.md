@@ -10,7 +10,7 @@ You may be preparing for a formal assessment as part of a selection process, or 
 
 Three features of the role run through everything here. First, you make decisions about people whose consequences are slow, personal, and largely unmeasurable. Second, you set policy, and policy applies to everyone including the cases you did not imagine. Third, you are accountable for outcomes produced by people you do not directly control, which makes the quality of your delegation the main determinant of the quality of the output.
 
-The document contains a cognitive assessment, a numeric reasoning assessment, a verbal reasoning assessment and a situational judgement assessment. Each has an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
+The document contains a cognitive assessment, a numeric reasoning assessment, a verbal reasoning assessment, and a situational judgement assessment. Each has an overview, a mapping to your named skills, twelve practice questions with full explanations, preparation tips, and common pitfalls.
 
 Answer each question before reading its explanation, and pay attention where you were fast.
 
@@ -24,9 +24,9 @@ This assessment information is created by AI and is work in progress for educati
 
 ### About this assessment
 
-A workplace job-specific cognitive assessment measures the reasoning your role demands using material drawn from the role itself. For a lead developer on the management track that means process data, team performance information, standards proposals, capacity plans and resourcing decisions.
+A workplace job-specific cognitive assessment measures the reasoning your role demands using material drawn from the role itself. For a lead developer on the management track that means process data, team performance information, standards proposals, capacity plans, and resourcing decisions.
 
-The format is typically fifteen to thirty minutes online, covering deduction, pattern recognition, error checking, prioritisation and applied problem solving. Scoring is objective against a norm group of comparable seniority, and many platforms report speed and accuracy separately.
+The format is typically fifteen to thirty minutes online, covering deduction, pattern recognition, error checking, prioritisation, and applied problem solving. Scoring is objective against a norm group of comparable seniority, and many platforms report speed and accuracy separately.
 
 Three things distinguish this section at your level.
 

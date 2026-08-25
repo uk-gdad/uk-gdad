@@ -112,7 +112,7 @@ evidence-based design and iterative design. Only designing strategically and lea
 yours alone, and both are about organisational reach.
 
 It is also worth knowing that the framework publishes the same seven skills, word for word, for
-heads of interaction design, graphic design and service design. Nothing in the published skills
+heads of interaction design, graphic design, and service design. Nothing in the published skills
 distinguishes the three disciplines at any level.
 
 **The seven skills this form covers**, in the framework's order:
@@ -423,7 +423,7 @@ state the law correctly.
 - [ ] The accessibility regulations for public sector websites and apps
 - [ ] The Web Content Accessibility Guidelines
 - [ ] The Equality Act 2010 and the public sector equality duty
-- [ ] Data protection, data minimisation and purpose limitation
+- [ ] Data protection, data minimisation, and purpose limitation
 - [ ] Data protection impact assessments
 - [ ] The GOV.UK Service Standard and service assessments
 - [ ] Recruitment and fair selection

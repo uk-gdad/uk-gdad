@@ -22,7 +22,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Strategic Technology Management](https://www.coursera.org/specializations/technology-management): A University of Illinois specialisation on the strategic view of technology and innovation, which is the frame for an engineering roadmap.
 
-- [Real-World Engineering Management](https://www.coursera.org/specializations/real-world-engineering-management): Business, technical and leadership skills for engineering leadership at scale.
+- [Real-World Engineering Management](https://www.coursera.org/specializations/real-world-engineering-management): Business, technical, and leadership skills for engineering leadership at scale.
 
 - [Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture): How cultural and technical practices rather than tooling produce collaboration between the business and engineering.
 
@@ -52,7 +52,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, architecture, trade-space exploration, interface management, verification, validation and commissioning. The best frame for high-complexity design.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Stakeholder analysis, architecture, trade-space exploration, interface management, verification, validation, and commissioning. The best frame for high-complexity design.
 
 - [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Distributed systems abstractions and techniques, at the depth expected of a technical leader.
 
@@ -82,9 +82,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Research articles
 
-- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for supplier relationship management at organisational level.
+- [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure, and process for supplier relationship management at organisational level.
 
-- [A Review of the IT Outsourcing Empirical Literature and Future Research Directions](https://journals.sagepub.com/doi/10.1057/jit.2010.21): Twenty years of research on outsourcing outcomes, capabilities and governance.
+- [A Review of the IT Outsourcing Empirical Literature and Future Research Directions](https://journals.sagepub.com/doi/10.1057/jit.2010.21): Twenty years of research on outsourcing outcomes, capabilities, and governance.
 
 - [Relational dynamics in information technology outsourcing: An integrative review](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijmr.12347): 127 empirical studies on what makes outsourcing relationships succeed.
 
@@ -114,7 +114,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Lessons learned from introducing Team Topologies, Michael Plöd](https://www.youtube.com/watch?v=3IvnYBCQR6g): An experience report on adoption failures, which is the more useful half.
 
-- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Conference talks from practitioners on Kubernetes, Terraform, IaC and GitOps.
+- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Conference talks from practitioners on Kubernetes, Terraform, IaC, and GitOps.
 
 - [Decoupling Observability for Incident Response at Scale](https://www.youtube.com/watch?v=EfdUvwd9rDQ): Observability architecture for organisations rather than services.
 
@@ -132,9 +132,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team structure and cognitive load, which determines whether a roadmap survives delivery.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. The strongest available evidence for the practices you are asking an organisation to fund.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. The strongest available evidence for the practices you are asking an organisation to fund.
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operations at scale with case studies from organisations that had to solve it.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operations at scale with case studies from organisations that had to solve it.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. Stability and capacity patterns, updated for virtualised systems and chaos engineering.
 
@@ -144,7 +144,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869): By Rosenthal and Jones. Deliberately discovering weakness, which is what future-proofing should actually mean.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Introducing these practices where operational commitments already exist.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Introducing these practices where operational commitments already exist.
 
 ## Professional development tips
 

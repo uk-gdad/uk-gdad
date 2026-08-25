@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): The practices you set standards for, including availability, capacity and change control.
+- [ITIL 4 Foundation: Service Management Practices (Part 1)](https://www.skillsoft.com/course/itilr-4-foundation-service-management-practices-part-1-0f928009-6b1b-405a-8fd0-367bff17f8e7): The practices you set standards for, including availability, capacity, and change control.
 
 - [Courses for Infrastructure and Architecture](https://www.skillsoft.com/channel/infrastructure-architecture-2c012960-dc1f-11e7-9fe8-1b7f5fcc733d): Infrastructure and architecture material, relevant to managing the development of architectural solutions.
 
@@ -52,9 +52,9 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## MIT OpenCourseWare courses
 
-- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Requirements, architecture, interface management, verification, validation and commissioning across the life cycle.
+- [16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/): Requirements, architecture, interface management, verification, validation, and commissioning across the life cycle.
 
-- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping and root cause analysis at team scale.
+- [16.660J Introduction to Lean Six Sigma Methods](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/): Continuous improvement, value stream mapping, and root cause analysis at team scale.
 
 - [6.858 Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/): Threat models and defence techniques, at the depth needed to set security standards rather than repeat them.
 
@@ -84,7 +84,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Organizational design of IT supplier relationship management: a multiple case study of five client companies](https://link.springer.com/article/10.1057/jit.2011.30): Strategy, structure and process for managing IT suppliers.
 
-- [A Review of the IT Outsourcing Empirical Literature and Future Research Directions](https://journals.sagepub.com/doi/10.1057/jit.2010.21): Two decades of research on capabilities, relationship characteristics and contractual governance.
+- [A Review of the IT Outsourcing Empirical Literature and Future Research Directions](https://journals.sagepub.com/doi/10.1057/jit.2010.21): Two decades of research on capabilities, relationship characteristics, and contractual governance.
 
 - [Relational dynamics in information technology outsourcing: An integrative review](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijmr.12347): 127 empirical studies on what actually makes these relationships work.
 
@@ -118,7 +118,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Enhancing Platform Teams Workflow with Infrastructure as Code](https://www.youtube.com/watch?v=iRw-YvSGr8I): How tooling changes team workflow, which is a design decision rather than a purchase.
 
-- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Practitioner conference talks on Kubernetes, Terraform, IaC and GitOps.
+- [Platform Tech, PlatformCon](https://www.youtube.com/playlist?list=PLR74Ng-6aEfD6JjAlIjFEFyu6Zyi0Px_B): Practitioner conference talks on Kubernetes, Terraform, IaC, and GitOps.
 
 - [Full-stack Observability](https://www.youtube.com/watch?v=toS5rvET7hg): The signal landscape you should require visibility into.
 
@@ -126,19 +126,19 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operating distributed services at scale, including operational readiness.
+- [The Practice of Cloud System Administration, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operating distributed services at scale, including operational readiness.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. Standards, documentation and vendor relations at enterprise scale.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. Standards, documentation, and vendor relations at enterprise scale.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819): By Skelton and Pais. Team structure and cognitive load, which is the frame for managing workload.
 
-- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble and Kim. Evidence linking practice to outcomes, useful with both teams and suppliers.
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339): By Forsgren, Humble, and Kim. Evidence linking practice to outcomes, useful with both teams and suppliers.
 
 - [Release It! Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B): By Michael Nygard. A concrete standard for what you accept into production.
 
 - [Infrastructure as Code: Designing and Delivering Dynamic Systems for the Cloud Age](https://www.amazon.com/Infrastructure-Code-Designing-Delivering-Dynamic/dp/109815035X): By Kief Morris. Patterns and governance for infrastructure code across a team.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Introducing these practices where operational commitments already exist.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Introducing these practices where operational commitments already exist.
 
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897): By Camille Fournier. The people leadership and development side of the role.
 

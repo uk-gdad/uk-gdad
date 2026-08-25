@@ -292,7 +292,7 @@ D) Whether the payments tests should be re-run.
 
 ### Preparation tips
 
-- **Practise with your own artefacts.** Before an assessment, spend an evening reading model dependency graphs, metadata records and data quality reports with a critical eye. Ask: what is the grain here, what would break this, which two statements could contradict each other? You are rehearsing the exact mental moves the test samples.
+- **Practise with your own artefacts.** Before an assessment, spend an evening reading model dependency graphs, metadata records, and data quality reports with a critical eye. Ask: what is the grain here, what would break this, which two statements could contradict each other? You are rehearsing the exact mental moves the test samples.
 - **Verbalise your deductions.** For logic questions, get into the habit of saying (or writing) "the rule says X leads to Y; I observed Y; that does *not* prove X." One sentence of explicit reasoning prevents most deduction errors.
 - **Time-box, don't rush.** In a 20-minute test with 20 questions, give each question a fair minute, flag anything that resists you, and return at the end. A flagged question answered calmly beats four questions answered in panic.
 - **Do a short warm-up.** Ten minutes of puzzle-style questions immediately before the test gets you into gear, exactly as you would warm up by scanning yesterday's pipeline logs before a morning of debugging.
@@ -522,7 +522,7 @@ D) 97.5%
 
 **Question 14 (moderate) — Averages with a correction**
 
-Five nightly runs of your transformation job took 38, 41, 44, 39 and 58 minutes. The 58-minute run is then confirmed to have included a one-off 20-minute manual pause that should be excluded from performance figures. What is the corrected average run time?
+Five nightly runs of your transformation job took 38, 41, 44, 39, and 58 minutes. The 58-minute run is then confirmed to have included a one-off 20-minute manual pause that should be excluded from performance figures. What is the corrected average run time?
 
 A) 38.0 minutes
 B) 40.0 minutes
@@ -803,7 +803,7 @@ C) Cannot Say
 According to Passage D, which of the following entries would be non-compliant?
 
 A) An entry for a single-team dataset naming one person as both owner and technical contact, with frequency, retention and (where applicable) lawful basis recorded.
-B) An entry for a personal-data dataset that records owner, contact, frequency and retention, but no lawful basis for processing.
+B) An entry for a personal-data dataset that records owner, contact, frequency, and retention, but no lawful basis for processing.
 C) An entry citing a legislative provision for its retention period.
 D) An entry corrected by the owning team eight working days after notification of an inaccuracy.
 
@@ -847,7 +847,7 @@ A helpful framing: effective responses usually (1) address the immediate need, (
 - **Communicating between the technical and non-technical**: several scenarios test how you handle stakeholders with different perspectives, host difficult discussions in a multidisciplinary team, and advocate for your team externally without becoming defensive.
 - **Problem management**: dilemmas about incidents and recurring defects test whether you can judge a problem's level — operational, tactical, strategic — and act proportionately, contributing to remedies and preventative measures.
 - **Data quality improvement and testing**: scenarios probe what you do when you find (or cause) a data quality problem, especially under deadline pressure — the moments when honesty and process discipline are tested.
-- **Supporting users and trainees**: your role level explicitly includes providing training and support for users of data sets and supporting trainee analytics engineers; scenarios test patience, clarity and follow-through.
+- **Supporting users and trainees**: your role level explicitly includes providing training and support for users of data sets and supporting trainee analytics engineers; scenarios test patience, clarity, and follow-through.
 - **Working with senior colleagues**: as an analytics engineer you develop models assigned by more senior engineers and work with experienced colleagues to develop your skills; scenarios test when to act independently, when to consult, and how to disagree constructively.
 
 ### Practice questions
@@ -963,7 +963,7 @@ D) Explain your current assignment, then promptly connect the two seniors (or ra
 You demonstrate a new data model's documentation site to users. Afterwards, a user with a visual impairment tells you privately that the entity-relationship diagrams — the core of the documentation — are unreadable with a screen reader, and the colour-coding of fact versus dimension tables is indistinguishable to them.
 
 A) Thank them, explain that diagrams are inherently visual, and suggest they ask a colleague to talk them through the diagrams when needed.
-B) Thank them, treat it as a defect in the documentation standard rather than a personal accommodation: add structured text equivalents (each table's grain, keys and relationships in list form) alongside every diagram, fix the colour-coding with patterns or labels, propose these as requirements in the team's documentation standard, and follow up with the user to confirm the changes work for them.
+B) Thank them, treat it as a defect in the documentation standard rather than a personal accommodation: add structured text equivalents (each table's grain, keys, and relationships in list form) alongside every diagram, fix the colour-coding with patterns or labels, propose these as requirements in the team's documentation standard, and follow up with the user to confirm the changes work for them.
 C) Apologise and offer to produce a special separate document just for them whenever they need one.
 D) Note it in the backlog as a low-priority enhancement, since only one user has raised it.
 
@@ -998,7 +998,7 @@ D) Circulate an email to the whole multidisciplinary team recommending everyone 
 - **Selecting passive options.** Waiting for a meeting to end, filing a ticket while a presenter walks unwarned into a board room, or leaving problems for someone senior — options that delay action or pass the problem along are consistently rated weak.
 - **Confusing escalation with abdication.** Escalating a genuine priority conflict is strong; escalating a design disagreement you haven't yet explored is weak. The difference is whether you have done your part first.
 - **Protecting yourself instead of the user.** Options built around not being blamed — silence, quiet fixes, "before anyone notices" — are reliably among the least effective, whatever their surface efficiency.
-- **Ignoring the organisation's culture.** UK public sector scenarios reward collaboration, transparency, accessibility and care with public data. An option that might pass as decisive in a sales culture ("just ship it tonight") reads as reckless here.
+- **Ignoring the organisation's culture.** UK public sector scenarios reward collaboration, transparency, accessibility, and care with public data. An option that might pass as decisive in a sales culture ("just ship it tonight") reads as reckless here.
 - **Over-punishing other people's mistakes.** Options that hold users hostage to inter-team disputes, or publicly embarrass a colleague to correct a record, mistake retaliation for accountability.
 
 ## Conclusion

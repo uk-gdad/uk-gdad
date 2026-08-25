@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of associat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you work with network architects on designs and specifications with guidance, draft recommendations, maintain network plans, ensure designs meet service level agreements, and develop understanding of one or two network technologies. The resources below emphasise network design fundamentals, protocols and secure design.
+At this role level you work with network architects on designs and specifications with guidance, draft recommendations, maintain network plans, ensure designs meet service level agreements, and develop understanding of one or two network technologies. The resources below emphasise network design fundamentals, protocols, and secure design.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Networking in Google Cloud: Network Architecture](https://www.coursera.org/learn/networking-in-google-cloud-network-architecture): Explores the fundamentals of designing efficient and scalable network architectures in Google Cloud, covering best practice for cloud-only, multi-cloud and hybrid environments.
+- [Networking in Google Cloud: Network Architecture](https://www.coursera.org/learn/networking-in-google-cloud-network-architecture): Explores the fundamentals of designing efficient and scalable network architectures in Google Cloud, covering best practice for cloud-only, multi-cloud, and hybrid environments.
 
 - [Software Defined Networking](https://www.coursera.org/learn/sdnetworking): A Georgia Tech course introducing data centre networking technologies and software-defined networking, with a hands-on project implementing an SDN controller and testing traffic engineering rules using Ryu.
 
@@ -28,15 +28,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Udemy courses
 
-- [Network Design: Zero to Hero](https://www.udemy.com/course/network-design-zero-to-hero-by-arash-deljoo/): Covers conceptual, intermediate and detailed design of network infrastructure, including internal routing, BGP routing, modern WAN connectivity, data centre design and network security.
+- [Network Design: Zero to Hero](https://www.udemy.com/course/network-design-zero-to-hero-by-arash-deljoo/): Covers conceptual, intermediate and detailed design of network infrastructure, including internal routing, BGP routing, modern WAN connectivity, data centre design, and network security.
 
-- [Cisco Certified CCNP Enterprise 300-420 (ENSLD) Exam](https://www.udemy.com/course/cisco-certified-ccnp-enterprise-300-420-ensld-exam-2026/): Focused on the Designing Cisco Enterprise Networks exam, covering enterprise network design principles, architecture, scalability, security, automation and infrastructure services.
+- [Cisco Certified CCNP Enterprise 300-420 (ENSLD) Exam](https://www.udemy.com/course/cisco-certified-ccnp-enterprise-300-420-ensld-exam-2026/): Focused on the Designing Cisco Enterprise Networks exam, covering enterprise network design principles, architecture, scalability, security, automation, and infrastructure services.
 
-- [CCNP ENCOR 350-401: Complete Cisco Enterprise Networking](https://www.udemy.com/course/ccnp-encor/): Covers architecture, virtualisation, infrastructure, security and automation, with hands-on labs and design principles for two-tier and three-tier enterprise architectures.
+- [CCNP ENCOR 350-401: Complete Cisco Enterprise Networking](https://www.udemy.com/course/ccnp-encor/): Covers architecture, virtualisation, infrastructure, security, and automation, with hands-on labs and design principles for two-tier and three-tier enterprise architectures.
 
 ## Skillsoft courses
 
-- [Courses for Network Architect](https://www.skillsoft.com/journey/network-architect-a0a315f4-ec96-4222-9eb1-42dbc4fff9b8): A curated learning journey for the network architect role, covering secure design principles across OSI and TCP/IP for IPv4 and IPv6, converged protocols, transport architectures, performance metrics and traffic flows.
+- [Courses for Network Architect](https://www.skillsoft.com/journey/network-architect-a0a315f4-ec96-4222-9eb1-42dbc4fff9b8): A curated learning journey for the network architect role, covering secure design principles across OSI and TCP/IP for IPv4 and IPv6, converged protocols, transport architectures, performance metrics, and traffic flows.
 
 - [Zero Trust Networking Bootcamp](https://www.skillsoft.com/channel/zero-trust-networking-bootcamp-88ff8309-cdfc-4bd6-96d1-6b4a36aac02d): A crash course in which Michael J. Shannon demystifies zero trust architectures and offers guidance for launching or improving a zero trust initiative while avoiding common pitfalls.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.263J Data Communication Networks](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/): Covers the fundamentals of data communication networks, their architecture, principles of operation and performance analysis, including layered architecture, link layer protocols, high-speed packet switching, queueing theory, local area networks and wide area routing and flow control.
 
-- [6.829 Computer Networks](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/): Covers design, implementation, analysis and evaluation of large-scale networked systems, including internetworking philosophies, routing, congestion control, quality of service, mobile networking, router architectures and network security.
+- [6.829 Computer Networks](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/): Covers design, implementation, analysis and evaluation of large-scale networked systems, including internetworking philosophies, routing, congestion control, quality of service, mobile networking, router architectures, and network security.
 
 - [6.033 Computer System Engineering: Networking](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/week-5/): The networking weeks of MIT's systems engineering course, covering layering, naming and the end-to-end argument, which are the design principles behind most network architecture decisions.
 
@@ -84,13 +84,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [A Comprehensive Survey on Data Center Network Architectures](https://ieeexplore.ieee.org/document/9197934/): Surveys data centre network architectures and the challenges of scalability, energy efficiency, congestion and cost that follow directly from architectural design choices.
 
-- [Rethinking the Data Center Networking: Architecture, Network Protocols, and Resource Sharing](https://ieeexplore.ieee.org/document/6990724/): An IEEE journal paper reconsidering data centre network architecture, protocols and resource sharing from first principles.
+- [Rethinking the Data Center Networking: Architecture, Network Protocols, and Resource Sharing](https://ieeexplore.ieee.org/document/6990724/): An IEEE journal paper reconsidering data centre network architecture, protocols, and resource sharing from first principles.
 
 - [Data center network architecture in cloud computing: review, taxonomy, and open research issues](https://www.academia.edu/103971359/Data_center_network_architecture_in_cloud_computing_review_taxonomy_and_open_research_issues): Reviews and classifies cloud data centre network architectures and identifies unresolved research problems.
 
-- [Exploration and Evaluation of Congestion Control Algorithms for Data Center Networks](https://link.springer.com/article/10.1007/s42979-023-02016-4): Evaluates congestion control algorithms against the bursty, delay-sensitive and throughput-sensitive traffic characteristic of data centre networks.
+- [Exploration and Evaluation of Congestion Control Algorithms for Data Center Networks](https://link.springer.com/article/10.1007/s42979-023-02016-4): Evaluates congestion control algorithms against the bursty, delay-sensitive, and throughput-sensitive traffic characteristic of data centre networks.
 
-- [End-to-end congestion control in datacenter networks: a survey](https://link.springer.com/article/10.1007/s11704-025-40212-y): A survey of end-to-end congestion control approaches, covering TCP Incast, TCP Outcast, buffer pressure and queue build-up.
+- [End-to-end congestion control in datacenter networks: a survey](https://link.springer.com/article/10.1007/s11704-025-40212-y): A survey of end-to-end congestion control approaches, covering TCP Incast, TCP Outcast, buffer pressure, and queue build-up.
 
 - [Software defined networking architecture, traffic management, security, and placement: A survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128621001481): A Computer Networks survey covering SDN architecture alongside traffic management, security and controller placement.
 
@@ -134,11 +134,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Zero Trust Security: A Complete Guide](https://www.skillsoft.com/book/zero-trust-security-a-complete-guide-7dd9c646-3fc2-4528-866f-e2f21ce5168d): Covers practical guidelines and requirements for designing and executing a zero trust journey, moving from perimeter-centric techniques to an identity-centric, policy-based approach.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill and Robertson. Provides the operating model framing that determines how much network standardisation an organisation actually needs.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): By Ross, Weill, and Robertson. Provides the operating model framing that determines how much network standardisation an organisation actually needs.
 
 - [The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5): By Svyatoslav Kotusev. Grounds network architecture work in what the wider architecture function actually does in practice.
 
-- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A textbook treatment of architecture frameworks, methods and governance across all domains including technology.
+- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): By Scott A. Bernard. A textbook treatment of architecture frameworks, methods, and governance across all domains including technology.
 
 - [Operating Model Canvas: aligning operations and organization with strategy](https://www.amazon.com/Operating-Model-Canvas-Haren-Publishing/dp/9401800715): A framework for describing how an organisation works, including the locations and connectivity that network design must serve.
 

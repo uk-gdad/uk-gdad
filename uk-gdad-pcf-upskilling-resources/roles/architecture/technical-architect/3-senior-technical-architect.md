@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process): Teaches how to define and balance business and technical requirements to design deployments that are reliable, highly available, secure and cost-effective, including service level objectives, indicators and agreements.
+- [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process): Teaches how to define and balance business and technical requirements to design deployments that are reliable, highly available, secure and cost-effective, including service level objectives, indicators, and agreements.
 
 - [IBM Hybrid Cloud Architect Professional Certificate](https://www.coursera.org/professional-certificates/ibm-hybrid-cloud-architect): Covers designing hybrid cloud architecture spanning on-premises and cloud infrastructure, which is the situation most UK government technical estates are actually in.
 
@@ -30,13 +30,13 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Software Architecture and Design of Modern Large Scale Systems](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/): A practical course on architecting real systems that scale to millions of daily users and process large volumes of data.
 
-- [Mastering Software Architecture Patterns and System Design](https://www.udemy.com/course/mastering-software-architecture-patterns-for-system-design/): Explores hexagonal, clean and onion architectures alongside distributed models including microservices, service-oriented architecture and event-driven systems, plus API gateways, CQRS, event sourcing, containers and serverless.
+- [Mastering Software Architecture Patterns and System Design](https://www.udemy.com/course/mastering-software-architecture-patterns-for-system-design/): Explores hexagonal, clean and onion architectures alongside distributed models including microservices, service-oriented architecture and event-driven systems, plus API gateways, CQRS, event sourcing, containers, and serverless.
 
-- [Design Microservices Architecture with Patterns and Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/): Traces the evolution from monolithic to event-driven microservices, designing for high availability, high scalability, low latency and resilience to network failure.
+- [Design Microservices Architecture with Patterns and Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/): Traces the evolution from monolithic to event-driven microservices, designing for high availability, high scalability, low latency, and resilience to network failure.
 
 ## Skillsoft courses
 
-- [Enterprise Architecture: Architectural Principles and Patterns](https://www.skillsoft.com/course/enterprise-architecture-architectural-principles-patterns-7ad56361-c387-4163-9ed6-571890b250b1): An eighteen-video course covering software architecture concepts including the view model, consumer-driven contracts, architectural patterns and solution patterns.
+- [Enterprise Architecture: Architectural Principles and Patterns](https://www.skillsoft.com/course/enterprise-architecture-architectural-principles-patterns-7ad56361-c387-4163-9ed6-571890b250b1): An eighteen-video course covering software architecture concepts including the view model, consumer-driven contracts, architectural patterns, and solution patterns.
 
 - [Microservices Architecture and Design Patterns](https://www.skillsoft.com/course/microservices-architecture-and-design-patterns-9a17cb70-2085-11e8-8ac8-0ffdfc1028b9): An in-depth look at design patterns for microservices, including pattern language, domain driven design, and best practices for building services that survive contact with production.
 
@@ -54,7 +54,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [ESD.34 System Architecture](https://ocw.mit.edu/courses/esd-34-system-architecture-january-iap-2007/): Covers principles and methods for technical system architecture, including resolving ambiguity to identify system goals and boundaries, the creative process of mapping form to function, and the analysis of complexity through decomposition and re-integration.
 
-- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers the fundamentals of building correct, understandable software, including specification, abstraction and testing. Strong grounding for architects who review other people's designs and code.
+- [6.005 Elements of Software Construction](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/): Covers the fundamentals of building correct, understandable software, including specification, abstraction, and testing. Strong grounding for architects who review other people's designs and code.
 
 - [16.842 Fundamentals of Systems Engineering: System Architecture and Concept Generation](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/resources/session-4-system-architecture-and-concept-generation/): A focused session on generating and comparing architectural concepts rather than settling on the first workable one.
 
@@ -128,17 +128,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Fundamentals of Software Architecture: A Modern Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0F1BWQGYZ): By Mark Richards and Neal Ford. Focuses on architecture principles that apply across technology stacks, covering architecture characteristics, styles, and the soft skills the role requires.
 
-- [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451): The first edition of the same work, still widely used and often available more cheaply.
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451): The first edition of the same work, still widely used, and often available more cheaply.
 
 - [Software Architecture Design Patterns in Java](https://www.skillsoft.com/book/software-architecture-design-patterns-in-java-7d03a4b0-efa2-11e6-be4a-0242c0a80906): A detailed explanation of applying design patterns and developing software architectures, with worked Java examples explaining when, why and how to use each pattern.
 
 - [Software Architecture Fundamentals: A Study Guide for the Certified Professional for Software Architecture](https://www.skillsoft.com/book/software-architecture-fundamentals-a-study-guide-for-the-certified-professional-for-software-architecture-64f0858f-0530-4b54-9854-8012486441f9): A structured study guide covering the iSAQB body of knowledge for software architecture.
 
-- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill and Robertson on operating models, which set the constraints any solution design must respect.
+- [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution-ebook/dp/B004OC07EE): Ross, Weill, and Robertson on operating models, which set the constraints any solution design must respect.
 
 - [The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5): Kotusev's empirical account of how architecture functions really operate, including how solution architects interact with them.
 
-- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): Scott A. Bernard's textbook treatment of frameworks, methods and governance across architecture domains.
+- [An Introduction to Enterprise Architecture](https://www.amazon.com/Introduction-Enterprise-Architecture-Third/dp/1477258000): Scott A. Bernard's textbook treatment of frameworks, methods, and governance across architecture domains.
 
 - [Top-Down Network Design](https://www.amazon.com/Top-Down-Network-Design-Networking-Technology-ebook/dp/B0040EK6OM): Priscilla Oppenheimer. Useful for solution architects who need to reason about the infrastructure their designs run on.
 

@@ -409,7 +409,7 @@ apply.
 - [ ] Accessibility — the accessibility regulations for public sector websites
       and apps
 - [ ] The public sector equality duty, under the Equality Act 2010
-- [ ] Records management, the Public Records Act 1958 and the Freedom of
+- [ ] Records management, the Public Records Act 1958, and the Freedom of
       Information Act 2000
 - [ ] The Civil Service Code, or your organisation's code of conduct
 - [ ] Government technology and spend controls, or the Technology Code of

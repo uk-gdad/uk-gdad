@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of associat
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you support service design with guidance, learning to map services, follow user journeys and work across disciplines. The resources below emphasise service mapping, journey mapping and design fundamentals.
+At this role level you support service design with guidance, learning to map services, follow user journeys, and work across disciplines. The resources below emphasise service mapping, journey mapping, and design fundamentals.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -32,11 +32,11 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [UX Design Process from User Research to Usability Testing](https://www.udemy.com/course/ux-design-process-for-beginners-from-user-research-to-usability/): Covers the whole process from user interviews and personas through user stories and information architecture to usability testing.
 
-- [Mastering UX Research: From Fundamentals to Job Skills](https://www.udemy.com/course/ux-research-bootcamp-from-zero-experience-to-job-ready/): Covers strategic research planning, interviews, analysis and deliverables, with both qualitative and quantitative methods including usability testing, surveys, card sorting and tree testing.
+- [Mastering UX Research: From Fundamentals to Job Skills](https://www.udemy.com/course/ux-research-bootcamp-from-zero-experience-to-job-ready/): Covers strategic research planning, interviews, analysis, and deliverables, with both qualitative and quantitative methods including usability testing, surveys, card sorting and tree testing.
 
 ## Skillsoft courses
 
-- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility and career development.
+- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility, and career development.
 
 - [Courses for UX Design](https://www.skillsoft.com/channel/ux-design-f0507340-0b21-11e7-a3e9-a39d8b265364): A channel covering design techniques and tools, guidelines and patterns, and the research methods that inform them.
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Human-Computer Interaction II: Cognition, Context and Culture (GTx)](https://www.edx.org/course/human-computer-interaction-ii-cognition-context-cu): The continuation, covering how cognition, context and culture shape how people actually use interfaces.
 
-- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles and deliverables.
+- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles, and deliverables.
 
 ## MIT OpenCourseWare courses
 

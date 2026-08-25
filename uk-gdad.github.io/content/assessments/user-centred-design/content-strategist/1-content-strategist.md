@@ -654,7 +654,7 @@ The third is that you work almost entirely through influence. Your skills descri
 
 ### How this assessment maps to your role
 
-- **Governance design** maps to developing governance, processes and workflows.
+- **Governance design** maps to developing governance, processes, and workflows.
 - **Stakeholder negotiation** maps to **Stakeholder relationship management**.
 - **Taxonomy judgement** maps to shaping and structuring the architecture of content.
 - **Quality assurance and coaching** maps to **User-centred content design**.

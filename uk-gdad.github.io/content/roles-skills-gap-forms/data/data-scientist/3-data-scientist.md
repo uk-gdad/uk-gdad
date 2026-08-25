@@ -130,7 +130,7 @@ does not rise when you become a data scientist — what rises is the complexity 
 you build and the independence with which you build it.
 
 Second, *Data engineering* shrinks at your level. At associate it was four detailed
-items about cleansing, architectures and transformation tools; at yours it is one
+items about cleansing, architectures, and transformation tools; at yours it is one
 line — work with data engineers and data scientists to design and provide products.
 That is not a reduction in what you do, but it is what the framework publishes.
 
@@ -491,7 +491,7 @@ what you believe is really watched.
 ## Legal compliance
 
 Data science in government can shape decisions that affect people, which brings duties
-around data protection, automated decision-making and equality. These questions ask
+around data protection, automated decision-making, and equality. These questions ask
 about awareness, training and support, not about whether you can state the law
 correctly.
 

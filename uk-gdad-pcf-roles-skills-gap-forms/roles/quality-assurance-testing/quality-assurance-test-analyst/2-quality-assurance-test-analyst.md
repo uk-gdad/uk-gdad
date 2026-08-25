@@ -500,7 +500,7 @@ personal data?
 *Your answer:*
 
 **Q37.** What happens to personal data that appears in defect reports,
-screenshots, logs and recordings? Is anything cleaned up afterwards?
+screenshots, logs, and recordings? Is anything cleaned up afterwards?
 
 *Your answer:*
 

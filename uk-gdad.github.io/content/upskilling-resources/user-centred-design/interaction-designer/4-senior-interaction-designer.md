@@ -8,7 +8,7 @@ This page focuses on learning and growth resources for the work role of senior i
 
 - These are intended to be good starting points, not a comprehensive catalogue.
 
-At this role level you take responsibility for the design of a whole service, challenge requirements that would fail users, and coach other designers. The resources below emphasise service-level design consistency, critique and implementation.
+At this role level you take responsibility for the design of a whole service, challenge requirements that would fail users, and coach other designers. The resources below emphasise service-level design consistency, critique, and implementation.
 
 We welcome constructive feedback to improve this page and these lists.
 
@@ -20,7 +20,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [User Interface Design Specialization (University of Minnesota)](https://www.coursera.org/specializations/user-interface-design): Covers industry-standard theory and methods, giving fluency in the user research, prototyping and evaluation techniques needed to create intuitive interfaces.
+- [User Interface Design Specialization (University of Minnesota)](https://www.coursera.org/specializations/user-interface-design): Covers industry-standard theory and methods, giving fluency in the user research, prototyping, and evaluation techniques needed to create intuitive interfaces.
 
 - [User Interface Design and Prototyping (Microsoft)](https://www.coursera.org/learn/user-interface-design-and-prototyping): Covers wireframes, mockups and prototypes in Figma, including a module on design systems and style guides.
 
@@ -36,7 +36,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Skillsoft courses
 
-- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility and career development.
+- [Courses for UI and UX Design: Novice to Professional](https://www.skillsoft.com/journey/ui-and-ux-design-novice-to-professional-83005172-8757-4ff6-9430-6dc6e833bc4b): A six-track journey covering an introduction to design, understanding the user through research, the design process, interaction design, digital accessibility, and career development.
 
 - [Courses for UX Design](https://www.skillsoft.com/channel/ux-design-f0507340-0b21-11e7-a3e9-a39d8b265364): A channel covering design techniques and tools, guidelines and patterns, and the research methods that inform them.
 
@@ -48,7 +48,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Human-Computer Interaction II: Cognition, Context and Culture (GTx)](https://www.edx.org/course/human-computer-interaction-ii-cognition-context-cu): The continuation, covering how cognition, context and culture shape how people actually use interfaces.
 
-- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles and deliverables.
+- [Introduction to User Experience (HECMontrealX)](https://www.edx.org/course/introduction-to-user-experience-3): Reviews the fundamental elements of user experience practice, including projects, key concepts, activities, roles, and deliverables.
 
 ## MIT OpenCourseWare courses
 
@@ -86,7 +86,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Estimating Sample Size for Usability Testing](https://www.redalyc.org/journal/5722/572262176013/html/): Reviews the Virzi, Nielsen and Landauer, and Lewis methods for estimating the sample needed to find a target proportion of problems.
 
-- [To Intervene or Not to Intervene: An Investigation of Three Think-Aloud Protocols in Usability Testing](https://uxpajournal.org/intervene-think-aloud-protocols-usability-testing/): Compares concurrent think-aloud, speech-communication and active intervention across problem identification, task performance, participant experience and cost.
+- [To Intervene or Not to Intervene: An Investigation of Three Think-Aloud Protocols in Usability Testing](https://uxpajournal.org/intervene-think-aloud-protocols-usability-testing/): Compares concurrent think-aloud, speech-communication and active intervention across problem identification, task performance, participant experience, and cost.
 
 - [Effect of Thinking Aloud on UX Metrics: A Review of the Evidence](https://measuringu.com/does-ta-increase-task-times/): Reviews the surprisingly thin evidence on how think-aloud protocols affect the metrics collected alongside them.
 
@@ -126,15 +126,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): By Alan Cooper, Robert Reimann, David Cronin and Christopher Noessel. The standard reference on interaction design, covering goal-directed design and behaviour patterns.
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571): By Alan Cooper, Robert Reimann, David Cronin, and Christopher Noessel. The standard reference on interaction design, covering goal-directed design and behaviour patterns.
 
-- [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Covers how interface components are actually made accessible, including toggles, accordions, modals and navigation.
+- [Web Accessibility Cookbook: Creating Inclusive Experiences](https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B): By Manuel Matuzovic. Covers how interface components are actually made accessible, including toggles, accordions, modals, and navigation.
 
 - [Web Accessibility by Design: Inclusive Front-End Patterns and UI Guidelines](https://www.amazon.com/Web-Accessibility-Design-Inclusive-Guidelines-ebook/dp/B0FMJSVY2D): Covers semantic markup and ARIA roles, accessible forms and navigation, colour contrast and motion control.
 
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/1933820118): By Steve Portigal. Design decisions depend on understanding users, and this is the best guide to the interview craft.
 
-- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky and Moed. A methods reference covering when each research approach applies.
+- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Practitioners-Research/dp/0123848695): Goodman, Kuniavsky, and Moed. A methods reference covering when each research approach applies.
 
 - [Content Design](https://www.amazon.com/Content-Design-Sarah-Winters/dp/1916323316): By Sarah Winters. Interface content is part of interaction design, and this is the standard treatment of getting it right.
 

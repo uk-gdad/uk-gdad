@@ -331,7 +331,7 @@ know the law. These questions are about what training you have had, so gaps can 
 - [ ] What to do if you think data has been lost or exposed
 - [ ] Change control — what you may and may not change on a live system
 - [ ] Health and safety, if you work in a data centre or handle physical kit
-- [ ] Equality, diversity and inclusion
+- [ ] Equality, diversity, and inclusion
 - [ ] None of these
 - [ ] Not sure
 
@@ -420,7 +420,7 @@ it to you? Would your organisation pay for it and give you study time?
 
 *Your answer:*
 
-**Q40.** The level above also adds scripting, change management, capacity management and testing. Would you
+**Q40.** The level above also adds scripting, change management, capacity management, and testing. Would you
 like to start on any of those now?
 
 *Your answer:*

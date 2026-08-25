@@ -1,0 +1,421 @@
+#!/usr/bin/env python3
+"""Add the serial comma to lists in the prose this repository writes.
+
+`spec/serial-comma/index.md` sets the rule: a list of three or more items takes
+a comma before its final conjunction. This script applies it where the text is
+unmistakably such a list, and refuses everywhere else, because a comma in the
+wrong place is worse than a comma missing.
+
+What it never touches:
+
+  * `uk-gdad-pcf-role-summaries/`, which quotes the published framework
+  * the standing advisory paragraph, verbatim in 410 files
+  * a paragraph that reports what the framework says, because it goes on to
+    quote it — "It expects you to plan, monitor and enforce ..."
+  * the bullet runs in a skills gap form's `## About this role level`, which
+    restate the framework's own accountabilities
+  * a skill name from the catalogue, an official title such as `Digital, Data
+    and Technology`, a link, a code span, or a bold run-in
+  * `spec/skills.md`, which records the catalogue as published
+
+Usage:
+
+    bin/serial-comma           # report what would change; change nothing
+    bin/serial-comma --write   # make the changes
+    bin/serial-comma --held    # list the lists it declines to judge
+
+Exit status is 0 when there is nothing to change, 1 when there is. `--write`
+and `--held` always exit 0.
+
+`--held` prints the lists where an item either side of the pivot comma is long
+enough that only a person can tell a list from a clause. It is a reading list,
+not a work list: the corpus was worked through once by hand, and what it prints
+today was judged then and left alone deliberately.
+"""
+
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+
+# The prose this repository writes. Role summaries are adapted from the
+# framework, and the website's `content/` is a vendored copy of the rest.
+TARGETS = (
+    "uk-gdad-pcf-assessments/**/*.md",
+    "uk-gdad-pcf-roles-skills-gap-forms/**/*.md",
+    "uk-gdad-pcf-upskilling-resources/**/*.md",
+    "uk-gdad-pcf-continuing-professional-development-checklists/**/*.md",
+    "uk-gdad-pcf-skills-self-assessment/**/*.md",
+    "spec/**/*.md",
+    "AGENTS/**/*.md",
+    "AGENTS.md",
+    "index.md",
+    "README.md",
+    "uk-gdad.github.io/spec/**/*.md",
+    "uk-gdad.github.io/AGENTS.md",
+    "uk-gdad.github.io/README.md",
+)
+
+SKIP = (
+    "uk-gdad.github.io/content/",
+    "uk-gdad-pcf-role-summaries/",
+    "node_modules",
+    ".svelte-kit",
+    "build/",
+    "spec/skills.md",
+    "spec/serial-comma/",
+)
+
+
+# --- names that are not ours to punctuate --------------------------------
+
+
+def official_names() -> list[str]:
+    """Skill names holding a comma, plus the official expansion of DDaT.
+
+    A skill name is the join key between a summary and a form, so a comma
+    inside one makes it a different skill. `spec/index.md` § Taxonomy.
+    """
+    names = set()
+    summaries = ROOT / "uk-gdad-pcf-role-summaries" / "roles"
+    for path in summaries.rglob("*.md"):
+        for line in path.read_text(encoding="utf-8").split("\n"):
+            if line.startswith("Skill: "):
+                names.add(line[len("Skill: ") :].strip())
+    for line in (ROOT / "spec" / "skills.md").read_text(encoding="utf-8").split("\n"):
+        found = re.match(r"^-\s+(.+?)\s*$", line)
+        if found and not found.group(1).startswith("["):
+            names.add(found.group(1))
+    keep = [n for n in names if "," in n and not re.search(r"\b(so|which|that)\b", n)]
+    keep += ["Digital, Data and Technology", "Digital, Data, and Technology"]
+    return sorted(keep, key=len, reverse=True)
+
+
+def protector() -> re.Pattern[str]:
+    """Spans whose text belongs to somebody else, and so keeps its commas."""
+    names = "|".join(re.escape(n) for n in official_names())
+    return re.compile(
+        names + r"|`[^`]*`|\[[^\]]*\]\([^)]*\)|https?://\S+|\*\*[^*]*\*\*",
+        re.IGNORECASE,
+    )
+
+
+# --- telling a list from a sentence --------------------------------------
+
+# Words that make the run a clause rather than a list of items.
+CLAUSE = re.compile(
+    r"\b(?:is|are|was|were|be|been|being|has|have|had|will|would|shall|should|"
+    r"can|could|may|might|must|do|does|did|you|your|yours|i|we|our|us|they|their|"
+    r"it|its|he|she|him|her|them|there|here|this|that|these|those|which|who|whom|"
+    r"whose|because|since|although|though|unless|until|whether|while|whereas|"
+    r"however|therefore|so|but|yet|then|thus|hence|if|when|where|why|how)\b",
+    re.IGNORECASE,
+)
+
+# An item opening with one of these is a phrase hanging off the sentence rather
+# than the next entry in a list — unless its neighbour opens the same way.
+OPENER = re.compile(
+    r"^(in|on|for|with|to|at|by|from|of|about|into|over|under|after|before|"
+    r"through|across|against|per|via|between|among|amongst|within|without|"
+    r"during|beyond|besides|despite|unlike|like|including|such|throughout|"
+    r"alongside|toward|towards|upon|onto|near|around|behind|below|beneath|"
+    r"beside|down|up|out|off|according|regarding|concerning|than)\b",
+    re.IGNORECASE,
+)
+
+# A phrase at the head of a sentence, closed by a comma, sets the scene for the
+# clause that follows. Its comma is never a list comma.
+FRONTED = re.compile(
+    r"^(unlike|despite|besides|beyond|within|without|during|of|about|against|"
+    r"per|via|including|regarding|throughout|amid|following|alongside|toward|"
+    r"towards|upon|beside|among|amongst|between|after|before|with|for|in|on|at|"
+    r"by|from|to|under|over|across|through|instead|although|though|because|when|"
+    r"while|if|as|since|until|given|once|where|whenever|wherever|whether|first|"
+    r"second|third|finally)\b",
+    re.IGNORECASE,
+)
+
+# "X, not Y or Z" is a contrast; "X, ideally Y and Z" is an aside. Neither is a
+# list, whatever the commas suggest.
+ASIDE = re.compile(
+    r"^(not|never|rather|instead|only|just|merely|except|besides|ideally|"
+    r"preferably|usually|typically|normally|generally|perhaps|possibly|probably|"
+    r"apparently|arguably|obviously|clearly|simply|largely|mostly|partly|"
+    r"briefly|finally|again|also|then|therefore|however|meanwhile)\b",
+    re.IGNORECASE,
+)
+
+# A second conjunction inside the run means the sentence is joining pairs, and
+# which `and` belongs to the list stops being knowable from the text alone.
+CONJUNCTION = re.compile(r"\b(?:and|or|nor)\b", re.IGNORECASE)
+
+ARTICLE = re.compile(r"^(a|an|the)\b", re.IGNORECASE)
+
+# A one-word run before the comma that steers the sentence rather than opening
+# a list: "First, recency and authority" is not a list.
+ADVERB = {
+    "first", "second", "third", "fourth", "fifth", "finally", "lastly", "next",
+    "then", "instead", "again", "also", "meanwhile", "overall", "typically",
+    "crucially", "worse", "better", "indeed", "moreover", "further", "besides",
+    "furthermore", "similarly", "conversely", "otherwise", "alternatively",
+    "notably", "importantly", "critically", "ideally", "realistically",
+    "practically", "usually", "often", "sometimes", "occasionally", "once",
+    "now", "today", "here", "above", "below", "equally", "separately", "still",
+    "afterwards", "eventually", "ultimately", "briefly", "broadly", "roughly",
+    "generally", "specifically", "particularly", "especially",
+}
+
+# What may follow the final item and still leave the list finished. Anything
+# else after a comma suggests the list carries on, so the run is left alone.
+CLOSERS = {
+    "which", "who", "whom", "whose", "because", "since", "although", "though",
+    "unless", "until", "while", "whereas", "so", "but", "however", "therefore",
+    "with", "rather",
+}
+
+LIST = re.compile(
+    r'(?P<a>[^,;:.!?()\[\]{}"—]{2,90}?)'  # the item before the comma
+    r",[ ]+"
+    r'(?P<b>[^,;:.!?()\[\]{}"—]{2,60}?)'  # the item after it
+    r"[ ]+(?P<conj>and|or)[ ]+"
+    r'(?P<c>[^,;:.!?()\[\]{}"—]{2,90}?)'  # the final item
+    r"(?P<after>[.,;:!?)\]]|$)"
+)
+
+# How long an item either side of the pivot comma may be before the run stops
+# being obvious. `--held` reports what these bounds exclude.
+LIMITS = {"b": 3, "tail": 4}
+LOOSE = {"b": 6, "tail": 9}
+
+
+def words(text: str) -> list[str]:
+    return [w for w in re.split(r"\s+", text.strip()) if w]
+
+
+def gerund(word: str) -> bool:
+    plain = re.sub(r"[^\w'-]", "", word).lower()
+    return plain.endswith("ing") and len(plain) > 4
+
+
+def stem(word: str) -> str:
+    return re.sub(r"^(?:non|un|pre|post|sub|anti|semi)-", "", word.strip(" ,.;:'\"").lower())
+
+
+def is_list(match: re.Match[str], rest: str, at_start: bool, limits: dict[str, int]) -> bool:
+    """Whether three items read as a list rather than as a sentence."""
+    tail = match.group("a").split(",")[-1].strip()
+    b, c = match.group("b"), match.group("c")
+    items = (tail, b, c)
+    if not all(words(item) for item in items):
+        return False
+    for item in items:
+        if CLAUSE.search(item) or CONJUNCTION.search(item):
+            return False
+    if len(words(b)) > limits["b"] or len(words(c)) > 8:
+        return False
+    if not 1 <= len(words(tail)) <= limits["tail"]:
+        return False
+    if len(words(tail)) == 1 and re.sub(r"\W", "", tail).lower() in ADVERB:
+        return False
+    if ASIDE.match(b) or ASIDE.match(c):
+        return False
+    # A one-word run before the comma is either the first of several short
+    # items or an adjective modifying what follows: "direct, kind intervention
+    # and genuine curiosity" is a pair, not a list of three.
+    if len(words(tail)) == 1 and len(words(b)) > 1:
+        return False
+    # "specialist and non-specialist audiences" is one phrase wearing a prefix.
+    if stem(words(b)[-1]) and stem(words(b)[-1]) == stem(words(c)[0]):
+        return False
+    # Items in a list agree about their articles and their prepositions.
+    if bool(ARTICLE.match(b)) != bool(ARTICLE.match(c)):
+        return False
+    if bool(OPENER.match(b)) != bool(OPENER.match(c)):
+        return False
+    # A participle after a plain phrase is a clause hanging off the sentence.
+    if gerund(words(b)[0]) and not gerund(words(tail)[0]):
+        return False
+    if at_start and len(words(tail)) >= 3 and FRONTED.match(tail):
+        if words(tail)[0].lower() != words(b)[0].lower():
+            return False
+    # The comma goes before the *last* conjunction. If a comma follows, the
+    # list may well continue, so only a clear closer lets the fix through.
+    if match.group("after") == ",":
+        following = words(rest)
+        if not following or re.sub(r"\W", "", following[0]).lower() not in CLOSERS:
+            return False
+    return True
+
+
+def fix_segment(text: str, limits: dict[str, int]) -> tuple[str, int]:
+    out: list[str] = []
+    index = changes = 0
+    for match in LIST.finditer(text):
+        if match.start() < index:
+            continue
+        # The item may have captured the space after the full stop, so allow
+        # the sentence boundary to sit right against it.
+        at_start = re.search(r"(?:^|[.!?:;])\s*$", text[: match.start("a")]) is not None
+        if not is_list(match, text[match.end() :], at_start, limits):
+            continue
+        cut = match.start("conj")
+        out.append(text[index : cut - 1])
+        out.append(", ")
+        index = cut
+        changes += 1
+    out.append(text[index:])
+    return "".join(out), changes
+
+
+def fix_line(line: str, guard: re.Pattern[str], limits: dict[str, int]) -> tuple[str, int]:
+    """Fix a line, stepping over links, code spans and official names."""
+    pieces: list[str] = []
+    index = changes = 0
+    for span in guard.finditer(line):
+        fixed, n = fix_segment(line[index : span.start()], limits)
+        pieces.extend((fixed, span.group(0)))
+        index, changes = span.end(), changes + n
+    fixed, n = fix_segment(line[index:], limits)
+    pieces.append(fixed)
+    return "".join(pieces), changes + n
+
+
+# --- the blocks that quote somebody else ---------------------------------
+
+QUOTED_OPENER = re.compile(r"^\s*\*\*What the framework expects", re.IGNORECASE)
+QUOTED_LEAD = re.compile(r"(?:you will|expects that you|expects|you to|asks of you):\s*$", re.IGNORECASE)
+REPORTED = re.compile(
+    r"the framework (?:describes|expects|asks|says|lists|words|calls|names|puts)"
+    r"|it expects you to|\*\*The next step\.\*\*",
+    re.IGNORECASE,
+)
+ADVISORY = "created by AI and is work in progress"
+BULLET = ("-", "*", "1.", "2.", "3.")
+
+
+def blocks(lines: list[str]) -> list[list[int]]:
+    """Blank-line-separated blocks, as lists of line numbers."""
+    current: list[int] = []
+    out: list[list[int]] = []
+    for index, line in enumerate(lines):
+        if line.strip():
+            current.append(index)
+        elif current:
+            out.append(current)
+            current = []
+    if current:
+        out.append(current)
+    return out
+
+
+def skippable(lines: list[str], block: list[int], previous: list[int] | None, section: str | None) -> bool:
+    first = lines[block[0]]
+    # `## About this role level` restates the framework: the role's own
+    # description, its accountabilities, and the levels of the role.
+    if section == "About this role level" and first.lstrip().startswith(BULLET):
+        return True
+    if QUOTED_OPENER.match(first):
+        return True
+    if any(ADVISORY in lines[i] for i in block):
+        return True
+    if any(REPORTED.search(lines[i]) for i in block):
+        return True
+    if previous and first.lstrip().startswith(BULLET):
+        if QUOTED_LEAD.search(lines[previous[-1]]) or QUOTED_OPENER.match(lines[previous[0]]):
+            return True
+    return False
+
+
+def editable(path: Path) -> list[tuple[int, str]]:
+    """The lines of a file this repository is free to punctuate."""
+    lines = path.read_text(encoding="utf-8").split("\n")
+    fenced = False
+    fences: set[int] = set()
+    for index, line in enumerate(lines):
+        if line.lstrip().startswith("```"):
+            fenced = not fenced
+            fences.add(index)
+        elif fenced:
+            fences.add(index)
+    out: list[tuple[int, str]] = []
+    previous: list[int] | None = None
+    section: str | None = None
+    for block in blocks(lines):
+        heading = lines[block[0]]
+        if heading.startswith("## "):
+            section = heading[3:].strip()
+        if skippable(lines, block, previous, section):
+            previous = block
+            continue
+        for index in block:
+            line = lines[index]
+            if index in fences or line.startswith(("#", "|", "    ", "\t", ">")):
+                continue
+            out.append((index, line))
+        previous = block
+    return out
+
+
+def sources() -> list[Path]:
+    found = []
+    for pattern in TARGETS:
+        for path in sorted(ROOT.glob(pattern)):
+            relative = path.relative_to(ROOT).as_posix()
+            if not any(s in relative for s in SKIP):
+                found.append(path)
+    return found
+
+
+def main(argv: list[str]) -> int:
+    write = "--write" in argv
+    held = "--held" in argv
+    guard = protector()
+
+    if held:
+        seen: dict[str, int] = {}
+        for path in sources():
+            for _, line in editable(path):
+                tight, n = fix_line(line, guard, LIMITS)
+                loose, m = fix_line(line, guard, LOOSE)
+                if m > n:
+                    seen[line.strip()] = seen.get(line.strip(), 0) + 1
+        for line, count in seen.items():
+            print(f"{count:3d}x  {line}")
+        lists = "list needs" if len(seen) == 1 else "lists need"
+        print(f"\n{len(seen)} {lists} a person to tell a list from a clause.")
+        return 0
+
+    changed = files = 0
+    for path in sources():
+        lines = path.read_text(encoding="utf-8").split("\n")
+        hits = 0
+        for index, line in editable(path):
+            fixed, n = fix_line(line, guard, LIMITS)
+            if n:
+                lines[index] = fixed
+                hits += n
+                if not write:
+                    print(f"{path.relative_to(ROOT)}\n  - {line.strip()}\n  + {fixed.strip()}")
+        if hits:
+            files += 1
+            changed += hits
+            if write:
+                path.write_text("\n".join(lines), encoding="utf-8")
+
+    if not changed:
+        print("every list this script can judge already has its serial comma")
+        return 0
+    verb = "added" if write else "to add"
+    commas = "comma" if changed == 1 else "commas"
+    where = "file" if files == 1 else "files"
+    print(f"\n{changed} serial {commas} {verb}, across {files} {where}")
+    if not write:
+        print("run bin/serial-comma --write to make the changes")
+    return 0 if write else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

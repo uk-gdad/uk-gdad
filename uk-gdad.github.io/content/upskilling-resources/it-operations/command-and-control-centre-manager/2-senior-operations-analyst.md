@@ -20,15 +20,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Coursera courses
 
-- [Advanced Prometheus Alerting and Monitoring](https://www.coursera.org/learn/advanced-prometheus-alerting-and-monitoring): Building a complete monitoring stack with Prometheus and Grafana, including PromQL, exporters and Alertmanager rules.
+- [Advanced Prometheus Alerting and Monitoring](https://www.coursera.org/learn/advanced-prometheus-alerting-and-monitoring): Building a complete monitoring stack with Prometheus and Grafana, including PromQL, exporters, and Alertmanager rules.
 
 - [Site Reliability Engineering (SRE) Principles](https://www.coursera.org/learn/site-reliability-engineering-principles): Automation, monitoring, incident response and reliability measurement as one discipline.
 
-- [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Incident, problem, change and configuration management in a working platform.
+- [Advanced ITSM with ServiceNow: Optimizing IT Operations](https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations): Incident, problem, change, and configuration management in a working platform.
 
 ## Udemy courses
 
-- [Prometheus: The Complete Hands-On for Monitoring and Alerting](https://www.udemy.com/course/prometheus-course/): Alerting rules, recording rules and query practice, which is what monitor checks depend on.
+- [Prometheus: The Complete Hands-On for Monitoring and Alerting](https://www.udemy.com/course/prometheus-course/): Alerting rules, recording rules, and query practice, which is what monitor checks depend on.
 
 - [Successful ITSM Incident and Major Incident Management ITIL](https://www.udemy.com/course/successful-itil-incident-and-major-incident-management/): Incident management from logging to resolution, including P1 and P2 handling, validation and communication.
 
@@ -44,7 +44,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## edX courses
 
-- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines and observability systems, which is the virtual environment you may be overseeing.
+- [Introduction to DevOps: Practices and Tools Professional Certificate](https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools): Containers, infrastructure as code, deployment pipelines, and observability systems, which is the virtual environment you may be overseeing.
 
 - [Reliable Google Cloud Infrastructure: Design and Process (GoogleCloud)](https://www.edx.org/learn/computer-programming/google-cloud-reliable-google-cloud-infrastructure-design-and-process): Reliable cloud infrastructure design, useful for understanding what you are monitoring.
 
@@ -54,15 +54,15 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/): Networks, performance, fault tolerance and recovery, which is the material behind most of what you diagnose.
 
-- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Distributed systems techniques including naming, storage and fault tolerance.
+- [6.824 Distributed Computer Systems Engineering](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/): Distributed systems techniques including naming, storage, and fault tolerance.
 
-- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process, capacity and cycle time analysis, which is the general theory behind prioritising a queue.
+- [15.760B Introduction to Operations Management](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/): Process, capacity, and cycle time analysis, which is the general theory behind prioritising a queue.
 
 ## Blog posts
 
 - [Monitoring Distributed Systems, Google SRE Book chapter 6](https://sre.google/sre-book/monitoring-distributed-systems/): The four golden signals and firm rules on what should page a human.
 
-- [Monitoring and Alerting Best Practices to Reduce Alert Fatigue, OneUptime](https://oneuptime.com/blog/post/2026-02-20-monitoring-alerting-best-practices/view): Refining alerting policies, smarter thresholds and silencing non-critical alerts without losing visibility.
+- [Monitoring and Alerting Best Practices to Reduce Alert Fatigue, OneUptime](https://oneuptime.com/blog/post/2026-02-20-monitoring-alerting-best-practices/view): Refining alerting policies, smarter thresholds, and silencing non-critical alerts without losing visibility.
 
 - [Alert Fatigue Is Killing Your NOC Efficiency, Techmonarch](https://techmonarch.com/blog/alert-fatigue-is-killing-your-noc-efficiency-heres-what-actually-works/): On runbooks and automation removing whole classes of alert from the human queue.
 
@@ -92,7 +92,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Predicting operators reliability for control room alarm management using knowledge-based Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/S0951832026000773): Operator reliability under alarm load, from process control research.
 
-- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs and multi-model data.
+- [A Comprehensive Survey on Root Cause Analysis in (Micro) Services](https://arxiv.org/html/2408.00803v1): Root cause analysis across metrics, traces, logs, and multi-model data.
 
 - [Improved Root Cause Analysis Supporting Resilient Production Systems](https://www.sciencedirect.com/science/article/pii/S0278612522001273): Challenges and enablers in root cause analysis, including poor data quality and bias.
 
@@ -110,7 +110,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [PagerDuty Guide: On-Call and Incident Management Best Practices](https://www.youtube.com/watch?v=McBrUhz9Ia4): Practices that survive contact with a bad night.
 
-- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces and incident timelines.
+- [How to Automate Incident Postmortems for Consistent SRE and DevOps Reporting](https://www.youtube.com/watch?v=E53e-3RTU80): Generating structured reports from logs, metrics, traces, and incident timelines.
 
 - [Postmortem Culture at Google](https://www.youtube.com/watch?v=qgHWzQ2zcqQ): Blameless review in an organisation that relies on it working.
 
@@ -126,17 +126,17 @@ We welcome constructive feedback to improve this page and these lists.
 
 ## Books on Amazon
 
-- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones and Miranda. Debugging unfamiliar failures rather than watching for known ones.
+- [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449): By Majors, Fong-Jones, and Miranda. Debugging unfamiliar failures rather than watching for known ones.
 
-- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy and Rensin. Practical SRE including on-call load, alerting policy and toil reduction.
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505): By Beyer, Murphy, and Rensin. Practical SRE including on-call load, alerting policy and toil reduction.
 
-- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal and Hawley. The incident command system applied to IT, which is the model for prioritising a busy queue.
+- [Incident Management for Operations](https://www.amazon.com/Incident-Management-Operations-Rob-Schnepp-ebook/dp/B072YZ8W2R): By Schnepp, Vidal, and Hawley. The incident command system applied to IT, which is the model for prioritising a busy queue.
 
-- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup and Hogan. Operating distributed services, with case studies from large operators.
+- [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices-ebook/dp/B00N7N2CRQ): By Limoncelli, Chalup, and Hogan. Operating distributed services, with case studies from large operators.
 
-- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan and Chalup. The enterprise operations reference, worth rereading as your scope grows.
+- [The Practice of System and Network Administration, Volume 1](https://www.amazon.com/Practice-System-Network-Administration-Enterprise-ebook/dp/B01MFCSNQZ): By Limoncelli, Hogan, and Chalup. The enterprise operations reference, worth rereading as your scope grows.
 
-- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Designing, deploying, monitoring and sustaining systems at scale.
+- [Hands-on Site Reliability Engineering](https://www.amazon.com/Hands-Site-Reliability-Engineering-Capability/dp/9391030327): By Farooqui and Chikoti. Designing, deploying, monitoring, and sustaining systems at scale.
 
 - [Incident Management for Newbies: Expert Guidance for Beginners](https://www.amazon.com/Incident-Management-Newbies-Guidance-Beginners-ebook/dp/B0146UK2L6): By William Edwards. The ITIL incident management practice, useful for the Level 3 qualification.
 
@@ -144,7 +144,7 @@ We welcome constructive feedback to improve this page and these lists.
 
 - [Root Cause Analysis: The Core of Problem Solving and Corrective Action](https://www.amazon.com/Root-Cause-Analysis-Problem-Corrective-ebook/dp/B0BQJQQZ8C): By Duke Okes. A disciplined method for the pattern and trend work expected at this level.
 
-- [Site Reliability Engineering Tidbits: Learn SRE Principles and Techniques](https://www.amazon.com/Site-Reliability-Engineering-Tidbits-Observability-ebook/dp/B09QZHZYPC): By Daniel Mican. Short pieces on observability, SLOs, resilience and debugging.
+- [Site Reliability Engineering Tidbits: Learn SRE Principles and Techniques](https://www.amazon.com/Site-Reliability-Engineering-Tidbits-Observability-ebook/dp/B09QZHZYPC): By Daniel Mican. Short pieces on observability, SLOs, resilience, and debugging.
 
 ## Professional development tips
 

@@ -106,7 +106,7 @@ evidence of user needs and organisational outcomes, trusted to make good decisio
 **Two things worth knowing about this role.**
 
 First, four of your seven skills are worded **identically at service designer** — design
-communication, designing for everyone, evidence-based design and iterative design. The step up is
+communication, designing for everyone, evidence-based design, and iterative design. The step up is
 about judgement and trust rather than new craft.
 
 Second: **the framework publishes the same seven skills, word for word, for service designers,

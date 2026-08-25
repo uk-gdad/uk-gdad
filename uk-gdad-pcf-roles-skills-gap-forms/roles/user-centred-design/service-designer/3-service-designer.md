@@ -105,7 +105,7 @@ based on evidence of user needs and organisational outcomes. The framework expec
 **Two things worth knowing about this role.**
 
 First, four of your seven skills are worded **identically at junior service designer** — design
-communication, designing for everyone, evidence-based design and iterative design. What changed on
+communication, designing for everyone, evidence-based design, and iterative design. What changed on
 promotion was designing strategically, designing together and leading design.
 
 Second: **the framework publishes the same seven skills, word for word, for service designers,
@@ -420,7 +420,7 @@ correctly.
 - [ ] The accessibility regulations for public sector websites and apps
 - [ ] The Equality Act 2010 and the public sector equality duty
 - [ ] Reasonable adjustments, and how someone asks for one
-- [ ] Data protection, data minimisation and purpose limitation
+- [ ] Data protection, data minimisation, and purpose limitation
 - [ ] How decisions your service makes can be challenged or appealed
 - [ ] Records management and the Freedom of Information Act 2000
 - [ ] The GOV.UK Service Standard and service assessments
