@@ -373,7 +373,7 @@ structure causing?
 ### Skill: Modern development standards
 
 **What this means.** The practices that keep code understandable, testable and
-safe to change, applied across projects, and programmes rather than teams.
+safe to change, applied across projects and programmes rather than teams.
 
 **What the framework expects at this level.** That you identify and apply modern
 development standards to support complex projects and programmes, and lead

@@ -114,7 +114,7 @@ Two companion files in this repository pair well with this checklist:
 
 ### Role Level Focus: Senior Delivery Manager
 
-- [ ] Handle High Risk Delivery: Take accountability for complex, high risk products, and services.
+- [ ] Handle High Risk Delivery: Take accountability for complex, high risk products and services.
 - [ ] Be a Dependable Escalation Point: Build the calm and judgement that makes escalation to you useful.
 - [ ] Engage Senior Stakeholders: Build standing relationships with senior people, not meeting-by-meeting ones.
 - [ ] Coach Delivery Managers: Mentor colleagues in the role with agreed goals and review points.

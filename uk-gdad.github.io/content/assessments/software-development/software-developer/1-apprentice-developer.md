@@ -469,7 +469,7 @@ Your team is planning a bug-fixing day. There are 36 small bugs to share between
 - **Answering from the wrong column or row.** Question 2's trap — most builds run is not most builds succeeded — is typical. Match the question's exact words to the table before calculating.
 - **Factor-of-ten slips.** Rates per 100, per 1,000, and percentages are easy to muddle. Write the units next to your answer ("2.5 errors per 1,000") and check they match what was asked.
 - **Miscounting time steps.** April to July is three months of growth, not four. Listing the steps out is quicker than being wrong.
-- **Rushing because it "looks easy".** Easy questions with small numbers are exactly where careless mistakes happen. Steady care beats speed, in tests, and in maintenance windows alike.
+- **Rushing because it "looks easy".** Easy questions with small numbers are exactly where careless mistakes happen. Steady care beats speed, in tests and in maintenance windows alike.
 
 ## Workplace job-specific verbal reasoning assessment
 
@@ -737,7 +737,7 @@ Pairing session over, you continue a small change alone, and you accidentally pu
 
 **Correct answer: B**
 
-**Explanation:** A broken build blocks the whole team, so time matters, and the person best placed to explain the breaking change is you. Option B combines honesty, speed, and ownership: you surface the problem, attach yourself to the fix, and learn from how your mentor handles it — often the fastest lesson of the week. Option A abandons ownership and lets teammates waste time diagnosing something you already understand. Option C delays the team for up to a day, converting a small mistake into a real cost. Option D — pushing speculative fixes to a shared branch — often makes things worse and shows the wrong instinct: under pressure, slow down, and get help rather than thrash. Every developer breaks the build sometimes; assessors and mentors judge you on the ten minutes after, not the mistake itself. Teams that treat mistakes this way are safer and faster, and you contribute to that culture from day one.
+**Explanation:** A broken build blocks the whole team, so time matters, and the person best placed to explain the breaking change is you. Option B combines honesty, speed, and ownership: you surface the problem, attach yourself to the fix, and learn from how your mentor handles it — often the fastest lesson of the week. Option A abandons ownership and lets teammates waste time diagnosing something you already understand. Option C delays the team for up to a day, converting a small mistake into a real cost. Option D — pushing speculative fixes to a shared branch — often makes things worse and shows the wrong instinct: under pressure, slow down and get help rather than thrash. Every developer breaks the build sometimes; assessors and mentors judge you on the ten minutes after, not the mistake itself. Teams that treat mistakes this way are safer and faster, and you contribute to that culture from day one.
 
 **Question 3 (easy) — Uncomfortable pairing session**
 

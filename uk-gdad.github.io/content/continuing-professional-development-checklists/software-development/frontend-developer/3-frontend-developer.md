@@ -161,7 +161,7 @@ Two companion files in this repository pair well with this checklist:
 
 ### Skill: Programming and build (frontend developer)
 
-- [ ] Build Medium-to-High Complexity Interfaces: Deliver complex interfaces, tested, and documented to standard.
+- [ ] Build Medium-to-High Complexity Interfaces: Deliver complex interfaces, tested and documented to standard.
 - [ ] Review Specifications: Challenge ambiguous specifications early rather than building around them.
 - [ ] Master CSS Architecture: Learn a scalable approach to styling and apply it to a real codebase.
 - [ ] Deepen JavaScript: Study modules, asynchrony, and performance characteristics beyond framework idioms.

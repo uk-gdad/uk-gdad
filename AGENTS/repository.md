@@ -10,6 +10,7 @@ uk-gdad/
 │   ├── cook                      Reformats raw AI output into required markdown
 │   ├── cook-test.md              Worked examples for bin/cook
 │   ├── serial-comma              Applies the serial comma to prose written here
+│   ├── serial-comma-declined.md  Lines a reader decided against
 │   ├── publish                   Pushes uk-gdad.github.io/ to the site repository
 │   └── normalize                 Historical one-off migration; not in the pipeline
 ├── AGENTS.md, AGENTS/            These notes

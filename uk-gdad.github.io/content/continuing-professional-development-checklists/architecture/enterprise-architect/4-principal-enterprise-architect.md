@@ -105,7 +105,7 @@ The three main types of Continuing Professional Development (CPD) recognized by 
 
 ## UK GDAD PCF Role Skill Specifics
 
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Enterprise architect** role at the **Principal enterprise architect** level. You lead at the highest level and are responsible for ensuring the strategy is developed, agreed, and followed. You support multiple communities and teams, inspire other enterprise architects, horizon scan for external influences and risks, take responsibility for the overall direction of business and digital capabilities, and own the creation, maintenance, and consumption of a Digital Twin. Your development is now about organisational leadership and long-horizon stewardship.
+This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Enterprise architect** role at the **Principal enterprise architect** level. You lead at the highest level and are responsible for ensuring the strategy is developed, agreed, and followed. You support multiple communities and teams, inspire other enterprise architects, horizon scan for external influences and risks, take responsibility for the overall direction of business and digital capabilities, and own the creation, maintenance and consumption of a Digital Twin. Your development is now about organisational leadership and long-horizon stewardship.
 
 Two companion files in this repository pair well with this checklist:
 

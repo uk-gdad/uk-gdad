@@ -726,7 +726,7 @@ You have made a journey map showing that a service that appears to take twenty m
 - A) Remove them; the stakeholder knows what the map is for.
 - B) Explain that the waiting periods are the largest part of the user's experience and that removing them would make the map describe something users do not recognise — and offer to show them differently, for example greyed out, so the design steps remain clear.
 - C) Refuse and send the map unchanged.
-- D) Make two versions, one with, and one without.
+- D) Make two versions, one with and one without.
 
 **Correct answer: B. Least effective: A**
 

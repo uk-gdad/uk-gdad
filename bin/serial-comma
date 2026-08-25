@@ -17,6 +17,8 @@ What it never touches:
   * a skill name from the catalogue, an official title such as `Digital, Data
     and Technology`, a link, a code span, or a bold run-in
   * `spec/skills.md`, which records the catalogue as published
+  * any line listed in `bin/serial-comma-declined.md`, which a person read and
+    decided against
 
 Usage:
 
@@ -58,6 +60,10 @@ TARGETS = (
     "uk-gdad.github.io/AGENTS.md",
     "uk-gdad.github.io/README.md",
 )
+
+# Lines a person read and declined. The rules below cannot tell every pair from
+# every list — that is the judgement this file records.
+DECLINED = ROOT / "bin" / "serial-comma-declined.md"
 
 SKIP = (
     "uk-gdad.github.io/content/",
@@ -235,6 +241,15 @@ def is_list(match: re.Match[str], rest: str, at_start: bool, limits: dict[str, i
         return False
     if bool(OPENER.match(b)) != bool(OPENER.match(c)):
         return False
+    # "deliberately, in tests and in press lines" is one pair of prepositional
+    # phrases hung off a sentence, not the tail of a list of three. When both
+    # items open with the same preposition and the run before the comma does
+    # not, the comma is a boundary rather than a separator.
+    shared = OPENER.match(b)
+    if shared and OPENER.match(c):
+        opening = shared.group(1).lower()
+        if words(c)[0].lower().strip(",") == opening and not OPENER.match(tail):
+            return False
     # A participle after a plain phrase is a clause hanging off the sentence.
     if gerund(words(b)[0]) and not gerund(words(tail)[0]):
         return False
@@ -359,6 +374,17 @@ def editable(path: Path) -> list[tuple[int, str]]:
     return out
 
 
+def declined() -> set[str]:
+    """The lines a reader has already decided against."""
+    if not DECLINED.exists():
+        return set()
+    out = set()
+    for line in DECLINED.read_text(encoding="utf-8").split("\n"):
+        if line.startswith("- "):
+            out.add(line[2:].strip())
+    return out
+
+
 def sources() -> list[Path]:
     found = []
     for pattern in TARGETS:
@@ -373,11 +399,14 @@ def main(argv: list[str]) -> int:
     write = "--write" in argv
     held = "--held" in argv
     guard = protector()
+    read_and_declined = declined()
 
     if held:
         seen: dict[str, int] = {}
         for path in sources():
             for _, line in editable(path):
+                if line.strip() in read_and_declined:
+                    continue
                 tight, n = fix_line(line, guard, LIMITS)
                 loose, m = fix_line(line, guard, LOOSE)
                 if m > n:
@@ -393,6 +422,8 @@ def main(argv: list[str]) -> int:
         lines = path.read_text(encoding="utf-8").split("\n")
         hits = 0
         for index, line in editable(path):
+            if line.strip() in read_and_declined:
+                continue
             fixed, n = fix_line(line, guard, LIMITS)
             if n:
                 lines[index] = fixed

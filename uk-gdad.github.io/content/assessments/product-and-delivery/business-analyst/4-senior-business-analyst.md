@@ -430,7 +430,7 @@ A dashboard shows 5,200 applications received in June. The operational team's ca
 
 - **Dividing by the wrong base.** Percentage change divides by the original value; per-step funnel drop-off divides by that step's entrants. Both are relentlessly tested because both are relentlessly fumbled in real reports.
 - **Averaging averages.** Never average two rates from different-sized groups without weighting. If a report does it, the report is wrong — and if you do it in a test, the distractor is waiting.
-- **Confusing percentage points with percentages.** A rise from 60% to 69% is 9 points and 15% relative. Choose language deliberately, in tests, and in press lines alike.
+- **Confusing percentage points with percentages.** A rise from 60% to 69% is 9 points and 15% relative. Choose language deliberately, in tests and in press lines alike.
 - **Ignoring time-phasing.** Annualised benefits, mid-year go-lives, and ramp-up periods interact. The full-year full-rate figure is almost always one of the wrong options.
 - **Quoting the gap without decomposing it.** When two sources disagree, the difference is the start of the analysis, not the finding. Decompose before you conclude.
 - **Speed-reading the question stem.** Numeric stems hide the operative words — "relative to users entering it", "in year 1", "per application". Read the final sentence of the stem twice; it usually defines the calculation.

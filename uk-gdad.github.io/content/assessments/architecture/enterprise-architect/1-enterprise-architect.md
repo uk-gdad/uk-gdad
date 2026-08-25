@@ -290,7 +290,7 @@ A business case argues: "Departments that adopted the shared platform reduced th
 What is the strongest criticism of this inference?
 
 1. Twenty per cent is too small a saving to matter.
-2. The early adopters may differ systematically from the remaining departments (for example, simpler estates, or newer systems), so their average saving cannot simply be projected onto the rest — and a 20% saving in some departments does not equal a 20% fall in total organisational costs.
+2. The early adopters may differ systematically from the remaining departments (for example, simpler estates or newer systems), so their average saving cannot simply be projected onto the rest — and a 20% saving in some departments does not equal a 20% fall in total organisational costs.
 3. Shared platforms never save money.
 4. The business case should have used median rather than mean.
 

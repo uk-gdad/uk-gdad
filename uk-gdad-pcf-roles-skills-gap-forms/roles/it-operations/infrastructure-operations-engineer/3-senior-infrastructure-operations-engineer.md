@@ -99,7 +99,7 @@ incidents, problems and changes, with the accountabilities listed in the introdu
 
 First, **technical specialism at your level is largely a database skill**: using management system software
 and tools, using logical schemata to investigate problems and create reports, carrying out routine
-configuration, installation, and reconfiguration of **database and related products**, and optimising
+configuration, installation and reconfiguration of **database and related products**, and optimising
 performance and forecasting resource needs. Nowhere else in this role does the published text get that
 specific. If databases are handled by another team where you work, this is the skill most likely to be a real
 gap.

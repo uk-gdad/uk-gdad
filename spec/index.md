@@ -227,8 +227,9 @@ resolved to a real document is rendered as plain text, so a placeholder such as
   Technology*, or a third-party course, article, or book title all keep the
   punctuation they were published with. [`bin/serial-comma`](../bin/serial-comma)
   applies the rule where a list is unmistakable, and `--held` lists the ones
-  that need a person instead. Not enforced by `bin/check`, because telling a
-  list from a clause is a judgement.
+  that need a person instead. A comma it proposes wrongly is recorded in
+  `bin/serial-comma-declined.md`, so a decision made once holds. Not enforced by
+  `bin/check`, because telling a list from a clause is a judgement.
 - **The advisory is required.** Every derived document states that its content
   is AI-assisted, is work in progress, is for educational purposes, and that the
   reader should consult their organisation's HR, people development or legal

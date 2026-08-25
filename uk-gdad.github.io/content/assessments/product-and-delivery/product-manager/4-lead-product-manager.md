@@ -610,7 +610,7 @@ Passage (policy instruction to your directorate): "In light of the efficiency re
 
 Your portfolio's plan includes: (1) a brand-new licensing application service for small businesses; (2) a major redesign of the existing export-declaration journey; (3) routine bug fixes and content updates to the existing grants portal; (4) a new internal casework tool used only by departmental staff.
 
-Statement: "Under the instruction, items 1, and 2 require burden impact statements; items 3 and 4 do not."
+Statement: "Under the instruction, items 1 and 2 require burden impact statements; items 3 and 4 do not."
 
 - A) True
 - B) False — item 4 also requires a statement, since efficiency applies to staff burden too

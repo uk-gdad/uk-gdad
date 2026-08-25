@@ -365,7 +365,7 @@ Your digital, data and technology workforce is 400 people: 300 permanent staff a
 
 **Question 9 (challenging) — Reading a budget table with unit qualifiers**
 
-A summary table in a finance pack reads (figures in £000s): Infrastructure: budget 22,400, forecast 23,850. Applications: budget 18,900, forecast 17,640. Cyber security: budget 9,600, forecast 10,080. Data platform: budget 12,200, forecast 12,200. A colleague summarises: "We are £1.03m over in total, driven by infrastructure, and cyber." Is the total correct?
+A summary table in a finance pack reads (figures in £000s): Infrastructure: budget 22,400, forecast 23,850. Applications: budget 18,900, forecast 17,640. Cyber security: budget 9,600, forecast 10,080. Data platform: budget 12,200, forecast 12,200. A colleague summarises: "We are £1.03m over in total, driven by infrastructure and cyber." Is the total correct?
 
 - A) Yes — the net position is £1.03m over
 - B) No — the net position is £2.71m over

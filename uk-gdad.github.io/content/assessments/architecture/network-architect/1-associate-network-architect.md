@@ -452,7 +452,7 @@ D) 80%
 
 You are planning a small comms room. The cabinet has 42U of rack space and a power budget of 3,000 watts. You must install:
 
-- 4 switches, each 1U, and 150 W
+- 4 switches, each 1U and 150 W
 - 2 routers, each 2U, and 250 W
 - 1 firewall pair, together 2U, and 400 W
 - 1 UPS, 4U and drawing no budget (it supplies power)

@@ -169,7 +169,7 @@ D) 9,400 is plausible because the two sources should be added together
 
 **Question 7 (moderate) - Rule application across service phases**
 
-Your department applies these internal rules, derived from the Service Standard: during discovery, teams gather qualitative evidence of user needs but do not set quantitative targets; during alpha, teams test hypotheses, and define candidate indicators; during beta, teams collect baseline and live performance data against those indicators; during live, teams run full impact evaluation.
+Your department applies these internal rules, derived from the Service Standard: during discovery, teams gather qualitative evidence of user needs but do not set quantitative targets; during alpha, teams test hypotheses and define candidate indicators; during beta, teams collect baseline and live performance data against those indicators; during live, teams run full impact evaluation.
 
 A programme board asks four teams to report. Which team's activity is misaligned with its phase?
 

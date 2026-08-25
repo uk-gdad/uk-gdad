@@ -458,6 +458,7 @@ management track of a split level. The four retired
 | `bin/serial-comma` | Report the lists missing a serial comma; change nothing |
 | `bin/serial-comma --write` | Add the commas it can judge safely |
 | `bin/serial-comma --held` | The lists that need a person, not a script |
+| `bin/serial-comma-declined.md` | Lines a reader decided against, and the script skips |
 | `bin/publish` | Check, then push `uk-gdad.github.io/` to the site repository |
 | `bin/publish --dry-run` | Check, and report what would be pushed |
 | `uk-gdad.github.io/bin/sync` | Refresh the website's vendored inputs |

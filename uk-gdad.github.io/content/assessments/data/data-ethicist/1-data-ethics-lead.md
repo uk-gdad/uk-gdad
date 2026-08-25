@@ -475,7 +475,7 @@ D) Option 1: £40; Option 2: £63
 
 **Question 10 (challenging) — Ratio reasoning on review capacity**
 
-Ethics reviews come in two types: standard (taking 2 reviewer-days) and complex (taking 5 reviewer-days). Historically, standard, and complex reviews arrive in the ratio 3:1. Your team has 220 reviewer-days available next quarter.
+Ethics reviews come in two types: standard (taking 2 reviewer-days) and complex (taking 5 reviewer-days). Historically, standard and complex reviews arrive in the ratio 3:1. Your team has 220 reviewer-days available next quarter.
 
 Assuming arrivals follow the historical ratio, how many complex reviews can the team complete if it handles every review that arrives, and demand exactly exhausts capacity?
 
