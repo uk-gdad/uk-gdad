@@ -47,7 +47,7 @@ if ! git remote get-url "$remote" >/dev/null 2>&1; then
     exit 1
 fi
 
-# The site vendors content/ from the four role projects. bin/check reports a
+# The site vendors content/ from the five role projects. bin/check reports a
 # stale copy, which would otherwise be published as the real thing.
 echo "publish: checking the repository"
 bin/check --quiet
