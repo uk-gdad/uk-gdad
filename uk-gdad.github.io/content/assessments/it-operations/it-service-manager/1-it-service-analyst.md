@@ -187,10 +187,10 @@ Which order is most defensible?
 
 You are building a first-line checklist for "user cannot connect to Wi-Fi" incidents. You want the checklist to rule out the most common, quickest-to-test causes first. Which ordering best follows that principle?
 
-- A) Check building network outage dashboard → check airplane mode / Wi-Fi toggle on device → forget and rejoin the network → escalate to network team
-- B) Escalate to network team → check airplane mode → check outage dashboard → forget and rejoin
-- C) Forget and rejoin the network → escalate to network team → check airplane mode → check outage dashboard
-- D) Check airplane mode → forget and rejoin → check outage dashboard → escalate to network team
+- A) Check building network outage dashboard → check aeroplane mode / Wi-Fi toggle on device → forget and rejoin the network → escalate to network team
+- B) Escalate to network team → check aeroplane mode → check outage dashboard → forget and rejoin
+- C) Forget and rejoin the network → escalate to network team → check aeroplane mode → check outage dashboard
+- D) Check aeroplane mode → forget and rejoin → check outage dashboard → escalate to network team
 
 **Correct answer: A**
 

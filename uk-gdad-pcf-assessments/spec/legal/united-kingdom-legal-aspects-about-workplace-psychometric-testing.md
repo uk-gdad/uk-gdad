@@ -29,7 +29,7 @@ To legally defend the test, the employer must prove Objective Justification. Thi
 Generic IQ tests carry the highest legal risk in the UK regarding disability discrimination. If an employer administers a standard, timed abstract reasoning test without offering alterations, they face immediate liability. Legal compliance requires providing tailored accommodations: [16]
 
 - Extra Time: Providing an additional 25% (or more) time for candidates with reading or processing difficulties.
-- Alternative Formats: Offering the assessment via text-to-speech software, adjusted color contrasts, or paper-based formats.
+- Alternative Formats: Offering the assessment via text-to-speech software, adjusted colour contrasts, or paper-based formats.
 - Exemptions: Bypassing the generic IQ test entirely in favour of a structured work sample if the psychometric format itself unfairly penalises a neurodivergent applicant.
 
 ---
@@ -42,7 +42,7 @@ To minimise legal exposure, UK employers rarely use raw "IQ tests." Instead, the
 | --------------------------- | ---------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
 | General IQ / Cognitive      | Abstract logic, fluid intelligence                         | High       | Ensure a formal job analysis links fluid intelligence to daily performance.          |
 | Job-Specific Aptitude       | Numerical data interpretation, verbal situational analysis | Medium     | Tie test scenarios explicitly to actual workplace documentation or case studies.     |
-| Situational Judgement (SJT) | Workplace decision-making, behavioral tendencies           | Low        | Map questions directly to the employer's public, internal core competency framework. |
+| Situational Judgement (SJT) | Workplace decision-making, behavioural tendencies           | Low        | Map questions directly to the employer's public, internal core competency framework. |
 
 ## Sources
 

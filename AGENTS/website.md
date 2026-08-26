@@ -46,7 +46,7 @@ included. See index.md § Tutorial: publish the website.
 ## Where the logic lives
 
 - `src/lib/server/content.ts` — reads `content/` at build time. Holds the
-  summary parser, the catalog, the skill index, and the markdown renderer.
+  summary parser, the catalogue, the skill index, and the markdown renderer.
 - `src/lib/server/gapform.ts` — turns a skills gap form's questions, answer
   prompts, and tick lists into form controls while the markdown renders. Only
   that one document kind; everything else stays prose.

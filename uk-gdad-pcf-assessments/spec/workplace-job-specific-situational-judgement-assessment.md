@@ -1,17 +1,17 @@
 # Workplace job-specific situational judgement assessment
 
-A workplace job-specific situational judgement assessment evaluates a candidate’s decision-making, interpersonal skills, and professional conduct. Unlike logic or math tests, it presents realistic workplace dilemmas to see how well a candidate's behavioral choices align with company values and job requirements. [1, 2, 3, 4, 5]
+A workplace job-specific situational judgement assessment evaluates a candidate’s decision-making, interpersonal skills, and professional conduct. Unlike logic or math tests, it presents realistic workplace dilemmas to see how well a candidate's behavioural choices align with company values and job requirements. [1, 2, 3, 4, 5]
 
 ## Key Characteristics
 
 - Scenario-Based: Questions consist of short, hypothetical workplace conflicts, ethical dilemmas, or operational challenges.
-- No Single Objective Right Answer: Multiple responses may seem reasonable, but one fits the organization's culture and role best.
+- No Single Objective Right Answer: Multiple responses may seem reasonable, but one fits the organisation's culture and role best.
 - Response Formats: Candidates are asked to select either the Most Effective and Least Effective actions, or Rank/Rate all options from best to worst.
-- Untimed or Generous Timing: These assessments focus on natural judgment rather than speed. [6, 7, 8, 9, 10]
+- Untimed or Generous Timing: These assessments focus on natural judgement rather than speed. [6, 7, 8, 9, 10]
 
 ## How Different Roles Are Tested## 1. Software Team Lead (Project & People Management Focus)
 
-- What it measures: Conflict resolution, resource prioritization, and stakeholder management. [11, 12]
+- What it measures: Conflict resolution, resource prioritisation, and stakeholder management. [11, 12]
 - Test scenario: A critical product launch is in two days, but a senior developer refuses to work with a teammate due to a personal dispute, threatening a major delay.
 - Example options to evaluate:
 - Option A: Tell them to set aside differences until the launch, promising to mediate next week.

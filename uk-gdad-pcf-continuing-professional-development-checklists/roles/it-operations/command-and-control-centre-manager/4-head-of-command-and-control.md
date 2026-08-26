@@ -8,7 +8,7 @@ This information is created by AI and is work in progress for educational purpos
 
 ## Types
 
-The three main types of Continuing Professional Development (CPD) recognized by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
+The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
 
 ### Structured Learning (Formal CPD)
 
@@ -19,7 +19,7 @@ The three main types of Continuing Professional Development (CPD) recognized by 
 ### Reflective Practice (Reflective CPD)
 
 - [ ] Learning by thinking critically about your daily work.
-- [ ] Involves analyzing past projects, client interactions, or mistakes.
+- [ ] Involves analysing past projects, client interactions, or mistakes.
 - [ ] Includes peer reviews, team discussions, and mentoring debriefs.
 
 ### Self-Directed Learning (Informal CPD)
@@ -85,7 +85,7 @@ The three main types of Continuing Professional Development (CPD) recognized by 
 ### Reflective Writing Checklist (Post-Activity)
 
 - [ ] Define the 'What': Write a concise summary of the activity, the core concepts covered, and the provider.
-- [ ] Analyze the 'So What': Detail how this information directly connects to or challenges your current workflow.
+- [ ] Analyse the 'So What': Detail how this information directly connects to or challenges your current workflow.
 - [ ] Plan the 'Now What': Outline three immediate changes you will make to your daily tasks based on this data.
 - [ ] Identify Next Steps: Note down any follow-up questions or advanced topics you need to research next.
 

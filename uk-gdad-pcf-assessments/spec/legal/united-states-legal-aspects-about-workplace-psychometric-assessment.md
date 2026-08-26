@@ -29,7 +29,7 @@ The definitive legal authority on workplace intelligence testing is the landmark
 If an applicant files a discrimination charge regarding a cognitive test, federal courts follow a strict sequential framework to determine liability:
 
 1.  Plaintiff Demonstrates Disparate Impact: The applicant uses statistical data (applying the 80% rule) to prove the IQ test disproportionately disqualifies a protected class.
-2.  Employer Proves Business Necessity: The burden shifts to the employer. They must provide formal job analyses and industrial/organizational psychology validation studies showing that higher test scores directly correlate with superior on-the-job production. [9]
+2.  Employer Proves Business Necessity: The burden shifts to the employer. They must provide formal job analyses and industrial/organisational psychology validation studies showing that higher test scores directly correlate with superior on-the-job production. [9]
 3.  Plaintiff Rebuts with Alternatives: Even if the employer proves business necessity, the plaintiff wins the lawsuit if they can show that a less discriminatory tool (e.g., a portfolio review or a situational work sample) could have achieved the same vetting result without the demographic skew.
 
 ---
@@ -42,12 +42,12 @@ Because generic intelligence testing is highly susceptible to lawsuits, modern H
 | ----------------------- | ------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | General IQ Tests        | Abstract reasoning, logic, spatial patterns | High Risk        | Extremely difficult to defend for low-to-mid complexity roles.                                                                                   |
 | Job-Specific Aptitudes  | Coding, data entry, mechanical operations   | Low-to-Moderate  | Highly defensible because the test directly mirrors daily physical or technical job tasks.                                                       |
-| Personality Assessments | Behavioral traits, workplace culture fit    | Moderate Risk    | Safe under Title VII, but heavily scrutinized under the ADA to ensure questions do not function as medical screens for mental health conditions. |
+| Personality Assessments | Behavioural traits, workplace culture fit    | Moderate Risk    | Safe under Title VII, but heavily scrutinized under the ADA to ensure questions do not function as medical screens for mental health conditions. |
 
 I'll tailor my next response. Just tell me:
 
 - Specific job role under consideration
-- Name of the test being utilized
+- Name of the test being utilised
 - State or jurisdiction of the workplace
 
 Just reply with your answer or a new query to continue:

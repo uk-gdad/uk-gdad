@@ -2,7 +2,7 @@
 
 ## Job Role Summary
 
-A data governance manager plans, monitors and enforces the management of data assets. This role involves cataloguing, monitoring and identifying data assets, assigning ownership, incorporating governance into routine processes, supporting risk processes, and advocating for better use and management of data within the organization.
+A data governance manager plans, monitors and enforces the management of data assets. This role involves cataloguing, monitoring and identifying data assets, assigning ownership, incorporating governance into routine processes, supporting risk processes, and advocating for better use and management of data within the organisation.
 
 ---
 
@@ -66,11 +66,11 @@ A data governance manager plans, monitors and enforces the management of data as
 
 1. **Database Systems (6.830)**
    - URL: https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/
-   - Summary: Introduces graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalization, query optimization, and transactions. Topics include data models, database and schema design, query processing, and distributed databases.
+   - Summary: Introduces graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalisation, query optimisation, and transactions. Topics include data models, database and schema design, query processing, and distributed databases.
 
 2. **Data Management**
    - URL: https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/
-   - Summary: MIT Libraries Data Management Group workshop materials covering data set control, maintenance, and sharing. Topics include introduction to data management, data sharing and storage, file organization, version control, and open data requirements of various funding sources.
+   - Summary: MIT Libraries Data Management Group workshop materials covering data set control, maintenance, and sharing. Topics include introduction to data management, data sharing and storage, file organisation, version control, and open data requirements of various funding sources.
 
 3. **Spatial Database Management and Advanced Geographic Information Systems**
    - URL: https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/
@@ -82,11 +82,11 @@ A data governance manager plans, monitors and enforces the management of data as
 
 1. **Data governance: Best practices** (dbt Labs, November 2024)
    - URL: https://www.getdbt.com/blog/data-governance-best-practices
-   - Summary: This guide examines best practices for the technical elements of data use and management, along with those addressing the human side of data governance. Data governance best practices must address both the technical and the human aspects of how your organization deals with data.
+   - Summary: This guide examines best practices for the technical elements of data use and management, along with those addressing the human side of data governance. Data governance best practices must address both the technical and the human aspects of how your organisation deals with data.
 
 2. **Best Practices for Data Governance: Ensure Compliance and Quality** (HatchWorks, August 2025)
    - URL: https://hatchworks.com/blog/data-governance/best-practices-for-data-governance/
-   - Summary: Covers 10 best practices for data governance that work for quality, easy to access data. Recommends piloting governance initiatives before scaling them organization-wide.
+   - Summary: Covers 10 best practices for data governance that work for quality, easy to access data. Recommends piloting governance initiatives before scaling them organisation-wide.
 
 3. **How to Implement Data Governance: Best Practices** (Workday, June 2025)
    - URL: https://blog.workday.com/en-us/how-implement-data-governance-best-practices.html
@@ -98,11 +98,11 @@ A data governance manager plans, monitors and enforces the management of data as
 
 5. **Data Governance Framework - Implementation Guide** (Jelvix)
    - URL: https://jelvix.com/blog/data-governance-framework
-   - Summary: Explains that the framework consists of processes, policies, rules, organizational structures, and technologies. Emphasizes that implementation results in consistent, clean data ensuring better analytics, security, compliance, and business decisions.
+   - Summary: Explains that the framework consists of processes, policies, rules, organisational structures, and technologies. Emphasises that implementation results in consistent, clean data ensuring better analytics, security, compliance, and business decisions.
 
 6. **Understanding the Role of Data Quality in Data Governance** (Actian, August 2025)
    - URL: https://www.actian.com/blog/data-governance/understanding-the-role-of-data-quality-in-data-governance/
-   - Summary: Explains why strong data quality is essential within a data governance framework, detailing how establishing standards and processes for accuracy, consistency, and monitoring ensures reliable, compliant, and actionable data across the organization.
+   - Summary: Explains why strong data quality is essential within a data governance framework, detailing how establishing standards and processes for accuracy, consistency, and monitoring ensures reliable, compliant, and actionable data across the organisation.
 
 7. **How Data Governance Improves Data Quality: Concepts and Best Practices** (Dataddo, September 2024)
    - URL: https://blog.dataddo.com/how-data-governance-improves-data-quality-concepts-and-best-practices
@@ -110,7 +110,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 8. **Data Governance & Data Stewardship Explained** (OvalEdge)
    - URL: https://www.ovaledge.com/blog/data-governance-data-stewardship-explained
-   - Summary: Data stewardship is a branch of data governance, which serves as the umbrella term defining collective procedures, policies, and processes required to manage and securely share data across an organization.
+   - Summary: Data stewardship is a branch of data governance, which serves as the umbrella term defining collective procedures, policies, and processes required to manage and securely share data across an organisation.
 
 9. **A Comprehensive Guide To Metadata Governance** (Secoda)
    - URL: https://www.secoda.co/blog/a-comprehensive-guide-to-metadata-governance
@@ -118,7 +118,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 10. **Master Data Governance Explained: A Beginner's Guide** (Alation, October 2024)
     - URL: https://www.alation.com/blog/master-data-governance-beginners-guide/
-    - Summary: Master Data Governance is the framework that ensures master data is accurate, consistent, and trusted across an organization, and is a critical component of Master Data Management (MDM). Governance ensures that data remains accurate, reliable, and free of errors—saving organizations from the costs of bad data.
+    - Summary: Master Data Governance is the framework that ensures master data is accurate, consistent, and trusted across an organisation, and is a critical component of Master Data Management (MDM). Governance ensures that data remains accurate, reliable, and free of errors—saving organisations from the costs of bad data.
 
 ---
 
@@ -130,7 +130,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 2. **Establishing Data Governance for Sharing Real-World Data: A Case Study** (JAMIA Open, June 2025)
    - URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12206003/
-   - Summary: Outlines the development of a data governance process at an academic health center to support external data sharing, emphasizing the importance of data literacy, cross-office collaboration, and structured workflows to manage complex review requirements.
+   - Summary: Outlines the development of a data governance process at an academic health centre to support external data sharing, emphasising the importance of data literacy, cross-office collaboration, and structured workflows to manage complex review requirements.
 
 3. **Research Data Governance: The Need for a System of Cross-Organizational Governance** (Data Science Journal - CODATA, 2025)
    - URL: https://datascience.codata.org/articles/10.5334/dsj-2025-012
@@ -138,7 +138,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 4. **The Data Governance Journey in Practice: Insights from Case Study Research** (Taylor & Francis, 2025)
    - URL: https://www.tandfonline.com/doi/full/10.1080/10580530.2025.2477459
-   - Summary: Examines case study research exploring the operationalization of organizational Data Governance programmes, with 20 case studies coded using an inductive open coding approach.
+   - Summary: Examines case study research exploring the operationalization of organisational Data Governance programmes, with 20 case studies coded using an inductive open coding approach.
 
 5. **Data Governance: A conceptual framework, structured review, and research agenda** (Abraham et al., International Journal of Information Management, 2019)
    - URL: https://www.researchgate.net/publication/334653735_Data_Governance_A_conceptual_framework_structured_review_and_research_agenda
@@ -150,7 +150,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 7. **Data Governance, Privacy, and Ethics** (Springer, 2024)
    - URL: https://link.springer.com/chapter/10.1007/978-3-031-51063-2_5
-   - Summary: Data governance plays a role in establishing how data can be used ethically, including defining transparency in data collection, data storage, and ethical use. Important for ensuring appropriate privacy laws are understood and organizations are in compliance.
+   - Summary: Data governance plays a role in establishing how data can be used ethically, including defining transparency in data collection, data storage, and ethical use. Important for ensuring appropriate privacy laws are understood and organisations are in compliance.
 
 8. **Data Governance Activities: An Analysis of the Literature** (Taylor & Francis)
    - URL: https://www.tandfonline.com/doi/full/10.1080/12460125.2016.1187397
@@ -158,7 +158,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 9. **Data Governance Maturity Models and Practices: A Systematic Literature Review** (Springer, 2022)
    - URL: https://link.springer.com/chapter/10.1007/978-3-032-05727-3_16
-   - Summary: A comprehensive systematic literature review of data governance maturity models and practices, helping organizations evaluate their current state and identify improvement opportunities.
+   - Summary: A comprehensive systematic literature review of data governance maturity models and practices, helping organisations evaluate their current state and identify improvement opportunities.
 
 10. **Data Governance, Data Literacy and the Management of Data Quality** (Tibor Koltay, SAGE Journals, 2016)
     - URL: https://journals.sagepub.com/doi/abs/10.1177/0340035216672238
@@ -186,7 +186,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 5. **Qlik: Working with a Data Catalog**
    - URL: Search "Qlik data catalog data governance" on YouTube
-   - Summary: A 2-minute video describing how data engineers, data stewards, and data consumers work with a data catalog as part of a robust data governance process.
+   - Summary: A 2-minute video describing how data engineers, data stewards, and data consumers work with a data catalogue as part of a robust data governance process.
 
 6. **Dr. David P. Marco: AI Governance Background**
    - URL: Search "David Marco AI governance EWSolutions" on YouTube
@@ -214,7 +214,7 @@ A data governance manager plans, monitors and enforces the management of data as
 
 1. **Data Governance Handbook: A practical approach to building trust in data** by Wendy S. Batchelder
    - URL: https://www.amazon.com/Data-Governance-Handbook-practical-approach-ebook/dp/B0BYK29KG7
-   - Summary: Written by a three-time chief data officer in global Fortune 500 companies with focus on business value and executive buy-in. Provides practical approaches to building trust in organizational data.
+   - Summary: Written by a three-time chief data officer in global Fortune 500 companies with focus on business value and executive buy-in. Provides practical approaches to building trust in organisational data.
 
 2. **Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program** by John Ladley
    - URL: https://www.amazon.com/Data-Governance-Effective-Kaufmann-Intelligence-ebook/dp/B009OAFWDM
@@ -238,11 +238,11 @@ A data governance manager plans, monitors and enforces the management of data as
 
 7. **Multi-Domain Master Data Management: Advanced MDM and Data Governance in Practice** by Mark Allen and Dalton Cervo
    - URL: https://www.amazon.com/Multi-Domain-Master-Data-Management-Governance-ebook/dp/B00V638T0S
-   - Summary: Written in a business friendly style with comprehensive program planning guidance. Covers advanced strategies centered on key MDM disciplines of Data Governance, Data Stewardship, Data Quality Management, Metadata Management, and Data Integration.
+   - Summary: Written in a business friendly style with comprehensive program planning guidance. Covers advanced strategies centred on key MDM disciplines of Data Governance, Data Stewardship, Data Quality Management, Metadata Management, and Data Integration.
 
 8. **Data Stewardship: An Actionable Guide to Effective Data Management and Data Governance** by David Plotkin
    - URL: https://www.amazon.com/Data-Stewardship-Actionable-Management-Governance-ebook/dp/B00FFFZ3NY
-   - Summary: Explains everything you need to know to successfully implement the stewardship portion of data governance, including how to organize, train, and work with data stewards. Second edition includes handling big data and Data Lakes.
+   - Summary: Explains everything you need to know to successfully implement the stewardship portion of data governance, including how to organise, train, and work with data stewards. Second edition includes handling big data and Data Lakes.
 
 9. **DAMA-DMBOK: Data Management Body of Knowledge: 2nd Edition** by DAMA International
    - URL: https://www.amazon.com/DAMA-DMBOK-Data-Management-Knowledge-Revised-ebook/dp/B0D449GYMD
@@ -250,17 +250,17 @@ A data governance manager plans, monitors and enforces the management of data as
 
 10. **Non-Invasive Data Governance: The Path of Least Resistance and Greatest Success** by Robert S. Seiner
     - URL: https://www.amazon.com/Non-Invasive-Data-Governance-Resistance-Greatest-ebook/dp/B00N3259RG
-    - Summary: A practical and non-threatening approach to governing information and promoting stewardship of data as a cross-organization asset. Focuses on practical, sustainable implementation strategies.
+    - Summary: A practical and non-threatening approach to governing information and promoting stewardship of data as a cross-organisation asset. Focuses on practical, sustainable implementation strategies.
 
 ---
 
 ## Extras
 
-- DAMA International (Data Management Association): Professional organization for data management and governance professionals
+- DAMA International (Data Management Association): Professional organisation for data management and governance professionals
 - Data Governance Institute: Provides training, certification, and resources for data governance practitioners
-- Certified Data Management Professional (CDMP): Industry-recognized certification based on DAMA-DMBOK framework
+- Certified Data Management Professional (CDMP): Industry-recognised certification based on DAMA-DMBOK framework
 - Enterprise Data World Conference: Annual conference focused on data governance and data management
-- Data Governance and Information Quality Conference: Specialized conference for governance and quality professionals
+- Data Governance and Information Quality Conference: Specialised conference for governance and quality professionals
 
 ## Professional development tips
 

@@ -1,12 +1,12 @@
 # Workplace job-specific numerical reasoning assessment
 
-A workplace job-specific numerical reasoning assessment evaluates a candidate's ability to analyze, interpret, and make logical decisions using numerical data. It mimics the data-handling demands of the target role, focusing on business math rather than abstract formulas. [1, 2, 3, 4, 5]
+A workplace job-specific numerical reasoning assessment evaluates a candidate's ability to analyse, interpret, and make logical decisions using numerical data. It mimics the data-handling demands of the target role, focusing on business math rather than abstract formulas. [1, 2, 3, 4, 5]
 
 ## Key Characteristics
 
 - Real-World Business Data: Question inputs consist of graphs, currency tables, balance sheets, or project schedules.
 - Basic Math Application: Questions focus on percentages, ratios, currency conversions, and cost-benefit estimations.
-- Calculator Friendly: Most assessments allow or provide an onscreen calculator, prioritizing interpretation over mental arithmetic.
+- Calculator Friendly: Most assessments allow or provide an onscreen calculator, prioritising interpretation over mental arithmetic.
 - Time Constraints: Candidates typically face a strict time limit, requiring quick and accurate data extraction. [6, 7, 8, 9, 10]
 
 ## How Different Roles Are Tested## 1. Retail Store Manager (Sales & Inventory Focus)
@@ -17,8 +17,8 @@ A workplace job-specific numerical reasoning assessment evaluates a candidate's 
 
 ## 2. Logistics & Supply Chain Coordinator (Efficiency Focus)
 
-- What it measures: Time-distance calculations, fuel efficiency ratios, capacity optimization, and delivery costs. [14]
-- Test scenario: A multi-layered dataset showing shipping route distances, fuel costs per liter, vehicle weight limits, and delivery deadlines.
+- What it measures: Time-distance calculations, fuel efficiency ratios, capacity optimisation, and delivery costs. [14]
+- Test scenario: A multi-layered dataset showing shipping route distances, fuel costs per litre, vehicle weight limits, and delivery deadlines.
 - Example question: "Which delivery route offers the lowest total fuel cost per metric ton of cargo while still arriving before the 17:00 deadline?"
 
 ## 3. Marketing Executive (Campaign ROI Focus)

@@ -77,12 +77,25 @@ npx cspell "*.md" "spec/**/*.md" "AGENTS/**/*.md"
 It is not wired into `bin/check`, because the corpus names hundreds of people
 and products it cannot know.
 
-Two exceptions, left as they are because they are quoted or inherited:
+The corpus was swept for en-US spellings on 2026-08-26: 729 changed, and what
+survives is deliberate. Left as it is, because it is quoted rather than written
+here:
 
-- The advisory paragraph says "organization's". It is quoted verbatim across all
-  205 assessment files; changing it means changing all of them at once.
-- CPD checklist general sections use en-US in places, inherited from
-  `spec/template.md`. Fix the template, and every file follows.
+- **The advisory paragraph** says "organization's", and "people and
+  organizational development staff". It is quoted verbatim in 390 files, and the
+  whole block is skipped rather than the line — only two of its four lines carry
+  a phrase worth matching on, and it is the fourth that holds the spelling.
+- **Third-party titles**, whether written as a link, in bold, or in running
+  prose: a Coursera *Specialization*, Google's *Dataplex Universal Catalog*, the
+  *Business Architecture Center of Excellence*, the *SBI (Situation-Behavior-Impact)*
+  model. The working rule is that a capitalised word in the middle of a sentence
+  is a name, and a name's spelling is not ours to correct.
+- **Words the notes quote on purpose**, like "recognized" in this file.
+
+Three words are deliberately out of scope, because each needs a person:
+*program* (correct for computer programs, and the framework uses it that way),
+*practice* and *practise* (the noun and the verb differ), and *licence* and
+*license* (same, and the file is `LICENSE.md`).
 
 ## The advisory is not optional
 

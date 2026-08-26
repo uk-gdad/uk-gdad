@@ -25,7 +25,7 @@ A workplace job-specific verbal reasoning assessment evaluates how well a candid
 
 - What it measures: Identifying the core argument, underlying sentiment, and hidden assumptions in text.
 - Test scenario: A draft press release regarding a product recall or a transcript from a hostile media interview.
-- Example question: "Which of the following statements best summarizes the company's official stance regarding the third-party supplier's liability?" [11, 12]
+- Example question: "Which of the following statements best summarises the company's official stance regarding the third-party supplier's liability?" [11, 12]
 
 ## Common Pitfalls for Candidates
 
