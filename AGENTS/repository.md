@@ -14,6 +14,7 @@ uk-gdad/
 │   ├── publish                   Pushes uk-gdad.github.io/ to the site repository
 │   └── normalize                 Historical one-off migration; not in the pipeline
 ├── AGENTS.md, AGENTS/            These notes
+├── help/                         Guidance that is not a content contract
 ├── README.md                     Orientation
 ├── index.md                      The manual: tutorials, examples, reference
 │

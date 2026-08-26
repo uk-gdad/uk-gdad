@@ -53,6 +53,7 @@ TARGETS = (
     "uk-gdad-pcf-continuing-professional-development-checklists/**/*.md",
     "uk-gdad-pcf-skills-self-assessment/**/*.md",
     "spec/**/*.md",
+    "help/**/*.md",
     "AGENTS/**/*.md",
     "AGENTS.md",
     "index.md",
