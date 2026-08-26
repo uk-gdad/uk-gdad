@@ -68,6 +68,15 @@ as published in:
 en-GB throughout for prose this repository writes: *organisation*, *prioritise*,
 *behaviour*, *centred*, *programme*. The framework is en-GB too.
 
+`cspell.json` sets `"language": "en-GB"`, so the spell checker agrees:
+
+```sh
+npx cspell "*.md" "spec/**/*.md" "AGENTS/**/*.md"
+```
+
+It is not wired into `bin/check`, because the corpus names hundreds of people
+and products it cannot know.
+
 Two exceptions, left as they are because they are quoted or inherited:
 
 - The advisory paragraph says "organization's". It is quoted verbatim across all

@@ -47,3 +47,7 @@ today; the role summaries name 183. The three lists have been compared and
 reconciled as far as the source allows — see [spec/skills.md](../spec/skills.md).
 
 Full contract: [spec/index.md](spec/index.md).
+
+## Licence
+
+Open Government Licence v3.0. See [LICENSE.md](LICENSE.md).

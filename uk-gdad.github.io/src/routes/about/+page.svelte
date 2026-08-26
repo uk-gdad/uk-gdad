@@ -64,7 +64,8 @@
     <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">
       Open Government Licence v3.0
     </a>. The upskilling, development, assessment and skills gap form material is written for this
-    project.
+    project, and is offered under the same licence. Attribution is required wherever any of it is
+    republished.
   </p>
 
   <h2>How it is built</h2>

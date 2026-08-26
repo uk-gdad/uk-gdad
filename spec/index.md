@@ -244,8 +244,11 @@ resolved to a real document is rendered as plain text, so a placeholder such as
   Capability Framework, © Crown copyright, available under the
   [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
   Attribution is required wherever they are republished.
-- Upskilling, CPD and assessment documents are written for this repository. They
-  are AI-assisted with human review, and every one of them says so.
+- Upskilling, CPD, assessment and skills gap form documents are written for this
+  repository. They are AI-assisted with human review, and every one of them says
+  so. They carry the same licence: **the whole monorepo is Open Government
+  Licence v3.0** (SPDX `OGL-UK-3.0`), and every project holds its own
+  `LICENSE.md` saying so.
 - Third-party material — course titles, article titles, book titles — is
   referenced by title and link only. Nothing is reproduced.
 

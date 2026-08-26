@@ -59,3 +59,7 @@ Or read it on the web: <https://uk-gdad.github.io/assessments/>
 
 This is the largest project here — around 3.5 million words. Individual files
 run to tens of thousands of words, so the website is usually the easier way in.
+
+## Licence
+
+Open Government Licence v3.0. See [LICENSE.md](LICENSE.md).

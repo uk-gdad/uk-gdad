@@ -51,3 +51,7 @@ Created with AI assistance and human review, for educational purposes, and work
 in progress. Before using it in any way that affects someone's job, consult your
 organisation's human resources, people and organisational development, or legal
 compliance colleagues.
+
+## Licence
+
+Open Government Licence v3.0. See [LICENSE.md](LICENSE.md).

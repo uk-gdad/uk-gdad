@@ -130,3 +130,4 @@ For a custom domain, add `static/CNAME` and update the origin in
 Role summaries are adapted from the Government Digital and Data Profession
 Capability Framework under the
 [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The site's own code is offered under the same licence. See [LICENSE.md](LICENSE.md).

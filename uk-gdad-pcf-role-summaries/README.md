@@ -61,4 +61,5 @@ directly under the profession and say `Role level: NOT IN USE`.
 
 Adapted from the Government Digital and Data Profession Capability Framework,
 © Crown copyright, under the
-[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+([SPDX: OGL-UK-3.0](https://spdx.org/licenses/OGL-UK-3.0.html)). See [LICENSE.md](LICENSE.md).

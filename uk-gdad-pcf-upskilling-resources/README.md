@@ -57,3 +57,7 @@ Dead links and better resources are the most useful contributions. Read
 the repository root.
 
 Contact: Joel Henderson <joel@joelparkerhenderson.com>
+
+## Licence
+
+Open Government Licence v3.0. See [LICENSE.md](LICENSE.md).
