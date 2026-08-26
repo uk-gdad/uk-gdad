@@ -7,6 +7,10 @@ import {
 } from '$lib/server/content';
 import { normalizeSlug } from '$lib/types';
 
+// A summary is prose with nothing to hydrate, like the four markdown routes.
+// Without this the page shipped the client router for no reason.
+export const csr = false;
+
 export function entries() {
   return getSlugsFor('summary').map((slug) => ({ slug }));
 }

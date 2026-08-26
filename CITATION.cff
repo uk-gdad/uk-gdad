@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: >-
+  UK GDAD PCF: an open companion to the UK Government Digital and Data
+  Profession Capability Framework
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: dataset
+authors:
+  - given-names: Joel Parker
+    family-names: Henderson
+    email: joel@joelparkerhenderson.com
+    affiliation: joelparkerhenderson.com
+    orcid: 'https://orcid.org/0009-0000-4681-282X'
+identifiers:
+  - type: url
+    value: 'https://github.com/uk-gdad/uk-gdad/'
+    description: The repository
+  - type: url
+    value: 'https://uk-gdad.github.io'
+    description: The published website
+repository-code: 'https://github.com/uk-gdad/uk-gdad/'
+url: 'https://uk-gdad.github.io'
+abstract: >-
+  Five documents for every one of the 205 role levels in the UK Government
+  Digital and Data Profession Capability Framework: the framework restated as
+  plain text, upskilling resources, a continuing professional development
+  checklist, practice assessment material, and a skills gap form. 1,025
+  documents in all, published as a static website. The role summaries are
+  adapted from the framework under the Open Government Licence v3.0; the other
+  four documents are written for this repository and are AI-assisted with human
+  review.
+keywords:
+  - UK government
+  - digital and data profession
+  - capability framework
+  - skills framework
+  - professional development
+  - open government licence
+license: OGL-UK-3.0

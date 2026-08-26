@@ -17,6 +17,12 @@ uk-gdad/
 ├── help/                         Guidance that is not a content contract
 ├── README.md                     Orientation
 ├── index.md                      The manual: tutorials, examples, reference
+├── AI_STATEMENT.md               What is AI-generated here, and what it means
+├── INSTALL.md, COMPARISONS.md    How to run it; what it sits next to
+├── BENCHMARKS.md, CHANGELOG.md   What it measures; what changed
+├── NEWS.md, MAINTAINERS.md       Recent changes and press; who to ask
+├── LICENSE.md, CITATION.cff      Licensing and citation
+├── CODEOWNERS                    One owner for every file
 │
 ├── uk-gdad-pcf-role-summaries/               205 files — CANONICAL
 ├── uk-gdad-pcf-upskilling-resources/         205 files

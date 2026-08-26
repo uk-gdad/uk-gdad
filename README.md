@@ -132,14 +132,31 @@ that does not work in practice.
 Working with an AI coding agent? [AGENTS.md](AGENTS.md) and [AGENTS/](AGENTS)
 hold the working notes; `CLAUDE.md` points at them.
 
+## About this repository
+
+| File | What it answers |
+| --- | --- |
+| [INSTALL.md](INSTALL.md) | How to read it, take a copy, or run the site |
+| [AI_STATEMENT.md](AI_STATEMENT.md) | What is AI-generated here, and what that means for you |
+| [COMPARISONS.md](COMPARISONS.md) | How it relates to the official framework, SFIA, and others |
+| [BENCHMARKS.md](BENCHMARKS.md) | Corpus size, check times, page weight |
+| [NEWS.md](NEWS.md) | What changed lately, and press enquiries |
+| [CHANGELOG.md](CHANGELOG.md) | The same, commit by commit |
+| [MAINTAINERS.md](MAINTAINERS.md) | Who maintains it, and what happens if they cannot |
+| [LICENSE.md](LICENSE.md) | Licensing, in full |
+| [CITATION.cff](CITATION.cff) | How to cite it |
+| [help/outreach](help/outreach/index.md) | Where to tell people about it |
+
 ## Licence
 
 Role summaries are adapted from the Government Digital and Data Profession
 Capability Framework, © Crown copyright, available under the
-[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
-Attribution is required wherever they are republished.
+[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+([SPDX: OGL-UK-3.0](https://spdx.org/licenses/OGL-UK-3.0.html)). Attribution is
+required wherever they are republished.
 
 Everything written for this repository — upskilling, CPD, assessments, skills
-gap forms, the tooling and the website — is offered under the same terms.
+gap forms, the tooling and the website — is offered under the same terms. See
+[LICENSE.md](LICENSE.md).
 
-Contact: Joel Henderson <joel@joelparkerhenderson.com>
+Contact: Joel Parker Henderson <joel@joelparkerhenderson.com>
