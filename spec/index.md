@@ -33,9 +33,10 @@ This repository does three things with that framework:
 
 1. **Restates** it as one plain-text file per role level, so that people and
    software can read it without scraping a website or parsing a spreadsheet.
-2. **Extends** it with four further documents per role level: upskilling
-   resources, a continuing professional development checklist, a practice
-   assessment, and a skills gap form for an employee to fill in.
+2. **Extends** it with five further documents per role level: a start-here
+   orientation and learning pathway, upskilling resources, a continuing
+   professional development checklist, a practice assessment, and a skills
+   gap form for an employee to fill in.
 3. **Publishes** all of it as a static website.
 
 Non-goals: this repository is not the framework, does not set pay or grading,
@@ -45,26 +46,26 @@ and does not replace an organisation's own guidance. It is a community project.
 
 Four nouns, used in this order and never interchangeably:
 
-| Term | Meaning | Count |
-| --- | --- | --- |
-| **Profession** | The broadest grouping, e.g. `software-development` | 8 |
-| **Role** | A job within a profession, e.g. `software-developer` | 52 |
-| **Role level** | A seniority step within a role, e.g. `4-senior-developer` | 205 |
-| **Skill** | A named capability a role level requires, e.g. `User focus` | 183 distinct |
+| Term           | Meaning                                                     | Count        |
+| -------------- | ----------------------------------------------------------- | ------------ |
+| **Profession** | The broadest grouping, e.g. `software-development`          | 8            |
+| **Role**       | A job within a profession, e.g. `software-developer`        | 52           |
+| **Role level** | A seniority step within a role, e.g. `4-senior-developer`   | 205          |
+| **Skill**      | A named capability a role level requires, e.g. `User focus` | 183 distinct |
 
 The eight professions, and what each contains:
 
-| Profession | Roles | Role levels |
-| --- | ---: | ---: |
-| `architecture` | 7 | 27 |
-| `chief-digital-and-data` | 4 | 4 |
-| `data` | 9 | 36 |
-| `it-operations` | 12 | 46 |
-| `product-and-delivery` | 6 | 21 |
-| `quality-assurance-testing` | 3 | 10 |
-| `software-development` | 3 | 24 |
-| `user-centred-design` | 8 | 37 |
-| **Total** | **52** | **205** |
+| Profession                  |  Roles | Role levels |
+| --------------------------- | -----: | ----------: |
+| `architecture`              |      7 |          27 |
+| `chief-digital-and-data`    |      4 |           4 |
+| `data`                      |      9 |          36 |
+| `it-operations`             |     12 |          46 |
+| `product-and-delivery`      |      6 |          21 |
+| `quality-assurance-testing` |      3 |          10 |
+| `software-development`      |      3 |          24 |
+| `user-centred-design`       |      8 |          37 |
+| **Total**                   | **52** |     **205** |
 
 Of the 205 role levels, 201 are in use and 4 are retired. A retired level is
 marked in its summary by the literal text `Role level: NOT IN USE`; all four are
@@ -84,15 +85,20 @@ exactly; a prefix match conflates them.
 
 ## Projects
 
-| Directory | What it holds | Documents |
-| --- | --- | --- |
-| [`uk-gdad-pcf-role-summaries`](../uk-gdad-pcf-role-summaries/spec/index.md) | The framework restated. **Canonical.** | 205 |
-| [`uk-gdad-pcf-upskilling-resources`](../uk-gdad-pcf-upskilling-resources/spec/index.md) | Courses, posts, research, videos, books | 205 |
-| [`uk-gdad-pcf-continuing-professional-development-checklists`](../uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) | CPD checklists | 205 |
-| [`uk-gdad-pcf-assessments`](../uk-gdad-pcf-assessments/spec/index.md) | Practice psychometric assessments | 205 |
-| [`uk-gdad-pcf-roles-skills-gap-forms`](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md) | Skills gap forms, sent by HR and filled in by an employee | 205 |
-| [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md) | A standalone self-rating tool | 1 |
-| [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md) | The published website | — |
+| Directory                                                                                                                                   | What it holds                                             | Documents |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- |
+| [`uk-gdad-pcf-role-summaries`](../uk-gdad-pcf-role-summaries/spec/index.md)                                                                 | The framework restated. **Canonical.**                    | 205       |
+| [`uk-gdad-pcf-role-level-start-here`](../uk-gdad-pcf-role-level-start-here/spec/index.md)                                                   | Starting ideas for learning the role.                     | 205       |
+| [`uk-gdad-pcf-upskilling-resources`](../uk-gdad-pcf-upskilling-resources/spec/index.md)                                                     | Courses, posts, research, videos, books                   | 205       |
+| [`uk-gdad-pcf-continuing-professional-development-checklists`](../uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) | CPD checklists                                            | 205       |
+| [`uk-gdad-pcf-assessments`](../uk-gdad-pcf-assessments/spec/index.md)                                                                       | Practice psychometric assessments                         | 205       |
+| [`uk-gdad-pcf-roles-skills-gap-forms`](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md)                                                 | Skills gap forms, sent by HR and filled in by an employee | 205       |
+| [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md)                                                 | A standalone self-rating tool                             | 1         |
+| [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md)                                                                                   | The published website                                     | —         |
+
+`uk-gdad-pcf-role-level-start-here` completed its rollout on 2026-08-28: it now
+holds all 205 role levels, the same as the other four derived projects, and
+`bin/check` requires all 205 from it exactly as it does from them.
 
 The skill catalogue and how the repository's vocabularies compare against it:
 [`spec/skills.md`](skills.md).
@@ -109,9 +115,9 @@ Every project has the same shape:
 ## Role index
 
 `uk-gdad-pcf-role-summaries/roles/` **is** the role index. It defines which role
-levels exist. The other four role projects mirror it exactly: same paths, same
-file names, 205 files each. A file that exists in one and not the others is a
-defect, not a variation.
+levels exist. Five other role projects mirror it exactly: same paths, same
+file names, 205 files each. A file that exists in one of the five
+fully-mirrored projects and not the others is a defect, not a variation.
 
 ### Path shape
 
@@ -142,9 +148,10 @@ of a role level everywhere in this repository:
 software-development/software-developer/4-senior-developer
 ```
 
-The same slug addresses the same role level in all five projects, and it is the
-URL path on the website. Never renumber or rename a file without changing it in
-all five projects and re-running `bin/check`.
+The same slug addresses the same role level in every role project in this
+repository, and it is the URL path on the website. Never renumber or rename a
+file without changing it in every project that already carries that role level,
+then re-running `bin/check`.
 
 ## Document contracts
 
@@ -182,12 +189,13 @@ skill under more than one heading. Consumers merge the bullets under one skill.
 Each derived project has a required title and a set of required `##` sections.
 Extra sections are allowed; missing ones are a defect.
 
-| Project | Title | Required sections |
-| --- | --- | --- |
-| Upskilling | `# <Level> - upskill resources` | Coursera courses · Udemy courses · Skillsoft courses · edX courses · MIT OpenCourseWare courses · Blog posts · Research articles · Videos · Books on Amazon · Professional development tips |
-| CPD | `# UK GDAD PCF Continuing Professional Development Checklist` | Types · Phases · Events · Teamwork · UK GDAD PCF Role Skill Specifics |
-| Assessments | `# <Level> - Psychometric Assessment Resources` | Introduction · Advisory · Workplace job-specific cognitive assessment · Workplace job-specific numeric reasoning assessment · Workplace job-specific verbal reasoning assessment · Workplace job-specific situational judgement assessment · Conclusion |
-| Skills gap forms | `# <Level> - skills gap form` | Introduction · Advisory · How to fill in this form · Rating scale · About this role level · Job tasks · Job skills · Job performance expectations · Legal compliance · Human resources best practices · Your development priorities · Next steps |
+| Project          | Title                                                         | Required sections                                                                                                                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Start here       | `# <Level> - start here`                                      | Purpose · Explore the framework · Learning pathway                                                                                                                                                                                                       |
+| Upskilling       | `# <Level> - upskill resources`                               | Coursera courses · Udemy courses · Skillsoft courses · edX courses · MIT OpenCourseWare courses · Blog posts · Research articles · Videos · Books on Amazon · Professional development tips                                                             |
+| CPD              | `# UK GDAD PCF Continuing Professional Development Checklist` | Types · Phases · Events · Teamwork · UK GDAD PCF Role Skill Specifics                                                                                                                                                                                   |
+| Assessments      | `# <Level> - Psychometric Assessment Resources`               | Introduction · Advisory · Workplace job-specific cognitive assessment · Workplace job-specific numeric reasoning assessment · Workplace job-specific verbal reasoning assessment · Workplace job-specific situational judgement assessment · Conclusion |
+| Skills gap forms | `# <Level> - skills gap form`                                 | Introduction · Advisory · How to fill in this form · Rating scale · About this role level · Job tasks · Job skills · Job performance expectations · Legal compliance · Human resources best practices · Your development priorities · Next steps        |
 
 Only the `- Psychometric Assessment Resources` suffix is enforced on assessment
 titles. The part before it names the level in title case, and where the role and
@@ -199,6 +207,11 @@ The CPD title is identical in all 205 files: the level is identified by the file
 path, and the general checklists that open the document are the same for
 everyone. The level-specific material is under
 `## UK GDAD PCF Role Skill Specifics`.
+
+The start here document is the one place in the repository that links out to
+the other six sibling pages for its role level, and the only one whose
+learning pathway coaches the reader to ask AI for resources rather than naming
+any — see [its project specification](../uk-gdad-pcf-role-level-start-here/spec/index.md).
 
 ### Links
 
@@ -216,15 +229,15 @@ resolved to a real document is rendered as plain text, so a placeholder such as
 - **Register follows seniority.** Apprentice and junior levels get plainer
   language and more explanation; lead and principal levels get denser language
   and assume more.
-- **Spelling** is en-GB in prose that this repository writes: *organisation*,
-  *prioritise*, *behaviour*. Framework text is quoted as published, and the
+- **Spelling** is en-GB in prose that this repository writes: _organisation_,
+  _prioritise_, _behaviour_. Framework text is quoted as published, and the
   framework itself uses en-GB.
 - **The serial comma** goes before the conjunction that closes a list of three
-  or more items: *apples, bananas, and oranges*. See
+  or more items: _apples, bananas, and oranges_. See
   [`spec/serial-comma/`](serial-comma/index.md). It applies to prose this
   repository writes, and not to anything quoted: the framework's own wording,
-  a skill name from the catalogue, an official title such as *Digital, Data and
-  Technology*, or a third-party course, article, or book title all keep the
+  a skill name from the catalogue, an official title such as _Digital, Data and
+  Technology_, or a third-party course, article, or book title all keep the
   punctuation they were published with. [`bin/serial-comma`](../bin/serial-comma)
   applies the rule where a list is unmistakable, and `--held` lists the ones
   that need a person instead. A comma it proposes wrongly is recorded in
@@ -258,7 +271,8 @@ A derived document is produced from the canonical summary, never from another
 derived document:
 
 ```
-role summary ──┬──> upskilling resources
+role summary ──┬──> start here
+               ├──> upskilling resources
                ├──> CPD checklist
                ├──> assessment
                └──> skills gap form
@@ -329,7 +343,7 @@ bin/check --list    # the canonical role index, one slug per line
 Run it before every commit that touches content. It checks:
 
 1. The canonical index parses: path shape, profession names, level numbering.
-2. The four derived projects mirror the canonical index exactly.
+2. The five derived projects mirror the canonical index exactly.
 3. Every summary has a role line, one level line and at least one skill.
 4. Every derived document has its required title and required sections.
 5. Every skills gap form carries one block per skill its summary names, in the
@@ -373,7 +387,7 @@ this repository does not hold.
    automated link check runs. Advisory only.
 4. **A run-on bullet in one summary.** In
    `data/digital-evaluator/5-head-of-digital-evaluation`, the second bullet of
-   *Evaluation delivery* runs two expectations together with no separator:
+   _Evaluation delivery_ runs two expectations together with no separator:
    "assure the evaluation work of digital evaluator teams define best practice
    and methodologies for evaluation and ensure they are shared across teams".
    The summary quotes the framework as published, so it is left as it is. The

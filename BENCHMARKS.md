@@ -110,3 +110,30 @@ browser engines:
   under Known drift in [`spec/index.md`](spec/index.md).
 - **Real-world page timing.** No field data. The site is static files on GitHub
   Pages, and the numbers above are what a browser has to fetch.
+
+## Update — 2026-08-28
+
+`uk-gdad-pcf-role-level-start-here` completed its rollout — all 205 role
+levels — and was wired into the website as a sixth document kind. Corpus and
+build counts above were re-measured with the same commands and are now stale;
+the current numbers:
+
+| Project | Files | Words |
+| --- | ---: | ---: |
+| Role summaries | 205 | 96,280 |
+| Role level start here | 205 | 170,723 |
+| Upskilling resources | 205 | 345,827 |
+| CPD checklists | 205 | 411,357 |
+| Assessments | 205 | 3,564,961 |
+| Skills gap forms | 205 | 828,493 |
+| **Total** | **1,230** | **5,417,641** |
+
+`bin/check` now covers 1,230 documents and runs in 0.4s. `pnpm build` now
+prerenders 1,427 pages in 6.5s, essentially unchanged — a markdown route costs
+the same to prerender regardless of which document kind it renders.
+
+The page weight, JavaScript and accessibility measurements above were not
+re-run for this update: they were not expected to change, because a start-here
+page is the same shape of prerendered, script-free markdown page as an
+upskilling or development page, but that is an expectation, not a
+measurement.

@@ -16,7 +16,7 @@ cd uk-gdad.github.io
 pnpm install
 pnpm dev        # http://localhost:5173
 pnpm check      # svelte-check — must be clean
-pnpm build      # build/ — 1,222 pages
+pnpm build      # build/ — 1,427 pages
 pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```
@@ -42,6 +42,14 @@ That repository is a publishing target, not a place to work. A commit made there
 directly has no common ancestor with the next subtree split, so the next publish
 is rejected. Edit everything here — the workflow file and the site's `README.md`
 included. See index.md § Tutorial: publish the website.
+
+The deploy workflow (`.github/workflows/deploy.yml`) already authenticates to
+GitHub Pages with OpenID Connect — `permissions: id-token: write` and
+`actions/deploy-pages` — rather than a stored deployment secret. This project
+does not publish to a package registry, so npm/crates.io-style Trusted
+Publishing does not apply yet; if that changes, see
+[`spec/trusted-publishing/`](../spec/trusted-publishing/index.md) for the
+policy.
 
 ## Where the logic lives
 

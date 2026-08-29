@@ -22,6 +22,7 @@ assessment material, and a skills gap form to fill in.
 | Project | What it holds | Files |
 | --- | --- | ---: |
 | [Role summaries](uk-gdad-pcf-role-summaries) | The framework restated, one file per role level. **Canonical.** | 205 |
+| [Role level start here](uk-gdad-pcf-role-level-start-here) | A first orientation and learning pathway, one per role level | 205 |
 | [Upskilling resources](uk-gdad-pcf-upskilling-resources) | Courses, blog posts, research, videos, books | 205 |
 | [CPD checklists](uk-gdad-pcf-continuing-professional-development-checklists) | Continuing professional development, per level | 205 |
 | [Assessments](uk-gdad-pcf-assessments) | Practice cognitive, numeric, verbal and situational judgement material | 205 |
@@ -30,7 +31,7 @@ assessment material, and a skills gap form to fill in.
 | [Website](uk-gdad.github.io) | The published static site | — |
 
 Covering **8 professions**, **52 roles**, **205 role levels** and **183 skills** —
-**1,025 documents** in all, published as **1,222 web pages**.
+**1,230 documents** in all, published as **1,427 web pages**.
 
 ## Quick start
 
@@ -76,7 +77,7 @@ adding a role level, and publishing the site.
 
 ## How it fits together
 
-One **slug** identifies a role level everywhere — in all five projects, and as
+One **slug** identifies a role level everywhere — in all six projects, and as
 the URL on the website:
 
 ```
@@ -84,7 +85,7 @@ software-development/software-developer/4-senior-developer
 ```
 
 `uk-gdad-pcf-role-summaries/roles/` is the role index: it defines which role
-levels exist, and the other four projects mirror it exactly, 205 files each.
+levels exist, and the other five projects mirror it exactly, 205 files each.
 
 Derived documents are always written from the canonical summary, never from
 each other:
@@ -114,6 +115,22 @@ bin/check --list    # the canonical role index
 Run it before every commit that touches content. It checks the role index, the
 mirroring, the document contracts, that every skills gap form covers exactly the
 skills its summary names, and that the website's vendored copies are not stale.
+
+## Publishing security
+
+This repository does not publish a package to any registry — there is no npm,
+crates.io, or similar release step to secure. The one publishing path is the
+website: `.github/workflows/deploy.yml` in
+[uk-gdad.github.io](uk-gdad.github.io) already deploys to GitHub Pages using
+OpenID Connect (`id-token: write` with `actions/deploy-pages`), so there is no
+long-lived deployment secret held anywhere. `bin/publish`'s push from this
+repository to that one is a plain `git subtree push` over a configured git
+remote, authenticated the same way any other git push is.
+
+If this project ever does publish a package to a registry, the policy is
+Trusted Publishing — OIDC-based, short-lived credentials instead of a stored
+API token — once it is production-ready across the forges and registries in
+use. See [spec/trusted-publishing/](spec/trusted-publishing/index.md).
 
 ## Contributing
 

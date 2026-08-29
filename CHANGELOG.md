@@ -14,6 +14,11 @@ the work landed on `main`.
 - Repository documentation: `LICENSE.md`, `CITATION.cff`, `NEWS.md`,
   `COMPARISONS.md`, `BENCHMARKS.md`, `INSTALL.md`, `CODEOWNERS`,
   `MAINTAINERS.md`, `CHANGELOG.md`, and `AI_STATEMENT.md`.
+- `spec/trusted-publishing/`: the project's policy on OIDC-based Trusted
+  Publishing for any future package registry release. Referenced from
+  `README.md`, `AGENTS/website.md`, and `uk-gdad.github.io/spec/index.md`,
+  alongside a note that the website's GitHub Pages deploy already
+  authenticates with OpenID Connect rather than a stored secret.
 
 ### Fixed
 

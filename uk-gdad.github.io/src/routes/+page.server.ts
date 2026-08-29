@@ -15,9 +15,11 @@ export function load() {
       roles: professions.reduce((total, profession) => total + profession.roleCount, 0),
       levels: getLevelRows().length,
       skills: getSkills().length,
+      startHere: getSlugsFor('startHere').length,
       upskilling: getSlugsFor('upskilling').length,
       development: getSlugsFor('development').length,
-      assessment: getSlugsFor('assessment').length
+      assessment: getSlugsFor('assessment').length,
+      gapform: getSlugsFor('gapform').length
     }
   };
 }

@@ -25,6 +25,7 @@ uk-gdad/
 ├── CODEOWNERS                    One owner for every file
 │
 ├── uk-gdad-pcf-role-summaries/               205 files — CANONICAL
+├── uk-gdad-pcf-role-level-start-here/        205 files
 ├── uk-gdad-pcf-upskilling-resources/         205 files
 ├── uk-gdad-pcf-continuing-professional-development-checklists/  205 files
 ├── uk-gdad-pcf-assessments/                  205 files
@@ -37,8 +38,8 @@ Each role project holds `spec/index.md` and `roles/`. Nothing else.
 
 ## The one invariant
 
-`uk-gdad-pcf-role-summaries/roles/` defines which role levels exist. The other
-four role projects mirror it exactly — same paths, same names, 205 files each.
+`uk-gdad-pcf-role-summaries/roles/` defines which role levels exist. Five other
+role projects mirror it exactly — same paths, same names, 205 files each.
 
 The **slug** is the path under `roles/` without `.md`:
 
@@ -46,8 +47,8 @@ The **slug** is the path under `roles/` without `.md`:
 software-development/software-developer/4-senior-developer
 ```
 
-One slug addresses the same role level in all five projects, and is the URL path
-on the website. Changing a slug means changing five files and re-running
+One slug addresses the same role level in all six projects, and is the URL path
+on the website. Changing a slug means changing six files and re-running
 `bin/check`.
 
 ## Working here
@@ -70,7 +71,7 @@ on the website. Changing a slug means changing five files and re-running
 
 - Edit anything under `uk-gdad.github.io/content/`, `uk-gdad.github.io/src/lib/lily/`,
   or `uk-gdad.github.io/static/tools/` — all vendored. Edit the source, then sync.
-- Add a file to one role project without adding it to the other four.
+- Add a file to one role project without adding it to the other five.
 - Write `TODO` into a published document. An unwritten section is a defect.
 - Add a role level that the framework does not publish.
 

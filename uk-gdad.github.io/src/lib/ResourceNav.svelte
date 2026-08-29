@@ -1,5 +1,5 @@
 <script lang="ts">
-  // The four documents published for a role level. Kinds with no document for
+  // The documents published for a role level. Kinds with no document for
   // this level stay in place, greyed out, so the gap is visible rather than
   // silently missing.
   import { RESOURCES, type ResourceKind } from '$lib/types';

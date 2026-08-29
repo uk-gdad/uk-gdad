@@ -15,6 +15,7 @@ export function GET() {
     ...getProfessions().map((profession) => `/professions/${profession.slug}/`),
     ...getSkills().map((skill) => `/skills/${skill.slug}/`),
     ...getLevelRows().map((row) => `/roles/${row.slug}/`),
+    ...getSlugsFor('startHere').map((slug) => `/start-here/${slug}/`),
     ...getSlugsFor('upskilling').map((slug) => `/upskilling/${slug}/`),
     ...getSlugsFor('development').map((slug) => `/continuing-professional-development/${slug}/`),
     ...getSlugsFor('assessment').map((slug) => `/assessments/${slug}/`),

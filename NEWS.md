@@ -62,12 +62,12 @@ project would rather you had them from here than had to work them out:
    [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/),
    and attribution is required wherever they are republished. See
    [LICENSE.md](LICENSE.md).
-3. **The other four documents are AI-generated with human review**, and are
+3. **The other five documents are AI-generated with human review**, and are
    unvalidated. The practice assessments are not an assessment instrument. See
    [AI_STATEMENT.md](AI_STATEMENT.md).
 
 Useful numbers, all reproducible from [BENCHMARKS.md](BENCHMARKS.md):
-8 professions, 52 roles, 205 role levels, 183 distinct skills, 1,025 documents,
-roughly 5.2 million words, 1,222 web pages.
+8 professions, 52 roles, 205 role levels, 183 distinct skills, 1,230 documents,
+1,427 web pages.
 
 Where this project takes its own news: [help/outreach](help/outreach/index.md).

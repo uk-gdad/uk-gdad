@@ -33,11 +33,15 @@
   </WarningCallout>
 
   <h2>What is here</h2>
-  <p>Every role level in the framework gets up to five documents:</p>
+  <p>Every role level in the framework gets up to six documents:</p>
   <ul>
     <li>
       <strong>Role summary</strong> — the role, the level, and the skills the framework names,
       adapted from the official framework.
+    </li>
+    <li>
+      <strong>Start here</strong> — a first orientation to the level, with links to every other
+      document published for it and a learning pathway to work through.
     </li>
     <li>
       <strong>Upskilling resources</strong> — courses, blog posts, research, videos and books,
@@ -63,9 +67,9 @@
     published under the
     <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">
       Open Government Licence v3.0
-    </a>. The upskilling, development, assessment and skills gap form material is written for this
-    project, and is offered under the same licence. Attribution is required wherever any of it is
-    republished.
+    </a>. The start here, upskilling, development, assessment and skills gap form material is
+    written for this project, and is offered under the same licence. Attribution is required
+    wherever any of it is republished.
   </p>
 
   <h2>How it is built</h2>

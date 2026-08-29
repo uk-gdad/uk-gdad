@@ -4,7 +4,7 @@ The public website for the [UK GDAD PCF projects](https://github.com/uk-gdad/uk-
 — the United Kingdom Government Digital and Data (GDAD) Profession Capability
 Framework (PCF) — at <https://uk-gdad.github.io>.
 
-A SvelteKit project using `@sveltejs/adapter-static` that prerenders **1,222
+A SvelteKit project using `@sveltejs/adapter-static` that prerenders **1,427
 pages** to plain HTML, built with the
 [Lily Design System™](https://lilydesignsystem.com/) and deployed by GitHub
 Actions to GitHub Pages.
@@ -105,9 +105,9 @@ copy is a failing check.
 
 - **Role summaries** are plain text, not markdown. `src/lib/server/content.ts`
   parses them into role, level, duties and skills, then renders structured HTML.
-- **The other four** — upskilling, development, assessments, and skills gap
-  forms — are markdown, rendered at build time with `marked`. Headings get
-  stable ids and feed an on-page contents list.
+- **The other five** — start here, upskilling, development, assessments, and
+  skills gap forms — are markdown, rendered at build time with `marked`.
+  Headings get stable ids and feed an on-page contents list.
 - **Gap-form paths end in `/roles`**, exactly as summary paths do, so the link
   rewriter in `content.ts` must test for `skills-gap` **before** it tests for a
   summary. Reordering those tests silently sends every gap-form link to the

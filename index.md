@@ -45,8 +45,8 @@ The numbers:
 | Roles | 52 |
 | Role levels | 205 (201 in use, 4 retired) |
 | Distinct skills | 183 |
-| Documents | 1,025 |
-| Website pages | 1,222 |
+| Documents | 1,230 |
+| Website pages | 1,427 |
 
 ### The shape of it
 
@@ -57,7 +57,8 @@ uk-gdad/
 ├── index.md               This manual
 │
 ├── uk-gdad-pcf-role-summaries/                 CANONICAL — defines what exists
-├── uk-gdad-pcf-upskilling-resources/           ─┐
+├── uk-gdad-pcf-role-level-start-here/          ─┐
+├── uk-gdad-pcf-upskilling-resources/            │
 ├── uk-gdad-pcf-continuing-professional-…/       ├─ derived, mirror the canonical
 ├── uk-gdad-pcf-assessments/                     │
 ├── uk-gdad-pcf-roles-skills-gap-forms/         ─┘
@@ -165,8 +166,8 @@ That is usually a better prompt than a job description.
 
 ## Tutorial: add a role level
 
-The framework has published a new level. Adding it means four files and one
-check. Never fewer than four — a level that exists in one project and not the
+The framework has published a new level. Adding it means six files and one
+check. Never fewer than six — a level that exists in one project and not the
 others fails `bin/check`.
 
 ### 1. Work out the slug
@@ -185,7 +186,7 @@ ls uk-gdad-pcf-role-summaries/roles/data/data-engineer/
 1-data-engineer.md  2-senior-data-engineer.md  3-lead-data-engineer.md  4-head-of-data-engineering.md
 ```
 
-A new level between 2 and 3 means renumbering 3 and 4 — in all five projects.
+A new level between 2 and 3 means renumbering 3 and 4 — in all six projects.
 
 ### 2. Write the summary
 
@@ -208,10 +209,13 @@ Skill: Data modelling
 EOF
 ```
 
-### 3. Write the four derived documents
+### 3. Write the five derived documents
 
-Same slug, in each of the other four projects. Each has its own contract:
+Same slug, in each of the other five projects. Each has its own contract:
 
+- [Start here](uk-gdad-pcf-role-level-start-here/spec/index.md) — title
+  `# Principal data engineer - start here`, three required sections: Purpose,
+  Explore the framework, Learning pathway.
 - [Upskilling](uk-gdad-pcf-upskilling-resources/spec/index.md) — title
   `# Principal data engineer - upskill resources`, ten required sections.
 - [CPD](uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) —
@@ -267,12 +271,12 @@ pnpm dev                 # http://localhost:5173
 
 ```sh
 pnpm check               # svelte-check; must be clean
-pnpm build               # build/ — 1,222 prerendered pages
+pnpm build               # build/ — 1,427 prerendered pages
 pnpm preview             # serve the built site
 ```
 
 Prerendering crawls every internal link, so a broken link fails the build. That
-is deliberate: with 1,222 pages, the build is the only link checker that will
+is deliberate: with 1,427 pages, the build is the only link checker that will
 ever keep up.
 
 ### Publish it
@@ -289,7 +293,7 @@ bin/publish --dry-run    # check, and report what would be pushed
 bin/publish              # check, then push
 ```
 
-`bin/publish` runs `bin/check` first — the site vendors `content/` from the four
+`bin/publish` runs `bin/check` first — the site vendors `content/` from the five
 role projects, and a stale copy would otherwise be published as the real thing —
 then hands the push to `git subtree`:
 
@@ -563,22 +567,24 @@ everything else is written here. For anything affecting pay, grading,
 recruitment or promotion, use the official framework and talk to your
 organisation.
 
-**How much of this is AI-generated?** The upskilling, CPD, assessment and
-skills gap form documents are AI-assisted with human review, and every one of
-them says so. Role summaries are adapted from the published framework.
+**How much of this is AI-generated?** The start here, upskilling, CPD,
+assessment and skills gap form documents are AI-assisted with human review,
+and every one of them says so. Role summaries are adapted from the published
+framework.
 
 **Why plain text for the summaries and markdown for everything else?** Summaries
 are data — read far more often by programs than by people, and worth being able
-to parse with string prefixes alone. The other four are prose for people, where
+to parse with string prefixes alone. The other five are prose for people, where
 markdown earns its keep.
 
-**Why five files per role level instead of one?** Different lifecycles. A
-summary changes when the framework changes. Upskilling links rot. CPD advice
-matures. Assessments are the longest documents by far — 3.5 million words across
-the corpus, against 96,000 for the summaries — and nobody reading a summary
-wants to scroll past them. Skills gap forms are the only ones written to be
-*filled in* rather than read, which is why they carry a rating scale and
-numbered questions and nothing else does.
+**Why six files per role level instead of one?** Different lifecycles. A
+summary changes when the framework changes. A start-here page is the one
+written to be read first, and links out to the rest. Upskilling links rot. CPD
+advice matures. Assessments are the longest documents by far — 3.5 million
+words across the corpus, against 96,000 for the summaries — and nobody reading
+a summary wants to scroll past them. Skills gap forms are the only ones
+written to be *filled in* rather than read, which is why they carry a rating
+scale and numbered questions and nothing else does.
 
 **Can I fill a skills gap form in on the website?** No. Every page is
 prerendered static HTML — there is no server and nothing to submit to, and each
@@ -598,5 +604,5 @@ contract your change has to meet, then run `bin/check`.
 **Something does not match the official framework.** The framework changes
 upstream. Update the summaries from a fresh download, then run
 `bin/check --list` and diff it against the previous output — that diff is the
-work list for the other four projects. Known mismatches are recorded under
+work list for the other five projects. Known mismatches are recorded under
 [known drift](spec/index.md#known-drift).

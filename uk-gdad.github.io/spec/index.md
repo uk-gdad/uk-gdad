@@ -45,6 +45,7 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | Path | Copied from |
 | --- | --- |
 | `content/role-summaries/` | `uk-gdad-pcf-role-summaries/roles/` |
+| `content/role-level-start-here/` | `uk-gdad-pcf-role-level-start-here/roles/` |
 | `content/upskilling-resources/` | `uk-gdad-pcf-upskilling-resources/roles/` |
 | `content/continuing-professional-development-checklists/` | `uk-gdad-pcf-continuing-professional-development-checklists/roles/` |
 | `content/assessments/` | `uk-gdad-pcf-assessments/roles/` |
@@ -65,6 +66,7 @@ Trailing slashes always. The slug from the root specification is the path.
 | `/professions/<profession>/` | One profession, its roles and levels | 8 |
 | `/roles/` | Role finder, searchable | 1 |
 | `/roles/<slug>/` | Role summary, parsed into sections | 205 |
+| `/start-here/<slug>/` | Start here: orientation and learning pathway | 205 |
 | `/upskilling/<slug>/` | Upskilling resources | 205 |
 | `/continuing-professional-development/<slug>/` | CPD checklist | 205 |
 | `/assessments/<slug>/` | Practice assessment | 205 |
@@ -115,7 +117,7 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
 pnpm install
 pnpm dev        # http://localhost:5173
 pnpm check      # svelte-check, must be clean
-pnpm build      # build/, 1,222 pages
+pnpm build      # build/, 1,427 pages
 pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```
@@ -134,7 +136,11 @@ next publish.
 
 GitHub Actions builds and deploys on push to `main`, per
 `.github/workflows/deploy.yml`. Repository settings: Pages → Build and
-deployment → Source → GitHub Actions.
+deployment → Source → GitHub Actions. The deploy job authenticates to GitHub
+Pages with OpenID Connect (`permissions: id-token: write`, `actions/deploy-pages`)
+rather than a stored secret — see the parent repository's
+[`spec/trusted-publishing/`](../../spec/trusted-publishing/index.md) for the
+wider policy this follows.
 
 ## Quality bar
 

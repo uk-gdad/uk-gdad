@@ -24,6 +24,7 @@ const CONTENT = join(process.cwd(), 'content');
 
 const DIRECTORIES: Record<ResourceKind, string> = {
   summary: 'role-summaries',
+  startHere: 'role-level-start-here',
   upskilling: 'upskilling-resources',
   development: 'continuing-professional-development-checklists',
   assessment: 'assessments',
@@ -198,6 +199,7 @@ export function getProfessions(): Profession[] {
       inUse,
       has: {
         summary: true,
+        startHere: exists('startHere', slug),
         upskilling: exists('upskilling', slug),
         development: exists('development', slug),
         assessment: exists('assessment', slug),
@@ -341,9 +343,11 @@ function resolveLink(href: string, from: { kind: ResourceKind; slug: string }): 
           ? 'assessment'
           : /continuing|professional|cpd|checklist/i.test(prefix)
             ? 'development'
-            : /summar|^roles?$|\/roles?$/i.test(prefix)
-              ? 'summary'
-              : from.kind;
+            : /start-here/i.test(prefix)
+              ? 'startHere'
+              : /summar|^roles?$|\/roles?$/i.test(prefix)
+                ? 'summary'
+                : from.kind;
 
     if (kind !== 'summary' && !statSafe(kind, slug)) return null;
     const base = RESOURCE_BASES[kind];
@@ -354,6 +358,7 @@ function resolveLink(href: string, from: { kind: ResourceKind; slug: string }): 
 
 const RESOURCE_BASES: Record<ResourceKind, string> = {
   summary: '/roles',
+  startHere: '/start-here',
   upskilling: '/upskilling',
   development: '/continuing-professional-development',
   assessment: '/assessments',

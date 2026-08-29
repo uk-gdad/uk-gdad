@@ -12,6 +12,7 @@ truth. The reference docs below are the working knowledge that goes with it.
 @AGENTS/taxonomy.md
 @AGENTS/writing.md
 @AGENTS/role-summaries.md
+@AGENTS/role-level-start-here.md
 @AGENTS/upskilling-resources.md
 @AGENTS/continuing-professional-development.md
 @AGENTS/assessments.md

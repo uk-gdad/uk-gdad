@@ -8,9 +8,11 @@
 
   const resourceCounts: Record<string, number> = $derived({
     summary: data.counts.levels,
+    startHere: data.counts.startHere,
     upskilling: data.counts.upskilling,
     development: data.counts.development,
-    assessment: data.counts.assessment
+    assessment: data.counts.assessment,
+    gapform: data.counts.gapform
   });
 </script>
 
@@ -18,7 +20,7 @@
   <title>UK GDAD Profession Capability Framework</title>
   <meta
     name="description"
-    content="Browse every role, level and skill in the UK Government Digital and Data Profession Capability Framework, with upskilling resources, development checklists and practice assessments."
+    content="Browse every role, level and skill in the UK Government Digital and Data Profession Capability Framework, with a start-here learning pathway, upskilling resources, development checklists and practice assessments."
   />
 </svelte:head>
 
@@ -26,8 +28,9 @@
   <h1>Every UK GDAD role, level and skill in one place</h1>
   <p class="hero-lede">
     The Government Digital and Data (GDAD) Profession Capability Framework (PCF) describes the
-    digital and data roles across UK government. This site makes it browsable, and adds upskilling
-    resources, development checklists and practice assessments for each role level.
+    digital and data roles across UK government. This site makes it browsable, and adds a
+    start-here learning pathway, upskilling resources, development checklists and practice
+    assessments for each role level.
   </p>
   <div class="button-row">
     <a class="button" href="/roles/">Find your role</a>
@@ -45,8 +48,8 @@
 <section class="section">
   <SectionHeading
     eyebrow="For every role level"
-    heading="Five documents per role level"
-    subtitle="Start from a role summary, then follow it through to learning, development, assessment and a skills gap form."
+    heading="Six documents per role level"
+    subtitle="Start from a role summary and a learning pathway, then follow it through to upskilling, development, assessment and a skills gap form."
   />
   <ul class="card-grid">
     {#each RESOURCES as resource (resource.kind)}
@@ -58,7 +61,7 @@
       </li>
     {/each}
   </ul>
-  <p><a href="/roles/">Find a role level</a> to open all five.</p>
+  <p><a href="/roles/">Find a role level</a> to open all six.</p>
 </section>
 
 <section class="section">

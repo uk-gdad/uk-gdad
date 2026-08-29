@@ -12,8 +12,8 @@ scraping <https://ddat-capability-framework.service.gov.uk/> or parsing the
 published CSV downloads.
 
 This project is **canonical**. `roles/` defines which role levels exist; the
-other four role projects mirror it. Adding a file here without adding the
-matching file to the other four breaks `bin/check`.
+other five role projects mirror it. Adding a file here without adding the
+matching file to the other five breaks `bin/check`.
 
 ## Source
 
@@ -88,7 +88,7 @@ skill name — the website does this, and so must anything else that counts skil
    against the levels already in that role directory.
 3. Write the file in the format above, in framework order: role, role duties,
    level, level accountabilities, then skills alphabetically as published.
-4. Create the matching file in the other four projects, or record why not.
+4. Create the matching file in the other five projects, or record why not.
 5. Run `bin/check` from the repository root.
 
 ## Quality bar

@@ -47,6 +47,7 @@ sync_content() {
 }
 
 sync_content uk-gdad-pcf-role-summaries role-summaries
+sync_content uk-gdad-pcf-role-level-start-here role-level-start-here
 sync_content uk-gdad-pcf-upskilling-resources upskilling-resources
 sync_content uk-gdad-pcf-continuing-professional-development-checklists continuing-professional-development-checklists
 sync_content uk-gdad-pcf-assessments assessments

@@ -5,9 +5,12 @@
 
   let { data } = $props();
 
-  /** How many of the four documents exist for a level. */
+  // Every level has a role summary, so count the rest — the documents that
+  // are actually optional and can still be missing for a level.
+  const otherResources = RESOURCES.filter((resource) => resource.kind !== 'summary');
+
   function documentCount(has: Record<string, boolean>): number {
-    return RESOURCES.filter((resource) => has[resource.kind]).length;
+    return otherResources.filter((resource) => has[resource.kind]).length;
   }
 </script>
 
@@ -48,7 +51,9 @@
             {#if !level.inUse}
               <Badge type="warning">Not in use</Badge>
             {/if}
-            <span class="level-list-meta">{documentCount(level.has)} of 4 documents</span>
+            <span class="level-list-meta"
+              >{documentCount(level.has)} of {otherResources.length} documents</span
+            >
           </a>
         </li>
       {/each}

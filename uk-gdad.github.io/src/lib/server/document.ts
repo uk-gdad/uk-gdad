@@ -1,6 +1,6 @@
-// Shared load logic for the three markdown document routes: upskilling,
-// continuing professional development, and assessments. Each of those routes
-// is the same page over a different content directory.
+// Shared load logic for the markdown document routes: start here, upskilling,
+// continuing professional development, assessments, and skills gap forms.
+// Each of those routes is the same page over a different content directory.
 
 import { error } from '@sveltejs/kit';
 import { getLevelContext, getSlugsFor, readDocument, renderMarkdown } from './content';

@@ -4,8 +4,14 @@
 // markdown in `content/` at build time, then serialised into each prerendered
 // page. Keep them small — every field here is shipped to the browser.
 
-/** One of the four kinds of document the site publishes for a role level. */
-export type ResourceKind = 'summary' | 'upskilling' | 'development' | 'assessment' | 'gapform';
+/** One of the kinds of document the site publishes for a role level. */
+export type ResourceKind =
+  | 'summary'
+  | 'startHere'
+  | 'upskilling'
+  | 'development'
+  | 'assessment'
+  | 'gapform';
 
 /** A role level: one markdown file per document kind, e.g. "Senior developer". */
 export type Level = {
@@ -84,6 +90,13 @@ export const RESOURCES: {
     short: 'Summary',
     base: '/roles',
     description: 'What the role does, what the level is accountable for, and the skills it needs.'
+  },
+  {
+    kind: 'startHere',
+    title: 'Start here',
+    short: 'Start here',
+    base: '/start-here',
+    description: 'A first orientation to the level, and a learning pathway to work through.'
   },
   {
     kind: 'upskilling',
