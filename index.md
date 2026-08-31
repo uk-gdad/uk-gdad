@@ -291,6 +291,7 @@ From the repository root, once the site changes are committed:
 ```sh
 bin/publish --dry-run    # check, and report what would be pushed
 bin/publish              # check, then push
+make github-pages        # same as bin/publish, as a Makefile task
 ```
 
 `bin/publish` runs `bin/check` first — the site vendors `content/` from the five
@@ -298,7 +299,7 @@ role projects, and a stale copy would otherwise be published as the real thing �
 then hands the push to `git subtree`:
 
 ```sh
-git subtree push --prefix=uk-gdad.github.io site main
+git subtree push --prefix=uk-gdad.github.io github-pages main
 ```
 
 `git subtree` splits the history of `uk-gdad.github.io/` into a synthetic branch
@@ -306,10 +307,10 @@ whose commits are only that subdirectory's, with the site at the root, and
 pushes that. So the site repository is a genuine repository — it clones, builds
 and deploys on its own — with no trace of the other 820 files here.
 
-The `site` remote is set up once:
+The `github-pages` remote is set up once:
 
 ```sh
-git remote add site git@github.com:uk-gdad/uk-gdad.github.io.git
+git remote add github-pages git@github.com:uk-gdad/uk-gdad.github.io.git
 ```
 
 **The site repository is a publishing target, not a place to work.** Never

@@ -173,11 +173,11 @@ pnpm preview    # production-mode preview
 
 This project is developed as a subdirectory of
 <https://github.com/uk-gdad/uk-gdad> and published to a repository of its own,
-<https://github.com/uk-gdad/uk-gdad.github.io>, by `bin/publish` at that
-repository's root — `git subtree push --prefix=uk-gdad.github.io site main`.
-That is why the self-contained constraint above exists: the pushed repository
-has the site at its root and nothing else, so it must build from its own
-directory.
+<https://github.com/uk-gdad/uk-gdad.github.io>, by `bin/publish` (or
+`make github-pages`) at that repository's root —
+`git subtree push --prefix=uk-gdad.github.io github-pages main`. That is why
+the self-contained constraint above exists: the pushed repository has the site
+at its root and nothing else, so it must build from its own directory.
 
 The site repository is a publishing target. It is never committed to directly; a
 commit there has no common ancestor with the next subtree split and blocks the

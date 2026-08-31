@@ -19,7 +19,7 @@ set -eu
 
 root="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
 prefix="uk-gdad.github.io"
-remote="${UK_GDAD_SITE_REMOTE:-site}"
+remote="${UK_GDAD_GITHUB_PAGES_REMOTE:-github-pages}"
 branch="main"
 
 cd "$root"

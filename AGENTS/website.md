@@ -36,9 +36,10 @@ Edit the source, run `./bin/sync`, then `bin/check` from the repository root.
 ## Publishing
 
 The site is published to <https://github.com/uk-gdad/uk-gdad.github.io> by
-`bin/publish` at the repository root, which runs `bin/check` and then
-`git subtree push --prefix=uk-gdad.github.io site main`. GitHub Actions builds
-the pushed repository and GitHub Pages serves it.
+`bin/publish` at the repository root (or `make github-pages`, which calls it),
+which runs `bin/check` and then
+`git subtree push --prefix=uk-gdad.github.io github-pages main`. GitHub
+Actions builds the pushed repository and GitHub Pages serves it.
 
 That repository is a publishing target, not a place to work. A commit made there
 directly has no common ancestor with the next subtree split, so the next publish

@@ -331,8 +331,9 @@ content copies match their sources byte for byte, and that every listed Lily
 component and helper component is present, so stale vendored content is a
 failing check rather than a silent inconsistency.
 
-[`bin/publish`](../bin/publish) publishes the site: it runs `bin/check`, then
-`git subtree push --prefix=uk-gdad.github.io site main` to
+[`bin/publish`](../bin/publish) publishes the site, and `make github-pages`
+does the same thing as a Makefile task: it runs `bin/check`, then
+`git subtree push --prefix=uk-gdad.github.io github-pages main` to
 <https://github.com/uk-gdad/uk-gdad.github.io>, where GitHub Actions builds it
 and GitHub Pages serves it. That repository is a publishing target and is never
 committed to directly.
