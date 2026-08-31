@@ -173,7 +173,7 @@ pnpm preview    # production-mode preview
 
 This project is developed as a subdirectory of
 <https://github.com/uk-gdad/uk-gdad> and published to a repository of its own,
-<https://github.com/uk-gdad/uk-gdad.github.io>, by `bin/publish` (or
+<https://github.com/uk-gdad/uk-gdad.github.io>, by `bin/make-github-pages` (or
 `make github-pages`) at that repository's root —
 `git subtree push --prefix=uk-gdad.github.io github-pages main`. That is why
 the self-contained constraint above exists: the pushed repository has the site

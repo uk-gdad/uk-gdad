@@ -90,8 +90,8 @@ bin/cook draft.md           # reformat raw AI output into the required markdown
 Only the maintainer can, and it needs push access to the site repository:
 
 ```sh
-bin/publish --dry-run    # check, and report what would be pushed
-bin/publish              # check, then push
+bin/make-github-pages --dry-run    # check, and report what would be pushed
+bin/make-github-pages              # check, then push
 ```
 
 ## If something does not work

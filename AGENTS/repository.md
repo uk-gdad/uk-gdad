@@ -63,9 +63,9 @@ on the website. Changing a slug means changing six files and re-running
   mechanical.
 - **Re-run `uk-gdad.github.io/bin/sync` after touching content**, or `bin/check`
   will report the website's vendored copies as stale.
-- **Publish the site with `bin/publish`** (or `make github-pages`, which calls
-  it), never by committing in the site repository. It is a subtree publishing
-  target; a commit made there breaks the next push.
+- **Publish the site with `bin/make-github-pages`** (or `make github-pages`,
+  which calls it), never by committing in the site repository. It is a subtree
+  publishing target; a commit made there breaks the next push.
 
 ## Do not
 

@@ -1,8 +1,8 @@
 # Publish the website subproject to its own sibling repository.
 #
-# Delegates to bin/publish rather than repeating the subtree command here, so
-# there is one place that runs bin/check and refuses to push uncommitted
-# changes. The underlying command is:
+# Delegates to bin/make-github-pages rather than repeating the subtree
+# command here, so there is one place that runs bin/check and refuses to
+# push uncommitted changes. The underlying command is:
 #
 #   git subtree push --prefix=uk-gdad.github.io github-pages main
 #
@@ -10,4 +10,4 @@
 
 .PHONY: github-pages
 github-pages:
-	bin/publish
+	bin/make-github-pages

@@ -289,14 +289,14 @@ builds it (`.github/workflows/deploy.yml`) and GitHub Pages serves it at
 From the repository root, once the site changes are committed:
 
 ```sh
-bin/publish --dry-run    # check, and report what would be pushed
-bin/publish              # check, then push
-make github-pages        # same as bin/publish, as a Makefile task
+bin/make-github-pages --dry-run    # check, and report what would be pushed
+bin/make-github-pages              # check, then push
+make github-pages                  # same as bin/make-github-pages
 ```
 
-`bin/publish` runs `bin/check` first — the site vendors `content/` from the five
-role projects, and a stale copy would otherwise be published as the real thing —
-then hands the push to `git subtree`:
+`bin/make-github-pages` runs `bin/check` first — the site vendors `content/`
+from the five role projects, and a stale copy would otherwise be published as
+the real thing — then hands the push to `git subtree`:
 
 ```sh
 git subtree push --prefix=uk-gdad.github.io github-pages main
@@ -315,10 +315,11 @@ git remote add github-pages git@github.com:uk-gdad/uk-gdad.github.io.git
 
 **The site repository is a publishing target, not a place to work.** Never
 commit to it directly, and never accept a pull request there. A commit made on
-that side has no common ancestor with the next split, so the next `bin/publish`
-is rejected as a non-fast-forward, and the only cures are a force push that
-discards it or a rewrite of the subtree history. Everything — including the
-workflow file and the site's own `README.md` — is edited here and pushed out.
+that side has no common ancestor with the next split, so the next
+`bin/make-github-pages` is rejected as a non-fast-forward, and the only cures
+are a force push that discards it or a rewrite of the subtree history.
+Everything — including the workflow file and the site's own `README.md` — is
+edited here and pushed out.
 
 For a custom domain, add `static/CNAME` and update the origin in
 `static/robots.txt` and `src/routes/sitemap.xml/+server.ts`.
@@ -464,8 +465,9 @@ management track of a split level. The four retired
 | `bin/serial-comma --write` | Add the commas it can judge safely |
 | `bin/serial-comma --held` | The lists that need a person, not a script |
 | `bin/serial-comma-declined.md` | Lines a reader decided against, and the script skips |
-| `bin/publish` | Check, then push `uk-gdad.github.io/` to the site repository |
-| `bin/publish --dry-run` | Check, and report what would be pushed |
+| `bin/make-github-pages` | Check, then push `uk-gdad.github.io/` to the site repository |
+| `bin/make-github-pages --dry-run` | Check, and report what would be pushed |
+| `make github-pages` | Same as `bin/make-github-pages` |
 | `uk-gdad.github.io/bin/sync` | Refresh the website's vendored inputs |
 | `cd uk-gdad.github.io && pnpm dev` | Run the site locally |
 | `cd uk-gdad.github.io && pnpm build` | Build the site |

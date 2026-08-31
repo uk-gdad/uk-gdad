@@ -21,7 +21,8 @@ pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```
 
-From the repository root, `bin/publish` checks and then publishes.
+From the repository root, `bin/make-github-pages` (or `make github-pages`)
+checks and then publishes.
 
 ## Vendored, never edited
 
@@ -36,8 +37,8 @@ Edit the source, run `./bin/sync`, then `bin/check` from the repository root.
 ## Publishing
 
 The site is published to <https://github.com/uk-gdad/uk-gdad.github.io> by
-`bin/publish` at the repository root (or `make github-pages`, which calls it),
-which runs `bin/check` and then
+`bin/make-github-pages` at the repository root (or `make github-pages`, which
+calls it), which runs `bin/check` and then
 `git subtree push --prefix=uk-gdad.github.io github-pages main`. GitHub
 Actions builds the pushed repository and GitHub Pages serves it.
 

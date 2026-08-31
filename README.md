@@ -68,9 +68,9 @@ pnpm install
 pnpm dev          # http://localhost:5173
 ```
 
-**Publish the website.** `bin/publish` checks the repository, then pushes
-`uk-gdad.github.io/` to its own repository, where GitHub Actions builds it and
-GitHub Pages serves it.
+**Publish the website.** `bin/make-github-pages` (or `make github-pages`)
+checks the repository, then pushes `uk-gdad.github.io/` to its own
+repository, where GitHub Actions builds it and GitHub Pages serves it.
 
 More in the [manual](index.md), including tutorials for finding your role,
 adding a role level, and publishing the site.
@@ -123,9 +123,9 @@ crates.io, or similar release step to secure. The one publishing path is the
 website: `.github/workflows/deploy.yml` in
 [uk-gdad.github.io](uk-gdad.github.io) already deploys to GitHub Pages using
 OpenID Connect (`id-token: write` with `actions/deploy-pages`), so there is no
-long-lived deployment secret held anywhere. `bin/publish`'s push from this
-repository to that one is a plain `git subtree push` over a configured git
-remote, authenticated the same way any other git push is.
+long-lived deployment secret held anywhere. `bin/make-github-pages`'s push
+from this repository to that one is a plain `git subtree push` over a
+configured git remote, authenticated the same way any other git push is.
 
 If this project ever does publish a package to a registry, the policy is
 Trusted Publishing — OIDC-based, short-lived credentials instead of a stored
@@ -143,8 +143,8 @@ that does not work in practice.
 4. If you touched content, run `uk-gdad.github.io/bin/sync`.
 5. Open an issue or a pull request here — not on
    [uk-gdad.github.io](https://github.com/uk-gdad/uk-gdad.github.io), which is
-   published from this repository by `bin/publish` and overwritten on each
-   publish.
+   published from this repository by `bin/make-github-pages` and overwritten
+   on each publish.
 
 Working with an AI coding agent? [AGENTS.md](AGENTS.md) and [AGENTS/](AGENTS)
 hold the working notes; `CLAUDE.md` points at them.
