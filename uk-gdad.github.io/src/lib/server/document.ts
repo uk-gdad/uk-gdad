@@ -21,13 +21,17 @@ export function documentLoad(kind: ResourceKind) {
     }
 
     const resource = RESOURCES.find((entry) => entry.kind === kind)!;
-    const { title, html, toc } = renderMarkdown(markdown, { kind, slug });
+    const { title: parsedTitle, html, toc } = renderMarkdown(markdown, { kind, slug });
+    const heading = parsedTitle ?? `${resource.title}: ${context.level.title}`;
 
     return {
       kind,
       slug,
       resourceTitle: resource.title,
-      title: title ?? `${resource.title}: ${context.level.title}`,
+      heading,
+      // `title` is the page.data.title convention: the full <title> text,
+      // read by the root layout for the tab title and for SharePicker.
+      title: `${heading} — ${context.level.title} — UK GDAD PCF`,
       html,
       toc,
       profession: { slug: context.profession.slug, title: context.profession.title },

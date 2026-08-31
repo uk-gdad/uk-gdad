@@ -26,7 +26,9 @@ From the repository root, `bin/publish` checks and then publishes.
 ## Vendored, never edited
 
 - `content/` — a byte-for-byte copy of the five `roles/` trees
-- `src/lib/lily/` — Lily components, per `bin/lily-components.txt`
+- `src/lib/lily/` — Lily headless components, per `bin/lily-components.txt`
+- `src/lib/lily-helpers/` — Lily helper components (theme, text size, share
+  pickers), per `bin/lily-helper-components.txt`
 - `static/tools/skills-self-assessment.html` — the self-assessment tool
 
 Edit the source, run `./bin/sync`, then `bin/check` from the repository root.
@@ -74,8 +76,11 @@ policy.
 - **`{#each}` keys must be unique.** Summary bullets repeat, and some summaries
   name a skill twice. A duplicate key throws at hydration and blanks the page,
   while the prerendered HTML looks fine. Do not key a loop on its text.
-- **Content routes set `csr = false`.** They are prose with nothing to hydrate;
-  this roughly halves the built site.
+- **Every route hydrates.** The theme, text size and share pickers in the
+  header (`src/lib/lily-helpers/`, mounted in `+layout.svelte`) are
+  interactive on every page, so no route sets `csr = false` any more. That
+  used to halve the built site's client JS; the trade-off is gone now that a
+  site-wide control needs JS everywhere.
 - **Prerendering crawls every link.** A broken internal link fails the build,
   which is the point. Markdown links to `.md` files are rewritten to site URLs
   where they resolve and rendered as plain text where they do not.

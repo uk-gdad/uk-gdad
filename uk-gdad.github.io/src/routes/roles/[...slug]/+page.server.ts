@@ -7,10 +7,6 @@ import {
 } from '$lib/server/content';
 import { normalizeSlug } from '$lib/types';
 
-// A summary is prose with nothing to hydrate, like the four markdown routes.
-// Without this the page shipped the client router for no reason.
-export const csr = false;
-
 export function entries() {
   return getSlugsFor('summary').map((slug) => ({ slug }));
 }
@@ -23,6 +19,9 @@ export function load({ params }: { params: { slug: string } }) {
 
   return {
     slug,
+    // page.data.title convention: the full <title> text, read by the root
+    // layout for the tab title and for SharePicker.
+    title: `${context.level.title} — ${context.role.title} — UK GDAD PCF`,
     summary: parseSummary(text),
     profession: { slug: context.profession.slug, title: context.profession.title },
     role: { slug: context.role.slug, title: context.role.title },

@@ -1,10 +1,12 @@
 <script lang="ts">
   import Breadcrumbs from '$lib/Breadcrumbs.svelte';
   import WarningCallout from '$lib/lily/WarningCallout.svelte';
+
+  let { data } = $props();
 </script>
 
 <svelte:head>
-  <title>About — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="What this site is, where its content comes from, and how it is built."

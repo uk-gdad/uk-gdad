@@ -22,7 +22,10 @@ export function load({ params }: { params: { skill: string } }) {
   }
 
   return {
-    title: skill.title,
+    skillTitle: skill.title,
+    // page.data.title convention: the full <title> text, read by the root
+    // layout for the tab title and for SharePicker.
+    title: `${skill.title} — Skills — UK GDAD PCF`,
     levelCount: skill.rows.length,
     professions: [...professions.values()].sort((a, b) => a.title.localeCompare(b.title))
   };

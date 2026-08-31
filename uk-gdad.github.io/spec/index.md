@@ -18,11 +18,10 @@ linked to without cloning anything.
   nothing outside itself at build time, so that it still builds after being
   pushed to its own repository. Inputs are vendored — see below.
 - **Accessible.** Semantic HTML, one `h1` per page, visible focus, skip link,
-  breadcrumbs, and no colour-only signalling. Content pages carry no client-side
-  JavaScript, with one exception: a skills gap form loads
-  `static/assets/gapform.js`, which saves the reader's answers in their own
-  browser and exports them. The form works without it — the controls are plain
-  HTML — so the buttons that script owns stay hidden until it runs.
+  breadcrumbs, and no colour-only signalling. A skills gap form additionally
+  loads `static/assets/gapform.js`, which saves the reader's answers in their
+  own browser and exports them. The form works without it — the controls are
+  plain HTML — so the buttons that script owns stay hidden until it runs.
 
 ## Stack
 
@@ -50,7 +49,8 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | `content/continuing-professional-development-checklists/` | `uk-gdad-pcf-continuing-professional-development-checklists/roles/` |
 | `content/assessments/` | `uk-gdad-pcf-assessments/roles/` |
 | `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
-| `src/lib/lily/` | Lily Design System, per `bin/lily-components.txt` |
+| `src/lib/lily/` | Lily Design System headless components, per `bin/lily-components.txt` |
+| `src/lib/lily-helpers/` | Lily Design System helper components (theme, text size, share pickers), per `bin/lily-helper-components.txt` |
 | `static/tools/skills-self-assessment.html` | `uk-gdad-pcf-skills-self-assessment/index.html` |
 
 Never edit a vendored file. Edit the source and re-run `bin/sync`.
@@ -110,6 +110,55 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
   before a tab closes are not lost, and its status line repeats the message
   already in the markup when it saves, so the live region announces restoring,
   exporting, clearing and failing — and stays silent while someone types.
+
+## Site tools
+
+Every page — content and non-content alike — carries a small toolbar in the
+header: a colour theme picker, a text size picker, and a share picker. They are
+the three vendored components in `src/lib/lily-helpers/`, mounted in
+`src/routes/+layout.svelte`. This is why every route hydrates: an interactive,
+site-wide control needs client-side JavaScript to work, so there is no
+JS-free page left to preserve. Before this, six content route kinds set
+`csr = false` specifically to ship zero client JS; that trade-off is gone —
+every route hydrates a small router payload so the toolbar works everywhere.
+
+- **Theme picker** sets `data-theme` on `<html>` and swaps a managed
+  stylesheet between `static/assets/themes/light.css` and `dark.css`, both of
+  which redefine the `--lily-*` tokens declared in `static/assets/style.css`.
+  The choice persists to `localStorage` under `uk-gdad-pcf:theme`, and falls
+  back to the reader's OS preference on first visit.
+- **Text size picker** sets `data-text-size` on `<html>`, and
+  `static/assets/style.css` scales the root font-size from it — every other
+  size in the file is in `rem`, so the whole page scales, headings included.
+  Persists under `uk-gdad-pcf:text-size`.
+- **Share picker** offers LinkedIn, Mastodon, Bluesky, Reddit, and a copy-link
+  button, all built from the current page's own URL and title. Uses the
+  browser's native share sheet where one exists, and falls back to this list
+  otherwise. Mastodon and Bluesky take one combined `text` parameter rather
+  than separate URL and title fields, so both get the title and the URL
+  joined by a line break; Mastodon's link goes to the official
+  `share.joinmastodon.org` widget, which asks the visitor which instance
+  they're on and redirects there, because the network is federated and this
+  site cannot know it.
+
+All three are headless: every visual rule they need is in
+`static/assets/style.css`, not in the vendored component.
+
+### The `page.data.title` convention
+
+Every route's `load` function returns a `title`: the exact string its own
+`<svelte:head><title>` renders, e.g. `"Senior developer — Software developer —
+UK GDAD PCF"`. `+layout.svelte` reads it as `page.data.title` and passes it to
+the share picker, so the share sheet and the browser tab always agree, and the
+layout never needs to know any one route's data shape to get there.
+
+A route with nothing else to load — `/about/`, `/skills-self-assessment/` —
+still gets a `+page.ts` whose only job is to return `title`. A route whose data
+already used `title` to mean something else keeps that meaning under a
+different name rather than overloading it: the five markdown document routes
+return `heading` for the document's own `<h1>` text and `title` for the full
+string built from it; `/skills/<skill>/` returns `skillTitle` for the skill's
+name and `title` for the full string built from it.
 
 ## Build and deploy
 

@@ -1,0 +1,29 @@
+/* Dark theme — same tokens as style.css's :root, repainted for a dark
+ * background. Loaded by ThemePicker as a managed <link>, so it wins the
+ * cascade over style.css's :root block by DOM order, not specificity.
+ *
+ * The focus style is unchanged deliberately: GOV.UK's yellow-and-black focus
+ * indicator is not themed, in either direction — see style.css § 2. */
+
+:root {
+  --lily-primary: #4da3e0;
+  --lily-primary-hover: #7dbdf0;
+  --lily-primary-wash: #14283a;
+  --lily-accent: #4fc3b8;
+  --lily-danger: #f47c68;
+  --lily-warning: #ffa869;
+  --lily-success: #3ecb85;
+  --lily-focus: #ffdd00;
+
+  --lily-page-bg: #0b0c0c;
+  --lily-surface: #1a1a1a;
+  --lily-card-bg: #141414;
+
+  --lily-text: #f3f2f1;
+  --lily-text-muted: #b1b4b6;
+  --lily-border: #4b4f53;
+  --lily-border-subtle: #2e3133;
+
+  --lily-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  --lily-shadow-lg: 0 8px 24px -8px rgba(0, 0, 0, 0.75);
+}

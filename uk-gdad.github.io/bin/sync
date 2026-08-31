@@ -32,6 +32,29 @@ else
     echo "sync: skipping Lily components; not found at $lily_svelte" >&2
 fi
 
+# 1b. Lily Design System helper packages (theme-picker, text-size-picker,
+# share-picker, ...). Each line in lily-helper-components.txt is
+# "<package>/<Component>", e.g. "lily-design-system-svelte-theme-picker/ThemePicker".
+
+lily_helpers="$lily/lily-design-system-svelte-helpers"
+if [ -d "$lily_helpers" ]; then
+    mkdir -p "$site/src/lib/lily-helpers"
+    for entry in $(cat "$site/bin/lily-helper-components.txt"); do
+        package="${entry%/*}"
+        component="${entry#*/}"
+        source_file="$lily_helpers/$package/$component.svelte"
+        if [ -f "$source_file" ]; then
+            cp "$source_file" "$site/src/lib/lily-helpers/$component.svelte"
+        else
+            echo "sync: missing Lily helper component: $entry" >&2
+            exit 1
+        fi
+    done
+    echo "sync: Lily helper components -> src/lib/lily-helpers/"
+else
+    echo "sync: skipping Lily helper components; not found at $lily_helpers" >&2
+fi
+
 # 2. UK GDAD PCF content.
 
 sync_content() {

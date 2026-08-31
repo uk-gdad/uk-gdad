@@ -17,7 +17,7 @@
 </script>
 
 <svelte:head>
-  <title>UK GDAD Profession Capability Framework</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="Browse every role, level and skill in the UK Government Digital and Data Profession Capability Framework, with a start-here learning pathway, upskilling resources, development checklists and practice assessments."

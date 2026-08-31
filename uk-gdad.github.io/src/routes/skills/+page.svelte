@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-  <title>Skills — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="Every skill named in the UK Government Digital and Data Profession Capability Framework, and the role levels that expect it."

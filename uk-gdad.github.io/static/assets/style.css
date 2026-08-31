@@ -46,6 +46,19 @@
   --lily-font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 }
 
+/* TextSizePicker sets data-text-size on <html>. Every other size in this
+ * file is in rem, so scaling the root font-size scales the whole page —
+ * headings included — without touching a single other rule. */
+:root[data-text-size='small'] {
+  font-size: 87.5%;
+}
+:root[data-text-size='large'] {
+  font-size: 112.5%;
+}
+:root[data-text-size='x-large'] {
+  font-size: 125%;
+}
+
 /* 2. Base elements ------------------------------------------------------ */
 
 *,
@@ -82,11 +95,14 @@ button:focus-visible,
 input:focus-visible,
 summary:focus-visible {
   outline: 3px solid transparent;
-  color: var(--lily-text);
+  /* Fixed, not `var(--lily-text)`: GOV.UK's yellow-and-black focus state is
+   * the same in every theme, so it stays visible and high-contrast in dark
+   * mode instead of inheriting a light body colour onto a yellow chip. */
+  color: #0b0c0c;
   background: var(--lily-focus);
   box-shadow:
     0 -2px var(--lily-focus),
-    0 4px var(--lily-text);
+    0 4px #0b0c0c;
   text-decoration: none;
 }
 
@@ -428,6 +444,127 @@ th {
   cursor: pointer;
   font-weight: 600;
   color: var(--lily-primary);
+}
+
+/* Site tools: ThemePicker, TextSizePicker and SharePicker, from
+ * lily-design-system-svelte-helpers rather than the headless package —
+ * see src/lib/lily-helpers/. All three are headless, so every rule below
+ * is this site's own visual decision, not the component's. */
+
+.site-tools {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.theme-picker,
+.text-size-picker,
+.share-picker {
+  position: relative;
+  display: inline-block;
+}
+
+.theme-picker-button,
+.text-size-picker-button,
+.share-picker-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius);
+  background: var(--lily-page-bg);
+  color: var(--lily-text);
+  cursor: pointer;
+  line-height: 1;
+}
+.theme-picker-button:hover,
+.text-size-picker-button:hover,
+.share-picker-button:hover {
+  background: var(--lily-surface);
+}
+.theme-picker-button[aria-expanded='true'],
+.text-size-picker-button[aria-expanded='true'],
+.share-picker-button[aria-expanded='true'] {
+  background: var(--lily-surface);
+  border-color: var(--lily-text);
+}
+
+.theme-picker-icon,
+.text-size-picker-icon,
+.share-picker-icon {
+  font-family: system-ui, 'Segoe UI Symbol', 'Apple Symbols', sans-serif;
+  font-size: 1.125em;
+}
+
+.theme-picker-list,
+.text-size-picker-list,
+.share-picker-list {
+  position: absolute;
+  z-index: 10;
+  inset-block-start: calc(100% + 0.35rem);
+  inset-inline-end: 0;
+  min-inline-size: 11rem;
+  margin: 0;
+  padding: 0.35rem;
+  list-style: none;
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius);
+  background: var(--lily-card-bg);
+  box-shadow: var(--lily-shadow-lg);
+}
+.theme-picker-list[hidden],
+.text-size-picker-list[hidden],
+.share-picker-list[hidden] {
+  display: none;
+}
+
+.theme-picker-option,
+.text-size-picker-option {
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--lily-radius);
+  cursor: pointer;
+  font-size: 0.9375rem;
+}
+.theme-picker-option[data-active],
+.text-size-picker-option[data-active] {
+  background: var(--lily-surface);
+}
+.theme-picker-option[aria-selected='true'],
+.text-size-picker-option[aria-selected='true'] {
+  font-weight: 700;
+  color: var(--lily-primary-hover);
+}
+
+.share-picker-list-item {
+  margin: 0;
+}
+.share-picker-target,
+.share-picker-copy {
+  display: block;
+  width: 100%;
+  padding: 0.4rem 0.6rem;
+  border: 0;
+  border-radius: var(--lily-radius);
+  background: transparent;
+  color: var(--lily-text);
+  font: inherit;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+}
+.share-picker-target:hover,
+.share-picker-copy:hover {
+  background: var(--lily-surface);
+  color: var(--lily-text);
+}
+
+.theme-picker-status,
+.text-size-picker-status,
+.share-picker-status {
+  margin: 0;
 }
 
 /* 4. Site chrome -------------------------------------------------------- */
@@ -930,6 +1067,9 @@ th {
     padding-right: 1rem;
   }
   .site-nav {
+    width: 100%;
+  }
+  .site-tools {
     width: 100%;
   }
   .summary-list-item {

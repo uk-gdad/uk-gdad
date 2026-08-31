@@ -335,6 +335,14 @@ def check_website(canonical: list[str]) -> None:
             if not (site / "src" / "lib" / "lily" / f"{component}.svelte").is_file():
                 fail(f"{SITE}: src/lib/lily/{component}.svelte is missing — run {SITE}/bin/sync")
 
+    helper_manifest = site / "bin" / "lily-helper-components.txt"
+    if helper_manifest.is_file():
+        wanted = [line.strip() for line in helper_manifest.read_text().splitlines() if line.strip()]
+        for entry in wanted:
+            component = entry.split("/")[-1]
+            if not (site / "src" / "lib" / "lily-helpers" / f"{component}.svelte").is_file():
+                fail(f"{SITE}: src/lib/lily-helpers/{component}.svelte is missing — run {SITE}/bin/sync")
+
 
 def main() -> int:
     quiet = "--quiet" in sys.argv

@@ -14,7 +14,7 @@
 </script>
 
 <svelte:head>
-  <title>{data.level.title} — {data.role.title} — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="{data.level.title}: what the level does, what it is accountable for, and the {data

@@ -23,7 +23,7 @@
 </script>
 
 <svelte:head>
-  <title>Find a role — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="Search every role level in the UK Government Digital and Data Profession Capability Framework."

@@ -27,7 +27,8 @@ Run it before every commit that touches content.
    one content rule `bin/check` enforces beyond structure, because a form that
    drops or misnames a skill still passes every other check.
 6. **Website freshness** — vendored content matches its sources byte for byte,
-   and every Lily component in the manifest is present.
+   and every Lily component in `bin/lily-components.txt` and
+   `bin/lily-helper-components.txt` is present.
 
 ## Common failures
 

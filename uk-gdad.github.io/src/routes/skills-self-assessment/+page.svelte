@@ -1,10 +1,12 @@
 <script lang="ts">
   import Breadcrumbs from '$lib/Breadcrumbs.svelte';
   import WarningCallout from '$lib/lily/WarningCallout.svelte';
+
+  let { data } = $props();
 </script>
 
 <svelte:head>
-  <title>Skills self-assessment — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="Rate yourself against the skills in the UK Government Digital and Data Profession Capability Framework."

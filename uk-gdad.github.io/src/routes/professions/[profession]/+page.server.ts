@@ -8,5 +8,10 @@ export function entries() {
 export function load({ params }: { params: { profession: string } }) {
   const profession = getProfession(params.profession);
   if (!profession) error(404, `No profession named ${params.profession}`);
-  return { profession };
+  return {
+    profession,
+    // page.data.title convention: the full <title> text, read by the root
+    // layout for the tab title and for SharePicker.
+    title: `${profession.title} — UK GDAD PCF`
+  };
 }

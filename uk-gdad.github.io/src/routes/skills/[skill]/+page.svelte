@@ -5,10 +5,10 @@
 </script>
 
 <svelte:head>
-  <title>{data.title} — Skills — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
-    content="{data.levelCount} role levels in the UK Government Digital and Data Profession Capability Framework expect the skill {data.title}."
+    content="{data.levelCount} role levels in the UK Government Digital and Data Profession Capability Framework expect the skill {data.skillTitle}."
   />
 </svelte:head>
 
@@ -16,12 +16,12 @@
   trail={[
     { href: '/', label: 'Home' },
     { href: '/skills/', label: 'Skills' },
-    { label: data.title }
+    { label: data.skillTitle }
   ]}
 />
 
 <div class="hero">
-  <h1>{data.title}</h1>
+  <h1>{data.skillTitle}</h1>
   <p class="hero-lede">
     {data.levelCount} role {data.levelCount === 1 ? 'level expects' : 'levels expect'} this skill,
     across {data.professions.length}

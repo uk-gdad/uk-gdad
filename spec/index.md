@@ -310,8 +310,12 @@ so that it stays buildable when it is pushed to its own repository:
 
 - `uk-gdad.github.io/content/<project>/` is a byte-for-byte copy of each
   project's `roles/` tree.
-- `uk-gdad.github.io/src/lib/lily/` is a copy of the Lily Design System Svelte
-  components listed in `uk-gdad.github.io/bin/lily-components.txt`.
+- `uk-gdad.github.io/src/lib/lily/` is a copy of the Lily Design System's
+  headless Svelte components listed in `uk-gdad.github.io/bin/lily-components.txt`.
+- `uk-gdad.github.io/src/lib/lily-helpers/` is a copy of the Lily Design
+  System's helper Svelte components — a theme picker, a text size picker and a
+  share picker — listed in `uk-gdad.github.io/bin/lily-helper-components.txt`.
+  They are mounted site-wide in the header, so every page hydrates.
 - `uk-gdad.github.io/static/tools/skills-self-assessment.html` is a copy of the
   self-assessment tool.
 
@@ -322,8 +326,9 @@ reader's own browser and can be exported as TSV or as JSON; nothing is submitted
 and nothing reaches the site. See
 [the project specification](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md).
 
-`uk-gdad.github.io/bin/sync` refreshes all three. `bin/check` verifies that the
-copies match their sources byte for byte, so stale vendored content is a
+`uk-gdad.github.io/bin/sync` refreshes all four. `bin/check` verifies that the
+content copies match their sources byte for byte, and that every listed Lily
+component and helper component is present, so stale vendored content is a
 failing check rather than a silent inconsistency.
 
 [`bin/publish`](../bin/publish) publishes the site: it runs `bin/check`, then
@@ -349,7 +354,7 @@ Run it before every commit that touches content. It checks:
 5. Every skills gap form carries one block per skill its summary names, in the
    summary's order, with the skill name exactly as written.
 6. The website's vendored content matches its sources byte for byte.
-7. Every Lily component named in the manifest is vendored.
+7. Every Lily component and helper component named in its manifest is vendored.
 
 Adding a rule to this specification means adding it to `bin/check`, or marking
 it **advisory** because it needs human judgement.

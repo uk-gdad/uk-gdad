@@ -11,6 +11,7 @@
     kind: ResourceKind;
     slug: string;
     resourceTitle: string;
+    heading: string;
     title: string;
     html: string;
     toc: TocEntry[];
@@ -23,7 +24,7 @@
 </script>
 
 <svelte:head>
-  <title>{data.title} — {data.level.title} — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="{data.resourceTitle} for the {data.level.title} level of the {data.role
@@ -48,7 +49,7 @@
 
 <div class="doc-header">
   <p class="doc-context">{data.role.title} · {data.level.title}</p>
-  <h1>{data.title}</h1>
+  <h1>{data.heading}</h1>
   <ResourceNav slug={data.slug} current={data.kind} has={data.level.has} />
   {#if data.kind === 'gapform'}
     <!-- Hidden until `gapform.js` shows it: without JavaScript these buttons

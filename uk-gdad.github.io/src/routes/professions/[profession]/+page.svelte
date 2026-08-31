@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-  <title>{data.profession.title} — UK GDAD PCF</title>
+  <title>{data.title}</title>
   <meta
     name="description"
     content="Roles and levels in the {data.profession.title} profession of the UK Government Digital and Data Profession Capability Framework."
