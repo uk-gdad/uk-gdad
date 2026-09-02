@@ -1,6 +1,6 @@
 # Assessments
 
-Contract: [`uk-gdad-pcf-assessments/spec/index.md`](../uk-gdad-pcf-assessments/spec/index.md).
+Contract: [`uk-gdad-pcf-psychometric-assessments/spec/index.md`](../uk-gdad-pcf-psychometric-assessments/spec/index.md).
 
 ## What this is, and is not
 
@@ -27,7 +27,7 @@ Sections 3–6 target ~4,000 words each. Length is not enforced.
 
 ## Read first
 
-The four reference files in `uk-gdad-pcf-assessments/spec/` describe each
+The four reference files in `uk-gdad-pcf-psychometric-assessments/spec/` describe each
 assessment type — what it measures, how items are built, worked examples,
 pitfalls. The two files in `spec/legal/` describe the UK and US legal position.
 

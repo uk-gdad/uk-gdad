@@ -36,7 +36,7 @@ apply, and pick a rating where one is asked for. Your answers are saved in
 this browser, on this device, so you can close the page and come back to them.
 Nothing is sent anywhere.
 
-So: when you have finished, use Export TSV or Export as JSON at the top of the
+So: when you have finished, use Export TSV or Export JSON at the top of the
 page, or print it, or copy your answers into whatever your organisation uses
 for development conversations. Every question is numbered, so your answers
 make sense on their own. Clear answers empties the form and deletes the saved
@@ -619,7 +619,7 @@ pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/data/data-scientist/1-trainee-data-scientist.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/data/data-scientist/1-trainee-data-scientist.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/data/data-scientist/1-trainee-data-scientist.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Your level asks for a development plan agreed with your

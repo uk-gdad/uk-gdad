@@ -20,7 +20,7 @@ rather than being a good intention.
 - [`spec/template.md`](template.md) — the general-purpose material, identical in
   every file.
 - For context on what the level is working towards, the matching documents in
-  `uk-gdad-pcf-upskilling-resources` and `uk-gdad-pcf-assessments`.
+  `uk-gdad-pcf-upskilling-resources` and `uk-gdad-pcf-psychometric-assessments`.
 
 ## Output
 

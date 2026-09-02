@@ -91,7 +91,7 @@ exactly; a prefix match conflates them.
 | [`uk-gdad-pcf-role-level-start-here`](../uk-gdad-pcf-role-level-start-here/spec/index.md)                                                   | Starting ideas for learning the role.                     | 205       |
 | [`uk-gdad-pcf-upskilling-resources`](../uk-gdad-pcf-upskilling-resources/spec/index.md)                                                     | Courses, posts, research, videos, books                   | 205       |
 | [`uk-gdad-pcf-continuing-professional-development-checklists`](../uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) | CPD checklists                                            | 205       |
-| [`uk-gdad-pcf-assessments`](../uk-gdad-pcf-assessments/spec/index.md)                                                                       | Practice psychometric assessments                         | 205       |
+| [`uk-gdad-pcf-psychometric-assessments`](../uk-gdad-pcf-psychometric-assessments/spec/index.md)                                             | Practice psychometric assessments                         | 205       |
 | [`uk-gdad-pcf-roles-skills-gap-forms`](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md)                                                 | Skills gap forms, sent by HR and filled in by an employee | 205       |
 | [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md)                                                 | A standalone self-rating tool                             | 1         |
 | [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md)                                                                                   | The published website                                     | —         |

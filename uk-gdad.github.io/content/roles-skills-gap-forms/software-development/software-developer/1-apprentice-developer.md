@@ -39,7 +39,7 @@ Nothing is sent anywhere.
 
 So pick whichever of these suits you:
 
-- Fill it in here, then use Export TSV or Export as JSON at the top of the
+- Fill it in here, then use Export TSV or Export JSON at the top of the
   page, or print it. Clear answers empties the form afterwards.
 - Copy the questions into a document or an email, and write your answers there.
 - Answer in whatever tool your organisation already uses for development
@@ -737,7 +737,7 @@ this form leaves off:
   — courses, blog posts, videos, and books for an apprentice developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/1-apprentice-developer.md)
   — things to do, skill by skill, so your development has a shape.
-- [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/software-developer/1-apprentice-developer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/software-development/software-developer/1-apprentice-developer.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. It takes a bit of nerve to write down what you do

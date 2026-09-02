@@ -37,7 +37,7 @@ boxes tick, and each skill has a rating to choose. Your answers are saved in
 this browser, on this device, so you can close the page and come back to them.
 Nothing is sent anywhere.
 
-When you have finished, use Export TSV or Export as JSON at the top of the
+When you have finished, use Export TSV or Export JSON at the top of the
 page to take your answers with you, or print the page, or copy them into
 whatever your organisation uses for development conversations. Every question
 is numbered, so answers travel back on their own. Clear answers empties the
@@ -627,7 +627,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks, and books pitched at senior test engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Turning automation results into risks somebody

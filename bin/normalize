@@ -11,7 +11,7 @@
 #
 # It has already been applied to all four role projects. The paths below refer
 # to the old top-level `assessments/` directory, which no longer exists; the
-# equivalent today is `uk-gdad-pcf-assessments/roles/`. Do not run this script
+# equivalent today is `uk-gdad-pcf-psychometric-assessments/roles/`. Do not run this script
 # expecting it to work as-is.
 #
 # For the layout it produced, and the rules that now govern it, see

@@ -85,18 +85,18 @@ export const RESOURCES: {
   description: string;
 }[] = [
   {
-    kind: 'summary',
-    title: 'Role summary',
-    short: 'Summary',
-    base: '/roles',
-    description: 'What the role does, what the level is accountable for, and the skills it needs.'
-  },
-  {
     kind: 'startHere',
     title: 'Start here',
     short: 'Start here',
     base: '/start-here',
     description: 'A first orientation to the level, and a learning pathway to work through.'
+  },
+  {
+    kind: 'summary',
+    title: 'Role summary',
+    short: 'Specification',
+    base: '/roles',
+    description: 'What the role does, what the level is accountable for, and the skills it needs.'
   },
   {
     kind: 'upskilling',

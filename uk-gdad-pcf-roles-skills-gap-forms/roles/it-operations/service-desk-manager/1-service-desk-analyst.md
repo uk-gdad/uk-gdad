@@ -31,7 +31,7 @@ apply, and pick a rating where one is asked for. Your answers are saved in
 this browser, on this device, so you can close the page and come back to them.
 Nothing is sent anywhere.
 
-When you have finished, use Export TSV or Export as JSON at the top of the
+When you have finished, use Export TSV or Export JSON at the top of the
 page, or print it out, or copy your answers into whatever your organisation
 uses for these conversations. Every question has a number, so your answers
 make sense on their own. Clear answers empties the form and deletes the saved
@@ -505,7 +505,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/it-operations/service-desk-manager/1-service-desk-analyst.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/it-operations/service-desk-manager/1-service-desk-analyst.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/it-operations/service-desk-manager/1-service-desk-analyst.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. The framework sums your level up as "interacts with customers", which does not

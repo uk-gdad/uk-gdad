@@ -33,7 +33,7 @@ apply, and pick a rating where one is asked for. Your answers are saved in
 this browser, on this device, so you can close the page and come back to them.
 Nothing is sent anywhere.
 
-When you have finished, use Export TSV or Export as JSON at the top of the
+When you have finished, use Export TSV or Export JSON at the top of the
 page, or print it, or copy your answers into a document or an email, or answer
 in whatever tool your organisation already uses. Every question has a number,
 like **Q7**, so your answers make sense on their own. Clear answers empties
@@ -675,7 +675,7 @@ off:
   — courses, blog posts, videos, and books for an associate delivery manager.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Learning on a mature team is a real advantage —

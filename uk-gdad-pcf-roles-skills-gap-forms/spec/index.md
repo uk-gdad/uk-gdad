@@ -69,7 +69,7 @@ answer.
 | Not | Which is | Where |
 | --- | --- | --- |
 | A performance review | A management process the organisation owns | Not here |
-| A psychometric assessment | Practice material for job-specific testing | `uk-gdad-pcf-assessments` |
+| A psychometric assessment | Practice material for job-specific testing | `uk-gdad-pcf-psychometric-assessments` |
 | A whole-catalogue self-rating | 189 skills, no role context, nothing saved | `uk-gdad-pcf-skills-self-assessment` |
 | A learning plan | Resources and a CPD checklist | `uk-gdad-pcf-upskilling-resources`, `…-continuing-professional-development-checklists` |
 | Legal advice | Named duties, not interpreted ones | See [Legal and privacy constraints](#legal-and-privacy-constraints) |
@@ -175,7 +175,7 @@ as JSON. Nothing is submitted, and nothing reaches this site or any other.
 
 So `## How to fill in this form` says all of it — that the form can be filled in
 on screen, that the answers are saved in that browser and on that device alone,
-how they leave (Export TSV, Export as JSON, print, or copy), and that Clear
+how they leave (Export TSV, Export JSON, print, or copy), and that Clear
 answers empties the form and deletes the saved copy, which matters on a shared
 computer. Every question carries a number so that an answer can travel back on
 its own, without the question attached.
@@ -440,7 +440,7 @@ slug, as relative markdown links to the `.md` files:
 ```
 ../../../../uk-gdad-pcf-upskilling-resources/roles/<slug>.md
 ../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md
-../../../../uk-gdad-pcf-assessments/roles/<slug>.md
+../../../../uk-gdad-pcf-psychometric-assessments/roles/<slug>.md
 ```
 
 Four `../` from a three-segment slug; three from a two-segment one — the four

@@ -38,7 +38,7 @@ Nothing is sent anywhere.
 
 So pick whichever suits you:
 
-- Fill it in here, then use Export TSV or Export as JSON at the top of the
+- Fill it in here, then use Export TSV or Export JSON at the top of the
   page, or print it. Clear answers empties the form afterwards.
 - Copy the questions into a document or an email, and answer there.
 - Answer in whatever tool your organisation already uses.
@@ -770,7 +770,7 @@ off:
   — courses, blog posts, videos, and books for an apprentice frontend developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/frontend-developer/1-apprentice-frontend-developer.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/frontend-developer/1-apprentice-frontend-developer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/software-development/frontend-developer/1-apprentice-frontend-developer.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Writing down what you do not know yet takes a bit

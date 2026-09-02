@@ -19,8 +19,8 @@ any of them with the commands given.
 | **Total** | **1,025** | **5,246,918** |
 
 ```sh
-find uk-gdad-pcf-assessments/roles -name '*.md' | wc -l
-cat uk-gdad-pcf-assessments/roles/**/*.md | wc -w
+find uk-gdad-pcf-psychometric-assessments/roles -name '*.md' | wc -l
+cat uk-gdad-pcf-psychometric-assessments/roles/**/*.md | wc -w
 ```
 
 The assessments are two-thirds of the words: each carries four assessment

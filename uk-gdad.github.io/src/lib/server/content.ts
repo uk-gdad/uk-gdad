@@ -19,6 +19,7 @@ import type {
 } from '$lib/types';
 import { slugify } from '$lib/types';
 import { createFormWriter } from './gapform';
+import { createChecklistWriter } from './checklist';
 
 const CONTENT = join(process.cwd(), 'content');
 
@@ -382,6 +383,69 @@ function decodeEntities(text: string): string {
   return text.replace(/&(?:amp|lt|gt|quot|#39|nbsp);/g, (entity) => ENTITIES[entity] ?? entity);
 }
 
+/**
+ * Assessments give a worked answer straight after every question, so a
+ * reader who wants to attempt it first has to look away from the page. This
+ * wraps each one in a collapsible `<details>` — reusing the Lily Details
+ * component's own `.details` styling — so the answer stays a deliberate
+ * reveal instead of the next thing on the page.
+ *
+ * A question states its answer as "**Correct answer: …**", sometimes with
+ * the reasoning in the same paragraph and sometimes in a separate
+ * "**Explanation:**" paragraph that follows — occasionally with a bridging
+ * label paragraph between the two ("Correct answer explanation follows.").
+ * All three shapes are recognised the same way: gather the "Correct answer"
+ * paragraph with every paragraph immediately after it whose own bold lead-in
+ * contains "explain" or "explanation", and wrap the run.
+ */
+function wrapAssessmentAnswers(html: string): string {
+  const PARAGRAPH = /<p>[\s\S]*?<\/p>\n/g;
+  const BOLD_LEAD = /^<p>\s*<strong>([^<]*)<\/strong>/i;
+  const isAnswer = (paragraph: string) => /^<p>\s*<strong>Correct answer\b/i.test(paragraph);
+  const isContinuation = (paragraph: string) => {
+    const lead = BOLD_LEAD.exec(paragraph);
+    return !!lead && /expla/i.test(lead[1]);
+  };
+
+  let out = '';
+  let lastEnd = 0;
+  let group: string[] | null = null;
+  let groupEnd = 0;
+
+  const flush = () => {
+    if (!group) return;
+    out += `<details class="details assessment-answer">\n<summary>See Answer</summary>\n${group.join('')}</details>\n`;
+    group = null;
+  };
+
+  let match: RegExpExecArray | null;
+  while ((match = PARAGRAPH.exec(html))) {
+    const paragraph = match[0];
+    const start = match.index;
+    // Anything between two matched paragraphs — a heading, a list — closes
+    // whatever group was open: an answer's explanation never crosses one.
+    if (start !== lastEnd) {
+      flush();
+      out += html.slice(lastEnd, start);
+    }
+    if (group && start === groupEnd && isContinuation(paragraph)) {
+      group.push(paragraph);
+    } else {
+      flush();
+      if (isAnswer(paragraph)) {
+        group = [paragraph];
+      } else {
+        out += paragraph;
+      }
+    }
+    groupEnd = start + paragraph.length;
+    lastEnd = groupEnd;
+  }
+  flush();
+  out += html.slice(lastEnd);
+  return out;
+}
+
 /** Render markdown to HTML, lifting the leading heading out as the title. */
 export function renderMarkdown(
   markdown: string,
@@ -409,9 +473,16 @@ export function renderMarkdown(
   };
 
   // Skills gap forms are meant to be filled in, so their questions, answer
-  // prompts, and tick lists become real form controls. Every other document is
-  // prose and renders as prose.
-  const form = from.kind === 'gapform' ? createFormWriter() : null;
+  // prompts, and tick lists become real form controls. A continuing
+  // professional development checklist's task lists become tickable
+  // checkboxes the same way. Every other document is prose and renders as
+  // prose.
+  const form =
+    from.kind === 'gapform'
+      ? createFormWriter()
+      : from.kind === 'development'
+        ? createChecklistWriter()
+        : null;
 
   const renderer = new marked.Renderer();
   renderer.heading = function ({ tokens: headingTokens, depth }) {
@@ -443,6 +514,7 @@ export function renderMarkdown(
     return `<a href="${resolved}"${attribute}>${text}</a>`;
   };
 
-  const html = marked.parser(tokens, { renderer, gfm: true });
+  let html = marked.parser(tokens, { renderer, gfm: true });
+  if (from.kind === 'assessment') html = wrapAssessmentAnswers(html);
   return { title, html, toc };
 }

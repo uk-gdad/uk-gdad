@@ -22,7 +22,7 @@ Fixed; a summary page went from 5 KB to 3.5 KB gzipped.
 The 205 skills gap forms used to say there was nothing to type into. Now there
 is. Every answer prompt is a text box, every rating is a set of radio buttons,
 and every tick list is real tick boxes. Answers save in your own browser as you
-type, and **Export TSV** or **Export as JSON** takes them away with you.
+type, and **Export TSV** or **Export JSON** takes them away with you.
 Nothing is sent anywhere, because there is no server to send it to.
 
 Checked in Chromium, Firefox, and WebKit, and across all 1,222 pages for

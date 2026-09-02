@@ -25,7 +25,7 @@ assessment material, and a skills gap form to fill in.
 | [Role level start here](uk-gdad-pcf-role-level-start-here) | A first orientation and learning pathway, one per role level | 205 |
 | [Upskilling resources](uk-gdad-pcf-upskilling-resources) | Courses, blog posts, research, videos, books | 205 |
 | [CPD checklists](uk-gdad-pcf-continuing-professional-development-checklists) | Continuing professional development, per level | 205 |
-| [Assessments](uk-gdad-pcf-assessments) | Practice cognitive, numeric, verbal and situational judgement material | 205 |
+| [Assessments](uk-gdad-pcf-psychometric-assessments) | Practice cognitive, numeric, verbal and situational judgement material | 205 |
 | [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms) | A form HR sends and an employee fills in, one per level | 205 |
 | [Skills self-assessment](uk-gdad-pcf-skills-self-assessment) | A single-page tool for rating yourself | 1 |
 | [Website](uk-gdad.github.io) | The published static site | — |
@@ -53,7 +53,7 @@ SLUG=software-development/software-developer/4-senior-developer
 cat uk-gdad-pcf-role-summaries/roles/$SLUG.md
 cat uk-gdad-pcf-upskilling-resources/roles/$SLUG.md
 cat uk-gdad-pcf-continuing-professional-development-checklists/roles/$SLUG.md
-cat uk-gdad-pcf-assessments/roles/$SLUG.md
+cat uk-gdad-pcf-psychometric-assessments/roles/$SLUG.md
 cat uk-gdad-pcf-roles-skills-gap-forms/roles/$SLUG.md
 
 # Which levels need a given skill?

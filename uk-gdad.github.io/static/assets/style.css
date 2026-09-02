@@ -445,6 +445,31 @@ th {
   font-weight: 600;
   color: var(--lily-primary);
 }
+/* Assessments wrap each question's worked answer in a `.details`, so a
+   reader can attempt the question before checking it. It sits right after
+   the question's own prose, so it wants its own space, not the border a
+   `.details` normally borrows from a list of them. */
+.assessment-answer {
+  margin: 0.75rem 0 1.75rem;
+  border-bottom: 0;
+  padding: 0;
+}
+.assessment-answer summary {
+  padding: 0.5rem 0.75rem;
+  border: 2px solid var(--lily-border);
+  border-radius: var(--lily-radius);
+}
+.assessment-answer summary:hover {
+  background: var(--lily-primary-wash);
+}
+.assessment-answer[open] summary {
+  margin-bottom: 0.75rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.assessment-answer p:last-child {
+  margin-bottom: 0;
+}
 
 /* Site tools: ThemePicker, TextSizePicker and SharePicker, from
  * lily-design-system-svelte-helpers rather than the headless package —

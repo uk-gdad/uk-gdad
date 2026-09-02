@@ -47,7 +47,7 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | `content/role-level-start-here/` | `uk-gdad-pcf-role-level-start-here/roles/` |
 | `content/upskilling-resources/` | `uk-gdad-pcf-upskilling-resources/roles/` |
 | `content/continuing-professional-development-checklists/` | `uk-gdad-pcf-continuing-professional-development-checklists/roles/` |
-| `content/assessments/` | `uk-gdad-pcf-assessments/roles/` |
+| `content/assessments/` | `uk-gdad-pcf-psychometric-assessments/roles/` |
 | `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
 | `src/lib/lily/` | Lily Design System headless components, per `bin/lily-components.txt` |
 | `src/lib/lily-helpers/` | Lily Design System helper components (theme, text size, share pickers), per `bin/lily-helper-components.txt` |

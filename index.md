@@ -60,7 +60,7 @@ uk-gdad/
 ├── uk-gdad-pcf-role-level-start-here/          ─┐
 ├── uk-gdad-pcf-upskilling-resources/            │
 ├── uk-gdad-pcf-continuing-professional-…/       ├─ derived, mirror the canonical
-├── uk-gdad-pcf-assessments/                     │
+├── uk-gdad-pcf-psychometric-assessments/        │
 ├── uk-gdad-pcf-roles-skills-gap-forms/         ─┘
 ├── uk-gdad-pcf-skills-self-assessment/         A single-page rating tool
 └── uk-gdad.github.io/                          The published site
@@ -220,7 +220,7 @@ Same slug, in each of the other five projects. Each has its own contract:
   `# Principal data engineer - upskill resources`, ten required sections.
 - [CPD](uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) —
   the general sections from `spec/template.md`, plus a level-specific section.
-- [Assessments](uk-gdad-pcf-assessments/spec/index.md) — seven required
+- [Assessments](uk-gdad-pcf-psychometric-assessments/spec/index.md) — seven required
   sections including the advisory.
 - [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms/spec/index.md) — title
   `# Principal data engineer - skills gap form`, twelve required sections, and
@@ -235,7 +235,7 @@ bin/check
 ```
 
 ```
-uk-gdad-pcf-assessments: missing data/data-engineer/5-principal-data-engineer.md
+uk-gdad-pcf-psychometric-assessments: missing data/data-engineer/5-principal-data-engineer.md
 ```
 
 Exactly what is left to do. When it passes:
@@ -442,7 +442,7 @@ It is the identity of a role level everywhere:
 | Summary | `uk-gdad-pcf-role-summaries/roles/<slug>.md` |
 | Upskilling | `uk-gdad-pcf-upskilling-resources/roles/<slug>.md` |
 | CPD | `uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md` |
-| Assessment | `uk-gdad-pcf-assessments/roles/<slug>.md` |
+| Assessment | `uk-gdad-pcf-psychometric-assessments/roles/<slug>.md` |
 | Skills gap form | `uk-gdad-pcf-roles-skills-gap-forms/roles/<slug>.md` |
 | Website | `https://uk-gdad.github.io/roles/<slug>/` |
 
@@ -526,7 +526,7 @@ them directly:
 ```sh
 comm -23 \
   <(cd uk-gdad-pcf-role-summaries/roles && find . -name '*.md' | sort) \
-  <(cd uk-gdad-pcf-assessments/roles && find . -name '*.md' | sort)
+  <(cd uk-gdad-pcf-psychometric-assessments/roles && find . -name '*.md' | sort)
 ```
 
 **A role's levels in order**

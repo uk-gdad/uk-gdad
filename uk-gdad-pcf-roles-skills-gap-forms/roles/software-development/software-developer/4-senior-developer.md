@@ -38,7 +38,7 @@ boxes tick, and each skill has a rating to choose. Your answers are saved in
 this browser, on this device, so you can close the page and come back to them.
 Nothing is sent anywhere.
 
-When you have finished, use Export TSV or Export as JSON at the top of the
+When you have finished, use Export TSV or Export JSON at the top of the
 page, or print it, or copy your answers into whatever your organisation uses
 for development conversations. Every question is numbered, so answers travel
 back on their own without the questions attached. Clear answers empties the
@@ -827,7 +827,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks, and books pitched at senior developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/4-senior-developer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-assessments/roles/software-development/software-developer/4-senior-developer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/software-development/software-developer/4-senior-developer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. The most valuable answers on a form like this are

@@ -28,7 +28,7 @@ uk-gdad/
 ├── uk-gdad-pcf-role-level-start-here/        205 files
 ├── uk-gdad-pcf-upskilling-resources/         205 files
 ├── uk-gdad-pcf-continuing-professional-development-checklists/  205 files
-├── uk-gdad-pcf-assessments/                  205 files
+├── uk-gdad-pcf-psychometric-assessments/     205 files
 ├── uk-gdad-pcf-roles-skills-gap-forms/       205 files
 ├── uk-gdad-pcf-skills-self-assessment/       A single-page self-rating tool
 └── uk-gdad.github.io/                        The published website

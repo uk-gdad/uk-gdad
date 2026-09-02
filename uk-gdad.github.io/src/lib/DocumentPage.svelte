@@ -31,9 +31,13 @@
       .title} role in the UK Government Digital and Data Profession Capability Framework."
   />
   {#if data.kind === 'gapform'}
-    <!-- Saves the reader's answers in their own browser, and exports them.
-         The only script on a content page, and only on this one kind. -->
+    <!-- Saves the reader's answers in their own browser, and exports them. -->
     <script src="/assets/gapform.js" defer></script>
+  {:else if data.kind === 'development'}
+    <!-- Saves the reader's ticked items in their own browser, and exports
+         them — the same idea as `gapform.js`, for a checklist instead of a
+         form. -->
+    <script src="/assets/cpdform.js" defer></script>
   {/if}
 </svelte:head>
 
@@ -60,7 +64,7 @@
           Export TSV
         </button>
         <button type="button" class="button button-secondary" id="gapform-export-json">
-          Export as JSON
+          Export JSON
         </button>
         <button type="button" class="button button-secondary" id="gapform-clear">
           Clear answers
@@ -68,6 +72,25 @@
       </div>
       <p class="gapform-status" id="gapform-status" role="status">
         Your answers are saved in this browser as you type. Nothing is sent anywhere.
+      </p>
+    </div>
+  {:else if data.kind === 'development'}
+    <!-- Hidden until `cpdform.js` shows it: without JavaScript these buttons
+         would do nothing, and the checklist is still usable on paper. -->
+    <div id="cpdform-tools" class="gapform-tools" hidden>
+      <div class="button-row">
+        <button type="button" class="button button-secondary" id="cpdform-export-tsv">
+          Export TSV
+        </button>
+        <button type="button" class="button button-secondary" id="cpdform-export-json">
+          Export JSON
+        </button>
+        <button type="button" class="button button-secondary" id="cpdform-clear">
+          Clear Answers
+        </button>
+      </div>
+      <p class="gapform-status" id="cpdform-status" role="status">
+        Your ticks are saved in this browser as you go. Nothing is sent anywhere.
       </p>
     </div>
   {/if}
