@@ -29,52 +29,12 @@
     <p class="hero-lede">
         The Government Digital and Data (GDAD) Profession Capability Framework
         (PCF) describes the digital and data roles across UK government. This
-        site makes it browsable, and adds a start-here learning pathway,
-        upskilling resources, development checklists and practice assessments
-        for each role level.
+        site makes it browsable. This site provides role level learning
+        pathways, upskilling resources, development checklists, and assessments.
     </p>
     <div class="button-row">
-        <a class="button" href="/roles/">Find your role</a>
-        <a class="button button-secondary" href="/professions/"
-            >Browse professions</a
-        >
+        <a class="button" href="/professions/">Professions</a>
+        <a class="button" href="/roles/">Roles</a>
+        <a class="button" href="/skills/">Skills</a>
     </div>
 </div>
-
-<section class="section">
-    <SectionHeading
-        eyebrow="Professions"
-        heading="Start with a profession"
-        subtitle="Each profession holds a set of roles, and each role has levels from apprentice through to principal."
-    />
-    <ul class="card-grid">
-        {#each data.professions as profession (profession.slug)}
-            <li>
-                <Card
-                    heading={profession.title}
-                    href="/professions/{profession.slug}/"
-                >
-                    <p class="card-meta">
-                        {profession.roleCount} roles · {profession.levelCount} levels
-                    </p>
-                </Card>
-            </li>
-        {/each}
-    </ul>
-</section>
-
-<section class="section">
-    <SectionHeading
-        eyebrow="Skills"
-        heading="Or start with a skill"
-        subtitle="The framework names the same skills across many roles. Follow a skill to see every role level that expects it, and how the expectation grows."
-    />
-    <div class="button-row">
-        <a class="button button-secondary" href="/skills/"
-            >Browse {data.counts.skills} skills</a
-        >
-        <a class="button button-secondary" href="/skills-self-assessment/"
-            >Rate your own skills</a
-        >
-    </div>
-</section>
