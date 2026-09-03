@@ -669,7 +669,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this role.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/programme-delivery-manager/1-programme-delivery-manager.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/product-and-delivery/programme-delivery-manager/1-programme-delivery-manager.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/product-and-delivery/programme-delivery-manager/1-programme-delivery-manager.md)
   — practice material for job-specific assessment at this role.
 
 Thank you for filling this in. The problems that reach you are the ones nobody's

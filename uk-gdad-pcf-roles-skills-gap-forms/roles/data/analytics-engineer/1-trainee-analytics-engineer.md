@@ -588,7 +588,7 @@ pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/data/analytics-engineer/1-trainee-analytics-engineer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/data/analytics-engineer/1-trainee-analytics-engineer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/data/analytics-engineer/1-trainee-analytics-engineer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Learning is genuinely the job at your level, so the

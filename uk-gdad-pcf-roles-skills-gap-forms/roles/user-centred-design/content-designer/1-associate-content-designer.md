@@ -510,7 +510,7 @@ the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/user-centred-design/content-designer/1-associate-content-designer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/user-centred-design/content-designer/1-associate-content-designer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/user-centred-design/content-designer/1-associate-content-designer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Nobody has written down what your level actually involves —

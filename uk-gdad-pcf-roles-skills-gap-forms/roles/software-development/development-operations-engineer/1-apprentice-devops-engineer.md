@@ -627,7 +627,7 @@ off:
   — courses, blog posts, videos, and books for an apprentice DevOps engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. DevOps is a wide field and nobody arrives knowing

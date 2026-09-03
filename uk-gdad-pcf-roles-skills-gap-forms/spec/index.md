@@ -69,7 +69,7 @@ answer.
 | Not | Which is | Where |
 | --- | --- | --- |
 | A performance review | A management process the organisation owns | Not here |
-| A psychometric assessment | Practice material for job-specific testing | `uk-gdad-pcf-psychometric-assessments` |
+| A psychometric assessment | Practice material for job-specific testing | `uk-gdad-pcf-psychometric-assessments-by-yourself` |
 | A whole-catalogue self-rating | 189 skills, no role context, nothing saved | `uk-gdad-pcf-skills-self-assessment` |
 | A learning plan | Resources and a CPD checklist | `uk-gdad-pcf-upskilling-resources`, `…-continuing-professional-development-checklists` |
 | Legal advice | Named duties, not interpreted ones | See [Legal and privacy constraints](#legal-and-privacy-constraints) |
@@ -440,7 +440,7 @@ slug, as relative markdown links to the `.md` files:
 ```
 ../../../../uk-gdad-pcf-upskilling-resources/roles/<slug>.md
 ../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md
-../../../../uk-gdad-pcf-psychometric-assessments/roles/<slug>.md
+../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/<slug>.md
 ```
 
 Four `../` from a three-segment slug; three from a two-segment one — the four

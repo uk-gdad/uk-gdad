@@ -644,7 +644,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/it-operations/application-operations-engineer/4-lead-application-operations-engineer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/it-operations/application-operations-engineer/4-lead-application-operations-engineer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/it-operations/application-operations-engineer/4-lead-application-operations-engineer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Whether anyone in your team has time to look for problems that have not

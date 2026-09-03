@@ -689,7 +689,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/product-manager/2-product-manager.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/product-and-delivery/product-manager/2-product-manager.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/product-and-delivery/product-manager/2-product-manager.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Since more than half the published skills read the

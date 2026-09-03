@@ -710,7 +710,7 @@ off:
   — courses, blog posts, videos, and books for an associate solution architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/solution-architect/1-associate-solution-architect.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/architecture/solution-architect/1-associate-solution-architect.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/architecture/solution-architect/1-associate-solution-architect.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Designs that get built rather than admired are

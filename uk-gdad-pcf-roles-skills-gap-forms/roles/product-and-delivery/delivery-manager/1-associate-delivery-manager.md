@@ -675,7 +675,7 @@ off:
   — courses, blog posts, videos, and books for an associate delivery manager.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Learning on a mature team is a real advantage —

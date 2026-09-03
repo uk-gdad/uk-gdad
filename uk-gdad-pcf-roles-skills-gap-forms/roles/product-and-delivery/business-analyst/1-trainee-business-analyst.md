@@ -651,7 +651,7 @@ off:
   — courses, blog posts, videos, and books for a trainee business analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/business-analyst/1-trainee-business-analyst.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/product-and-delivery/business-analyst/1-trainee-business-analyst.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/product-and-delivery/business-analyst/1-trainee-business-analyst.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Mapping a process as it really is rather than as

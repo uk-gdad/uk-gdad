@@ -713,7 +713,7 @@ These three pages cover the same role level and pick up where this form stops:
   — courses, blog posts, videos, and books for a junior business analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/business-analyst/2-junior-business-analyst.md)
   — concrete things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/product-and-delivery/business-analyst/2-junior-business-analyst.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/product-and-delivery/business-analyst/2-junior-business-analyst.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Every skill on this page changes at the next

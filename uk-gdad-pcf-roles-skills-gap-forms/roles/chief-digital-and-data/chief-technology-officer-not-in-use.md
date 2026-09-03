@@ -508,7 +508,7 @@ These three pages cover the same role and pick up where this one stops:
   — courses, articles, talks and books for this role.
 - [Continuing professional development checklist](../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/chief-digital-and-data/chief-technology-officer-not-in-use.md)
   — concrete things to do.
-- [Practice assessment](../../../uk-gdad-pcf-psychometric-assessments/roles/chief-digital-and-data/chief-technology-officer-not-in-use.md)
+- [Practice assessment](../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/chief-digital-and-data/chief-technology-officer-not-in-use.md)
   — practice material for job-specific assessment.
 
 Thank you for filling this in. "Reliable and permanent infrastructure" is a
