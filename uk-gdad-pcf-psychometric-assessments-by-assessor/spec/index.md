@@ -106,7 +106,7 @@ Word counts are targets. `bin/check` enforces the sections, not the lengths.
 This project's advisory was rewritten from an earlier, self-practice framing
 that carried the older, en-US-spelled paragraph quoted in
 [`AGENTS/writing.md`](../../AGENTS/writing.md). This one is en-GB throughout,
-matches the wording adopted for `uk-gdad-pcf-competency-assessments`, and adds
+matches the wording adopted for `uk-gdad-pcf-competency-assessments-by-assessor`, and adds
 the adverse-impact caution that a hiring-facing instrument needs and a
 self-practice one did not.
 

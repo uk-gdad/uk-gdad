@@ -1,4 +1,4 @@
-# UK GDAD PCF assessments
+# UK GDAD PCF assessments (by assessor)
 
 An assessor-administered psychometric assessment for every role level in the
 United Kingdom Government Digital and Data (GDAD) Profession Capability
@@ -17,7 +17,11 @@ Framework (PCF).
 A manager, panel, or reviewer administering a structured, job-specific
 assessment to a candidate — not the candidate's own practice material. Every
 item's worked answer is the assessor's answer key, held back until scoring.
-See [`uk-gdad-pcf-competency-assessments`](../uk-gdad-pcf-competency-assessments)
+Looking for the candidate's own practice material instead? See
+[`uk-gdad-pcf-psychometric-assessments-by-yourself`](../uk-gdad-pcf-psychometric-assessments-by-yourself),
+the same four assessment types rewritten for the reader to work through
+alone. See
+[`uk-gdad-pcf-competency-assessments-by-assessor`](../uk-gdad-pcf-competency-assessments-by-assessor)
 for the companion instrument that measures demonstrated skill against a
 baseline rather than reasoning through items.
 
@@ -65,7 +69,7 @@ The legal position, which constrains what may be written and how it may be used:
 cat roles/data/data-analyst/3-senior-data-analyst.md
 ```
 
-Or read it on the web: <https://uk-gdad.github.io/assessments/>
+Or read it on the web: <https://uk-gdad.github.io/assessments-by-assessor/>
 
 This is the largest project here — around 3.5 million words. Individual files
 run to tens of thousands of words, so the website is usually the easier way in.

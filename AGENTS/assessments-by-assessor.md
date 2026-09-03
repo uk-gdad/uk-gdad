@@ -1,6 +1,12 @@
-# Assessments
+# Assessments (by assessor)
 
-Contract: [`uk-gdad-pcf-psychometric-assessments/spec/index.md`](../uk-gdad-pcf-psychometric-assessments/spec/index.md).
+Contract: [`uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md`](../uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md).
+
+See also [`AGENTS/assessments-by-yourself.md`](assessments-by-yourself.md), the
+sibling project written for the candidate's own practice rather than for the
+person administering it. The two projects share the same document contract —
+same seven sections, same title shape — and are written from the same role
+summary, but the voice and the advisory differ throughout.
 
 ## What this is, and is not
 
@@ -37,9 +43,10 @@ Sections 3–6 target ~4,000 words each. Length is not enforced.
 
 ## Read first
 
-The four reference files in `uk-gdad-pcf-psychometric-assessments/spec/` describe each
-assessment type — what it measures, how items are built, worked examples,
-pitfalls. The two files in `spec/legal/` describe the UK and US legal position.
+The four reference files in `uk-gdad-pcf-psychometric-assessments-by-assessor/spec/`
+describe each assessment type — what it measures, how items are built, worked
+examples, pitfalls. The two files in `spec/legal/` describe the UK and US legal
+position.
 
 Read the legal file before writing situational judgement material. The failure
 mode to avoid is an item that correlates with a protected characteristic rather

@@ -1,4 +1,4 @@
-# UK GDAD PCF assessments
+# UK GDAD PCF assessments (by yourself)
 
 Practice psychometric assessment material for every role level in the United
 Kingdom Government Digital and Data (GDAD) Profession Capability Framework
@@ -10,6 +10,16 @@ Kingdom Government Digital and Data (GDAD) Profession Capability Framework
 > **This is practice material, not an assessment instrument.** It is not
 > validated, not normed, and not fit for making decisions about people. Every
 > document repeats this in its Advisory section.
+
+## Who this is for
+
+Someone preparing for the kind of assessment a role level might use — working
+through the same four assessment types alone, at their own pace, reading each
+answer after trying the question honestly. Running a hiring panel or
+capability review instead? See
+[`uk-gdad-pcf-psychometric-assessments-by-assessor`](../uk-gdad-pcf-psychometric-assessments-by-assessor),
+which holds the answer key back from the candidate and is written for
+whoever is administering it.
 
 ## Why job-specific
 
@@ -55,7 +65,7 @@ The legal position, which constrains what may be written and how it may be used:
 cat roles/data/data-analyst/3-senior-data-analyst.md
 ```
 
-Or read it on the web: <https://uk-gdad.github.io/assessments/>
+Or read it on the web: <https://uk-gdad.github.io/assessments-by-yourself/>
 
 This is the largest project here — around 3.5 million words. Individual files
 run to tens of thousands of words, so the website is usually the easier way in.

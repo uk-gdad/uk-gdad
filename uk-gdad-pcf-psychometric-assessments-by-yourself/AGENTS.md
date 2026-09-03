@@ -12,7 +12,7 @@ taxonomy, slugs, the role index, writing style, licensing — live there and in
 @../AGENTS/repository.md
 @../AGENTS/taxonomy.md
 @../AGENTS/writing.md
-@../AGENTS/assessments.md
+@../AGENTS/assessments-by-yourself.md
 @../AGENTS/validation.md
 
 ---
