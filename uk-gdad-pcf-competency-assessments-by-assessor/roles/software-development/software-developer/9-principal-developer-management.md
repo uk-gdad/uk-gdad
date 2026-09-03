@@ -49,7 +49,7 @@ unlawful adverse impact — rating some groups of candidates systematically lowe
 for reasons that have nothing to do with the job. Consistent, evidence-based
 administration by more than one assessor materially reduces that risk. Never
 let a rating be influenced by anything other than demonstrated, job-related
-evidence — see [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+evidence — see [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 in the project specification for what that rules out.
 
 ## Rating scale

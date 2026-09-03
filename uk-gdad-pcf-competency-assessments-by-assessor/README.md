@@ -19,13 +19,14 @@ baseline abilities a role level requires** — for hiring, for a promotion
 board, for onboarding, or for checking a team's current capability against the
 framework. It is written for the assessor, not for the person being assessed.
 
-This is different from the two documents it sits alongside:
+This is different from the documents it sits alongside:
 
 | Document | Question it answers | Who fills it in |
 | --- | --- | --- |
 | Competency assessment (here) | Does this person meet the baseline for this role level? | An assessor, about someone else |
+| [Competency assessment, by yourself](../uk-gdad-pcf-competency-assessments-by-yourself) | Do I meet the baseline for this role level? | The same matrix, generated from this project, for you to complete about yourself |
 | [Skills gap form](../uk-gdad-pcf-roles-skills-gap-forms) | Where do I think my own gaps are? | The employee, about themselves |
-| [Psychometric assessment](../uk-gdad-pcf-psychometric-assessments) | Can this person reason and judge at the level the job needs? | An assessor, administered to a candidate |
+| [Psychometric assessment](../uk-gdad-pcf-psychometric-assessments-by-assessor) | Can this person reason and judge at the level the job needs? | An assessor, administered to a candidate |
 
 ## What a document contains
 

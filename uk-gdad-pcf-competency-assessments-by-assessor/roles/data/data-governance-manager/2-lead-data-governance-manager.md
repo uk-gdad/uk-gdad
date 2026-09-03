@@ -45,7 +45,7 @@ notes, materially reduces that risk. This matters most for a hiring or promotion
 decision.
 
 **Fairness.** Never let a rating be influenced by anything other than demonstrated,
-job-related evidence. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+job-related evidence. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 in the project specification for what this rules out.
 
 **Sensitive material.** This role's evidence will often touch organisational risk

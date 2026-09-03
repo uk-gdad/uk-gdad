@@ -48,7 +48,7 @@ instrument used inconsistently.
 
 **Fairness.** Never let a rating be influenced by anything other than
 demonstrated, job-related evidence — see
-[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 in the project specification.
 
 **Handling security material.** This role level designs and documents system

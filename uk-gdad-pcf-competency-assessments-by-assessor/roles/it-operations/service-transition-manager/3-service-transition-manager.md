@@ -59,7 +59,7 @@ discuss any large gaps before agreeing a final rating.
 inconsistently, can produce unlawful adverse impact against candidates who
 share a protected characteristic — even unintentionally. Consistent,
 evidence-based administration by more than one assessor materially reduces
-that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 for what this means in practice, and never let a rating be influenced by
 anything other than demonstrated, job-related evidence.
 

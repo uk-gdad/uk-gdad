@@ -18,7 +18,7 @@ This competency assessment is created by AI and is a work in progress for educat
 
 **Consistency.** Score every candidate for this role level the same way, and for a hiring or promotion decision have more than one assessor score independently before comparing notes.
 
-**Fairness.** An unvalidated, AI-drafted instrument like this one can produce unlawful adverse impact if it is used inconsistently or if ratings drift away from demonstrated, job-related evidence. Score against the behavioural indicators below, keep your evidence log, and use more than one assessor wherever you can — consistent, evidence-based administration is what materially reduces that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use) for the full constraints this assessment is written to.
+**Fairness.** An unvalidated, AI-drafted instrument like this one can produce unlawful adverse impact if it is used inconsistently or if ratings drift away from demonstrated, job-related evidence. Score against the behavioural indicators below, keep your evidence log, and use more than one assessor wherever you can — consistent, evidence-based administration is what materially reduces that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) for the full constraints this assessment is written to.
 
 ## Rating scale
 

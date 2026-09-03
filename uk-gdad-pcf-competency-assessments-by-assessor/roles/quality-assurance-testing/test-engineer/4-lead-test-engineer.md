@@ -60,7 +60,7 @@ inconsistently from one candidate to the next, can produce unlawful adverse
 impact even when nobody intends it. Consistent, evidence-based administration,
 ideally by more than one assessor, materially reduces that risk. Never let a
 rating be influenced by anything other than demonstrated, job-related
-evidence — see [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+evidence — see [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 for what that rules out.
 
 ## Rating scale

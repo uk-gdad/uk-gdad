@@ -14,7 +14,7 @@ taxonomy, slugs, the role index, writing style, licensing — live there and in
 @../AGENTS/repository.md
 @../AGENTS/taxonomy.md
 @../AGENTS/writing.md
-@../AGENTS/competency-assessments.md
+@../AGENTS/competency-assessments-by-assessor.md
 @../AGENTS/validation.md
 
 ---

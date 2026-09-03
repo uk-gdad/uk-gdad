@@ -58,7 +58,7 @@ a single assessor working from impression rather than evidence, it can produce
 unlawful adverse impact under the Equality Act 2010. Consistent,
 evidence-based administration, ideally by more than one assessor, materially
 reduces that risk — see [Fair and lawful
-use](../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+use](../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 for the constraints that follow from this.
 
 **A note on sensitivity.** Two of the six skills named for this role — Data

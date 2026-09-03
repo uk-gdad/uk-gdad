@@ -48,7 +48,7 @@ This competency assessment is created by AI and is a work in progress for educat
   than one assessor and compare notes before reaching a final view.
 - **Fairness** — never let a rating be influenced by anything other than
   demonstrated, job-related evidence. See
-  [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+  [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
   in the project specification.
 
 ## Rating scale

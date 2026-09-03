@@ -39,7 +39,7 @@ kinds of evidence where possible. For a hiring or promotion decision, have more 
 assessor score independently before comparing notes.
 
 **Fairness.** Never let a rating be influenced by anything other than demonstrated,
-job-related evidence. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+job-related evidence. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 in the project specification for what this rules out.
 
 ## Rating scale

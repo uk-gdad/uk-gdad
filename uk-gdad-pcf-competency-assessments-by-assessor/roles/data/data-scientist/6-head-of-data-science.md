@@ -64,7 +64,7 @@ ratings influenced by anything other than demonstrated, job-related
 behaviour — it can produce unlawful adverse impact under the Equality Act
 2010, even unintentionally. Consistent, evidence-based administration by more
 than one assessor materially reduces that risk. See
-[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 for what an indicator or evidence prompt must never ask about.
 
 ## Rating scale

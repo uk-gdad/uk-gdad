@@ -51,7 +51,7 @@ can produce unlawful adverse impact, whether or not that is intended.
 Consistent, evidence-based administration, ideally by more than one assessor,
 materially reduces that risk. Every rating and every note you make must be
 about demonstrated, job-related behaviour only — see
-[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 for what that rules out.
 
 ## Rating scale
