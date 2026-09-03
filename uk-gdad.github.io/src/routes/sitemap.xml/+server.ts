@@ -18,7 +18,8 @@ export function GET() {
     ...getSlugsFor('startHere').map((slug) => `/start-here/${slug}/`),
     ...getSlugsFor('upskilling').map((slug) => `/upskilling/${slug}/`),
     ...getSlugsFor('development').map((slug) => `/continuing-professional-development/${slug}/`),
-    ...getSlugsFor('assessment').map((slug) => `/assessments/${slug}/`),
+    ...getSlugsFor('assessmentByAssessor').map((slug) => `/assessments-by-assessor/${slug}/`),
+    ...getSlugsFor('assessmentByYourself').map((slug) => `/assessments-by-yourself/${slug}/`),
     ...getSlugsFor('gapform').map((slug) => `/skills-gap-forms/${slug}/`)
   ];
 

@@ -791,7 +791,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/data/data-governance-manager/2-lead-data-governance-manager.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/data/data-governance-manager/2-lead-data-governance-manager.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/data/data-governance-manager/2-lead-data-governance-manager.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Getting a named person to say in writing that they

@@ -73,8 +73,13 @@ sync_content uk-gdad-pcf-role-summaries role-summaries
 sync_content uk-gdad-pcf-role-level-start-here role-level-start-here
 sync_content uk-gdad-pcf-upskilling-resources upskilling-resources
 sync_content uk-gdad-pcf-continuing-professional-development-checklists continuing-professional-development-checklists
-sync_content uk-gdad-pcf-psychometric-assessments assessments
+sync_content uk-gdad-pcf-psychometric-assessments-by-assessor assessments-by-assessor
+sync_content uk-gdad-pcf-psychometric-assessments-by-yourself assessments-by-yourself
 sync_content uk-gdad-pcf-roles-skills-gap-forms roles-skills-gap-forms
+
+# The old singular assessments/ dir is retired now that it is split in two —
+# remove it so a stale copy is never accidentally left in place.
+rm -rf "$site/content/assessments"
 
 # 3. Skills self-assessment tool.
 

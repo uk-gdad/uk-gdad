@@ -538,7 +538,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/it-operations/business-relationship-manager/2-senior-business-relationship-manager.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/it-operations/business-relationship-manager/2-senior-business-relationship-manager.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/it-operations/business-relationship-manager/2-senior-business-relationship-manager.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Preventing a duplicate investment saves more than most projects

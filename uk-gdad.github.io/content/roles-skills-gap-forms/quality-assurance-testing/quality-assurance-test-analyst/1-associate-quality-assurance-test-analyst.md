@@ -639,7 +639,7 @@ off:
   — courses, blog posts, videos, and books for an associate test analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Testers spend their working lives writing down

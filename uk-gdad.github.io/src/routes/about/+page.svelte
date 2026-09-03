@@ -35,7 +35,7 @@
   </WarningCallout>
 
   <h2>What is here</h2>
-  <p>Every role level in the framework gets up to six documents:</p>
+  <p>Every role level in the framework gets up to seven documents on this site:</p>
   <ul>
     <li>
       <strong>Role summary</strong> — the role, the level, and the skills the framework names,
@@ -54,14 +54,26 @@
       recording development, with a section specific to the role level.
     </li>
     <li>
-      <strong>Assessment</strong> — cognitive, numeric reasoning, verbal reasoning and situational
-      judgement practice written for the role level.
+      <strong>Assessment, by assessor</strong> — cognitive, numeric reasoning, verbal reasoning
+      and situational judgement items an assessor administers to a candidate.
+    </li>
+    <li>
+      <strong>Assessment, by yourself</strong> — the same four assessment types, as practice
+      material you work through on your own.
     </li>
     <li>
       <strong>Skills gap form</strong> — a form an employee reads and fills in, covering the skills
       and skill levels the framework names for the role level.
     </li>
   </ul>
+  <p>
+    A ninth document, a self-rating competency assessment against the same
+    matrix an assessor would use, also exists for every role level but is not
+    yet published on this site — see the repository's
+    <a href="https://github.com/uk-gdad/uk-gdad/blob/main/spec/index.md#known-drift"
+      >known drift</a
+    >.
+  </p>
 
   <h2>Where the content comes from</h2>
   <p>
@@ -69,9 +81,9 @@
     published under the
     <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">
       Open Government Licence v3.0
-    </a>. The start here, upskilling, development, assessment and skills gap form material is
-    written for this project, and is offered under the same licence. Attribution is required
-    wherever any of it is republished.
+    </a>. The start here, upskilling, development, assessment (both voices) and skills gap form
+    material is written for this project, and is offered under the same licence. Attribution is
+    required wherever any of it is republished.
   </p>
 
   <h2>How it is built</h2>

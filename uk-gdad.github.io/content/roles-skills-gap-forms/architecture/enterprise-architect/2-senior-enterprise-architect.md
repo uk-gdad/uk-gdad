@@ -714,7 +714,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks, and books pitched at senior enterprise architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/enterprise-architect/2-senior-enterprise-architect.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/architecture/enterprise-architect/2-senior-enterprise-architect.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/architecture/enterprise-architect/2-senior-enterprise-architect.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Commercial perspective has the furthest to travel

@@ -28,7 +28,8 @@ const DIRECTORIES: Record<ResourceKind, string> = {
   startHere: 'role-level-start-here',
   upskilling: 'upskilling-resources',
   development: 'continuing-professional-development-checklists',
-  assessment: 'assessments',
+  assessmentByAssessor: 'assessments-by-assessor',
+  assessmentByYourself: 'assessments-by-yourself',
   gapform: 'roles-skills-gap-forms'
 };
 
@@ -203,7 +204,8 @@ export function getProfessions(): Profession[] {
         startHere: exists('startHere', slug),
         upskilling: exists('upskilling', slug),
         development: exists('development', slug),
-        assessment: exists('assessment', slug),
+        assessmentByAssessor: exists('assessmentByAssessor', slug),
+        assessmentByYourself: exists('assessmentByYourself', slug),
         gapform: exists('gapform', slug)
       }
     };
@@ -341,7 +343,9 @@ function resolveLink(href: string, from: { kind: ResourceKind; slug: string }): 
       : /upskill/i.test(prefix)
         ? 'upskilling'
         : /assessment/i.test(prefix)
-          ? 'assessment'
+          ? /by-yourself/i.test(prefix)
+            ? 'assessmentByYourself'
+            : 'assessmentByAssessor'
           : /continuing|professional|cpd|checklist/i.test(prefix)
             ? 'development'
             : /start-here/i.test(prefix)
@@ -362,7 +366,8 @@ const RESOURCE_BASES: Record<ResourceKind, string> = {
   startHere: '/start-here',
   upskilling: '/upskilling',
   development: '/continuing-professional-development',
-  assessment: '/assessments',
+  assessmentByAssessor: '/assessments-by-assessor',
+  assessmentByYourself: '/assessments-by-yourself',
   gapform: '/skills-gap-forms'
 };
 
@@ -515,6 +520,8 @@ export function renderMarkdown(
   };
 
   let html = marked.parser(tokens, { renderer, gfm: true });
-  if (from.kind === 'assessment') html = wrapAssessmentAnswers(html);
+  if (from.kind === 'assessmentByAssessor' || from.kind === 'assessmentByYourself') {
+    html = wrapAssessmentAnswers(html);
+  }
   return { title, html, toc };
 }

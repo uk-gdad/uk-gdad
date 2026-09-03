@@ -785,7 +785,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks, and books pitched at chief data architect.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/architecture/data-architect/3-chief-data-architect.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/architecture/data-architect/3-chief-data-architect.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/architecture/data-architect/3-chief-data-architect.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. The framework never releases a chief data

@@ -556,7 +556,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/user-centred-design/technical-writer/1-technical-writer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/user-centred-design/technical-writer/1-technical-writer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/user-centred-design/technical-writer/1-technical-writer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Watching someone try to follow your documentation and get

@@ -505,7 +505,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/it-operations/service-desk-manager/1-service-desk-analyst.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/it-operations/service-desk-manager/1-service-desk-analyst.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/it-operations/service-desk-manager/1-service-desk-analyst.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. The framework sums your level up as "interacts with customers", which does not

@@ -4,7 +4,7 @@ The public website for the [UK GDAD PCF projects](https://github.com/uk-gdad/uk-
 — the United Kingdom Government Digital and Data (GDAD) Profession Capability
 Framework (PCF) — at <https://uk-gdad.github.io>.
 
-A SvelteKit project using `@sveltejs/adapter-static` that prerenders **1,427
+A SvelteKit project using `@sveltejs/adapter-static` that prerenders **1,632
 pages** to plain HTML, built with the
 [Lily Design System™](https://lilydesignsystem.com/) and deployed by GitHub
 Actions to GitHub Pages.
@@ -29,9 +29,11 @@ uk-gdad.github.io/
 │   └── lily-components.txt   Which Lily components this site uses
 ├── content/                  Vendored markdown — the source of every role page
 │   ├── role-summaries/
+│   ├── role-level-start-here/
 │   ├── upskilling-resources/
 │   ├── continuing-professional-development-checklists/
-│   ├── assessments/
+│   ├── assessments-by-assessor/
+│   ├── assessments-by-yourself/
 │   └── roles-skills-gap-forms/
 ├── src/
 │   ├── app.html              Document shell
@@ -61,9 +63,11 @@ uk-gdad.github.io/
 | `/professions/<profession>/` | One profession: its roles and levels | 8 |
 | `/roles/` | Searchable finder across every role level | 1 |
 | `/roles/<slug>/` | Role summary: the role, the level, its skills | 205 |
+| `/start-here/<slug>/` | First orientation and learning pathway | 205 |
 | `/upskilling/<slug>/` | Upskilling resources for that level | 205 |
 | `/continuing-professional-development/<slug>/` | Development checklist | 205 |
-| `/assessments/<slug>/` | Practice assessment | 205 |
+| `/assessments-by-assessor/<slug>/` | Assessor-administered assessment | 205 |
+| `/assessments-by-yourself/<slug>/` | Self-practice assessment | 205 |
 | `/skills-gap-forms/<slug>/` | Skills gap form to read and fill in | 205 |
 | `/skills/` | Every skill the framework names | 1 |
 | `/skills/<skill>/` | One skill, and every level that expects it | 183 |
@@ -106,9 +110,10 @@ copy is a failing check.
 
 - **Role summaries** are plain text, not markdown. `src/lib/server/content.ts`
   parses them into role, level, duties and skills, then renders structured HTML.
-- **The other five** — start here, upskilling, development, assessments, and
-  skills gap forms — are markdown, rendered at build time with `marked`.
-  Headings get stable ids and feed an on-page contents list.
+- **The other six** — start here, upskilling, development, assessments (by
+  assessor and by yourself, two separate projects), and skills gap forms —
+  are markdown, rendered at build time with `marked`. Headings get stable ids
+  and feed an on-page contents list.
 - **Gap-form paths end in `/roles`**, exactly as summary paths do, so the link
   rewriter in `content.ts` must test for `skills-gap` **before** it tests for a
   summary. Reordering those tests silently sends every gap-form link to the

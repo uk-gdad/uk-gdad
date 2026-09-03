@@ -514,7 +514,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this role.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/user-centred-design/content-strategist/1-content-strategist.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/user-centred-design/content-strategist/1-content-strategist.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/user-centred-design/content-strategist/1-content-strategist.md)
   — practice material for job-specific assessment at this role.
 
 Thank you for filling this in. How much of your content estate nobody has looked at in two

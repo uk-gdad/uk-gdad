@@ -757,7 +757,7 @@ These three pages cover the same role level and pick up where this form stops:
   — courses, blog posts, videos, and books for a junior developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/2-junior-developer.md)
   — concrete things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/software-development/software-developer/2-junior-developer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/software-development/software-developer/2-junior-developer.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Writing down what you cannot do yet takes a bit of

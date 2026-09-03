@@ -627,7 +627,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks, and books pitched at senior test engineer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Turning automation results into risks somebody

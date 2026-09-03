@@ -18,11 +18,12 @@ now accountable for the portfolio's outcomes, not just contributing to them.
 
 ## Explore the framework
 
-This page is a starting point. Five more pages cover this exact role level in
+This page is a starting point. Seven more pages cover this exact role level in
 more depth:
 
 - [Role summary](https://uk-gdad.github.io/roles/product-and-delivery/digital-portfolio-manager/3-senior-digital-portfolio-manager/): the framework's own description of what this level expects.
-- [Assessments](https://uk-gdad.github.io/assessments/product-and-delivery/digital-portfolio-manager/3-senior-digital-portfolio-manager/): practice material for the kind of assessment this level might use.
+- [Assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/product-and-delivery/digital-portfolio-manager/3-senior-digital-portfolio-manager/): a structured assessment an assessor administers, built from this level's skills.
+- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/product-and-delivery/digital-portfolio-manager/3-senior-digital-portfolio-manager/): practice material for the kind of assessment this level might use, to work through on your own.
 - [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/product-and-delivery/digital-portfolio-manager/3-senior-digital-portfolio-manager/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/product-and-delivery/digital-portfolio-manager/3-senior-digital-portfolio-manager/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.

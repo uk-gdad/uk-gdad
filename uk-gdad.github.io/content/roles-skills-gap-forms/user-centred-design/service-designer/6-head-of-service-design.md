@@ -544,7 +544,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/user-centred-design/service-designer/6-head-of-service-design.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/user-centred-design/service-designer/6-head-of-service-design.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/user-centred-design/service-designer/6-head-of-service-design.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Once a policy specifies who must prove what, by when and to whom, the

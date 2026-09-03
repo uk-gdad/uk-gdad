@@ -11,7 +11,8 @@
         startHere: data.counts.startHere,
         upskilling: data.counts.upskilling,
         development: data.counts.development,
-        assessment: data.counts.assessment,
+        assessmentByAssessor: data.counts.assessmentByAssessor,
+        assessmentByYourself: data.counts.assessmentByYourself,
         gapform: data.counts.gapform,
     });
 </script>

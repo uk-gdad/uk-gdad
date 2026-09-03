@@ -846,7 +846,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks, and books pitched at lead frontend developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/frontend-developer/5-lead-frontend-developer.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/software-development/frontend-developer/5-lead-frontend-developer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/software-development/frontend-developer/5-lead-frontend-developer.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. The published expectations at this level are

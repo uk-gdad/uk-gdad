@@ -21,7 +21,8 @@ export function load() {
       startHere: getSlugsFor('startHere').length,
       upskilling: getSlugsFor('upskilling').length,
       development: getSlugsFor('development').length,
-      assessment: getSlugsFor('assessment').length,
+      assessmentByAssessor: getSlugsFor('assessmentByAssessor').length,
+      assessmentByYourself: getSlugsFor('assessmentByYourself').length,
       gapform: getSlugsFor('gapform').length
     }
   };

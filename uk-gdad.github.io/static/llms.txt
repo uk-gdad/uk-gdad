@@ -1,0 +1,53 @@
+# UK GDAD PCF
+
+> A companion site to the UK Government Digital and Data (GDAD) Profession
+> Capability Framework (PCF): every role, level and skill across UK
+> government, restated as plain files and extended with a start-here
+> learning pathway, upskilling resources, a development checklist, two
+> voices of psychometric assessment (assessor-administered and self-practice)
+> and a skills gap form, for every one of 205 role levels. This is not a
+> government service. Role summaries are Crown copyright, adapted under the
+> Open Government Licence v3.0; everything else is AI-assisted with human
+> review. For anything that carries weight — pay, grading, recruitment,
+> promotion — use the official framework at
+> https://ddat-capability-framework.service.gov.uk/ and talk to your
+> organisation.
+
+## Find things
+
+- [Professions](https://uk-gdad.github.io/professions/): The eight
+  professions in the framework, each with its roles and levels.
+- [Roles](https://uk-gdad.github.io/roles/): A searchable finder across
+  every role level.
+- [Skills](https://uk-gdad.github.io/skills/): Every skill the framework
+  names, and every level that expects it.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/):
+  A single-page tool for rating yourself against the whole skill catalogue.
+
+## Per role level
+
+Each of the 205 role levels has its own page under each of these paths —
+substitute a slug such as `data/data-analyst/2-data-analyst` for `<slug>`:
+
+- `https://uk-gdad.github.io/roles/<slug>/` — the role summary.
+- `https://uk-gdad.github.io/start-here/<slug>/` — first orientation and a
+  learning pathway.
+- `https://uk-gdad.github.io/upskilling/<slug>/` — courses, articles, videos,
+  books.
+- `https://uk-gdad.github.io/continuing-professional-development/<slug>/` —
+  a CPD checklist.
+- `https://uk-gdad.github.io/assessments-by-assessor/<slug>/` — a
+  structured assessment an assessor administers.
+- `https://uk-gdad.github.io/assessments-by-yourself/<slug>/` — the same
+  four assessment types as practice material.
+- `https://uk-gdad.github.io/skills-gap-forms/<slug>/` — a form to compare
+  what you do now against what the level expects.
+
+## Optional
+
+- [About](https://uk-gdad.github.io/about/): Provenance, licensing, and how
+  the site is built.
+- [Sitemap](https://uk-gdad.github.io/sitemap.xml): Every URL the site
+  publishes.
+- [Source repository](https://github.com/uk-gdad/uk-gdad): Where all of this
+  is written and reviewed before publishing.

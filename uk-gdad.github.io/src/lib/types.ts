@@ -10,7 +10,8 @@ export type ResourceKind =
   | 'startHere'
   | 'upskilling'
   | 'development'
-  | 'assessment'
+  | 'assessmentByAssessor'
+  | 'assessmentByYourself'
   | 'gapform';
 
 /** A role level: one markdown file per document kind, e.g. "Senior developer". */
@@ -113,11 +114,20 @@ export const RESOURCES: {
     description: 'A checklist for planning, doing and recording your ongoing development.'
   },
   {
-    kind: 'assessment',
-    title: 'Assessment',
+    kind: 'assessmentByAssessor',
+    title: 'Assessment (by assessor)',
     short: 'Assessment',
-    base: '/assessments',
-    description: 'Cognitive, numeric, verbal and situational judgement practice for the role.'
+    base: '/assessments-by-assessor',
+    description:
+      'Cognitive, numeric, verbal and situational judgement items an assessor administers to a candidate.'
+  },
+  {
+    kind: 'assessmentByYourself',
+    title: 'Assessment (by yourself)',
+    short: 'Practice',
+    base: '/assessments-by-yourself',
+    description:
+      'The same four assessment types, as practice material you work through on your own.'
   },
   {
     kind: 'gapform',

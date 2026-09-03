@@ -737,7 +737,7 @@ this form leaves off:
   — courses, blog posts, videos, and books for an apprentice developer.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/1-apprentice-developer.md)
   — things to do, skill by skill, so your development has a shape.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/software-development/software-developer/1-apprentice-developer.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/software-development/software-developer/1-apprentice-developer.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. It takes a bit of nerve to write down what you do

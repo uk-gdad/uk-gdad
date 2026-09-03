@@ -570,7 +570,7 @@ off:
   — courses, blog posts, videos, and books for a digital portfolio analyst.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/product-and-delivery/digital-portfolio-manager/1-digital-portfolio-analyst.md)
   — things to do, skill by skill.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/product-and-delivery/digital-portfolio-manager/1-digital-portfolio-analyst.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/product-and-delivery/digital-portfolio-manager/1-digital-portfolio-analyst.md)
   — practice material for the kinds of assessment an employer might use.
 
 Thank you for filling this in. Portfolio reporting is only worth producing if

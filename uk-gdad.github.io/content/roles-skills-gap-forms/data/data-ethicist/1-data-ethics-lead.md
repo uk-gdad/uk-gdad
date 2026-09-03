@@ -701,7 +701,7 @@ These three pages cover the same role level and pick up where this one stops:
   — courses, articles, talks and books pitched at this level.
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/data/data-ethicist/1-data-ethics-lead.md)
   — concrete things to do against each of these skills.
-- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments/roles/data/data-ethicist/1-data-ethics-lead.md)
+- [Practice assessment](../../../../uk-gdad-pcf-psychometric-assessments-by-yourself/roles/data/data-ethicist/1-data-ethics-lead.md)
   — practice material for job-specific assessment at this level.
 
 Thank you for filling this in. Whether teams bring you a question early or tell you
