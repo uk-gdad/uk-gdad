@@ -13,7 +13,7 @@ in on the page, and the answers stay in your own browser.
 
 ## Take a copy
 
-The documents are plain markdown. Clone the repository and you have all 1,230 of
+The documents are plain markdown. Clone the repository and you have all 1,845 of
 them, greppable and diffable:
 
 ```sh
@@ -34,7 +34,7 @@ Find the file for one role level — the path is the slug:
 cat uk-gdad-pcf-role-summaries/roles/software-development/software-developer/4-senior-developer.md
 ```
 
-The same slug addresses that level in all six projects, and is the URL path on
+The same slug addresses that level in all nine projects, and is the URL path on
 the website.
 
 ## Check it
@@ -64,7 +64,7 @@ Other commands:
 
 ```sh
 pnpm check               # svelte-check; must be clean
-pnpm build               # build/ — 1,427 prerendered pages, about 6 seconds
+pnpm build               # build/ — 1,632 prerendered pages, about 6 seconds
 pnpm preview             # serve the production build
 ./bin/sync               # refresh the vendored content after editing documents
 ```

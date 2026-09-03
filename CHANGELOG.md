@@ -26,6 +26,54 @@ the work landed on `main`.
   All 205 summary pages had been shipping a client-side bundle to hydrate a page
   with nothing to hydrate; a summary page dropped from 5 KB to 3.5 KB gzipped.
 
+## 2026-09-04
+
+### Added
+
+- **`uk-gdad-pcf-psychometric-assessments-by-yourself`**: 205 self-practice
+  psychometric assessment documents, sharing the assessor-administered
+  sibling's document contract but written for the reader to work through on
+  their own.
+- **`uk-gdad-pcf-competency-assessments-by-yourself`**: 205 self-rating
+  competency assessment documents, generated from the assessor-administered
+  sibling's matrix — same skills, same baselines, same behavioural
+  indicators — rewritten for the reader to complete about themselves.
+- The website now vendors and routes both psychometric assessment projects,
+  at `/assessments-by-assessor/<slug>/` and `/assessments-by-yourself/<slug>/`.
+
+### Changed
+
+- **`uk-gdad-pcf-psychometric-assessments` split** into
+  `uk-gdad-pcf-psychometric-assessments-by-assessor` (assessor-administered,
+  en-GB advisory, answer key withheld) and `-by-yourself` (self-practice, the
+  original en-US-advisory framing preserved). `bin/check`, `bin/serial-comma`,
+  the website's vendoring and routing, and every cross-reference across
+  `spec/`, `AGENTS/`, `README.md` and `index.md` updated to match.
+- **`uk-gdad-pcf-competency-assessments` renamed** to
+  `uk-gdad-pcf-competency-assessments-by-assessor`, for naming consistency
+  with the psychometric assessment split.
+- `AGENTS/assessments.md` split into `AGENTS/assessments-by-assessor.md` and
+  `AGENTS/assessments-by-yourself.md`; `AGENTS/competency-assessments.md`
+  renamed to `AGENTS/competency-assessments-by-assessor.md` with a new
+  `AGENTS/competency-assessments-by-yourself.md` alongside it.
+- The 205 `uk-gdad-pcf-roles-skills-gap-forms` "Practice assessment" links,
+  and the `uk-gdad-pcf-role-level-start-here` "Explore the framework"
+  sections across all 205 files, now point at both psychometric assessment
+  projects where relevant instead of the retired singular one.
+- Document-count prose across `spec/index.md`, `AGENTS.md`, `README.md` and
+  `index.md` corrected from "five further documents" (already stale before
+  today — it omitted competency assessments) to eight further documents,
+  nine per role level including the canonical summary.
+
+### Fixed
+
+- `bin/check` was failing outright: it referenced the deleted
+  `uk-gdad-pcf-psychometric-assessments` directory in `DERIVED`,
+  `REQUIRED_SECTIONS`, `REQUIRED_TITLE_SUFFIX` and `SITE_CONTENT`. Now passes
+  cleanly across all nine role projects.
+- `bin/serial-comma` was silently skipping both competency assessment
+  projects — they were never added to its `TARGETS` glob.
+
 ## 2026-08-26
 
 ### Changed

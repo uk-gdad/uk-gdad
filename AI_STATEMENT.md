@@ -111,7 +111,7 @@ advisory with it.
 
 This section exists because a disclosure without one is marketing.
 
-- **Scale exceeds review depth.** This is 1,230 documents and roughly 5.4
+- **Scale exceeds review depth.** This is 1,845 documents and roughly 9.8
   million words, maintained by one person. The honest claim is that the
   structure is enforced, the rules are written down, and the material has been
   reviewed. "Every sentence has been independently verified" would not be true.

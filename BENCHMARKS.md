@@ -19,8 +19,8 @@ any of them with the commands given.
 | **Total** | **1,025** | **5,246,918** |
 
 ```sh
-find uk-gdad-pcf-psychometric-assessments/roles -name '*.md' | wc -l
-cat uk-gdad-pcf-psychometric-assessments/roles/**/*.md | wc -w
+find uk-gdad-pcf-psychometric-assessments-by-assessor/roles -name '*.md' | wc -l
+cat uk-gdad-pcf-psychometric-assessments-by-assessor/roles/**/*.md | wc -w
 ```
 
 The assessments are two-thirds of the words: each carries four assessment
@@ -137,3 +137,37 @@ re-run for this update: they were not expected to change, because a start-here
 page is the same shape of prerendered, script-free markdown page as an
 upskilling or development page, but that is an expectation, not a
 measurement.
+
+## Update — 2026-09-04
+
+`uk-gdad-pcf-psychometric-assessments` was split into
+`uk-gdad-pcf-psychometric-assessments-by-assessor` and
+`-by-yourself`, and `uk-gdad-pcf-competency-assessments` was renamed to
+`-by-assessor` and given a new `-by-yourself` sibling generated from it — nine
+role projects in total now, up from six. The website vendors and routes both
+psychometric assessment projects; neither competency assessment project is
+wired into the site yet (see `spec/index.md` § Known drift).
+
+| Project | Files | Words |
+| --- | ---: | ---: |
+| Role summaries | 205 | 96,280 |
+| Role level start here | 205 | 175,438 |
+| Upskilling resources | 205 | 345,827 |
+| CPD checklists | 205 | 411,357 |
+| Assessments, by assessor | 205 | 2,806,383 |
+| Assessments, by yourself | 205 | 3,564,961 |
+| Competency assessments, by assessor | 205 | 774,269 |
+| Competency assessments, by yourself | 205 | 783,667 |
+| Skills gap forms | 205 | 828,288 |
+| **Total** | **1,845** | **9,786,470** |
+
+`bin/check` now covers 1,845 documents and runs in 0.4s, unchanged in shape
+from the previous update — three more projects at 205 files each does not
+move a check that was already fast. `pnpm build` now prerenders 1,632 pages
+(up from 1,427, the 205 new pages all from the psychometric assessment split)
+in about 9s.
+
+The page weight, JavaScript and accessibility measurements above were not
+re-run for this update either, for the same reason as before: an assessment
+page is the same shape of prerendered, script-free markdown page regardless
+of which of the two psychometric assessment projects it comes from.

@@ -11,9 +11,9 @@ with, and when to use one of them instead.
 |  | Official framework | This project |
 | --- | --- | --- |
 | Status | Authoritative | Unofficial, community-built |
-| Covers | Roles, levels, skills | The same, plus five more documents per level |
-| Documents per role level | 1 | 6 |
-| Format | A website, plus a skills download | 1,230 markdown files, and a website |
+| Covers | Roles, levels, skills | The same, plus eight more documents per level |
+| Documents per role level | 1 | 9 |
+| Format | A website, plus a skills download | 1,845 markdown files, and a website |
 | Reuse | OGL v3.0 | OGL v3.0 |
 | Use it for | Pay, grading, recruitment, promotion, anything that carries weight | Reading, preparing, and self-assessment |
 

@@ -16,7 +16,7 @@ cd uk-gdad.github.io
 pnpm install
 pnpm dev        # http://localhost:5173
 pnpm check      # svelte-check — must be clean
-pnpm build      # build/ — 1,427 pages
+pnpm build      # build/ — 1,632 pages
 pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```

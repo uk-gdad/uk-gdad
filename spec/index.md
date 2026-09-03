@@ -33,10 +33,13 @@ This repository does three things with that framework:
 
 1. **Restates** it as one plain-text file per role level, so that people and
    software can read it without scraping a website or parsing a spreadsheet.
-2. **Extends** it with five further documents per role level: a start-here
+2. **Extends** it with eight further documents per role level: a start-here
    orientation and learning pathway, upskilling resources, a continuing
-   professional development checklist, a practice assessment, and a skills
-   gap form for an employee to fill in.
+   professional development checklist, an assessor-administered psychometric
+   assessment, a self-practice psychometric assessment, an assessor-administered
+   competency assessment, a self-rating competency assessment, and a skills
+   gap form for an employee to fill in — nine documents per role level in
+   total, counting the canonical summary.
 3. **Publishes** all of it as a static website.
 
 Non-goals: this repository is not the framework, does not set pay or grading,
@@ -91,8 +94,10 @@ exactly; a prefix match conflates them.
 | [`uk-gdad-pcf-role-level-start-here`](../uk-gdad-pcf-role-level-start-here/spec/index.md)                                                   | Starting ideas for learning the role.                     | 205       |
 | [`uk-gdad-pcf-upskilling-resources`](../uk-gdad-pcf-upskilling-resources/spec/index.md)                                                     | Courses, posts, research, videos, books                   | 205       |
 | [`uk-gdad-pcf-continuing-professional-development-checklists`](../uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) | CPD checklists                                            | 205       |
-| [`uk-gdad-pcf-psychometric-assessments`](../uk-gdad-pcf-psychometric-assessments/spec/index.md)                                             | Assessor-administered psychometric assessments            | 205       |
-| [`uk-gdad-pcf-competency-assessments`](../uk-gdad-pcf-competency-assessments/spec/index.md)                                                 | Assessor-administered competency matrices                 | 205       |
+| [`uk-gdad-pcf-psychometric-assessments-by-assessor`](../uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md)                     | Assessor-administered psychometric assessments             | 205       |
+| [`uk-gdad-pcf-psychometric-assessments-by-yourself`](../uk-gdad-pcf-psychometric-assessments-by-yourself/spec/index.md)                     | Self-practice psychometric assessment material              | 205       |
+| [`uk-gdad-pcf-competency-assessments-by-assessor`](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md)                         | Assessor-administered competency matrices                  | 205       |
+| [`uk-gdad-pcf-competency-assessments-by-yourself`](../uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md)                         | Self-rating competency matrices                             | 205       |
 | [`uk-gdad-pcf-roles-skills-gap-forms`](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md)                                                 | Skills gap forms, sent by HR and filled in by an employee | 205       |
 | [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md)                                                 | A standalone self-rating tool                             | 1         |
 | [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md)                                                                                   | The published website                                     | —         |
@@ -116,8 +121,8 @@ Every project has the same shape:
 ## Role index
 
 `uk-gdad-pcf-role-summaries/roles/` **is** the role index. It defines which role
-levels exist. Six other role projects mirror it exactly: same paths, same
-file names, 205 files each. A file that exists in one of the six
+levels exist. Eight other role projects mirror it exactly: same paths, same
+file names, 205 files each. A file that exists in one of the eight
 fully-mirrored projects and not the others is a defect, not a variation.
 
 ### Path shape
@@ -213,7 +218,7 @@ everyone. The level-specific material is under
 `## UK GDAD PCF Role Skill Specifics`.
 
 The start here document is the one place in the repository that links out to
-the other six sibling pages for its role level, and the only one whose
+the other seven sibling pages for its role level, and the only one whose
 learning pathway coaches the reader to ask AI for resources rather than naming
 any — see [its project specification](../uk-gdad-pcf-role-level-start-here/spec/index.md).
 
@@ -278,8 +283,10 @@ derived document:
 role summary ──┬──> start here
                ├──> upskilling resources
                ├──> CPD checklist
-               ├──> psychometric assessment
-               ├──> competency assessment
+               ├──> psychometric assessment (by assessor)
+               ├──> psychometric assessment (by yourself)
+               ├──> competency assessment (by assessor)
+               ├──> competency assessment (by yourself)
                └──> skills gap form
 ```
 
@@ -355,7 +362,7 @@ bin/check --list    # the canonical role index, one slug per line
 Run it before every commit that touches content. It checks:
 
 1. The canonical index parses: path shape, profession names, level numbering.
-2. The six derived projects mirror the canonical index exactly.
+2. The eight derived projects mirror the canonical index exactly.
 3. Every summary has a role line, one level line and at least one skill.
 4. Every derived document has its required title and required sections.
 5. Every skills gap form and every competency assessment carries one block per
@@ -406,3 +413,14 @@ this repository does not hold.
    The summary quotes the framework as published, so it is left as it is. The
    skills gap form for that level separates the two and says why, so a reader
    comparing the two counts does not think one of them is wrong.
+5. **Competency assessments are not published on the website.** All 205
+   `uk-gdad-pcf-competency-assessments-by-assessor` documents, and all 205
+   `uk-gdad-pcf-competency-assessments-by-yourself` documents, exist and pass
+   `bin/check`, but the website does not vendor or route either project — it
+   was never wired in when the first of the two was added, so
+   `uk-gdad-pcf-role-level-start-here`'s "Explore the framework" links do not
+   point to either. Fixing this needs the same shape of work as adding any new
+   document kind to the site (a `content/` vendoring rule, a route, a
+   home-page count, a sitemap entry, times two) plus adding links to all 205
+   start-here pages, which is more than a mechanical rename and has not been
+   done here.

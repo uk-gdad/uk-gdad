@@ -3,6 +3,29 @@
 What has changed lately, in plain language. For the commit-level record, see
 [CHANGELOG.md](CHANGELOG.md).
 
+## 2026-09-04 — Two assessment voices, twice over
+
+Psychometric assessments were always written from one point of view — an
+assessor holding an answer key back from a candidate. They now come in two:
+[`uk-gdad-pcf-psychometric-assessments-by-assessor`](uk-gdad-pcf-psychometric-assessments-by-assessor)
+keeps that framing, and a new sibling,
+[`-by-yourself`](uk-gdad-pcf-psychometric-assessments-by-yourself), rewrites
+every one of the 205 documents as practice material for the reader to work
+through alone. The website now publishes both, at `/assessments-by-assessor/`
+and `/assessments-by-yourself/`.
+
+Competency assessments got the same treatment:
+[`uk-gdad-pcf-competency-assessments-by-assessor`](uk-gdad-pcf-competency-assessments-by-assessor)
+(renamed for consistency with the split above) keeps its skill-by-skill
+matrix for a manager or panel to complete about someone else, and a new
+[`-by-yourself`](uk-gdad-pcf-competency-assessments-by-yourself) sibling
+carries the exact same matrix — same skills, same baselines, same
+behavioural indicators — rewritten for the reader to rate themselves. Neither
+competency assessment project is on the website yet.
+
+The repository now has nine role-level projects instead of six, and 1,845
+documents where there were 1,230.
+
 ## 2026-08-26 — Repository documentation
 
 The standard files a reader or an evaluator looks for: how to

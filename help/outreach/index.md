@@ -98,7 +98,7 @@ hunting for an inbox.
 
 **[Civil Service World](https://www.civilserviceworld.com/)** — read across the
 whole service rather than the digital professions alone. A longer shot, but
-"someone rebuilt the capability framework as 1,230 open documents" is a story.
+"someone rebuilt the capability framework as 1,845 open documents" is a story.
 
 ## 4. Social, honestly ranked
 

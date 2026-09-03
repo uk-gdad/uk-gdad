@@ -1,6 +1,11 @@
-# Competency assessments
+# Competency assessments (by assessor)
 
-Contract: [`uk-gdad-pcf-competency-assessments/spec/index.md`](../uk-gdad-pcf-competency-assessments/spec/index.md).
+Contract: [`uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md`](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md).
+
+See also [`AGENTS/competency-assessments-by-yourself.md`](competency-assessments-by-yourself.md),
+the sibling project that carries the same matrix — same skills, same
+baselines, same behavioural indicators — rewritten for the reader to complete
+about themselves rather than for an assessor judging someone else.
 
 ## What this is, and is not
 
@@ -15,11 +20,11 @@ decision. Every file says so in `## Advisory`, and `bin/check` enforces that
 the section exists.
 
 It is also not the [skills gap form](roles-skills-gap-forms.md) or the
-[psychometric assessment](assessments.md): the gap form is the employee's own
-self-report, and the psychometric assessment tests reasoning and judgement
-through practice items. This document measures demonstrated skill against the
-framework's own description of the role level, and it is written for the
-assessor, not the person being assessed.
+[psychometric assessment](assessments-by-assessor.md): the gap form is the
+employee's own self-report, and the psychometric assessment tests reasoning
+and judgement through practice items. This document measures demonstrated
+skill against the framework's own description of the role level, and it is
+written for the assessor, not the person being assessed.
 
 ## Shape
 
@@ -49,7 +54,7 @@ Every skill is rated 0–4, on proficiency rather than frequency:
 
 ## Read first
 
-[`uk-gdad-pcf-competency-assessments/spec/index.md`](../uk-gdad-pcf-competency-assessments/spec/index.md)
+[`uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md`](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md)
 gives the full contract: what each of the five parts of a competency matrix
 block must contain, how to set a skill's baseline point on the scale from the
 level's own accountabilities, how the overall determination is scored, and the
@@ -76,7 +81,7 @@ nothing about what to look for.
 
 ## Fair and lawful use
 
-Read [Fair and lawful use](../uk-gdad-pcf-competency-assessments/spec/index.md#fair-and-lawful-use)
+Read [Fair and lawful use](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 before writing. Every rating and every evidence prompt must be about
 demonstrated, job-related behaviour — never a protected characteristic under
 the Equality Act 2010, health information, or anything else the [skills gap

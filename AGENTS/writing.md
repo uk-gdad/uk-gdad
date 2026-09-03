@@ -85,10 +85,16 @@ here:
   "organization's", and "people and organizational development staff". It is
   quoted verbatim in all 205 of that project's files, and the whole block is
   skipped rather than the line — only two of its four lines carry a phrase
-  worth matching on, and it is the fourth that holds the spelling. The
-  psychometric assessment's advisory and the competency assessment's advisory
-  were written later, deliberately in en-GB from the start — see each
-  project's own `spec/index.md`.
+  worth matching on, and it is the fourth that holds the spelling.
+- **`uk-gdad-pcf-psychometric-assessments-by-yourself`'s advisory** keeps the
+  same "organization's"/"organizational" wording, for the same reason as the
+  skills gap form's: it is the original self-practice advisory, unchanged
+  since before the project was split. Its sibling,
+  `uk-gdad-pcf-psychometric-assessments-by-assessor`, carries a *different*,
+  later advisory — a deliberate en-GB rewrite that also added an
+  adverse-impact caution the self-practice framing did not need. The
+  competency assessment's advisory was written later still, deliberately in
+  en-GB from the start — see each project's own `spec/index.md`.
 - **Third-party titles**, whether written as a link, in bold, or in running
   prose: a Coursera *Specialization*, Google's *Dataplex Universal Catalog*, the
   *Business Architecture Center of Excellence*, the *SBI (Situation-Behavior-Impact)*
