@@ -28,15 +28,19 @@ generic "you'll make a difference" line that could sit on any level's page.
 
 ## Explore the framework
 
-Six links, to the sibling page for this exact role level on each of:
+Seven links, to the sibling page for this exact role level on each of:
 
 1. Role summary
-2. Assessments
-3. Continuing professional development
-4. Skills gap form
-5. Skills self-assessment (the one page that is not per-level — link the tool
+2. Assessments (by assessor) — the assessor-administered project
+3. Assessments (by yourself) — the self-practice project
+4. Continuing professional development
+5. Skills gap form
+6. Skills self-assessment (the one page that is not per-level — link the tool
    itself)
-6. Upskilling resources
+7. Upskilling resources
+
+The competency assessment is not linked from here: it is not currently
+published on the website (see `spec/index.md` § Known drift).
 
 Link with the absolute website URL, not a relative `.md` path — this document
 is a signpost to the published site, and it names the site explicitly per its

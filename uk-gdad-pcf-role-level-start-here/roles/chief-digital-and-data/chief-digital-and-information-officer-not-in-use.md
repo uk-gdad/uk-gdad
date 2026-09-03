@@ -26,11 +26,12 @@ rather than picking one.
 
 ## Explore the framework
 
-This page is a starting point. Five more pages cover this exact role in more
+This page is a starting point. Seven more pages cover this exact role in more
 depth:
 
 - [Role summary](https://uk-gdad.github.io/roles/chief-digital-and-data/chief-digital-and-information-officer-not-in-use/): the framework's own description of what this role expects.
-- [Assessments](https://uk-gdad.github.io/assessments/chief-digital-and-data/chief-digital-and-information-officer-not-in-use/): practice material for the kind of assessment this role might use.
+- [Assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/chief-digital-and-data/chief-digital-and-information-officer-not-in-use/): a structured assessment an assessor administers, built from this role's skills.
+- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/chief-digital-and-data/chief-digital-and-information-officer-not-in-use/): practice material for the kind of assessment this role might use, to work through on your own.
 - [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/chief-digital-and-data/chief-digital-and-information-officer-not-in-use/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/chief-digital-and-data/chief-digital-and-information-officer-not-in-use/): a form for describing your own practice against the skills the framework names.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
