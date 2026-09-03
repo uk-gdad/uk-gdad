@@ -43,8 +43,10 @@ DERIVED = [
     START_HERE,
     "uk-gdad-pcf-upskilling-resources",
     "uk-gdad-pcf-continuing-professional-development-checklists",
-    "uk-gdad-pcf-psychometric-assessments",
-    "uk-gdad-pcf-competency-assessments",
+    "uk-gdad-pcf-psychometric-assessments-by-assessor",
+    "uk-gdad-pcf-psychometric-assessments-by-yourself",
+    "uk-gdad-pcf-competency-assessments-by-assessor",
+    "uk-gdad-pcf-competency-assessments-by-yourself",
     "uk-gdad-pcf-roles-skills-gap-forms",
 ]
 
@@ -53,7 +55,8 @@ DERIVED = [
 # order, named exactly.
 SKILL_BLOCK_PROJECTS = [
     "uk-gdad-pcf-roles-skills-gap-forms",
-    "uk-gdad-pcf-competency-assessments",
+    "uk-gdad-pcf-competency-assessments-by-assessor",
+    "uk-gdad-pcf-competency-assessments-by-yourself",
 ]
 
 # spec/index.md § Document contracts — required headings per project.
@@ -77,7 +80,16 @@ REQUIRED_SECTIONS = {
         "Teamwork",
         "UK GDAD PCF Role Skill Specifics",
     ],
-    "uk-gdad-pcf-psychometric-assessments": [
+    "uk-gdad-pcf-psychometric-assessments-by-assessor": [
+        "Introduction",
+        "Advisory",
+        "Workplace job-specific cognitive assessment",
+        "Workplace job-specific numeric reasoning assessment",
+        "Workplace job-specific verbal reasoning assessment",
+        "Workplace job-specific situational judgement assessment",
+        "Conclusion",
+    ],
+    "uk-gdad-pcf-psychometric-assessments-by-yourself": [
         "Introduction",
         "Advisory",
         "Workplace job-specific cognitive assessment",
@@ -100,7 +112,18 @@ REQUIRED_SECTIONS = {
         "Your development priorities",
         "Next steps",
     ],
-    "uk-gdad-pcf-competency-assessments": [
+    "uk-gdad-pcf-competency-assessments-by-assessor": [
+        "Introduction",
+        "Advisory",
+        "How to use this assessment",
+        "Rating scale",
+        "About this role level",
+        "Competency matrix",
+        "Overall determination",
+        "Assessor notes and evidence log",
+        "Conclusion",
+    ],
+    "uk-gdad-pcf-competency-assessments-by-yourself": [
         "Introduction",
         "Advisory",
         "How to use this assessment",
@@ -121,8 +144,10 @@ REQUIRED_SECTIONS = {
 # spec/index.md § Document contracts — required title shape per project.
 REQUIRED_TITLE_SUFFIX = {
     "uk-gdad-pcf-upskilling-resources": "- upskill resources",
-    "uk-gdad-pcf-psychometric-assessments": "- Psychometric Assessment Resources",
-    "uk-gdad-pcf-competency-assessments": "- Competency Assessment",
+    "uk-gdad-pcf-psychometric-assessments-by-assessor": "- Psychometric Assessment Resources",
+    "uk-gdad-pcf-psychometric-assessments-by-yourself": "- Psychometric Assessment Resources",
+    "uk-gdad-pcf-competency-assessments-by-assessor": "- Competency Assessment",
+    "uk-gdad-pcf-competency-assessments-by-yourself": "- Competency Assessment",
     "uk-gdad-pcf-roles-skills-gap-forms": "- skills gap form",
     START_HERE: "- start here",
 }
@@ -141,7 +166,8 @@ SITE_CONTENT = {
     "continuing-professional-development-checklists": (
         "uk-gdad-pcf-continuing-professional-development-checklists"
     ),
-    "assessments": "uk-gdad-pcf-psychometric-assessments",
+    "assessments-by-assessor": "uk-gdad-pcf-psychometric-assessments-by-assessor",
+    "assessments-by-yourself": "uk-gdad-pcf-psychometric-assessments-by-yourself",
     "roles-skills-gap-forms": "uk-gdad-pcf-roles-skills-gap-forms",
 }
 
