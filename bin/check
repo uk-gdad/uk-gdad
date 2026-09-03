@@ -44,7 +44,16 @@ DERIVED = [
     "uk-gdad-pcf-upskilling-resources",
     "uk-gdad-pcf-continuing-professional-development-checklists",
     "uk-gdad-pcf-psychometric-assessments",
+    "uk-gdad-pcf-competency-assessments",
     "uk-gdad-pcf-roles-skills-gap-forms",
+]
+
+# spec/index.md § Document contracts — projects whose documents carry one
+# `### Skill: <name>` block per skill their summary names, in the summary's
+# order, named exactly.
+SKILL_BLOCK_PROJECTS = [
+    "uk-gdad-pcf-roles-skills-gap-forms",
+    "uk-gdad-pcf-competency-assessments",
 ]
 
 # spec/index.md § Document contracts — required headings per project.
@@ -91,6 +100,17 @@ REQUIRED_SECTIONS = {
         "Your development priorities",
         "Next steps",
     ],
+    "uk-gdad-pcf-competency-assessments": [
+        "Introduction",
+        "Advisory",
+        "How to use this assessment",
+        "Rating scale",
+        "About this role level",
+        "Competency matrix",
+        "Overall determination",
+        "Assessor notes and evidence log",
+        "Conclusion",
+    ],
     START_HERE: [
         "Purpose",
         "Explore the framework",
@@ -102,6 +122,7 @@ REQUIRED_SECTIONS = {
 REQUIRED_TITLE_SUFFIX = {
     "uk-gdad-pcf-upskilling-resources": "- upskill resources",
     "uk-gdad-pcf-psychometric-assessments": "- Psychometric Assessment Resources",
+    "uk-gdad-pcf-competency-assessments": "- Competency Assessment",
     "uk-gdad-pcf-roles-skills-gap-forms": "- skills gap form",
     START_HERE: "- start here",
 }
@@ -249,46 +270,47 @@ def check_documents(canonical: list[str]) -> None:
 
 
 def check_skill_blocks(canonical: list[str]) -> None:
-    """§ Document contracts — skills gap forms carry one block per skill the
-    summary names, in the summary's order, with the name exactly as written.
+    """§ Document contracts — skills gap forms and competency assessments carry
+    one block per skill the summary names, in the summary's order, with the
+    name exactly as written.
 
     A summary may name one skill under several headings; consumers merge those
     into a single block, so the expected list is deduplicated but order is kept.
     """
-    project = "uk-gdad-pcf-roles-skills-gap-forms"
-    if project not in DERIVED:
-        return
-
-    for slug in canonical:
-        summary = ROOT / CANONICAL / "roles" / f"{slug}.md"
-        form = ROOT / project / "roles" / f"{slug}.md"
-        if not form.is_file():
-            continue  # already reported by check_mirrors
-
-        expected: list[str] = []
-        for line in summary.read_text(encoding="utf-8").splitlines():
-            if line.startswith("Skill:"):
-                name = line.split(":", 1)[1].strip()
-                if name not in expected:
-                    expected.append(name)
-
-        found = [
-            line[len("### Skill: "):].strip()
-            for line in form.read_text(encoding="utf-8").splitlines()
-            if line.startswith("### Skill: ")
-        ]
-
-        if found == expected:
+    for project in SKILL_BLOCK_PROJECTS:
+        if project not in DERIVED:
             continue
 
-        missing = [name for name in expected if name not in found]
-        extra = [name for name in found if name not in expected]
-        for name in missing:
-            fail(f"{project}: {slug}.md has no block for skill '{name}'")
-        for name in extra:
-            fail(f"{project}: {slug}.md has a block for '{name}', not in the summary")
-        if not missing and not extra:
-            fail(f"{project}: {slug}.md skill blocks are not in the summary's order")
+        for slug in canonical:
+            summary = ROOT / CANONICAL / "roles" / f"{slug}.md"
+            form = ROOT / project / "roles" / f"{slug}.md"
+            if not form.is_file():
+                continue  # already reported by check_mirrors
+
+            expected: list[str] = []
+            for line in summary.read_text(encoding="utf-8").splitlines():
+                if line.startswith("Skill:"):
+                    name = line.split(":", 1)[1].strip()
+                    if name not in expected:
+                        expected.append(name)
+
+            found = [
+                line[len("### Skill: "):].strip()
+                for line in form.read_text(encoding="utf-8").splitlines()
+                if line.startswith("### Skill: ")
+            ]
+
+            if found == expected:
+                continue
+
+            missing = [name for name in expected if name not in found]
+            extra = [name for name in found if name not in expected]
+            for name in missing:
+                fail(f"{project}: {slug}.md has no block for skill '{name}'")
+            for name in extra:
+                fail(f"{project}: {slug}.md has a block for '{name}', not in the summary")
+            if not missing and not extra:
+                fail(f"{project}: {slug}.md skill blocks are not in the summary's order")
 
 
 def check_website(canonical: list[str]) -> None:

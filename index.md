@@ -6,7 +6,7 @@ Everything in this repository, how to use it, and how to add to it.
 - [Tutorial: find your role and plan a quarter](#tutorial-find-your-role-and-plan-a-quarter)
 - [Tutorial: add a role level](#tutorial-add-a-role-level)
 - [Tutorial: publish the website](#tutorial-publish-the-website)
-- [Reference: the five document types](#reference-the-five-document-types)
+- [Reference: the six document types](#reference-the-six-document-types)
 - [Reference: slugs and paths](#reference-slugs-and-paths)
 - [Reference: commands](#reference-commands)
 - [Recipes](#recipes)
@@ -29,10 +29,11 @@ This repository takes that framework and does three things.
 read by a person with `cat` or by a program with a five-line parser — no
 scraping, no spreadsheet.
 
-**Extends it.** Four further documents per role level, because knowing what a
-level requires is only the first question. The next four are *how do I learn
-this*, *how do I keep developing*, *what might I be assessed on*, and *where am
-I against this today* — the last of these a form to read and fill in.
+**Extends it.** Five further documents per role level, because knowing what a
+level requires is only the first question. The next five are *how do I learn
+this*, *how do I keep developing*, *what might I be assessed on for reasoning
+and judgement*, *do I meet the baseline this level requires*, and *where am I
+against this today* — the last of these a form to read and fill in.
 
 **Publishes it.** A static website at <https://uk-gdad.github.io> where all of
 it is browsable, searchable and linkable.
@@ -45,7 +46,7 @@ The numbers:
 | Roles | 52 |
 | Role levels | 205 (201 in use, 4 retired) |
 | Distinct skills | 183 |
-| Documents | 1,230 |
+| Documents | 1,435 |
 | Website pages | 1,427 |
 
 ### The shape of it
@@ -61,6 +62,7 @@ uk-gdad/
 ├── uk-gdad-pcf-upskilling-resources/            │
 ├── uk-gdad-pcf-continuing-professional-…/       ├─ derived, mirror the canonical
 ├── uk-gdad-pcf-psychometric-assessments/        │
+├── uk-gdad-pcf-competency-assessments/          │
 ├── uk-gdad-pcf-roles-skills-gap-forms/         ─┘
 ├── uk-gdad-pcf-skills-self-assessment/         A single-page rating tool
 └── uk-gdad.github.io/                          The published site
@@ -209,9 +211,9 @@ Skill: Data modelling
 EOF
 ```
 
-### 3. Write the five derived documents
+### 3. Write the six derived documents
 
-Same slug, in each of the other five projects. Each has its own contract:
+Same slug, in each of the other six projects. Each has its own contract:
 
 - [Start here](uk-gdad-pcf-role-level-start-here/spec/index.md) — title
   `# Principal data engineer - start here`, three required sections: Purpose,
@@ -220,8 +222,11 @@ Same slug, in each of the other five projects. Each has its own contract:
   `# Principal data engineer - upskill resources`, ten required sections.
 - [CPD](uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) —
   the general sections from `spec/template.md`, plus a level-specific section.
-- [Assessments](uk-gdad-pcf-psychometric-assessments/spec/index.md) — seven required
-  sections including the advisory.
+- [Assessments](uk-gdad-pcf-psychometric-assessments/spec/index.md) — seven
+  required sections including the advisory. Assessor-administered.
+- [Competency assessments](uk-gdad-pcf-competency-assessments/spec/index.md) —
+  nine required sections, a `### Skill:` block per skill named exactly as the
+  summary names it. Assessor-administered.
 - [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms/spec/index.md) — title
   `# Principal data engineer - skills gap form`, twelve required sections, and
   numbered questions running in one sequence through the document.
@@ -333,7 +338,7 @@ itself; it is vendored from the Lily Design System by `bin/sync`.
 
 ---
 
-## Reference: the five document types
+## Reference: the six document types
 
 ### Role summary — what the level is
 
@@ -381,8 +386,27 @@ Things to do, not things to know.
 Markdown, seven sections: introduction, advisory, then cognitive, numeric
 reasoning, verbal reasoning and situational judgement, then a conclusion.
 
-Practice material only. It is not validated, not normed, and not fit for making
-decisions about people — which is what the required `## Advisory` section says.
+Written for an assessor to administer to a candidate — structured, job-specific
+items with worked answers the assessor holds and the candidate does not see
+until after. Not a validated instrument: it is not normed, and not fit for
+making decisions about people on its own — which is what the required
+`## Advisory` section says.
+
+### Competency assessment — do they meet the baseline
+
+Markdown, nine sections: introduction, advisory, how to use this assessment,
+the rating scale, about the level, then the competency matrix, an overall
+determination, an assessor notes and evidence log, and a conclusion.
+
+Written for an assessor judging someone else against the framework's own
+description of the role level — a manager, a panel, a reviewer — not for the
+person being assessed. The core is `## Competency matrix`: one `### Skill:`
+block per skill the summary names, giving what the framework expects, a
+baseline point on a 0–4 proficiency scale (0 None, 1 Beginner, 2 Intermediate,
+3 Advanced, 4 Expert), behavioural indicators at each point, and evidence to
+gather. `## Overall determination` turns the individual ratings into a result.
+Not a validated instrument, and never the sole basis for a decision about
+someone — the required `## Advisory` section says so.
 
 ### Skills gap form — where you are against it today
 
@@ -443,6 +467,7 @@ It is the identity of a role level everywhere:
 | Upskilling | `uk-gdad-pcf-upskilling-resources/roles/<slug>.md` |
 | CPD | `uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md` |
 | Assessment | `uk-gdad-pcf-psychometric-assessments/roles/<slug>.md` |
+| Competency assessment | `uk-gdad-pcf-competency-assessments/roles/<slug>.md` |
 | Skills gap form | `uk-gdad-pcf-roles-skills-gap-forms/roles/<slug>.md` |
 | Website | `https://uk-gdad.github.io/roles/<slug>/` |
 
@@ -571,23 +596,27 @@ recruitment or promotion, use the official framework and talk to your
 organisation.
 
 **How much of this is AI-generated?** The start here, upskilling, CPD,
-assessment and skills gap form documents are AI-assisted with human review,
-and every one of them says so. Role summaries are adapted from the published
-framework.
+assessment, competency assessment and skills gap form documents are
+AI-assisted with human review, and every one of them says so. Role summaries
+are adapted from the published framework.
 
 **Why plain text for the summaries and markdown for everything else?** Summaries
 are data — read far more often by programs than by people, and worth being able
-to parse with string prefixes alone. The other five are prose for people, where
+to parse with string prefixes alone. The other six are prose for people, where
 markdown earns its keep.
 
-**Why six files per role level instead of one?** Different lifecycles. A
+**Why seven files per role level instead of one?** Different lifecycles. A
 summary changes when the framework changes. A start-here page is the one
 written to be read first, and links out to the rest. Upskilling links rot. CPD
-advice matures. Assessments are the longest documents by far — 3.5 million
-words across the corpus, against 96,000 for the summaries — and nobody reading
-a summary wants to scroll past them. Skills gap forms are the only ones
-written to be *filled in* rather than read, which is why they carry a rating
-scale and numbered questions and nothing else does.
+advice matures. Psychometric assessments are the longest documents by far —
+3.5 million words across the corpus, against 96,000 for the summaries — and
+nobody reading a summary wants to scroll past them. Competency assessments are
+a second, distinct instrument: they measure demonstrated skill against a
+baseline rather than reasoning through practice items, and they are written
+for an assessor to complete, not to read straight through. Skills gap forms
+are the only ones written to be *filled in* by the person being described
+rather than read about them, which is why they carry a rating scale and
+numbered questions and nothing else does.
 
 **Can I fill a skills gap form in on the website?** No. Every page is
 prerendered static HTML — there is no server and nothing to submit to, and each
@@ -607,5 +636,5 @@ contract your change has to meet, then run `bin/check`.
 **Something does not match the official framework.** The framework changes
 upstream. Update the summaries from a fresh download, then run
 `bin/check --list` and diff it against the previous output — that diff is the
-work list for the other five projects. Known mismatches are recorded under
+work list for the other six projects. Known mismatches are recorded under
 [known drift](spec/index.md#known-drift).

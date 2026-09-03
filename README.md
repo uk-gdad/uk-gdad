@@ -5,9 +5,10 @@ Profession Capability Framework (PCF).
 
 The framework at <https://ddat-capability-framework.service.gov.uk/> describes
 the digital and data roles used across UK government. This repository restates
-it as plain files you can read, grep and link to — and adds four more documents
-for every role level: upskilling resources, a development checklist, practice
-assessment material, and a skills gap form to fill in.
+it as plain files you can read, grep and link to — and adds five more
+documents for every role level: upskilling resources, a development checklist,
+an assessor-administered psychometric assessment, an assessor-administered
+competency assessment, and a skills gap form for an employee to fill in.
 
 **Website:** <https://uk-gdad.github.io> · **Manual:** [index.md](index.md) ·
 **Specification:** [spec/index.md](spec/index.md)
@@ -25,13 +26,14 @@ assessment material, and a skills gap form to fill in.
 | [Role level start here](uk-gdad-pcf-role-level-start-here) | A first orientation and learning pathway, one per role level | 205 |
 | [Upskilling resources](uk-gdad-pcf-upskilling-resources) | Courses, blog posts, research, videos, books | 205 |
 | [CPD checklists](uk-gdad-pcf-continuing-professional-development-checklists) | Continuing professional development, per level | 205 |
-| [Assessments](uk-gdad-pcf-psychometric-assessments) | Practice cognitive, numeric, verbal and situational judgement material | 205 |
+| [Assessments](uk-gdad-pcf-psychometric-assessments) | Cognitive, numeric, verbal and situational judgement items an assessor administers | 205 |
+| [Competency assessments](uk-gdad-pcf-competency-assessments) | A skill-by-skill competency matrix an assessor rates a candidate against | 205 |
 | [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms) | A form HR sends and an employee fills in, one per level | 205 |
 | [Skills self-assessment](uk-gdad-pcf-skills-self-assessment) | A single-page tool for rating yourself | 1 |
 | [Website](uk-gdad.github.io) | The published static site | — |
 
 Covering **8 professions**, **52 roles**, **205 role levels** and **183 skills** —
-**1,230 documents** in all, published as **1,427 web pages**.
+**1,435 documents** in all, published as **1,427 web pages**.
 
 ## Quick start
 
@@ -85,7 +87,7 @@ software-development/software-developer/4-senior-developer
 ```
 
 `uk-gdad-pcf-role-summaries/roles/` is the role index: it defines which role
-levels exist, and the other five projects mirror it exactly, 205 files each.
+levels exist, and the other six projects mirror it exactly, 205 files each.
 
 Derived documents are always written from the canonical summary, never from
 each other:
@@ -93,7 +95,8 @@ each other:
 ```
 role summary ──┬──> upskilling resources
                ├──> CPD checklist
-               ├──> assessment
+               ├──> psychometric assessment
+               ├──> competency assessment
                └──> skills gap form
 ```
 

@@ -91,7 +91,8 @@ exactly; a prefix match conflates them.
 | [`uk-gdad-pcf-role-level-start-here`](../uk-gdad-pcf-role-level-start-here/spec/index.md)                                                   | Starting ideas for learning the role.                     | 205       |
 | [`uk-gdad-pcf-upskilling-resources`](../uk-gdad-pcf-upskilling-resources/spec/index.md)                                                     | Courses, posts, research, videos, books                   | 205       |
 | [`uk-gdad-pcf-continuing-professional-development-checklists`](../uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) | CPD checklists                                            | 205       |
-| [`uk-gdad-pcf-psychometric-assessments`](../uk-gdad-pcf-psychometric-assessments/spec/index.md)                                             | Practice psychometric assessments                         | 205       |
+| [`uk-gdad-pcf-psychometric-assessments`](../uk-gdad-pcf-psychometric-assessments/spec/index.md)                                             | Assessor-administered psychometric assessments            | 205       |
+| [`uk-gdad-pcf-competency-assessments`](../uk-gdad-pcf-competency-assessments/spec/index.md)                                                 | Assessor-administered competency matrices                 | 205       |
 | [`uk-gdad-pcf-roles-skills-gap-forms`](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md)                                                 | Skills gap forms, sent by HR and filled in by an employee | 205       |
 | [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md)                                                 | A standalone self-rating tool                             | 1         |
 | [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md)                                                                                   | The published website                                     | —         |
@@ -115,8 +116,8 @@ Every project has the same shape:
 ## Role index
 
 `uk-gdad-pcf-role-summaries/roles/` **is** the role index. It defines which role
-levels exist. Five other role projects mirror it exactly: same paths, same
-file names, 205 files each. A file that exists in one of the five
+levels exist. Six other role projects mirror it exactly: same paths, same
+file names, 205 files each. A file that exists in one of the six
 fully-mirrored projects and not the others is a defect, not a variation.
 
 ### Path shape
@@ -189,19 +190,22 @@ skill under more than one heading. Consumers merge the bullets under one skill.
 Each derived project has a required title and a set of required `##` sections.
 Extra sections are allowed; missing ones are a defect.
 
-| Project          | Title                                                         | Required sections                                                                                                                                                                                                                                       |
-| ---------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Start here       | `# <Level> - start here`                                      | Purpose · Explore the framework · Learning pathway                                                                                                                                                                                                       |
-| Upskilling       | `# <Level> - upskill resources`                               | Coursera courses · Udemy courses · Skillsoft courses · edX courses · MIT OpenCourseWare courses · Blog posts · Research articles · Videos · Books on Amazon · Professional development tips                                                             |
-| CPD              | `# UK GDAD PCF Continuing Professional Development Checklist` | Types · Phases · Events · Teamwork · UK GDAD PCF Role Skill Specifics                                                                                                                                                                                   |
-| Assessments      | `# <Level> - Psychometric Assessment Resources`               | Introduction · Advisory · Workplace job-specific cognitive assessment · Workplace job-specific numeric reasoning assessment · Workplace job-specific verbal reasoning assessment · Workplace job-specific situational judgement assessment · Conclusion |
-| Skills gap forms | `# <Level> - skills gap form`                                 | Introduction · Advisory · How to fill in this form · Rating scale · About this role level · Job tasks · Job skills · Job performance expectations · Legal compliance · Human resources best practices · Your development priorities · Next steps        |
+| Project                | Title                                                         | Required sections                                                                                                                                                                                                                                       |
+| ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Start here             | `# <Level> - start here`                                      | Purpose · Explore the framework · Learning pathway                                                                                                                                                                                                      |
+| Upskilling             | `# <Level> - upskill resources`                               | Coursera courses · Udemy courses · Skillsoft courses · edX courses · MIT OpenCourseWare courses · Blog posts · Research articles · Videos · Books on Amazon · Professional development tips                                                             |
+| CPD                    | `# UK GDAD PCF Continuing Professional Development Checklist` | Types · Phases · Events · Teamwork · UK GDAD PCF Role Skill Specifics                                                                                                                                                                                   |
+| Assessments            | `# <Level> - Psychometric Assessment Resources`               | Introduction · Advisory · Workplace job-specific cognitive assessment · Workplace job-specific numeric reasoning assessment · Workplace job-specific verbal reasoning assessment · Workplace job-specific situational judgement assessment · Conclusion |
+| Competency assessments | `# <Level> - Competency Assessment`                           | Introduction · Advisory · How to use this assessment · Rating scale · About this role level · Competency matrix · Overall determination · Assessor notes and evidence log · Conclusion                                                                  |
+| Skills gap forms       | `# <Level> - skills gap form`                                 | Introduction · Advisory · How to fill in this form · Rating scale · About this role level · Job tasks · Job skills · Job performance expectations · Legal compliance · Human resources best practices · Your development priorities · Next steps        |
 
 Only the `- Psychometric Assessment Resources` suffix is enforced on assessment
 titles. The part before it names the level in title case, and where the role and
 level names differ usefully it may name both, e.g.
 `# Data Analyst (Senior Data Analyst) - Psychometric Assessment Resources`.
-55 of the 205 use that parenthetical form.
+55 of the 205 use that parenthetical form. The same title shape, with the same
+parenthetical option, applies to competency assessments — only the
+`- Competency Assessment` suffix is enforced.
 
 The CPD title is identical in all 205 files: the level is identified by the file
 path, and the general checklists that open the document are the same for
@@ -274,7 +278,8 @@ derived document:
 role summary ──┬──> start here
                ├──> upskilling resources
                ├──> CPD checklist
-               ├──> assessment
+               ├──> psychometric assessment
+               ├──> competency assessment
                └──> skills gap form
 ```
 
@@ -350,11 +355,12 @@ bin/check --list    # the canonical role index, one slug per line
 Run it before every commit that touches content. It checks:
 
 1. The canonical index parses: path shape, profession names, level numbering.
-2. The five derived projects mirror the canonical index exactly.
+2. The six derived projects mirror the canonical index exactly.
 3. Every summary has a role line, one level line and at least one skill.
 4. Every derived document has its required title and required sections.
-5. Every skills gap form carries one block per skill its summary names, in the
-   summary's order, with the skill name exactly as written.
+5. Every skills gap form and every competency assessment carries one block per
+   skill its summary names, in the summary's order, with the skill name
+   exactly as written.
 6. The website's vendored content matches its sources byte for byte.
 7. Every Lily component and helper component named in its manifest is vendored.
 

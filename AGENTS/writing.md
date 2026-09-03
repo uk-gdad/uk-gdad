@@ -81,10 +81,14 @@ The corpus was swept for en-US spellings on 2026-08-26: 729 changed, and what
 survives is deliberate. Left as it is, because it is quoted rather than written
 here:
 
-- **The advisory paragraph** says "organization's", and "people and
-  organizational development staff". It is quoted verbatim in 390 files, and the
-  whole block is skipped rather than the line — only two of its four lines carry
-  a phrase worth matching on, and it is the fourth that holds the spelling.
+- **The advisory paragraph in `uk-gdad-pcf-roles-skills-gap-forms`** says
+  "organization's", and "people and organizational development staff". It is
+  quoted verbatim in all 205 of that project's files, and the whole block is
+  skipped rather than the line — only two of its four lines carry a phrase
+  worth matching on, and it is the fourth that holds the spelling. The
+  psychometric assessment's advisory and the competency assessment's advisory
+  were written later, deliberately in en-GB from the start — see each
+  project's own `spec/index.md`.
 - **Third-party titles**, whether written as a link, in bold, or in running
   prose: a Coursera *Specialization*, Google's *Dataplex Universal Catalog*, the
   *Business Architecture Center of Excellence*, the *SBI (Situation-Behavior-Impact)*
