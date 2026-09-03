@@ -1,0 +1,90 @@
+# UK GDAD PCF
+
+> An open, community-built companion to the UK Government Digital and Data
+> (GDAD) Profession Capability Framework (PCF). Restates the official
+> framework as plain, parseable files — one per role level — and extends it
+> with eight further documents per level: a start-here orientation,
+> upskilling resources, a continuing professional development checklist, an
+> assessor-administered psychometric assessment, a self-practice psychometric
+> assessment, an assessor-administered competency assessment, a self-rating
+> competency assessment, and a skills gap form. Published as a static website
+> at https://uk-gdad.github.io. This is not a government service: role
+> summaries are Crown copyright, adapted under the Open Government Licence
+> v3.0; everything else is AI-assisted with human review. Nothing here should
+> be the sole basis for a pay, grading, recruitment or promotion decision —
+> use the official framework and talk to your organisation for anything that
+> carries that weight.
+
+## Start here
+
+- [spec/index.md](spec/index.md): The single source of truth — taxonomy, the
+  role index, document contracts, writing style, licensing, validation.
+  Every rule that can be checked mechanically is enforced by `bin/check`.
+- [AGENTS.md](AGENTS.md): Working notes for an AI agent contributing here,
+  pulling in the whole `AGENTS/` directory.
+- [README.md](README.md): Human-facing orientation — what is here, quick
+  start, how it fits together.
+- [index.md](index.md): The manual — tutorials, reference, recipes, and
+  answers to common questions.
+
+## The nine role-level projects
+
+One canonical project defines which of the 205 role levels exist; eight
+derived projects mirror its index exactly, one document per role level each.
+
+- [uk-gdad-pcf-role-summaries](uk-gdad-pcf-role-summaries/README.md):
+  **Canonical.** The framework restated as plain text, one file per role
+  level — the role, the level, its accountabilities, and its skills.
+- [uk-gdad-pcf-role-level-start-here](uk-gdad-pcf-role-level-start-here/README.md):
+  A first orientation and learning pathway for each role level, linking out
+  to every sibling document.
+- [uk-gdad-pcf-upskilling-resources](uk-gdad-pcf-upskilling-resources/README.md):
+  Courses, blog posts, research, videos and books for each role level.
+- [uk-gdad-pcf-continuing-professional-development-checklists](uk-gdad-pcf-continuing-professional-development-checklists/README.md):
+  A CPD checklist per role level — general sections shared by every file,
+  plus one section of role-specific things to do.
+- [uk-gdad-pcf-psychometric-assessments-by-assessor](uk-gdad-pcf-psychometric-assessments-by-assessor/README.md):
+  Assessor-administered cognitive, numeric, verbal and situational judgement
+  items, per role level, with the answer key held back from the candidate.
+- [uk-gdad-pcf-psychometric-assessments-by-yourself](uk-gdad-pcf-psychometric-assessments-by-yourself/README.md):
+  The same four assessment types as practice material, for the reader to
+  work through alone.
+- [uk-gdad-pcf-competency-assessments-by-assessor](uk-gdad-pcf-competency-assessments-by-assessor/README.md):
+  A skill-by-skill competency matrix, per role level, for an assessor to
+  rate a candidate or employee against a 0–4 proficiency scale.
+- [uk-gdad-pcf-competency-assessments-by-yourself](uk-gdad-pcf-competency-assessments-by-yourself/README.md):
+  The same matrix, generated from its sibling, for the reader to rate
+  themselves against.
+- [uk-gdad-pcf-roles-skills-gap-forms](uk-gdad-pcf-roles-skills-gap-forms/README.md):
+  A form human resources sends and an employee fills in, one per role level,
+  covering job tasks, skills, legal compliance and development priorities.
+
+## Other projects
+
+- [uk-gdad-pcf-skills-self-assessment](uk-gdad-pcf-skills-self-assessment/README.md):
+  A standalone, single-page tool for rating yourself against every skill in
+  the framework's catalogue, independent of any one role level.
+- [uk-gdad.github.io](uk-gdad.github.io/README.md): The SvelteKit project
+  that publishes everything above as the static website at
+  https://uk-gdad.github.io.
+
+## Reference
+
+- [AGENTS/taxonomy.md](AGENTS/taxonomy.md): The four nouns — profession,
+  role, role level, skill — and the eight professions.
+- [AGENTS/writing.md](AGENTS/writing.md): Writing style — register,
+  tone, the serial comma, en-GB spelling, and their documented exceptions.
+- [spec/skills.md](spec/skills.md): The 183-skill catalogue and how it
+  compares against the framework's own published list.
+- [CHANGELOG.md](CHANGELOG.md): Notable changes, grouped by the date they
+  landed.
+- [llms.json](llms.json): This same map, plus the taxonomy and project list,
+  as structured data.
+
+## Optional
+
+- [AI_STATEMENT.md](AI_STATEMENT.md): What is AI-generated here, in detail,
+  and what that means for a reader who might act on it.
+- [COMPARISONS.md](COMPARISONS.md): How this project relates to the official
+  framework and to SFIA.
+- [BENCHMARKS.md](BENCHMARKS.md): Corpus size, check times, page weight.

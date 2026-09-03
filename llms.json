@@ -1,0 +1,141 @@
+{
+  "$schema": "https://uk-gdad.github.io/llms.schema.json",
+  "name": "UK GDAD PCF",
+  "description": "An open, community-built companion to the UK Government Digital and Data (GDAD) Profession Capability Framework (PCF).",
+  "homepage": "https://uk-gdad.github.io",
+  "repository": "https://github.com/uk-gdad/uk-gdad",
+  "specification": "spec/index.md",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "name": "Open Government Licence v3.0",
+    "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "note": "Role summaries are Crown copyright, adapted under this licence, with attribution required wherever they are republished. Everything else written for this repository is offered under the same terms."
+  },
+  "notice": "This is not a government service. Content beyond the role summaries is AI-assisted with human review. Nothing here should be the sole basis for a pay, grading, recruitment or promotion decision.",
+  "taxonomy": {
+    "terms": ["profession", "role", "role_level", "skill"],
+    "counts": {
+      "professions": 8,
+      "roles": 52,
+      "role_levels": 205,
+      "role_levels_in_use": 201,
+      "role_levels_retired": 4,
+      "distinct_skills": 183
+    },
+    "professions": [
+      { "slug": "architecture", "roles": 7, "role_levels": 27 },
+      { "slug": "chief-digital-and-data", "roles": 4, "role_levels": 4 },
+      { "slug": "data", "roles": 9, "role_levels": 36 },
+      { "slug": "it-operations", "roles": 12, "role_levels": 46 },
+      { "slug": "product-and-delivery", "roles": 6, "role_levels": 21 },
+      { "slug": "quality-assurance-testing", "roles": 3, "role_levels": 10 },
+      { "slug": "software-development", "roles": 3, "role_levels": 24 },
+      { "slug": "user-centred-design", "roles": 8, "role_levels": 37 }
+    ]
+  },
+  "projects": [
+    {
+      "name": "uk-gdad-pcf-role-summaries",
+      "role": "canonical",
+      "documents": 205,
+      "path": "uk-gdad-pcf-role-summaries",
+      "spec": "uk-gdad-pcf-role-summaries/spec/index.md",
+      "description": "The framework restated as plain text, one file per role level: the role, the level, its accountabilities, and its skills."
+    },
+    {
+      "name": "uk-gdad-pcf-role-level-start-here",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-role-level-start-here",
+      "spec": "uk-gdad-pcf-role-level-start-here/spec/index.md",
+      "description": "A first orientation and learning pathway per role level, linking out to every sibling document."
+    },
+    {
+      "name": "uk-gdad-pcf-upskilling-resources",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-upskilling-resources",
+      "spec": "uk-gdad-pcf-upskilling-resources/spec/index.md",
+      "description": "Courses, blog posts, research articles, videos and books for each role level."
+    },
+    {
+      "name": "uk-gdad-pcf-continuing-professional-development-checklists",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-continuing-professional-development-checklists",
+      "spec": "uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md",
+      "description": "A continuing professional development checklist per role level."
+    },
+    {
+      "name": "uk-gdad-pcf-psychometric-assessments-by-assessor",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-psychometric-assessments-by-assessor",
+      "spec": "uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md",
+      "sibling": "uk-gdad-pcf-psychometric-assessments-by-yourself",
+      "description": "Assessor-administered cognitive, numeric, verbal and situational judgement items, with the answer key held back from the candidate.",
+      "published_at": "https://uk-gdad.github.io/assessments-by-assessor/"
+    },
+    {
+      "name": "uk-gdad-pcf-psychometric-assessments-by-yourself",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-psychometric-assessments-by-yourself",
+      "spec": "uk-gdad-pcf-psychometric-assessments-by-yourself/spec/index.md",
+      "sibling": "uk-gdad-pcf-psychometric-assessments-by-assessor",
+      "description": "The same four assessment types as practice material, for the reader to work through alone.",
+      "published_at": "https://uk-gdad.github.io/assessments-by-yourself/"
+    },
+    {
+      "name": "uk-gdad-pcf-competency-assessments-by-assessor",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-competency-assessments-by-assessor",
+      "spec": "uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md",
+      "sibling": "uk-gdad-pcf-competency-assessments-by-yourself",
+      "description": "A skill-by-skill competency matrix, rated 0-4, for an assessor to judge a candidate or employee against.",
+      "published_at": null
+    },
+    {
+      "name": "uk-gdad-pcf-competency-assessments-by-yourself",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-competency-assessments-by-yourself",
+      "spec": "uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md",
+      "sibling": "uk-gdad-pcf-competency-assessments-by-assessor",
+      "description": "The same matrix, generated from its sibling, for the reader to rate themselves against.",
+      "published_at": null
+    },
+    {
+      "name": "uk-gdad-pcf-roles-skills-gap-forms",
+      "role": "derived",
+      "documents": 205,
+      "path": "uk-gdad-pcf-roles-skills-gap-forms",
+      "spec": "uk-gdad-pcf-roles-skills-gap-forms/spec/index.md",
+      "description": "A form human resources sends and an employee fills in, covering job tasks, skills, legal compliance and development priorities.",
+      "published_at": "https://uk-gdad.github.io/skills-gap-forms/"
+    },
+    {
+      "name": "uk-gdad-pcf-skills-self-assessment",
+      "role": "standalone",
+      "documents": 1,
+      "path": "uk-gdad-pcf-skills-self-assessment",
+      "spec": "uk-gdad-pcf-skills-self-assessment/spec/index.md",
+      "description": "A standalone single-page tool for rating yourself against every skill in the catalogue, independent of any one role level.",
+      "published_at": "https://uk-gdad.github.io/skills-self-assessment/"
+    },
+    {
+      "name": "uk-gdad.github.io",
+      "role": "website",
+      "documents": null,
+      "path": "uk-gdad.github.io",
+      "spec": "uk-gdad.github.io/spec/index.md",
+      "description": "The SvelteKit project that publishes every document above as a static website."
+    }
+  ],
+  "documents_per_role_level": 9,
+  "total_documents": 1846,
+  "known_drift": {
+    "competency_assessments_not_published": "Both uk-gdad-pcf-competency-assessments-by-assessor and -by-yourself exist and pass bin/check, but are not yet vendored or routed by uk-gdad.github.io. See spec/index.md#known-drift."
+  }
+}
