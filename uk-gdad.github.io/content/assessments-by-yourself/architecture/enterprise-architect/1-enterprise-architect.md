@@ -1,4 +1,4 @@
-# Enterprise Architect - Psychometric Assessment Resources
+# Enterprise Architect - Psychometric Assessments
 
 ## Introduction
 

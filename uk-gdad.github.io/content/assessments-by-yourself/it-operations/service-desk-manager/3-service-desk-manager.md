@@ -1,4 +1,4 @@
-# Service Desk Manager - Psychometric Assessment Resources
+# Service Desk Manager - Psychometric Assessments
 
 ## Introduction
 

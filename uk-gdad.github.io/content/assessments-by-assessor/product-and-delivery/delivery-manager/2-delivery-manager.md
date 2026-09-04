@@ -1,4 +1,4 @@
-# Delivery Manager - Psychometric Assessment Resources
+# Delivery Manager - Psychometric Assessments
 
 ## Introduction
 

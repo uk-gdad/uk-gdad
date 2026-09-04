@@ -1,4 +1,4 @@
-# Senior Delivery Manager - Psychometric Assessment Resources
+# Senior Delivery Manager - Psychometric Assessments
 
 ## Introduction
 

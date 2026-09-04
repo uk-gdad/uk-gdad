@@ -1,4 +1,4 @@
-# Junior Service Designer - Psychometric Assessment Resources
+# Junior Service Designer - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Change and Release Manager - Psychometric Assessment Resources
+# Change and Release Manager - Psychometric Assessments
 
 ## Introduction
 

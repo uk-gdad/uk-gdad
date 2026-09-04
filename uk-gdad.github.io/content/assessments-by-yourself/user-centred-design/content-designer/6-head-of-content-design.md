@@ -1,4 +1,4 @@
-# Head of Content Design - Psychometric Assessment Resources
+# Head of Content Design - Psychometric Assessments
 
 ## Introduction
 

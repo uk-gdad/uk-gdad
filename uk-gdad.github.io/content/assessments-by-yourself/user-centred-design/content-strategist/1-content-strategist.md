@@ -1,4 +1,4 @@
-# Content Strategist - Psychometric Assessment Resources
+# Content Strategist - Psychometric Assessments
 
 ## Introduction
 

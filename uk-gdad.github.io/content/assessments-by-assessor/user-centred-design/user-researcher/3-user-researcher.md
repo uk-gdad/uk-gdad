@@ -1,4 +1,4 @@
-# User Researcher - Psychometric Assessment Resources
+# User Researcher - Psychometric Assessments
 
 ## Introduction
 

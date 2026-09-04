@@ -1,4 +1,4 @@
-# Senior Business Analyst - Psychometric Assessment Resources
+# Senior Business Analyst - Psychometric Assessments
 
 ## Introduction
 

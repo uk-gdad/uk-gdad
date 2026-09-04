@@ -1,4 +1,4 @@
-# Service Desk Analyst - Psychometric Assessment Resources
+# Service Desk Analyst - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Associate Content Designer - Psychometric Assessment Resources
+# Associate Content Designer - Psychometric Assessments
 
 ## Introduction
 

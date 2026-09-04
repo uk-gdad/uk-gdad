@@ -1,4 +1,4 @@
-# Infrastructure Operations Engineer - Psychometric Assessment Resources
+# Infrastructure Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

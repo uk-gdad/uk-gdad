@@ -1,4 +1,4 @@
-# Associate Infrastructure Engineer - Psychometric Assessment Resources
+# Associate Infrastructure Engineer - Psychometric Assessments
 
 ## Introduction
 

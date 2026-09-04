@@ -1,4 +1,4 @@
-# Apprentice Developer - Psychometric Assessment Resources
+# Apprentice Developer - Psychometric Assessments
 
 ## Introduction
 

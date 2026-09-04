@@ -1,4 +1,4 @@
-# Head of Accessibility - Psychometric Assessment Resources
+# Head of Accessibility - Psychometric Assessments
 
 ## Introduction
 

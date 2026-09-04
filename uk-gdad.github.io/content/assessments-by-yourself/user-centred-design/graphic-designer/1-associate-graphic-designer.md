@@ -1,4 +1,4 @@
-# Associate Graphic Designer - Psychometric Assessment Resources
+# Associate Graphic Designer - Psychometric Assessments
 
 ## Introduction
 

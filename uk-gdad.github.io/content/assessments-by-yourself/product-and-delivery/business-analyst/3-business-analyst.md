@@ -1,4 +1,4 @@
-# Business Analyst - Psychometric Assessment Resources
+# Business Analyst - Psychometric Assessments
 
 ## Introduction
 

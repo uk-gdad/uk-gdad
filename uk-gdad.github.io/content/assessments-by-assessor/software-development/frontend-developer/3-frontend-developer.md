@@ -1,4 +1,4 @@
-# Frontend Developer - Psychometric Assessment Resources
+# Frontend Developer - Psychometric Assessments
 
 ## Introduction
 

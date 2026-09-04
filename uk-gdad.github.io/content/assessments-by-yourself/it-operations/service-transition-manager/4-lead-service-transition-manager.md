@@ -1,4 +1,4 @@
-# Lead Service Transition Manager - Psychometric Assessment Resources
+# Lead Service Transition Manager - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Service Transition Manager - Psychometric Assessment Resources
+# Service Transition Manager - Psychometric Assessments
 
 ## Introduction
 

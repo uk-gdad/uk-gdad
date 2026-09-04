@@ -1,4 +1,4 @@
-# Digital Evaluator (Senior Digital Evaluator) - Psychometric Assessment Resources
+# Digital Evaluator (Senior Digital Evaluator) - Psychometric Assessments
 
 ## Introduction
 

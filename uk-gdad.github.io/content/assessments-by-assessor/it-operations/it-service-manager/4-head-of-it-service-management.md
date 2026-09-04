@@ -1,4 +1,4 @@
-# Head of IT Service Management - Psychometric Assessment Resources
+# Head of IT Service Management - Psychometric Assessments
 
 ## Introduction
 

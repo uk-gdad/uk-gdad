@@ -1,4 +1,4 @@
-# Junior Business Analyst - Psychometric Assessment Resources
+# Junior Business Analyst - Psychometric Assessments
 
 ## Introduction
 

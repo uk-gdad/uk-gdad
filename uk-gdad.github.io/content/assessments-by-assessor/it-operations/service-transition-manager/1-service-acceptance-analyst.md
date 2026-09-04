@@ -1,4 +1,4 @@
-# Service Acceptance Analyst - Psychometric Assessment Resources
+# Service Acceptance Analyst - Psychometric Assessments
 
 ## Introduction
 

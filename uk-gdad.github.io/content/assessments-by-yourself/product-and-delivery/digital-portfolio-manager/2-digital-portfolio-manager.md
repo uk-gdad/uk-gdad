@@ -1,4 +1,4 @@
-# Digital Portfolio Manager - Psychometric Assessment Resources
+# Digital Portfolio Manager - Psychometric Assessments
 
 ## Introduction
 

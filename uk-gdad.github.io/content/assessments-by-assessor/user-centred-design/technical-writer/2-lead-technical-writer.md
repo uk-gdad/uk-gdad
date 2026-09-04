@@ -1,4 +1,4 @@
-# Lead Technical Writer - Psychometric Assessment Resources
+# Lead Technical Writer - Psychometric Assessments
 
 ## Introduction
 

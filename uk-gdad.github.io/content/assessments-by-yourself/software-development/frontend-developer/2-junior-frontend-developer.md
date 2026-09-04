@@ -1,4 +1,4 @@
-# Junior Frontend Developer - Psychometric Assessment Resources
+# Junior Frontend Developer - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Solution Architect (Lead Solution Architect) - Psychometric Assessment Resources
+# Solution Architect (Lead Solution Architect) - Psychometric Assessments
 
 ## Introduction
 

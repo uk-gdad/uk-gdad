@@ -31,10 +31,10 @@ This page is a starting point. Nine more pages cover this exact role in more
 depth:
 
 - [Role summary](https://uk-gdad.github.io/roles/chief-digital-and-data/chief-information-security-officer-not-in-use/): the framework's own description of what this role expects.
-- [Assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/chief-digital-and-data/chief-information-security-officer-not-in-use/): a structured assessment an assessor administers, built from this role's skills.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/chief-digital-and-data/chief-information-security-officer-not-in-use/): a structured assessment an assessor administers, built from this role's skills.
 - [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/chief-digital-and-data/chief-information-security-officer-not-in-use/): practice material for the kind of assessment this role might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/chief-digital-and-data/chief-information-security-officer-not-in-use/): a skill-by-skill matrix an assessor rates a candidate or employee against, on a 0–4 scale.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/chief-digital-and-data/chief-information-security-officer-not-in-use/): the same matrix, generated from its sibling, for you to rate yourself against.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/chief-digital-and-data/chief-information-security-officer-not-in-use/): a structured assessment that an assessor can administer.
+- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/chief-digital-and-data/chief-information-security-officer-not-in-use/): practice material for this kind of assessment that you can try on your own.
 - [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/chief-digital-and-data/chief-information-security-officer-not-in-use/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/chief-digital-and-data/chief-information-security-officer-not-in-use/): a form for describing your own practice against the skills the framework names.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.

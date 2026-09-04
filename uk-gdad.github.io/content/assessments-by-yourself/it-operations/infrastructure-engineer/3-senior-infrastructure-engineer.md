@@ -1,4 +1,4 @@
-# Senior Infrastructure Engineer - Psychometric Assessment Resources
+# Senior Infrastructure Engineer - Psychometric Assessments
 
 ## Introduction
 

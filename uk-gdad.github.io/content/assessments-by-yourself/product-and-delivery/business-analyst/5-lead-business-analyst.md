@@ -1,4 +1,4 @@
-# Lead Business Analyst - Psychometric Assessment Resources
+# Lead Business Analyst - Psychometric Assessments
 
 ## Introduction
 

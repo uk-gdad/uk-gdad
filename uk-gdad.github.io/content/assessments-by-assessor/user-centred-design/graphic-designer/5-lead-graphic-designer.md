@@ -1,4 +1,4 @@
-# Lead Graphic Designer - Psychometric Assessment Resources
+# Lead Graphic Designer - Psychometric Assessments
 
 ## Introduction
 

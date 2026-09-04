@@ -1,4 +1,4 @@
-# Principal DevOps Engineer (Management) - Psychometric Assessment Resources
+# Principal DevOps Engineer (Management) - Psychometric Assessments
 
 ## Introduction
 

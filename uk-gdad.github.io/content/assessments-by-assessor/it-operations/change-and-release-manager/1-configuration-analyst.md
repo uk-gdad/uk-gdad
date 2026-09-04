@@ -1,4 +1,4 @@
-# Configuration Analyst - Psychometric Assessment Resources
+# Configuration Analyst - Psychometric Assessments
 
 ## Introduction
 

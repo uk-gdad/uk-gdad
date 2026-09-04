@@ -1,4 +1,4 @@
-# Data Analyst (Principal Data Analyst) - Psychometric Assessment Resources
+# Data Analyst (Principal Data Analyst) - Psychometric Assessments
 
 ## Introduction
 

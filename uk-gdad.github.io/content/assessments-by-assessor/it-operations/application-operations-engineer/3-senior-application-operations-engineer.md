@@ -1,4 +1,4 @@
-# Senior Application Operations Engineer - Psychometric Assessment Resources
+# Senior Application Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

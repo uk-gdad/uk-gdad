@@ -1,4 +1,4 @@
-# Technical Architect (Lead Technical Architect) - Psychometric Assessment Resources
+# Technical Architect (Lead Technical Architect) - Psychometric Assessments
 
 ## Introduction
 

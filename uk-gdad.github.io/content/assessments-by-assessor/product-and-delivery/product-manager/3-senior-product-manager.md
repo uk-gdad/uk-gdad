@@ -1,4 +1,4 @@
-# Senior Product Manager - Psychometric Assessment Resources
+# Senior Product Manager - Psychometric Assessments
 
 ## Introduction
 

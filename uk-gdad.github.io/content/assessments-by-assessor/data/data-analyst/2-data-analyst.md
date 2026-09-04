@@ -1,4 +1,4 @@
-# Data Analyst - Psychometric Assessment Resources
+# Data Analyst - Psychometric Assessments
 
 ## Introduction
 

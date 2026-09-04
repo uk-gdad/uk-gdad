@@ -1,4 +1,4 @@
-# Digital Evaluator - Psychometric Assessment Resources
+# Digital Evaluator - Psychometric Assessments
 
 ## Introduction
 

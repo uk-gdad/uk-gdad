@@ -144,7 +144,7 @@ export const RESOURCES: {
     title: 'Competency assessment (by yourself)',
     short: 'Self-rating',
     base: '/competency-assessments-by-yourself',
-    description: 'The same matrix, generated from its sibling, for you to rate yourself against.'
+    description: 'practice material for this kind of assessment that you can try on your own.'
   },
   {
     kind: 'gapform',

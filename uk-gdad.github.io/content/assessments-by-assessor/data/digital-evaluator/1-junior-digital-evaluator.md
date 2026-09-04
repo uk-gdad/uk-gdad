@@ -1,4 +1,4 @@
-# Digital Evaluator (Junior Digital Evaluator) - Psychometric Assessment Resources
+# Digital Evaluator (Junior Digital Evaluator) - Psychometric Assessments
 
 ## Introduction
 

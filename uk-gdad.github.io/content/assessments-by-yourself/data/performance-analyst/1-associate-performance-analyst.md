@@ -1,4 +1,4 @@
-# Performance Analyst (Associate Performance Analyst) - Psychometric Assessment Resources
+# Performance Analyst (Associate Performance Analyst) - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Associate Interaction Designer - Psychometric Assessment Resources
+# Associate Interaction Designer - Psychometric Assessments
 
 ## Introduction
 

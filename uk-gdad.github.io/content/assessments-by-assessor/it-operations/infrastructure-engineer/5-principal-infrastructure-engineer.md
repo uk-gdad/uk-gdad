@@ -1,4 +1,4 @@
-# Principal Infrastructure Engineer - Psychometric Assessment Resources
+# Principal Infrastructure Engineer - Psychometric Assessments
 
 ## Introduction
 

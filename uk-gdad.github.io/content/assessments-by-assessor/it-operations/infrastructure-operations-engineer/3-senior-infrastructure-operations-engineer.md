@@ -1,4 +1,4 @@
-# Senior Infrastructure Operations Engineer - Psychometric Assessment Resources
+# Senior Infrastructure Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

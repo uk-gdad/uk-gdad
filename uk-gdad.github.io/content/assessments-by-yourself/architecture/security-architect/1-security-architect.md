@@ -1,4 +1,4 @@
-# Security architect - Psychometric Assessment Resources
+# Security architect - Psychometric Assessments
 
 ## Introduction
 

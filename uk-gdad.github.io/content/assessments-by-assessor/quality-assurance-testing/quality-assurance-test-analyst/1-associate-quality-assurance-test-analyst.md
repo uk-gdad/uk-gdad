@@ -1,4 +1,4 @@
-# Associate Quality Assurance Test Analyst - Psychometric Assessment Resources
+# Associate Quality Assurance Test Analyst - Psychometric Assessments
 
 ## Introduction
 

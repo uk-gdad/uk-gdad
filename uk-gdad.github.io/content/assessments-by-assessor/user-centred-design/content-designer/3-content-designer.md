@@ -1,4 +1,4 @@
-# Content Designer - Psychometric Assessment Resources
+# Content Designer - Psychometric Assessments
 
 ## Introduction
 

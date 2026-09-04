@@ -1,4 +1,4 @@
-# Chief Data Officer - Psychometric Assessment Resources
+# Chief Data Officer - Psychometric Assessments
 
 ## Introduction
 

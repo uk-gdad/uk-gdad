@@ -1,4 +1,4 @@
-# Lead Service Designer - Psychometric Assessment Resources
+# Lead Service Designer - Psychometric Assessments
 
 ## Introduction
 

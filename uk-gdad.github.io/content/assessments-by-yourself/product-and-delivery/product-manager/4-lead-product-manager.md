@@ -1,4 +1,4 @@
-# Lead Product Manager - Psychometric Assessment Resources
+# Lead Product Manager - Psychometric Assessments
 
 ## Introduction
 

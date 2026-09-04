@@ -1,4 +1,4 @@
-# Lead User Researcher - Psychometric Assessment Resources
+# Lead User Researcher - Psychometric Assessments
 
 ## Introduction
 

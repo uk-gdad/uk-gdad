@@ -1,4 +1,4 @@
-# Operations Analyst - Psychometric Assessment Resources
+# Operations Analyst - Psychometric Assessments
 
 ## Introduction
 

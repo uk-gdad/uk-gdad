@@ -1,4 +1,4 @@
-# Solution Architect (Senior Solution Architect) - Psychometric Assessment Resources
+# Solution Architect (Senior Solution Architect) - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Data Scientist (Associate Data Scientist) - Psychometric Assessment Resources
+# Data Scientist (Associate Data Scientist) - Psychometric Assessments
 
 ## Introduction
 

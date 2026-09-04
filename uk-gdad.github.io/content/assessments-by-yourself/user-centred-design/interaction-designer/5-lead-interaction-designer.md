@@ -1,4 +1,4 @@
-# Lead Interaction Designer - Psychometric Assessment Resources
+# Lead Interaction Designer - Psychometric Assessments
 
 ## Introduction
 

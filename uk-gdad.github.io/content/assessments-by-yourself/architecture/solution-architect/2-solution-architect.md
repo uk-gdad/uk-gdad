@@ -1,4 +1,4 @@
-# Solution Architect - Psychometric Assessment Resources
+# Solution Architect - Psychometric Assessments
 
 ## Introduction
 

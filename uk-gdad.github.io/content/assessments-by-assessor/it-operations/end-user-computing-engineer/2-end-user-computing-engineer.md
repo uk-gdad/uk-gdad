@@ -1,4 +1,4 @@
-# End User Computing Engineer - Psychometric Assessment Resources
+# End User Computing Engineer - Psychometric Assessments
 
 ## Introduction
 

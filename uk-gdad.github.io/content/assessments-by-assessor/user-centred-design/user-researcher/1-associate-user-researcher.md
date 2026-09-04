@@ -1,4 +1,4 @@
-# Associate User Researcher - Psychometric Assessment Resources
+# Associate User Researcher - Psychometric Assessments
 
 ## Introduction
 

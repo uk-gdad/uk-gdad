@@ -1,4 +1,4 @@
-# Junior DevOps Engineer - Psychometric Assessment Resources
+# Junior DevOps Engineer - Psychometric Assessments
 
 ## Introduction
 

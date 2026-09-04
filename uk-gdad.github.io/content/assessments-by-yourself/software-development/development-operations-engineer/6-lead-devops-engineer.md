@@ -1,4 +1,4 @@
-# Lead DevOps Engineer - Psychometric Assessment Resources
+# Lead DevOps Engineer - Psychometric Assessments
 
 ## Introduction
 

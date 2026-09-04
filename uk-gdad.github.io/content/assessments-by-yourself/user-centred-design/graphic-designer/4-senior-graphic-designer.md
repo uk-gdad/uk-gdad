@@ -1,4 +1,4 @@
-# Senior Graphic Designer - Psychometric Assessment Resources
+# Senior Graphic Designer - Psychometric Assessments
 
 ## Introduction
 

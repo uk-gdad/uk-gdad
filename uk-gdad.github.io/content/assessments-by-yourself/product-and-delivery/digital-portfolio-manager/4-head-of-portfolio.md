@@ -1,4 +1,4 @@
-# Head of Portfolio - Psychometric Assessment Resources
+# Head of Portfolio - Psychometric Assessments
 
 ## Introduction
 

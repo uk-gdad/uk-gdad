@@ -1,4 +1,4 @@
-# Senior IT Service Manager - Psychometric Assessment Resources
+# Senior IT Service Manager - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Data Architect (Senior Data Architect) - Psychometric Assessment Resources
+# Data Architect (Senior Data Architect) - Psychometric Assessments
 
 ## Introduction
 

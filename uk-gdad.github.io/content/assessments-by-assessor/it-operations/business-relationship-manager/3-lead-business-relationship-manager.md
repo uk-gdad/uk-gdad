@@ -1,4 +1,4 @@
-# Lead Business Relationship Manager - Psychometric Assessment Resources
+# Lead Business Relationship Manager - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Senior Service Designer - Psychometric Assessment Resources
+# Senior Service Designer - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Analytics Engineer (Lead Analytics Engineer) - Psychometric Assessment Resources
+# Analytics Engineer (Lead Analytics Engineer) - Psychometric Assessments
 
 ## Introduction
 

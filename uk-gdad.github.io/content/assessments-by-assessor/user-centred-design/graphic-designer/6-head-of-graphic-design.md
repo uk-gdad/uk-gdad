@@ -1,4 +1,4 @@
-# Head of Graphic Design - Psychometric Assessment Resources
+# Head of Graphic Design - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Data Scientist (Principal Data Scientist) - Psychometric Assessment Resources
+# Data Scientist (Principal Data Scientist) - Psychometric Assessments
 
 ## Introduction
 

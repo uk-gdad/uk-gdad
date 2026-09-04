@@ -1,4 +1,4 @@
-# Data Engineer - Psychometric Assessment Resources
+# Data Engineer - Psychometric Assessments
 
 ## Introduction
 

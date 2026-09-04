@@ -1,4 +1,4 @@
-# Service Designer - Psychometric Assessment Resources
+# Service Designer - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Lead Developer - Psychometric Assessment Resources
+# Lead Developer - Psychometric Assessments
 
 ## Introduction
 

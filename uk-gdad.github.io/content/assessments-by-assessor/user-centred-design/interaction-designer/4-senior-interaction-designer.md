@@ -1,4 +1,4 @@
-# Senior Interaction Designer - Psychometric Assessment Resources
+# Senior Interaction Designer - Psychometric Assessments
 
 ## Introduction
 

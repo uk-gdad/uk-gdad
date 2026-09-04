@@ -1,4 +1,4 @@
-# Security Architect (Lead Security Architect) - Psychometric Assessment Resources
+# Security Architect (Lead Security Architect) - Psychometric Assessments
 
 ## Introduction
 

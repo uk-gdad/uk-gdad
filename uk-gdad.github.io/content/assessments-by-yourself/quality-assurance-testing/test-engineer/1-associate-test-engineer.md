@@ -1,4 +1,4 @@
-# Associate Test Engineer - Psychometric Assessment Resources
+# Associate Test Engineer - Psychometric Assessments
 
 ## Introduction
 

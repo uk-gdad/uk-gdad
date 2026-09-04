@@ -1,4 +1,4 @@
-# Problem Manager - Psychometric Assessment Resources
+# Problem Manager - Psychometric Assessments
 
 ## Introduction
 

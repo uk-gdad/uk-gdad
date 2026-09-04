@@ -1,4 +1,4 @@
-# Lead Test Engineer - Psychometric Assessment Resources
+# Lead Test Engineer - Psychometric Assessments
 
 ## Introduction
 

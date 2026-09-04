@@ -1,4 +1,4 @@
-# Data Ethicist (Head of Data Ethics) - Psychometric Assessment Resources
+# Data Ethicist (Head of Data Ethics) - Psychometric Assessments
 
 ## Introduction
 

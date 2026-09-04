@@ -1,4 +1,4 @@
-# Graphic Designer - Psychometric Assessment Resources
+# Graphic Designer - Psychometric Assessments
 
 ## Introduction
 

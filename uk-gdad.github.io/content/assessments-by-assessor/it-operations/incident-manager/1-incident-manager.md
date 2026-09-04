@@ -1,4 +1,4 @@
-# Incident Manager - Psychometric Assessment Resources
+# Incident Manager - Psychometric Assessments
 
 ## Introduction
 

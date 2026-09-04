@@ -1,4 +1,4 @@
-# Digital Evaluator (Head of Digital Evaluation) - Psychometric Assessment Resources
+# Digital Evaluator (Head of Digital Evaluation) - Psychometric Assessments
 
 ## Introduction
 

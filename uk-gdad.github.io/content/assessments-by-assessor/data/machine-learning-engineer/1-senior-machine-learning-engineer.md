@@ -1,4 +1,4 @@
-# Machine Learning Engineer (Senior Machine Learning Engineer) - Psychometric Assessment Resources
+# Machine Learning Engineer (Senior Machine Learning Engineer) - Psychometric Assessments
 
 ## Introduction
 

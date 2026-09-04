@@ -1,4 +1,4 @@
-# Chief Technology Officer - Psychometric Assessment Resources
+# Chief Technology Officer - Psychometric Assessments
 
 ## Introduction
 

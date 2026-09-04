@@ -1,4 +1,4 @@
-# Security Architect (Principal Security Architect) - Psychometric Assessment Resources
+# Security Architect (Principal Security Architect) - Psychometric Assessments
 
 ## Introduction
 

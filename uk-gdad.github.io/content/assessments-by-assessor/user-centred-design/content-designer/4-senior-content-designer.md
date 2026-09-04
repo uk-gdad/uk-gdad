@@ -1,4 +1,4 @@
-# Senior Content Designer - Psychometric Assessment Resources
+# Senior Content Designer - Psychometric Assessments
 
 ## Introduction
 

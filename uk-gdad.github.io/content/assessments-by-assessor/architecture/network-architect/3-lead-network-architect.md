@@ -1,4 +1,4 @@
-# Network Architect (Lead Network Architect) - Psychometric Assessment Resources
+# Network Architect (Lead Network Architect) - Psychometric Assessments
 
 ## Introduction
 

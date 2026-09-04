@@ -1,4 +1,4 @@
-# Senior Business Relationship Manager - Psychometric Assessment Resources
+# Senior Business Relationship Manager - Psychometric Assessments
 
 ## Introduction
 

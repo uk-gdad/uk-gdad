@@ -1,4 +1,4 @@
-# Apprentice DevOps Engineer - Psychometric Assessment Resources
+# Apprentice DevOps Engineer - Psychometric Assessments
 
 ## Introduction
 

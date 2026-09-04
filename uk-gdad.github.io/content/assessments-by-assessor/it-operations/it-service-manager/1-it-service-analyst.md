@@ -1,4 +1,4 @@
-# IT Service Analyst - Psychometric Assessment Resources
+# IT Service Analyst - Psychometric Assessments
 
 ## Introduction
 

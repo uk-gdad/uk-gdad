@@ -1,4 +1,4 @@
-# Head of Test - Psychometric Assessment Resources
+# Head of Test - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Head of Product - Psychometric Assessment Resources
+# Head of Product - Psychometric Assessments
 
 ## Introduction
 
