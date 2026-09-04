@@ -86,10 +86,6 @@ directly, so it stays buildable once pushed to its own repository.
 - `cd uk-gdad.github.io && pnpm check` (svelte-check, must be clean) and
   `pnpm build` (must complete with no prerender errors — a broken internal
   link fails the build) before considering a website change done.
-- **Two projects are not on the website yet**:
-  `uk-gdad-pcf-competency-assessments-by-assessor` and `-by-yourself`. See
-  `spec/index.md` § Known drift before assuming they should be linked from
-  anywhere on the site.
 - **Never edit `uk-gdad.github.io/content/`, `src/lib/lily/`, or
   `static/tools/`** — all vendored. Edit the source project, then sync.
 - **Publish** with `bin/make-github-pages` (or `make github-pages`) from the

@@ -94,7 +94,7 @@
       "spec": "uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md",
       "sibling": "uk-gdad-pcf-competency-assessments-by-yourself",
       "description": "A skill-by-skill competency matrix, rated 0-4, for an assessor to judge a candidate or employee against.",
-      "published_at": null
+      "published_at": "https://uk-gdad.github.io/competency-assessments-by-assessor/"
     },
     {
       "name": "uk-gdad-pcf-competency-assessments-by-yourself",
@@ -104,7 +104,7 @@
       "spec": "uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md",
       "sibling": "uk-gdad-pcf-competency-assessments-by-assessor",
       "description": "The same matrix, generated from its sibling, for the reader to rate themselves against.",
-      "published_at": null
+      "published_at": "https://uk-gdad.github.io/competency-assessments-by-yourself/"
     },
     {
       "name": "uk-gdad-pcf-roles-skills-gap-forms",
@@ -135,7 +135,5 @@
   ],
   "documents_per_role_level": 9,
   "total_documents": 1846,
-  "known_drift": {
-    "competency_assessments_not_published": "Both uk-gdad-pcf-competency-assessments-by-assessor and -by-yourself exist and pass bin/check, but are not yet vendored or routed by uk-gdad.github.io. See spec/index.md#known-drift."
-  }
+  "total_website_pages": 2042
 }

@@ -41,21 +41,20 @@ Given a slug, these are the pages that exist for it on the website:
 | CPD checklist | `/continuing-professional-development/<slug>/` | Things to do to keep developing |
 | Assessment, by assessor | `/assessments-by-assessor/<slug>/` | Practice items written for someone else to administer to a candidate, with the answer key held back |
 | Assessment, by yourself | `/assessments-by-yourself/<slug>/` | The same four assessment types, to work through alone — try each question before reading the answer |
+| Competency assessment, by assessor | `/competency-assessments-by-assessor/<slug>/` | A skill-by-skill matrix an assessor rates a candidate or employee against, 0–4 |
+| Competency assessment, by yourself | `/competency-assessments-by-yourself/<slug>/` | The same matrix, generated from its sibling, for you to rate yourself against |
 | Skills gap form | `/skills-gap-forms/<slug>/` | A form to compare what you do now against what the level expects — fillable on the page, saved in your own browser |
 
-A ninth document, a self-rating competency assessment (and its
-assessor-administered sibling), exists in the source repository for every
-role level but is not yet published on the website — point people at the
-repository directly if they specifically need it:
-`uk-gdad-pcf-competency-assessments-by-yourself/roles/<slug>.md` on
-<https://github.com/uk-gdad/uk-gdad>.
-
-**The two assessment projects are not interchangeable.** "By assessor" is
-written for whoever is running a hiring panel or capability review — it
-holds the answer key back from the candidate. "By yourself" is the same four
-assessment types rewritten as practice material, meant to be read straight
-through, answer included. Point someone preparing for an interview at "by
-yourself"; point someone running one at "by assessor".
+**Neither pair is interchangeable, in the same way.** For assessments: "by
+assessor" is written for whoever is running a hiring panel or capability
+review — it holds the answer key back from the candidate. "By yourself" is
+the same four assessment types rewritten as practice material, meant to be
+read straight through, answer included. Point someone preparing for an
+interview at "by yourself"; point someone running one at "by assessor". For
+competency assessments, both share the exact same skill matrix, baselines
+and behavioural indicators — the only difference is who is filling it in:
+"by assessor" is a manager or panel judging someone else, "by yourself" is
+the reader judging themselves.
 
 ## Self-assessment across the whole framework
 
