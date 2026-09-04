@@ -50,7 +50,7 @@ drift with an assessor's mood, or evidence gathered informally for some people
 and formally for others — it can produce unlawful adverse impact against
 particular groups of candidates, even without anyone intending it. Consistent,
 evidence-based administration, ideally by more than one assessor, materially
-reduces that risk. See [Fair and lawful use](#fair-and-lawful-use) — never let
+reduces that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) — never let
 a rating be influenced by anything other than demonstrated, job-related
 evidence, and never let this document ask for anything else.
 

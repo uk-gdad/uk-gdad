@@ -51,7 +51,7 @@ notes, rather than scoring together from the start.
 **Stay fair.** An unvalidated, AI-drafted instrument like this one, used
 inconsistently, can produce unlawful adverse impact between candidates.
 Consistent, evidence-based administration by more than one assessor
-materially reduces that risk. See [Fair and lawful use](#fair-and-lawful-use)
+materially reduces that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use)
 in the project specification, and never let a rating be influenced by
 anything other than demonstrated, job-related evidence.
 

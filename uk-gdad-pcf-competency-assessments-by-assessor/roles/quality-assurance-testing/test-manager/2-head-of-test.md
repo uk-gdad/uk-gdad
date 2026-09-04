@@ -54,7 +54,7 @@ inconsistently, or scored on anything other than demonstrated, job-related
 evidence, it can produce unlawful adverse impact against people with
 protected characteristics. Consistent, evidence-based administration by more
 than one assessor materially reduces that risk. See
-[Fair and lawful use](#fair-and-lawful-use) in the project specification for
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project specification for
 what this means in practice, and never let a rating be influenced by
 anything other than demonstrated, job-related evidence.
 

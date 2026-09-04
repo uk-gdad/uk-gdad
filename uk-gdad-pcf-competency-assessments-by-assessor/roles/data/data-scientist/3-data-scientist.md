@@ -46,7 +46,7 @@ notes and reconciling any difference.
 **Fairness.** An unvalidated, AI-drafted instrument used inconsistently can
 produce unlawful adverse impact even when nobody intends it. Consistent,
 evidence-based administration by more than one assessor materially reduces
-that risk. See [Fair and lawful use](#fair-and-lawful-use) considerations
+that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) considerations
 built into this document — never let a rating be influenced by anything other
 than demonstrated, job-related evidence.
 

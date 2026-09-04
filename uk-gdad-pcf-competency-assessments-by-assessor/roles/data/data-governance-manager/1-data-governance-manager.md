@@ -51,7 +51,7 @@ before comparing notes.
 produce unlawful adverse impact. Consistent, evidence-based administration by
 more than one assessor materially reduces that risk. Every rating and every
 piece of evidence you gather must be about demonstrated, job-related
-behaviour — see [Fair and lawful use](#fair-and-lawful-use) in the project
+behaviour — see [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project
 specification. Never let a rating be coloured by anything other than what the
 person actually did, said, or produced.
 

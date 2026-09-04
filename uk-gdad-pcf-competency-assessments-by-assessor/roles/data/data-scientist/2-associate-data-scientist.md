@@ -57,7 +57,7 @@ single assessor would never see.
 inconsistently it can produce unlawful adverse impact on people with
 protected characteristics under the Equality Act 2010. Consistent,
 evidence-based administration by more than one assessor materially reduces
-that risk. See [Fair and lawful use](#fair-and-lawful-use) in the project
+that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project
 specification for what an assessor must never ask about or record, and keep
 every rating tied to demonstrated, job-related behaviour and nothing else.
 

@@ -55,7 +55,7 @@ recorded evidence, an instrument like this can produce unlawful adverse
 impact — treating people differently in a way that tracks a protected
 characteristic rather than job performance, even unintentionally. Consistent,
 evidence-based administration by more than one assessor materially reduces
-that risk. See [Fair and lawful use](#fair-and-lawful-use) in the project
+that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project
 specification for what this means in practice: rate only demonstrated,
 job-related behaviour, never compare one candidate against another, and never
 let anything about a protected characteristic, health, or personal

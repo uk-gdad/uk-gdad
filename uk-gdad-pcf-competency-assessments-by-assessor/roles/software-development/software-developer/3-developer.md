@@ -47,7 +47,7 @@ independently before comparing notes and reconciling any difference.
 inconsistently between candidates, can produce unlawful adverse impact even
 when no assessor intends it. Score only demonstrated, job-related behaviour;
 never let a rating be shaped by anything else. See
-[Fair and lawful use](#fair-and-lawful-use) in this project's specification
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in this project's specification
 for the constraints that follow from that, and keep your notes in the
 evidence log to what a person actually did or produced.
 

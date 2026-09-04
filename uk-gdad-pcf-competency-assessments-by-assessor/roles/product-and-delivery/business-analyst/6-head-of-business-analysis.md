@@ -44,7 +44,7 @@ unknown rather than guess.
 Where possible, have more than one assessor score independently before
 comparing notes — this matters especially for a hiring or promotion decision.
 
-**Stay fair.** See [Fair and lawful use](#fair-and-lawful-use) below. Never let
+**Stay fair.** See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) below. Never let
 a rating be influenced by anything other than demonstrated, job-related
 evidence.
 

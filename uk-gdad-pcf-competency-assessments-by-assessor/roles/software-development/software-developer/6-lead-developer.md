@@ -51,7 +51,7 @@ rapport rather than evidence, one assessor working alone on a high-stakes
 decision — it can produce unlawful adverse impact even without anyone
 intending it. Consistent, evidence-based administration, ideally by more than
 one assessor, materially reduces that risk. See
-[Fair and lawful use](#fair-and-lawful-use) — never let a rating be
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) — never let a rating be
 influenced by anything other than demonstrated, job-related evidence.
 
 ## Rating scale

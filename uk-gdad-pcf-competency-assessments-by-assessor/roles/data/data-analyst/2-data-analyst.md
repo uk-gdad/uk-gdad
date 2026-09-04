@@ -45,7 +45,7 @@ before comparing notes.
 
 **Fairness.** Every rating and every piece of evidence you gather must be
 about demonstrated, job-related behaviour — see
-[Fair and lawful use](#fair-and-lawful-use) in the project specification.
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project specification.
 Never let a rating be coloured by anything other than what the person actually
 did, said, or produced.
 

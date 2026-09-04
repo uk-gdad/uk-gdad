@@ -49,7 +49,7 @@ how a candidate handled a politically sensitive escalation, record what
 process and judgement they applied — not the substance of anything
 confidential, market-sensitive or not yet public.
 
-**Stay fair.** See [Fair and lawful use](#fair-and-lawful-use) below. Never let
+**Stay fair.** See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) below. Never let
 a rating be influenced by anything other than demonstrated, job-related
 evidence. This is an unvalidated, AI-drafted instrument: used inconsistently —
 different questions for different candidates, one assessor's impression taken

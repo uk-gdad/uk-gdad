@@ -46,7 +46,7 @@ before comparing notes.
 
 **Fairness.** Every rating and every piece of evidence you gather must be
 about demonstrated, job-related behaviour — see
-[Fair and lawful use](#fair-and-lawful-use) in the project specification. An
+[Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project specification. An
 unvalidated, AI-drafted instrument used inconsistently can produce unlawful
 adverse impact; consistent, evidence-based administration by more than one
 assessor materially reduces that risk. Never let a rating be coloured by

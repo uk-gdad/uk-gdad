@@ -53,7 +53,7 @@ inconsistently — different evidence standards for different people, or ratings
 influenced by anything other than demonstrated, job-related behaviour — it can
 produce unlawful adverse impact under the Equality Act 2010. Consistent,
 evidence-based administration by more than one assessor materially reduces
-that risk. See [Fair and lawful use](#fair-and-lawful-use) in the project
+that risk. See [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project
 specification for what this rules out.
 
 ## Rating scale

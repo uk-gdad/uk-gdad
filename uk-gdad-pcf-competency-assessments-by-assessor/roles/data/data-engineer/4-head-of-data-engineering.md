@@ -58,7 +58,7 @@ assessor's impression would hide.
 inconsistently, or scored on anything other than demonstrated, job-related
 evidence, it can produce unlawful adverse impact. Consistent, evidence-based
 administration, ideally by more than one assessor, materially reduces that
-risk — see [Fair and lawful use](#fair-and-lawful-use) in the project
+risk — see [Fair and lawful use](../../../../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) in the project
 specification for what this rules out.
 
 **Sensitive systems.** A head of data engineering works with data services
