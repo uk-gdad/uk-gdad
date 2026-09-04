@@ -1,22 +1,5 @@
 <script lang="ts">
-    import Card from "$lib/lily/Card.svelte";
-    import SectionHeading from "$lib/lily/SectionHeading.svelte";
-    import Statistic from "$lib/lily/Statistic.svelte";
-    import { RESOURCES } from "$lib/types";
-
     let { data } = $props();
-
-    const resourceCounts: Record<string, number> = $derived({
-        summary: data.counts.levels,
-        startHere: data.counts.startHere,
-        upskilling: data.counts.upskilling,
-        development: data.counts.development,
-        assessmentByAssessor: data.counts.assessmentByAssessor,
-        assessmentByYourself: data.counts.assessmentByYourself,
-        competencyByAssessor: data.counts.competencyByAssessor,
-        competencyByYourself: data.counts.competencyByYourself,
-        gapform: data.counts.gapform,
-    });
 </script>
 
 <svelte:head>
