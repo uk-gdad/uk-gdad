@@ -35,7 +35,7 @@
   </WarningCallout>
 
   <h2>What is here</h2>
-  <p>Every role level in the framework gets up to seven documents on this site:</p>
+  <p>Every role level in the framework gets up to nine documents on this site:</p>
   <ul>
     <li>
       <strong>Role summary</strong> — the role, the level, and the skills the framework names,
@@ -62,18 +62,18 @@
       material you work through on your own.
     </li>
     <li>
+      <strong>Competency assessment, by assessor</strong> — a skill-by-skill matrix an assessor
+      rates a candidate or employee against, on a 0–4 proficiency scale.
+    </li>
+    <li>
+      <strong>Competency assessment, by yourself</strong> — the same matrix, generated from its
+      sibling, for you to rate yourself against.
+    </li>
+    <li>
       <strong>Skills gap form</strong> — a form an employee reads and fills in, covering the skills
       and skill levels the framework names for the role level.
     </li>
   </ul>
-  <p>
-    A ninth document, a self-rating competency assessment against the same
-    matrix an assessor would use, also exists for every role level but is not
-    yet published on this site — see the repository's
-    <a href="https://github.com/uk-gdad/uk-gdad/blob/main/spec/index.md#known-drift"
-      >known drift</a
-    >.
-  </p>
 
   <h2>Where the content comes from</h2>
   <p>
@@ -81,9 +81,9 @@
     published under the
     <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">
       Open Government Licence v3.0
-    </a>. The start here, upskilling, development, assessment (both voices) and skills gap form
-    material is written for this project, and is offered under the same licence. Attribution is
-    required wherever any of it is republished.
+    </a>. The start here, upskilling, development, assessment (both voices), competency assessment
+    (both voices) and skills gap form material is written for this project, and is offered under
+    the same licence. Attribution is required wherever any of it is republished.
   </p>
 
   <h2>How it is built</h2>

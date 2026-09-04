@@ -30,6 +30,8 @@ const DIRECTORIES: Record<ResourceKind, string> = {
   development: 'continuing-professional-development-checklists',
   assessmentByAssessor: 'assessments-by-assessor',
   assessmentByYourself: 'assessments-by-yourself',
+  competencyByAssessor: 'competency-assessments-by-assessor',
+  competencyByYourself: 'competency-assessments-by-yourself',
   gapform: 'roles-skills-gap-forms'
 };
 
@@ -206,6 +208,8 @@ export function getProfessions(): Profession[] {
         development: exists('development', slug),
         assessmentByAssessor: exists('assessmentByAssessor', slug),
         assessmentByYourself: exists('assessmentByYourself', slug),
+        competencyByAssessor: exists('competencyByAssessor', slug),
+        competencyByYourself: exists('competencyByYourself', slug),
         gapform: exists('gapform', slug)
       }
     };
@@ -342,17 +346,21 @@ function resolveLink(href: string, from: { kind: ResourceKind; slug: string }): 
       ? 'gapform'
       : /upskill/i.test(prefix)
         ? 'upskilling'
-        : /assessment/i.test(prefix)
+        : /competency/i.test(prefix)
           ? /by-yourself/i.test(prefix)
-            ? 'assessmentByYourself'
-            : 'assessmentByAssessor'
-          : /continuing|professional|cpd|checklist/i.test(prefix)
-            ? 'development'
-            : /start-here/i.test(prefix)
-              ? 'startHere'
-              : /summar|^roles?$|\/roles?$/i.test(prefix)
-                ? 'summary'
-                : from.kind;
+            ? 'competencyByYourself'
+            : 'competencyByAssessor'
+          : /assessment/i.test(prefix)
+            ? /by-yourself/i.test(prefix)
+              ? 'assessmentByYourself'
+              : 'assessmentByAssessor'
+            : /continuing|professional|cpd|checklist/i.test(prefix)
+              ? 'development'
+              : /start-here/i.test(prefix)
+                ? 'startHere'
+                : /summar|^roles?$|\/roles?$/i.test(prefix)
+                  ? 'summary'
+                  : from.kind;
 
     if (kind !== 'summary' && !statSafe(kind, slug)) return null;
     const base = RESOURCE_BASES[kind];
@@ -368,6 +376,8 @@ const RESOURCE_BASES: Record<ResourceKind, string> = {
   development: '/continuing-professional-development',
   assessmentByAssessor: '/assessments-by-assessor',
   assessmentByYourself: '/assessments-by-yourself',
+  competencyByAssessor: '/competency-assessments-by-assessor',
+  competencyByYourself: '/competency-assessments-by-yourself',
   gapform: '/skills-gap-forms'
 };
 

@@ -49,6 +49,8 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | `content/continuing-professional-development-checklists/` | `uk-gdad-pcf-continuing-professional-development-checklists/roles/` |
 | `content/assessments-by-assessor/` | `uk-gdad-pcf-psychometric-assessments-by-assessor/roles/` |
 | `content/assessments-by-yourself/` | `uk-gdad-pcf-psychometric-assessments-by-yourself/roles/` |
+| `content/competency-assessments-by-assessor/` | `uk-gdad-pcf-competency-assessments-by-assessor/roles/` |
+| `content/competency-assessments-by-yourself/` | `uk-gdad-pcf-competency-assessments-by-yourself/roles/` |
 | `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
 | `src/lib/lily/` | Lily Design System headless components, per `bin/lily-components.txt` |
 | `src/lib/lily-helpers/` | Lily Design System helper components (theme, text size, share pickers), per `bin/lily-helper-components.txt` |
@@ -72,6 +74,8 @@ Trailing slashes always. The slug from the root specification is the path.
 | `/continuing-professional-development/<slug>/` | CPD checklist | 205 |
 | `/assessments-by-assessor/<slug>/` | Assessor-administered assessment | 205 |
 | `/assessments-by-yourself/<slug>/` | Self-practice assessment | 205 |
+| `/competency-assessments-by-assessor/<slug>/` | Assessor-administered competency matrix | 205 |
+| `/competency-assessments-by-yourself/<slug>/` | Self-rating competency matrix | 205 |
 | `/skills-gap-forms/<slug>/` | Skills gap form | 205 |
 | `/skills/` | All skills, searchable | 1 |
 | `/skills/<skill>/` | One skill and every level that expects it | 183 |
@@ -168,7 +172,7 @@ name and `title` for the full string built from it.
 pnpm install
 pnpm dev        # http://localhost:5173
 pnpm check      # svelte-check, must be clean
-pnpm build      # build/, 1,632 pages
+pnpm build      # build/, 2,042 pages
 pnpm preview    # production-mode preview
 ./bin/sync      # refresh vendored inputs
 ```

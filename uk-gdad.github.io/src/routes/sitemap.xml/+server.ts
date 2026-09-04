@@ -20,6 +20,12 @@ export function GET() {
     ...getSlugsFor('development').map((slug) => `/continuing-professional-development/${slug}/`),
     ...getSlugsFor('assessmentByAssessor').map((slug) => `/assessments-by-assessor/${slug}/`),
     ...getSlugsFor('assessmentByYourself').map((slug) => `/assessments-by-yourself/${slug}/`),
+    ...getSlugsFor('competencyByAssessor').map(
+      (slug) => `/competency-assessments-by-assessor/${slug}/`
+    ),
+    ...getSlugsFor('competencyByYourself').map(
+      (slug) => `/competency-assessments-by-yourself/${slug}/`
+    ),
     ...getSlugsFor('gapform').map((slug) => `/skills-gap-forms/${slug}/`)
   ];
 

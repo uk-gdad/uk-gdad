@@ -75,6 +75,8 @@ sync_content uk-gdad-pcf-upskilling-resources upskilling-resources
 sync_content uk-gdad-pcf-continuing-professional-development-checklists continuing-professional-development-checklists
 sync_content uk-gdad-pcf-psychometric-assessments-by-assessor assessments-by-assessor
 sync_content uk-gdad-pcf-psychometric-assessments-by-yourself assessments-by-yourself
+sync_content uk-gdad-pcf-competency-assessments-by-assessor competency-assessments-by-assessor
+sync_content uk-gdad-pcf-competency-assessments-by-yourself competency-assessments-by-yourself
 sync_content uk-gdad-pcf-roles-skills-gap-forms roles-skills-gap-forms
 
 # The old singular assessments/ dir is retired now that it is split in two —

@@ -1,13 +1,12 @@
 # Website
 
 The static site published at <https://uk-gdad.github.io>. SvelteKit,
-prerendered, built with the Lily Design System™. It renders seven documents
+prerendered, built with the Lily Design System™. It renders nine documents
 per role level — summary, start here, upskilling, development, assessment (by
-assessor and by yourself, two separate projects sharing this route shape) and
-skills gap form — across 1,632 pages. A ninth document, a
-self-rating competency assessment, exists for every role level but is not yet
-wired into this site — see the root `spec/index.md` § Known drift. Its inputs
-are vendored: edit the source and run `./bin/sync`, never the copies.
+assessor and by yourself) and competency assessment (by assessor and by
+yourself — each pair two separate projects sharing one route shape) and
+skills gap form — across 2,042 pages. Its inputs are vendored: edit the
+source and run `./bin/sync`, never the copies.
 
 Part of the [UK GDAD PCF repository](../AGENTS.md). The repository-wide rules —
 taxonomy, slugs, the role index, writing style, licensing — live there and in

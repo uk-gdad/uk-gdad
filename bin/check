@@ -168,6 +168,8 @@ SITE_CONTENT = {
     ),
     "assessments-by-assessor": "uk-gdad-pcf-psychometric-assessments-by-assessor",
     "assessments-by-yourself": "uk-gdad-pcf-psychometric-assessments-by-yourself",
+    "competency-assessments-by-assessor": "uk-gdad-pcf-competency-assessments-by-assessor",
+    "competency-assessments-by-yourself": "uk-gdad-pcf-competency-assessments-by-yourself",
     "roles-skills-gap-forms": "uk-gdad-pcf-roles-skills-gap-forms",
 }
 

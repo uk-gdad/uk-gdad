@@ -12,6 +12,8 @@ export type ResourceKind =
   | 'development'
   | 'assessmentByAssessor'
   | 'assessmentByYourself'
+  | 'competencyByAssessor'
+  | 'competencyByYourself'
   | 'gapform';
 
 /** A role level: one markdown file per document kind, e.g. "Senior developer". */
@@ -128,6 +130,21 @@ export const RESOURCES: {
     base: '/assessments-by-yourself',
     description:
       'The same four assessment types, as practice material you work through on your own.'
+  },
+  {
+    kind: 'competencyByAssessor',
+    title: 'Competency assessment (by assessor)',
+    short: 'Competency',
+    base: '/competency-assessments-by-assessor',
+    description:
+      'A skill-by-skill competency matrix an assessor rates a candidate or employee against.'
+  },
+  {
+    kind: 'competencyByYourself',
+    title: 'Competency assessment (by yourself)',
+    short: 'Self-rating',
+    base: '/competency-assessments-by-yourself',
+    description: 'The same matrix, generated from its sibling, for you to rate yourself against.'
   },
   {
     kind: 'gapform',

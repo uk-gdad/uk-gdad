@@ -23,6 +23,8 @@ export function load() {
       development: getSlugsFor('development').length,
       assessmentByAssessor: getSlugsFor('assessmentByAssessor').length,
       assessmentByYourself: getSlugsFor('assessmentByYourself').length,
+      competencyByAssessor: getSlugsFor('competencyByAssessor').length,
+      competencyByYourself: getSlugsFor('competencyByYourself').length,
       gapform: getSlugsFor('gapform').length
     }
   };

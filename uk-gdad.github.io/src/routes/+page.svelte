@@ -13,6 +13,8 @@
         development: data.counts.development,
         assessmentByAssessor: data.counts.assessmentByAssessor,
         assessmentByYourself: data.counts.assessmentByYourself,
+        competencyByAssessor: data.counts.competencyByAssessor,
+        competencyByYourself: data.counts.competencyByYourself,
         gapform: data.counts.gapform,
     });
 </script>

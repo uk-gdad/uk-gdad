@@ -4,8 +4,9 @@
 > Capability Framework (PCF): every role, level and skill across UK
 > government, restated as plain files and extended with a start-here
 > learning pathway, upskilling resources, a development checklist, two
-> voices of psychometric assessment (assessor-administered and self-practice)
-> and a skills gap form, for every one of 205 role levels. This is not a
+> voices each of psychometric assessment and competency assessment
+> (assessor-administered and self-practice/self-rating) and a skills gap
+> form, for every one of 205 role levels. This is not a
 > government service. Role summaries are Crown copyright, adapted under the
 > Open Government Licence v3.0; everything else is AI-assisted with human
 > review. For anything that carries weight — pay, grading, recruitment,
@@ -40,6 +41,11 @@ substitute a slug such as `data/data-analyst/2-data-analyst` for `<slug>`:
   structured assessment an assessor administers.
 - `https://uk-gdad.github.io/assessments-by-yourself/<slug>/` — the same
   four assessment types as practice material.
+- `https://uk-gdad.github.io/competency-assessments-by-assessor/<slug>/` —
+  a skill-by-skill matrix an assessor rates a candidate or employee against.
+- `https://uk-gdad.github.io/competency-assessments-by-yourself/<slug>/` —
+  the same matrix, generated from its sibling, for you to rate yourself
+  against.
 - `https://uk-gdad.github.io/skills-gap-forms/<slug>/` — a form to compare
   what you do now against what the level expects.
 
