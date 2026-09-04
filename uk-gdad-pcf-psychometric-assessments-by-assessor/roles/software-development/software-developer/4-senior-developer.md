@@ -1,4 +1,4 @@
-# Senior Developer - Psychometric Assessment Resources
+# Senior Developer - Psychometric Assessments
 
 ## Introduction
 

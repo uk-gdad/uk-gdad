@@ -1,4 +1,4 @@
-# Senior Quality Assurance Test Analyst - Psychometric Assessment Resources
+# Senior Quality Assurance Test Analyst - Psychometric Assessments
 
 ## Introduction
 

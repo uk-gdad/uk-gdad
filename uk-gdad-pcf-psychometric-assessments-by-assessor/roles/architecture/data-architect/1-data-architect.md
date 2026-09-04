@@ -1,4 +1,4 @@
-# Data architect - Psychometric Assessment Resources
+# Data architect - Psychometric Assessments
 
 ## Introduction
 

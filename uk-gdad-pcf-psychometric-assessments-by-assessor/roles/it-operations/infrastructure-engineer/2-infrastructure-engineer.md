@@ -1,4 +1,4 @@
-# Infrastructure Engineer - Psychometric Assessment Resources
+# Infrastructure Engineer - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Associate Infrastructure Operations Engineer - Psychometric Assessment Resources
+# Associate Infrastructure Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

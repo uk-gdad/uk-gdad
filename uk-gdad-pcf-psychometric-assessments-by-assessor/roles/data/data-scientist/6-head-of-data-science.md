@@ -1,4 +1,4 @@
-# Data Scientist (Head of Data Science) - Psychometric Assessment Resources
+# Data Scientist (Head of Data Science) - Psychometric Assessments
 
 ## Introduction
 

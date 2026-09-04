@@ -1,4 +1,4 @@
-# Senior Frontend Developer - Psychometric Assessment Resources
+# Senior Frontend Developer - Psychometric Assessments
 
 ## Introduction
 

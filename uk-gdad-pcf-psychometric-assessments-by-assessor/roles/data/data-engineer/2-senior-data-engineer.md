@@ -1,4 +1,4 @@
-# Data Engineer (Senior Data Engineer) - Psychometric Assessment Resources
+# Data Engineer (Senior Data Engineer) - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Associate Service Designer - Psychometric Assessment Resources
+# Associate Service Designer - Psychometric Assessments
 
 ## Introduction
 

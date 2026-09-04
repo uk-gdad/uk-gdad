@@ -1,4 +1,4 @@
-# Senior Operations Analyst - Psychometric Assessment Resources
+# Senior Operations Analyst - Psychometric Assessments
 
 ## Introduction
 

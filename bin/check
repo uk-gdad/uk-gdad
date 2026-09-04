@@ -144,8 +144,8 @@ REQUIRED_SECTIONS = {
 # spec/index.md § Document contracts — required title shape per project.
 REQUIRED_TITLE_SUFFIX = {
     "uk-gdad-pcf-upskilling-resources": "- upskill resources",
-    "uk-gdad-pcf-psychometric-assessments-by-assessor": "- Psychometric Assessment Resources",
-    "uk-gdad-pcf-psychometric-assessments-by-yourself": "- Psychometric Assessment Resources",
+    "uk-gdad-pcf-psychometric-assessments-by-assessor": "- Psychometric Assessments",
+    "uk-gdad-pcf-psychometric-assessments-by-yourself": "- Psychometric Assessments",
     "uk-gdad-pcf-competency-assessments-by-assessor": "- Competency Assessment",
     "uk-gdad-pcf-competency-assessments-by-yourself": "- Competency Assessment",
     "uk-gdad-pcf-roles-skills-gap-forms": "- skills gap form",

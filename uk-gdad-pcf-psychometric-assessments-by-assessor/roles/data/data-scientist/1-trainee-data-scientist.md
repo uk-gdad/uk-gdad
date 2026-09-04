@@ -1,4 +1,4 @@
-# Data Scientist (Trainee Data Scientist) - Psychometric Assessment Resources
+# Data Scientist (Trainee Data Scientist) - Psychometric Assessments
 
 ## Introduction
 

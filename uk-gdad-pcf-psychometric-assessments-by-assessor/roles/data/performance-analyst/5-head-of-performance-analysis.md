@@ -1,4 +1,4 @@
-# Performance Analyst (Head of Performance Analysis) - Psychometric Assessment Resources
+# Performance Analyst (Head of Performance Analysis) - Psychometric Assessments
 
 ## Introduction
 

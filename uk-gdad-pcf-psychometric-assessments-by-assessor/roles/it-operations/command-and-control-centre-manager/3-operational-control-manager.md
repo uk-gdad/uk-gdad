@@ -1,4 +1,4 @@
-# Operational Control Manager - Psychometric Assessment Resources
+# Operational Control Manager - Psychometric Assessments
 
 ## Introduction
 

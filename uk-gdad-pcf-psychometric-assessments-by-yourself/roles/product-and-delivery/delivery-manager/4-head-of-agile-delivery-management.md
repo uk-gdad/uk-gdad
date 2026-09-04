@@ -1,4 +1,4 @@
-# Head of Agile Delivery Management - Psychometric Assessment Resources
+# Head of Agile Delivery Management - Psychometric Assessments
 
 ## Introduction
 

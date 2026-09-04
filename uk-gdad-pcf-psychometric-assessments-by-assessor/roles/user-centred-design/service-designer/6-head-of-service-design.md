@@ -1,4 +1,4 @@
-# Head of Service Design - Psychometric Assessment Resources
+# Head of Service Design - Psychometric Assessments
 
 ## Introduction
 

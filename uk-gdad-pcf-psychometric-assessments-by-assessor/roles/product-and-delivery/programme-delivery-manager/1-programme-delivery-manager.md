@@ -1,4 +1,4 @@
-# Programme Delivery Manager - Psychometric Assessment Resources
+# Programme Delivery Manager - Psychometric Assessments
 
 ## Introduction
 

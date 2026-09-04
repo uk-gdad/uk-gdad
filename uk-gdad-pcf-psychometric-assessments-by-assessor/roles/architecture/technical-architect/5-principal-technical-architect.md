@@ -1,4 +1,4 @@
-# Technical Architect (Principal Technical Architect) - Psychometric Assessment Resources
+# Technical Architect (Principal Technical Architect) - Psychometric Assessments
 
 ## Introduction
 

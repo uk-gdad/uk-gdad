@@ -1,4 +1,4 @@
-# Interaction Designer - Psychometric Assessment Resources
+# Interaction Designer - Psychometric Assessments
 
 ## Introduction
 

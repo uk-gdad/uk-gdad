@@ -1,4 +1,4 @@
-# Lead Infrastructure Engineer - Psychometric Assessment Resources
+# Lead Infrastructure Engineer - Psychometric Assessments
 
 ## Introduction
 

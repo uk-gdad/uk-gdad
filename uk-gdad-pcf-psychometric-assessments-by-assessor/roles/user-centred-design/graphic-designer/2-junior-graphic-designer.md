@@ -1,4 +1,4 @@
-# Junior Graphic Designer - Psychometric Assessment Resources
+# Junior Graphic Designer - Psychometric Assessments
 
 ## Introduction
 

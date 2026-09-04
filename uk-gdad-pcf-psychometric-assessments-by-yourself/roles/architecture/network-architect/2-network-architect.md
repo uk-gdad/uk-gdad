@@ -1,4 +1,4 @@
-# Network Architect - Psychometric Assessment Resources
+# Network Architect - Psychometric Assessments
 
 ## Introduction
 

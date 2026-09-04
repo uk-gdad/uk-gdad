@@ -1,4 +1,4 @@
-# Principal Developer (Management) - Psychometric Assessment Resources
+# Principal Developer (Management) - Psychometric Assessments
 
 ## Introduction
 

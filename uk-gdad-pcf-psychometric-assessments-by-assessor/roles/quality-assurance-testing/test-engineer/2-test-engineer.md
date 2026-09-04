@@ -1,4 +1,4 @@
-# Test Engineer - Psychometric Assessment Resources
+# Test Engineer - Psychometric Assessments
 
 ## Introduction
 

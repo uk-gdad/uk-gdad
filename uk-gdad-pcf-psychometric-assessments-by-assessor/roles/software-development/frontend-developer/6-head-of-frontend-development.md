@@ -1,4 +1,4 @@
-# Head of Frontend Development - Psychometric Assessment Resources
+# Head of Frontend Development - Psychometric Assessments
 
 ## Introduction
 

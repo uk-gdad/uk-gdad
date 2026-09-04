@@ -1,4 +1,4 @@
-# Principal Infrastructure Operations Engineer - Psychometric Assessment Resources
+# Principal Infrastructure Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

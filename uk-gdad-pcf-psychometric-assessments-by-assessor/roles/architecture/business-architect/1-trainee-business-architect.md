@@ -1,4 +1,4 @@
-# Business Architect (Trainee Business Architect) - Psychometric Assessment Resources
+# Business Architect (Trainee Business Architect) - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Principal Application Operations Engineer - Psychometric Assessment Resources
+# Principal Application Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

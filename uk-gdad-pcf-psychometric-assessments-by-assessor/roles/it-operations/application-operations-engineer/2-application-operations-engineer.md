@@ -1,4 +1,4 @@
-# Application Operations Engineer - Psychometric Assessment Resources
+# Application Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

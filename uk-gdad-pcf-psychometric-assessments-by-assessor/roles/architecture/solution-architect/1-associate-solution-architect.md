@@ -1,4 +1,4 @@
-# Solution Architect (Associate Solution Architect) - Psychometric Assessment Resources
+# Solution Architect (Associate Solution Architect) - Psychometric Assessments
 
 ## Introduction
 

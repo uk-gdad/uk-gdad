@@ -1,4 +1,4 @@
-# Technical Architect (Senior Technical Architect) - Psychometric Assessment Resources
+# Technical Architect (Senior Technical Architect) - Psychometric Assessments
 
 ## Introduction
 

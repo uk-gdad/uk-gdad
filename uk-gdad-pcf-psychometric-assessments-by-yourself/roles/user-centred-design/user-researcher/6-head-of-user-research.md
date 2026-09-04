@@ -1,4 +1,4 @@
-# Head of User Research - Psychometric Assessment Resources
+# Head of User Research - Psychometric Assessments
 
 ## Introduction
 

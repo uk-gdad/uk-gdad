@@ -1,4 +1,4 @@
-# Change and Release Analyst - Psychometric Assessment Resources
+# Change and Release Analyst - Psychometric Assessments
 
 ## Introduction
 

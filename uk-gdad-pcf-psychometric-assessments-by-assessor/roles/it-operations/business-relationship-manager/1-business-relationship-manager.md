@@ -1,4 +1,4 @@
-# Business Relationship Manager - Psychometric Assessment Resources
+# Business Relationship Manager - Psychometric Assessments
 
 ## Introduction
 

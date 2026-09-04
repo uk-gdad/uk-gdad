@@ -1,4 +1,4 @@
-# Analytics Engineer (Head of Analytics Engineering) - Psychometric Assessment Resources
+# Analytics Engineer (Head of Analytics Engineering) - Psychometric Assessments
 
 ## Introduction
 

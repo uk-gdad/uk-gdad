@@ -1,4 +1,4 @@
-# Analytics Engineer (Senior Analytics Engineer) - Psychometric Assessment Resources
+# Analytics Engineer (Senior Analytics Engineer) - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Data Governance Manager (Lead Data Governance Manager) - Psychometric Assessment Resources
+# Data Governance Manager (Lead Data Governance Manager) - Psychometric Assessments
 
 ## Introduction
 

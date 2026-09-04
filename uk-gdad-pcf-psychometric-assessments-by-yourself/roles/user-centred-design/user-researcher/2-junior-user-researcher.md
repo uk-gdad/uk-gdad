@@ -1,4 +1,4 @@
-# Junior User Researcher - Psychometric Assessment Resources
+# Junior User Researcher - Psychometric Assessments
 
 ## Introduction
 

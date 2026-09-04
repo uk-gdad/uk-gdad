@@ -1,4 +1,4 @@
-# Junior Accessibility Specialist - Psychometric Assessment Resources
+# Junior Accessibility Specialist - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Performance Analyst (Lead Performance Analyst) - Psychometric Assessment Resources
+# Performance Analyst (Lead Performance Analyst) - Psychometric Assessments
 
 ## Introduction
 

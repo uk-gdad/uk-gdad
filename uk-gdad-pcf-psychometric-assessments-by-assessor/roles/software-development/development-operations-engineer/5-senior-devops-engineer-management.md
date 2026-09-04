@@ -1,4 +1,4 @@
-# Senior DevOps Engineer (Management) - Psychometric Assessment Resources
+# Senior DevOps Engineer (Management) - Psychometric Assessments
 
 ## Introduction
 

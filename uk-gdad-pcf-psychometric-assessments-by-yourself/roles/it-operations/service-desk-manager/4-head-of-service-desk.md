@@ -1,4 +1,4 @@
-# Head of Service Desk - Psychometric Assessment Resources
+# Head of Service Desk - Psychometric Assessments
 
 ## Introduction
 

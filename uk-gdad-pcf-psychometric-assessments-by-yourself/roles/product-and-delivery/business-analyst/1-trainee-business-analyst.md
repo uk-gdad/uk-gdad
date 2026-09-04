@@ -1,4 +1,4 @@
-# Trainee Business Analyst - Psychometric Assessment Resources
+# Trainee Business Analyst - Psychometric Assessments
 
 ## Introduction
 

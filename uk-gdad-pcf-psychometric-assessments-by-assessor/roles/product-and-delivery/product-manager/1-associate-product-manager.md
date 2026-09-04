@@ -1,4 +1,4 @@
-# Associate Product Manager - Psychometric Assessment Resources
+# Associate Product Manager - Psychometric Assessments
 
 ## Introduction
 

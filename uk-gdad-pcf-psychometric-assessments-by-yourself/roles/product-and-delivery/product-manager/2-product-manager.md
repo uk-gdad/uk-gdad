@@ -1,4 +1,4 @@
-# Product Manager - Psychometric Assessment Resources
+# Product Manager - Psychometric Assessments
 
 ## Introduction
 

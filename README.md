@@ -28,7 +28,7 @@ form for an employee to fill in.
 | [Role level start here](uk-gdad-pcf-role-level-start-here) | A first orientation and learning pathway, one per role level | 205 |
 | [Upskilling resources](uk-gdad-pcf-upskilling-resources) | Courses, blog posts, research, videos, books | 205 |
 | [CPD checklists](uk-gdad-pcf-continuing-professional-development-checklists) | Continuing professional development, per level | 205 |
-| [Assessments (by assessor)](uk-gdad-pcf-psychometric-assessments-by-assessor) | Cognitive, numeric, verbal and situational judgement items an assessor administers | 205 |
+| [Psychometric assessments (by assessor)](uk-gdad-pcf-psychometric-assessments-by-assessor) | Cognitive, numeric, verbal and situational judgement items an assessor administers | 205 |
 | [Assessments (by yourself)](uk-gdad-pcf-psychometric-assessments-by-yourself) | The same four assessment types, as practice material you work through yourself | 205 |
 | [Competency assessments (by assessor)](uk-gdad-pcf-competency-assessments-by-assessor) | A skill-by-skill competency matrix an assessor rates a candidate against | 205 |
 | [Competency assessments (by yourself)](uk-gdad-pcf-competency-assessments-by-yourself) | The same matrix, rated by you about yourself | 205 |

@@ -1,4 +1,4 @@
-# Senior User Researcher - Psychometric Assessment Resources
+# Senior User Researcher - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Service Owner - Psychometric Assessment Resources
+# Service Owner - Psychometric Assessments
 
 ## Introduction
 

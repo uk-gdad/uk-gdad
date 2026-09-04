@@ -1,4 +1,4 @@
-# Senior End User Computing Engineer - Psychometric Assessment Resources
+# Senior End User Computing Engineer - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Chief Digital and Information Officer - Psychometric Assessment Resources
+# Chief Digital and Information Officer - Psychometric Assessments
 
 ## Introduction
 

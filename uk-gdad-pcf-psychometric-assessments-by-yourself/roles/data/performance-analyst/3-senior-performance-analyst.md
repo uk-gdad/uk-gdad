@@ -1,4 +1,4 @@
-# Performance Analyst (Senior Performance Analyst) - Psychometric Assessment Resources
+# Performance Analyst (Senior Performance Analyst) - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Enterprise Architect (Lead Enterprise Architect) - Psychometric Assessment Resources
+# Enterprise Architect (Lead Enterprise Architect) - Psychometric Assessments
 
 ## Introduction
 

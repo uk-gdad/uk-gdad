@@ -1,4 +1,4 @@
-# Technical Architect (Associate Technical Architect) - Psychometric Assessment Resources
+# Technical Architect (Associate Technical Architect) - Psychometric Assessments
 
 ## Introduction
 

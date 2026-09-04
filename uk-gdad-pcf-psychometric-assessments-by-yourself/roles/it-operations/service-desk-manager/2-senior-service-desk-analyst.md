@@ -1,4 +1,4 @@
-# Senior Service Desk Analyst - Psychometric Assessment Resources
+# Senior Service Desk Analyst - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Data Architect (Chief Data Architect) - Psychometric Assessment Resources
+# Data Architect (Chief Data Architect) - Psychometric Assessments
 
 ## Introduction
 

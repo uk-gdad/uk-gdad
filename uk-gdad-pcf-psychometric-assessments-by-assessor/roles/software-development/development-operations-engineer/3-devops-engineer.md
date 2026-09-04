@@ -1,4 +1,4 @@
-# DevOps Engineer - Psychometric Assessment Resources
+# DevOps Engineer - Psychometric Assessments
 
 ## Introduction
 

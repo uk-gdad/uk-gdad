@@ -1,4 +1,4 @@
-# Problem Analyst - Psychometric Assessment Resources
+# Problem Analyst - Psychometric Assessments
 
 ## Introduction
 

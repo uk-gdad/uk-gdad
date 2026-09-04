@@ -1,4 +1,4 @@
-# Data governance manager - Psychometric Assessment Resources
+# Data governance manager - Psychometric Assessments
 
 ## Introduction
 

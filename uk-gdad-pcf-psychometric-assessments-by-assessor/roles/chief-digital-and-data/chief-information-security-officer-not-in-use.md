@@ -1,4 +1,4 @@
-# Chief Information Security Officer - Psychometric Assessment Resources
+# Chief Information Security Officer - Psychometric Assessments
 
 ## Introduction
 

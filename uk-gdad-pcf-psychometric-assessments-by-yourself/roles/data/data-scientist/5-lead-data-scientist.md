@@ -1,4 +1,4 @@
-# Data Scientist (Lead Data Scientist) - Psychometric Assessment Resources
+# Data Scientist (Lead Data Scientist) - Psychometric Assessments
 
 ## Introduction
 

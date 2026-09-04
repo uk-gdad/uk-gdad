@@ -1,4 +1,4 @@
-# Senior Developer (Management) - Psychometric Assessment Resources
+# Senior Developer (Management) - Psychometric Assessments
 
 ## Introduction
 

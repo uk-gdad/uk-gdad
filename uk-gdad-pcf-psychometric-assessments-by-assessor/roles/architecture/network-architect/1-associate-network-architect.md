@@ -1,4 +1,4 @@
-# Network Architect (Associate Network Architect) - Psychometric Assessment Resources
+# Network Architect (Associate Network Architect) - Psychometric Assessments
 
 ## Introduction
 

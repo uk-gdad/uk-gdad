@@ -1,4 +1,4 @@
-# Associate Delivery Manager - Psychometric Assessment Resources
+# Associate Delivery Manager - Psychometric Assessments
 
 ## Introduction
 

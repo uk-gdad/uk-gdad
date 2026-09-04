@@ -200,14 +200,14 @@ Extra sections are allowed; missing ones are a defect.
 | Start here             | `# <Level> - start here`                                      | Purpose · Explore the framework · Learning pathway                                                                                                                                                                                                      |
 | Upskilling             | `# <Level> - upskill resources`                               | Coursera courses · Udemy courses · Skillsoft courses · edX courses · MIT OpenCourseWare courses · Blog posts · Research articles · Videos · Books on Amazon · Professional development tips                                                             |
 | CPD                    | `# UK GDAD PCF Continuing Professional Development Checklist` | Types · Phases · Events · Teamwork · UK GDAD PCF Role Skill Specifics                                                                                                                                                                                   |
-| Assessments            | `# <Level> - Psychometric Assessment Resources`               | Introduction · Advisory · Workplace job-specific cognitive assessment · Workplace job-specific numeric reasoning assessment · Workplace job-specific verbal reasoning assessment · Workplace job-specific situational judgement assessment · Conclusion |
+| Assessments            | `# <Level> - Psychometric Assessments`               | Introduction · Advisory · Workplace job-specific cognitive assessment · Workplace job-specific numeric reasoning assessment · Workplace job-specific verbal reasoning assessment · Workplace job-specific situational judgement assessment · Conclusion |
 | Competency assessments | `# <Level> - Competency Assessment`                           | Introduction · Advisory · How to use this assessment · Rating scale · About this role level · Competency matrix · Overall determination · Assessor notes and evidence log · Conclusion                                                                  |
 | Skills gap forms       | `# <Level> - skills gap form`                                 | Introduction · Advisory · How to fill in this form · Rating scale · About this role level · Job tasks · Job skills · Job performance expectations · Legal compliance · Human resources best practices · Your development priorities · Next steps        |
 
-Only the `- Psychometric Assessment Resources` suffix is enforced on assessment
+Only the `- Psychometric Assessments` suffix is enforced on assessment
 titles. The part before it names the level in title case, and where the role and
 level names differ usefully it may name both, e.g.
-`# Data Analyst (Senior Data Analyst) - Psychometric Assessment Resources`.
+`# Data Analyst (Senior Data Analyst) - Psychometric Assessments`.
 55 of the 205 use that parenthetical form. The same title shape, with the same
 parenthetical option, applies to competency assessments — only the
 `- Competency Assessment` suffix is enforced.

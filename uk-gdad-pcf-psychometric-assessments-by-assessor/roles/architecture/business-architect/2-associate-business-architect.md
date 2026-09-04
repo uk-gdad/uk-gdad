@@ -1,4 +1,4 @@
-# Business Architect (Associate Business Architect) - Psychometric Assessment Resources
+# Business Architect (Associate Business Architect) - Psychometric Assessments
 
 ## Introduction
 

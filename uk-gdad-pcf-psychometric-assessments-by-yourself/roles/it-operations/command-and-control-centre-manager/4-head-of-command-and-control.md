@@ -1,4 +1,4 @@
-# Head of Command and Control - Psychometric Assessment Resources
+# Head of Command and Control - Psychometric Assessments
 
 ## Introduction
 

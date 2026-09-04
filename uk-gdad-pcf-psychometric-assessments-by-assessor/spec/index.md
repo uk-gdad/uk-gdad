@@ -68,12 +68,12 @@ assessed.
 ### Title
 
 ```
-# <Level> - Psychometric Assessment Resources
+# <Level> - Psychometric Assessments
 ```
 
 Title case. Where naming both the role and the level reads better, use
-`# <Role> (<Level>) - Psychometric Assessment Resources`. Only the
-`- Psychometric Assessment Resources` suffix is enforced.
+`# <Role> (<Level>) - Psychometric Assessments`. Only the
+`- Psychometric Assessments` suffix is enforced.
 
 ### Required sections
 

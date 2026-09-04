@@ -1,4 +1,4 @@
-# Apprentice Frontend Developer - Psychometric Assessment Resources
+# Apprentice Frontend Developer - Psychometric Assessments
 
 ## Introduction
 

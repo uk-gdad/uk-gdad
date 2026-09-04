@@ -1,4 +1,4 @@
-# Business Architect (Lead Business Architect) - Psychometric Assessment Resources
+# Business Architect (Lead Business Architect) - Psychometric Assessments
 
 ## Introduction
 

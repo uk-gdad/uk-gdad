@@ -1,4 +1,4 @@
-# IT Service Manager - Psychometric Assessment Resources
+# IT Service Manager - Psychometric Assessments
 
 ## Introduction
 

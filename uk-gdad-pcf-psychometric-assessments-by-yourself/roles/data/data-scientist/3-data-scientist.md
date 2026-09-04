@@ -1,4 +1,4 @@
-# Data Scientist - Psychometric Assessment Resources
+# Data Scientist - Psychometric Assessments
 
 ## Introduction
 

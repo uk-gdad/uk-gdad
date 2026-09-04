@@ -1,4 +1,4 @@
-# Technical Writer - Psychometric Assessment Resources
+# Technical Writer - Psychometric Assessments
 
 ## Introduction
 

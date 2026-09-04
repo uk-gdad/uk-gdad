@@ -1,4 +1,4 @@
-# Head of Interaction Design - Psychometric Assessment Resources
+# Head of Interaction Design - Psychometric Assessments
 
 ## Introduction
 

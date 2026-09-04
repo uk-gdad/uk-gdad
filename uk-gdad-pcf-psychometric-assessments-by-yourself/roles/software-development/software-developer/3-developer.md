@@ -1,4 +1,4 @@
-# Developer - Psychometric Assessment Resources
+# Developer - Psychometric Assessments
 
 ## Introduction
 

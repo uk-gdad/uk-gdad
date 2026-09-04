@@ -1,4 +1,4 @@
-# Digital Portfolio Analyst - Psychometric Assessment Resources
+# Digital Portfolio Analyst - Psychometric Assessments
 
 ## Introduction
 

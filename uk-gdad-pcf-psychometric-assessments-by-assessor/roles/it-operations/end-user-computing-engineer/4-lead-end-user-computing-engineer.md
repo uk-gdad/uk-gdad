@@ -1,4 +1,4 @@
-# Lead End User Computing Engineer - Psychometric Assessment Resources
+# Lead End User Computing Engineer - Psychometric Assessments
 
 ## Introduction
 

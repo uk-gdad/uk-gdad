@@ -1,4 +1,4 @@
-# Data Analyst (Senior Data Analyst) - Psychometric Assessment Resources
+# Data Analyst (Senior Data Analyst) - Psychometric Assessments
 
 ## Introduction
 

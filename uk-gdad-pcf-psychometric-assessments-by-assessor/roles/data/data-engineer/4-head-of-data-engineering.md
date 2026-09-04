@@ -1,4 +1,4 @@
-# Data Engineer (Head of Data Engineering) - Psychometric Assessment Resources
+# Data Engineer (Head of Data Engineering) - Psychometric Assessments
 
 ## Introduction
 

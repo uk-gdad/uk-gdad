@@ -1,4 +1,4 @@
-# Junior Interaction Designer - Psychometric Assessment Resources
+# Junior Interaction Designer - Psychometric Assessments
 
 ## Introduction
 

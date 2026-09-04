@@ -1,4 +1,4 @@
-# Enterprise Architect (Senior Enterprise Architect) - Psychometric Assessment Resources
+# Enterprise Architect (Senior Enterprise Architect) - Psychometric Assessments
 
 ## Introduction
 

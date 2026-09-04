@@ -1,4 +1,4 @@
-# Major Incident Manager - Psychometric Assessment Resources
+# Major Incident Manager - Psychometric Assessments
 
 ## Introduction
 

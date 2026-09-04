@@ -1,4 +1,4 @@
-# Lead Application Operations Engineer - Psychometric Assessment Resources
+# Lead Application Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

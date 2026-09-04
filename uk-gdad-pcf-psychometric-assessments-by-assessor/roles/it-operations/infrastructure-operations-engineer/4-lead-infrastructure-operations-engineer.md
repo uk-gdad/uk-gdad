@@ -1,4 +1,4 @@
-# Lead Infrastructure Operations Engineer - Psychometric Assessment Resources
+# Lead Infrastructure Operations Engineer - Psychometric Assessments
 
 ## Introduction
 

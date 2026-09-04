@@ -1,4 +1,4 @@
-# Junior Developer - Psychometric Assessment Resources
+# Junior Developer - Psychometric Assessments
 
 ## Introduction
 

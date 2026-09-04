@@ -1,4 +1,4 @@
-# Junior Content Designer - Psychometric Assessment Resources
+# Junior Content Designer - Psychometric Assessments
 
 ## Introduction
 

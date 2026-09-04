@@ -1,4 +1,4 @@
-# Senior Digital Portfolio Manager - Psychometric Assessment Resources
+# Senior Digital Portfolio Manager - Psychometric Assessments
 
 ## Introduction
 

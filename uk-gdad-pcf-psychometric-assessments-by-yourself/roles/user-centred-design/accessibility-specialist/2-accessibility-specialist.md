@@ -1,4 +1,4 @@
-# Accessibility Specialist - Psychometric Assessment Resources
+# Accessibility Specialist - Psychometric Assessments
 
 ## Introduction
 

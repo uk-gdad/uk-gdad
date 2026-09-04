@@ -1,4 +1,4 @@
-# Data Engineer (Lead Data Engineer) - Psychometric Assessment Resources
+# Data Engineer (Lead Data Engineer) - Psychometric Assessments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Test Manager - Psychometric Assessment Resources
+# Test Manager - Psychometric Assessments
 
 ## Introduction
 

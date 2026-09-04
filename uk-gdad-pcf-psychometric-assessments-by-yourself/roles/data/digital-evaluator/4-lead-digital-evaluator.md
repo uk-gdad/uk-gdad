@@ -1,4 +1,4 @@
-# Digital Evaluator (Lead Digital Evaluator) - Psychometric Assessment Resources
+# Digital Evaluator (Lead Digital Evaluator) - Psychometric Assessments
 
 ## Introduction
 

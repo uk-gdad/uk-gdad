@@ -1,4 +1,4 @@
-# Service Readiness Analyst - Psychometric Assessment Resources
+# Service Readiness Analyst - Psychometric Assessments
 
 ## Introduction
 

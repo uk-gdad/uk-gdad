@@ -1,4 +1,4 @@
-# Head of Business Analysis - Psychometric Assessment Resources
+# Head of Business Analysis - Psychometric Assessments
 
 ## Introduction
 

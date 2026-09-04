@@ -1,4 +1,4 @@
-# Senior Test Engineer - Psychometric Assessment Resources
+# Senior Test Engineer - Psychometric Assessments
 
 ## Introduction
 

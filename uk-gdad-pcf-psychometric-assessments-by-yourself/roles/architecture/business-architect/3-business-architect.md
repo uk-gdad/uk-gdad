@@ -1,4 +1,4 @@
-# Business Architect - Psychometric Assessment Resources
+# Business Architect - Psychometric Assessments
 
 ## Introduction
 

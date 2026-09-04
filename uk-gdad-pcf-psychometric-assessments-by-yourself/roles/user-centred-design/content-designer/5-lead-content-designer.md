@@ -1,4 +1,4 @@
-# Lead Content Designer - Psychometric Assessment Resources
+# Lead Content Designer - Psychometric Assessments
 
 ## Introduction
 
