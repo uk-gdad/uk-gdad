@@ -5,12 +5,12 @@ Contract: [`uk-gdad-pcf-role-level-start-here/spec/index.md`](../uk-gdad-pcf-rol
 ## What this is
 
 The page a reader lands on first. It orients them to one role level, points
-them at the other five pages this repository publishes for it, and gives them
+them at the other nine pages this repository publishes for it, and gives them
 a novice-to-skilled learning pathway to work through before, or instead of,
 reading anything else.
 
 It completed its rollout on 2026-08-28: all 205 files exist, and it is part of
-the fully-mirrored set like the other four derived projects — `bin/check`
+the fully-mirrored set like the other seven derived projects — `bin/check`
 requires all 205 from it, exactly as it does from them. See the root
 [`spec/index.md`](../spec/index.md) § Projects.
 
@@ -28,19 +28,18 @@ generic "you'll make a difference" line that could sit on any level's page.
 
 ## Explore the framework
 
-Seven links, to the sibling page for this exact role level on each of:
+Nine links, to the sibling page for this exact role level on each of:
 
 1. Role summary
 2. Assessments (by assessor) — the assessor-administered project
 3. Assessments (by yourself) — the self-practice project
-4. Continuing professional development
-5. Skills gap form
-6. Skills self-assessment (the one page that is not per-level — link the tool
+4. Competency assessment (by assessor) — the assessor-administered project
+5. Competency assessment (by yourself) — the self-rating project
+6. Continuing professional development
+7. Skills gap form
+8. Skills self-assessment (the one page that is not per-level — link the tool
    itself)
-7. Upskilling resources
-
-The competency assessment is not linked from here: it is not currently
-published on the website (see `spec/index.md` § Known drift).
+9. Upskilling resources
 
 Link with the absolute website URL, not a relative `.md` path — this document
 is a signpost to the published site, and it names the site explicitly per its
