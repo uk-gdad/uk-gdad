@@ -20,11 +20,18 @@ Competency assessments got the same treatment:
 matrix for a manager or panel to complete about someone else, and a new
 [`-by-yourself`](uk-gdad-pcf-competency-assessments-by-yourself) sibling
 carries the exact same matrix — same skills, same baselines, same
-behavioural indicators — rewritten for the reader to rate themselves. Neither
-competency assessment project is on the website yet.
+behavioural indicators — rewritten for the reader to rate themselves. Both
+are now on the website too, at `/competency-assessments-by-assessor/` and
+`/competency-assessments-by-yourself/` — they had never been wired in, even
+before today's split.
 
 The repository now has nine role-level projects instead of six, and 1,845
-documents where there were 1,230.
+documents where there were 1,230, published as 2,042 web pages where there
+were 1,427.
+
+Also new: two [Claude Code](https://claude.com/claude-code) skills for
+working with this repository, and `llms.txt`/`llms.json` files for AI
+agents exploring it.
 
 ## 2026-08-26 — Repository documentation
 

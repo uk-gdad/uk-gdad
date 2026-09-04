@@ -144,9 +144,9 @@ measurement.
 `uk-gdad-pcf-psychometric-assessments-by-assessor` and
 `-by-yourself`, and `uk-gdad-pcf-competency-assessments` was renamed to
 `-by-assessor` and given a new `-by-yourself` sibling generated from it — nine
-role projects in total now, up from six. The website vendors and routes both
-psychometric assessment projects; neither competency assessment project is
-wired into the site yet (see `spec/index.md` § Known drift).
+role projects in total now, up from six. The website now vendors and routes
+all four of the newly split/added projects, not just the two psychometric
+ones.
 
 | Project | Files | Words |
 | --- | ---: | ---: |
@@ -163,11 +163,22 @@ wired into the site yet (see `spec/index.md` § Known drift).
 
 `bin/check` now covers 1,845 documents and runs in 0.4s, unchanged in shape
 from the previous update — three more projects at 205 files each does not
-move a check that was already fast. `pnpm build` now prerenders 1,632 pages
-(up from 1,427, the 205 new pages all from the psychometric assessment split)
-in about 9s.
+move a check that was already fast. `pnpm build` now prerenders 2,042 pages
+(up from 1,427: 205 from the psychometric assessment split, plus 410 more
+once the two competency assessment projects were wired into the site
+alongside it) in about 9s.
+
+Wiring the competency assessment projects into the site's prerender crawl
+also surfaced a genuine content defect that had gone unnoticed because
+nothing had ever rendered these documents before: 41 of the 205
+`uk-gdad-pcf-competency-assessments-by-assessor` files used a same-page
+anchor link, `[Fair and lawful use](#fair-and-lawful-use)`, that assumed the
+referenced section lived in the document itself rather than in the
+project's `spec/index.md`. Fixed to a proper relative link, matching the
+other 78 files that already had it right.
 
 The page weight, JavaScript and accessibility measurements above were not
 re-run for this update either, for the same reason as before: an assessment
-page is the same shape of prerendered, script-free markdown page regardless
-of which of the two psychometric assessment projects it comes from.
+or competency-assessment page is the same shape of prerendered, script-free
+markdown page regardless of which of the four newly split/added projects it
+comes from.

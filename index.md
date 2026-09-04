@@ -50,7 +50,7 @@ The numbers:
 | Role levels | 205 (201 in use, 4 retired) |
 | Distinct skills | 183 |
 | Documents | 1,846 |
-| Website pages | 1,632 |
+| Website pages | 2,042 |
 
 ### The shape of it
 
@@ -285,12 +285,12 @@ pnpm dev                 # http://localhost:5173
 
 ```sh
 pnpm check               # svelte-check; must be clean
-pnpm build               # build/ — 1,632 prerendered pages
+pnpm build               # build/ — 2,042 prerendered pages
 pnpm preview             # serve the built site
 ```
 
 Prerendering crawls every internal link, so a broken link fails the build. That
-is deliberate: with 1,632 pages, the build is the only link checker that will
+is deliberate: with 2,042 pages, the build is the only link checker that will
 ever keep up.
 
 ### Publish it
@@ -309,10 +309,8 @@ make github-pages                  # same as bin/make-github-pages
 ```
 
 `bin/make-github-pages` runs `bin/check` first — the site vendors `content/`
-from seven of the nine role projects (not the two competency assessment
-projects — see [Known drift](spec/index.md#known-drift)), and a stale copy
-would otherwise be published as the real thing — then hands the push to
-`git subtree`:
+from all nine role projects, and a stale copy would otherwise be published as
+the real thing — then hands the push to `git subtree`:
 
 ```sh
 git subtree push --prefix=uk-gdad.github.io github-pages main

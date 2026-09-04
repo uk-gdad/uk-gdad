@@ -413,14 +413,3 @@ this repository does not hold.
    The summary quotes the framework as published, so it is left as it is. The
    skills gap form for that level separates the two and says why, so a reader
    comparing the two counts does not think one of them is wrong.
-5. **Competency assessments are not published on the website.** All 205
-   `uk-gdad-pcf-competency-assessments-by-assessor` documents, and all 205
-   `uk-gdad-pcf-competency-assessments-by-yourself` documents, exist and pass
-   `bin/check`, but the website does not vendor or route either project — it
-   was never wired in when the first of the two was added, so
-   `uk-gdad-pcf-role-level-start-here`'s "Explore the framework" links do not
-   point to either. Fixing this needs the same shape of work as adding any new
-   document kind to the site (a `content/` vendoring rule, a route, a
-   home-page count, a sitemap entry, times two) plus adding links to all 205
-   start-here pages, which is more than a mechanical rename and has not been
-   done here.

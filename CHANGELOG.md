@@ -38,8 +38,14 @@ the work landed on `main`.
   competency assessment documents, generated from the assessor-administered
   sibling's matrix — same skills, same baselines, same behavioural
   indicators — rewritten for the reader to complete about themselves.
-- The website now vendors and routes both psychometric assessment projects,
-  at `/assessments-by-assessor/<slug>/` and `/assessments-by-yourself/<slug>/`.
+- The website now vendors and routes all four newly split/added projects:
+  `/assessments-by-assessor/<slug>/`, `/assessments-by-yourself/<slug>/`,
+  `/competency-assessments-by-assessor/<slug>/` and
+  `/competency-assessments-by-yourself/<slug>/`.
+- `.claude/skills/uk-gdad-skill` and `.claude/skills/uk-gdad-maintainer-skill`:
+  two Claude Code skills for using and for maintaining this repository.
+- `llms.txt` and `llms.json` at the repository root, plus a site-facing
+  `llms.txt` served at `https://uk-gdad.github.io/llms.txt`.
 
 ### Changed
 
@@ -56,10 +62,12 @@ the work landed on `main`.
   `AGENTS/assessments-by-yourself.md`; `AGENTS/competency-assessments.md`
   renamed to `AGENTS/competency-assessments-by-assessor.md` with a new
   `AGENTS/competency-assessments-by-yourself.md` alongside it.
-- The 205 `uk-gdad-pcf-roles-skills-gap-forms` "Practice assessment" links,
-  and the `uk-gdad-pcf-role-level-start-here` "Explore the framework"
-  sections across all 205 files, now point at both psychometric assessment
-  projects where relevant instead of the retired singular one.
+- The 205 `uk-gdad-pcf-roles-skills-gap-forms` "Practice assessment" links
+  now point at `uk-gdad-pcf-psychometric-assessments-by-yourself` instead of
+  the retired singular project. The `uk-gdad-pcf-role-level-start-here`
+  "Explore the framework" section across all 205 files now links to nine
+  sibling pages instead of seven — both assessment voices and both
+  competency assessment voices.
 - Document-count prose across `spec/index.md`, `AGENTS.md`, `README.md` and
   `index.md` corrected from "five further documents" (already stale before
   today — it omitted competency assessments) to eight further documents,
@@ -73,6 +81,13 @@ the work landed on `main`.
   cleanly across all nine role projects.
 - `bin/serial-comma` was silently skipping both competency assessment
   projects — they were never added to its `TARGETS` glob.
+- 41 of the 205 `uk-gdad-pcf-competency-assessments-by-assessor` files used a
+  same-page anchor link, `[Fair and lawful use](#fair-and-lawful-use)`, that
+  assumed the referenced section lived in the document itself rather than in
+  the project's `spec/index.md`. This had gone unnoticed because the website
+  never rendered these documents before today; wiring them in surfaced it as
+  a prerender warning. Fixed to a relative link, matching the other 78 files
+  that already had it right.
 
 ## 2026-08-26
 

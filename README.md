@@ -37,7 +37,7 @@ form for an employee to fill in.
 | [Website](uk-gdad.github.io) | The published static site | — |
 
 Covering **8 professions**, **52 roles**, **205 role levels** and **183 skills** —
-**1,846 documents** in all, published as **1,632 web pages**.
+**1,846 documents** in all, published as **2,042 web pages**.
 
 ## Quick start
 
