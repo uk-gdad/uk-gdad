@@ -3,8 +3,8 @@
 The static site published at <https://uk-gdad.github.io>. SvelteKit,
 prerendered, built with the Lily Design System™. It renders nine documents
 per role level — summary, start here, upskilling, development, assessment (by
-assessor and by yourself) and competency assessment (by assessor and by
-yourself — each pair two separate projects sharing one route shape) and
+assessor and by individual) and competency assessment (by assessor and by
+individual — each pair two separate projects sharing one route shape) and
 skills gap form — across 2,042 pages. Its inputs are vendored: edit the
 source and run `./bin/sync`, never the copies.
 

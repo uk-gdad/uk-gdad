@@ -2,7 +2,7 @@
 
 Contract: [`uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md`](../uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md).
 
-See also [`AGENTS/assessments-by-yourself.md`](assessments-by-yourself.md), the
+See also [`AGENTS/assessments-by-individual.md`](assessments-by-individual.md), the
 sibling project written for the candidate's own practice rather than for the
 person administering it. The two projects share the same document contract —
 same seven sections, same title shape — and are written from the same role

@@ -38,7 +38,7 @@
     <ul class="result-list">
       {#each profession.rows as row (row.slug)}
         <li>
-          <a href="/roles/{row.slug}/">{row.levelTitle}</a>
+          <a href="/{row.slug}/">{row.levelTitle}</a>
           <span class="result-meta">{row.roleTitle}</span>
         </li>
       {/each}

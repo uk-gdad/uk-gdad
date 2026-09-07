@@ -61,12 +61,12 @@ publishes for this exact role level, plus the one tool that is not per-level:
 
 | Link text                          | Target                                                      |
 | ----------------------------------- | ------------------------------------------------------------ |
-| Role summary                        | `https://uk-gdad.github.io/roles/<slug>/`                    |
-| Assessments                         | `https://uk-gdad.github.io/assessments/<slug>/`              |
-| Continuing professional development | `https://uk-gdad.github.io/continuing-professional-development/<slug>/` |
-| Skills gap form                     | `https://uk-gdad.github.io/skills-gap-forms/<slug>/`         |
-| Skills self-assessment              | `https://uk-gdad.github.io/skills-self-assessment/`          |
-| Upskilling resources                | `https://uk-gdad.github.io/upskilling/<slug>/`               |
+| Role summary                        | `https://uk-gdad.github.io/<slug>/specification/`                       |
+| Assessments                         | `https://uk-gdad.github.io/<slug>/assessment/`                          |
+| Continuing professional development | `https://uk-gdad.github.io/<slug>/continuing-professional-development/` |
+| Skills gap form                     | `https://uk-gdad.github.io/<slug>/skills-gap-form/`                     |
+| Skills self-assessment              | `https://uk-gdad.github.io/skills-self-assessment/`                     |
+| Upskilling resources                | `https://uk-gdad.github.io/<slug>/upskilling-resources/`                |
 
 Absolute URLs to the published site, not relative `.md` links — unlike the
 other derived documents, this page's whole job is to point a reader at the

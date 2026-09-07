@@ -30,7 +30,7 @@
     content="{data.resourceTitle} for the {data.level.title} level of the {data.role
       .title} role in the UK Government Digital and Data Profession Capability Framework."
   />
-  {#if data.kind === 'gapform'}
+  {#if data.kind === 'skillGapForm'}
     <!-- Saves the reader's answers in their own browser, and exports them. -->
     <script src="/assets/gapform.js" defer></script>
   {:else if data.kind === 'development'}
@@ -42,20 +42,27 @@
 </svelte:head>
 
 <Breadcrumbs
-  trail={[
-    { href: '/', label: 'Home' },
-    { href: '/professions/', label: 'Professions' },
-    { href: `/professions/${data.profession.slug}/`, label: data.profession.title },
-    { href: `/roles/${data.slug}/`, label: data.level.title },
-    { label: data.resourceTitle }
-  ]}
+  trail={data.kind === 'startHere'
+    ? [
+        { href: '/', label: 'Home' },
+        { href: '/professions/', label: 'Professions' },
+        { href: `/professions/${data.profession.slug}/`, label: data.profession.title },
+        { label: data.level.title }
+      ]
+    : [
+        { href: '/', label: 'Home' },
+        { href: '/professions/', label: 'Professions' },
+        { href: `/professions/${data.profession.slug}/`, label: data.profession.title },
+        { href: `/${data.slug}/`, label: data.level.title },
+        { label: data.resourceTitle }
+      ]}
 />
 
 <div class="doc-header">
   <p class="doc-context">{data.role.title} · {data.level.title}</p>
   <h1>{data.heading}</h1>
   <ResourceNav slug={data.slug} current={data.kind} has={data.level.has} />
-  {#if data.kind === 'gapform'}
+  {#if data.kind === 'skillGapForm'}
     <!-- Hidden until `gapform.js` shows it: without JavaScript these buttons
          would do nothing, and the form is still usable on paper. -->
     <div id="gapform-tools" class="gapform-tools" hidden>

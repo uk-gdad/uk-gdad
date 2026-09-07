@@ -43,7 +43,7 @@
     <ul class="level-list">
       {#each role.levels as level (level.slug)}
         <li>
-          <a href="/roles/{level.slug}/">
+          <a href="/{level.slug}/">
             {#if level.order !== null}
               <span class="level-list-number">{level.order}</span>
             {/if}

@@ -9,7 +9,7 @@ The framework carries two roles at this level, sharing one title and one set
 of named skills: a technical one and this management one. If deep technical
 practice, rather than strategic and people leadership, is where you want to
 grow, the
-[principal developer (technical)](https://uk-gdad.github.io/roles/software-development/software-developer/8-principal-developer/)
+[principal developer (technical)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/)
 page may fit better.
 
 ## Purpose
@@ -28,15 +28,15 @@ rather than implementing within a strategy someone else set.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/roles/software-development/software-developer/9-principal-developer-management/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/software-development/software-developer/9-principal-developer-management/): a structured assessment that an assessor can administer.
-- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/software-development/software-developer/9-principal-developer-management/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/software-development/software-developer/9-principal-developer-management/): a structured assessment that an assessor can administer.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/software-development/software-developer/9-principal-developer-management/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/software-development/software-developer/9-principal-developer-management/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/software-development/software-developer/9-principal-developer-management/): a form for comparing what you do now against what this level expects.
+- [Role summary](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/upskilling/software-development/software-developer/9-principal-developer-management/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

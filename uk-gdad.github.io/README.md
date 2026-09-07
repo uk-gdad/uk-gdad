@@ -33,9 +33,9 @@ uk-gdad.github.io/
 │   ├── upskilling-resources/
 │   ├── continuing-professional-development-checklists/
 │   ├── assessments-by-assessor/
-│   ├── assessments-by-yourself/
+│   ├── assessments-by-individual/
 │   ├── competency-assessments-by-assessor/
-│   ├── competency-assessments-by-yourself/
+│   ├── competency-assessments-by-individual/
 │   └── roles-skills-gap-forms/
 ├── src/
 │   ├── app.html              Document shell
@@ -64,15 +64,15 @@ uk-gdad.github.io/
 | `/professions/` | The professions in the framework | 1 |
 | `/professions/<profession>/` | One profession: its roles and levels | 8 |
 | `/roles/` | Searchable finder across every role level | 1 |
-| `/roles/<slug>/` | Role summary: the role, the level, its skills | 205 |
-| `/start-here/<slug>/` | First orientation and learning pathway | 205 |
-| `/upskilling/<slug>/` | Upskilling resources for that level | 205 |
-| `/continuing-professional-development/<slug>/` | Development checklist | 205 |
-| `/assessments-by-assessor/<slug>/` | Assessor-administered assessment | 205 |
-| `/assessments-by-yourself/<slug>/` | Self-practice assessment | 205 |
-| `/competency-assessments-by-assessor/<slug>/` | Assessor-administered competency matrix | 205 |
-| `/competency-assessments-by-yourself/<slug>/` | Self-rating competency matrix | 205 |
-| `/skills-gap-forms/<slug>/` | Skills gap form to read and fill in | 205 |
+| `/<slug>/` | Start here: friendly introduction and learning pathway | 205 |
+| `/<slug>/specification/` | Role summary: the role, the level, its skills | 205 |
+| `/<slug>/upskilling-resources/` | Upskilling resources for that level | 205 |
+| `/<slug>/continuing-professional-development/` | Development checklist | 205 |
+| `/<slug>/assessment-by-assessor/` | Assessor-administered assessment | 205 |
+| `/<slug>/assessment-by-individual/` | Self-practice assessment | 205 |
+| `/<slug>/competency-assessment-by-assessor/` | Assessor-administered competency matrix | 205 |
+| `/<slug>/competency-assessment-by-individual/` | Self-rating competency matrix | 205 |
+| `/<slug>/skills-gap-form/` | Skills gap form to read and fill in | 205 |
 | `/skills/` | Every skill the framework names | 1 |
 | `/skills/<skill>/` | One skill, and every level that expects it | 183 |
 | `/skills-self-assessment/` | The self-assessment tool | 1 |
@@ -115,8 +115,8 @@ copy is a failing check.
 - **Role summaries** are plain text, not markdown. `src/lib/server/content.ts`
   parses them into role, level, duties and skills, then renders structured HTML.
 - **The other eight** — start here, upskilling, development, assessments (by
-  assessor and by yourself), competency assessments (by assessor and by
-  yourself — each pair two separate projects), and skills gap forms — are
+  assessor and by individual), competency assessments (by assessor and by
+  individual — each pair two separate projects), and skills gap forms — are
   markdown, rendered at build time with `marked`. Headings get stable ids and
   feed an on-page contents list.
 - **Gap-form paths end in `/roles`**, exactly as summary paths do, so the link

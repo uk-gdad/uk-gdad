@@ -20,15 +20,15 @@ scale, not leading research programmes within one organisation.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/roles/user-centred-design/user-researcher/6-head-of-user-research/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/user-centred-design/user-researcher/6-head-of-user-research/): a structured assessment that an assessor can administer.
-- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/user-centred-design/user-researcher/6-head-of-user-research/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/user-centred-design/user-researcher/6-head-of-user-research/): a structured assessment that an assessor can administer.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/user-centred-design/user-researcher/6-head-of-user-research/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/user-centred-design/user-researcher/6-head-of-user-research/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/user-centred-design/user-researcher/6-head-of-user-research/): a form for comparing what you do now against what this level expects.
+- [Role summary](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Assessments (by individual)](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/upskilling/user-centred-design/user-researcher/6-head-of-user-research/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/user-researcher/6-head-of-user-research/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

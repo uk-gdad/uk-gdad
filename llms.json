@@ -72,19 +72,19 @@
       "documents": 205,
       "path": "uk-gdad-pcf-psychometric-assessments-by-assessor",
       "spec": "uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md",
-      "sibling": "uk-gdad-pcf-psychometric-assessments-by-yourself",
+      "sibling": "uk-gdad-pcf-psychometric-assessments-by-individual",
       "description": "Assessor-administered cognitive, numeric, verbal and situational judgement items, with the answer key held back from the candidate.",
-      "published_at": "https://uk-gdad.github.io/assessments-by-assessor/"
+      "published_at": "https://uk-gdad.github.io/<slug>/assessment-by-assessor/"
     },
     {
-      "name": "uk-gdad-pcf-psychometric-assessments-by-yourself",
+      "name": "uk-gdad-pcf-psychometric-assessments-by-individual",
       "role": "derived",
       "documents": 205,
-      "path": "uk-gdad-pcf-psychometric-assessments-by-yourself",
-      "spec": "uk-gdad-pcf-psychometric-assessments-by-yourself/spec/index.md",
+      "path": "uk-gdad-pcf-psychometric-assessments-by-individual",
+      "spec": "uk-gdad-pcf-psychometric-assessments-by-individual/spec/index.md",
       "sibling": "uk-gdad-pcf-psychometric-assessments-by-assessor",
       "description": "The same four assessment types as practice material, for the reader to work through alone.",
-      "published_at": "https://uk-gdad.github.io/assessments-by-yourself/"
+      "published_at": "https://uk-gdad.github.io/<slug>/assessment-by-individual/"
     },
     {
       "name": "uk-gdad-pcf-competency-assessments-by-assessor",
@@ -92,19 +92,19 @@
       "documents": 205,
       "path": "uk-gdad-pcf-competency-assessments-by-assessor",
       "spec": "uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md",
-      "sibling": "uk-gdad-pcf-competency-assessments-by-yourself",
+      "sibling": "uk-gdad-pcf-competency-assessments-by-individual",
       "description": "A skill-by-skill competency matrix, rated 0-4, for an assessor to judge a candidate or employee against.",
-      "published_at": "https://uk-gdad.github.io/competency-assessments-by-assessor/"
+      "published_at": "https://uk-gdad.github.io/<slug>/competency-assessment-by-assessor/"
     },
     {
-      "name": "uk-gdad-pcf-competency-assessments-by-yourself",
+      "name": "uk-gdad-pcf-competency-assessments-by-individual",
       "role": "derived",
       "documents": 205,
-      "path": "uk-gdad-pcf-competency-assessments-by-yourself",
-      "spec": "uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md",
+      "path": "uk-gdad-pcf-competency-assessments-by-individual",
+      "spec": "uk-gdad-pcf-competency-assessments-by-individual/spec/index.md",
       "sibling": "uk-gdad-pcf-competency-assessments-by-assessor",
       "description": "The same matrix, generated from its sibling, for the reader to rate themselves against.",
-      "published_at": "https://uk-gdad.github.io/competency-assessments-by-yourself/"
+      "published_at": "https://uk-gdad.github.io/<slug>/competency-assessment-by-individual/"
     },
     {
       "name": "uk-gdad-pcf-roles-skills-gap-forms",
@@ -113,7 +113,7 @@
       "path": "uk-gdad-pcf-roles-skills-gap-forms",
       "spec": "uk-gdad-pcf-roles-skills-gap-forms/spec/index.md",
       "description": "A form human resources sends and an employee fills in, covering job tasks, skills, legal compliance and development priorities.",
-      "published_at": "https://uk-gdad.github.io/skills-gap-forms/"
+      "published_at": "https://uk-gdad.github.io/<slug>/skills-gap-form/"
     },
     {
       "name": "uk-gdad-pcf-skills-self-assessment",

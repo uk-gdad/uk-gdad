@@ -24,7 +24,7 @@ This is different from the documents it sits alongside:
 | Document | Question it answers | Who fills it in |
 | --- | --- | --- |
 | Competency assessment (here) | Does this person meet the baseline for this role level? | An assessor, about someone else |
-| [Competency assessment, by yourself](../uk-gdad-pcf-competency-assessments-by-yourself) | Do I meet the baseline for this role level? | The same matrix, generated from this project, for you to complete about yourself |
+| [Competency assessment, by individual](../uk-gdad-pcf-competency-assessments-by-individual) | Do I meet the baseline for this role level? | The same matrix, generated from this project, for you to complete about yourself |
 | [Skills gap form](../uk-gdad-pcf-roles-skills-gap-forms) | Where do I think my own gaps are? | The employee, about themselves |
 | [Psychometric assessment](../uk-gdad-pcf-psychometric-assessments-by-assessor) | Can this person reason and judge at the level the job needs? | An assessor, administered to a candidate |
 

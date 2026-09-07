@@ -24,8 +24,8 @@ names, 205 files each:
 - `uk-gdad-pcf-role-level-start-here`
 - `uk-gdad-pcf-upskilling-resources`
 - `uk-gdad-pcf-continuing-professional-development-checklists`
-- `uk-gdad-pcf-psychometric-assessments-by-assessor` and `-by-yourself`
-- `uk-gdad-pcf-competency-assessments-by-assessor` and `-by-yourself`
+- `uk-gdad-pcf-psychometric-assessments-by-assessor` and `-by-individual`
+- `uk-gdad-pcf-competency-assessments-by-assessor` and `-by-individual`
 - `uk-gdad-pcf-roles-skills-gap-forms`
 
 A **slug** — e.g. `data/data-analyst/2-data-analyst` — is a role level's
@@ -42,9 +42,9 @@ doing the same in all nine, then re-running `bin/check`.
    (required title, required sections).
 3. Draft. **Never copy a neighbouring level's document** — the whole point
    of a per-level instrument is that levels differ.
-4. **Exception**: the two "by yourself" projects
-   (`uk-gdad-pcf-psychometric-assessments-by-yourself` and
-   `uk-gdad-pcf-competency-assessments-by-yourself`) are generated from
+4. **Exception**: the two "by individual" projects
+   (`uk-gdad-pcf-psychometric-assessments-by-individual` and
+   `uk-gdad-pcf-competency-assessments-by-individual`) are generated from
    their "by assessor" sibling for the same slug, not drafted from the
    summary directly — see each project's own `spec/index.md` for exactly
    what carries over unchanged and what gets rewritten for voice.

@@ -1,4 +1,4 @@
-# Competency assessments (by yourself) — specification
+# Competency assessments (by individual) — specification
 
 Refines [`spec/index.md`](../../spec/index.md), which governs the taxonomy, the
 role index, slugs, style, and licensing. This file covers only what is specific
@@ -46,7 +46,7 @@ and that section is required.
 | --- | --- | --- |
 | An assessor's judgement | The same matrix, completed about someone else by a manager, panel or reviewer | `uk-gdad-pcf-competency-assessments-by-assessor` |
 | A performance review | A management process the organisation owns | Not here |
-| A psychometric assessment | Tests reasoning and judgement through practice items, either administered or self-practised | `uk-gdad-pcf-psychometric-assessments-by-assessor`, `uk-gdad-pcf-psychometric-assessments-by-yourself` |
+| A psychometric assessment | Tests reasoning and judgement through practice items, either administered or self-practised | `uk-gdad-pcf-psychometric-assessments-by-assessor`, `uk-gdad-pcf-psychometric-assessments-by-individual` |
 | A self-rated skills gap form | Covers job tasks, legal compliance and HR practice as well as skills | `uk-gdad-pcf-roles-skills-gap-forms` |
 | A whole-catalogue self-rating | 189 skills, no role context, nothing saved | `uk-gdad-pcf-skills-self-assessment` |
 | Legal advice | Named duties, not interpreted ones | See the assessor project's own [Fair and lawful use](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) |
@@ -113,7 +113,7 @@ In this order — the same nine as the assessor-administered sibling, so
 
 Written for this project from the start, so it is en-GB throughout — there is
 no earlier, self-practice framing to preserve here the way there was for
-`uk-gdad-pcf-psychometric-assessments-by-yourself`. See
+`uk-gdad-pcf-psychometric-assessments-by-individual`. See
 [`AGENTS/writing.md`](../../AGENTS/writing.md) § Spelling.
 
 ## The rating scale

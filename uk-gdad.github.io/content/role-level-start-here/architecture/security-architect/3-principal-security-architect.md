@@ -25,15 +25,15 @@ organisation.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/roles/architecture/security-architect/3-principal-security-architect/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/architecture/security-architect/3-principal-security-architect/): a structured assessment that an assessor can administer.
-- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/architecture/security-architect/3-principal-security-architect/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/architecture/security-architect/3-principal-security-architect/): a structured assessment that an assessor can administer.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/architecture/security-architect/3-principal-security-architect/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/architecture/security-architect/3-principal-security-architect/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/architecture/security-architect/3-principal-security-architect/): a form for comparing what you do now against what this level expects.
+- [Role summary](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Assessments (by individual)](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/upskilling/architecture/security-architect/3-principal-security-architect/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/security-architect/3-principal-security-architect/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

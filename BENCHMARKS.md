@@ -142,8 +142,8 @@ measurement.
 
 `uk-gdad-pcf-psychometric-assessments` was split into
 `uk-gdad-pcf-psychometric-assessments-by-assessor` and
-`-by-yourself`, and `uk-gdad-pcf-competency-assessments` was renamed to
-`-by-assessor` and given a new `-by-yourself` sibling generated from it — nine
+`-by-individual`, and `uk-gdad-pcf-competency-assessments` was renamed to
+`-by-assessor` and given a new `-by-individual` sibling generated from it — nine
 role projects in total now, up from six. The website now vendors and routes
 all four of the newly split/added projects, not just the two psychometric
 ones.
@@ -155,9 +155,9 @@ ones.
 | Upskilling resources | 205 | 345,827 |
 | CPD checklists | 205 | 411,357 |
 | Assessments, by assessor | 205 | 2,806,383 |
-| Assessments, by yourself | 205 | 3,564,961 |
+| Assessments, by individual | 205 | 3,564,961 |
 | Competency assessments, by assessor | 205 | 774,269 |
-| Competency assessments, by yourself | 205 | 783,667 |
+| Competency assessments, by individual | 205 | 783,667 |
 | Skills gap forms | 205 | 828,288 |
 | **Total** | **1,845** | **9,786,470** |
 

@@ -21,7 +21,7 @@ rather than being a good intention.
   every file.
 - For context on what the level is working towards, the matching documents in
   `uk-gdad-pcf-upskilling-resources`, `uk-gdad-pcf-psychometric-assessments-by-assessor`,
-  and `uk-gdad-pcf-psychometric-assessments-by-yourself`.
+  and `uk-gdad-pcf-psychometric-assessments-by-individual`.
 
 ## Output
 

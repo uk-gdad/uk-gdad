@@ -27,26 +27,26 @@
 
 ## Per role level
 
-Each of the 205 role levels has its own page under each of these paths —
+Each of the 205 role levels has its own page under this base path —
 substitute a slug such as `data/data-analyst/2-data-analyst` for `<slug>`:
 
-- `https://uk-gdad.github.io/roles/<slug>/` — the role summary.
-- `https://uk-gdad.github.io/start-here/<slug>/` — first orientation and a
-  learning pathway.
-- `https://uk-gdad.github.io/upskilling/<slug>/` — courses, articles, videos,
+- `https://uk-gdad.github.io/<slug>/` — first orientation and a learning
+  pathway: the landing page for the level.
+- `https://uk-gdad.github.io/<slug>/specification/` — the role summary.
+- `https://uk-gdad.github.io/<slug>/upskilling-resources/` — courses, articles, videos,
   books.
-- `https://uk-gdad.github.io/continuing-professional-development/<slug>/` —
+- `https://uk-gdad.github.io/<slug>/continuing-professional-development/` —
   a CPD checklist.
-- `https://uk-gdad.github.io/assessments-by-assessor/<slug>/` — a
+- `https://uk-gdad.github.io/<slug>/assessment-by-assessor/` — a
   structured assessment an assessor administers.
-- `https://uk-gdad.github.io/assessments-by-yourself/<slug>/` — the same
+- `https://uk-gdad.github.io/<slug>/assessment-by-individual/` — the same
   four assessment types as practice material.
-- `https://uk-gdad.github.io/competency-assessments-by-assessor/<slug>/` —
+- `https://uk-gdad.github.io/<slug>/competency-assessment-by-assessor/` —
   a skill-by-skill matrix an assessor rates a candidate or employee against.
-- `https://uk-gdad.github.io/competency-assessments-by-yourself/<slug>/` —
+- `https://uk-gdad.github.io/<slug>/competency-assessment-by-individual/` —
   the same matrix, generated from its sibling, for you to rate yourself
   against.
-- `https://uk-gdad.github.io/skills-gap-forms/<slug>/` — a form to compare
+- `https://uk-gdad.github.io/<slug>/skills-gap-form/` — a form to compare
   what you do now against what the level expects.
 
 ## Optional

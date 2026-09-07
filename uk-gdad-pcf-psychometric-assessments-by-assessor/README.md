@@ -18,7 +18,7 @@ A manager, panel, or reviewer administering a structured, job-specific
 assessment to a candidate — not the candidate's own practice material. Every
 item's worked answer is the assessor's answer key, held back until scoring.
 Looking for the candidate's own practice material instead? See
-[`uk-gdad-pcf-psychometric-assessments-by-yourself`](../uk-gdad-pcf-psychometric-assessments-by-yourself),
+[`uk-gdad-pcf-psychometric-assessments-by-individual`](../uk-gdad-pcf-psychometric-assessments-by-individual),
 the same four assessment types rewritten for the reader to work through
 alone. See
 [`uk-gdad-pcf-competency-assessments-by-assessor`](../uk-gdad-pcf-competency-assessments-by-assessor)
@@ -69,7 +69,8 @@ The legal position, which constrains what may be written and how it may be used:
 cat roles/data/data-analyst/3-senior-data-analyst.md
 ```
 
-Or read it on the web: <https://uk-gdad.github.io/assessments-by-assessor/>
+Or read it on the web, e.g.
+<https://uk-gdad.github.io/data/data-analyst/3-senior-data-analyst/assessment-by-assessor/>
 
 This is the largest project here — around 3.5 million words. Individual files
 run to tens of thousands of words, so the website is usually the easier way in.

@@ -1,4 +1,4 @@
-# Competency assessments (by yourself)
+# Competency assessments (by individual)
 
 A self-rating competency assessment per role level: the same skill-by-skill
 matrix as [`uk-gdad-pcf-competency-assessments-by-assessor`](../uk-gdad-pcf-competency-assessments-by-assessor),
@@ -15,7 +15,7 @@ taxonomy, slugs, the role index, writing style, licensing — live there and in
 @../AGENTS/repository.md
 @../AGENTS/taxonomy.md
 @../AGENTS/writing.md
-@../AGENTS/competency-assessments-by-yourself.md
+@../AGENTS/competency-assessments-by-individual.md
 @../AGENTS/validation.md
 
 ---

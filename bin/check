@@ -44,9 +44,9 @@ DERIVED = [
     "uk-gdad-pcf-upskilling-resources",
     "uk-gdad-pcf-continuing-professional-development-checklists",
     "uk-gdad-pcf-psychometric-assessments-by-assessor",
-    "uk-gdad-pcf-psychometric-assessments-by-yourself",
+    "uk-gdad-pcf-psychometric-assessments-by-individual",
     "uk-gdad-pcf-competency-assessments-by-assessor",
-    "uk-gdad-pcf-competency-assessments-by-yourself",
+    "uk-gdad-pcf-competency-assessments-by-individual",
     "uk-gdad-pcf-roles-skills-gap-forms",
 ]
 
@@ -56,7 +56,7 @@ DERIVED = [
 SKILL_BLOCK_PROJECTS = [
     "uk-gdad-pcf-roles-skills-gap-forms",
     "uk-gdad-pcf-competency-assessments-by-assessor",
-    "uk-gdad-pcf-competency-assessments-by-yourself",
+    "uk-gdad-pcf-competency-assessments-by-individual",
 ]
 
 # spec/index.md § Document contracts — required headings per project.
@@ -89,7 +89,7 @@ REQUIRED_SECTIONS = {
         "Workplace job-specific situational judgement assessment",
         "Conclusion",
     ],
-    "uk-gdad-pcf-psychometric-assessments-by-yourself": [
+    "uk-gdad-pcf-psychometric-assessments-by-individual": [
         "Introduction",
         "Advisory",
         "Workplace job-specific cognitive assessment",
@@ -123,7 +123,7 @@ REQUIRED_SECTIONS = {
         "Assessor notes and evidence log",
         "Conclusion",
     ],
-    "uk-gdad-pcf-competency-assessments-by-yourself": [
+    "uk-gdad-pcf-competency-assessments-by-individual": [
         "Introduction",
         "Advisory",
         "How to use this assessment",
@@ -145,9 +145,9 @@ REQUIRED_SECTIONS = {
 REQUIRED_TITLE_SUFFIX = {
     "uk-gdad-pcf-upskilling-resources": "- upskill resources",
     "uk-gdad-pcf-psychometric-assessments-by-assessor": "- Psychometric Assessments",
-    "uk-gdad-pcf-psychometric-assessments-by-yourself": "- Psychometric Assessments",
+    "uk-gdad-pcf-psychometric-assessments-by-individual": "- Psychometric Assessments",
     "uk-gdad-pcf-competency-assessments-by-assessor": "- Competency Assessment",
-    "uk-gdad-pcf-competency-assessments-by-yourself": "- Competency Assessment",
+    "uk-gdad-pcf-competency-assessments-by-individual": "- Competency Assessment",
     "uk-gdad-pcf-roles-skills-gap-forms": "- skills gap form",
     START_HERE: "- start here",
 }
@@ -167,9 +167,9 @@ SITE_CONTENT = {
         "uk-gdad-pcf-continuing-professional-development-checklists"
     ),
     "assessments-by-assessor": "uk-gdad-pcf-psychometric-assessments-by-assessor",
-    "assessments-by-yourself": "uk-gdad-pcf-psychometric-assessments-by-yourself",
+    "assessments-by-individual": "uk-gdad-pcf-psychometric-assessments-by-individual",
     "competency-assessments-by-assessor": "uk-gdad-pcf-competency-assessments-by-assessor",
-    "competency-assessments-by-yourself": "uk-gdad-pcf-competency-assessments-by-yourself",
+    "competency-assessments-by-individual": "uk-gdad-pcf-competency-assessments-by-individual",
     "roles-skills-gap-forms": "uk-gdad-pcf-roles-skills-gap-forms",
 }
 

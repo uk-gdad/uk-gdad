@@ -17,7 +17,7 @@ import type {
   Summary,
   TocEntry
 } from '$lib/types';
-import { slugify } from '$lib/types';
+import { resourceHref, slugify } from '$lib/types';
 import { createFormWriter } from './gapform';
 import { createChecklistWriter } from './checklist';
 
@@ -28,11 +28,11 @@ const DIRECTORIES: Record<ResourceKind, string> = {
   startHere: 'role-level-start-here',
   upskilling: 'upskilling-resources',
   development: 'continuing-professional-development-checklists',
-  assessmentByAssessor: 'assessments-by-assessor',
-  assessmentByYourself: 'assessments-by-yourself',
-  competencyByAssessor: 'competency-assessments-by-assessor',
-  competencyByYourself: 'competency-assessments-by-yourself',
-  gapform: 'roles-skills-gap-forms'
+  psychometricAssessmentByAssessor: 'assessments-by-assessor',
+  psychometricAssessmentByIndividual: 'assessments-by-individual',
+  competencyAssessmentByAssessor: 'competency-assessments-by-assessor',
+  competencyAssessmentByIndividual: 'competency-assessments-by-individual',
+  skillGapForm: 'roles-skills-gap-forms'
 };
 
 /** Every markdown file under a directory, as slugs relative to it. */
@@ -206,11 +206,11 @@ export function getProfessions(): Profession[] {
         startHere: exists('startHere', slug),
         upskilling: exists('upskilling', slug),
         development: exists('development', slug),
-        assessmentByAssessor: exists('assessmentByAssessor', slug),
-        assessmentByYourself: exists('assessmentByYourself', slug),
-        competencyByAssessor: exists('competencyByAssessor', slug),
-        competencyByYourself: exists('competencyByYourself', slug),
-        gapform: exists('gapform', slug)
+        psychometricAssessmentByAssessor: exists('psychometricAssessmentByAssessor', slug),
+        psychometricAssessmentByIndividual: exists('psychometricAssessmentByIndividual', slug),
+        competencyAssessmentByAssessor: exists('competencyAssessmentByAssessor', slug),
+        competencyAssessmentByIndividual: exists('competencyAssessmentByIndividual', slug),
+        skillGapForm: exists('skillGapForm', slug)
       }
     };
     role.levels.push(level);
@@ -343,17 +343,17 @@ function resolveLink(href: string, from: { kind: ResourceKind; slug: string }): 
     // Gap-form paths end in `/roles` like the summaries do, so they are tested
     // first — otherwise the summary pattern would claim them.
     const kind: ResourceKind = /skills-gap|gap-form/i.test(prefix)
-      ? 'gapform'
+      ? 'skillGapForm'
       : /upskill/i.test(prefix)
         ? 'upskilling'
         : /competency/i.test(prefix)
-          ? /by-yourself/i.test(prefix)
-            ? 'competencyByYourself'
-            : 'competencyByAssessor'
+          ? /by-individual/i.test(prefix)
+            ? 'competencyAssessmentByIndividual'
+            : 'competencyAssessmentByAssessor'
           : /assessment/i.test(prefix)
-            ? /by-yourself/i.test(prefix)
-              ? 'assessmentByYourself'
-              : 'assessmentByAssessor'
+            ? /by-individual/i.test(prefix)
+              ? 'psychometricAssessmentByIndividual'
+              : 'psychometricAssessmentByAssessor'
             : /continuing|professional|cpd|checklist/i.test(prefix)
               ? 'development'
               : /start-here/i.test(prefix)
@@ -363,23 +363,10 @@ function resolveLink(href: string, from: { kind: ResourceKind; slug: string }): 
                   : from.kind;
 
     if (kind !== 'summary' && !statSafe(kind, slug)) return null;
-    const base = RESOURCE_BASES[kind];
-    return `${base}/${slug}/`;
+    return resourceHref(kind, slug);
   }
   return null;
 }
-
-const RESOURCE_BASES: Record<ResourceKind, string> = {
-  summary: '/roles',
-  startHere: '/start-here',
-  upskilling: '/upskilling',
-  development: '/continuing-professional-development',
-  assessmentByAssessor: '/assessments-by-assessor',
-  assessmentByYourself: '/assessments-by-yourself',
-  competencyByAssessor: '/competency-assessments-by-assessor',
-  competencyByYourself: '/competency-assessments-by-yourself',
-  gapform: '/skills-gap-forms'
-};
 
 function statSafe(kind: ResourceKind, slug: string): boolean {
   return exists(kind, slug);
@@ -493,7 +480,7 @@ export function renderMarkdown(
   // checkboxes the same way. Every other document is prose and renders as
   // prose.
   const form =
-    from.kind === 'gapform'
+    from.kind === 'skillGapForm'
       ? createFormWriter()
       : from.kind === 'development'
         ? createChecklistWriter()
@@ -530,7 +517,7 @@ export function renderMarkdown(
   };
 
   let html = marked.parser(tokens, { renderer, gfm: true });
-  if (from.kind === 'assessmentByAssessor' || from.kind === 'assessmentByYourself') {
+  if (from.kind === 'psychometricAssessmentByAssessor' || from.kind === 'psychometricAssessmentByIndividual') {
     html = wrapAssessmentAnswers(html);
   }
   return { title, html, toc };

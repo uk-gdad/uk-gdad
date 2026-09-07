@@ -1,4 +1,4 @@
-# UK GDAD PCF competency assessments (by yourself)
+# UK GDAD PCF competency assessments (by individual)
 
 A self-rating competency assessment for every role level in the United
 Kingdom Government Digital and Data (GDAD) Profession Capability Framework
@@ -25,10 +25,10 @@ This is different from the documents it sits alongside:
 
 | Document | Question it answers | Who fills it in |
 | --- | --- | --- |
-| Competency assessment, by yourself (here) | Do I meet the baseline for this role level? | You, about yourself |
+| Competency assessment, by individual (here) | Do I meet the baseline for this role level? | You, about yourself |
 | [Competency assessment, by assessor](../uk-gdad-pcf-competency-assessments-by-assessor) | Does this person meet the baseline for this role level? | An assessor, about someone else |
 | [Skills gap form](../uk-gdad-pcf-roles-skills-gap-forms) | Where do I think my own gaps are, across tasks, skills and compliance? | The employee, about themselves |
-| [Psychometric assessment, by yourself](../uk-gdad-pcf-psychometric-assessments-by-yourself) | Can I reason and judge at the level the job needs? | You, as practice material |
+| [Psychometric assessment, by individual](../uk-gdad-pcf-psychometric-assessments-by-individual) | Can I reason and judge at the level the job needs? | You, as practice material |
 
 ## What a document contains
 

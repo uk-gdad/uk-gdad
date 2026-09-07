@@ -65,9 +65,9 @@ uk-gdad/
 ├── uk-gdad-pcf-upskilling-resources/            │
 ├── uk-gdad-pcf-continuing-professional-…/       │
 ├── uk-gdad-pcf-psychometric-assessments-by-assessor/  ├─ derived, mirror the
-├── uk-gdad-pcf-psychometric-assessments-by-yourself/  │  canonical (8 projects)
+├── uk-gdad-pcf-psychometric-assessments-by-individual/  │  canonical (8 projects)
 ├── uk-gdad-pcf-competency-assessments-by-assessor/    │
-├── uk-gdad-pcf-competency-assessments-by-yourself/    │
+├── uk-gdad-pcf-competency-assessments-by-individual/    │
 ├── uk-gdad-pcf-roles-skills-gap-forms/         ─┘
 ├── uk-gdad-pcf-skills-self-assessment/         A single-page rating tool
 └── uk-gdad.github.io/                          The published site
@@ -228,10 +228,10 @@ Same slug, in each of the other eight projects. Each has its own contract:
 - [CPD](uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) —
   the general sections from `spec/template.md`, plus a level-specific section.
 - [Assessments, by assessor](uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md)
-  and [by yourself](uk-gdad-pcf-psychometric-assessments-by-yourself/spec/index.md) —
+  and [by individual](uk-gdad-pcf-psychometric-assessments-by-individual/spec/index.md) —
   seven required sections each, including the advisory. Same contract, two voices.
 - [Competency assessments, by assessor](uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md)
-  and [by yourself](uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md) —
+  and [by individual](uk-gdad-pcf-competency-assessments-by-individual/spec/index.md) —
   nine required sections each, a `### Skill:` block per skill named exactly as
   the summary names it.
 - [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms/spec/index.md) — title
@@ -239,7 +239,7 @@ Same slug, in each of the other eight projects. Each has its own contract:
   numbered questions running in one sequence through the document.
 
 Write each one from the summary, never from a neighbouring level's document —
-except the two "by yourself" documents, which are written from their
+except the two "by individual" documents, which are written from their
 "by assessor" sibling instead (see each project's own `spec/index.md`).
 
 ### 4. Check
@@ -428,7 +428,7 @@ same baselines, same behavioural indicators — for two different readers:
 - **By yourself** — the same matrix, completed by you about yourself, with no
   assessor in the room. Generated from the by-assessor project by rewriting
   its voice, not drafted separately — see
-  [its own specification](uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md)
+  [its own specification](uk-gdad-pcf-competency-assessments-by-individual/spec/index.md)
   for exactly what changes and what carries over unchanged.
 
 The core of either is `## Competency matrix`: one `### Skill:` block per skill
@@ -499,11 +499,11 @@ It is the identity of a role level everywhere:
 | Upskilling | `uk-gdad-pcf-upskilling-resources/roles/<slug>.md` |
 | CPD | `uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md` |
 | Assessment (by assessor) | `uk-gdad-pcf-psychometric-assessments-by-assessor/roles/<slug>.md` |
-| Assessment (by yourself) | `uk-gdad-pcf-psychometric-assessments-by-yourself/roles/<slug>.md` |
+| Assessment (by individual) | `uk-gdad-pcf-psychometric-assessments-by-individual/roles/<slug>.md` |
 | Competency assessment (by assessor) | `uk-gdad-pcf-competency-assessments-by-assessor/roles/<slug>.md` |
-| Competency assessment (by yourself) | `uk-gdad-pcf-competency-assessments-by-yourself/roles/<slug>.md` |
+| Competency assessment (by individual) | `uk-gdad-pcf-competency-assessments-by-individual/roles/<slug>.md` |
 | Skills gap form | `uk-gdad-pcf-roles-skills-gap-forms/roles/<slug>.md` |
-| Website | `https://uk-gdad.github.io/roles/<slug>/` |
+| Website | `https://uk-gdad.github.io/<slug>/specification/` |
 
 Rules: kebab-case throughout; the profession is one of the eight; the number
 orders levels within a role starting at 1 with no gaps; `-management` marks the

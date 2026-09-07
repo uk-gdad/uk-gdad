@@ -17,9 +17,9 @@ truth. The reference docs below are the working knowledge that goes with it.
 @AGENTS/upskilling-resources.md
 @AGENTS/continuing-professional-development.md
 @AGENTS/assessments-by-assessor.md
-@AGENTS/assessments-by-yourself.md
+@AGENTS/assessments-by-individual.md
 @AGENTS/competency-assessments-by-assessor.md
-@AGENTS/competency-assessments-by-yourself.md
+@AGENTS/competency-assessments-by-individual.md
 @AGENTS/roles-skills-gap-forms.md
 @AGENTS/website.md
 @AGENTS/validation.md

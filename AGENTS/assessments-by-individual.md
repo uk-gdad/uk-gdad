@@ -1,6 +1,6 @@
-# Assessments (by yourself)
+# Assessments (by individual)
 
-Contract: [`uk-gdad-pcf-psychometric-assessments-by-yourself/spec/index.md`](../uk-gdad-pcf-psychometric-assessments-by-yourself/spec/index.md).
+Contract: [`uk-gdad-pcf-psychometric-assessments-by-individual/spec/index.md`](../uk-gdad-pcf-psychometric-assessments-by-individual/spec/index.md).
 
 See also [`AGENTS/assessments-by-assessor.md`](assessments-by-assessor.md), the
 sibling project written for the person administering an assessment rather
@@ -43,7 +43,7 @@ Sections 3–6 target ~4,000 words each. Length is not enforced.
 
 ## Read first
 
-The four reference files in `uk-gdad-pcf-psychometric-assessments-by-yourself/spec/`
+The four reference files in `uk-gdad-pcf-psychometric-assessments-by-individual/spec/`
 describe each assessment type — what it measures, how items are built, worked
 examples, pitfalls. The two files in `spec/legal/` describe the UK and US legal
 position.

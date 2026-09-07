@@ -48,7 +48,8 @@ cat roles/software-development/software-developer/4-senior-developer.md
 grep -o 'https\?://[^)]*' roles/data/data-analyst/2-data-analyst.md
 ```
 
-Or read it on the web: <https://uk-gdad.github.io/upskilling/>
+Or read it on the web, e.g.
+<https://uk-gdad.github.io/data/data-analyst/2-data-analyst/upskilling-resources/>
 
 ## Contributing
 

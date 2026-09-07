@@ -13,7 +13,7 @@ and capacity management — where this track leans toward leading a team and
 setting policy rather than doing the technical work directly. If deep
 technical delivery, rather than people and process leadership, is where you
 want to grow, the
-[senior DevOps engineer (technical)](https://uk-gdad.github.io/roles/software-development/development-operations-engineer/4-senior-devops-engineer/)
+[senior DevOps engineer (technical)](https://uk-gdad.github.io/software-development/development-operations-engineer/4-senior-devops-engineer/)
 page may fit better.
 
 ## Purpose
@@ -34,15 +34,15 @@ it.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/roles/software-development/development-operations-engineer/5-senior-devops-engineer-management/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/software-development/development-operations-engineer/5-senior-devops-engineer-management/): a structured assessment that an assessor can administer.
-- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/software-development/development-operations-engineer/5-senior-devops-engineer-management/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/software-development/development-operations-engineer/5-senior-devops-engineer-management/): a structured assessment that an assessor can administer.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/software-development/development-operations-engineer/5-senior-devops-engineer-management/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/software-development/development-operations-engineer/5-senior-devops-engineer-management/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/software-development/development-operations-engineer/5-senior-devops-engineer-management/): a form for comparing what you do now against what this level expects.
+- [Role summary](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Assessments (by individual)](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/upskilling/software-development/development-operations-engineer/5-senior-devops-engineer-management/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/development-operations-engineer/5-senior-devops-engineer-management/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

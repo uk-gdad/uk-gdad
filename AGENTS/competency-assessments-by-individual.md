@@ -1,6 +1,6 @@
-# Competency assessments (by yourself)
+# Competency assessments (by individual)
 
-Contract: [`uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md`](../uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md).
+Contract: [`uk-gdad-pcf-competency-assessments-by-individual/spec/index.md`](../uk-gdad-pcf-competency-assessments-by-individual/spec/index.md).
 
 See also [`AGENTS/competency-assessments-by-assessor.md`](competency-assessments-by-assessor.md),
 the sibling this project is derived from. The two share a matrix — same
@@ -21,7 +21,7 @@ against evidence but the person giving it. Every file says so in
 
 It is also not the [skills gap form](roles-skills-gap-forms.md), which covers
 job tasks and legal compliance as well as skills, and it is not the
-[psychometric assessment](assessments-by-yourself.md), which tests reasoning
+[psychometric assessment](assessments-by-individual.md), which tests reasoning
 and judgement through practice items rather than demonstrated skill.
 
 ## This project is generated from its sibling
@@ -41,7 +41,7 @@ The same nine `##` sections as the by-assessor sibling, in the same order —
 `bin/check` enforces both projects against the same section list:
 
 1. `## Introduction` — an invitation to rate yourself honestly, not a brief to an assessor
-2. `## Advisory` — the standing caution, verbatim (see [its own wording](../uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md#the-advisory) — it is not the same text as the sibling's)
+2. `## Advisory` — the standing caution, verbatim (see [its own wording](../uk-gdad-pcf-competency-assessments-by-individual/spec/index.md#the-advisory) — it is not the same text as the sibling's)
 3. `## How to use this assessment` — preparing, rating on your own evidence, staying consistent, staying kind to yourself
 4. `## Rating scale` — the same 0–4 proficiency scale, with the worked example reworded to "if you…"
 5. `## About this role level` — carried over unchanged from the sibling
@@ -54,7 +54,7 @@ The same nine `##` sections as the by-assessor sibling, in the same order —
 
 Read the sibling file for the same slug and the role summary, then rewrite
 only what needs a different voice — see
-[the project specification](../uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md)
+[the project specification](../uk-gdad-pcf-competency-assessments-by-individual/spec/index.md)
 § Writing the sections for exactly which sections are copied unchanged and
 which are rewritten, and how.
 

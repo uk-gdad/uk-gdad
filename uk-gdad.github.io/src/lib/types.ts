@@ -10,11 +10,11 @@ export type ResourceKind =
   | 'startHere'
   | 'upskilling'
   | 'development'
-  | 'assessmentByAssessor'
-  | 'assessmentByYourself'
-  | 'competencyByAssessor'
-  | 'competencyByYourself'
-  | 'gapform';
+  | 'psychometricAssessmentByAssessor'
+  | 'psychometricAssessmentByIndividual'
+  | 'competencyAssessmentByAssessor'
+  | 'competencyAssessmentByIndividual'
+  | 'skillGapForm';
 
 /** A role level: one markdown file per document kind, e.g. "Senior developer". */
 export type Level = {
@@ -84,76 +84,83 @@ export const RESOURCES: {
   kind: ResourceKind;
   title: string;
   short: string;
-  base: string;
+  /** Path segment appended after the slug, e.g. `<slug>/start/`. Empty for the bare slug. */
+  suffix: string;
   description: string;
 }[] = [
   {
     kind: 'startHere',
     title: 'Start here',
     short: 'Start here',
-    base: '/start-here',
+    suffix: '',
     description: 'A first orientation to the level, and a learning pathway to work through.'
   },
   {
     kind: 'summary',
     title: 'Role summary',
     short: 'Specification',
-    base: '/roles',
+    suffix: 'specification',
     description: 'What the role does, what the level is accountable for, and the skills it needs.'
   },
   {
     kind: 'upskilling',
     title: 'Upskilling resources',
     short: 'Upskilling',
-    base: '/upskilling',
+    suffix: 'upskilling-resources',
     description: 'Courses, blog posts, research, videos and books for learning the role.'
   },
   {
     kind: 'development',
     title: 'Continuing professional development',
     short: 'Development',
-    base: '/continuing-professional-development',
+    suffix: 'continuing-professional-development',
     description: 'A checklist for planning, doing and recording your ongoing development.'
   },
   {
-    kind: 'assessmentByAssessor',
+    kind: 'psychometricAssessmentByAssessor',
     title: 'Assessment (by assessor)',
     short: 'Assessment',
-    base: '/assessments-by-assessor',
+    suffix: 'assessment-by-assessor',
     description:
       'Cognitive, numeric, verbal and situational judgement items an assessor administers to a candidate.'
   },
   {
-    kind: 'assessmentByYourself',
-    title: 'Assessment (by yourself)',
+    kind: 'psychometricAssessmentByIndividual',
+    title: 'Assessment (by individual)',
     short: 'Practice',
-    base: '/assessments-by-yourself',
+    suffix: 'assessment-by-individual',
     description:
       'The same four assessment types, as practice material you work through on your own.'
   },
   {
-    kind: 'competencyByAssessor',
+    kind: 'competencyAssessmentByAssessor',
     title: 'Competency assessment (by assessor)',
     short: 'Competency',
-    base: '/competency-assessments-by-assessor',
+    suffix: 'competency-assessment-by-assessor',
     description:
       'A skill-by-skill competency matrix an assessor rates a candidate or employee against.'
   },
   {
-    kind: 'competencyByYourself',
-    title: 'Competency assessment (by yourself)',
+    kind: 'competencyAssessmentByIndividual',
+    title: 'Competency assessment (by individual)',
     short: 'Self-rating',
-    base: '/competency-assessments-by-yourself',
+    suffix: 'competency-assessment-by-individual',
     description: 'practice material for this kind of assessment that you can try on your own.'
   },
   {
-    kind: 'gapform',
+    kind: 'skillGapForm',
     title: 'Skills gap form',
     short: 'Gap form',
-    base: '/skills-gap-forms',
+    suffix: 'skills-gap-form',
     description: 'A form to fill in about the skills this level needs, and where your gaps are.'
   }
 ];
+
+/** The site URL for one document, e.g. `resourceHref('startHere', slug)` -> `/<slug>/start/`. */
+export function resourceHref(kind: ResourceKind, slug: string): string {
+  const suffix = RESOURCES.find((resource) => resource.kind === kind)!.suffix;
+  return suffix ? `/${slug}/${suffix}/` : `/${slug}/`;
+}
 
 /** Turn a title into a URL-safe slug. */
 export function slugify(text: string): string {
@@ -165,7 +172,7 @@ export function slugify(text: string): string {
 
 /**
  * A rest parameter keeps the trailing slash that `trailingSlash: 'always'`
- * appends, so `/roles/a/b/c/` arrives as `a/b/c/`. Content lookups need the
+ * appends, so `/a/b/c/` arrives as `a/b/c/`. Content lookups need the
  * bare path.
  */
 export function normalizeSlug(slug: string): string {

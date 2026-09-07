@@ -32,9 +32,9 @@ Nine links, to the sibling page for this exact role level on each of:
 
 1. Role summary
 2. Assessments (by assessor) — the assessor-administered project
-3. Assessments (by yourself) — the self-practice project
+3. Assessments (by individual) — the self-practice project
 4. Competency assessment (by assessor) — the assessor-administered project
-5. Competency assessment (by yourself) — the self-rating project
+5. Competency assessment (by individual) — the self-rating project
 6. Continuing professional development
 7. Skills gap form
 8. Skills self-assessment (the one page that is not per-level — link the tool

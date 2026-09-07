@@ -58,7 +58,7 @@
       and situational judgement items an assessor administers to a candidate.
     </li>
     <li>
-      <strong>Assessment, by yourself</strong> — the same four assessment types, as practice
+      <strong>Assessment, by individual</strong> — the same four assessment types, as practice
       material you work through on your own.
     </li>
     <li>
@@ -66,7 +66,7 @@
       rates a candidate or employee against, on a 0–4 proficiency scale.
     </li>
     <li>
-      <strong>Competency assessment, by yourself</strong> — the same matrix, generated from its
+      <strong>Competency assessment, by individual</strong> — the same matrix, generated from its
       sibling, for you to rate yourself against.
     </li>
     <li>

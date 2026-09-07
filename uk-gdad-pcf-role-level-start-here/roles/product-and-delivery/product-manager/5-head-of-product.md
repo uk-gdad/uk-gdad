@@ -25,15 +25,15 @@ well to building the organisation's capacity to do it.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/roles/product-and-delivery/product-manager/5-head-of-product/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/product-and-delivery/product-manager/5-head-of-product/): a structured assessment that an assessor can administer.
-- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/product-and-delivery/product-manager/5-head-of-product/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/product-and-delivery/product-manager/5-head-of-product/): a structured assessment that an assessor can administer.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/product-and-delivery/product-manager/5-head-of-product/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/product-and-delivery/product-manager/5-head-of-product/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/product-and-delivery/product-manager/5-head-of-product/): a form for comparing what you do now against what this level expects.
+- [Role summary](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Assessments (by individual)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/upskilling/product-and-delivery/product-manager/5-head-of-product/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

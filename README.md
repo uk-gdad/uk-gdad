@@ -29,9 +29,9 @@ form for an employee to fill in.
 | [Upskilling resources](uk-gdad-pcf-upskilling-resources) | Courses, blog posts, research, videos, books | 205 |
 | [CPD checklists](uk-gdad-pcf-continuing-professional-development-checklists) | Continuing professional development, per level | 205 |
 | [Psychometric assessments (by assessor)](uk-gdad-pcf-psychometric-assessments-by-assessor) | Cognitive, numeric, verbal and situational judgement items an assessor administers | 205 |
-| [Assessments (by yourself)](uk-gdad-pcf-psychometric-assessments-by-yourself) | The same four assessment types, as practice material you work through yourself | 205 |
+| [Assessments (by individual)](uk-gdad-pcf-psychometric-assessments-by-individual) | The same four assessment types, as practice material you work through yourself | 205 |
 | [Competency assessments (by assessor)](uk-gdad-pcf-competency-assessments-by-assessor) | A skill-by-skill competency matrix an assessor rates a candidate against | 205 |
-| [Competency assessments (by yourself)](uk-gdad-pcf-competency-assessments-by-yourself) | The same matrix, rated by you about yourself | 205 |
+| [Competency assessments (by individual)](uk-gdad-pcf-competency-assessments-by-individual) | The same matrix, rated by you about yourself | 205 |
 | [Skills gap forms](uk-gdad-pcf-roles-skills-gap-forms) | A form HR sends and an employee fills in, one per level | 205 |
 | [Skills self-assessment](uk-gdad-pcf-skills-self-assessment) | A single-page tool for rating yourself | 1 |
 | [Website](uk-gdad.github.io) | The published static site | — |
@@ -60,9 +60,9 @@ cat uk-gdad-pcf-role-summaries/roles/$SLUG.md
 cat uk-gdad-pcf-upskilling-resources/roles/$SLUG.md
 cat uk-gdad-pcf-continuing-professional-development-checklists/roles/$SLUG.md
 cat uk-gdad-pcf-psychometric-assessments-by-assessor/roles/$SLUG.md
-cat uk-gdad-pcf-psychometric-assessments-by-yourself/roles/$SLUG.md
+cat uk-gdad-pcf-psychometric-assessments-by-individual/roles/$SLUG.md
 cat uk-gdad-pcf-competency-assessments-by-assessor/roles/$SLUG.md
-cat uk-gdad-pcf-competency-assessments-by-yourself/roles/$SLUG.md
+cat uk-gdad-pcf-competency-assessments-by-individual/roles/$SLUG.md
 cat uk-gdad-pcf-roles-skills-gap-forms/roles/$SLUG.md
 
 # Which levels need a given skill?
@@ -104,9 +104,9 @@ role summary ──┬──> start here
                ├──> upskilling resources
                ├──> CPD checklist
                ├──> psychometric assessment (by assessor)
-               ├──> psychometric assessment (by yourself)
+               ├──> psychometric assessment (by individual)
                ├──> competency assessment (by assessor)
-               ├──> competency assessment (by yourself)
+               ├──> competency assessment (by individual)
                └──> skills gap form
 ```
 

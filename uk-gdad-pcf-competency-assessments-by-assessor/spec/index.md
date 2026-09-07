@@ -40,7 +40,7 @@ says so in its `## Advisory` section, and that section is required.
 | --- | --- | --- |
 | A performance review | A management process the organisation owns | Not here |
 | A psychometric assessment | Tests reasoning and judgement through practice items an assessor administers | `uk-gdad-pcf-psychometric-assessments-by-assessor` |
-| The same matrix, self-rated | This exact matrix, completed by the reader about themselves | `uk-gdad-pcf-competency-assessments-by-yourself` |
+| The same matrix, self-rated | This exact matrix, completed by the reader about themselves | `uk-gdad-pcf-competency-assessments-by-individual` |
 | A self-rated skills gap form | The employee's own view of their own gaps | `uk-gdad-pcf-roles-skills-gap-forms` |
 | A whole-catalogue self-rating | 189 skills, no role context, nothing saved | `uk-gdad-pcf-skills-self-assessment` |
 | Legal advice | Named duties, not interpreted ones | See [Fair and lawful use](#fair-and-lawful-use) |

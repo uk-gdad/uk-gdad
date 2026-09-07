@@ -95,9 +95,9 @@ exactly; a prefix match conflates them.
 | [`uk-gdad-pcf-upskilling-resources`](../uk-gdad-pcf-upskilling-resources/spec/index.md)                                                     | Courses, posts, research, videos, books                   | 205       |
 | [`uk-gdad-pcf-continuing-professional-development-checklists`](../uk-gdad-pcf-continuing-professional-development-checklists/spec/index.md) | CPD checklists                                            | 205       |
 | [`uk-gdad-pcf-psychometric-assessments-by-assessor`](../uk-gdad-pcf-psychometric-assessments-by-assessor/spec/index.md)                     | Assessor-administered psychometric assessments             | 205       |
-| [`uk-gdad-pcf-psychometric-assessments-by-yourself`](../uk-gdad-pcf-psychometric-assessments-by-yourself/spec/index.md)                     | Self-practice psychometric assessment material              | 205       |
+| [`uk-gdad-pcf-psychometric-assessments-by-individual`](../uk-gdad-pcf-psychometric-assessments-by-individual/spec/index.md)                     | Self-practice psychometric assessment material              | 205       |
 | [`uk-gdad-pcf-competency-assessments-by-assessor`](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md)                         | Assessor-administered competency matrices                  | 205       |
-| [`uk-gdad-pcf-competency-assessments-by-yourself`](../uk-gdad-pcf-competency-assessments-by-yourself/spec/index.md)                         | Self-rating competency matrices                             | 205       |
+| [`uk-gdad-pcf-competency-assessments-by-individual`](../uk-gdad-pcf-competency-assessments-by-individual/spec/index.md)                         | Self-rating competency matrices                             | 205       |
 | [`uk-gdad-pcf-roles-skills-gap-forms`](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md)                                                 | Skills gap forms, sent by HR and filled in by an employee | 205       |
 | [`uk-gdad-pcf-skills-self-assessment`](../uk-gdad-pcf-skills-self-assessment/spec/index.md)                                                 | A standalone self-rating tool                             | 1         |
 | [`uk-gdad.github.io`](../uk-gdad.github.io/spec/index.md)                                                                                   | The published website                                     | —         |
@@ -284,9 +284,9 @@ role summary ──┬──> start here
                ├──> upskilling resources
                ├──> CPD checklist
                ├──> psychometric assessment (by assessor)
-               ├──> psychometric assessment (by yourself)
+               ├──> psychometric assessment (by individual)
                ├──> competency assessment (by assessor)
-               ├──> competency assessment (by yourself)
+               ├──> competency assessment (by individual)
                └──> skills gap form
 ```
 

@@ -23,15 +23,15 @@ senior.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/roles/software-development/frontend-developer/5-lead-frontend-developer/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/software-development/frontend-developer/5-lead-frontend-developer/): a structured assessment that an assessor can administer.
-- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/software-development/frontend-developer/5-lead-frontend-developer/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/software-development/frontend-developer/5-lead-frontend-developer/): a structured assessment that an assessor can administer.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/software-development/frontend-developer/5-lead-frontend-developer/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/software-development/frontend-developer/5-lead-frontend-developer/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/software-development/frontend-developer/5-lead-frontend-developer/): a form for comparing what you do now against what this level expects.
+- [Role summary](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Assessments (by individual)](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/upskilling/software-development/frontend-developer/5-lead-frontend-developer/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/frontend-developer/5-lead-frontend-developer/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

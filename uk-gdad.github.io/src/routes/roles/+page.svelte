@@ -59,7 +59,7 @@
   <ul class="result-list">
     {#each matches as row (row.slug)}
       <li>
-        <a href="/roles/{row.slug}/">{row.levelTitle}</a>
+        <a href="/{row.slug}/">{row.levelTitle}</a>
         {#if !row.inUse}<Badge type="warning">Not in use</Badge>{/if}
         <span class="result-meta">{row.roleTitle} · {row.professionTitle}</span>
       </li>

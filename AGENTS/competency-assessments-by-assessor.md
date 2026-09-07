@@ -2,7 +2,7 @@
 
 Contract: [`uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md`](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md).
 
-See also [`AGENTS/competency-assessments-by-yourself.md`](competency-assessments-by-yourself.md),
+See also [`AGENTS/competency-assessments-by-individual.md`](competency-assessments-by-individual.md),
 the sibling project that carries the same matrix — same skills, same
 baselines, same behavioural indicators — rewritten for the reader to complete
 about themselves rather than for an assessor judging someone else.

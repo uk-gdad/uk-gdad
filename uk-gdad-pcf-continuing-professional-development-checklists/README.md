@@ -43,7 +43,8 @@ sed -n '/## UK GDAD PCF Role Skill Specifics/,$p' \
   roles/software-development/software-developer/4-senior-developer.md
 ```
 
-Or read it on the web: <https://uk-gdad.github.io/continuing-professional-development/>
+Or read it on the web, e.g.
+<https://uk-gdad.github.io/software-development/software-developer/4-senior-developer/continuing-professional-development/>
 
 ## Advisory
 

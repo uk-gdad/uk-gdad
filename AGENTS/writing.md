@@ -86,7 +86,7 @@ here:
   quoted verbatim in all 205 of that project's files, and the whole block is
   skipped rather than the line — only two of its four lines carry a phrase
   worth matching on, and it is the fourth that holds the spelling.
-- **`uk-gdad-pcf-psychometric-assessments-by-yourself`'s advisory** keeps the
+- **`uk-gdad-pcf-psychometric-assessments-by-individual`'s advisory** keeps the
   same "organization's"/"organizational" wording, for the same reason as the
   skills gap form's: it is the original self-practice advisory, unchanged
   since before the project was split. Its sibling,

@@ -6,11 +6,12 @@
   import InsetText from '$lib/lily/InsetText.svelte';
   import SummaryList from '$lib/lily/SummaryList.svelte';
   import SummaryListItem from '$lib/lily/SummaryListItem.svelte';
-  import { RESOURCES } from '$lib/types';
+  import { RESOURCES, resourceHref } from '$lib/types';
 
   let { data } = $props();
 
   const otherResources = RESOURCES.filter((resource) => resource.kind !== 'summary');
+  const resourceTitle = RESOURCES.find((resource) => resource.kind === 'summary')!.title;
 </script>
 
 <svelte:head>
@@ -27,7 +28,8 @@
     { href: '/', label: 'Home' },
     { href: '/professions/', label: 'Professions' },
     { href: `/professions/${data.profession.slug}/`, label: data.profession.title },
-    { label: data.level.title }
+    { href: `/${data.slug}/`, label: data.level.title },
+    { label: resourceTitle }
   ]}
 />
 
@@ -119,7 +121,7 @@
         <ul class="level-list">
           {#each data.siblings as sibling (sibling.slug)}
             <li>
-              <a href="/roles/{sibling.slug}/" aria-current={sibling.slug === data.slug ? 'page' : undefined}>
+              <a href={resourceHref('summary', sibling.slug)} aria-current={sibling.slug === data.slug ? 'page' : undefined}>
                 {#if sibling.order !== null}
                   <span class="level-list-number">{sibling.order}</span>
                 {/if}
@@ -144,7 +146,7 @@
     {#each otherResources as resource (resource.kind)}
       <li>
         {#if data.level.has[resource.kind]}
-          <Card heading={resource.title} href="{resource.base}/{data.slug}/">
+          <Card heading={resource.title} href={resourceHref(resource.kind, data.slug)}>
             <p>{resource.description}</p>
           </Card>
         {:else}

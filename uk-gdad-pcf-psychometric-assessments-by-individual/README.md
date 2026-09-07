@@ -1,4 +1,4 @@
-# UK GDAD PCF assessments (by yourself)
+# UK GDAD PCF assessments (by individual)
 
 Practice psychometric assessment material for every role level in the United
 Kingdom Government Digital and Data (GDAD) Profession Capability Framework
@@ -65,7 +65,8 @@ The legal position, which constrains what may be written and how it may be used:
 cat roles/data/data-analyst/3-senior-data-analyst.md
 ```
 
-Or read it on the web: <https://uk-gdad.github.io/assessments-by-yourself/>
+Or read it on the web, e.g.
+<https://uk-gdad.github.io/data/data-analyst/3-senior-data-analyst/assessment-by-individual/>
 
 This is the largest project here — around 3.5 million words. Individual files
 run to tens of thousands of words, so the website is usually the easier way in.

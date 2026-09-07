@@ -48,9 +48,9 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | `content/upskilling-resources/` | `uk-gdad-pcf-upskilling-resources/roles/` |
 | `content/continuing-professional-development-checklists/` | `uk-gdad-pcf-continuing-professional-development-checklists/roles/` |
 | `content/assessments-by-assessor/` | `uk-gdad-pcf-psychometric-assessments-by-assessor/roles/` |
-| `content/assessments-by-yourself/` | `uk-gdad-pcf-psychometric-assessments-by-yourself/roles/` |
+| `content/assessments-by-individual/` | `uk-gdad-pcf-psychometric-assessments-by-individual/roles/` |
 | `content/competency-assessments-by-assessor/` | `uk-gdad-pcf-competency-assessments-by-assessor/roles/` |
-| `content/competency-assessments-by-yourself/` | `uk-gdad-pcf-competency-assessments-by-yourself/roles/` |
+| `content/competency-assessments-by-individual/` | `uk-gdad-pcf-competency-assessments-by-individual/roles/` |
 | `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
 | `src/lib/lily/` | Lily Design System headless components, per `bin/lily-components.txt` |
 | `src/lib/lily-helpers/` | Lily Design System helper components (theme, text size, share pickers), per `bin/lily-helper-components.txt` |
@@ -60,7 +60,11 @@ Never edit a vendored file. Edit the source and re-run `bin/sync`.
 
 ## URLs
 
-Trailing slashes always. The slug from the root specification is the path.
+Trailing slashes always. The slug from the root specification is the path, and
+every per-level document lives under it: the bare slug is the level's landing
+page (the start-here document — a friendly introduction, not the
+specification), and every other document kind is a further path segment
+after it — `<slug>/<kind>/` — rather than a prefix before it.
 
 | Path | Page | Count |
 | --- | --- | ---: |
@@ -68,20 +72,26 @@ Trailing slashes always. The slug from the root specification is the path.
 | `/professions/` | All professions | 1 |
 | `/professions/<profession>/` | One profession, its roles and levels | 8 |
 | `/roles/` | Role finder, searchable | 1 |
-| `/roles/<slug>/` | Role summary, parsed into sections | 205 |
-| `/start-here/<slug>/` | Start here: orientation and learning pathway | 205 |
-| `/upskilling/<slug>/` | Upskilling resources | 205 |
-| `/continuing-professional-development/<slug>/` | CPD checklist | 205 |
-| `/assessments-by-assessor/<slug>/` | Assessor-administered assessment | 205 |
-| `/assessments-by-yourself/<slug>/` | Self-practice assessment | 205 |
-| `/competency-assessments-by-assessor/<slug>/` | Assessor-administered competency matrix | 205 |
-| `/competency-assessments-by-yourself/<slug>/` | Self-rating competency matrix | 205 |
-| `/skills-gap-forms/<slug>/` | Skills gap form | 205 |
+| `/<slug>/` | Start here: friendly introduction and learning pathway | 205 |
+| `/<slug>/specification/` | Role summary, parsed into sections | 205 |
+| `/<slug>/upskilling-resources/` | Upskilling resources | 205 |
+| `/<slug>/continuing-professional-development/` | CPD checklist | 205 |
+| `/<slug>/assessment-by-assessor/` | Assessor-administered assessment | 205 |
+| `/<slug>/assessment-by-individual/` | Self-practice assessment | 205 |
+| `/<slug>/competency-assessment-by-assessor/` | Assessor-administered competency matrix | 205 |
+| `/<slug>/competency-assessment-by-individual/` | Self-rating competency matrix | 205 |
+| `/<slug>/skills-gap-form/` | Skills gap form | 205 |
 | `/skills/` | All skills, searchable | 1 |
 | `/skills/<skill>/` | One skill and every level that expects it | 183 |
 | `/skills-self-assessment/` | The self-assessment tool | 1 |
 | `/about/` | Provenance, licensing, how it is built | 1 |
 | `/sitemap.xml` | Every URL above | 1 |
+
+`/roles/` (the finder) and `/<slug>/` (a specific role level) are both static
+and rest-parameter routes respectively at the site root; SvelteKit always
+prefers the more specific static route, so they never collide, and neither
+does any other top-level static path (`/professions/`, `/skills/`, `/about/`,
+`/skills-self-assessment/`) — none of them is a profession slug.
 
 A URL that 404s at build time fails the build. Prerendering crawls every link.
 

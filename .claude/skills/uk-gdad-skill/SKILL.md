@@ -35,25 +35,25 @@ Given a slug, these are the pages that exist for it on the website:
 
 | Page | URL | What it is |
 | --- | --- | --- |
-| Role summary | `/roles/<slug>/` | What the framework says the level is accountable for, and its skills |
-| Start here | `/start-here/<slug>/` | A first orientation and a learning pathway |
-| Upskilling | `/upskilling/<slug>/` | Courses, articles, videos, books |
-| CPD checklist | `/continuing-professional-development/<slug>/` | Things to do to keep developing |
-| Assessment, by assessor | `/assessments-by-assessor/<slug>/` | Practice items written for someone else to administer to a candidate, with the answer key held back |
-| Assessment, by yourself | `/assessments-by-yourself/<slug>/` | The same four assessment types, to work through alone — try each question before reading the answer |
-| Competency assessment, by assessor | `/competency-assessments-by-assessor/<slug>/` | A skill-by-skill matrix an assessor rates a candidate or employee against, 0–4 |
-| Competency assessment, by yourself | `/competency-assessments-by-yourself/<slug>/` | The same matrix, generated from its sibling, for you to rate yourself against |
-| Skills gap form | `/skills-gap-forms/<slug>/` | A form to compare what you do now against what the level expects — fillable on the page, saved in your own browser |
+| Start here | `/<slug>/` | A friendly introduction to the level and a learning pathway — the landing page |
+| Role summary | `/<slug>/specification/` | What the framework says the level is accountable for, and its skills |
+| Upskilling | `/<slug>/upskilling-resources/` | Courses, articles, videos, books |
+| CPD checklist | `/<slug>/continuing-professional-development/` | Things to do to keep developing |
+| Assessment, by assessor | `/<slug>/assessment-by-assessor/` | Practice items written for someone else to administer to a candidate, with the answer key held back |
+| Assessment, by individual | `/<slug>/assessment-by-individual/` | The same four assessment types, to work through alone — try each question before reading the answer |
+| Competency assessment, by assessor | `/<slug>/competency-assessment-by-assessor/` | A skill-by-skill matrix an assessor rates a candidate or employee against, 0–4 |
+| Competency assessment, by individual | `/<slug>/competency-assessment-by-individual/` | The same matrix, generated from its sibling, for you to rate yourself against |
+| Skills gap form | `/<slug>/skills-gap-form/` | A form to compare what you do now against what the level expects — fillable on the page, saved in your own browser |
 
 **Neither pair is interchangeable, in the same way.** For assessments: "by
 assessor" is written for whoever is running a hiring panel or capability
-review — it holds the answer key back from the candidate. "By yourself" is
+review — it holds the answer key back from the candidate. "By individual" is
 the same four assessment types rewritten as practice material, meant to be
 read straight through, answer included. Point someone preparing for an
-interview at "by yourself"; point someone running one at "by assessor". For
+interview at "by individual"; point someone running one at "by assessor". For
 competency assessments, both share the exact same skill matrix, baselines
 and behavioural indicators — the only difference is who is filling it in:
-"by assessor" is a manager or panel judging someone else, "by yourself" is
+"by assessor" is a manager or panel judging someone else, "by individual" is
 the reader judging themselves.
 
 ## Self-assessment across the whole framework

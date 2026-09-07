@@ -22,15 +22,15 @@ simple ones.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/roles/data/analytics-engineer/3-senior-analytics-engineer/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/assessments-by-assessor/data/analytics-engineer/3-senior-analytics-engineer/): a structured assessment that an assessor can administer.
-- [Assessments (by yourself)](https://uk-gdad.github.io/assessments-by-yourself/data/analytics-engineer/3-senior-analytics-engineer/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/competency-assessments-by-assessor/data/analytics-engineer/3-senior-analytics-engineer/): a structured assessment that an assessor can administer.
-- [Competency assessment (by yourself)](https://uk-gdad.github.io/competency-assessments-by-yourself/data/analytics-engineer/3-senior-analytics-engineer/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/continuing-professional-development/data/analytics-engineer/3-senior-analytics-engineer/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/skills-gap-forms/data/analytics-engineer/3-senior-analytics-engineer/): a form for comparing what you do now against what this level expects.
+- [Role summary](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Assessments (by individual)](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/upskilling/data/analytics-engineer/3-senior-analytics-engineer/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/data/analytics-engineer/3-senior-analytics-engineer/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
