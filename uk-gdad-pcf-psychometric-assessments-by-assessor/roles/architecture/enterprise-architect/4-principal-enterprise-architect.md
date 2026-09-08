@@ -974,6 +974,4 @@ As next steps, consider three things. First, administer this assessment the same
 
 An assessment like this can feel like a test of a candidate's worth. It is not; it is a snapshot of practised skills, observed once, under time pressure, by one assessor. Administer it consistently, score it fairly, and use it as one part of a rounded judgement about a role where clear thinking under complexity is the job itself.
 
----
-
 *Administration tip: revisit this resource periodically as the role evolves, and share it with colleagues who also assess candidates for this role level.*

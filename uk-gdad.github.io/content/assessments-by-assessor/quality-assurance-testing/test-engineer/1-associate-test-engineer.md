@@ -894,6 +894,4 @@ Along the way, a candidate is asked to demonstrate the four families of thinking
 
 **Records and consistency.** Keep the completed answer sheet, your scoring notes, and the items used on file, in line with your organisation's recruitment record-keeping policy, and administer the same items and time limits to every candidate for this role level in a given process. Treat this assessment as one input among several: combine it with a structured interview, a work sample, and reference information, and never let it stand alone as the basis for a hiring, promotion, pay, performance, or disciplinary decision.
 
----
-
 *Note for assessors: revisit this material periodically as the role and the framework evolve, and update items that reference tools or ways of working that have since changed in your organisation.*

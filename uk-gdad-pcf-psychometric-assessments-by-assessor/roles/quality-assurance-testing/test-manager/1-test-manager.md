@@ -849,6 +849,4 @@ This material covers a great deal of ground for a candidate to demonstrate: the 
 
 **Records and consistency.** Keep the completed answer sheet, your scoring notes, and the items you used on file, in line with your organisation's recruitment record-keeping policy, and administer the same items and time limits to every candidate for this role level in a given process. If you vary the material between candidates, you lose the ability to compare them fairly and you increase the risk of adverse impact — see the advisory above. Treat this assessment as one input among several: combine it with a structured interview, a work sample, and reference information, and never let it stand alone as the basis for a hiring, promotion, pay, performance, or disciplinary decision.
 
----
-
 *Note for assessors: revisit this material periodically as the role and the framework evolve, and update items that reference tools, contract terms, or ways of working that have since changed in your organisation.*

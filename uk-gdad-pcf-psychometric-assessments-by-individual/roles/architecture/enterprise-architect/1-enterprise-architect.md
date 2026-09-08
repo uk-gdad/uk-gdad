@@ -1042,6 +1042,4 @@ As next steps, consider revisiting the questions you found hardest and articulat
 
 Above all, treat this as one strand of continuous professional development. The skills tested here — architecting for the whole context, communicating with clarity, thinking commercially, collaborating generously, deciding transparently and shaping strategy — grow throughout a career. Keep practising, keep reflecting, and keep developing the community around you as you develop yourself. You are ready for this. Good luck!
 
----
-
 Professional development tip: discuss your practice results with a mentor, a peer architect, or your line manager as part of your regular development conversations — turning individual practice into shared learning is itself an enterprise architecture habit worth modelling.

@@ -1061,6 +1061,4 @@ As next steps, consider returning to the questions you found hardest after a few
 
 Be encouraged: the fact that you have worked through this material carefully is itself evidence of the professional seriousness the role demands. Psychometric assessments, approached this way, stop being hurdles and become mirrors — and leaders who look in the mirror regularly keep improving. Good luck with whatever assessment, appointment, or development conversation lies ahead. Your organisation, and the citizens whose data it holds, benefit directly from the care you bring to this work.
 
----
-
 Professional development tip: revisit this resource quarterly, and pair each visit with one real improvement to your organisation's governance practice — the strongest preparation for any assessment is doing the job well.

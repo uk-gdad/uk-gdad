@@ -606,8 +606,6 @@ At associate level, the passages below use realistic but accessible language, an
 
 For each passage, answer the statements strictly from the text. The explanations quote the exact wording that decides each answer.
 
----
-
 **Passage A - Hosting policy extract**
 
 "All new services must be hosted on the approved cloud platform unless an exemption is granted by the architecture review board. Exemptions are granted only where a service has a demonstrable technical requirement that the approved platform cannot meet. Services hosted under an exemption must be reviewed annually. Existing services are encouraged, but not required, to migrate to the approved platform."
@@ -636,8 +634,6 @@ For each passage, answer the statements strictly from the text. The explanations
 
 **Explanation:** The second sentence restricts exemptions tightly: they are granted "only where a service has a demonstrable technical requirement that the approved platform cannot meet". The word "only" excludes every other ground, including cost. If the platform can fully meet the requirements, the sole permitted ground is absent, so a cost-based exemption would contradict the policy. Watch for "only" in policy texts - it is one of the most decision-relevant words in the English language, and one of the easiest to skim past.
 
----
-
 **Passage B - Email from a delivery manager**
 
 "Hi - quick update before Thursday's review. The payments team has finished the integration design and the security team has reviewed it, though they have asked for two changes to the key-handling approach before they will sign it off. The performance figures look fine on current volumes, but we have not yet tested at the volumes forecast for next spring. I would like the architecture session on Thursday to focus on the key-handling changes, as the deadline for the security sign-off is the end of the month."
@@ -664,8 +660,6 @@ D) That the sign-off deadline be moved to the end of the month.
 **Correct answer: B**
 
 **Explanation:** The request is explicit: "I would like the architecture session on Thursday to focus on the key-handling changes". Option B restates this almost word for word. Option A reverses the direction of the request - the writer wants to address the changes, not resist them. Option C is a plausible future action the email hints at, but it is not requested. Option D misreads the deadline: the end of the month is stated as the existing deadline, not a proposed change. In busy weeks you will read dozens of such emails; extracting the actual request, rather than a nearby plausible idea, is what keeps your support to senior architects genuinely useful.
-
----
 
 **Passage C - Technology standards note**
 
@@ -694,8 +688,6 @@ D) That the sign-off deadline be moved to the end of the month.
 **Correct answer: Cannot Say**
 
 **Explanation:** The text says decision records "are reviewed by" the community of practice. Reviewing is not necessarily approving or rejecting - a review might be advisory, or for information, or might indeed carry approval power; the passage simply does not say what the review's authority is. Because the text is silent on approval power, the answer is Cannot Say. Be alert to verbs like "reviewed", "considered", and "assured": they describe governance activity without defining decision rights, and assuming decision rights that a document does not grant is a common and costly misreading.
-
----
 
 **Passage D - Strategy extract**
 
@@ -729,8 +721,6 @@ D) Outsourcing all common capabilities to external suppliers.
 **Correct answer: True**
 
 **Explanation:** The second sentence lists examples: "common capabilities - such as document storage, identity, and notifications". Identity is explicitly named as an example of a common capability, so the statement is True. Note the role of "such as": it signals a non-exhaustive list, so the strategy may treat other capabilities as common too - but the statement only claims identity is one of them, which the text directly supports. Had the statement said "identity and payments", the answer would change to Cannot Say, because payments is not mentioned. Precision about exactly what is claimed, clause by clause, is how you avoid both over-reading and under-reading.
-
----
 
 **Passage E - Design review feedback note**
 

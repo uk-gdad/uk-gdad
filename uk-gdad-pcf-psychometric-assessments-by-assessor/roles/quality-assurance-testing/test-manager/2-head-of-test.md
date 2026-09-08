@@ -825,6 +825,4 @@ You now have a complete set of materials for administering a head of test assess
 
 Before you use this with a real candidate, work through the items yourself. Time yourself running a section, read every explanation, and note which items feel like they need adjusting for your own organisation's context — a supplier framework clause, a budget figure, or a governance structure that does not quite match how your organisation works. Treat this guide as a starting point that a competent assessor reviews and adapts, not a finished instrument to run unmodified. Good luck administering it — and remember that a fair process is worth as much as an accurate one.
 
----
-
 *A note for the assessor: revisit this guide periodically as the role evolves, and before each use, check that the scenarios still reflect how your organisation actually works. The items that feel hardest to score are often the ones testing capabilities your organisation is only now learning to value explicitly.*

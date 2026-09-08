@@ -992,6 +992,4 @@ You have now worked through all four sections of this assessment: cognitive, num
 
 If you have questions about how to use this material fairly and lawfully, talk to your organisation's human resources, people development, occupational psychology or legal compliance colleagues before relying on it — see the advisory above.
 
----
-
 Administration tip: keep this resource and your scoring notes on file, and reuse the same items for every candidate assessed against this role level — consistency across a recruitment round is what keeps the result fair and defensible.

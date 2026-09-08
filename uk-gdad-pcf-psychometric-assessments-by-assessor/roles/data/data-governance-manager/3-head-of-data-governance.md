@@ -1069,6 +1069,4 @@ When scoring, work from the worked explanations above as your answer key, and re
 
 Administer the same questions and time limits to every candidate assessed against this role level, and keep your scoring notes on file. Treat the result as one input into a wider decision — alongside the interview, references and any other evidence you hold — never as the sole basis for it. This instrument is not validated, not normed and not checked for adverse impact, so consistency across candidates and careful record-keeping are what make it defensible; consult your organisation's human resources, people development or legal colleagues if anything about a candidate's circumstances calls the standard process into question.
 
----
-
 Administration tip: revisit this resource each time you run the assessment, and keep it aligned with your organisation's current governance practice and the role's evolving accountabilities — the strongest assessment material is one that keeps pace with the job it tests.

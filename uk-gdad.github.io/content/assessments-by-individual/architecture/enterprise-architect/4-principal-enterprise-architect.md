@@ -970,6 +970,4 @@ As next steps, consider three things. First, revisit the questions you found har
 
 Assessments can feel like a test of worth. They are not; they are a snapshot of practised skills, and skills respond to practice. You operate at a level where clear thinking under complexity is the job itself - approach any assessment as another day of doing what you already do, with a little more polish and a lot less mystery. Good luck. You are better prepared than you were when you started this document, and that is the entire point.
 
----
-
 *Professional development tip: revisit this resource periodically as your role evolves, and share it with colleagues who are developing towards this role level.*

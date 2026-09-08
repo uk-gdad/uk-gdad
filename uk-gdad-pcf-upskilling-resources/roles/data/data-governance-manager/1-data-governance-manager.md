@@ -4,8 +4,6 @@
 
 A data governance manager plans, monitors and enforces the management of data assets. This role involves cataloguing, monitoring and identifying data assets, assigning ownership, incorporating governance into routine processes, supporting risk processes, and advocating for better use and management of data within the organisation.
 
----
-
 ## Coursera courses
 
 1. **Data Governance with Dataplex Universal Catalog**
@@ -76,8 +74,6 @@ A data governance manager plans, monitors and enforces the management of data as
    - URL: https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/
    - Summary: Covers spatial database management and advanced GIS topics, providing foundational knowledge for managing and governing spatial data assets.
 
----
-
 ## Blog posts
 
 1. **Data governance: Best practices** (dbt Labs, November 2024)
@@ -119,8 +115,6 @@ A data governance manager plans, monitors and enforces the management of data as
 10. **Master Data Governance Explained: A Beginner's Guide** (Alation, October 2024)
     - URL: https://www.alation.com/blog/master-data-governance-beginners-guide/
     - Summary: Master Data Governance is the framework that ensures master data is accurate, consistent, and trusted across an organisation, and is a critical component of Master Data Management (MDM). Governance ensures that data remains accurate, reliable, and free of errors—saving organisations from the costs of bad data.
-
----
 
 ## Research articles
 
@@ -164,8 +158,6 @@ A data governance manager plans, monitors and enforces the management of data as
     - URL: https://journals.sagepub.com/doi/abs/10.1177/0340035216672238
     - Summary: Examines the relationship between data governance and data literacy as two important building blocks in the knowledge base of information professionals involved in supporting data-intensive research. Both concepts address data quality and applying data governance to research data management processes helps in delineating decision domains and defining accountability.
 
----
-
 ## Videos
 
 1. **Intricity101: What is Data Governance?**
@@ -208,8 +200,6 @@ A data governance manager plans, monitors and enforces the management of data as
     - URL: Search "Microsoft Purview data governance tutorial" on YouTube
     - Summary: Educational content on learning about data governance with Microsoft Purview, covering modern cloud-based data governance solutions.
 
----
-
 ## Books on Amazon
 
 1. **Data Governance Handbook: A practical approach to building trust in data** by Wendy S. Batchelder
@@ -251,8 +241,6 @@ A data governance manager plans, monitors and enforces the management of data as
 10. **Non-Invasive Data Governance: The Path of Least Resistance and Greatest Success** by Robert S. Seiner
     - URL: https://www.amazon.com/Non-Invasive-Data-Governance-Resistance-Greatest-ebook/dp/B00N3259RG
     - Summary: A practical and non-threatening approach to governing information and promoting stewardship of data as a cross-organisation asset. Focuses on practical, sustainable implementation strategies.
-
----
 
 ## Extras
 

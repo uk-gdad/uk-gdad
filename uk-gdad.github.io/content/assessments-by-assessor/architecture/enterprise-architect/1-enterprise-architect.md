@@ -1044,6 +1044,4 @@ You now have a complete, four-part assessment for the enterprise architect role 
 
 Above all, treat this as one input among several. Combine it with structured interview evidence, work samples, references and your own judgement, and weigh it consistently across every candidate for this role level — never as the sole basis for a hiring, promotion, pay, performance or disciplinary decision, and always alongside the guidance in the Advisory section above.
 
----
-
 Assessor tip: discuss a candidate's results with a fellow assessor or panel member as part of a structured debrief and moderation conversation — comparing notes across assessors before finalising a decision helps keep scoring consistent, and is itself good governance practice.

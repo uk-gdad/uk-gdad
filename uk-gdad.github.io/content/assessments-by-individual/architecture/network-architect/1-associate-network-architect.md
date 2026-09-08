@@ -990,6 +990,4 @@ What next? Little and often beats rarely and long: return to a handful of these 
 
 Remember that assessments are a snapshot, never a verdict. Every skill in this guide is learnable, and at associate level you are exactly where learning happens fastest. Approach your assessment rested, curious, and unhurried — you have prepared well, and you have every reason to walk in with confidence. Good luck, and enjoy the career you are building.
 
----
-
 Professional development tip: revisit this resource regularly. Skills compound — a few practice questions each week will do more for you than an occasional marathon session.

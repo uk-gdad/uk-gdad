@@ -854,10 +854,5 @@ A few suggestions for where to go next. Revisit the questions you got wrong in a
 
 Approach any real assessment rested, unhurried, and confident in your preparation. You measure quality for a living; trust your own. Good luck — and keep practising.
 
----
-
 *Professional development tip: revisit this guide periodically as your role evolves. The scenarios that feel hardest today are often the ones that map to the capabilities you are currently growing into.*
-
-
-
 

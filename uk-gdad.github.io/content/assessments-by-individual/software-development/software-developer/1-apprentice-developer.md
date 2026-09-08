@@ -911,6 +911,4 @@ And whatever the result, keep perspective. Psychometric assessments are one snap
 
 You are learning the craft the right way: carefully, collaboratively, and with users in mind. Keep going — you are doing better than you think.
 
----
-
 *Professional development tip: consider keeping a short learning log. After each practice session or real work task, write one sentence about a technique you used and one about something you want to try next time. Over a few months, the log becomes evidence of growth for your apprenticeship portfolio — and a genuine confidence boost on harder days.*

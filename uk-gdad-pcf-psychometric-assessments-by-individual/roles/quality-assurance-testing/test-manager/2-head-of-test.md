@@ -823,10 +823,5 @@ Where next: revisit the questions you missed in a week, when the explanations ha
 
 Approach any real assessment rested, unhurried, and confident in your preparation. You have assured harder things than this. Good luck — and keep practising.
 
----
-
 *Professional development tip: revisit this guide periodically as your role evolves. The scenarios that feel hardest today are often the ones that map to the capabilities you are currently growing into.*
-
-
-
 
