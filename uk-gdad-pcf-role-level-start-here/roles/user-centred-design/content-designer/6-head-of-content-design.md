@@ -1,25 +1,6 @@
 # Head of content design - start here
 
-Welcome. If you are working toward the head of content design level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-A head of content design is an expert practitioner with broad industry
-experience who defines and assures best practice while influencing, leading
-and mentoring others — the top of this profession's line. You develop a
-strategy for content that meets the organisation's objectives, lead a team
-capable of executing it, work with senior stakeholders to influence
-organisational strategy, prioritise and collaborate with counterparts
-across government, and champion good content design practice within
-government and industry. Every named skill carries the same wording as
-lead level here — at the top of this profession's ladder, the real
-differentiation is owning the organisation's content strategy and
-representing the discipline externally, not a longer skill description for
-each named capability.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -32,7 +13,26 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/content-designer/6-head-of-content-design/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/content-designer/6-head-of-content-design/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/content-designer/6-head-of-content-design/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/content-designer/6-head-of-content-design/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the head of content design level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+A head of content design is an expert practitioner with broad industry
+experience who defines and assures best practice while influencing, leading
+and mentoring others — the top of this profession's line. You develop a
+strategy for content that meets the organisation's objectives, lead a team
+capable of executing it, work with senior stakeholders to influence
+organisational strategy, prioritise, and collaborate with counterparts
+across government, and champion good content design practice within
+government and industry. Every named skill carries the same wording as
+lead level here — at the top of this profession's ladder, the real
+differentiation is owning the organisation's content strategy and
+representing the discipline externally, not a longer skill description for
+each named capability.
 
 ## Learning pathway
 

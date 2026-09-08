@@ -1,5 +1,20 @@
 # Principal developer - management - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the principal developer (management)
 level, this page is for you: what the role expects, where to find everything
 else this repository has for it, and a pathway for building the skills it
@@ -17,26 +32,11 @@ page may fit better.
 A principal developer at this level still leads and plans development
 across large or multiple teams, identifies and champions emerging
 technologies, and develops the capability of the teams under them by
-facilitating internal mobility, shaping career paths and recruiting the
+facilitating internal mobility, shaping career paths, and recruiting the
 right talent. Where this track's own wording sharpens most is strategy:
 setting the strategy and resource allocation for whole development
 programmes, and leading policy and standards for availability and capacity,
 rather than implementing within a strategy someone else set.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/9-principal-developer-management/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -104,7 +104,7 @@ yet.
 
 - [ ] **Keep finding and fixing the hardest service faults**
 
-  This skill also plateaus: identifying, locating and fixing service
+  This skill also plateaus: identifying, locating, and fixing service
   faults.
 
   Ask AI: "What role should a strategic leader play in service faults that

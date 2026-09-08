@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -202,7 +202,7 @@ An associate's diagnosis: "User's laptop is slow. I checked and the disk is 95% 
 
 **Correct answer: C**
 
-**Explanation:** The disk finding is real but fits poorly with sudden onset and a symptom that singles out video calls, pointing instead toward something network-, driver- or update-related from yesterday. Option C hands the associate the exact tests their reasoning skipped, so the revised diagnosis is theirs. Option A trades the user's outcome for comfort. Option B teaches only spectating. Option D gives a verdict without a method. This tests transferring reasoning rather than just the answer — coaching that builds capability rather than dependence, checking that a diagnosis explains the onset, the pattern, and the timing.
+**Explanation:** The disk finding is real but fits poorly with sudden onset and a symptom that singles out video calls, pointing instead toward something network-, driver-, or update-related from yesterday. Option C hands the associate the exact tests their reasoning skipped, so the revised diagnosis is theirs. Option A trades the user's outcome for comfort. Option B teaches only spectating. Option D gives a verdict without a method. This tests transferring reasoning rather than just the answer — coaching that builds capability rather than dependence, checking that a diagnosis explains the onset, the pattern, and the timing.
 
 ### Administration tips
 
@@ -807,4 +807,4 @@ The cognitive section tests clustering incidents by plausible cause, isolating f
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can diagnose carefully, read procedures precisely, and exercise sound judgement about ownership, escalation, and coaching — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can diagnose carefully, read procedures precisely, and exercise sound judgement about ownership, escalation, and coaching — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

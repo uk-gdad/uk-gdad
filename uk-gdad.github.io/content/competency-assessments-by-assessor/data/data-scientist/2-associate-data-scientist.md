@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -316,7 +316,7 @@ willing to learn if asked.
 - A structured interview question: "What is a data science technique or tool
   you looked into recently off your own back? What made you curious about
   it?"
-- A portfolio item: a note, write-up or short presentation the person made
+- A portfolio item: a note, write-up, or short presentation the person made
   about something they researched and shared with colleagues.
 - Direct observation: whether the person asks questions in team sessions that
   go beyond what is needed to finish the immediate task.
@@ -389,7 +389,7 @@ their learning to their objectives and to organisational goals. They can
 confidently talk about the benefits of data science approaches to existing and
 potential customers, and they demonstrate a good understanding of key data
 science techniques, such as machine learning, using them to build data science
-solutions including reports, models and dashboards.
+solutions including reports, models, and dashboards.
 
 **Baseline for this role level**
 
@@ -401,7 +401,7 @@ know, with guidance, not merely to be aware that the techniques exist.
 **Behavioural indicators**
 
 - 1 — Awareness: Follows a development plan set by someone else, and has built
-  a report, model or dashboard with substantial help from a colleague.
+  a report, model, or dashboard with substantial help from a colleague.
 - 2 — Working: Sets and reviews their own short-term learning goals
   linked to real pieces of work, and independently builds a working report,
   model or dashboard using a technique such as a basic machine learning
@@ -414,7 +414,7 @@ know, with guidance, not merely to be aware that the techniques exist.
 
 **Evidence to gather**
 
-- A portfolio item: a report, model or dashboard the person built, with the
+- A portfolio item: a report, model, or dashboard the person built, with the
   candidate talking through the technique they used and why.
 - A structured interview question: "What have you learned in the last few
   months, and how did you decide that was the right thing to focus on?"

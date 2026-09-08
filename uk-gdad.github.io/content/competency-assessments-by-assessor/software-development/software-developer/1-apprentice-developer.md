@@ -21,7 +21,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -314,7 +314,7 @@ a beginner who needs direction, not someone working independently.
 - 2 — Working: given a simple, well-defined task, can design, code and
   test it with some guidance rather than step-by-step direction, and can
   write short, clear documentation of what it does.
-- 3 — Practitioner: can independently design, build, test and document a small
+- 3 — Practitioner: can independently design, build, test, and document a small
   program or script from a plain description of what it needs to do, and can
   correct their own mistakes without help.
 - 4 — Expert: can design and build more complex software independently, and

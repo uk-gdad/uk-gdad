@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -82,9 +82,9 @@ use is showing **4 — Expert**, the baseline this level expects.
 
 ## About this role level
 
-The Data profession's Data analyst role collects, manages, explores and shares
+The Data profession's Data analyst role collects, manages, explores, and shares
 data to support organisational objectives and deliver business impact. Across
-the role, a data analyst identifies, collects and moves data between a range
+the role, a data analyst identifies, collects, and moves data between a range
 of systems; applies data analysis and data visualisation tools and
 techniques; prepares, manages and models data, following appropriate
 standards and practices; and communicates data, insights and conclusions in
@@ -170,7 +170,7 @@ decisions — the top of this skill's progression.
 
 A principal data analyst is expected to mediate between people and strengthen
 relationships, adopting the appropriate communication method with
-stakeholders at all levels, manage stakeholder expectations and moderate
+stakeholders at all levels, manage stakeholder expectations, and moderate
 difficult discussions about high risk and complex topics even within
 constrained timescales, and speak on behalf of and represent the community to
 large audiences inside and outside the organisation.
@@ -595,7 +595,7 @@ result is finalised.
 
 This assessment gives a structured, evidence-based view of whether a candidate
 or employee meets the baseline expected of a principal data analyst —
-someone shaping data analysis standards, processes and strategy across the
+someone shaping data analysis standards, processes, and strategy across the
 whole organisation. Use the result alongside your organisation's own process,
 never in place of it.
 

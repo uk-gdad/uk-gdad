@@ -1,21 +1,6 @@
 # Junior service designer - start here
 
-Welcome. If you are working toward the junior service designer level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for.
-
-## Purpose
-
-A junior service designer is typically a graduate with a relevant degree,
-or someone with relevant work experience. You explain design decisions,
-work collaboratively, take responsibility for a service, work
-independently once a more senior designer has given direction, and
-independently identify user issues and important needs. Design
-communication, designing for everyone, evidence-based design and iterative
-design all deepen at this level, because you're now producing real service
-design work, not describing concepts.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -28,7 +13,22 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/service-designer/2-junior-service-designer/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/service-designer/2-junior-service-designer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/service-designer/2-junior-service-designer/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/service-designer/2-junior-service-designer/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the junior service designer level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for.
+
+## Purpose
+
+A junior service designer is typically a graduate with a relevant degree,
+or someone with relevant work experience. You explain design decisions,
+work collaboratively, take responsibility for a service, work
+independently once a more senior designer has given direction, and
+independently identify user issues and important needs. Design
+communication, designing for everyone, evidence-based design, and iterative
+design all deepen at this level, because you're now producing real service
+design work, not describing concepts.
 
 ## Learning pathway
 

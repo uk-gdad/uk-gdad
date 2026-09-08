@@ -19,7 +19,7 @@ How to use this resource: select the items you intend to use before the session,
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -926,4 +926,4 @@ When scoring, work from the answer key rather than from memory of the discussion
 
 After scoring, debrief the candidate: share how they performed at a level of detail your process allows, be honest about where an answer fell short of what the role needs, and be specific about strengths worth recognising. A debrief grounded in the explanations above — why an answer is right, not just that it was marked right — gives a candidate something to act on, whether or not this particular process is successful for them.
 
-Finally, remember what this assessment is and is not. It is one structured, job-specific input among several — alongside application, interview, and any other evidence you hold — and it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Use it consistently, keep the answer key confidential until scoring, and consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues wherever this guidance and your own process diverge.
+Finally, remember what this assessment is and is not. It is one structured, job-specific input among several — alongside application, interview, and any other evidence you hold — and it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Use it consistently, keep the answer key confidential until scoring, and consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues wherever this guidance and your own process diverge.

@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -261,7 +261,7 @@ The laptop estate is 2,400 devices. Refresh policy targets replacement at 4 year
 
 **Question 4 (moderate) — Weighted supplier comparison**
 
-Two repair suppliers quote for a next contract. Supplier X: £45 per repair, historical first-time-fix 92%, failed first fixes redone free but adding 5 days' user downtime each. Supplier Y: £38 per repair, first-time-fix 80%, same free-redo terms and delay. 1,200 repairs expected per year, user downtime costed at £30/day. Which supplier is cheaper on the full comparison, and by roughly how much per year?
+Two repair suppliers quote for a next contract. Supplier X: £45 per repair, historical first-time-fix 92%, failed first fixes redone free but adding 5 days' user downtime each. Supplier Y: £38 per repair, first-time-fix 80%, same free-redo terms, and delay. 1,200 repairs expected per year, user downtime costed at £30/day. Which supplier is cheaper on the full comparison, and by roughly how much per year?
 
 - A) Y, by about £8,400 — the £7 unit saving times 1,200
 - B) X, by about £13,200 — Y's extra redo downtime outweighs its unit saving
@@ -764,4 +764,4 @@ The cognitive section tests reading supplier drift out of level-framed data, tra
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can hold suppliers to account, steward standards, lead investigations that matter, and answer for outcomes across an estate — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can hold suppliers to account, steward standards, lead investigations that matter, and answer for outcomes across an estate — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

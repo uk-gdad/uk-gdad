@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -407,10 +407,10 @@ technical skill of this role.
 - 1 — Awareness: Builds simple interfaces from a clear specification with
   close review, but struggles once requirements are ambiguous or the
   interface is more than a single component.
-- 2 — Working: Builds, tests and documents interfaces of moderate
+- 2 — Working: Builds, tests, and documents interfaces of moderate
   complexity from a specification with some guidance on approach, and asks
   sensible clarifying questions when the specification is incomplete.
-- 3 — Practitioner: Builds, tests and documents interfaces of medium to high
+- 3 — Practitioner: Builds, tests, and documents interfaces of medium to high
   complexity independently, chooses the right tools and standards for the
   job without being told, and reviews a specification critically before
   starting.
@@ -746,7 +746,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

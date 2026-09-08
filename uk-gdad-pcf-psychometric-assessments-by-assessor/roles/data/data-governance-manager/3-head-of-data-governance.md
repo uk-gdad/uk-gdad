@@ -10,7 +10,7 @@ For a Head of Data Governance, these capabilities map directly onto the role's d
 
 This document is organised into four assessment sections, each aligned to a recognised psychometric assessment type:
 
-1. **Workplace job-specific cognitive assessment** — reasoning, pattern recognition, error checking and prioritisation using the artefacts the role genuinely handles: RACI matrices, data catalogues, risk registers, and policy hierarchies.
+1. **Workplace job-specific cognitive assessment** — reasoning, pattern recognition, error checking, and prioritisation using the artefacts the role genuinely handles: RACI matrices, data catalogues, risk registers, and policy hierarchies.
 2. **Workplace job-specific numeric reasoning assessment** — interpretation of compliance metrics, data maturity scores, risk exposure figures, budgets, and training statistics.
 3. **Workplace job-specific verbal reasoning assessment** — precise comprehension of policies, standards, regulatory texts, board papers, and cross-government correspondence.
 4. **Workplace job-specific situational judgement assessment** — realistic dilemmas involving data owners, the chief data officer, regulators, senior stakeholders and delivery teams.
@@ -21,7 +21,7 @@ How to use this resource: present the same practice questions and hold every can
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -289,7 +289,7 @@ Data quality incidents rose sharply in one directorate. The candidate establishe
 
 ### Administration and scoring guidance
 
-- **Ground items in real artefacts where possible.** A real (suitably anonymised) RACI matrix, policy hierarchy or risk register makes a useful reference point: what does each rule strictly imply, and where are the contradictions? That is the exact cognition the test samples.
+- **Ground items in real artefacts where possible.** A real (suitably anonymised) RACI matrix, policy hierarchy, or risk register makes a useful reference point: what does each rule strictly imply, and where are the contradictions? That is the exact cognition the test samples.
 - **Note whether the candidate checks each condition individually** rather than pattern-matching to what "usually" happens. At this level the questions are rarely hard to read but often hard to reason about precisely, and that distinction is worth watching for.
 - **"May", "must", "should" and "unless" carry the whole logical load** in governance-flavoured questions, just as they do in real standards; a candidate who reads these precisely is showing the right instinct.
 - **Hold the 15 to 30 minute window consistently**, with the same 10 to 15 questions for every candidate. Senior candidates are often out of practice at timed conditions rather than at reasoning itself, which is worth remembering when interpreting a rushed answer.

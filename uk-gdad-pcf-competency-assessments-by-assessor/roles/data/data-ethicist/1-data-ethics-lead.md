@@ -11,7 +11,7 @@ this level names.
 
 Data ethicists assess the societal effect of technology and data, and produce
 recommendations for other data professionals — thinking about fairness,
-accountability, the law, moral dilemmas and risks in the creation of
+accountability, the law, moral dilemmas, and risks in the creation of
 technology and data products and policies. The data ethics lead is the first
 of this role's two-level ladder: they support the head of data ethics to
 enable others across the organisation to understand data ethics and implement
@@ -30,7 +30,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -102,7 +102,7 @@ data ethics, enables others to implement data ethics best practice in their
 work — for instance by providing training, advising data science teams, or
 demonstrating how to apply ethical principles through examples and case
 studies — communicates effectively to explain and raise awareness of data
-ethics issues, and listens to, convenes, advises and mediates between various
+ethics issues, and listens to, convenes, advises, and mediates between various
 parts of the organisation, and helps people to ask questions, express concerns
 and discuss ethical dilemmas.
 
@@ -256,7 +256,7 @@ from the external representation the head of data ethics level takes on.
   stakeholders, escalating anything contentious.
 - 3 — Practitioner: Independently hosts a difficult discussion with a senior
   stakeholder, manages their expectations, and reaches a workable outcome.
-- 4 — Expert: Moderates high-risk, time-constrained discussions and represents
+- 4 — Expert: Moderates high-risk, time-constrained discussions, and represents
   the organisation's position to large audiences outside it.
 
 **Evidence to gather**
@@ -705,7 +705,7 @@ level can help plan next steps:
 [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/data/data-ethicist/1-data-ethics-lead.md)
 
 Treat this competency assessment as one input among several, alongside your
-organisation's own interview, reference and calibration processes. Thank you
+organisation's own interview, reference, and calibration processes. Thank you
 for taking the time to assess this candidly and fairly — supporting an
 organisation's data ethics work is a hard job to do well, and doing it well
 matters to everyone whose data and lives that organisation touches.

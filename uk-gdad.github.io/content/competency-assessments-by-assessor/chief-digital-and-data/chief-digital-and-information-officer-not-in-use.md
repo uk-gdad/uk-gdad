@@ -31,7 +31,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -327,7 +327,7 @@ published against any of them:
 
 - Ask the candidate to describe a digital service where strategic goals and
   user needs pulled in different directions, and how they resolved it.
-- Review a portfolio report, service standard assessment or delivery review
+- Review a portfolio report, service standard assessment, or delivery review
   the candidate authored or sponsored.
 - Ask a delivery lead who has worked with the candidate how much of the
   oversight direction came from them.
@@ -389,7 +389,7 @@ published against any of them:
   terms, but has not been accountable for a real architecture decision.
 - 2 — Working: The person has contributed to an architecture decision,
   working alongside specialist architects, and can explain how it supported
-  scalability, reusability or interoperability.
+  scalability, reusability, or interoperability.
 - 3 — Practitioner: The person has independently ensured that technology and data
   architecture decisions support scalability, reusability and
   interoperability across government, and can point to a specific decision
@@ -402,8 +402,8 @@ published against any of them:
 **Evidence to gather**
 
 - Ask the candidate to describe an architecture decision and the trade-off it
-  required between scalability, reusability and interoperability.
-- Review an architecture decision record, strategy or cross-government
+  required between scalability, reusability, and interoperability.
+- Review an architecture decision record, strategy, or cross-government
   interoperability proposal the candidate authored or sponsored.
 - Ask a specialist architect who has worked with the candidate how much of
   the architecture direction came from them.
@@ -427,7 +427,7 @@ published against any of them:
   should inform organisational strategy, but has not advised a board or
   senior leadership team on it themselves.
 - 2 — Working: The person has contributed advice to a board or senior
-  leadership team on a specific digital, data or technology matter, with
+  leadership team on a specific digital, data, or technology matter, with
   support from a more senior sponsor.
 - 3 — Practitioner: The person has independently been a trusted advisor to the
   board on all matters of digital, data and technology, and can describe a
@@ -444,7 +444,7 @@ published against any of them:
   because of their advice, and how they made the case.
 - Ask a board member or senior stakeholder how the candidate's advice has
   shaped strategic thinking.
-- Review board papers, strategy documents or advisory notes the candidate
+- Review board papers, strategy documents, or advisory notes the candidate
   authored.
 
 **Rate this skill**

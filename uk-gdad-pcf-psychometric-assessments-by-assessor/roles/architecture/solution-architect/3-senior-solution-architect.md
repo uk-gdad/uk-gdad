@@ -12,7 +12,7 @@ How should you administer it? Present the same items and the same time limit to 
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -851,4 +851,4 @@ Once scoring is complete, debrief the candidate. Share what the assessment cover
 
 Keep a record of how the assessment was administered and scored for each candidate, and administer it consistently: the same items, the same time limit, and the same scoring approach for every candidate you assess for this role level. Consistency is what makes any comparison between candidates fair, and it is what protects the process if it is ever challenged.
 
-Finally, remember the advisory above: this material is not validated, not normed, and not checked for adverse impact. Use it as one input among several — alongside interview, reference, and evidence of past work — and consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues before relying on the result for a hiring, promotion, pay, performance or disciplinary decision.
+Finally, remember the advisory above: this material is not validated, not normed, and not checked for adverse impact. Use it as one input among several — alongside interview, reference, and evidence of past work — and consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues before relying on the result for a hiring, promotion, pay, performance, or disciplinary decision.

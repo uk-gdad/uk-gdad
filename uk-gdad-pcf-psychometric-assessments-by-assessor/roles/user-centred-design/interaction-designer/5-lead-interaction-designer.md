@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -415,7 +415,7 @@ The classic format presents a short passage followed by statements to mark True,
 - **Reading precisely** maps to setting direction and assuring the quality of design delivery across teams.
 - **Separating statement from inference** maps to **Evidence-based design**: guiding the organisation in using evidence.
 - **Identifying the main point** maps to **Design communication**: gaining support from senior leaders and communicating across boundaries.
-- **Handling qualified language** maps to **Designing strategically**: constraints in technology, systems and policy shape design.
+- **Handling qualified language** maps to **Designing strategically**: constraints in technology, systems, and policy shape design.
 - **Reading for absence** maps to **Designing for everyone**: noticing a framework never mentions a mode of operation has consequences at scale.
 - **Reading cross-government prose accurately** maps to ensuring insight is used across the organisation and across government.
 

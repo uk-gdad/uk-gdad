@@ -19,7 +19,7 @@ How to administer this fairly: present the same items and hold every candidate t
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -882,4 +882,4 @@ To score: mark each item against the worked answer key, and where a response for
 
 Debrief every candidate, whatever the outcome, using the explanations in this document to talk through a sample of their answers. This is also where a candidate can raise fair questions about an item's clarity, and where genuine two-way learning happens regardless of the outcome.
 
-Administer this consistently: the same items, the same time limits, and the same scoring approach for every candidate assessed for this role level in a given round. Keep your records, and remember the advisory above - this assessment is not validated, not normed, and must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Use it as one structured input alongside the rest of your process, and consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues before relying on it.
+Administer this consistently: the same items, the same time limits, and the same scoring approach for every candidate assessed for this role level in a given round. Keep your records, and remember the advisory above - this assessment is not validated, not normed, and must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Use it as one structured input alongside the rest of your process, and consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues before relying on it.

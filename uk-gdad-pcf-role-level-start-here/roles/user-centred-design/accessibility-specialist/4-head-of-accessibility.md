@@ -1,5 +1,20 @@
 # Head of accessibility - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the head of accessibility level, this
 page is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the areas it names.
@@ -19,21 +34,6 @@ with the cross-government accessibility community. Leadership and
 guidance jumps sharply in scope at this level, from team dynamics to
 resolving conflict at the highest level across an organisation, which is
 the clearest sign of what separates this level from senior.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/accessibility-specialist/4-head-of-accessibility/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -67,7 +67,7 @@ you haven't made yet.
 - [ ] **Represent the community to the largest audiences**
 
   Mediate between people and mend relationships, communicate with
-  stakeholders at every level, manage expectations and moderate difficult
+  stakeholders at every level, manage expectations, and moderate difficult
   discussions about high-risk, complex topics under real time pressure,
   and speak on behalf of the community to large audiences inside and
   outside government.
@@ -100,7 +100,7 @@ you haven't made yet.
 
   This skill's wording here matches the accessibility specialist level
   rather than the more advanced version used at senior level — knowledge
-  of standards, technical solutions, detailed audits and training. That's
+  of standards, technical solutions, detailed audits, and training. That's
   the framework's own choice, not a gap in your practice; the leadership
   expected of you at this level shows up clearly in the skills above.
 

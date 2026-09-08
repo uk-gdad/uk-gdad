@@ -22,7 +22,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -449,7 +449,7 @@ exercises.
 - A structured interview question: "Describe a time you tried to influence a
   policy or process because of its security implications. What happened?"
 - A document review: a briefing or business case the candidate wrote that
-  addresses legal, political or business-architecture implications.
+  addresses legal, political, or business-architecture implications.
 - A reference question: "Has this person changed a policy or process, or only
   worked within it?"
 

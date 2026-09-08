@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -206,7 +206,7 @@ strengthen relationships, adopting the appropriate communication method with
 stakeholders at all levels, to manage stakeholder expectations and moderate
 difficult discussions about high risk and complex topics even within
 constrained timescales, and to speak on behalf of, and represent the
-community to, large audiences inside and outside the organisation.
+community to, large audiences inside, and outside the organisation.
 
 **Baseline for this role level**
 
@@ -253,7 +253,7 @@ communicate business-value propositions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Practitioner. "Negotiate, influence or set budgets in complex
+Baseline: 3 — Practitioner. "Negotiate, influence, or set budgets in complex
 environments" and writing business cases describes independent financial
 judgement exercised with real weight, a clear step up from monitoring and
 reporting on a budget someone else set.
@@ -263,7 +263,7 @@ reporting on a budget someone else set.
 - 1 — Awareness: Monitors and reports on a budget set by someone else.
 - 2 — Working: Balances cost against value in day-to-day delivery
   decisions.
-- 3 — Practitioner: Negotiates, influences or sets a budget in a complex
+- 3 — Practitioner: Negotiates, influences, or sets a budget in a complex
   environment, and writes or contributes meaningfully to a business case,
   communicating the business-value proposition clearly.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -320,7 +320,7 @@ only the candidate's own team's.
 
 **Evidence to gather**
 
-- Ask for an example of a continue, change-direction or stop decision the
+- Ask for an example of a continue, change-direction, or stop decision the
   candidate made or strongly influenced, and the evidence behind it.
 - Ask how they have guided a colleague or stakeholder unfamiliar with a life
   cycle phase through it.
@@ -482,7 +482,7 @@ development cycle.
 
 **Baseline for this role level**
 
-Baseline: 3 — Practitioner. Identifying, rectifying and using structured tools
+Baseline: 3 — Practitioner. Identifying, rectifying, and using structured tools
 such as health checks to diagnose team dynamics describes a strong,
 independent grasp of the skill applied within the candidate's own teams,
 though the framework does not yet describe this level as coaching the whole

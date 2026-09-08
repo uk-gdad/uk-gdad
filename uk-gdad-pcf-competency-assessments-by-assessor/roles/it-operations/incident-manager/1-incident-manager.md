@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -109,7 +109,7 @@ management framework knowledge, and User focus.
 
 **What the framework expects at this level**
 
-An incident manager tracks, logs and corrects information to protect assets
+An incident manager tracks, logs, and corrects information to protect assets
 and components.
 
 **Baseline for this role level**
@@ -315,7 +315,7 @@ causes and finds resolutions.
 
 **Baseline for this role level**
 
-Baseline: 2 — Working. Diagnosing, prioritising and resolving incidents
+Baseline: 2 — Working. Diagnosing, prioritising, and resolving incidents
 unassisted is the core, guided-but-independent work this level exists to do —
 strong, but not yet the cross-team leadership of the level above.
 

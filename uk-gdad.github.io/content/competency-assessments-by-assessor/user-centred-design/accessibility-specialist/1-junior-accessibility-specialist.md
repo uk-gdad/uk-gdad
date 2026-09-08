@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -162,7 +162,7 @@ communications for the audience.
 - Give a short written brief describing a stakeholder request and ask the
   candidate to identify, in their own words, what the stakeholder actually
   needs.
-- Observe the candidate in a stand-up, design crit or similar
+- Observe the candidate in a stand-up, design crit, or similar
   multidisciplinary discussion and note whether they contribute unprompted.
 - Ask a referee, ideally a supervisor, how the candidate behaves in team
   discussions.

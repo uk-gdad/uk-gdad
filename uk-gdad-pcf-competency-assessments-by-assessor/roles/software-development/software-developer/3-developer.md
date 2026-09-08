@@ -20,7 +20,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -330,7 +330,7 @@ standard-setting expected further up the ladder.
 **What the framework expects at this level**
 
 A Developer collaborates with others when necessary to review specifications,
-and uses the agreed specifications to design, code, test and document programs
+and uses the agreed specifications to design, code, test, and document programs
 or scripts of medium-to-high complexity, using the right standards and tools.
 
 **Baseline for this role level**
@@ -348,13 +348,13 @@ substantial pieces of work, which is the definition of Practitioner on this scal
 - 2 — Working: Implements a specification for a moderately complex
   component with some guidance, and writes tests and documentation to a basic
   but adequate standard.
-- 3 — Practitioner: Independently designs, codes, tests and documents a component
+- 3 — Practitioner: Independently designs, codes, tests, and documents a component
   of medium-to-high complexity from an agreed specification, choosing
   appropriate standards and tools, and raises sensible questions when the
   specification itself is unclear or incomplete.
 - 4 — Expert: Takes on the most complex components in the team's backlog,
   sets the technical approach others follow, and reviews and improves other
-  developers' designs, code, tests and documentation.
+  developers' designs, code, tests, and documentation.
 
 **Evidence to gather**
 
@@ -699,7 +699,7 @@ repository can help build a plan from here: the
 [continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/3-developer.md)
 turns each of this level's skills into concrete things to do, and the
 [upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/3-developer.md)
-document lists courses, articles, videos and books to work through.
+document lists courses, articles, videos, and books to work through.
 
 Whatever the result, treat this as one input among several, not a verdict.
 You are assessing someone doing a job that matters, in a process that matters

@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -358,7 +358,7 @@ here.
   direction.
 - 2 — Working: delivers medium-complexity work against a specification
   with some guidance on approach.
-- 3 — Practitioner: independently designs, codes, tests and documents work of
+- 3 — Practitioner: independently designs, codes, tests, and documents work of
   medium-to-high complexity from an agreed specification, using the right
   standards and tools without prompting.
 - 4 — Expert: takes technical responsibility for a whole development project
@@ -446,7 +446,7 @@ other skills at this level.
 - 1 — Awareness: fixes faults only when told exactly what to do.
 - 2 — Working: fixes straightforward faults with some support on
   diagnosis.
-- 3 — Practitioner: independently identifies, locates and fixes faults across a
+- 3 — Practitioner: independently identifies, locates, and fixes faults across a
   service they know well, including ones with an unclear root cause.
 - 4 — Expert: is someone other teams call in for the hardest faults, and has
   changed how the team diagnoses faults going forward.
@@ -648,7 +648,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

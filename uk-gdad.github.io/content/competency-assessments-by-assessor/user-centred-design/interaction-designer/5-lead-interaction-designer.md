@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -151,7 +151,7 @@ own communication.
 **What the framework expects at this level**
 
 A lead interaction designer is expected to measurably improve the practice
-of inclusive, accessible and environmentally sustainable design in multiple
+of inclusive, accessible, and environmentally sustainable design in multiple
 teams or across their organisation, and help others understand and mitigate
 the influence of privilege and power on the design and delivery of content
 and services.
@@ -170,7 +170,7 @@ single team.
   design.
 - 3 — Practitioner: Advises multiple teams on inclusive, accessible and
   sustainable design.
-- 4 — Expert: Measurably improves inclusive, accessible and sustainable
+- 4 — Expert: Measurably improves inclusive, accessible, and sustainable
   design practice across multiple teams or the organisation, and helps
   others understand and mitigate the influence of privilege and power.
 
@@ -289,7 +289,7 @@ level below, so the baseline stays at Practitioner rather than rising further.
 
 A lead interaction designer is expected to embed a practice of
 hypothesis-driven design in a team, guide the organisation in how to use
-evidence to improve services, analyse, synthesise and use evidence to
+evidence to improve services, analyse, synthesise, and use evidence to
 improve the way the organisation works, and ensure user insights are shared
 with and used by the wider organisation and across government.
 

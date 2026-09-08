@@ -14,7 +14,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -724,7 +724,7 @@ Six weeks ago a candidate took ownership of a recurring failure in the interface
 
 **Correct answer: A**
 
-**Explanation:** Response 2 attacks all three dimensions — the unreliable fix date, the ongoing manual burden, and the eroding trust — with one shared status replacing two anxious teams chasing separately. Response 3 is least effective because it is disguised abandonment: a queue is not an owner, and **Ownership and topic** rules out exactly that move. Response 1 is weak but honest; response 4 is premature as a first move but a legitimate escalation tool if checkpoints fail. Option A's pair captures the logic: the best answer fixes pain, process and trust together; the worst makes ownership disappear while looking procedurally tidy.
+**Explanation:** Response 2 attacks all three dimensions — the unreliable fix date, the ongoing manual burden, and the eroding trust — with one shared status replacing two anxious teams chasing separately. Response 3 is least effective because it is disguised abandonment: a queue is not an owner, and **Ownership and topic** rules out exactly that move. Response 1 is weak but honest; response 4 is premature as a first move but a legitimate escalation tool if checkpoints fail. Option A's pair captures the logic: the best answer fixes pain, process, and trust together; the worst makes ownership disappear while looking procedurally tidy.
 
 **Question 5 (moderate) — Competing sponsors**
 
@@ -867,4 +867,4 @@ The cognitive section tests checking pipeline references and stakeholder maps fo
 
 **Records and consistency.** Keep a note of the conditions under which you administered this assessment alongside the result, and use the same items and conditions for every candidate you assess for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can turn conversations into pipelines, contradictions into clarity, and strained relationships into working ones — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can turn conversations into pipelines, contradictions into clarity, and strained relationships into working ones — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

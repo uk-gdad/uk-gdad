@@ -19,7 +19,7 @@ Administer this fairly and consistently. Use the same items and the same time li
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -1027,7 +1027,7 @@ Reading the department's newly published data strategy, the candidate notices th
 
 ## Conclusion
 
-You now have a complete assessment to administer for associate solution architect: four sections covering pattern recognition, logical deduction, error checking and prioritisation; numeric reasoning grounded in budgets, capacity and licence costs; precise, evidence-only verbal reasoning; and situational judgement scenarios drawn from the real dilemmas of this role level.
+You now have a complete assessment to administer for associate solution architect: four sections covering pattern recognition, logical deduction, error checking, and prioritisation; numeric reasoning grounded in budgets, capacity, and licence costs; precise, evidence-only verbal reasoning; and situational judgement scenarios drawn from the real dilemmas of this role level.
 
 **Scoring.** Work through each candidate's responses against the worked answers and explanations above, which are your answer key - keep them from the candidate until scoring is complete. Note not just whether an answer matches, but how close the reasoning came where you can see it (for example, in a talked-through situational judgement response or a shown-working numeric answer): a candidate who reaches the right answer for the wrong reason, or the wrong answer through sound but incomplete reasoning, is worth recording differently from one who simply guessed. Score every candidate for this role level against the same items and the same criteria, so results are comparable across your hiring or promotion round.
 

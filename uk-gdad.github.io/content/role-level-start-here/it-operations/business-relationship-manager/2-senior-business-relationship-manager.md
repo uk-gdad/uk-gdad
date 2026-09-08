@@ -1,27 +1,6 @@
 # Senior business relationship manager - start here
 
-Welcome. If you are working toward the senior business relationship
-manager level, this page is for you: what the role expects, where to find
-everything else this repository has for it, and a pathway for building the
-skills it asks for.
-
-## Purpose
-
-A senior business relationship manager develops relationships across the
-organisation to understand business ambitions and, where appropriate,
-makes sure digital products and services support them. You explore shared
-needs, encouraging reuse, central management and commoditisation aligned to
-digital, data, technology and security strategies, lead activities that
-improve relationship maturity and value, ensure strategic demands such as
-spending reviews are supported, partner with others on strategic guidance,
-promote sustained investment in user-centred approaches, and make sure
-complex needs and challenges are understood, prioritised and communicated.
-Business analysis, ownership and initiative, service management framework
-knowledge, strategic thinking and user focus all grow at this level,
-because leading improvement work asks for more than maintaining consistent
-engagement.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -34,7 +13,28 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/it-operations/business-relationship-manager/2-senior-business-relationship-manager/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/it-operations/business-relationship-manager/2-senior-business-relationship-manager/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/business-relationship-manager/2-senior-business-relationship-manager/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/business-relationship-manager/2-senior-business-relationship-manager/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the senior business relationship
+manager level, this page is for you: what the role expects, where to find
+everything else this repository has for it, and a pathway for building the
+skills it asks for.
+
+## Purpose
+
+A senior business relationship manager develops relationships across the
+organisation to understand business ambitions and, where appropriate,
+makes sure digital products and services support them. You explore shared
+needs, encouraging reuse, central management, and commoditisation aligned to
+digital, data, technology and security strategies, lead activities that
+improve relationship maturity and value, ensure strategic demands such as
+spending reviews are supported, partner with others on strategic guidance,
+promote sustained investment in user-centred approaches, and make sure
+complex needs and challenges are understood, prioritised and communicated.
+Business analysis, ownership and initiative, service management framework
+knowledge, strategic thinking and user focus all grow at this level,
+because leading improvement work asks for more than maintaining consistent
+engagement.
 
 ## Learning pathway
 

@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -221,7 +221,7 @@ For a senior frontend developer, numeric reasoning sits at the point where measu
 ### How this assessment maps to the role
 
 - **Percentages and proportional change** map to **Web performance optimisation**: page-weight budgets, compression savings, and regression thresholds.
-- **Averages and weighted averages** map to making decisions based on research and **User focus (frontend developer)**: real usage data weighted by traffic, device mix or user group.
+- **Averages and weighted averages** map to making decisions based on research and **User focus (frontend developer)**: real usage data weighted by traffic, device mix, or user group.
 - **Ratios and rates** map to **Programming and build (frontend developer)** and planning development on sets of related stories: defect rates, review turnaround, build failure rates.
 - **Reading tables and charts** maps to **Communicating information** and **Strategic thinking**: evidence arriving as a table, read correctly first time.
 - **Threshold and budget arithmetic** maps to **Accessibility** and **Modern development standards**: contrast ratios, error budgets, support-matrix coverage, performance budgets.

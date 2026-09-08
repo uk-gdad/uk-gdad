@@ -19,7 +19,7 @@ candidate until scoring and debrief.
 
 It is **not** a validated assessment instrument. It is not piloted, not
 normed, and not checked for adverse impact, and a result from it must never be
-the sole basis for a hiring, promotion, pay, performance or disciplinary
+the sole basis for a hiring, promotion, pay, performance, or disciplinary
 decision. Every file says so in `## Advisory`, and `bin/check` enforces that
 the section exists.
 

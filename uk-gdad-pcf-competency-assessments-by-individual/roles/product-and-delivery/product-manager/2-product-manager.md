@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -88,7 +88,7 @@ At the **product manager** level, someone is responsible for product
 quality and value, working with the team to identify, implement and improve
 strategies and tactics for their products. They might recruit and manage
 people in the product profession, ensuring people with the right skills are
-hired, supported and developed. The framework notes this can be an
+hired, supported, and developed. The framework notes this can be an
 entry-level role for people moving in from other digital roles.
 
 At this role level, a person is expected to lead a product through the
@@ -318,7 +318,7 @@ alone.
 **What the framework expects at this level**
 
 A product manager works with others to define key performance indicators that
-assess performance, value and outcomes; analyses and uses trusted data to
+assess performance, value, and outcomes; analyses and uses trusted data to
 make decisions and enable continuous improvement; is open about their
 decision making; and identifies and explains success metrics to stakeholders,
 along with how the product can contribute to outcomes.
@@ -444,7 +444,7 @@ able to do this independently rather than with close supervision.
 
 - Think about how you'd walk through your current roadmap and explain one
   trade-off you made under a deadline.
-- Look back at a roadmap, product strategy document or public working-in-the-open
+- Look back at a roadmap, product strategy document, or public working-in-the-open
   update you produced.
 - Structured interview question: "Tell me about a time scope had to change
   to hit a critical deadline. How did you decide what to cut?"
@@ -597,7 +597,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

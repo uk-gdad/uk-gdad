@@ -194,7 +194,7 @@ baseline set for the more central data science skills.
   has not contributed directly to designing a data product with one.
 - 2 — Working: Has worked alongside data engineers and other data
   scientists on a real product, contributing requirements or feedback on data
-  structure, format or quality.
+  structure, format, or quality.
 - 3 — Practitioner: Has actively shaped the design of a data product in
   collaboration with data engineers, for example by specifying what a
   pipeline needs to deliver for an analysis to work.
@@ -354,7 +354,7 @@ independent practice rather than intermediate, guided work.
 
 - Ask the candidate to present a piece of analysis as if to a non-technical
   stakeholder, and observe how they adapt language and visuals.
-- A work sample: a report, dashboard or slide deck the candidate produced for
+- A work sample: a report, dashboard, or slide deck the candidate produced for
   a real audience, discussed for how it was tailored.
 - Ask a referee for an example of a data science product the candidate
   delivered that changed a decision.
@@ -379,7 +379,7 @@ organisation, confidently talks about the benefits of data science approaches
 to existing and potential customers, and demonstrates a good understanding of
 a range of data science techniques — such as machine learning and natural
 language processing — using them to build data science solutions, including
-reports, models and dashboards.
+reports, models, and dashboards.
 
 **Baseline for this role level**
 

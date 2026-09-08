@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -213,7 +213,7 @@ independent working into setting direction for others.
 
 A lead business analyst is expected to lead the identification of large-scale
 opportunities to deliver business performance improvements, to set the
-direction for analysis, design and evaluation of business process
+direction for analysis, design, and evaluation of business process
 improvements including methods, tools and standards, to set the direction for
 design, execution and assessment of business process tests and usability
 evaluations, and to coach others in designing, testing, implementing and
@@ -235,14 +235,14 @@ the candidate's own delivery.
   programme, with real independence, but has not yet set organisation-wide
   standards.
 - 4 — Expert: Leads identification of large-scale improvement opportunities,
-  sets direction for methods, tools and standards used across the
+  sets direction for methods, tools, and standards used across the
   organisation, and coaches other business analysts in the discipline.
 
 **Evidence to gather**
 
 - Ask for an example of a large-scale improvement opportunity the candidate
   identified and led, beyond a single project's scope.
-- Ask what standards, methods or tools for process improvement the candidate
+- Ask what standards, methods, or tools for process improvement the candidate
   has set or influenced across an organisation.
 - Ask a referee for an example of the candidate coaching someone else through
   a process improvement.
@@ -280,7 +280,7 @@ the level description's own "go-to person in the field".
   experience, though not yet sought out proactively by others.
 - 3 — Practitioner: Is regularly sought out for advice within their business area
   and proposes practical approaches to implementation.
-- 4 — Expert: Provides advice, guidance and recommendations based on genuine
+- 4 — Expert: Provides advice, guidance, and recommendations based on genuine
   specialist knowledge across a range of problems, proposes methodologies
   that others adopt, and frames ambiguous problems so non-specialists can
   understand and act on them.
@@ -514,7 +514,7 @@ the scale defines as expert.
   digital professionals on interface and functionality decisions.
 - 4 — Expert: Sets the direction for systems analysis, enables others to
   explore functionality gaps and assess software change effects, and forms a
-  common understanding between users, development teams and external
+  common understanding between users, development teams, and external
   suppliers.
 
 **Evidence to gather**

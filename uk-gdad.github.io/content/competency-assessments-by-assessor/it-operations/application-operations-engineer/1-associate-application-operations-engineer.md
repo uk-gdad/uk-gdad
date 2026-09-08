@@ -8,7 +8,7 @@ The competency matrix below turns the framework's own description of this role l
 
 ## Advisory
 
-This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## How to use this assessment
 
@@ -128,7 +128,7 @@ Baseline: 1 — Awareness. The verb here is "contribute", not "lead" or "determi
 
 - Ask the candidate to describe a problem they helped investigate, what evidence they gathered, and what the eventual fix or preventative measure was.
 - Give a short scenario describing a recurring application fault and ask them to say what they would check first and why.
-- Ask them to explain, in their own words, the difference between a strategic, a tactical and an operational problem.
+- Ask them to explain, in their own words, the difference between a strategic, a tactical, and an operational problem.
 
 **Rate this skill**
 

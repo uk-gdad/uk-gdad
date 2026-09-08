@@ -1,26 +1,6 @@
 # Technical writer - start here
 
-Welcome. If you are working toward the technical writer level, this page
-is for you: what the role is about, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for.
-The framework publishes this as the first of only two levels for this
-role, and it already reads at a genuinely expert register — this is not a
-role most people arrive at as their first job in content or design.
-
-## Purpose
-
-A technical writer takes a user-centred approach to making complicated
-technical concepts easier to understand for a specialist audience —
-focusing on specialist content and software documentation, and writing for
-technologists such as developers, technical architects and technology
-leaders. As an expert practitioner with a deep understanding of technology
-and the needs of technologists, you take that user-centred approach to
-explaining how to use government products and services to a technical
-audience, write blog posts for or on behalf of the technical community, and
-engage with the cross-government technical writing and content design
-communities.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -33,7 +13,27 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/technical-writer/1-technical-writer/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/technical-writer/1-technical-writer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/technical-writer/1-technical-writer/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/technical-writer/1-technical-writer/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the technical writer level, this page
+is for you: what the role is about, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for.
+The framework publishes this as the first of only two levels for this
+role, and it already reads at a genuinely expert register — this is not a
+role most people arrive at as their first job in content or design.
+
+## Purpose
+
+A technical writer takes a user-centred approach to making complicated
+technical concepts easier to understand for a specialist audience —
+focusing on specialist content and software documentation, and writing for
+technologists such as developers, technical architects, and technology
+leaders. As an expert practitioner with a deep understanding of technology
+and the needs of technologists, you take that user-centred approach to
+explaining how to use government products and services to a technical
+audience, write blog posts for or on behalf of the technical community, and
+engage with the cross-government technical writing and content design
+communities.
 
 ## Learning pathway
 

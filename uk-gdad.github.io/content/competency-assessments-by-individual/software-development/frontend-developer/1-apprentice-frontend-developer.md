@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -77,7 +77,7 @@ accessible code following a progressive enhancement approach, creates code
 that is open by default and easy for others to reuse, designs software which
 meets user needs and creates meaningful interactions and relationships with
 users, and has an understanding of the three fundamental frontend
-technologies: HTML, CSS and JavaScript.
+technologies: HTML, CSS, and JavaScript.
 
 This assessment covers the **Apprentice frontend developer** level, the entry
 point of the role's ladder. The full ladder, in order, is: Apprentice
@@ -309,7 +309,7 @@ simple interfaces, matching this level's shadowing accountabilities.
 **Behavioural indicators**
 
 - 1 — Awareness: builds a simple user interface with close direction,
-  covering design, code, test, correction and documentation at a basic
+  covering design, code, test, correction, and documentation at a basic
   level.
 - 2 — Working: does this with only occasional check-ins rather than
   step-by-step direction.
@@ -490,7 +490,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

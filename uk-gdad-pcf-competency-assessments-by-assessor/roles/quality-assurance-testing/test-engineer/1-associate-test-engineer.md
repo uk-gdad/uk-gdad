@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -253,7 +253,7 @@ doing this with only some guidance, not merely explaining it.
 
 - 1 — Awareness: Can explain what a good defect report contains, but has only
   reported defects with close checking from someone else.
-- 2 — Working: Reports, tracks and retests defects using the team's
+- 2 — Working: Reports, tracks, and retests defects using the team's
   process with occasional guidance, and knows when to escalate rather than
   sit on something.
 - 3 — Practitioner: Manages the full defect lifecycle unsupported for the
@@ -480,7 +480,7 @@ this same role level pick up from here:
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-engineer/1-associate-test-engineer.md) —
   things to do, skill by skill.
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/test-engineer/1-associate-test-engineer.md) —
-  courses, articles, videos and books for an associate test engineer.
+  courses, articles, videos, and books for an associate test engineer.
 
 Thank you for taking the time to assess carefully and on evidence. Getting the
 baseline right at this level — recognising real, supervised capability for

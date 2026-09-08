@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -183,7 +183,7 @@ A quarter's laptop-damage incidents (60 total): 32 cracked screens from laptops 
 
 **Question 12 (challenging) — Diagnosing across team boundaries**
 
-Large file transfers to a partner organisation fail intermittently. Desk-side checks clear the laptops across models, buildings, wired and wireless. Infrastructure's monitoring shows healthy network links. The partner's IT reports "no issues our side." Failures cluster between 15:00 and 17:00 daily and affect only files above roughly 500 MB. What is the strongest next move?
+Large file transfers to a partner organisation fail intermittently. Desk-side checks clear the laptops across models, buildings, wired, and wireless. Infrastructure's monitoring shows healthy network links. The partner's IT reports "no issues our side." Failures cluster between 15:00 and 17:00 daily and affect only files above roughly 500 MB. What is the strongest next move?
 
 - A) Accept the three "all clear" reports and close the investigation as unreproducible.
 - B) Convene the specialists across the boundary — infrastructure, and through agreed channels the partner's network team — around the two discriminating facts (time-of-day clustering, size threshold), and propose a joint test: schedule controlled large-file transfers inside and outside the window while both sides capture diagnostics simultaneously.
@@ -776,4 +776,4 @@ The cognitive section tests distinguishing step changes from noise and mix effec
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can co-ordinate a team, read specifications precisely, and exercise sound judgement where technical facts, team dynamics and service pressures collide — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can co-ordinate a team, read specifications precisely, and exercise sound judgement where technical facts, team dynamics and service pressures collide — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

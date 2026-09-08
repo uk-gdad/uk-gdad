@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -342,7 +342,7 @@ baseline holds at the same strong, independent point.
 
 A lead analytics engineer is expected to ensure that the right actions are
 taken to investigate, resolve and anticipate problems, and to co-ordinate the
-team to investigate problems, implement solutions and take preventive
+team to investigate problems, implement solutions, and take preventive
 measures — coordination across a team, rather than owning an individual
 investigation.
 
@@ -404,7 +404,7 @@ programming holds at the same point rather than climbing further.
 - 1 — Awareness: Builds simple programs from a clear specification, with
   substantial review needed.
 - 2 — Working: Builds moderately complex programs with some review.
-- 3 — Practitioner: Independently designs, builds, tests and documents
+- 3 — Practitioner: Independently designs, builds, tests, and documents
   moderate-to-complex programs to agreed standards, and collaborates on
   reviewing specifications.
 - 4 — Expert: Sets programming standards and takes overall technical

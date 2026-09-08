@@ -19,7 +19,7 @@ never the whole of one — see `## Advisory` for why.
 This competency assessment is created by AI and is a work in progress for educational
 purposes. It is not a validated assessment instrument — it has not been piloted, normed
 or checked for adverse impact — and a rating on this form must never be the sole basis
-for a hiring, promotion, pay, performance or disciplinary decision. Before using it,
+for a hiring, promotion, pay, performance, or disciplinary decision. Before using it,
 consult your organisation's human resources, people development, occupational
 psychology or legal compliance colleagues.
 
@@ -112,7 +112,7 @@ evaluation level.
 
 **Baseline for this role level**
 
-Baseline: 4 — Expert. Making strategic, not only tactical, recommendations and choosing
+Baseline: 4 — Expert. Making strategic, not only tactical, recommendations, and choosing
 the most appropriate medium for any audience is expert-level communication — the
 framework uses the same text for the level above, so the baseline is set at the level
 this wording actually describes.
@@ -169,7 +169,7 @@ shaping culture is expert-level, teach-and-guide-others work.
 - 2 — Working: has contributed changes to an ethical framework with guidance.
 - 3 — Practitioner: independently oversees compliance with data ethics standards and
   legislation for their own area.
-- 4 — Expert: develops, manages and improves an ethical framework across the
+- 4 — Expert: develops, manages, and improves an ethical framework across the
   organisation, has changed how colleagues act through influence rather than mandate,
   and ensures ethics is built into how policies and programmes are formulated, not just
   checked afterwards.
@@ -261,7 +261,7 @@ guidance on strategy for a group of products and services.
 - 1 — Awareness: has helped present evaluation options but not negotiated resources.
 - 2 — Working: has agreed an evaluation approach with a single stakeholder group,
   with support.
-- 3 — Practitioner: independently secures resources, weighs policy and practical
+- 3 — Practitioner: independently secures resources, weighs policy, and practical
   constraints, and agrees an approach across diverse stakeholders, doing so for more
   than one evaluation at a time.
 - 4 — Expert: sets evaluation strategy across a group of digital products and services.

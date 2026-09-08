@@ -1,5 +1,20 @@
 # Business analyst - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the business analyst level, this page is
 for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -14,21 +29,6 @@ community by sharing best practice and mentoring others. Every skill grows
 noticeably at this level, because the shift isn't learning new techniques so
 much as being trusted to choose and apply the ones you already know without
 someone checking your working.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/product-and-delivery/business-analyst/3-business-analyst/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -52,7 +52,7 @@ around your own organisation's context.
   Plan and use the most appropriate analysis techniques to understand
   context, problem and root causes, communicate how your work supports
   strategic goals, define problem statements, and formulate recommendations
-  considering feasibility, benefits and impact.
+  considering feasibility, benefits, and impact.
 
   Ask AI: "How would a business analyst choose between several plausible
   analysis techniques for a given problem, rather than defaulting to the
@@ -100,7 +100,7 @@ around your own organisation's context.
 - [ ] **Lead process improvement work, with some support**
 
   Analyse and evaluate business processes to identify problems and
-  opportunities, design, prioritise and facilitate improvements with some
+  opportunities, design, prioritise, and facilitate improvements with some
   support, and validate them through testing.
 
   Ask AI: "How would a business analyst decide which process improvement

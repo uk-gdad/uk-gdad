@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -422,10 +422,10 @@ technical skill of this role.
 - 1 — Awareness: Builds simple interfaces from a clear specification with
   close review, but struggles once requirements are ambiguous or the
   interface is more than a single component.
-- 2 — Working: Builds, tests and documents interfaces of moderate
+- 2 — Working: Builds, tests, and documents interfaces of moderate
   complexity from a specification with some guidance on approach, and asks
   sensible clarifying questions when the specification is incomplete.
-- 3 — Practitioner: Builds, tests and documents interfaces of medium to high
+- 3 — Practitioner: Builds, tests, and documents interfaces of medium to high
   complexity independently, chooses the right tools and standards for the
   job without being told, and reviews a specification critically before
   starting.

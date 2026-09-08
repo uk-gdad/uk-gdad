@@ -1,7 +1,7 @@
 # Role level start here — specification
 
 Refines [`spec/index.md`](../../spec/index.md), which governs the taxonomy, the
-role index, slugs, style and licensing. This file covers only what is specific
+role index, slugs, style, and licensing. This file covers only what is specific
 to the start here pages.
 
 ## Purpose
@@ -48,13 +48,7 @@ the role summary's flatter, quoted prose.
 
 In this order:
 
-#### `## Purpose`
-
-One paragraph. Inspirational and motivational, and specific to this role
-level's actual accountabilities and skills — not a paragraph that would read
-equally well on the level above or below it.
-
-#### `## Explore the framework`
+#### `## Start here`
 
 One line of framing, then six links — the sibling pages this repository
 publishes for this exact role level, plus the one tool that is not per-level:
@@ -71,7 +65,14 @@ publishes for this exact role level, plus the one tool that is not per-level:
 Absolute URLs to the published site, not relative `.md` links — unlike the
 other derived documents, this page's whole job is to point a reader at the
 live site, so it names it directly. `<slug>` is this role level's slug, path
-segments unchanged.
+segments unchanged. This section comes first, before the untitled Welcome
+paragraph that follows the title.
+
+#### `## Purpose`
+
+One paragraph. Inspirational and motivational, and specific to this role
+level's actual accountabilities and skills — not a paragraph that would read
+equally well on the level above or below it.
 
 #### `## Learning pathway`
 

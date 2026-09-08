@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -381,7 +381,7 @@ is the framework's most senior expression of this skill.
 **What the framework expects at this level**
 
 Create data standards for the organisation. Advocate for, and oversee
-compliance with, data policies and standards. Decide where standards need to
+compliance with, data policies, and standards. Decide where standards need to
 be set across the organisation, and how to set them in the wider context of
 government.
 

@@ -1,5 +1,20 @@
 # Performance analyst - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the performance analyst level, this
 page is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -17,21 +32,6 @@ a performance measurement framework with the wider team, and stay
 responsible for the accuracy and quality of your data and analysis. Most
 named skills grow at this level, because you're now the one producing real
 outputs, not replicating existing analysis.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/performance-analyst/2-performance-analyst/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

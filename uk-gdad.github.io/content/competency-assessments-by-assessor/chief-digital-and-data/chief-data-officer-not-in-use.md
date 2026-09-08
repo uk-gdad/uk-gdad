@@ -29,7 +29,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -169,7 +169,7 @@ published against any of them:
   initiative they led, including how they knew whether it worked.
 - Ask a referee to name someone whose data capability grew under the
   candidate's leadership, and how.
-- Review a capability plan, business case or workforce plan the candidate
+- Review a capability plan, business case, or workforce plan the candidate
   authored or co-authored.
 
 **Rate this skill**

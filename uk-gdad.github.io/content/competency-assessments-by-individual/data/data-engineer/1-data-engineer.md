@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -308,7 +308,7 @@ at the level above, so the baseline sits in the middle of the scale.
 **What the framework expects at this level**
 
 A data engineer is expected to explain the concepts and principles of data
-modelling, produce, maintain and update relevant data models for an
+modelling, produce, maintain, and update relevant data models for an
 organisation's specific needs, and reverse-engineer data models from a live
 system.
 
@@ -434,7 +434,7 @@ level stops short of resolving or deciding, so the baseline sits at Awareness.
 
 **What the framework expects at this level**
 
-A data engineer is expected to design, code, test, correct and document
+A data engineer is expected to design, code, test, correct, and document
 simple programs or scripts under the direction of others.
 
 **Baseline for this role level**
@@ -447,9 +447,9 @@ than Working.
 
 - 1 — Awareness: Writes and tests a simple script under direction, and
   documents what it does when asked.
-- 2 — Working: Writes, tests and documents simple-to-moderate scripts
+- 2 — Working: Writes, tests, and documents simple-to-moderate scripts
   with only light direction.
-- 3 — Practitioner: Independently designs, builds and documents moderately
+- 3 — Practitioner: Independently designs, builds, and documents moderately
   complex programs from a specification.
 - 4 — Expert: Sets coding standards and reviews others' programs.
 
@@ -557,7 +557,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

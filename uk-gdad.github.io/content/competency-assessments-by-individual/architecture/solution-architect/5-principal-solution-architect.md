@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -145,7 +145,7 @@ solution architect to:
 
 Assess how trends in society and industry practices might impact the
 organisation. Work with people outside of your organisation to inform
-policies, strategies and standards. Anticipate changes to policy and build
+policies, strategies, and standards. Anticipate changes to policy and build
 resilience through your architectural work. Coach others in identifying
 important trends.
 
@@ -194,7 +194,7 @@ Communicate with technical and non-technical stakeholders at all levels, and
 across organisations, using architecture communication techniques. Mediate
 between people in difficult architectural discussions. Gain support from
 business and technical stakeholders for architectural topics with high
-levels of risk, impact and complexity. Coach and support others in
+levels of risk, impact, and complexity. Coach and support others in
 architecture communication.
 
 **Baseline for this role level**
@@ -249,7 +249,7 @@ inflating the number on seniority alone.
 - 1 — Awareness: Contributes to supplier evaluation with support.
 - 2 — Working: Identifies contractual frameworks for straightforward
   cases with occasional support.
-- 3 — Practitioner: Independently identifies, evaluates and selects appropriate
+- 3 — Practitioner: Independently identifies, evaluates, and selects appropriate
   suppliers and contractual frameworks, at the scale of a large programme or
   critical area.
 - 4 — Expert: Not expected at this level.
@@ -319,7 +319,7 @@ Make and guide architectural design decisions characterised by high levels
 of risk and complexity. Identify and address architectural risks across the
 organisation or wider government. Lead and evolve architectural governance
 and assurance. Represent architectural governance as part of wider
-governance, for example, legal or commercial.
+governance, for example, legal, or commercial.
 
 **Baseline for this role level**
 
@@ -530,7 +530,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

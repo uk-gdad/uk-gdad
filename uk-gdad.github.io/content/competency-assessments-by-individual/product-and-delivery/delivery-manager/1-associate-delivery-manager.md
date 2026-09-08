@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -323,7 +323,7 @@ level, not for managing a product or service through a phase.
 
 An associate delivery manager is expected to actively address internal risks
 and issues and know when to escalate them, to set the team cadence and tempo
-ensuring it is sustainable, to track, manage, escalate and communicate
+ensuring it is sustainable, to track, manage, escalate, and communicate
 dependencies, to actively remove or minimise risks, issues or dependencies
 where possible, and to understand how risks, issues or dependencies impact
 the work of a team.
@@ -531,7 +531,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

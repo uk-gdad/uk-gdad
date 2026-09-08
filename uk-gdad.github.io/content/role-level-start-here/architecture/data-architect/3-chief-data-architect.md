@@ -1,25 +1,6 @@
 # Chief data architect - start here
 
-Welcome. If you are working toward the chief data architect level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-A chief data architect sets the vision for the organisation's use of data,
-as directed by the appropriate governance body — the top of this
-profession's line. You oversee the design of multiple data models with a
-broad understanding of how each fulfils the organisation's needs, are
-accountable for supporting and aligning to the organisation's data
-strategy, champion data architecture both internally and at the most senior
-levels across government, set the standards and ways of working for the
-whole data architecture community, are accountable for assuring data models
-at project or enterprise level, advise project teams and oversee the full
-data product life cycle, and are responsible for making sure the
-organisation's systems are designed in line with the enterprise data
-architecture.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -32,7 +13,26 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/architecture/data-architect/3-chief-data-architect/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/architecture/data-architect/3-chief-data-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/data-architect/3-chief-data-architect/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/data-architect/3-chief-data-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the chief data architect level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+A chief data architect sets the vision for the organisation's use of data,
+as directed by the appropriate governance body — the top of this
+profession's line. You oversee the design of multiple data models with a
+broad understanding of how each fulfils the organisation's needs, are
+accountable for supporting and aligning to the organisation's data
+strategy, champion data architecture both internally and at the most senior
+levels across government, set the standards, and ways of working for the
+whole data architecture community, are accountable for assuring data models
+at project or enterprise level, advise project teams and oversee the full
+data product life cycle, and are responsible for making sure the
+organisation's systems are designed in line with the enterprise data
+architecture.
 
 ## Learning pathway
 

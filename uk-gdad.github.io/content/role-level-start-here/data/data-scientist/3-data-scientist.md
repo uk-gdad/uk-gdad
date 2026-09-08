@@ -1,22 +1,6 @@
 # Data scientist - start here
 
-Welcome. If you are working toward the data scientist level, this page is
-for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for.
-
-## Purpose
-
-A data scientist works independently, with a good understanding of data
-science techniques, delivery methods and stages such as minimum viable
-products, tools and technologies. You develop complex solutions using a
-range of techniques while understanding the ethical considerations
-involved, understand the role and benefits of data science within the
-organisation, support building capability, collaborate on solutions, prepare
-and manipulate data for complex analytics, and present and communicate
-effectively. Most named skills grow at this level, because independence
-means your own judgement now has to hold up without close supervision.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -29,7 +13,23 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/data/data-scientist/3-data-scientist/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/data/data-scientist/3-data-scientist/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/data-scientist/3-data-scientist/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/data/data-scientist/3-data-scientist/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the data scientist level, this page is
+for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for.
+
+## Purpose
+
+A data scientist works independently, with a good understanding of data
+science techniques, delivery methods, and stages such as minimum viable
+products, tools, and technologies. You develop complex solutions using a
+range of techniques while understanding the ethical considerations
+involved, understand the role and benefits of data science within the
+organisation, support building capability, collaborate on solutions, prepare
+and manipulate data for complex analytics, and present and communicate
+effectively. Most named skills grow at this level, because independence
+means your own judgement now has to hold up without close supervision.
 
 ## Learning pathway
 

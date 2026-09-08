@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -196,7 +196,7 @@ is built to describe.
 
 - 1 — Awareness: Builds and runs simple tests from a template, and needs
   close guidance to set up an environment or choose a technique.
-- 2 — Working: Designs, builds and executes tests independently for
+- 2 — Working: Designs, builds, and executes tests independently for
   routine work, conducts exploratory testing, and checks with someone else
   on environment set-up or technique choice for less familiar work.
 - 3 — Practitioner: Sets up environments and selects techniques unsupported,
@@ -249,7 +249,7 @@ things someone already does.
 - 2 — Working: Contributes to the team's defect management process and
   to mitigation plans, and clearly communicates the impact of a defect to
   stakeholders, checking harder risk assessments with someone else.
-- 3 — Practitioner: Critically assesses dependencies, defects and risks
+- 3 — Practitioner: Critically assesses dependencies, defects, and risks
   unsupported, and manages escalation across more than one team.
 - 4 — Expert: Leads improvements to the defect management process itself and
   is trusted to make the final call on a difficult mitigation decision.
@@ -463,7 +463,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

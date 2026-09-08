@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -303,7 +303,7 @@ published against any of them:
 
 - Think about how you'd describe a digital service where strategic goals and
   user needs pulled in different directions, and how you resolved it.
-- Look back at a portfolio report, service standard assessment or delivery review
+- Look back at a portfolio report, service standard assessment, or delivery review
   you authored or sponsored.
 - Ask a delivery lead who has worked with you how much of the
   oversight direction came from you.
@@ -365,7 +365,7 @@ published against any of them:
   terms, but has not been accountable for a real architecture decision.
 - 2 — Working: Someone has contributed to an architecture decision,
   working alongside specialist architects, and can explain how it supported
-  scalability, reusability or interoperability.
+  scalability, reusability, or interoperability.
 - 3 — Practitioner: Someone has independently ensured that technology and data
   architecture decisions support scalability, reusability and
   interoperability across government, and can point to a specific decision
@@ -378,8 +378,8 @@ published against any of them:
 **Evidence to gather**
 
 - Think about how you'd describe an architecture decision and the trade-off it
-  required between scalability, reusability and interoperability.
-- Review an architecture decision record, strategy or cross-government
+  required between scalability, reusability, and interoperability.
+- Review an architecture decision record, strategy, or cross-government
   interoperability proposal you authored or sponsored.
 - Ask a specialist architect who has worked with you how much of
   the architecture direction came from you.
@@ -403,7 +403,7 @@ published against any of them:
   should inform organisational strategy, but has not advised a board or
   senior leadership team on it themselves.
 - 2 — Working: Someone has contributed advice to a board or senior
-  leadership team on a specific digital, data or technology matter, with
+  leadership team on a specific digital, data, or technology matter, with
   support from a more senior sponsor.
 - 3 — Practitioner: Someone has independently been a trusted advisor to the
   board on all matters of digital, data and technology, and can describe a
@@ -485,7 +485,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

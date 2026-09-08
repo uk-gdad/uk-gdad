@@ -1,22 +1,6 @@
 # Head of graphic design - start here
 
-Welcome. If you are working toward the head of graphic design level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-A head of graphic design is an expert practitioner with broad industry
-experience who defines and assures best practice while influencing, leading
-and mentoring others — the top of this profession's line. You influence
-both design and organisational strategy and priorities, collaborate with
-counterpart colleagues across government, and focus on making sure the
-right conditions and environment exist for designers to work effectively.
-Leading design, designing strategically and designing together all sharpen
-at this level, because you're now setting vision and conditions for design
-across the organisation, not leading it within a single team.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -29,7 +13,23 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/graphic-designer/6-head-of-graphic-design/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/graphic-designer/6-head-of-graphic-design/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/graphic-designer/6-head-of-graphic-design/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/graphic-designer/6-head-of-graphic-design/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the head of graphic design level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+A head of graphic design is an expert practitioner with broad industry
+experience who defines and assures best practice while influencing, leading
+and mentoring others — the top of this profession's line. You influence
+both design and organisational strategy and priorities, collaborate with
+counterpart colleagues across government, and focus on making sure the
+right conditions and environment exist for designers to work effectively.
+Leading design, designing strategically, and designing together all sharpen
+at this level, because you're now setting vision and conditions for design
+across the organisation, not leading it within a single team.
 
 ## Learning pathway
 

@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -160,7 +160,7 @@ more than the level requires.
 
 **What the framework expects at this level**
 
-An associate network architect can build, configure, administer and support
+An associate network architect can build, configure, administer, and support
 infrastructure solutions and services — for example networking and physical
 infrastructure, commercial-off-the-shelf (COTS) software, open source
 packages and solutions, or virtual and cloud computing.
@@ -357,7 +357,7 @@ rated at or above its baseline target.
 
 One or two skills below target is not automatically a fail. Weigh how central
 the skill is to this level's accountabilities — IT infrastructure and Systems
-design sit closer to the core of the job than, say, Governance and assurance
+design sit closer to the core of the job than, say, Governance, and assurance
 at this stage — and consider whether the shortfall looks coachable quickly
 after appointment or in the early weeks of a role. Record your reasoning, not
 just the numbers: a panel or manager reading this later needs to know why a

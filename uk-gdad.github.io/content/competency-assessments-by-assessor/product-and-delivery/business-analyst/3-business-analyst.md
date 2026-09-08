@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -165,7 +165,7 @@ methodology — that judgement belongs to a later level.
 
 A business analyst is expected to model various elements of the business with
 limited direction, and to understand the impact of potential changes and how
-business processes, systems, data, roles and responsibilities interact.
+business processes, systems, data, roles, and responsibilities interact.
 
 **Baseline for this role level**
 
@@ -209,7 +209,7 @@ modelling across a project or programme, so the baseline sits below advanced.
 **What the framework expects at this level**
 
 A business analyst is expected to analyse and evaluate business processes to
-identify problems and opportunities, to design, prioritise and facilitate the
+identify problems and opportunities, to design, prioritise, and facilitate the
 implementation of business process improvements with some support, and to
 validate improvements to business processes through testing.
 
@@ -274,7 +274,7 @@ plans expected from a lead business analyst.
   cannot yet select the right one independently.
 - 2 — Working: Has independently planned and used an appropriate
   technique to understand a problem, defined a problem statement, and
-  formulated a recommendation weighing feasibility, benefits and impact.
+  formulated a recommendation weighing feasibility, benefits, and impact.
 - 3 — Practitioner: Has done the above for a more complex, ambiguous problem, and
   can explain how the work connected to the organisation's strategic goals.
 - 4 — Expert: Not expected at this level. Advising on options analysis
@@ -304,7 +304,7 @@ plans expected from a lead business analyst.
 
 **What the framework expects at this level**
 
-A business analyst is expected to identify, analyse, challenge and validate
+A business analyst is expected to identify, analyse, challenge, and validate
 business and user requirements, to work under limited supervision to
 co-ordinate and review the prioritisation of requirements, and to use
 appropriate requirements management life cycle methods to complete tasks and
@@ -321,9 +321,9 @@ up — a strong grasp exercised with independence.
 
 - 1 — Awareness: Can capture requirements accurately but does not yet challenge
   or validate them critically.
-- 2 — Working: Captures, analyses and validates requirements with some
+- 2 — Working: Captures, analyses, and validates requirements with some
   guidance, and can select an appropriate life cycle method with support.
-- 3 — Practitioner: Independently identifies, analyses, challenges and validates
+- 3 — Practitioner: Independently identifies, analyses, challenges, and validates
   requirements, co-ordinates their prioritisation with limited supervision,
   and applies the right life cycle method for the project.
 - 4 — Expert: Not expected at this level. Directing the approach to

@@ -1,5 +1,20 @@
 # Senior developer - management - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the senior developer (management) level,
 this page is for you: what the role expects, where to find everything else
 this repository has for it, and a pathway for building the skills it asks
@@ -17,7 +32,7 @@ page covers exactly the same ground either way.
 ## Purpose
 
 A senior developer at this level still delivers and integrates software to
-form a complete service, plans and leads development on sets of related
+form a complete service, plans, and leads development on sets of related
 stories, and holds an understanding of the whole system well enough to teach
 it to others — the same as the technical track. Where the framework's own
 wording actually sharpens is ownership of availability and capacity: taking
@@ -25,21 +40,6 @@ direct responsibility for standards and remedial action, rather than
 managing service components against KPIs someone else set. Coaching junior
 colleagues and improving system robustness, resilience and stability sit
 alongside that, exactly as they do on the technical track.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/5-senior-developer-management/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -121,7 +121,7 @@ and ask what you might be missing.
 - [ ] **Keep building your programming and build practice**
 
   This skill's expectation is unchanged: collaborating on specifications,
-  then designing, coding, testing and documenting programs of
+  then designing, coding, testing, and documenting programs of
   medium-to-high complexity to the right standards. Staying hands-on here
   is what keeps your leadership decisions grounded in reality.
 

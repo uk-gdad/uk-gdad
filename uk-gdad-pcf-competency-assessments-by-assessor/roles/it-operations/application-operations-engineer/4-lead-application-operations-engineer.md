@@ -8,13 +8,13 @@ The competency matrix below turns the framework's own description of this role l
 
 ## Advisory
 
-This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## How to use this assessment
 
 **Preparing.** Read `## About this role level` before you score anything, so the framework's own description of the level is fresh in your mind. Gather whatever evidence exists ahead of time: a CV or portfolio, a structured interview, a work sample or task, direct observation of the person working, or references — and at this level, look for evidence that spans a period of time rather than a single incident, since a lead's accountabilities are largely about sustained judgement and influence rather than one-off tasks.
 
-**Scoring on evidence, not impression.** Every rating must trace to something the person did, said, produced, or was observed doing. If you cannot point to evidence for a rating, record it as unknown rather than guess. Seniority in job title is not evidence of skill; ask for the specific decisions, changes or investigations the candidate led.
+**Scoring on evidence, not impression.** Every rating must trace to something the person did, said, produced, or was observed doing. If you cannot point to evidence for a rating, record it as unknown rather than guess. Seniority in job title is not evidence of skill; ask for the specific decisions, changes, or investigations the candidate led.
 
 **Consistency.** Score every candidate for this role level the same way, using the same evidence types where possible, and for a hiring or promotion decision have more than one assessor score independently before comparing notes.
 
@@ -287,7 +287,7 @@ Baseline: 3 — Practitioner. This level names the same Level 3 qualification as
 **Evidence to gather**
 
 - Ask the candidate to provide or describe their service management framework qualification and certificate level.
-- Ask them to explain how a specific ITIL life cycle or capability element (for example, service transition or problem management as a capability) shows up in a decision they made recently.
+- Ask them to explain how a specific ITIL life cycle or capability element (for example, service transition, or problem management as a capability) shows up in a decision they made recently.
 - Ask a referee whether the candidate has been asked to advise colleagues on service management framework practice.
 
 **Rate this skill**

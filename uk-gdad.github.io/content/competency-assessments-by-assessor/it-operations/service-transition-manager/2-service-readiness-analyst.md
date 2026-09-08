@@ -28,7 +28,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -332,7 +332,7 @@ rather than diagnostic, since its focus is testing and acceptance.
 
 - 1 — Awareness: Identifies and registers straightforward incidents with
   support.
-- 2 — Working: Identifies, registers and correctly allocates incidents
+- 2 — Working: Identifies, registers, and correctly allocates incidents
   to the right channel unsupervised.
 - 3 — Practitioner: Gathers thorough, well-organised information that speeds up
   resolution by whoever picks the incident up.
@@ -616,5 +616,5 @@ level can help plan next steps:
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/it-operations/service-transition-manager/2-service-readiness-analyst.md)
 
 Treat this competency assessment as one input among several, alongside your
-organisation's own interview, reference and probation processes. Thank you for
+organisation's own interview, reference, and probation processes. Thank you for
 taking the time to assess this candidly and fairly.

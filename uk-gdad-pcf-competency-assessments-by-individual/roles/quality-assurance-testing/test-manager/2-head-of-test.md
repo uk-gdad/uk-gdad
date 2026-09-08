@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -169,7 +169,7 @@ competently.
 **What the framework expects at this level**
 
 Set standards and influence organisational decisions for test types,
-techniques, design and execution. Coach others in test types, techniques,
+techniques, design, and execution. Coach others in test types, techniques,
 design and execution. Advocate for continuous improvement and refinement of
 test types and techniques. Make strategic decisions on new or improved test
 types and techniques used in your area.
@@ -456,7 +456,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

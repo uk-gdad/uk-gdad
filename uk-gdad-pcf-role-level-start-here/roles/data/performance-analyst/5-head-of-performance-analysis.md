@@ -1,26 +1,6 @@
 # Head of performance analysis - start here
 
-Welcome. If you are working toward the head of performance analysis level,
-this page is for you: what the role expects, where to find everything else
-this repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-The head of performance analysis leads the performance analysis community,
-acting as the point of contact between the community and the business —
-the top of this profession's line. You remove blockers and act as an
-escalation point for important issues, set the performance analysis
-strategy with input from lead and senior performance analysts, take
-responsibility for defining a framework for quality assurance within
-performance analysis, champion performance analysis and performance
-analysts across government and other analytical professions, and manage
-the organisation's performance analysis capability through business
-planning, development and recruitment. Every named skill carries the same
-wording as lead level here — at the top of this profession's ladder, the
-real differentiation is owning the strategy and the community, not a
-longer skill description for each named capability.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -33,7 +13,27 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/data/performance-analyst/5-head-of-performance-analysis/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/data/performance-analyst/5-head-of-performance-analysis/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/performance-analyst/5-head-of-performance-analysis/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/data/performance-analyst/5-head-of-performance-analysis/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the head of performance analysis level,
+this page is for you: what the role expects, where to find everything else
+this repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+The head of performance analysis leads the performance analysis community,
+acting as the point of contact between the community and the business —
+the top of this profession's line. You remove blockers and act as an
+escalation point for important issues, set the performance analysis
+strategy with input from lead and senior performance analysts, take
+responsibility for defining a framework for quality assurance within
+performance analysis, champion performance analysis, and performance
+analysts across government and other analytical professions, and manage
+the organisation's performance analysis capability through business
+planning, development, and recruitment. Every named skill carries the same
+wording as lead level here — at the top of this profession's ladder, the
+real differentiation is owning the strategy and the community, not a
+longer skill description for each named capability.
 
 ## Learning pathway
 
@@ -65,7 +65,7 @@ you haven't made yet.
 
 - [ ] **Lead best practice through the product life cycle, organisation-wide**
 
-  Develop sustainable support models, identify and deal with risks across
+  Develop sustainable support models, identify, and deal with risks across
   all stages of the product life cycle, coach others, contribute to
   assessing other teams, and lead and champion best practice across the
   organisation.

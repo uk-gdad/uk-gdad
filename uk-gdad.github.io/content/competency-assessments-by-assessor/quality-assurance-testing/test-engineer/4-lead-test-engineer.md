@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -501,7 +501,7 @@ this same role level pick up from here:
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-engineer/4-lead-test-engineer.md) —
   things to do, skill by skill.
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/test-engineer/4-lead-test-engineer.md) —
-  courses, articles, videos and books for a lead test engineer.
+  courses, articles, videos, and books for a lead test engineer.
 
 Thank you for taking the time to assess carefully and on evidence. A lead
 test engineer is the top of this role's ladder, and the framework expects

@@ -1,5 +1,20 @@
 # Head of digital evaluation - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the head of digital evaluation level,
 this page is for you: what the role expects, where to find everything else
 this repository has for it, and a pathway for building the areas it names.
@@ -14,24 +29,9 @@ strategy with input from lead and senior evaluators, define a framework for
 quality assurance within evaluation, advocate for digital evaluation across
 government and other analytical professions, and manage the organisation's
 digital evaluation capability through business planning, development and
-recruitment. Evaluation delivery, evaluation planning and monitoring across
+recruitment. Evaluation delivery, evaluation planning, and monitoring across
 the product life cycle all shift at this level from doing the work yourself
 to guiding, coaching and setting standards for the people who do it.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/digital-evaluator/5-head-of-digital-evaluation/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

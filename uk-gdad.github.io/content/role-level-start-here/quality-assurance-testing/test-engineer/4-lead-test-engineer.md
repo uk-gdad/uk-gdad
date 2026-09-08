@@ -1,5 +1,20 @@
 # Lead test engineer - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the lead test engineer level, this page is
 for you: what the role expects, where to find everything else this repository
 has for it, and a pathway for building the skills it asks for.
@@ -16,21 +31,6 @@ Where a senior test engineer is the person a team turns to, a lead test
 engineer is often the person other teams' leads turn to. The standards, tools
 and behaviours you establish here tend to outlast any single project — which
 is exactly the point.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/quality-assurance-testing/test-engineer/4-lead-test-engineer/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -54,7 +54,7 @@ the standards and strategies you're setting, not to hand you the answer.
 - [ ] **Guide test analysis and quality planning across many teams**
 
   Lead and guide multiple teams in test analysis so it happens early in the
-  life cycle, set standards and principles for test analysis across the whole
+  life cycle, set standards, and principles for test analysis across the whole
   organisation, and create and manage multiple quality testing plans and
   strategies at once — while advocating for quality to be involved early in
   organisational delivery processes, not bolted on afterwards.
@@ -66,7 +66,7 @@ the standards and strategies you're setting, not to hand you the answer.
 - [ ] **Make strategic calls on test types, techniques and tools**
 
   Set standards and influence organisational decisions on test types,
-  techniques, design and execution; advocate for continuous improvement of
+  techniques, design, and execution; advocate for continuous improvement of
   them; and make the strategic decisions about new or improved approaches
   used in your area, rather than leaving that to individual teams.
 

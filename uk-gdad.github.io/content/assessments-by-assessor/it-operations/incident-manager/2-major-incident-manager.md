@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -410,7 +410,7 @@ It is 11:30 at the gate from Question 4's world: a fix attempt is underway. If i
 
 - **Check the availability-conversion fluency in Question 1** — instant conversion between percentages and downtime is a fast proxy for command readiness.
 - **Watch for whether a candidate computes the bad branch, not just the plan** in recovery-timing items.
-- **Note whether a candidate weights before averaging** across services, teams or months of unequal size.
+- **Note whether a candidate weights before averaging** across services, teams, or months of unequal size.
 - **Keep timing consistent** across candidates for this level, and allow a calculator throughout.
 - **Use the expected-value item (Question 12) to observe whether a candidate distinguishes a constraint from a cost** — this is a strong signal of senior risk judgement.
 
@@ -834,4 +834,4 @@ The disciplines that score well here are the same disciplines that make someone 
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can command a crisis, delegate without abandoning, brief upward honestly, and leave a team stronger after the incident than before it — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can command a crisis, delegate without abandoning, brief upward honestly, and leave a team stronger after the incident than before it — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

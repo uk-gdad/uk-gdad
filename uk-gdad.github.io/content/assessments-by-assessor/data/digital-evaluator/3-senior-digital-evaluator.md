@@ -25,7 +25,7 @@ Each section explains what the assessment measures, maps it explicitly to the sk
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -173,7 +173,7 @@ D) 9,400 is plausible because the two sources should be added together
 
 **Question 7 (moderate) - Rule application across service phases**
 
-A department applies these internal rules, derived from the Service Standard: during discovery, teams gather qualitative evidence of user needs but do not set quantitative targets; during alpha, teams test hypotheses and define candidate indicators; during beta, teams collect baseline and live performance data against those indicators; during live, teams run full impact evaluation.
+A department applies these internal rules, derived from the Service Standard: during discovery, teams gather qualitative evidence of user needs but do not set quantitative targets; during alpha, teams test hypotheses, and define candidate indicators; during beta, teams collect baseline and live performance data against those indicators; during live, teams run full impact evaluation.
 
 A programme board asks four teams to report. Which team's activity is misaligned with its phase?
 

@@ -19,7 +19,7 @@ How to administer this fairly: present every candidate for this role level with 
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -687,4 +687,4 @@ To score: work through each section against the worked answers above, recording 
 
 After scoring, debrief the candidate. Share where they did well and where their answers diverged from the key, using the explanations in this document as your reference, and give them the chance to explain their reasoning - a candidate's stated reasoning sometimes reveals sound judgement that a forced-choice format could not capture. Keep a record of the items presented, the candidate's responses, and your scoring, and administer the assessment the same way for every candidate for this role level, so that comparisons between candidates remain fair.
 
-Finally, keep this assessment in its proper place. It samples a candidate's abilities on one day, under one format; it does not define them, and a disappointing result is simply one piece of evidence to weigh against the interview, the application, and any other material you hold. Use it as one input among several, alongside the advisory above, and never as the sole basis for a hiring, promotion, pay, performance or disciplinary decision.
+Finally, keep this assessment in its proper place. It samples a candidate's abilities on one day, under one format; it does not define them, and a disappointing result is simply one piece of evidence to weigh against the interview, the application, and any other material you hold. Use it as one input among several, alongside the advisory above, and never as the sole basis for a hiring, promotion, pay, performance, or disciplinary decision.

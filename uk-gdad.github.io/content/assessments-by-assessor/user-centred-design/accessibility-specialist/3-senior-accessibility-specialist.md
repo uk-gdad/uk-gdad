@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -28,7 +28,7 @@ Three things distinguish this section at this level. First, accessibility reason
 
 ### How this assessment maps to the role
 
-- **Error checking and audit reasoning** map to **Technical understanding (accessibility)**: performing detailed audits, documenting findings clearly and providing solutions for others to work from.
+- **Error checking and audit reasoning** map to **Technical understanding (accessibility)**: performing detailed audits, documenting findings clearly, and providing solutions for others to work from.
 - **Logical deduction** maps to **Technical understanding**, where excellent knowledge of standards and legislation including edge cases is named.
 - **Severity and proportionality reasoning** map to **Governance and assurance (accessibility)**: reducing or removing risk associated with not meeting standards requires knowing which risks are which.
 - **Prioritisation** maps to **Leadership and guidance**: decisions characterised by medium risk and complexity.
@@ -783,7 +783,7 @@ A specialist in another team routinely reports usability problems as conformance
 
 ## Conclusion
 
-This guide has worked through auditing reasoning that distinguishes a genuine failure from an over-application, separates severity from mere compliance, ranks a remediation plan by consequence rather than instance count, and writes findings with location, fault, impact and remedy; the arithmetic that turns accessibility into numbers people act on — reading thresholds at their boundaries, converting prevalence into people, reporting small bases as counts rather than overprecise percentages, and rejecting a bare conformance percentage; the discipline of reading standards, exemptions and conformance claims at exactly the strength the text supports, attaching qualifiers to the correct clause and distinguishing an assertion from an established fact; and the situational judgement that defines effective senior specialist work — advising with a route rather than a verdict, conceding a correct point immediately, and building capability in teams rather than dependency on the specialist.
+This guide has worked through auditing reasoning that distinguishes a genuine failure from an over-application, separates severity from mere compliance, ranks a remediation plan by consequence rather than instance count, and writes findings with location, fault, impact, and remedy; the arithmetic that turns accessibility into numbers people act on — reading thresholds at their boundaries, converting prevalence into people, reporting small bases as counts rather than overprecise percentages, and rejecting a bare conformance percentage; the discipline of reading standards, exemptions and conformance claims at exactly the strength the text supports, attaching qualifiers to the correct clause and distinguishing an assertion from an established fact; and the situational judgement that defines effective senior specialist work — advising with a route rather than a verdict, conceding a correct point immediately, and building capability in teams rather than dependency on the specialist.
 
 **Scoring and debrief.** Score against the worked explanations, not the answer letter alone — this role's findings carry statutory weight, and the strongest responses are precisely right at the boundary as well as offering a way forward; a technically impeccable specialist consulted too late has less effect than one equally precise and consulted early. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
 

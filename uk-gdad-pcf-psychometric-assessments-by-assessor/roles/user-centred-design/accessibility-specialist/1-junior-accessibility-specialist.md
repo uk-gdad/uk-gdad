@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -177,7 +177,7 @@ A developer proposes fixing a "focus not visible" issue by adding `*:focus { out
 
 **Correct answer: B**
 
-**Explanation:** The blanket rule removes the browser's default focus indicator from every focusable element; the custom style restores it only for buttons, leaving links, inputs and radio buttons with no indicator at all. This tests reasoning through a CSS change step by step for every affected element, not just the one in the bug report — option D confuses user groups, since focus visibility mainly affects sighted keyboard users rather than screen reader users.
+**Explanation:** The blanket rule removes the browser's default focus indicator from every focusable element; the custom style restores it only for buttons, leaving links, inputs, and radio buttons with no indicator at all. This tests reasoning through a CSS change step by step for every affected element, not just the one in the bug report — option D confuses user groups, since focus visibility mainly affects sighted keyboard users rather than screen reader users.
 
 **Question 12 (hard) — Combining rules to reach a verdict**
 

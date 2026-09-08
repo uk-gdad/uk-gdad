@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -381,7 +381,7 @@ team and the wider organisation; to talk confidently about the benefits of
 data science approaches to existing and potential customers; and to
 demonstrate a good understanding of a range of data science techniques, such
 as machine learning and natural language processing, using them to build
-solutions including reports, models and dashboards.
+solutions including reports, models, and dashboards.
 
 **Baseline for this role level**
 
@@ -568,7 +568,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

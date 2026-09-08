@@ -22,7 +22,7 @@ the whole of one — see `## Advisory` for why.
 This competency assessment is created by AI and is a work in progress for educational
 purposes. It is not a validated assessment instrument — it has not been piloted, normed
 or checked for adverse impact — and a rating on this form must never be the sole basis
-for a hiring, promotion, pay, performance or disciplinary decision. Before using it,
+for a hiring, promotion, pay, performance, or disciplinary decision. Before using it,
 consult your organisation's human resources, people development, occupational
 psychology or legal compliance colleagues.
 
@@ -218,9 +218,9 @@ whole organisation — organisation-facing, mastery-level ownership.
 
 - 1 — Awareness: has contributed design input to a strategy document someone else led.
 - 2 — Working: has worked with leaders to include design considerations in one
-  policy, technology or delivery decision, with support.
+  policy, technology, or delivery decision, with support.
 - 3 — Practitioner: independently works with leaders to ensure design is included early
-  in policy, technology or delivery processes.
+  in policy, technology, or delivery processes.
 - 4 — Expert: ensures design becomes part of how the organisation's strategy itself is
   developed and implemented, and enables the use of design patterns and components
   across the organisation.
@@ -418,7 +418,7 @@ service designer level below, where leading design is scoped to "a team".
 - Ask for an example of working effectively with a senior leader across the
   organisation or the wider public sector.
 - Ask a referee about a measurable improvement in design maturity the candidate was
-  responsible for, in the organisation or with a partner organisation.
+  responsible for, in the organisation, or with a partner organisation.
 
 **Rate this skill**
 

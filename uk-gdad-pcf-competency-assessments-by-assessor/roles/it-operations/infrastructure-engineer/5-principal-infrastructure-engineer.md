@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -51,7 +51,7 @@ materially reduces that risk. Never let a rating be influenced by anything
 other than demonstrated, job-related evidence.
 
 **Handling sensitive material.** Infrastructure engineering at this level
-routinely touches live infrastructure, supplier contracts and security
+routinely touches live infrastructure, supplier contracts, and security
 controls. When you record evidence in `## Assessor notes and evidence log`,
 describe what the person did and how they reasoned about it — not classified
 material, live vulnerability detail, or commercially sensitive contract
@@ -341,7 +341,7 @@ is expected to extend across strategic roadmap decisions too.
 
 A principal infrastructure engineer ensures that the right actions are taken
 to investigate, resolve and anticipate problems, and co-ordinates the team to
-investigate problems, implement solutions and take preventive measures.
+investigate problems, implement solutions, and take preventive measures.
 
 **Baseline for this role level**
 
@@ -431,7 +431,7 @@ design practice within an enterprise or industry architecture, influences
 industry-based models for the development of new technology applications,
 develops effective implementation and procurement strategies consistent with
 business needs, and ensures adherence to relevant technical strategies,
-policies, standards and practices.
+policies, standards, and practices.
 
 **Baseline for this role level**
 

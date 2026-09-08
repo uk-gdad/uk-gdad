@@ -1,5 +1,20 @@
 # Operations analyst - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are starting out as an operations analyst, this page is
 for you: what the role is about, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for,
@@ -13,21 +28,6 @@ improvement that can then be investigated. As an operations analyst, you
 provide administrative support to your manager and alert support staff
 when necessary — learning to spot what matters in a stream of monitoring
 data, and knowing who to tell when something needs attention.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/command-and-control-centre-manager/1-operations-analyst/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -55,12 +55,12 @@ organisation's monitoring setup, which a generic guide never is.
 
 - [ ] **Investigate problems at the right level**
 
-  Investigate problems in systems, processes and services with an
+  Investigate problems in systems, processes, and services with an
   understanding of what level a problem sits at — strategic, tactical or
   operational — and contribute to implementing remedies and preventative
   measures.
 
-  Ask AI: "What's the difference between a strategic, a tactical and an
+  Ask AI: "What's the difference between a strategic, a tactical, and an
   operational problem, with an example of each?"
 
 - [ ] **Manage service components against business needs**

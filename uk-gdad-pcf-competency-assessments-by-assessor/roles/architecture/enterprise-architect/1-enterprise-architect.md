@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 Because this instrument is unvalidated, using it inconsistently between
@@ -56,7 +56,7 @@ print.
 Enterprise architecture work regularly touches commercially sensitive supplier
 information and, in some organisations, security-classified material. Record
 evidence in general, job-relevant terms in the notes below — never transcribe
-classified detail, live vulnerability information or commercially confidential
+classified detail, live vulnerability information, or commercially confidential
 figures into this document.
 
 ## Rating scale

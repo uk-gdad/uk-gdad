@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -783,7 +783,7 @@ Someone says "we don't need to worry about colour blindness — it's rare," on a
 
 ## Conclusion
 
-This guide has worked through pattern recognition and error checking against spacing systems, type scales, contrast standards and icon sets; the arithmetic that makes design judgements defensible — reading thresholds at their exact boundary, computing ratios rather than differences, converting a defect into a specific number of affected people, and recognising when a mean hides an outlier worth investigating; the discipline of reading accessibility criteria, brand guidelines and stakeholder emails at exactly the strength the text supports, especially the difference between "or" and "and"; and the situational judgement that defines a strong associate graphic designer — raising problems early with a measured value attached, asking what a stated constraint actually is, and disclosing an own mistake promptly with its scope.
+This guide has worked through pattern recognition and error checking against spacing systems, type scales, contrast standards, and icon sets; the arithmetic that makes design judgements defensible — reading thresholds at their exact boundary, computing ratios rather than differences, converting a defect into a specific number of affected people, and recognising when a mean hides an outlier worth investigating; the discipline of reading accessibility criteria, brand guidelines and stakeholder emails at exactly the strength the text supports, especially the difference between "or" and "and"; and the situational judgement that defines a strong associate graphic designer — raising problems early with a measured value attached, asking what a stated constraint actually is, and disclosing an own mistake promptly with its scope.
 
 **Scoring and debrief.** Score against the worked explanations, not the answer letter alone — several situational and verbal items reward the quality of reasoning as much as the final choice, and at this level the strongest answer is very often the one that asks for guidance rather than acting alone. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
 

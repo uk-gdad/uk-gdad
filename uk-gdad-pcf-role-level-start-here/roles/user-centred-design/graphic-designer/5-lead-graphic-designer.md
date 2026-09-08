@@ -1,20 +1,6 @@
 # Lead graphic designer - start here
 
-Welcome. If you are working toward the lead graphic designer level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-A lead graphic designer is an expert practitioner who influences and
-mentors others. You work with service managers and programme directors to
-develop design concepts, set direction and assure design quality across
-teams, and lead multiple or highly complex services. Leading design,
-design communication, evidence-based design and iterative design all
-sharpen at this level, because you're now shaping how a wider organisation
-designs, not just producing strong design work yourself.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -27,7 +13,21 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/graphic-designer/5-lead-graphic-designer/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/graphic-designer/5-lead-graphic-designer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/graphic-designer/5-lead-graphic-designer/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/graphic-designer/5-lead-graphic-designer/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the lead graphic designer level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+A lead graphic designer is an expert practitioner who influences and
+mentors others. You work with service managers and programme directors to
+develop design concepts, set direction, and assure design quality across
+teams, and lead multiple or highly complex services. Leading design,
+design communication, evidence-based design, and iterative design all
+sharpen at this level, because you're now shaping how a wider organisation
+designs, not just producing strong design work yourself.
 
 ## Learning pathway
 
@@ -79,7 +79,7 @@ describe the actual situation and ask what you might be missing.
 - [ ] **Keep designing inclusively, and designing ethically**
 
   This skill's wording plateaus here, unchanged from senior level:
-  measurably improving inclusive, accessible and sustainable design
+  measurably improving inclusive, accessible, and sustainable design
   practice, and helping others understand and mitigate the influence of
   privilege and power.
 

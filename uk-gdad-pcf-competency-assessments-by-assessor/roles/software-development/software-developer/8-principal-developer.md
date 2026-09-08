@@ -89,7 +89,7 @@ level, all of whom have worked on system design in some capacity.
 - A rating of **4 — Expert** might be supported by evidence that the candidate
   has controlled system design practice across an enterprise or an industry
   architecture: for example, they set the design standards other architects
-  now design against, shaped a procurement or implementation strategy to match
+  now design against, shaped a procurement, or implementation strategy to match
   a business need, or their thinking has visibly influenced how a new
   technology gets applied beyond their own team.
 
@@ -181,7 +181,7 @@ not inflate this baseline to match the rest of the level.
 - 1 — Awareness: Can read an existing availability or capacity dashboard and
   describe what a metric means, but needs close support to identify when a
   component is at risk of breaching a KPI.
-- 2 — Working: With guidance, adjusts capacity settings or escalates an
+- 2 — Working: With guidance, adjusts capacity settings, or escalates an
   emerging availability risk for a single service component, and can explain
   the KPI it is measured against.
 - 3 — Practitioner: Independently manages the availability and capacity of one or
@@ -454,7 +454,7 @@ beyond using prototyping methods for a single piece of work.
 
 **What the framework expects at this level**
 
-A principal developer identifies, locates and fixes service faults.
+A principal developer identifies, locates, and fixes service faults.
 
 **Baseline for this role level**
 
@@ -508,7 +508,7 @@ practice within an enterprise or industry architecture, influences
 industry-based models for the development of new technology applications,
 develops effective implementation and procurement strategies consistent with
 business needs, and ensures adherence to relevant technical strategies,
-policies, standards and practices.
+policies, standards, and practices.
 
 **Baseline for this role level**
 
@@ -523,11 +523,11 @@ expert-level accountability.
   component under close direction from a more senior designer.
 - 2 — Working: Designs a moderately complex system component with some
   guidance, and can explain the design's main risks when asked.
-- 3 — Practitioner: Designs systems with high levels of risk, impact or technical
+- 3 — Practitioner: Designs systems with high levels of risk, impact, or technical
   complexity independently, and ensures the design adheres to the
   organisation's technical strategies and standards.
 - 4 — Expert: Controls system design practice across an enterprise or
-  industry architecture, shapes implementation and procurement strategy to
+  industry architecture, shapes implementation, and procurement strategy to
   match business needs, and has visibly influenced industry-facing models for
   how new technology gets applied.
 

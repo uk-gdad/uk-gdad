@@ -1,22 +1,6 @@
 # Senior application operations engineer - start here
 
-Welcome. If you are working toward the senior application operations
-engineer level, this page is for you: what the role expects, where to find
-everything else this repository has for it, and a pathway for building the
-skills it asks for.
-
-## Purpose
-
-A senior application operations engineer deals with more complex issues,
-taking responsibility for code deployment and co-ordinating change-based
-activities such as taking services live. Depending on a project's
-complexity, size and likely business impact, you might manage and maintain
-certain aspects of an application yourself. Change management, incident
-management, problem management, technical specialism and testing all grow
-at this level, because handling genuinely complex issues asks for more than
-following an established procedure.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -29,7 +13,23 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/it-operations/application-operations-engineer/3-senior-application-operations-engineer/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/it-operations/application-operations-engineer/3-senior-application-operations-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/application-operations-engineer/3-senior-application-operations-engineer/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/application-operations-engineer/3-senior-application-operations-engineer/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the senior application operations
+engineer level, this page is for you: what the role expects, where to find
+everything else this repository has for it, and a pathway for building the
+skills it asks for.
+
+## Purpose
+
+A senior application operations engineer deals with more complex issues,
+taking responsibility for code deployment and co-ordinating change-based
+activities such as taking services live. Depending on a project's
+complexity, size and likely business impact, you might manage and maintain
+certain aspects of an application yourself. Change management, incident
+management, problem management, technical specialism, and testing all grow
+at this level, because handling genuinely complex issues asks for more than
+following an established procedure.
 
 ## Learning pathway
 

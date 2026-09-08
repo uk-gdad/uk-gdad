@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -309,7 +309,7 @@ Working work.
 - A reference question, put to a risk owner the candidate has advised: "Did
   their advice help you decide, and did they say plainly when something was
   outside tolerance?"
-- A work sample: present a short, realistic risk scenario and ask the
+- A work sample: present a short, realistic risk scenario, and ask the
   candidate to advise on impact and proportionate assurance.
 
 **Rate this skill**

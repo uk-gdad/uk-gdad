@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -283,7 +283,7 @@ product's distinct wording at that level describes.
 
 A lead product manager leads and coaches teams through different phases of
 the product life cycle, ensures effective support for the product or service
-and its users, predicts, prevents, mitigates and manages potential risks at
+and its users, predicts, prevents, mitigates, and manages potential risks at
 different phases of that life cycle, and contributes to the assessment of
 other teams, providing guidance and support.
 
@@ -530,7 +530,7 @@ the entire organisation.
 
 A lead product manager supports and coaches others in creating and
 implementing a successful long-term strategy and tactical approach that
-others agree with, influences and persuades stakeholders to support
+others agree with, influences, and persuades stakeholders to support
 delivery of the strategy, supports strategic decision making, and ensures
 strategic alignment across the organisation.
 
@@ -619,7 +619,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

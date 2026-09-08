@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -75,7 +75,7 @@ two junior developer people, both of whom have written code before.
   senior developer at natural points — for example, to confirm an
   assumption. That is **2 — Working**: they can perform the task with
   some guidance, rather than needing to be walked through it.
-- Someone who could design, code, test and document a simple component
+- Someone who could design, code, test, and document a simple component
   with only occasional check-ins, producing documentation someone else could
   pick up unaided, would be **3 — Practitioner** — beyond what this role level's
   baseline requires, but worth noting if you see it.
@@ -295,7 +295,7 @@ single small task, not as a higher scale point here.
 - 2 — Working: Breaks a simple, well-defined task into steps
   themselves, writes code, tests it and corrects it, checking in with a more
   senior developer at natural points rather than needing constant direction.
-- 3 — Practitioner: Designs, codes, tests and documents a simple component with
+- 3 — Practitioner: Designs, codes, tests, and documents a simple component with
   only occasional check-ins, and the documentation is clear enough for
   someone else to pick up.
 - 4 — Expert: Is trusted to take on a small, simple piece of work end-to-end
@@ -591,7 +591,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

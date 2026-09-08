@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -76,9 +76,9 @@ plan how a data model should be structured is showing evidence towards
 
 ## About this role level
 
-The Data profession's Data analyst role collects, manages, explores and shares
+The Data profession's Data analyst role collects, manages, explores, and shares
 data to support organisational objectives and deliver business impact. Across
-the role, a data analyst identifies, collects and moves data between a range
+the role, a data analyst identifies, collects, and moves data between a range
 of systems; applies data analysis and data visualisation tools and
 techniques; prepares, manages and models data, following appropriate
 standards and practices; and communicates data, insights and conclusions in
@@ -88,10 +88,10 @@ The role has four levels, in order: Associate data analyst, Data analyst,
 Senior data analyst, and Principal data analyst. This assessment is for the
 second of them.
 
-A **data analyst** contributes to the planning, analysis and implementation
+A **data analyst** contributes to the planning, analysis, and implementation
 of data. They work to appropriate standards and ensure data is used to
 achieve the team's goals. At this role level, they will prepare and manage
-data, apply appropriate techniques, tools and processes to effectively
+data, apply appropriate techniques, tools, and processes to effectively
 analyse data, and communicate data to stakeholders with different needs.
 
 The framework names nine skills for this role level: Applying statistical
@@ -159,7 +159,7 @@ explaining and supporting.
 **What the framework expects at this level**
 
 A data analyst is expected to communicate effectively with technical and
-non-technical stakeholders, support and host discussions within a
+non-technical stakeholders, support, and host discussions within a
 multidisciplinary team with potentially difficult dynamics, be an advocate for
 the team externally, and manage differing stakeholder perspectives.
 
@@ -430,7 +430,7 @@ leading.
 
 A data analyst is expected to design the analytical approach and the code
 needed to address simple research questions, explain the importance of
-testing code, review and improve analytical approaches under supervision
+testing code, review, and improve analytical approaches under supervision
 including code, and produce analytical approach documentation that describes
 the code they wrote.
 

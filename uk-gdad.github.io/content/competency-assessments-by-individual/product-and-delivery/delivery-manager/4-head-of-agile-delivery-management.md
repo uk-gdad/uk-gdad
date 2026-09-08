@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -120,7 +120,7 @@ than in different skill wording.
 
 A head of (Agile) delivery management is expected to coach and lead teams in
 Agile and Lean good practices, to create and tailor the right approach for a
-team, challenging, evaluating and iterating the approach through the life
+team, challenging, evaluating, and iterating the approach through the life
 cycle, to experiment with new and innovative ways of working to improve
 delivery across the organisation, and to act as a recognised expert and
 advocate for Agile and Lean approaches.
@@ -215,7 +215,7 @@ and strengthen relationships, adopting the appropriate communication method
 with stakeholders at all levels, to manage stakeholder expectations and
 moderate difficult discussions about high risk and complex topics even within
 constrained timescales, and to speak on behalf of, and represent the
-community to, large audiences inside and outside the organisation.
+community to, large audiences inside, and outside the organisation.
 
 **Baseline for this role level**
 
@@ -275,7 +275,7 @@ management and Team dynamics and collaboration than here.
 - 1 — Awareness: Monitors and reports on a budget set by someone else.
 - 2 — Working: Balances cost against value in day-to-day delivery
   decisions.
-- 3 — Practitioner: Negotiates, influences or sets a budget in a complex
+- 3 — Practitioner: Negotiates, influences, or sets a budget in a complex
   environment, and writes or contributes meaningfully to a business case at
   organisational scale.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -578,7 +578,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

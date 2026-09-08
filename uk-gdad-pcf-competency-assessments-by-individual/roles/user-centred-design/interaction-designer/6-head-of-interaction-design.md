@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -86,7 +86,7 @@ the last of them.
 
 A **head of interaction design** is an expert practitioner with broad
 industry experience, who can define and assure best practice while
-influencing, leading and mentoring others. At this role level, they will
+influencing, leading, and mentoring others. At this role level, they will
 influence both design and organisational strategy and priorities,
 collaborate with counterpart colleagues across government, and focus on
 ensuring the right conditions and environment for designers to work
@@ -148,7 +148,7 @@ Expert — already the top of what the framework describes for this skill.
 **What the framework expects at this level**
 
 A head of interaction design is expected to measurably improve the practice
-of inclusive, accessible and environmentally sustainable design in multiple
+of inclusive, accessible, and environmentally sustainable design in multiple
 teams or across their organisation, and help others understand and mitigate
 the influence of privilege and power on the design and delivery of content
 and services.
@@ -166,7 +166,7 @@ Expert.
   design.
 - 3 — Practitioner: Advises multiple teams on inclusive, accessible and
   sustainable design.
-- 4 — Expert: Measurably improves inclusive, accessible and sustainable
+- 4 — Expert: Measurably improves inclusive, accessible, and sustainable
   design practice across multiple teams or the organisation, and helps
   others understand and mitigate the influence of privilege and power.
 
@@ -195,7 +195,7 @@ Expert.
 A head of interaction design is expected to work with others to ensure
 design becomes part of the development and implementation of their
 organisation's strategy, work with leaders to ensure design is included in
-policy, technology and delivery processes early enough to inform effective
+policy, technology, and delivery processes early enough to inform effective
 decision making, and enable use of patterns and components across the
 organisation.
 
@@ -289,7 +289,7 @@ designer's advisory role.
 
 A head of interaction design is expected to embed a practice of
 hypothesis-driven design in a team, guide the organisation in how to use
-evidence to improve services, analyse, synthesise and use evidence to
+evidence to improve services, analyse, synthesise, and use evidence to
 improve the way the organisation works, and ensure user insights are shared
 with and used by the wider organisation and across government.
 
@@ -464,7 +464,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

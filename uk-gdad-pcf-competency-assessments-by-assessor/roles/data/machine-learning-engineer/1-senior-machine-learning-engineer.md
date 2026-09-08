@@ -18,7 +18,7 @@ never the whole of one — see `## Advisory` for why.
 This competency assessment is created by AI and is a work in progress for educational
 purposes. It is not a validated assessment instrument — it has not been piloted, normed
 or checked for adverse impact — and a rating on this form must never be the sole basis
-for a hiring, promotion, pay, performance or disciplinary decision. Before using it,
+for a hiring, promotion, pay, performance, or disciplinary decision. Before using it,
 consult your organisation's human resources, people development, occupational
 psychology or legal compliance colleagues.
 
@@ -287,7 +287,7 @@ right standards and tools.
 
 **Baseline for this role level**
 
-Baseline: 3 — Practitioner. Designing, coding, testing and documenting medium-to-high
+Baseline: 3 — Practitioner. Designing, coding, testing, and documenting medium-to-high
 complexity work unsupervised, to agreed standards, is a strong, independent grasp of
 programming and build.
 
@@ -305,7 +305,7 @@ programming and build.
 **Evidence to gather**
 
 - A work sample or take-home task: a specification of medium-to-high complexity for
-  them to design, code, test and document.
+  them to design, code, test, and document.
 - A structured interview question: "Walk me through a piece of code you're proud of.
   What standards did you hold yourself to, and why?"
 - Review a real repository or codebase they can talk through, if available.

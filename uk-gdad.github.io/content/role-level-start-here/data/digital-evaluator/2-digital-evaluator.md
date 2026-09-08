@@ -1,5 +1,20 @@
 # Digital evaluator - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the digital evaluator level, this page
 is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -16,21 +31,6 @@ and communicate findings through written reports while still receiving
 guidance to develop your skills. Most named skills grow at this level,
 because you're now producing real evaluation work, not just building
 foundational awareness.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/digital-evaluator/2-digital-evaluator/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -52,7 +52,7 @@ around your own evaluation work.
 - [ ] **Develop a theory of change, with support**
 
   Develop a theory of change for a product or service through discussion
-  with stakeholders, with support, identify and present options for
+  with stakeholders, with support, identify, and present options for
   measuring indicators, turn some identified indicators into measurement
   frameworks, and support building a performance dashboard.
 
@@ -83,7 +83,7 @@ around your own evaluation work.
 - [ ] **Choose the right medium, and give tactical recommendations**
 
   Choose the appropriate medium to communicate findings, shape
-  communications for the audience, present analysis and visualisations
+  communications for the audience, present analysis, and visualisations
   clearly for both specialist and non-specialist audiences with support,
   and give tactical recommendations to inform decisions.
 

@@ -19,7 +19,7 @@ How should the assessor use this document? Present the items under the timing su
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -926,7 +926,7 @@ The cognitive section tests reasoning structurally - reading a pattern for the c
 
 The numeric section tests the arithmetic this role runs on, and one calculation in particular: a completion rate rising from 58% to 66% while starts fall from 24,000 to 18,000 means roughly two thousand fewer people completed. Rates and counts answer different questions, and a great deal of misleading reporting lives in the space between them.
 
-The verbal section tests reading definitions, frameworks and attributed claims exactly. "Should" is not "must". A correction plus a re-review is two conditions. A platform team's estimate of its own data quality is a claim. And a dashboard that is not versioned cannot be used to reproduce a figure quoted last month.
+The verbal section tests reading definitions, frameworks, and attributed claims exactly. "Should" is not "must". A correction plus a re-review is two conditions. A platform team's estimate of its own data quality is a claim. And a dashboard that is not versioned cannot be used to reproduce a figure quoted last month.
 
 The situational judgement section circles the two halves of this role. A strong lead coaches, which means walking an analyst to an answer rather than handing it over, and fronting the team's corrections personally while handling the learning privately. And a lead is accountable for how analysis is used, which is why the strong answers intervene at the point of interpretation - correcting a misreading in the room, asking how a target would be met before it is set, and investigating why teams do not trust a measure rather than explaining it again.
 

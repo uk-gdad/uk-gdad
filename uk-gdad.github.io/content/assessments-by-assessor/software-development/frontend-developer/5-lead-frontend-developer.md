@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -151,7 +151,7 @@ Recommending one approach for rich data-visualisation across three services, pri
 
 **Correct answer: B**
 
-**Explanation:** Applying priorities in order eliminates W (structurally fragile accessibility, a perpetual parallel-build obligation), Y (proprietary configuration sits outside the community's skills, code review and version control), and Z (breaches the one-quarter constraint) — X alone survives every filter. This tests sequential elimination against stated priorities rather than holistic judgement, and documenting which requirement eliminated each candidate, which is what makes a recommendation defensible and teachable later.
+**Explanation:** Applying priorities in order eliminates W (structurally fragile accessibility, a perpetual parallel-build obligation), Y (proprietary configuration sits outside the community's skills, code review, and version control), and Z (breaches the one-quarter constraint) — X alone survives every filter. This tests sequential elimination against stated priorities rather than holistic judgement, and documenting which requirement eliminated each candidate, which is what makes a recommendation defensible and teachable later.
 
 **Question 10 (hard) — Applied problem solving on a cross-service regression**
 
@@ -220,7 +220,7 @@ For a lead frontend developer, numeric reasoning sits at the aggregation layer, 
 
 ### How this assessment maps to the role
 
-- **Percentages and proportional change** map to **Web performance optimisation** and **Modern development standards**: budgets, regressions, savings and adoption rates.
+- **Percentages and proportional change** map to **Web performance optimisation** and **Modern development standards**: budgets, regressions, savings, and adoption rates.
 - **Weighted averages and mix effects** map to assuring quality across teams and **Strategic thinking**: portfolio metrics weighted correctly before they mean anything.
 - **Ratios, rates and capacity arithmetic** map to **Leadership and guidance (frontend developer)**: converting team capacity into credible timelines.
 - **Cost comparison over time** maps to making and justifying high-impact decisions: comparing cost shapes over a sensible horizon.
@@ -256,7 +256,7 @@ Five services' 75th-percentile LCP: 2.8, 2.4, 3.0, 2.2, 2.6 seconds. Ask for the
 
 **Question 3 (easy) — Splitting effort by ratio**
 
-A 40-day quarter split between bug fixes, new components and maintenance in ratio 2:3:5. Ask how many days go to new components.
+A 40-day quarter split between bug fixes, new components, and maintenance in ratio 2:3:5. Ask how many days go to new components.
 
 - A) 8
 - B) 10

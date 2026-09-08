@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -334,7 +334,7 @@ live system unaided — that is independent, applied work, not guided practice.
   close supervision.
 - 2 — Working: Produces and maintains a data model for a defined need
   with some review, and can explain basic modelling concepts correctly.
-- 3 — Practitioner: Independently produces, maintains and updates data models for
+- 3 — Practitioner: Independently produces, maintains, and updates data models for
   real organisational needs, and can reverse-engineer a model from a live
   system with no supporting documentation.
 - 4 — Expert: Is the person others bring their hardest modelling problems to,
@@ -361,7 +361,7 @@ live system unaided — that is independent, applied work, not guided practice.
 
 **What the framework expects at this level**
 
-Use data policies, processes and standards effectively. Work with subject
+Use data policies, processes, and standards effectively. Work with subject
 matter experts to develop standards, policies and guidance to protect data.
 Monitor compliance with policies and standards in a team, and take action if
 needed. Analyse the impact if a standard is breached.

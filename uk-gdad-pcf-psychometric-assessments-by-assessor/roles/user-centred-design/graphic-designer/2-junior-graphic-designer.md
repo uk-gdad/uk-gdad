@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -787,7 +787,7 @@ A candidate has been given more work than can plausibly be finished this week. A
 
 ## Conclusion
 
-This guide has worked through pattern recognition and error checking against spacing systems, type scales, contrast standards and component audits; the arithmetic that makes design judgements defensible — reading thresholds at their exact boundary, chaining percentages correctly, comparing rates rather than raw counts, and recognising when a mean hides an outlier; the discipline of reading accessibility standards, design system guidance and research findings at exactly the strength the text supports, especially the difference between "should" and "must"; and the situational judgement that defines a strong junior graphic designer — explaining decisions by the problem they solve, and raising problems early rather than waiting.
+This guide has worked through pattern recognition and error checking against spacing systems, type scales, contrast standards, and component audits; the arithmetic that makes design judgements defensible — reading thresholds at their exact boundary, chaining percentages correctly, comparing rates rather than raw counts, and recognising when a mean hides an outlier; the discipline of reading accessibility standards, design system guidance and research findings at exactly the strength the text supports, especially the difference between "should" and "must"; and the situational judgement that defines a strong junior graphic designer — explaining decisions by the problem they solve, and raising problems early rather than waiting.
 
 **Scoring and debrief.** Score against the worked explanations, not the answer letter alone — several situational and verbal items reward the quality of reasoning as much as the final choice. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
 

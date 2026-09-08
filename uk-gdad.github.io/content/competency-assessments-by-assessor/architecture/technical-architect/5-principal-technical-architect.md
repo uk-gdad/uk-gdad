@@ -23,7 +23,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -180,7 +180,7 @@ Communicate with technical and non-technical stakeholders at all levels, and
 across organisations, using architecture communication techniques. Mediate
 between people in difficult architectural discussions. Gain support from
 business and technical stakeholders for architectural topics with high
-levels of risk, impact and complexity. Coach and support others in
+levels of risk, impact, and complexity. Coach and support others in
 architecture communication.
 
 **Baseline for this role level**
@@ -265,7 +265,7 @@ Make and guide architectural design decisions characterised by high levels
 of risk and complexity. Identify and address architectural risks across the
 organisation or wider government. Lead and evolve architectural governance
 and assurance. Represent architectural governance as part of wider
-governance, for example, legal or commercial.
+governance, for example, legal, or commercial.
 
 **Baseline for this role level**
 

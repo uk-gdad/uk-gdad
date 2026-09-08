@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -311,7 +311,7 @@ at the level above, so the baseline sits in the middle of the scale.
 **What the framework expects at this level**
 
 A data engineer is expected to explain the concepts and principles of data
-modelling, produce, maintain and update relevant data models for an
+modelling, produce, maintain, and update relevant data models for an
 organisation's specific needs, and reverse-engineer data models from a live
 system.
 
@@ -437,7 +437,7 @@ level stops short of resolving or deciding, so the baseline sits at Awareness.
 
 **What the framework expects at this level**
 
-A data engineer is expected to design, code, test, correct and document
+A data engineer is expected to design, code, test, correct, and document
 simple programs or scripts under the direction of others.
 
 **Baseline for this role level**
@@ -450,9 +450,9 @@ than Working.
 
 - 1 — Awareness: Writes and tests a simple script under direction, and
   documents what it does when asked.
-- 2 — Working: Writes, tests and documents simple-to-moderate scripts
+- 2 — Working: Writes, tests, and documents simple-to-moderate scripts
   with only light direction.
-- 3 — Practitioner: Independently designs, builds and documents moderately
+- 3 — Practitioner: Independently designs, builds, and documents moderately
   complex programs from a specification.
 - 4 — Expert: Sets coding standards and reviews others' programs.
 

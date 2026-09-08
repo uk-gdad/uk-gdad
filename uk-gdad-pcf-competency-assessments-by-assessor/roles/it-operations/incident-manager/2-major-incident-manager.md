@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -100,7 +100,7 @@ management framework knowledge, and User focus.
 
 **What the framework expects at this level**
 
-A major incident manager tracks, logs and corrects information to protect
+A major incident manager tracks, logs, and corrects information to protect
 assets and components.
 
 **Baseline for this role level**
@@ -538,7 +538,7 @@ strong-grasp practice.
 - 3 — Practitioner: champions user research, can explain the difference between
   what users ask for and what they need, and recommends tools or methods to
   use.
-- 4 — Expert: represents users internally, prioritises and defines the
+- 4 — Expert: represents users internally, prioritises, and defines the
   approach to the user story, and guides colleagues through it.
 
 **Evidence to gather**

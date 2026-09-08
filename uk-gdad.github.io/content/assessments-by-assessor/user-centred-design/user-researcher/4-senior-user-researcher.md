@@ -12,7 +12,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -578,7 +578,7 @@ A situational judgement assessment presents realistic workplace scenarios and as
 
 This section measures whether a candidate's judgement matches what the profession considers good practice at this level. The role places a senior user researcher as an experienced practitioner leading research in larger teams and on more complex services, building user-centred practice in new teams, supervising and developing other researchers, engaging sceptical colleagues, evaluating work against professional standards, and influencing stakeholders to resolve issues. What distinguishes this level from an independent practitioner's more sharply than anything else: a candidate who fixes a colleague's flawed analysis without the colleague learning anything has solved only half the job.
 
-Four principles carry most scenarios: participants and users come first; the integrity of the evidence is protected, and so is other people's ability to protect it — options that leave a junior colleague alone with pressure to compromise a finding are nearly as bad as compromising it directly; capability is developed while the problem is solved, not simply produced as output; and escalation is calibrated to genuine severity — safeguarding, ethics approvals, data incidents and serious misconduct go up, while methodological disagreements, stakeholder pressure and peer feedback are handled directly.
+Four principles carry most scenarios: participants and users come first; the integrity of the evidence is protected, and so is other people's ability to protect it — options that leave a junior colleague alone with pressure to compromise a finding are nearly as bad as compromising it directly; capability is developed while the problem is solved, not simply produced as output; and escalation is calibrated to genuine severity — safeguarding, ethics approvals, data incidents, and serious misconduct go up, while methodological disagreements, stakeholder pressure and peer feedback are handled directly.
 
 ### How this assessment maps to the role
 
@@ -628,7 +628,7 @@ Across a programme, research consistently arrives after decisions are taken; tea
 
 **Most effective: B. Least effective: A**
 
-**Explanation:** A programme-level problem needs a programme-level forum, evidence and sponsorship. Option B adds the element distinguishing senior from independent practice: securing sponsorship with authority to change how decisions are sequenced. Option A is least effective, treating a sequencing problem as a speed problem. Option C produces three local accommodations rather than structural change. Option D trades value for timeliness.
+**Explanation:** A programme-level problem needs a programme-level forum, evidence, and sponsorship. Option B adds the element distinguishing senior from independent practice: securing sponsorship with authority to change how decisions are sequenced. Option A is least effective, treating a sequencing problem as a speed problem. Option C produces three local accommodations rather than structural change. Option D trades value for timeliness.
 
 **Question 4 (moderate) — Assuring work that is not good enough**
 

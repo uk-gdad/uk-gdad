@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -226,7 +226,7 @@ practice within an enterprise or industry architecture; influences
 industry-based models for the development of new technology applications;
 develops effective implementation and procurement strategies consistent with
 business needs; and ensures adherence to relevant technical strategies,
-policies, standards and practices.
+policies, standards, and practices.
 
 **Baseline for this role level**
 
@@ -245,7 +245,7 @@ shapes practice beyond the person's own work.
 - 3 — Practitioner: designs high-risk, high-complexity systems independently, but
   has not yet shaped design practice or procurement strategy beyond their own
   work.
-- 4 — Expert: designs for high risk, impact and complexity; controls design
+- 4 — Expert: designs for high risk, impact, and complexity; controls design
   practice within an enterprise or industry architecture; develops
   implementation and procurement strategies that suit the business; and
   ensures adherence to the relevant strategies, policies, standards and

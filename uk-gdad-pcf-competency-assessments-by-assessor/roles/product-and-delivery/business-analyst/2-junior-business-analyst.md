@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -184,7 +184,7 @@ above pure explanation.
 
 - Ask to see a process diagram, flowchart, or similar visualisation the
   candidate has produced, even from training.
-- A short task: describe a simple, multi-step business scenario and ask the
+- A short task: describe a simple, multi-step business scenario, and ask the
   candidate to sketch it as a basic diagram.
 - Ask a supervisor whether the candidate's diagrams and models have needed
   significant rework, or have been usable with light review.
@@ -473,7 +473,7 @@ the trainee level.
 A junior business analyst is expected to understand the importance of making
 data-informed decisions based on user research findings, and to support the
 analysis and prioritisation of user experience needs, understanding how needs
-tie to system, product or service requirements.
+tie to system, product, or service requirements.
 
 **Baseline for this role level**
 

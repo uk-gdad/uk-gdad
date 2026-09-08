@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -116,7 +116,7 @@ is the third:
 3. **Senior test engineer** — this level
 4. Lead test engineer
 
-Below this level, a test engineer writes, debugs and refactors test code
+Below this level, a test engineer writes, debugs, and refactors test code
 within their own team, with some support on the harder parts. Above it, a
 lead test engineer sets standards and influences decisions across the whole
 organisation, writes new automation test frameworks from project
@@ -415,7 +415,7 @@ independent grasp across the board, not full mastery of everything.
   than one team uses, guides and coaches colleagues in writing tests that
   meet the team's standards, and actively researches future testing needs.
 - 4 — Expert: Establishes and leads the organisation's test engineering
-  practices, standards and tool choices.
+  practices, standards, and tool choices.
 
 **Evidence to gather**
 
@@ -500,7 +500,7 @@ this same role level pick up from here:
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md) —
   things to do, skill by skill.
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/test-engineer/3-senior-test-engineer.md) —
-  courses, articles, videos and books for a senior test engineer.
+  courses, articles, videos, and books for a senior test engineer.
 
 Thank you for taking the time to assess carefully and on evidence. A senior
 test engineer is doing genuinely independent, cross-team work in every skill

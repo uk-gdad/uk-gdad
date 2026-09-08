@@ -76,7 +76,7 @@ how confident they feel about it.
   more senior colleague, and cannot yet say why one approach was chosen over
   another.
 - At **3 — Practitioner**, a person takes technical responsibility for a whole
-  project through several iterations, makes sound build and tooling decisions
+  project through several iterations, makes sound build, and tooling decisions
   without checking them with someone else first, and can explain the
   trade-offs behind those decisions unprompted.
 - At **4 — Expert**, a person holds technical responsibility for a project end
@@ -316,7 +316,7 @@ this skill's wording asks for directly.
 - 3 — Practitioner: applies modern development standards correctly across complex
   projects, including where the right standard is not obvious, without
   needing to check with someone else.
-- 4 — Expert: actively teaches, reviews and corrects other developers'
+- 4 — Expert: actively teaches, reviews, and corrects other developers'
   application of development standards, and has introduced or updated a
   standard that the wider team or programme now follows.
 
@@ -372,7 +372,7 @@ which is this scale's own definition of Expert.
 
 **Evidence to gather**
 
-- Review a technical decision record, architecture document or tooling
+- Review a technical decision record, architecture document, or tooling
   standard they authored that their team follows.
 - Ask for an example of a stakeholder conversation where their technical
   advice changed the direction of a piece of work.
@@ -445,7 +445,7 @@ practice to other teams, so it stops short of Expert.
 
 **What the framework expects at this level**
 
-A lead developer identifies, locates and fixes service faults.
+A lead developer identifies, locates, and fixes service faults.
 
 **Baseline for this role level**
 
@@ -512,7 +512,7 @@ others' designs is part of the accountability at this level.
 - 2 — Working: designs a system of limited scope independently, but
   needs a second opinion once risk, impact or complexity is more than
   straightforward.
-- 3 — Practitioner: designs systems of medium risk, impact and complexity
+- 3 — Practitioner: designs systems of medium risk, impact, and complexity
   independently, selects the design standards and tools that fit the problem,
   and reviews a colleague's design for appropriate technology choice,
   efficient resourcing and integration.
@@ -569,7 +569,7 @@ of related teams.
 
 **Evidence to gather**
 
-- Review an integration plan, interface specification or build coordination
+- Review an integration plan, interface specification, or build coordination
   document they authored.
 - Ask for an example where they coordinated an integration build across two
   or more systems owned by different teams.

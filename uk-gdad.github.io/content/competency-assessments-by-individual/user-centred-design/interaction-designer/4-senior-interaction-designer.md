@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -397,7 +397,7 @@ skill text itself has not moved on yet.
 **Behavioural indicators**
 
 - 1 — Awareness: Describes the value of user-centred design when asked.
-- 2 — Working: With support, leads or coordinates a piece of design
+- 2 — Working: With support, leads, or coordinates a piece of design
   work in the team, communicates the value of user-centred design, and
   supports another designer.
 - 3 — Practitioner: Leads and coordinates design work without needing support,
@@ -467,7 +467,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

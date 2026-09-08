@@ -93,7 +93,7 @@ At the **product manager** level, the person is responsible for product
 quality and value, working with the team to identify, implement and improve
 strategies and tactics for their products. They might recruit and manage
 people in the product profession, ensuring people with the right skills are
-hired, supported and developed. The framework notes this can be an
+hired, supported, and developed. The framework notes this can be an
 entry-level role for people moving in from other digital roles.
 
 At this role level, a person is expected to lead a product through the
@@ -323,7 +323,7 @@ alone.
 **What the framework expects at this level**
 
 A product manager works with others to define key performance indicators that
-assess performance, value and outcomes; analyses and uses trusted data to
+assess performance, value, and outcomes; analyses and uses trusted data to
 make decisions and enable continuous improvement; is open about their
 decision making; and identifies and explains success metrics to stakeholders,
 along with how the product can contribute to outcomes.
@@ -449,7 +449,7 @@ able to do this independently rather than with close supervision.
 
 - Ask the candidate to walk through their current roadmap and explain one
   trade-off they made under a deadline.
-- Review a roadmap, product strategy document or public working-in-the-open
+- Review a roadmap, product strategy document, or public working-in-the-open
   update they produced.
 - Structured interview question: "Tell me about a time scope had to change
   to hit a critical deadline. How did you decide what to cut?"

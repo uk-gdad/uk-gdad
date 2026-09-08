@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -643,7 +643,7 @@ This role is defined as much by behaviours as by knowledge: advocating for user 
 ### How this assessment maps to the role
 
 - **User focus scenarios** map to the duty to **work with product managers to advocate for user needs throughout the organisation** and to **Applying user-centred insights**: the effective response keeps user evidence in the conversation, especially when inconvenient.
-- **Team collaboration scenarios** map to **Product leadership** and the duty to **work with multidisciplinary teams**: respecting the expertise of designers, developers and researchers.
+- **Team collaboration scenarios** map to **Product leadership** and the duty to **work with multidisciplinary teams**: respecting the expertise of designers, developers, and researchers.
 - **Prioritisation and ownership scenarios** map to **Product management**: taking ownership of what is genuinely theirs at associate level, honest about trade-offs.
 - **Escalation scenarios** map to **managing a smaller product with support**: knowing when to inform or involve a product manager; both over- and under-escalating are marked down.
 - **Stakeholder scenarios** map to **Stakeholder relationship management**: clear, early, honest communication and consensus built on evidence.

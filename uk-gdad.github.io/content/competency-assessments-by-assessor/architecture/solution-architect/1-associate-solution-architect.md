@@ -21,7 +21,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -134,7 +134,7 @@ solution architect to:
 **What the framework expects at this level**
 
 Identify relevant information that can inform your architectural work, such
-as strategies, roadmaps, policies and technical trends. Understand how your
+as strategies, roadmaps, policies, and technical trends. Understand how your
 work supports the team in enabling change.
 
 **Baseline for this role level**
@@ -354,7 +354,7 @@ someone else's framing and option-creation, not owning it.
 
 - A structured interview question: "Describe a problem you helped frame. What
   was your contribution, and what did a more senior colleague add?"
-- A work sample: present a simple, real-shaped problem and ask the candidate
+- A work sample: present a simple, real-shaped problem, and ask the candidate
   to help outline it and suggest an option.
 
 **Rate this skill**

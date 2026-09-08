@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -275,7 +275,7 @@ more senior roles, so the baseline sits at the middle of the scale.
 **What the framework expects at this level**
 
 A senior data engineer is expected to select and implement the appropriate
-technologies to deliver resilient, scalable and future-proofed data
+technologies to deliver resilient, scalable, and future-proofed data
 solutions.
 
 **Baseline for this role level**
@@ -290,7 +290,7 @@ level below.
 - 2 — Working: Delivers within agreed organisational standards but does
   not yet select technologies independently.
 - 3 — Practitioner: Independently selects and implements the appropriate
-  technologies to deliver resilient, scalable and future-proofed data
+  technologies to deliver resilient, scalable, and future-proofed data
   solutions.
 - 4 — Expert: Establishes the organisation's integration design standards and
   keeps abreast of best practice across government and industry.
@@ -459,7 +459,7 @@ directed scripts.
 - 1 — Awareness: Builds simple programs from a clear specification, with
   substantial review needed.
 - 2 — Working: Builds moderately complex programs with some review.
-- 3 — Practitioner: Independently designs, builds, tests and documents
+- 3 — Practitioner: Independently designs, builds, tests, and documents
   moderate-to-complex programs to agreed standards, and collaborates on
   reviewing specifications.
 - 4 — Expert: Sets programming standards and takes overall technical

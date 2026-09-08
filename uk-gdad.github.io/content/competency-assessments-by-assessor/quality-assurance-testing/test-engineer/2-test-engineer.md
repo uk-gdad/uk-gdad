@@ -28,7 +28,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -211,7 +211,7 @@ is built to describe.
 
 - 1 — Awareness: Builds and runs simple tests from a template, and needs
   close guidance to set up an environment or choose a technique.
-- 2 — Working: Designs, builds and executes tests independently for
+- 2 — Working: Designs, builds, and executes tests independently for
   routine work, conducts exploratory testing, and checks with someone else
   on environment set-up or technique choice for less familiar work.
 - 3 — Practitioner: Sets up environments and selects techniques unsupported,
@@ -264,7 +264,7 @@ things the person already does.
 - 2 — Working: Contributes to the team's defect management process and
   to mitigation plans, and clearly communicates the impact of a defect to
   stakeholders, checking harder risk assessments with someone else.
-- 3 — Practitioner: Critically assesses dependencies, defects and risks
+- 3 — Practitioner: Critically assesses dependencies, defects, and risks
   unsupported, and manages escalation across more than one team.
 - 4 — Expert: Leads improvements to the defect management process itself and
   is trusted to make the final call on a difficult mitigation decision.
@@ -500,7 +500,7 @@ this same role level pick up from here:
 - [Continuing professional development checklist](../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/quality-assurance-testing/test-engineer/2-test-engineer.md) —
   things to do, skill by skill.
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/quality-assurance-testing/test-engineer/2-test-engineer.md) —
-  courses, articles, videos and books for a test engineer.
+  courses, articles, videos, and books for a test engineer.
 
 Thank you for taking the time to assess carefully and on evidence. A test
 engineer sits at the point where the framework expects real, independent

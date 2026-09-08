@@ -6,7 +6,7 @@ This document is written for you: an assessor administering a workplace job-spec
 
 Psychometric assessments are standardised instruments that measure the mental capabilities and behavioural tendencies that underpin professional performance. For a role at this level, they are rarely about raw processing speed alone. Instead, they probe the qualities that distinguish effective strategic leadership: the ability to reason clearly through ambiguous, multi-domain problems; to interpret financial, capacity and performance data with confidence; to extract precise meaning from dense policy and standards documentation; and to exercise sound judgement in high-stakes situations involving senior stakeholders across enterprises.
 
-A strong candidate does these things daily in the real job: owning the enterprise architecture vision, strategy and roadmaps across business, technology and data perspectives; establishing architectural principles, policies and standards; mediating difficult architectural discussions; guiding investment decisions towards reuse, sustainability and scalability; and horizon scanning for emerging trends and risks. This document reframes those activities as assessment material, so that the format tests the substance of the role rather than an abstract puzzle-solving ability.
+A strong candidate does these things daily in the real job: owning the enterprise architecture vision, strategy and roadmaps across business, technology and data perspectives; establishing architectural principles, policies, and standards; mediating difficult architectural discussions; guiding investment decisions towards reuse, sustainability and scalability; and horizon scanning for emerging trends and risks. This document reframes those activities as assessment material, so that the format tests the substance of the role rather than an abstract puzzle-solving ability.
 
 The document is organised into four main sections, each covering one assessment type:
 
@@ -21,7 +21,7 @@ How to administer this fairly: present every candidate for this role level with 
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -762,7 +762,7 @@ A workplace job-specific situational judgement assessment evaluates decision-mak
 
 For a lead enterprise architect in UK government, the scoring frame is well defined even where answers are debatable: Civil Service values (integrity, honesty, objectivity, impartiality), the public sector's commitment to user needs, accessibility, inclusion and transparency, and the behaviours the role profile names - gaining support for high-risk architectural positions, mediating difficult discussions, coaching others, collaborating across organisations, and holding the long-term strategy steady while enabling delivery at pace. Effective options tend to be active rather than passive, collaborative rather than unilateral, transparent rather than expedient, and to address root causes rather than symptoms - while remaining proportionate and politically intelligent.
 
-The scenarios below are drawn from the stakeholder landscape a lead enterprise architect genuinely occupies: programme directors, investment boards, supplier executives, domain architects, cross-government peers and delivery teams under pressure.
+The scenarios below are drawn from the stakeholder landscape a lead enterprise architect genuinely occupies: programme directors, investment boards, supplier executives, domain architects, cross-government peers, and delivery teams under pressure.
 
 ### What it measures for this role level
 
@@ -929,7 +929,7 @@ D. Continue delivering to the current strategy while the debate resolves itself 
 
 ### Notes for the assessor
 
-- **Score against the published values.** The Civil Service Code and the Government Digital Service Standard underpin the scoring frame for public sector situational items - user needs, integrity, transparency, accessibility, inclusion and collaboration.
+- **Score against the published values.** The Civil Service Code and the Government Digital Service Standard underpin the scoring frame for public sector situational items - user needs, integrity, transparency, accessibility, inclusion, and collaboration.
 - **Look for options that treat people as capable.** At lead level, strong answers usually engage, coach or co-create before they instruct, escalate or shield. A candidate who consistently reaches for options that do someone's thinking for them, or take their work away, is showing a weaker pattern.
 - **Check what each option leaves unaddressed.** The least effective answer is often the one that quietly abandons a live harm: the paused programmes, the excluded users, the unassured integration. For each option a candidate favours, ask what it leaves bleeding.
 - **Distinguish first moves from last resorts.** Escalation, formal sanction and refusal are legitimate tools that score badly as opening moves. Many items test sequencing judgement, not whether the candidate knows the tool exists.
@@ -955,4 +955,4 @@ To score: work through each section against the worked answers above, recording 
 
 After scoring, debrief the candidate. Share where they did well and where their answers diverged from the key, using the explanations in this document as your reference, and give them the chance to explain their reasoning - a candidate's stated reasoning sometimes reveals sound judgement that a forced-choice format could not capture. Keep a record of the items presented, the candidate's responses, and your scoring, and administer the assessment the same way for every candidate for this role level, so that comparisons between candidates remain fair.
 
-Finally, keep this assessment in its proper place. It samples a candidate's abilities on one day, under one format; it does not define them, and a disappointing result is simply one piece of evidence to weigh against the interview, the application, and any other material you hold. Use it as one input among several, alongside the advisory above, and never as the sole basis for a hiring, promotion, pay, performance or disciplinary decision.
+Finally, keep this assessment in its proper place. It samples a candidate's abilities on one day, under one format; it does not define them, and a disappointing result is simply one piece of evidence to weigh against the interview, the application, and any other material you hold. Use it as one input among several, alongside the advisory above, and never as the sole basis for a hiring, promotion, pay, performance, or disciplinary decision.

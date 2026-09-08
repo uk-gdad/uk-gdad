@@ -23,7 +23,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -116,7 +116,7 @@ Content concepts and prototyping is different, and more striking: its
 published text at head of content design reverts to the entry-level wording
 used at associate and junior content designer — "show an awareness of
 prototyping and explain why and when to use it" — rather than building on
-content designer, senior content designer or lead content designer's more
+content designer, senior content designer, or lead content designer's more
 advanced descriptions. This assessment sets that skill's baseline from the
 framework's actual published text rather than assuming this level's overall
 seniority, and says so here rather than smoothing the anomaly away. In

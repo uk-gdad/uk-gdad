@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -163,7 +163,7 @@ guidance.
 - Ask a structured interview question: "Tell me about a time you had to
   manage a senior stakeholder's expectations against a quality risk you
   weren't willing to compromise on."
-- Ask for a work sample: an email, a briefing note or a meeting summary the
+- Ask for a work sample: an email, a briefing note, or a meeting summary the
   candidate produced for a senior audience.
 - Ask a referee whether the person has hosted difficult conversations
   independently, or whether a manager usually stepped in.
@@ -230,7 +230,7 @@ team-wide standards — squarely independent, applied capability.
 
 At this level, a person is expected to contribute to developing standards for
 defect management processes, manage and escalate dependencies, defects and
-risks across teams, contribute to mitigation and contingency plans across
+risks across teams, contribute to mitigation, and contingency plans across
 teams, use defect patterns and trends to make recommendations on testing and
 quality approaches with support, and manage stakeholder expectations and
 communications during defect resolution.
@@ -353,7 +353,7 @@ immediate work.
 
 - Ask a structured interview question: "Tell me about a quality testing
   strategy you contributed to beyond your own immediate team."
-- Ask for a work sample: a testing approach, plan or strategy document the
+- Ask for a work sample: a testing approach, plan, or strategy document the
   candidate authored or co-authored for a wider area.
 - Ask a referee whether the person advocates for early team involvement in
   quality, or only reacts once work is under way.
@@ -478,7 +478,7 @@ assessor cannot see in themselves.
 This assessment gives you a structured, evidence-based view of one person
 against the senior quality assurance test analyst baseline — not a verdict.
 Combine it with the rest of your organisation's process before making a
-decision about hiring, promotion or development.
+decision about hiring, promotion, or development.
 
 Where the matrix shows development areas, two sibling documents for this
 exact role level can help plan next steps:

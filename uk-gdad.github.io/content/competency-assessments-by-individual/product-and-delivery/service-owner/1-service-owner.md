@@ -6,7 +6,7 @@ This is for you: a chance to rate your own current strengths against the
 baseline the UK GDAD Profession Capability Framework sets for this role
 level, using the framework's own words for what it covers.
 
-A service owner is accountable for the quality, performance, benefits and outcomes of a service. They provide clear end-to-end direction, prioritisation, risk management and decision making for teams in line with department, policy and user outcomes. A service owner is an accountable leader that brings together a multidisciplinary team to ensure delivery of a quality service. They advocate for their service and teams, and develop an open and trust-based culture.
+A service owner is accountable for the quality, performance, benefits, and outcomes of a service. They provide clear end-to-end direction, prioritisation, risk management and decision making for teams in line with department, policy and user outcomes. A service owner is an accountable leader that brings together a multidisciplinary team to ensure delivery of a quality service. They advocate for their service and teams, and develop an open and trust-based culture.
 
 Work through the competency matrix below, one skill at a time, then fill in
 the overall determination at the end. Treat this as a mirror, not a test —
@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -76,7 +76,7 @@ within one someone else set up.
 ## About this role level
 
 The product and delivery profession's service owner role exists to be
-accountable for the quality, performance, benefits and outcomes of a service.
+accountable for the quality, performance, benefits, and outcomes of a service.
 A service owner provides clear end-to-end direction, prioritisation, risk
 management and decision making for the teams delivering that service, in line
 with departmental policy and user outcomes.
@@ -428,7 +428,7 @@ only someone's own delivery team.
 - 3 — Practitioner: Coordinates with one other function to overcome an
   operational constraint affecting the service.
 - 4 — Expert: Ensures a scalable, resilient operating model is in place,
-  coordinates operations, policy, digital and delivery teams together to
+  coordinates operations, policy, digital, and delivery teams together to
   operate and iterate the service, and is the escalation point for major
   operational issues.
 
@@ -584,7 +584,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

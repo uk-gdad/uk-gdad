@@ -20,7 +20,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -236,7 +236,7 @@ the level's "assist in the building of a complex story" accountability.
 
 - 1 — Awareness: can follow step-by-step direction to write a very small piece
   of code, with heavy support.
-- 2 — Working: can design, code, test, correct and document a simple
+- 2 — Working: can design, code, test, correct, and document a simple
   script or program under general direction, needing occasional guidance.
 - 3 — Practitioner: can do the same work with minimal direction, and helps
   correct a peer's simple mistakes.
@@ -244,7 +244,7 @@ the level's "assist in the building of a complex story" accountability.
 
 **Evidence to gather**
 
-- Set a small, well-scoped coding task and observe the candidate's process:
+- Set a small, well-scoped coding task, and observe the candidate's process:
   do they test what they wrote, and can they explain what it does?
 - Ask to see a simple script or program they built recently, and walk through
   how they tested and documented it.

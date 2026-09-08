@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -404,7 +404,7 @@ API↔Database: 240 run, 228 passed, 12 failed. API↔Frontend: 180/171/9. API�
 
 ### About this assessment
 
-A workplace job-specific verbal reasoning assessment measures how accurately a candidate extracts meaning from written material of the kind this role actually handles — technical standards, service manuals, security policies, incident reports, API documentation, supplier emails, and specification documents — judging True, False or Cannot Say strictly from the passage, with the candidate's professional knowledge set aside as the specific hazard.
+A workplace job-specific verbal reasoning assessment measures how accurately a candidate extracts meaning from written material of the kind this role actually handles — technical standards, service manuals, security policies, incident reports, API documentation, supplier emails, and specification documents — judging True, False, or Cannot Say strictly from the passage, with the candidate's professional knowledge set aside as the specific hazard.
 
 Typical format: an online, timed test of 15 to 25 minutes with 20 to 30 questions grouped under short passages, alongside comprehension, inference, and clear-writing items.
 

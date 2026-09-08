@@ -1,5 +1,20 @@
 # Principal developer - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the principal developer level, this page
 is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -24,21 +39,6 @@ them to arrive. Systems design jumps sharply at this level too — from
 managing medium complexity to shaping design practice across an entire
 enterprise or industry architecture.
 
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/8-principal-developer/upskilling-resources/): courses, articles, videos and books to work through.
-
 ## Learning pathway
 
 Work through these roughly in order. There is little level above principal in
@@ -51,9 +51,9 @@ you haven't made yet.
   Design systems characterised by high levels of risk, impact and business
   or technical complexity, control system design practice within an
   enterprise or industry architecture, influence industry-based models for
-  new technology applications, develop implementation and procurement
+  new technology applications, develop implementation, and procurement
   strategies consistent with business needs, and ensure adherence to the
-  relevant technical strategies, policies and standards.
+  relevant technical strategies, policies, and standards.
 
   Ask AI: "What changes about systems design judgement when you're
   operating at enterprise or industry scale, rather than designing one
@@ -80,8 +80,8 @@ you haven't made yet.
 
 - [ ] **Lead process improvement at organisational scale**
 
-  Analyse current development processes, identify and implement
-  optimisation opportunities, lead and develop a team of experts to deliver
+  Analyse current development processes, identify, and implement
+  optimisation opportunities, lead, and develop a team of experts to deliver
   service improvements, and help set the policy and standards changes get
   evaluated against.
 
@@ -112,7 +112,7 @@ you haven't made yet.
 
 - [ ] **Keep finding and fixing the hardest service faults**
 
-  This skill also plateaus: identifying, locating and fixing service
+  This skill also plateaus: identifying, locating, and fixing service
   faults.
 
   Ask AI: "What kind of service fault would genuinely need a principal

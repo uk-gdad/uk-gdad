@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -399,7 +399,7 @@ approaches to existing and potential customers; to have an in-depth
 understanding of a wide range of data science techniques — such as machine
 learning and natural language processing — and detailed knowledge of at least
 one specialism; and to use these techniques to build data science solutions,
-including reports, models and dashboards.
+including reports, models, and dashboards.
 
 **Baseline for this role level**
 

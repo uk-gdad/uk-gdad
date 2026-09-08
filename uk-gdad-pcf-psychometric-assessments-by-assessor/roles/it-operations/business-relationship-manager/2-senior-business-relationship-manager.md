@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -809,7 +809,7 @@ A directorate reports relationship maturity annually to the executive committee.
 Analysis commissioned by a candidate shows that citizens who phone one of the organisation's helplines because they cannot complete the digital service are waiting 40 minutes on average — and 60% of them are calling about the same three form-design problems. The digital service is owned by a product team in another directorate; the helpline is outsourced under a contract managed by a third team; both are "green" on their own metrics. The candidate has no authority over either. What is the most effective response?
 
 - A) Publish the analysis to both teams and their directors, and let the owning teams respond as they see fit — the candidate's job was the insight, theirs is the action.
-- B) Convene the product team, the contract manager and the candidate's own function around the analysis: propose the product team prioritise the three form fixes (quantifying the call-demand reduction each would buy), the contract manager add the fix timeline to the next supplier review, and a named owner — the candidate, until a better one exists — track the end-to-end citizen journey that currently no green dashboard sees.
+- B) Convene the product team, the contract manager, and the candidate's own function around the analysis: propose the product team prioritise the three form fixes (quantifying the call-demand reduction each would buy), the contract manager add the fix timeline to the next supplier review, and a named owner — the candidate, until a better one exists — track the end-to-end citizen journey that currently no green dashboard sees.
 - C) Escalate to the executive committee that two green-rated teams are jointly causing citizen harm, and recommend a formal service review.
 - D) Raise the three form problems with the product team informally and monitor whether call volumes improve over the next two quarters.
 
@@ -844,4 +844,4 @@ The cognitive section tests abstracting differently worded demands into one shar
 
 **Records and consistency.** Keep a note of the conditions under which you administered this assessment alongside the result, and use the same items and conditions for every candidate you assess for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can absorb conflicting information and produce solutions, present honest numbers survivably, and channel dissent into legitimate venues — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can absorb conflicting information and produce solutions, present honest numbers survivably, and channel dissent into legitimate venues — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

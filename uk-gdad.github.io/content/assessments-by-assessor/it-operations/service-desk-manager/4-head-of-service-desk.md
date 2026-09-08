@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -736,7 +736,7 @@ The department commissions a formal study of moving the desk into a cross-govern
 
 **Question 11 (challenging) — The culture signal**
 
-Reviewing exit interviews, a pattern emerges: departing analysts describe the middle management layer as "results-focused but fear-based" — mistakes hidden, sickness worked through, overtime unclaimed and expected. Dashboards show none of this: performance is strong, attrition is at benchmark, and the service desk managers described are ones directly developed and known to be reliable. What is the most effective response?
+Reviewing exit interviews, a pattern emerges: departing analysts describe the middle management layer as "results-focused but fear-based" — mistakes hidden, sickness worked through, overtime unclaimed, and expected. Dashboards show none of this: performance is strong, attrition is at benchmark, and the service desk managers described are ones directly developed and known to be reliable. What is the most effective response?
 
 - A) Treat the pattern as serious signal despite its conflict with direct experience: triangulate quietly (staff survey cuts, overtime and sickness data, skip-level conversations run as listening rather than investigation), examine one's own contribution first — whether a results-focus and delivery pressure created the incentives the managers are transmitting — then address findings with the management team as a shared culture problem to fix, not an accusation to defend against.
 - B) Dismiss it proportionately: exit interviews over-sample the disaffected, dashboards are healthy, and managers who deliver reliably have earned the benefit of the doubt.
@@ -775,4 +775,4 @@ The thread running through all four sections is decomposing before diagnosing, v
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can resolve a situation, protect the honest record, and strengthen the system that will face the situation's successor — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can resolve a situation, protect the honest record, and strengthen the system that will face the situation's successor — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

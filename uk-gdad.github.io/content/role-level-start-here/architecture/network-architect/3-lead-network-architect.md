@@ -1,24 +1,6 @@
 # Lead network architect - start here
 
-Welcome. If you are working toward the lead network architect level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-A lead network architect is accountable for the designs and networks
-representing their business area — the top of this profession's line. You
-act as a point of escalation, actively input into the governance forums that
-determine IT strategy, cascade messages, standards and best practice from
-other architecture teams to the network architecture team, act as a subject
-matter expert for network architects, represent network architects
-internally and externally, understand every common network technology
-rather than most of them, champion new technologies and solutions, coach
-and mentor network architects and associates, and communicate network
-concepts to both technical and non-technical stakeholders as a strategic
-thinker.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -31,7 +13,25 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/architecture/network-architect/3-lead-network-architect/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/architecture/network-architect/3-lead-network-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/network-architect/3-lead-network-architect/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/network-architect/3-lead-network-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the lead network architect level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+A lead network architect is accountable for the designs and networks
+representing their business area — the top of this profession's line. You
+act as a point of escalation, actively input into the governance forums that
+determine IT strategy, cascade messages, standards, and best practice from
+other architecture teams to the network architecture team, act as a subject
+matter expert for network architects, represent network architects
+internally and externally, understand every common network technology
+rather than most of them, champion new technologies and solutions, coach
+and mentor network architects and associates, and communicate network
+concepts to both technical and non-technical stakeholders as a strategic
+thinker.
 
 ## Learning pathway
 
@@ -47,7 +47,7 @@ the case you haven't made yet.
   enterprise or industry architecture, influence industry-based models for
   new technology applications, develop effective implementation and
   procurement strategies, and ensure adherence to relevant technical
-  strategies, policies and standards.
+  strategies, policies, and standards.
 
   Ask AI: "What changes about network design judgement when you're
   operating at enterprise or industry scale, rather than designing one

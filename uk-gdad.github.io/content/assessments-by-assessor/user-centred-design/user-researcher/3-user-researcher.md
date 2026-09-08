@@ -12,7 +12,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -213,7 +213,7 @@ Midway through analysis, the candidate realises their discussion guide asked, "W
 
 A numeric reasoning assessment measures how accurately a candidate handles the quantitative material this role produces and consumes. At this level that material is not limited to counting participants: analytics funnels, survey results alongside qualitative findings, recruitment tracking, completion rates compared between user groups, and explaining to stakeholders what a number does and does not mean.
 
-Typical format: a timed online test of 15 to 30 minutes, each item presenting a table, chart or short paragraph of figures with a multiple-choice question. What distinguishes this section at this level is interpretation — several items have a correct calculation attached to a wrong conclusion, and telling them apart is the test. Quantitative data carries unearned authority in most organisations; a candidate who can say "where does that figure come from, and what is its denominator?" is valuable in a way one who can only compute is not.
+Typical format: a timed online test of 15 to 30 minutes, each item presenting a table, chart, or short paragraph of figures with a multiple-choice question. What distinguishes this section at this level is interpretation — several items have a correct calculation attached to a wrong conclusion, and telling them apart is the test. Quantitative data carries unearned authority in most organisations; a candidate who can say "where does that figure come from, and what is its denominator?" is valuable in a way one who can only compute is not.
 
 Four habits carry most of the load. Establish what the question asks before looking at the data. Identify the denominator before calculating anything. Estimate roughly, then calculate precisely, and compare. Sanity-check the result against the world.
 

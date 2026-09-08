@@ -12,7 +12,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -213,7 +213,7 @@ Three rounds of research on a service used heavily by people with limited Englis
 
 A numeric reasoning assessment measures how accurately a candidate handles the quantitative material this role produces. It is not a maths exam; it measures whether a candidate can read a table correctly, identify which figures matter, choose the right operation, and interpret the result without overstating it. Most platforms provide a calculator.
 
-Typical format: a timed online test of 15 to 30 minutes, each item presenting a small table, chart or paragraph of figures followed by a multiple-choice question. At this level the content stays modest — percentages, percentage change, proportions, averages, ratios, reading values from tables — but the expectation rises slightly to interpreting sensibly as well as calculating correctly: several items have a right arithmetic answer and a wrong conclusion attached to it.
+Typical format: a timed online test of 15 to 30 minutes, each item presenting a small table, chart, or paragraph of figures followed by a multiple-choice question. At this level the content stays modest — percentages, percentage change, proportions, averages, ratios, reading values from tables — but the expectation rises slightly to interpreting sensibly as well as calculating correctly: several items have a right arithmetic answer and a wrong conclusion attached to it.
 
 Four habits carry the load. Establish what the question is actually asking before looking at the data. Identify the denominator before calculating anything. Estimate roughly, then calculate precisely, then compare the two. And sanity-check the result.
 

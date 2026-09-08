@@ -1,5 +1,20 @@
 # Head of product - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the head of product level, this page is
 for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the areas it names.
@@ -19,21 +34,6 @@ contractors, and line manage senior and lead product managers. Three named
 skills sharpen clearly at this level: creating value for money, managing
 product outcomes and product leadership, each moving from doing the thing
 well to building the organisation's capacity to do it.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/product-and-delivery/product-manager/5-head-of-product/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -58,7 +58,7 @@ you haven't made yet.
 
   Use data to make prioritisation decisions for multiple or complex
   projects, products or services, use data to influence the priorities of
-  senior stakeholders, guide and challenge teams to make better use of
+  senior stakeholders, guide, and challenge teams to make better use of
   data, guide and challenge teams to demonstrate they've achieved their
   outcomes, and find opportunities to share and connect product data
   across government.
@@ -69,7 +69,7 @@ you haven't made yet.
 - [ ] **Lead and represent product management across government**
 
   Seek opportunities for reuse and learning across government, co-ordinate
-  the product management community, lead coaching and mentoring for
+  the product management community, lead coaching, and mentoring for
   product management in your organisation, lead activities in cross-
   government communities to build relationships across the profession, and
   represent product management in conversations with senior stakeholders.
@@ -136,7 +136,7 @@ you haven't made yet.
   beyond coaching individual lead product managers well?"
 
 Beyond these named skills, this level is also about people: recruitment,
-development, pay and performance across a whole community. Ask a peer head
+development, pay, and performance across a whole community. Ask a peer head
 of product, in your organisation or another part of government, how they
 built that side of the role — that conversation will teach you more than any
 general reading on people leadership.

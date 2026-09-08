@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -192,7 +192,7 @@ support", which keeps this short of full independence.
 
 - 1 — Awareness: Follows an existing test plan closely and needs help choosing
   which technique fits a given piece of work.
-- 2 — Working: Designs, builds and executes a test suite for a familiar
+- 2 — Working: Designs, builds, and executes a test suite for a familiar
   feature unsupervised, and runs exploratory testing sessions that surface
   real issues.
 - 3 — Practitioner: Selects and combines test types confidently for unfamiliar,

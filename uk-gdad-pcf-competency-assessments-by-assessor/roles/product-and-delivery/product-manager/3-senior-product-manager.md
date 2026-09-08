@@ -370,7 +370,7 @@ other than yourself.
   what it changed.
 - Ask a referee about a time the candidate helped another product manager
   prioritise using data.
-- Review a dashboard, outcomes framework or cross-product data-sharing
+- Review a dashboard, outcomes framework, or cross-product data-sharing
   proposal they led.
 
 **Rate this skill**
@@ -469,7 +469,7 @@ reserves for teaching and guiding others, not only delivering well yourself.
   multiple teams, and how dependencies were managed.
 - Ask a referee for an example of the candidate coaching or mentoring
   another product manager, and what changed for that person.
-- Review a cross-team plan, strategy document or product review the
+- Review a cross-team plan, strategy document, or product review the
   candidate led.
 
 **Rate this skill**

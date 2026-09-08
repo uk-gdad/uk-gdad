@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -145,7 +145,7 @@ stage.
 
 **What the framework expects at this level**
 
-An infrastructure engineer builds, configures, administers and supports
+An infrastructure engineer builds, configures, administers, and supports
 infrastructure solutions and services — for example, networking and physical
 infrastructure, commercial-off-the-shelf (COTS) software, open source
 packages and solutions, or virtual and cloud computing.
@@ -160,7 +160,7 @@ genuine step up, though not yet independent design work.
 
 - 1 — Awareness: builds or configures an infrastructure component with a
   colleague checking the work.
-- 2 — Working: builds, configures, administers and supports
+- 2 — Working: builds, configures, administers, and supports
   infrastructure solutions and services as directed, without needing a check
   at every step.
 - 3 — Practitioner: builds and administers infrastructure across several areas

@@ -319,7 +319,7 @@ For your role this assessment matters directly. A lead data governance manager w
 Mapped to the skills in your role profile, this assessment typically measures:
 
 - **Interpreting quality and compliance metrics** - your **data governance** and **data standards** skills depend on reading completeness, accuracy and compliance percentages correctly, and knowing when a change is material (monitoring compliance with policies and standards across the organisation).
-- **Quantifying and comparing risks** - your **enabling and informing risk-based decisions** skill requires you to work with likelihood-impact scores, expected losses and mitigation costs in proportion to the risk.
+- **Quantifying and comparing risks** - your **enabling and informing risk-based decisions** skill requires you to work with likelihood-impact scores, expected losses, and mitigation costs in proportion to the risk.
 - **Budget and business-case arithmetic** - implementing wider data management competencies (data quality assurance, metadata management, master data management) means costing programmes, comparing options and defending return-on-investment figures.
 - **Measuring maturity and literacy improvement** - your **data maturity** and **data literacy improvement** skills involve tracking scores, training uptake and capability growth over time, and communicating those trends honestly.
 - **Turning numbers into narratives** - your **communicating analysis and insight** skill (turning complex data into compelling, clear, and actionable stories) starts with getting the underlying calculation right; a wrong percentage in a board paper undermines a year of credibility.
@@ -770,7 +770,7 @@ One last point of encouragement specific to your role: verbal reasoning is the a
 
 ### About this assessment
 
-A workplace job-specific situational judgement assessment evaluates your decision-making, interpersonal skill and professional conduct. Unlike the reasoning tests, it presents realistic workplace dilemmas - conflicts, ethical grey areas, competing priorities - and asks how you would respond. There is rarely a single objectively right answer; instead, some responses fit the values and demands of the role better than others, and the scoring reflects the judgement of experienced practitioners and occupational psychologists.
+A workplace job-specific situational judgement assessment evaluates your decision-making, interpersonal skill, and professional conduct. Unlike the reasoning tests, it presents realistic workplace dilemmas - conflicts, ethical grey areas, competing priorities - and asks how you would respond. There is rarely a single objectively right answer; instead, some responses fit the values and demands of the role better than others, and the scoring reflects the judgement of experienced practitioners and occupational psychologists.
 
 Typical characteristics include:
 
@@ -964,7 +964,7 @@ D) Leave the framework formally intact but signal informally to directorates whi
 
 ## Conclusion
 
-You have now worked through the four assessment types most relevant to your role as a lead data governance manager: cognitive reasoning with the frameworks, catalogues and risk registers you manage; numeric reasoning with the compliance metrics, budgets and business cases you defend; verbal reasoning with the policies, audit findings and stakeholder correspondence you interpret; and situational judgement across the influence, ethics and leadership dilemmas that define the lead level.
+You have now worked through the four assessment types most relevant to your role as a lead data governance manager: cognitive reasoning with the frameworks, catalogues and risk registers you manage; numeric reasoning with the compliance metrics, budgets and business cases you defend; verbal reasoning with the policies, audit findings and stakeholder correspondence you interpret; and situational judgement across the influence, ethics, and leadership dilemmas that define the lead level.
 
 Two themes run through everything you have practised. The first is precision: reading the boundary condition in a rule, using the right denominator in a percentage, distinguishing "will normally" from "must", and separating what a text guarantees from what experience suggests. The second is proportionality: matching remediation to trajectory rather than snapshot, escalation to evidence, and governance effort to risk. These are not test-taking tricks - they are the professional substance of your role, compressed into assessable form. That is exactly why practice here transfers back into your working week: every worked explanation you compared against your own reasoning is also a rehearsal for your next board paper, audit response or difficult stakeholder conversation.
 

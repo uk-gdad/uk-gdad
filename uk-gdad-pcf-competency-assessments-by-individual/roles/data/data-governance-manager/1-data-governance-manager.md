@@ -6,7 +6,7 @@ This is for you: a chance to rate your own current strengths against the
 baseline the UK GDAD Profession Capability Framework sets for this role
 level, using the framework's own words for what it covers.
 
-A data governance manager plans, monitors and enforces the management of data assets. A data governance manager defines, implements and manages data governance frameworks, policies and standards.
+A data governance manager plans, monitors and enforces the management of data assets. A data governance manager defines, implements, and manages data governance frameworks, policies, and standards.
 
 Work through the competency matrix below, one skill at a time, then fill in
 the overall determination at the end. Treat this as a mirror, not a test —
@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -81,7 +81,7 @@ The Data profession's Data governance manager role plans, monitors and
 enforces the management of data assets. Across the role, a data governance
 manager catalogues, monitors and identifies data assets that are essential to
 the organisation's operations or services; assigns ownership of data, so that
-a clear RACI (responsible, accountable, consulted and informed) matrix exists
+a clear RACI (responsible, accountable, consulted, and informed) matrix exists
 in the organisation; incorporates governance of data into routine processes;
 supports or manages risk processes around data; advocates for better use and
 management of data within the organisation; and encourages better data
@@ -117,7 +117,7 @@ management, and Strategic thinking.
 **What the framework expects at this level**
 
 A data governance manager is expected to choose the appropriate medium to
-communicate findings, shape and share communications relevant to the
+communicate findings, shape, and share communications relevant to the
 audience, present analysis and visualisations in clear ways to both specialist
 and non-specialist audiences with support, and give tactical recommendations
 based on their analysis and insight to inform decision making.
@@ -266,7 +266,7 @@ governance framework, making recommendations to ensure compliance.
 **Baseline for this role level**
 
 Baseline: 3 — Practitioner. This is the skill the role level's own description
-names as its core purpose — "defines, implements and manages data governance
+names as its core purpose — "defines, implements, and manages data governance
 frameworks, policies and standards" — and the framework's own wording asks for
 an end-to-end framework to be developed and implemented, which is independent
 work, so the baseline sits at Practitioner.
@@ -459,7 +459,7 @@ and performing tasks with some guidance — directly.
   procedures and methods to deliver data management work across a service or
   product.
 - 3 — Practitioner: Independently delivers data management across multiple
-  services or products, choosing the right tools, procedures and methods
+  services or products, choosing the right tools, procedures, and methods
   without support.
 - 4 — Expert: Sets the data management approach other teams follow across
   services and products.
@@ -496,7 +496,7 @@ and explanation that fits Working rather than pure understanding.
 
 **Behavioural indicators**
 
-- 1 — Awareness: Explains, in outline, one or two data maturity models
+- 1 — Awareness: Explains, in outline, one, or two data maturity models
   available and what a low or high score on one would mean.
 - 2 — Working: Measures data maturity for a defined area using an
   established model, implements a recognised best practice as a result, and
@@ -544,7 +544,7 @@ response sit above this level's baseline.
 
 - 1 — Awareness: Uses an existing data policy, process, or standard correctly
   in their own work, with guidance on which one applies.
-- 2 — Working: Uses data policies, processes and standards effectively
+- 2 — Working: Uses data policies, processes, and standards effectively
   without guidance, contributes to developing a standard alongside subject
   matter experts, and monitors compliance in a team, escalating where action
   is needed.
@@ -755,7 +755,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

@@ -1,5 +1,20 @@
 # Principal data analyst - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the principal data analyst level, this
 page is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the areas it names.
@@ -16,21 +31,6 @@ the data analyst community inside and outside the organisation. Almost
 every named skill grows again at this level; only data ethics and privacy
 plateaus, because senior level already asked for genuine organisational
 judgement on it.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/data-analyst/4-principal-data-analyst/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -63,7 +63,7 @@ you haven't made yet.
 - [ ] **Influence stakeholders with statistical and analytical outputs**
 
   Identify opportunities to develop statistical insights that support
-  organisational objectives, develop and guide others in a range of
+  organisational objectives, develop, and guide others in a range of
   techniques, oversee quality assurance while continually innovating
   practice, and use outputs to influence stakeholders across and beyond the
   organisation.

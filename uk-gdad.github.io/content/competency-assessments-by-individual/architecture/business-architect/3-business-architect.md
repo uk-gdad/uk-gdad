@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -373,7 +373,7 @@ and strategic rather than task-focused.
 - 2 — Working: helps develop and implement a stakeholder communications
   strategy with support, and resolves straightforward stakeholder issues.
 - 3 — Practitioner: works with the team to build and implement stakeholder
-  communications strategies, resolves issues and influences stakeholders
+  communications strategies, resolves issues, and influences stakeholders
   effectively, and builds long-term strategic relationships.
 - 4 — Expert: directs the stakeholder relationship strategy for the whole
   practice and negotiates at the most senior level.
@@ -402,7 +402,7 @@ and strategic rather than task-focused.
 
 A business architect demonstrates a good understanding of business issues,
 events and activities, and their short to long term impact, supports
-defining principles, patterns, standards, policies, roadmaps and vision
+defining principles, patterns, standards, policies, roadmaps, and vision
 statements, effectively focuses on outcomes rather than solutions, and helps
 develop, maintain or update strategy in response to feedback and findings.
 
@@ -422,12 +422,12 @@ qualifiers.
   principles or standards.
 - 2 — Working: demonstrates a good understanding of business issues and
   their impact unprompted, and supports defining principles, patterns,
-  standards, policies, roadmaps or vision statements with some oversight.
+  standards, policies, roadmaps, or vision statements with some oversight.
 - 3 — Practitioner: focuses consistently on outcomes rather than solutions, and
   helps develop or update strategy in response to feedback with little
   support.
 - 4 — Expert: independently defines principles, patterns, standards,
-  policies, roadmaps and vision statements for the organisation.
+  policies, roadmaps, and vision statements for the organisation.
 
 **Evidence to gather**
 
@@ -436,7 +436,7 @@ qualifiers.
   your part in it?"
 - Think about how you'd review a short business scenario and describe its
   likely short-term and long-term impact.
-- If already in post, review a roadmap, vision statement or set of principles
+- If already in post, review a roadmap, vision statement, or set of principles
   the person contributed to.
 
 **Rate this skill**
@@ -537,7 +537,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

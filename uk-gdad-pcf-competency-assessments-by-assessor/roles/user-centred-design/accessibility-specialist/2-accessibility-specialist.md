@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -338,7 +338,7 @@ responsible for.
 - 2 — Working: Performs basic manual and automated checks confidently
   but still needs support with a detailed audit or an unfamiliar assistive
   technology.
-- 3 — Practitioner: Performs a detailed audit of a website, service or document
+- 3 — Practitioner: Performs a detailed audit of a website, service, or document
   unsupported, documents findings clearly enough for a developer to fix
   without further explanation, and uses at least one assistive technology
   with genuine confidence.

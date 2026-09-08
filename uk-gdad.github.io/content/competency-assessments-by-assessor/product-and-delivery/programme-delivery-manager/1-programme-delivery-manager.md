@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -223,7 +223,7 @@ strengthen relationships, adopting the appropriate communication method with
 stakeholders at all levels, to manage stakeholder expectations and moderate
 difficult discussions about high risk and complex topics even within
 constrained timescales, and to speak on behalf of, and represent the
-community to, large audiences inside and outside the organisation.
+community to, large audiences inside, and outside the organisation.
 
 **Baseline for this role level**
 
@@ -359,7 +359,7 @@ Expert.
 
 A programme delivery manager is expected to lead and coach teams through
 different phases of the life cycle, to ensure effective support for the
-product or service and its users, to predict, prevent, mitigate and manage
+product or service and its users, to predict, prevent, mitigate, and manage
 potential risks at different phases of the life cycle, and to contribute to
 the assessment of other teams, providing guidance and support.
 

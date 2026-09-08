@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -95,7 +95,7 @@ An **analytics engineer** develops and tests data models assigned by more
 senior analytics engineers, to help people in a defined area access and use
 data. At this role level, they will draft documentation of data that meets
 standards, work with other analytics engineers to resolve issues and risks,
-support trainee analytics engineers, provide training and support for users of
+support trainee analytics engineers, provide training, and support for users of
 data sets, and work with more experienced analytics engineers to develop their
 own skills. The work is real delivery, but scoped and assigned rather than
 self-directed.
@@ -358,7 +358,7 @@ baseline holds rather than climbing automatically with general seniority.
 - 2 — Working: Investigates moderately complex problems with some
   independence and contributes a workable remedy.
 - 3 — Practitioner: Independently investigates and resolves problems and
-  distinguishes strategic, tactical and operational causes confidently.
+  distinguishes strategic, tactical, and operational causes confidently.
 - 4 — Expert: Anticipates problems and builds others' capability to
   investigate them.
 
@@ -382,7 +382,7 @@ baseline holds rather than climbing automatically with general seniority.
 
 **What the framework expects at this level**
 
-An analytics engineer is expected to design, code, test, correct and document
+An analytics engineer is expected to design, code, test, correct, and document
 simple programs or scripts under the direction of others — the framework's own
 first mention of this skill, since it does not appear at trainee level.
 
@@ -397,9 +397,9 @@ Awareness rather than Working.
 
 - 1 — Awareness: Writes and tests a simple script under direction, and
   documents what it does when asked.
-- 2 — Working: Writes, tests and documents simple-to-moderate scripts
+- 2 — Working: Writes, tests, and documents simple-to-moderate scripts
   with only light direction.
-- 3 — Practitioner: Independently designs, builds and documents moderately
+- 3 — Practitioner: Independently designs, builds, and documents moderately
   complex programs from a specification.
 - 4 — Expert: Sets coding standards and reviews others' programs for quality
   and maintainability.

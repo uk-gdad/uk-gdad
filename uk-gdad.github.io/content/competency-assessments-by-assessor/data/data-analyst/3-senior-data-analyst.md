@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -79,9 +79,9 @@ quality assurance is showing evidence towards **4 — Expert**.
 
 ## About this role level
 
-The Data profession's Data analyst role collects, manages, explores and shares
+The Data profession's Data analyst role collects, manages, explores, and shares
 data to support organisational objectives and deliver business impact. Across
-the role, a data analyst identifies, collects and moves data between a range
+the role, a data analyst identifies, collects, and moves data between a range
 of systems; applies data analysis and data visualisation tools and
 techniques; prepares, manages and models data, following appropriate
 standards and practices; and communicates data, insights and conclusions in

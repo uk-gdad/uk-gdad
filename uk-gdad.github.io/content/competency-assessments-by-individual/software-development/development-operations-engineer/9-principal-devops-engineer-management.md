@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -76,7 +76,7 @@ initiated and led it from that first conversation through to delivery.
 
 A DevOps engineer — commonly called that, in full "development operations
 engineer" — supports the development and operation of software through
-tools, environments and practices. The role is responsible for underpinning
+tools, environments, and practices. The role is responsible for underpinning
 good development processes: managing tools and testing environments, central
 code control, maintaining development standards, and writing software that
 automates systems.
@@ -311,9 +311,9 @@ it sits below the strategic skills in this block.
 
 - 1 — Awareness: Writes simple scripts or programs under the direction of
   others.
-- 2 — Working: Designs, codes, tests and documents programs of
+- 2 — Working: Designs, codes, tests, and documents programs of
   moderate complexity with some guidance.
-- 3 — Practitioner: Independently designs, codes, tests and documents programs
+- 3 — Practitioner: Independently designs, codes, tests, and documents programs
   or scripts of medium-to-high complexity, using the right standards and
   tools, and reviews specifications collaboratively when needed.
 - 4 — Expert: Sets the standards and tooling choices other engineers use
@@ -451,9 +451,9 @@ of this role's ladder.
 - 2 — Working: Produces detailed designs for well-understood systems,
   with guidance on appropriate patterns.
 - 3 — Practitioner: Independently designs systems of medium risk, impact and
-  complexity, selecting appropriate standards, methods and tools.
+  complexity, selecting appropriate standards, methods, and tools.
 - 4 — Expert: Reviews other engineers' systems designs for appropriate
-  technology choice, efficient resourcing and correct integration across
+  technology choice, efficient resourcing, and correct integration across
   multiple systems, and can point to designs materially improved by that
   review.
 
@@ -465,7 +465,7 @@ of this role's ladder.
   changed the direction of someone else's systems design. What was wrong
   with the original approach?"
 - Work sample: ask you to review a sample systems design for
-  risk, complexity and resource use.
+  risk, complexity, and resource use.
 
 **Rate this skill**
 
@@ -618,7 +618,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

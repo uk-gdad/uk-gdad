@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -224,7 +224,7 @@ Typical format: a timed online test of 15 to 30 minutes, each item presenting a 
 - **Measuring whether an iteration worked** maps to **Iterative design**: iterating and improving a design based on successive rounds of research.
 - **Elapsed journey time** maps to **Designing strategically**: understanding the service as users experience it, including the waiting nobody designed.
 - **Explaining figures honestly** maps to **Design communication**: clearly explaining design decisions.
-- **Working with researchers and analysts** maps to **Evidence-based design**: using evidence to inform, develop and test a design idea.
+- **Working with researchers and analysts** maps to **Evidence-based design**: using evidence to inform, develop, and test a design idea.
 
 ### Practice questions
 

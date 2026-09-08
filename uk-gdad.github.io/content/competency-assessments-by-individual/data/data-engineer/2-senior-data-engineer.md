@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -271,7 +271,7 @@ more senior roles, so the baseline sits at the middle of the scale.
 **What the framework expects at this level**
 
 A senior data engineer is expected to select and implement the appropriate
-technologies to deliver resilient, scalable and future-proofed data
+technologies to deliver resilient, scalable, and future-proofed data
 solutions.
 
 **Baseline for this role level**
@@ -286,7 +286,7 @@ level below.
 - 2 — Working: Delivers within agreed organisational standards but does
   not yet select technologies independently.
 - 3 — Practitioner: Independently selects and implements the appropriate
-  technologies to deliver resilient, scalable and future-proofed data
+  technologies to deliver resilient, scalable, and future-proofed data
   solutions.
 - 4 — Expert: Establishes the organisation's integration design standards and
   keeps abreast of best practice across government and industry.
@@ -455,7 +455,7 @@ directed scripts.
 - 1 — Awareness: Builds simple programs from a clear specification, with
   substantial review needed.
 - 2 — Working: Builds moderately complex programs with some review.
-- 3 — Practitioner: Independently designs, builds, tests and documents
+- 3 — Practitioner: Independently designs, builds, tests, and documents
   moderate-to-complex programs to agreed standards, and collaborates on
   reviewing specifications.
 - 4 — Expert: Sets programming standards and takes overall technical
@@ -564,7 +564,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

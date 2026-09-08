@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -221,7 +221,7 @@ For a senior DevOps engineer, numeric reasoning is the substance of availability
 ### How this assessment maps to the role
 
 - **Percentages and error budgets** map to **Availability and capacity management**: converting between percentage targets, minutes of allowable downtime, and budget consumed.
-- **Rates and throughput calculations** map to **Systems design** and **Availability and capacity management**: sizing systems against requests per second, headroom targets and growth trajectories.
+- **Rates and throughput calculations** map to **Systems design** and **Availability and capacity management**: sizing systems against requests per second, headroom targets, and growth trajectories.
 - **Averages and distributions** map to **Service support**: recovery times, fault durations and queue statistics only guide improvement when the right summary statistic is chosen.
 - **Percentage change and trend reading** map to **Development process optimisation**: before-and-after comparisons done with the correct baseline.
 - **Cost and resource calculations** map to **Systems design**'s demand for efficient use of resources.
@@ -322,7 +322,7 @@ A service runs 6 instances at £0.48 per instance-hour, 730 hours a month. Peak 
 
 **Question 8 (moderate) — Choosing the right average for recovery time**
 
-Five service faults took 20, 35, 40, 45 and 210 minutes to restore; the 210-minute fault involved waiting for a third-party supplier. Ask for the best summary of typical restoration time.
+Five service faults took 20, 35, 40, 45, and 210 minutes to restore; the 210-minute fault involved waiting for a third-party supplier. Ask for the best summary of typical restoration time.
 
 - A) The mean is 70 minutes, so typical restoration takes about 70 minutes.
 - B) The median is 40 minutes, which better represents typical restoration because the 210-minute outlier inflates the mean.
@@ -771,7 +771,7 @@ A candidate identifies a build-cache change that would cut average build time by
 
 This guide has worked through dependency-graph tracing, configuration checks against standards as written, impact-weighted prioritisation, and correlation-versus-cause reasoning in incident timelines; availability arithmetic, compound growth, weighted averages, and the right denominator for a rate; the boundary between what a passage guarantees, contradicts and merely permits; and the situational judgement calls that define senior engineering careers — holding a security gate while helping the team it blocks, giving evidence to a senior decision-maker without ambushing them, and developing a junior colleague instead of rescuing them.
 
-**Scoring and debrief.** Score against the worked explanations, not the answer letter alone — several situational and verbal items reward the quality of reasoning as much as the final choice, particularly around escalation, evidence and ownership boundaries. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
+**Scoring and debrief.** Score against the worked explanations, not the answer letter alone — several situational and verbal items reward the quality of reasoning as much as the final choice, particularly around escalation, evidence, and ownership boundaries. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
 
 **Records and consistency.** Administer the same items and the same time allowance to every candidate for this role level, and keep a record of scores and the reasoning behind them. Consistency across candidates is what protects the fairness of the process, and what would let this material stand up to scrutiny if a decision it informed were later questioned.
 

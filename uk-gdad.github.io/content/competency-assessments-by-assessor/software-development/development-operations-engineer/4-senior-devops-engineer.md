@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -375,7 +375,7 @@ accountability.
 
 - 1 — Awareness: needs significant support to diagnose a complex fault.
 - 2 — Working: diagnoses complex faults with some guidance.
-- 3 — Practitioner: identifies, locates and fixes complex service faults
+- 3 — Practitioner: identifies, locates, and fixes complex service faults
   independently, and advises colleagues on which support methodology or
   approach fits a given situation.
 - 4 — Expert: is the escalation point for the hardest faults the team sees.

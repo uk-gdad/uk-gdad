@@ -10,7 +10,7 @@ This document contains four assessment sections, each with the same structure: w
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -18,7 +18,7 @@ This assessment is created by AI and is a work in progress for educational purpo
 
 A workplace job-specific cognitive assessment measures pattern recognition, logical deduction, error checking, prioritisation and applied problem solving through operational scenarios rather than abstract items. At head level, scenarios shift altitude: less "diagnose this incident" and more "diagnose this portfolio" — patterns across services, quarters, and teams; deductions through policy, contract, and architecture simultaneously; error checking of analyses and assurances others have already signed; prioritisation of organisational attention rather than personal task lists; and problem solving where the constraints are budget, capability and risk appetite as much as dependency and time.
 
-The typical format is an online, timed test of 15 to 30 minutes, adaptive difficulty, with accuracy and speed reported separately against senior norm groups. Expect multi-source questions requiring reconciliation across a table, a policy extract and a claim.
+The typical format is an online, timed test of 15 to 30 minutes, adaptive difficulty, with accuracy and speed reported separately against senior norm groups. Expect multi-source questions requiring reconciliation across a table, a policy extract, and a claim.
 
 Cognitive assessment is used at this level because the role concentrates judgement about judgement. The postholder rarely executes analysis; they decide whether analyses are sound, whether patterns warrant investment, whether assurances deserve belief, and where the organisation's attention should go. Errors at that layer are expensive precisely because they are wholesale.
 
@@ -598,7 +598,7 @@ Statement: "Signing the procurement as presented is consistent with the document
 
 **Correct answer: C**
 
-**Explanation:** Two comfort clauses each leave a gap unresolved: whether identifier-referencing telemetry and transient EU processing trigger the standard at all is a definitional question the texts don't answer, and whether the 2024 exception's scope (granted to "the pilot") and currency (annual renewal) cover this full procurement is unestablished. This tests recognising that neither consistency nor inconsistency is established, and that "cannot say" about one's own estate is not an answer to accept — it identifies exactly which two questions (definitional ruling, exception status and scope) must be answered before signature.
+**Explanation:** Two comfort clauses each leave a gap unresolved: whether identifier-referencing telemetry and transient EU processing trigger the standard at all is a definitional question the texts don't answer, and whether the 2024 exception's scope (granted to "the pilot") and currency (annual renewal) cover this full procurement is unestablished. This tests recognising that neither consistency nor inconsistency is established, and that "cannot say" about one's own estate is not an answer to accept — it identifies exactly which two questions (definitional ruling, exception status, and scope) must be answered before signature.
 
 ### Administration tips
 
@@ -819,4 +819,4 @@ The cognitive section tests reading incident portfolios as strategy input, deduc
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can lead a function's judgement about judgement — reading evidence precisely, quantifying honestly, and protecting long-term system health under pressure to trade it for short-term comfort — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can lead a function's judgement about judgement — reading evidence precisely, quantifying honestly, and protecting long-term system health under pressure to trade it for short-term comfort — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

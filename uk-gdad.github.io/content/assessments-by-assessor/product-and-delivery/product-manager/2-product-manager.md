@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -220,9 +220,9 @@ For a product manager, numeric fluency is the language in which the role's centr
 
 ### How this assessment maps to the role
 
-- **Percentages, rates and funnels** map to **Managing product outcomes**: completion rates, drop-off analysis and KPI movements against baseline.
+- **Percentages, rates and funnels** map to **Managing product outcomes**: completion rates, drop-off analysis, and KPI movements against baseline.
 - **Averages, weighted averages and trends** map to **Agile and Lean practices** and **Life cycle management**: velocity planning, satisfaction across user groups, uptake trends across life cycle phases.
-- **Ratios and unit economics** map to **Creating value for money**: cost per transaction, value-to-effort ratios and benefit-per-pound comparisons.
+- **Ratios and unit economics** map to **Creating value for money**: cost per transaction, value-to-effort ratios, and benefit-per-pound comparisons.
 - **Projection and target arithmetic** maps to **Strategic ownership** and **Product management**: honest, assumption-stated projections underpinning a strategy's investment case.
 - **Reading tables and charts under pressure** maps to **Stakeholder relationship management**: extracting the right figure quickly and correctly, in the meeting itself.
 
@@ -525,7 +525,7 @@ Ask which sentence best summarises the passage.
 
 **Correct answer: A**
 
-**Explanation:** Option A preserves the recommendation, the conditional item, the deferrals and the revisit trigger at correct strength. Option B upgrades a conditional into a commitment and a deferral into a cancellation. This tests preserving the strength of each claim — recommended versus committed, deferred versus cancelled — which is the precision roadmap discussions with stakeholders require.
+**Explanation:** Option A preserves the recommendation, the conditional item, the deferrals, and the revisit trigger at correct strength. Option B upgrades a conditional into a commitment and a deferral into a cancellation. This tests preserving the strength of each claim — recommended versus committed, deferred versus cancelled — which is the precision roadmap discussions with stakeholders require.
 
 **Question 8 (moderate) — Spotting the assumption in a benefits argument**
 
@@ -774,7 +774,7 @@ Six weeks ago, with stakeholder fanfare, a team launched an opt-in "smart remind
 
 **Question 11 (challenging) — A data request that feels wrong**
 
-A policy team urgently drafting ministerial advice asks for "the raw user feedback database, including the free-text comments," which frequently contain volunteered personal details — health conditions, family circumstances, occasionally names and addresses. The purpose is legitimate and the deadline real. Ask for the most effective response.
+A policy team urgently drafting ministerial advice asks for "the raw user feedback database, including the free-text comments," which frequently contain volunteered personal details — health conditions, family circumstances, occasionally names, and addresses. The purpose is legitimate and the deadline real. Ask for the most effective response.
 
 - A) Send the database — the purpose is legitimate, the requesters are civil servants, and the deadline is real.
 - B) Refuse on data protection grounds and suggest they submit a formal request through information governance, which typically takes three weeks.

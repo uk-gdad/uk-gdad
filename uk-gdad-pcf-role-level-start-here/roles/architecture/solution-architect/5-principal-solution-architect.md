@@ -1,5 +1,20 @@
 # Principal solution architect - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the principal solution architect level,
 this page is for you: what the role expects, where to find everything else
 this repository has for it, and a pathway for building the areas it names.
@@ -18,21 +33,6 @@ other architects to understand how to meet organisational goals. Community
 collaboration jumps sharply in scope at this level — from team-level
 dynamics to resolving conflict at the highest level across an organisation
 — which is the clearest sign of what separates this level from lead.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/solution-architect/5-principal-solution-architect/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

@@ -1,23 +1,6 @@
 # IT service analyst - start here
 
-Welcome. If you are working toward the IT service analyst level, this
-page is for you: what the role is about, where to find everything else
-this repository has for it, and a pathway for building the skills it asks
-for.
-
-## Purpose
-
-IT service managers are responsible for managing the service delivery of
-information and communications technology services, working with teams
-from IT service operations. As an IT service analyst, you provide
-frontline technical support to end users on issues relating to hardware,
-software and peripherals, responding to, documenting and resolving
-service desk incident tickets in a timely manner according to a service
-level agreement — diagnosing complex problems, performing root cause
-analysis, and developing checklists so the next analyst does not have to
-start from nothing.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -30,7 +13,24 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/it-operations/it-service-manager/1-it-service-analyst/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/it-operations/it-service-manager/1-it-service-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/it-service-manager/1-it-service-analyst/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/it-service-manager/1-it-service-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the IT service analyst level, this
+page is for you: what the role is about, where to find everything else
+this repository has for it, and a pathway for building the skills it asks
+for.
+
+## Purpose
+
+IT service managers are responsible for managing the service delivery of
+information and communications technology services, working with teams
+from IT service operations. As an IT service analyst, you provide
+frontline technical support to end users on issues relating to hardware,
+software and peripherals, responding to, documenting, and resolving
+service desk incident tickets in a timely manner according to a service
+level agreement — diagnosing complex problems, performing root cause
+analysis, and developing checklists so the next analyst does not have to
+start from nothing.
 
 ## Learning pathway
 

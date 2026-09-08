@@ -6,7 +6,7 @@ This is for you: a chance to rate your own current strengths against the
 baseline the UK GDAD Profession Capability Framework sets for this role
 level, using the framework's own words for what it covers.
 
-Change and release managers lead the change advisory board, ensuring adequate risk assessment and scheduling of technical changes and releases. They own the configuration management database and the access, security and configuration of change activities and release procedures. A change and release manager ensures that technical changes to IT services are adequately assessed for impact, prioritised, scheduled, authorised and implemented. They ensure this is done in line with processes and using appropriate tools. They chair the Change Advisory Board (CAB).
+Change and release managers lead the change advisory board, ensuring adequate risk assessment and scheduling of technical changes and releases. They own the configuration management database and the access, security and configuration of change activities and release procedures. A change and release manager ensures that technical changes to IT services are adequately assessed for impact, prioritised, scheduled, authorised, and implemented. They ensure this is done in line with processes and using appropriate tools. They chair the Change Advisory Board (CAB).
 
 Work through the competency matrix below, one skill at a time, then fill in
 the overall determination at the end. Treat this as a mirror, not a test —
@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -451,7 +451,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

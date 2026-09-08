@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -77,10 +77,10 @@ Emerging-technology process: Landscape scan before Shortlisting; Shortlisting be
 
 **Question 4 (moderate) — Error checking a skills and dependency matrix**
 
-Workforce standard: (i) every critical component must have at least two experts; (ii) an engineer may be recorded expert in at most two critical components; (iii) components scheduled for decommission within six months are exempt from rule (i). Matrix: Identity gateway (live, experts Asha and Ben); Artefact registry (live, experts Asha, Chen and Dara); Legacy scheduler (decommission in 4 months, expert Ben only); Secrets platform (live, expert Asha only). Ask what the audit reveals, and what changes bring the matrix into full compliance.
+Workforce standard: (i) every critical component must have at least two experts; (ii) an engineer may be recorded expert in at most two critical components; (iii) components scheduled for decommission within six months are exempt from rule (i). Matrix: Identity gateway (live, experts Asha and Ben); Artefact registry (live, experts Asha, Chen, and Dara); Legacy scheduler (decommission in 4 months, expert Ben only); Secrets platform (live, expert Asha only). Ask what the audit reveals, and what changes bring the matrix into full compliance.
 
 - A) One breach — the Secrets platform needs a second expert; adding one resolves it.
-- B) Two separate breaches — the Secrets platform has only one expert (rule i), and Asha is recorded expert on three critical components (Identity gateway, Artefact registry and Secrets platform), breaching rule (ii); resolving fully needs both a second expert added to the Secrets platform and Asha's recorded expertise removed from one of her three components.
+- B) Two separate breaches — the Secrets platform has only one expert (rule i), and Asha is recorded expert on three critical components (Identity gateway, Artefact registry, and Secrets platform), breaching rule (ii); resolving fully needs both a second expert added to the Secrets platform and Asha's recorded expertise removed from one of her three components.
 - C) One breach — the Legacy scheduler has only one expert; training a second resolves it.
 - D) No breaches — the matrix is fully compliant as shown.
 

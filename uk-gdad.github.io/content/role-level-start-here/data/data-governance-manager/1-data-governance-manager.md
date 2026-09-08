@@ -1,23 +1,6 @@
 # Data governance manager - start here
 
-Welcome. If you are working toward the data governance manager level, this
-page is for you: what the role is about, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for.
-
-## Purpose
-
-A data governance manager plans, monitors and enforces the management of
-data assets — cataloguing and identifying the data essential to the
-organisation's operations, assigning clear ownership, building governance
-into routine processes, managing risk around data, and advocating for
-better data use and literacy. At this level, you define, implement and
-manage data governance frameworks, policies and standards: designing
-practical governance solutions, spotting opportunities to improve data
-quality and trustworthiness, establishing wider data management
-competencies such as metadata management and data modelling, and working to
-minimise data risk while increasing data literacy across the organisation.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -30,7 +13,24 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/data/data-governance-manager/1-data-governance-manager/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/data/data-governance-manager/1-data-governance-manager/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/data-governance-manager/1-data-governance-manager/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/data/data-governance-manager/1-data-governance-manager/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the data governance manager level, this
+page is for you: what the role is about, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for.
+
+## Purpose
+
+A data governance manager plans, monitors and enforces the management of
+data assets — cataloguing and identifying the data essential to the
+organisation's operations, assigning clear ownership, building governance
+into routine processes, managing risk around data, and advocating for
+better data use and literacy. At this level, you define, implement and
+manage data governance frameworks, policies, and standards: designing
+practical governance solutions, spotting opportunities to improve data
+quality and trustworthiness, establishing wider data management
+competencies such as metadata management and data modelling, and working to
+minimise data risk while increasing data literacy across the organisation.
 
 ## Learning pathway
 

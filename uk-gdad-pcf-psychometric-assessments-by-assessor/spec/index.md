@@ -19,7 +19,7 @@ the candidate sitting it.
 
 **This is not a validated assessment instrument.** It is not piloted, not
 normed, and not checked for adverse impact, and a result from it must never be
-the sole basis for a hiring, promotion, pay, performance or disciplinary
+the sole basis for a hiring, promotion, pay, performance, or disciplinary
 decision. Used inconsistently across candidates, an instrument like this can
 produce unlawful adverse impact — see the legal files below. Every document
 says so in its `## Advisory` section, and that section is required.

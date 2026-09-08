@@ -1,5 +1,20 @@
 # Lead DevOps engineer - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the lead DevOps engineer level, this page
 is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -21,21 +36,6 @@ technical leadership through coaching and mentoring, and lead the sharing of
 knowledge and good practice across teams. The shift from senior is scope:
 your decisions and your standards now shape more than your own work or your
 own team.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/software-development/development-operations-engineer/6-lead-devops-engineer/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -118,7 +118,7 @@ what you might be missing.
 - [ ] **Keep building your programming and build practice**
 
   This skill's expectation is unchanged from the level below: collaborating
-  on specifications, then designing, coding, testing and documenting
+  on specifications, then designing, coding, testing, and documenting
   programs of medium-to-high complexity to the right standards. Staying
   hands-on here is what keeps your technical leadership credible.
 

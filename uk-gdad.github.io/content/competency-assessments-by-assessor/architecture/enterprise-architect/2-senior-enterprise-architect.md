@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 Because this instrument is unvalidated, using it inconsistently between
@@ -303,7 +303,7 @@ community or team directly.
 
 **What the framework expects at this level**
 
-Design an architecture that defines the technology, people, process and other
+Design an architecture that defines the technology, people, process, and other
 elements needed to achieve organisational objectives, and work with others
 across the organisation to ensure that design is used to achieve those
 objectives.

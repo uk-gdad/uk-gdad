@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -99,7 +99,7 @@ is the third:
 3. **Senior test engineer** — this level
 4. Lead test engineer
 
-Below this level, a test engineer writes, debugs and refactors test code
+Below this level, a test engineer writes, debugs, and refactors test code
 within their own team, with some support on the harder parts. Above it, a
 lead test engineer sets standards and influences decisions across the whole
 organisation, writes new automation test frameworks from project
@@ -396,7 +396,7 @@ independent grasp across the board, not full mastery of everything.
   than one team uses, guides and coaches colleagues in writing tests that
   meet the team's standards, and actively researches future testing needs.
 - 4 — Expert: Establishes and leads the organisation's test engineering
-  practices, standards and tool choices.
+  practices, standards, and tool choices.
 
 **Evidence to gather**
 
@@ -458,7 +458,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

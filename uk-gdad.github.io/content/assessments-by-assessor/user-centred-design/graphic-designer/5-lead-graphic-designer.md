@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -31,7 +31,7 @@ Three things characterise this section at this level. First, reasoning at a dist
 - **Auditing at a distance** maps to setting direction and assuring the quality of design delivery across teams.
 - **Cross-service synthesis** maps to **Evidence-based design**: analysing, synthesising and using evidence to improve how the organisation works.
 - **Systemic diagnosis** maps to **Iterative design**: iterating delivery processes or team structures to help teams work effectively.
-- **Strategic prioritisation** maps to **Designing strategically**: using risks, opportunities and constraints to shape design.
+- **Strategic prioritisation** maps to **Designing strategically**: using risks, opportunities, and constraints to shape design.
 - **Diagnosing structural exclusion** maps to **Designing for everyone**: measurably improving inclusive practice across multiple teams.
 - **Reasoning about positions** maps to **Design communication**: gaining support from senior leaders and communicating across boundaries.
 

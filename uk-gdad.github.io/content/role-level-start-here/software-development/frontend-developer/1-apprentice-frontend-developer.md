@@ -1,5 +1,20 @@
 # Apprentice frontend developer - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are starting out as an apprentice frontend developer, this
 page is for you: what the role is about, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for, one
@@ -18,21 +33,6 @@ tests rather than writing much alone yet. That's exactly right for where you
 are: the habits you absorb watching good frontend code get written are worth
 more right now than rushing to write it solo.
 
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/software-development/frontend-developer/1-apprentice-frontend-developer/upskilling-resources/): courses, articles, videos and books to work through.
-
 ## Learning pathway
 
 Work through these roughly in order. Each one is a requirement of this role
@@ -42,7 +42,7 @@ team's codebase, which a generic tutorial never is.
 
 - [ ] **Design and build a simple user interface under direction**
 
-  Design, code, test, correct and document simple user interfaces using the
+  Design, code, test, correct, and document simple user interfaces using the
   right standards and tools, under the direction of others — the whole
   small cycle, not just typing the code.
 

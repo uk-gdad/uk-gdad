@@ -1,22 +1,6 @@
 # Senior infrastructure operations engineer - start here
 
-Welcome. If you are working toward the senior infrastructure operations
-engineer level, this page is for you: what the role expects, where to find
-everything else this repository has for it, and a pathway for building
-the skills it asks for.
-
-## Purpose
-
-A senior infrastructure operations engineer acts as second- or third-line
-support for incidents, problems and changes to solutions and services,
-providing specialist technical support to projects, coaching and mentoring
-junior team members, and helping deliver first class services and
-consistent levels of capability. Change management, coding and scripting,
-incident management, problem management, technical specialism and testing
-all grow at this level, because escalated support asks for more than
-handling the first line of a request.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -29,7 +13,23 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/it-operations/infrastructure-operations-engineer/3-senior-infrastructure-operations-engineer/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/it-operations/infrastructure-operations-engineer/3-senior-infrastructure-operations-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/infrastructure-operations-engineer/3-senior-infrastructure-operations-engineer/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/infrastructure-operations-engineer/3-senior-infrastructure-operations-engineer/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the senior infrastructure operations
+engineer level, this page is for you: what the role expects, where to find
+everything else this repository has for it, and a pathway for building
+the skills it asks for.
+
+## Purpose
+
+A senior infrastructure operations engineer acts as second- or third-line
+support for incidents, problems and changes to solutions and services,
+providing specialist technical support to projects, coaching and mentoring
+junior team members, and helping deliver first class services and
+consistent levels of capability. Change management, coding and scripting,
+incident management, problem management, technical specialism, and testing
+all grow at this level, because escalated support asks for more than
+handling the first line of a request.
 
 ## Learning pathway
 

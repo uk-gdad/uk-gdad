@@ -1,5 +1,20 @@
 # Apprentice developer - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are starting out as an apprentice developer, this page is
 for you: what the role is about, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for,
@@ -16,21 +31,6 @@ working alongside developers on code and tests, and following a test-driven
 approach so that writing tests becomes a habit rather than an afterthought
 from day one. Ask for a code review on everything you write for the first
 few months — reviews are how the team teaches, not a test you pass.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/software-development/software-developer/1-apprentice-developer/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

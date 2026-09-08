@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -84,7 +84,7 @@ above this level's baseline.
 
 The User-centred design profession's Graphic designer role creates graphic
 elements that underpin interaction and service design. Across the role, a
-graphic designer uses layout, spacing, colour, type and iconography to ensure
+graphic designer uses layout, spacing, colour, type, and iconography to ensure
 that content is legible and readable, and that users see and understand
 interactions.
 
@@ -129,7 +129,7 @@ baseline of explaining a single decision clearly.
 - 2 — Working: Clearly explains a straightforward design problem to a
   non-design stakeholder.
 - 3 — Practitioner: Clearly explains a complex, multi-part design problem to a
-  stakeholder outside design, documents decisions, risks and unresolved
+  stakeholder outside design, documents decisions, risks, and unresolved
   issues, and builds consensus by asking difficult questions.
 - 4 — Expert: Gains support for design strategy from senior leaders and
   coaches others in effective design communication.
@@ -176,7 +176,7 @@ capped the graphic designer's baseline has gone.
   with support.
 - 2 — Working: Independently ensures their own design work meets
   accessibility standards.
-- 3 — Practitioner: Advises other teams on inclusive, accessible and sustainable
+- 3 — Practitioner: Advises other teams on inclusive, accessible, and sustainable
   design, and designs ethically, accounting for users' personal and social
   context.
 - 4 — Expert: Measurably improves inclusive and sustainable design practice
@@ -400,7 +400,7 @@ skill text itself has not moved on yet.
 **Behavioural indicators**
 
 - 1 — Awareness: Describes the value of user-centred design when asked.
-- 2 — Working: With support, leads or coordinates a piece of design work
+- 2 — Working: With support, leads, or coordinates a piece of design work
   in the team, communicates the value of user-centred design, and supports
   another designer.
 - 3 — Practitioner: Leads and coordinates design work without needing support,

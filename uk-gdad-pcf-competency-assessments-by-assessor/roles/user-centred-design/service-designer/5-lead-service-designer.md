@@ -21,7 +21,7 @@ the whole of one — see `## Advisory` for why.
 This competency assessment is created by AI and is a work in progress for educational
 purposes. It is not a validated assessment instrument — it has not been piloted, normed
 or checked for adverse impact — and a rating on this form must never be the sole basis
-for a hiring, promotion, pay, performance or disciplinary decision. Before using it,
+for a hiring, promotion, pay, performance, or disciplinary decision. Before using it,
 consult your organisation's human resources, people development, occupational
 psychology or legal compliance colleagues.
 
@@ -208,7 +208,7 @@ this text does not make.
 - 2 — Working: has helped align one piece of design work to a team's goals, with
   guidance.
 - 3 — Practitioner: independently helps teams understand how their design work supports
-  organisational goals, weighs technology, systems and policy constraints to shape
+  organisational goals, weighs technology, systems, and policy constraints to shape
   design, and creates a new design pattern or component when an existing one does not
   fit.
 - 4 — Expert: shapes design strategy across multiple teams or the whole organisation.

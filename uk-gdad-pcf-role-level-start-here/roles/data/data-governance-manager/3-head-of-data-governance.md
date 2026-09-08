@@ -1,5 +1,20 @@
 # Head of data governance - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the head of data governance level, this
 page is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the areas it names.
@@ -16,21 +31,6 @@ for organisational data risk, act as a senior advisor across government on
 data security best practice, maintain long-term relationships with senior
 decision-makers, and advocate for better data risk management, literacy and
 understanding across the organisation.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/data-governance-manager/3-head-of-data-governance/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 

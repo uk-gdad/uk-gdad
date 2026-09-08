@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -171,7 +171,7 @@ awareness, not yet applied practice, so the baseline sits at Awareness.
 **Evidence to gather**
 
 - Ask the candidate to explain why an interaction should work for a user
-  with a visual, hearing, motor or cognitive difference.
+  with a visual, hearing, motor, or cognitive difference.
 - Ask them to describe how privilege or power might affect who gets a good
   service and who does not, using an example if they have one.
 
@@ -373,7 +373,7 @@ baseline sits at Awareness.
 - 1 — Awareness: Explains the role of user-centred design in an
   organisation, and describes typical leadership responsibilities in a
   design team.
-- 2 — Working: With support, leads or coordinates a small piece of
+- 2 — Working: With support, leads, or coordinates a small piece of
   design work.
 - 3 — Practitioner: Leads and coordinates design work in a team independently
   and mentors other designers.

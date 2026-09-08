@@ -1,5 +1,20 @@
 # Senior service desk analyst - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the senior service desk analyst level,
 this page is for you: what the role expects, where to find everything else
 this repository has for it, and a pathway for building the skills it asks
@@ -16,21 +31,6 @@ coach and develop one or more analysts. Problem management and service
 management framework knowledge are new at this level, and most other
 named skills grow, because supporting a team through difficult calls asks
 for more than resolving your own calls well.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/service-desk-manager/2-senior-service-desk-analyst/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -71,7 +71,7 @@ specific question rather than searching for a generic guide.
   the level of a problem — for example, strategic, tactical or
   operational — and contribute to remedies and preventative measures.
 
-  Ask AI: "What's the difference between a strategic, a tactical and an
+  Ask AI: "What's the difference between a strategic, a tactical, and an
   operational problem on a service desk, and why does knowing which is
   which change how you respond?"
 
@@ -86,7 +86,7 @@ specific question rather than searching for a generic guide.
 - [ ] **Keep tracking and protecting assets and components**
 
   This skill's wording plateaus here, unchanged from service desk analyst
-  level: tracking, logging and correcting information to protect assets
+  level: tracking, logging, and correcting information to protect assets
   and components.
 
   Ask AI: "Given this skill's description hasn't changed since the level

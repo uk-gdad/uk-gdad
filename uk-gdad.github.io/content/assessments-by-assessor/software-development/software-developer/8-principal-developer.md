@@ -12,11 +12,11 @@ The reasoning that produces good outcomes at this level differs in kind from ear
 
 Each of the four sections that follow presents an overview of what it measures and its typical format, a mapping to the role's named skills, twelve practice questions with full worked explanations, then administration tips and common scoring pitfalls.
 
-**How to administer this fairly.** Give every candidate for this role level the same items and the same time allowance, and hold the answer key back until scoring and debrief. Score cognitive and numeric items for whether the candidate reasons about failure modes, combined causes, and organisational constraints rather than technical elegance alone — several items are deliberately built so a confident, decisive-sounding answer is the weaker one where the facts call for establishing a shared cause or a hidden ceiling first. Verbal items reward precise reading of governance, strategy and licensing language against the passage alone. Situational judgement items at this level consistently reward a response that makes reasoning legible and checkable to people who cannot verify it directly, converts authority disputes into testable predictions, and names uncomfortable facts about the candidate's own past work rather than defending it.
+**How to administer this fairly.** Give every candidate for this role level the same items and the same time allowance, and hold the answer key back until scoring and debrief. Score cognitive and numeric items for whether the candidate reasons about failure modes, combined causes, and organisational constraints rather than technical elegance alone — several items are deliberately built so a confident, decisive-sounding answer is the weaker one where the facts call for establishing a shared cause or a hidden ceiling first. Verbal items reward precise reading of governance, strategy, and licensing language against the passage alone. Situational judgement items at this level consistently reward a response that makes reasoning legible and checkable to people who cannot verify it directly, converts authority disputes into testable predictions, and names uncomfortable facts about the candidate's own past work rather than defending it.
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -603,7 +603,7 @@ Statement: The customer may make a copy of the software to use in a test environ
 
 ### Administration tips
 
-- Score for whether the candidate distinguishes approval, endorsement, consultation, notification and directive powers precisely in governance text.
+- Score for whether the candidate distinguishes approval, endorsement, consultation, notification, and directive powers precisely in governance text.
 - Note whether a condition attached to one mechanism is correctly kept separate from a condition attached to a different mechanism in the same passage.
 - Watch for whether forecasting language ("anticipates", "expects") is read as a forecast rather than a commitment.
 - Score for whether "is not obliged to" is read as removing a duty rather than creating a prohibition.

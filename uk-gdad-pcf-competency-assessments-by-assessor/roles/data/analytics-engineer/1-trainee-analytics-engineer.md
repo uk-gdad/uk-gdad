@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -99,7 +99,7 @@ analytics engineering. This assessment is for the first of them.
 A **trainee analytics engineer** attends training and develops skills on the
 job. At this role level, they will spend time shadowing other analytics
 engineers, build their knowledge of the organisation, learn skills for
-managing data, learn to use different applications, tools, templates and best
+managing data, learn to use different applications, tools, templates, and best
 practices, handle simple queries from users and document their data
 requirements, and contribute to data documentation and user training. It is a
 supervised, learning-first level: the accountabilities are about building
@@ -182,7 +182,7 @@ happen with support and on simple data, so the baseline sits at the scale’s fi
   moderately complex data set and explains it clearly.
 - 3 — Practitioner: Reliably interprets data from multiple related sources and
   distinguishes a genuine insight from noise.
-- 4 — Expert: Synthesises insight across complex, ambiguous data and teaches
+- 4 — Expert: Synthesises insight across complex, ambiguous data, and teaches
   others how to do the same.
 
 **Evidence to gather**

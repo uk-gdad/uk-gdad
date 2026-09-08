@@ -1,5 +1,20 @@
 # Senior business analyst - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the senior business analyst level, this
 page is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -14,21 +29,6 @@ manage community of practice activities within your business area. Every
 named skill grows into leading the activity rather than just doing it well —
 the through-line at this level is that other analysts start looking to you
 for the approach, not just the output.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/product-and-delivery/business-analyst/4-senior-business-analyst/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -91,7 +91,7 @@ trade-off and ask what you might be missing.
 - [ ] **Own stakeholder strategy, not just individual relationships**
 
   Work with your team to develop and maintain a shared understanding of
-  stakeholders, develop and implement stakeholder communications
+  stakeholders, develop, and implement stakeholder communications
   strategies, identify and resolve issues, and build long-term strategic
   relationships.
 

@@ -1,5 +1,20 @@
 # Business architect - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the business architect level, this page
 is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -16,21 +31,6 @@ them, and develop standard, scalable models for collecting and making sense
 of complex information. A new skill appears here — strategic design and
 business change — because at this level you're expected to shape how the
 organisation changes, not just describe how it works today.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/business-architect/3-business-architect/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -91,7 +91,7 @@ trade-off and ask what you might be missing.
 - [ ] **Own stakeholder strategy, not just individual relationships**
 
   Work with your team to develop and maintain a shared understanding of
-  stakeholders, develop and implement stakeholder communications
+  stakeholders, develop, and implement stakeholder communications
   strategies, identify and resolve issues, and build long-term strategic
   relationships.
 

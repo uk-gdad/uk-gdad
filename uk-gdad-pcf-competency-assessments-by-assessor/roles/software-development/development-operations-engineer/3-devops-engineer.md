@@ -20,7 +20,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -298,7 +298,7 @@ accountability supports a baseline above Working.
 
 **Evidence to gather**
 
-- Set a realistic, medium-complexity coding task and observe the candidate's
+- Set a realistic, medium-complexity coding task, and observe the candidate's
   full process: specification review, build, test, and documentation.
 - Ask to see a complex program or script the candidate built recently, and
   discuss the design decisions they made.
@@ -369,7 +369,7 @@ better fit than Practitioner.
 **Behavioural indicators**
 
 - 1 — Awareness: locates and fixes a straightforward fault with guidance.
-- 2 — Working: identifies, locates and fixes a service fault
+- 2 — Working: identifies, locates, and fixes a service fault
   independently, for faults of typical difficulty.
 - 3 — Practitioner: does this for complex, less obvious faults and can advise a
   colleague on the approach.
@@ -425,7 +425,7 @@ consistent with a strong, independent grasp of the skill.
 - Ask the candidate to walk through a design they produced, from logical
   design through to documented physical design.
 - Review a design document the candidate authored for completeness against
-  the required standards, methods and tools.
+  the required standards, methods, and tools.
 
 **Rate this skill**
 

@@ -1,23 +1,6 @@
 # Lead technical architect - start here
 
-Welcome. If you are working toward the lead technical architect level,
-this page is for you: what the role expects, where to find everything else
-this repository has for it, and a pathway for building the skills it asks
-for.
-
-## Purpose
-
-A lead technical architect works with multiple projects or teams on
-problems that require broad architectural thinking. You're responsible for
-leading the technical design of systems and services, justifying and
-communicating design decisions, assuring other services and system quality
-so technical work fits into the broader strategy for government, exploring
-the benefits of cross-government alignment, mentoring within teams, and
-providing leadership to other architects. Almost every named skill grows at
-this level, because you're now shaping direction across multiple projects,
-not delivering one.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -30,7 +13,24 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/architecture/technical-architect/4-lead-technical-architect/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/architecture/technical-architect/4-lead-technical-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/technical-architect/4-lead-technical-architect/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/technical-architect/4-lead-technical-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the lead technical architect level,
+this page is for you: what the role expects, where to find everything else
+this repository has for it, and a pathway for building the skills it asks
+for.
+
+## Purpose
+
+A lead technical architect works with multiple projects or teams on
+problems that require broad architectural thinking. You're responsible for
+leading the technical design of systems and services, justifying and
+communicating design decisions, assuring other services, and system quality
+so technical work fits into the broader strategy for government, exploring
+the benefits of cross-government alignment, mentoring within teams, and
+providing leadership to other architects. Almost every named skill grows at
+this level, because you're now shaping direction across multiple projects,
+not delivering one.
 
 ## Learning pathway
 

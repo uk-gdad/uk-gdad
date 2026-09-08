@@ -8,13 +8,13 @@ The competency matrix below turns the framework's own description of this role l
 
 ## Advisory
 
-This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## How to use this assessment
 
 **Preparing.** Read `## About this role level` before you score anything. Gather whatever evidence exists ahead of time: a CV or portfolio, a structured interview, a work sample or task, direct observation, or references. At this level, look for a sustained track record — a strategy roadmap the candidate actually authored, a capability the team gained under their leadership — rather than a single project.
 
-**Scoring on evidence, not impression.** Every rating must trace to something the person did, said, produced, or was observed doing. Job title alone is not evidence; ask for the specific strategy, decision or investigation the candidate personally led.
+**Scoring on evidence, not impression.** Every rating must trace to something the person did, said, produced, or was observed doing. Job title alone is not evidence; ask for the specific strategy, decision, or investigation the candidate personally led.
 
 **Consistency.** Score every candidate for this role level the same way, and for a hiring or promotion decision have more than one assessor score independently before comparing notes — especially important at this level, where a single assessor's personal view of "strategic" can otherwise dominate the rating.
 

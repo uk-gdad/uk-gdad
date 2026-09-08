@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 Because this instrument is unvalidated, using it inconsistently between
@@ -81,7 +81,7 @@ independently designs an architecture defining technology, people and process
 elements, and works with others across the organisation to see it used. A
 person rated 4 (Expert) — the baseline for this role level — leads other
 architects in designing architectures that achieve organisational objectives,
-works with people beyond the organisation to influence structures, technology
+works with people beyond the organisation to influence structures, technology,
 and process elsewhere, and ensures that organisation-wide change stays
 aligned with the architectural strategy, exactly as the framework describes
 this level's remit.
@@ -328,7 +328,7 @@ mastery-level acts.
 - 3 — Practitioner: Independently designs an architecture and works with others
   across the organisation to see it used.
 - 4 — Expert: Leads other architects' design work, works with people beyond
-  the organisation to influence structures, technology and process
+  the organisation to influence structures, technology, and process
   elsewhere, and ensures organisation-wide change stays aligned with the
   architectural strategy.
 
@@ -358,7 +358,7 @@ Make and guide architectural design decisions characterised by high levels of
 risk and complexity, identify and address architectural risks across the
 organisation or wider government, lead and evolve architectural governance
 and assurance, and represent architectural governance as part of wider
-governance — for example, legal or commercial.
+governance — for example, legal, or commercial.
 
 **Baseline for this role level**
 
@@ -419,7 +419,7 @@ reaches the whole architecture community.
 - 2 — Working: Frames a problem of managed complexity with some
   guidance.
 - 3 — Practitioner: Independently leads the framing of a problem of high
-  complexity, complication or risk.
+  complexity, complication, or risk.
 - 4 — Expert: Leads the framing of the organisation's hardest problems, and
   has built a habit across the architecture community of coaching others in
   defining problems and describing solution options well.

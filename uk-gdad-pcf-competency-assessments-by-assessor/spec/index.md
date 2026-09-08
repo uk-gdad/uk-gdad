@@ -31,7 +31,7 @@ self-report.
 
 **This is not a validated assessment instrument.** It has not been piloted,
 normed, or checked for adverse impact, and it must never be the sole basis for
-a hiring, promotion, pay, performance or disciplinary decision. Every document
+a hiring, promotion, pay, performance, or disciplinary decision. Every document
 says so in its `## Advisory` section, and that section is required.
 
 ## What this is not
@@ -314,7 +314,7 @@ These are not advisory. A document that breaks one of them is a defect.
   or compares one candidate against another; it measures one person against the
   framework's own description of the role level.
 - **Warn where the work is sensitive**, the same way the skills gap form does:
-  security architects, network architects, data architects and similar posts
+  security architects, network architects, data architects, and similar posts
   get a line in `## How to use this assessment` reminding the assessor not to
   record classified material or live vulnerability detail in the evidence log.
 

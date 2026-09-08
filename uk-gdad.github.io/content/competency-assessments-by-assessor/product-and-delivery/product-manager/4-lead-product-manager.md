@@ -17,7 +17,7 @@ do that, not whether they might grow into it.
 
 Use it as one input among several — alongside a CV or portfolio, a
 structured interview, a work sample, direct observation or references —
-never as the whole of a hiring, promotion, pay, performance or disciplinary
+never as the whole of a hiring, promotion, pay, performance, or disciplinary
 decision on its own. Read `## Advisory` before you start.
 
 ## Advisory
@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -307,7 +307,7 @@ product's distinct wording at that level describes.
 
 A lead product manager leads and coaches teams through different phases of
 the product life cycle, ensures effective support for the product or service
-and its users, predicts, prevents, mitigates and manages potential risks at
+and its users, predicts, prevents, mitigates, and manages potential risks at
 different phases of that life cycle, and contributes to the assessment of
 other teams, providing guidance and support.
 
@@ -554,7 +554,7 @@ the entire organisation.
 
 A lead product manager supports and coaches others in creating and
 implementing a successful long-term strategy and tactical approach that
-others agree with, influences and persuades stakeholders to support
+others agree with, influences, and persuades stakeholders to support
 delivery of the strategy, supports strategic decision making, and ensures
 strategic alignment across the organisation.
 

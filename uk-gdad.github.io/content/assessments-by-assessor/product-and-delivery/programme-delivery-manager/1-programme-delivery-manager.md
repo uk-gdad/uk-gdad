@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -28,7 +28,7 @@ For a programme delivery manager, cognitive assessment is particularly relevant 
 
 ### How this assessment maps to the role
 
-- **Pattern recognition** maps to **Maintaining delivery momentum** and **Planning**: noticing recurring signals across sprint data, dependency maps and risk logs.
+- **Pattern recognition** maps to **Maintaining delivery momentum** and **Planning**: noticing recurring signals across sprint data, dependency maps, and risk logs.
 - **Logical deduction** maps to **Planning** and **Life cycle management**: reasoning validly from constraints to their consequences, and predicting risks before they materialise at each phase.
 - **Error checking** maps to **Making a process work** and **Financial management**: spotting the inconsistency — the process step that contradicts the policy, the forecast line that cannot be reconciled with the burn rate.
 - **Prioritisation** maps to the duty to **balance objectives and redeploy people and resources as priorities change**, and to the role as **the initial escalation point for the programme**.
@@ -410,7 +410,7 @@ A workplace job-specific verbal reasoning assessment measures how accurately a c
 
 The typical format is an online, timed test of 15 to 25 minutes with 15 to 30 questions, most commonly true / false / cannot say, plus inference strength, main-point identification, and clear-writing judgement items. The cardinal rule is answering from the passage alone — not from professional knowledge, however extensive.
 
-For a programme delivery manager, verbal reasoning is core infrastructure: understanding, managing and communicating to complex stakeholder groups; mediating precisely between technical and non-technical people; moderating difficult discussions about high-risk topics; and reading contracts, assurance reports and ministerial correspondence where "must"/"should"/"may" and "has decided"/"is minded to" carry real delivery consequences.
+For a programme delivery manager, verbal reasoning is core infrastructure: understanding, managing, and communicating to complex stakeholder groups; mediating precisely between technical and non-technical people; moderating difficult discussions about high-risk topics; and reading contracts, assurance reports and ministerial correspondence where "must"/"should"/"may" and "has decided"/"is minded to" carry real delivery consequences.
 
 ### How this assessment maps to the role
 
@@ -807,7 +807,7 @@ A junior engineer confidentially describes a pattern in the best-performing team
 
 ## Conclusion
 
-This guide has worked through cognitive questions exercising pattern recognition, deduction and prioritisation under dependency management and escalation; numeric questions rebuilding budgets, burn rates, weighted confidences and supplier invoices with every step shown; verbal questions sharpening precise reading of contracts, assurance reports and diplomatically worded letters; and situational judgement scenarios rehearsing the hardest part of the role — the moments when transparency, pace, people and politics pull in different directions.
+This guide has worked through cognitive questions exercising pattern recognition, deduction, and prioritisation under dependency management and escalation; numeric questions rebuilding budgets, burn rates, weighted confidences, and supplier invoices with every step shown; verbal questions sharpening precise reading of contracts, assurance reports, and diplomatically worded letters; and situational judgement scenarios rehearsing the hardest part of the role — the moments when transparency, pace, people, and politics pull in different directions.
 
 **Scoring and debrief.** Score against the worked explanations, not the answer letter alone — several situational and verbal items reward the quality of reasoning as much as the final choice. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
 

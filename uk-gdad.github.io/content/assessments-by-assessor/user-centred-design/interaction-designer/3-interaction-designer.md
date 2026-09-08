@@ -16,7 +16,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -102,7 +102,7 @@ A team proposes replacing a standard date input with a calendar picker to preven
 
 **Correct answer: B**
 
-**Explanation:** A calendar picker optimises for a date near today; entering a date decades in the past through one means navigating back hundreds of months, while a custom picker must be built and maintained across keyboard, assistive technology, voice control and zoom. This tests identifying why a specific control is mismatched to a specific task, and naming the better answer to the underlying concern — option C treats testing as a substitute for the design decision rather than a check on it.
+**Explanation:** A calendar picker optimises for a date near today; entering a date decades in the past through one means navigating back hundreds of months, while a custom picker must be built and maintained across keyboard, assistive technology, voice control, and zoom. This tests identifying why a specific control is mismatched to a specific task, and naming the better answer to the underlying concern — option C treats testing as a substitute for the design decision rather than a check on it.
 
 **Question 6 (moderate) — Strength of a finding**
 

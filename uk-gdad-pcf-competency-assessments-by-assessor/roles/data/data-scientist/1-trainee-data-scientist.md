@@ -21,7 +21,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -171,7 +171,7 @@ statistical judgement, which belongs to the level above.
 - A structured interview question: "Tell me about a time you looked at a set
   of numbers and worked out what was going on. What did you check first, and
   how did you know your reading of it was right?"
-- A document to review: any written analysis, coursework or exercise the
+- A document to review: any written analysis, coursework, or exercise the
   candidate has produced, checking whether their statistical claims match what
   the underlying numbers actually show.
 - A scenario to observe: show two summary statistics for the same dataset that
@@ -229,7 +229,7 @@ technologies used" — a textbook Awareness-level expectation, nothing more.
 - A short scenario: describe a simple data source (a spreadsheet export, a
   set of sensor readings) and ask what preparation it would likely need before
   it could be analysed, and why.
-- A document to review: any coursework, project write-up or portfolio note
+- A document to review: any coursework, project write-up, or portfolio note
   that touches on where data came from or how it was stored.
 - Something to ask a referee: whether the candidate has asked sensible
   questions of engineering colleagues rather than treating data preparation as
@@ -391,7 +391,7 @@ effectively" as part of a wider team effort, under support.
 - A structured interview question: "Tell me about a piece of analysis or a
   project you worked on. Who was it for, and how did you explain what you'd
   found to them?"
-- A document to review: any presentation, poster or written summary the
+- A document to review: any presentation, poster, or written summary the
   candidate has produced.
 - A scenario to observe: describe a simple user need (for example, "the team
   wants to know which service pages people give up on") and ask how they
@@ -441,7 +441,7 @@ accountability of having "a basic knowledge" of key techniques.
 **Evidence to gather**
 
 - A document to review: any CPD plan or personal development log the
-  candidate keeps, even an early or informal one.
+  candidate keeps, even an early, or informal one.
 - A structured interview question: "How have you been building your data
   science knowledge? What have you learned recently, and where did that come
   from?"
@@ -495,7 +495,7 @@ analytical methods".
 - A structured interview question: "Tell me about the last time you wrote a
   script or some code to work with data. What did it do, and did anyone check
   it over?"
-- A document to review: any code sample, notebook or repository the candidate
+- A document to review: any code sample, notebook, or repository the candidate
   can show, even from coursework or a personal project.
 - Direct observation: watch how the candidate approaches a small coding task —
   whether they check their own output, and how they respond when something

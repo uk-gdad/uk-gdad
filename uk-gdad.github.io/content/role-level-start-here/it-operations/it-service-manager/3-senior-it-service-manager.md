@@ -1,19 +1,6 @@
 # Senior IT service manager - start here
 
-Welcome. If you are working toward the senior IT service manager level,
-this page is for you: what the role expects, where to find everything
-else this repository has for it, and a pathway for building the areas it
-names.
-
-## Purpose
-
-A senior IT service manager is responsible for service management across
-platforms, multiple channels and services, to ensure service availability,
-performance and process maturity. All nine named skills grow at this
-level, because owning service maturity across platforms asks for more
-than managing service level agreements within one.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -26,7 +13,20 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/it-operations/it-service-manager/3-senior-it-service-manager/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/it-operations/it-service-manager/3-senior-it-service-manager/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/it-service-manager/3-senior-it-service-manager/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/it-service-manager/3-senior-it-service-manager/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the senior IT service manager level,
+this page is for you: what the role expects, where to find everything
+else this repository has for it, and a pathway for building the areas it
+names.
+
+## Purpose
+
+A senior IT service manager is responsible for service management across
+platforms, multiple channels and services, to ensure service availability,
+performance and process maturity. All nine named skills grow at this
+level, because owning service maturity across platforms asks for more
+than managing service level agreements within one.
 
 ## Learning pathway
 

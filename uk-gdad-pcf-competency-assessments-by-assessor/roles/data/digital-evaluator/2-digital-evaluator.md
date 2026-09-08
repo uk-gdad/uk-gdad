@@ -20,7 +20,7 @@ for why.
 This competency assessment is created by AI and is a work in progress for educational
 purposes. It is not a validated assessment instrument — it has not been piloted, normed
 or checked for adverse impact — and a rating on this form must never be the sole basis
-for a hiring, promotion, pay, performance or disciplinary decision. Before using it,
+for a hiring, promotion, pay, performance, or disciplinary decision. Before using it,
 consult your organisation's human resources, people development, occupational
 psychology or legal compliance colleagues.
 
@@ -124,7 +124,7 @@ guidance."
 - 2 — Working: has chosen a format for a set of findings, shaped the message for a
   named audience, and given a tactical recommendation, with some support presenting
   visualisations.
-- 3 — Practitioner: independently chooses medium, shapes communications and gives tactical
+- 3 — Practitioner: independently chooses medium, shapes communications, and gives tactical
   recommendations for a real evaluation, without needing support on visualisations.
 - 4 — Expert: is trusted to develop other evaluators' communication skills.
 

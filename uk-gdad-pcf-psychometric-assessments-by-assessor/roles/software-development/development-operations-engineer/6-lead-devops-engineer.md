@@ -6,7 +6,7 @@ This guide is for you: an assessor — a line manager, a panel member or a revie
 
 Psychometric assessments are structured, standardised exercises that measure the mental capabilities and behavioural tendencies that predict success in a role. For a lead DevOps engineer, that means far more than abstract puzzles: the assessments described here are job-specific, using artefacts the role genuinely handles — product roadmaps, platform adoption dashboards, standards documents, integration procedures, capacity and cost reports, deprecation notices, and messages from delivery managers with competing demands — and decisions genuinely made by someone who leads one or a small number of related project teams, acts as a technical product owner, and contributes to strategic direction.
 
-At this level, influence is exercised largely through others: developing medium to long term strategies for product lines, providing technical leadership through coaching and mentoring, leading the sharing of knowledge and good practice, and establishing standards and procedures that other practitioners must follow across a service product life cycle. Cognitive ability now means reasoning about dependencies that span teams; numerical reasoning means reading adoption trends and costs across a portfolio; verbal reasoning means parsing policy and strategy documents precisely and writing announcements a dozen teams will act on; situational judgement means navigating competing stakeholders, resistant teams and struggling individuals.
+At this level, influence is exercised largely through others: developing medium to long term strategies for product lines, providing technical leadership through coaching and mentoring, leading the sharing of knowledge and good practice, and establishing standards and procedures that other practitioners must follow across a service product life cycle. Cognitive ability now means reasoning about dependencies that span teams; numerical reasoning means reading adoption trends and costs across a portfolio; verbal reasoning means parsing policy and strategy documents precisely and writing announcements a dozen teams will act on; situational judgement means navigating competing stakeholders, resistant teams, and struggling individuals.
 
 Each of the four sections follows the same pattern: an overview of what it measures and its typical format; a mapping to the role's named skills; graduated practice questions with full worked explanations; then administration tips and common scoring pitfalls.
 
@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -222,7 +222,7 @@ For a lead DevOps engineer, numbers operate at portfolio altitude: adoption perc
 
 - **Percentages and adoption metrics** map to the duty to act as a technical product owner: product health for an internal platform is measured in adoption rates and migration completion.
 - **Weighted averages and portfolio statistics** map to **Availability and capacity management** and leadership of multiple teams: KPIs aggregated across services or teams must be weighted by volume.
-- **Rates, trends and compound growth** map to **Development process optimisation** and strategy development: projecting usage, cost and demand forward correctly.
+- **Rates, trends and compound growth** map to **Development process optimisation** and strategy development: projecting usage, cost, and demand forward correctly.
 - **Cost modelling and breakeven analysis** map to **Systems design**'s requirement for efficient use of resources: choosing between hosting models is rate-times-volume arithmetic with a breakeven point.
 - **Reading tables accurately** maps to **Modern development standards** and **Service support** reporting.
 - **Ratio and scaling calculations** map to **Systems integration** resource management: support ratios and coverage models.

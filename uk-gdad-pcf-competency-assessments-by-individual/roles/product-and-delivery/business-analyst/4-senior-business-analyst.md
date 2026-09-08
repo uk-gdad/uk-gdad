@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -65,11 +65,11 @@ how they feel about it.
 analyse and evaluate a process, propose an improvement and validate it, with
 some support. At 3 — the baseline for this role level — someone leads
 process analysis and evaluation to define performance problems and
-opportunities, leads the design, test, implementation and assessment of
+opportunities, leads the design, test, implementation, and assessment of
 improvements, and manages the execution of business process tests and
 usability evaluations, all with real independence and without needing someone
 more senior to check the work. At 4, by contrast, someone sets the
-direction for process improvement methods, tools and standards across an
+direction for process improvement methods, tools, and standards across an
 organisation and coaches others in the discipline — evidence of that scope
 sits above senior business analyst and points towards a lead business analyst
 assessment instead.
@@ -180,7 +180,7 @@ level.
 - 1 — Awareness: Contributes to modelling led by someone else.
 - 2 — Working: Produces business models independently for a bounded piece
   of work, with limited direction.
-- 3 — Practitioner: Leads the modelling of processes, systems and data across a
+- 3 — Practitioner: Leads the modelling of processes, systems, and data across a
   project or programme, at varying levels of complexity, and manages how
   proposed changes ripple through what has been modelled.
 - 4 — Expert: Not expected at this level. Determining scope and methodology
@@ -210,7 +210,7 @@ level.
 
 A senior business analyst is expected to lead process analysis and evaluation
 to define business performance problems and opportunities, to lead analysis
-and evaluation to design, test, implement and assess business process
+and evaluation to design, test, implement, and assess business process
 improvements, and to manage the design, execution and assessment of business
 process tests and usability evaluations.
 
@@ -226,7 +226,7 @@ others' improvement work across an organisation.
 - 2 — Working: Owns a single, moderately scoped improvement with some
   support.
 - 3 — Practitioner: Leads process analysis and evaluation to define problems and
-  opportunities, leads design, test, implementation and assessment of
+  opportunities, leads design, test, implementation, and assessment of
   improvements, and manages the execution of related usability evaluations.
 - 4 — Expert: Not expected at this level. Leading identification of
   large-scale improvement opportunities and setting direction on methods,
@@ -302,7 +302,7 @@ their own piece of work.
 A senior business analyst is expected to advise on the approach to
 requirements management within a project or programme, to define the most
 appropriate requirements management life cycle methods and ensure the
-requirement can be traced in the design, build, test, tender and evaluation
+requirement can be traced in the design, build, test, tender, and evaluation
 phases, and to co-ordinate and review the prioritisation of requirements and
 engage in the negotiation of solutions to help meet programme objectives.
 
@@ -576,7 +576,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

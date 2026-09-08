@@ -14,7 +14,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -855,4 +855,4 @@ The cognitive section tests synthesising weak signals into proactive investigati
 
 **Records and consistency.** Keep a note of the conditions under which you administered this assessment alongside the result, and use the same items and conditions for every candidate you assess for this role level.
 
-**One assessment among several.** A single thread runs through all four sections worth keeping in mind: at lead level, accuracy and integrity are infrastructure, and this assessment measures fragments of it. It is one input into a wider judgement about whether a candidate can be trusted with a portfolio, a team, and the decisions that shape both — never the whole of that judgement. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** A single thread runs through all four sections worth keeping in mind: at lead level, accuracy and integrity are infrastructure, and this assessment measures fragments of it. It is one input into a wider judgement about whether a candidate can be trusted with a portfolio, a team, and the decisions that shape both — never the whole of that judgement. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

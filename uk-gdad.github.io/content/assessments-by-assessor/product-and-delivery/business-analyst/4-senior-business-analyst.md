@@ -17,7 +17,7 @@ Each section explains what the assessment measures and why it matters at this le
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -624,7 +624,7 @@ This matters for a senior business analyst because the SJT is arguably the asses
 - **Ownership and delivery focus** map to **Adapting to delivery methodologies**: scenarios test whether outcomes keep moving while trade-offs are honestly communicated, and whether iterative delivery's value is actively communicated rather than defended reluctantly.
 - **Stakeholder influence and escalation** map to **Stakeholder relationship management**: identifying and resolving issues, influencing stakeholders, and building long-term strategic relationships, including judging when to persist, compromise, or escalate without burning trust.
 - **Evidence integrity** maps to **Context, problem and option analysis** and **Business process improvement**: scenarios probe whether findings, baselines and options appraisals stay honest under political or commercial pressure.
-- **Developing others** maps to this level's mentoring and best-practice duties and its testing review responsibilities: senior-role SJTs reliably include a struggling-colleague scenario, testing the balance of support, standards and deadlines.
+- **Developing others** maps to this level's mentoring and best-practice duties and its testing review responsibilities: senior-role SJTs reliably include a struggling-colleague scenario, testing the balance of support, standards, and deadlines.
 - **User focus and inclusion** map to **User experience analysis**: ensuring services meet business and user needs, including users who are digitally excluded, even when they are the least represented voice in the room.
 
 ### Practice questions
@@ -813,4 +813,4 @@ The cognitive section tested checking requirements catalogues and process models
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can think carefully while leading complex analysis, handle numbers that travel unaccompanied into governance papers, read precisely, and exercise sound judgement while owning stakeholder relationships and developing others — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can think carefully while leading complex analysis, handle numbers that travel unaccompanied into governance papers, read precisely, and exercise sound judgement while owning stakeholder relationships and developing others — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

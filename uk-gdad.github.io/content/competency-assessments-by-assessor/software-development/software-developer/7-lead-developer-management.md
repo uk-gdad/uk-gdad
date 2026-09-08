@@ -21,7 +21,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -362,7 +362,7 @@ here.
   direction.
 - 2 — Working: delivers medium-complexity work against a specification
   with some guidance on approach.
-- 3 — Practitioner: independently designs, codes, tests and documents work of
+- 3 — Practitioner: independently designs, codes, tests, and documents work of
   medium-to-high complexity from an agreed specification, using the right
   standards and tools without prompting.
 - 4 — Expert: takes technical responsibility for a whole development project
@@ -450,7 +450,7 @@ other skills at this level.
 - 1 — Awareness: fixes faults only when told exactly what to do.
 - 2 — Working: fixes straightforward faults with some support on
   diagnosis.
-- 3 — Practitioner: independently identifies, locates and fixes faults across a
+- 3 — Practitioner: independently identifies, locates, and fixes faults across a
   service they know well, including ones with an unclear root cause.
 - 4 — Expert: is the person other teams call in for the hardest faults, and has
   changed how the team diagnoses faults going forward.

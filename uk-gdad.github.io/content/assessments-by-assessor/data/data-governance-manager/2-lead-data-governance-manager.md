@@ -19,7 +19,7 @@ How should you use this resource? Administer it fairly and consistently: present
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -319,7 +319,7 @@ This assessment matters directly for this role. A lead data governance manager w
 Mapped to the skills in the role profile, this assessment typically measures:
 
 - **Interpreting quality and compliance metrics** - the **data governance** and **data standards** skills depend on reading completeness, accuracy and compliance percentages correctly, and knowing when a change is material (monitoring compliance with policies and standards across the organisation).
-- **Quantifying and comparing risks** - the **enabling and informing risk-based decisions** skill requires working with likelihood-impact scores, expected losses and mitigation costs in proportion to the risk.
+- **Quantifying and comparing risks** - the **enabling and informing risk-based decisions** skill requires working with likelihood-impact scores, expected losses, and mitigation costs in proportion to the risk.
 - **Budget and business-case arithmetic** - implementing wider data management competencies (data quality assurance, metadata management, master data management) means costing programmes, comparing options and defending return-on-investment figures.
 - **Measuring maturity and literacy improvement** - the **data maturity** and **data literacy improvement** skills involve tracking scores, training uptake and capability growth over time, and communicating those trends honestly.
 - **Turning numbers into narratives** - the **communicating analysis and insight** skill (turning complex data into compelling, clear, and actionable stories) starts with getting the underlying calculation right; a wrong percentage in a board paper undermines a year of credibility.
@@ -752,7 +752,7 @@ C) Cannot Say
 - **Modal verbs and qualifiers - "must", "should", "may", "normally", "where practicable" - carry the legal and logical weight** of most passages. Most of the challenging items turn on one of them, and it is worth flagging this when reviewing a candidate's reasoning at debrief.
 - **Watch for scope words in the candidate's reasoning too**: "all", "some", "most", "only", "reviewed datasets" versus "all datasets" - statements that quietly widen or narrow the passage's scope are the standard hard distractor, and a candidate who catches the distinction is showing strong precision.
 - **Note whether the candidate re-reads the whole passage for every item or scans the statement first, then locates the relevant clause.** The latter is more time-efficient and a marker of a stronger reader under time pressure.
-- **The multiple-choice summary items test faithful compression**: keeping trigger, scope and condition intact under compression. This mirrors the day job of briefing senior leaders, so a candidate's summary skill on these items is a reasonable proxy for that part of the role.
+- **The multiple-choice summary items test faithful compression**: keeping trigger, scope, and condition intact under compression. This mirrors the day job of briefing senior leaders, so a candidate's summary skill on these items is a reasonable proxy for that part of the role.
 
 ### Common pitfalls
 
@@ -770,7 +770,7 @@ One last point for scoring at this level: verbal reasoning is the assessment whe
 
 ### About this assessment
 
-A workplace job-specific situational judgement assessment evaluates a candidate's decision-making, interpersonal skill and professional conduct. Unlike the reasoning tests, it presents realistic workplace dilemmas - conflicts, ethical grey areas, competing priorities - and asks how the candidate would respond. There is rarely a single objectively right answer; instead, some responses fit the values and demands of the role better than others, and the scoring reflects the judgement of experienced practitioners and occupational psychologists.
+A workplace job-specific situational judgement assessment evaluates a candidate's decision-making, interpersonal skill, and professional conduct. Unlike the reasoning tests, it presents realistic workplace dilemmas - conflicts, ethical grey areas, competing priorities - and asks how the candidate would respond. There is rarely a single objectively right answer; instead, some responses fit the values and demands of the role better than others, and the scoring reflects the judgement of experienced practitioners and occupational psychologists.
 
 Typical characteristics include:
 
@@ -869,7 +869,7 @@ D) Ask the unit to have the minister's office direct the candidate's permanent s
 
 **Most effective: C. Least effective: A.**
 
-**Explanation:** Option C shows what "urgent and lawful" looks like: it takes the mission seriously (same-day engagement, aggregated or de-identified data at pace) while applying the discipline that protects citizens - purpose specification and data minimisation - and it mobilises the right accountable people (data owner, information rights team) rather than deciding alone. It treats governance as an enabler with a fast lane, which is the strongest possible advocacy for the framework itself. Option A is least effective: bulk personal-level case data released without an agreed lawful basis or specified purpose is precisely how departments end up in breach, and "retrospective agreement" is not a lawful basis - ministerial interest raises the stakes of getting it right, it does not lower the bar. Option B is the second error the scenario invites: pure process refusal is defensible on paper but fails the organisation - it hands ammunition to everyone who says governance blocks delivery, when faster lawful routes exist. Option D games the accountability system: it seeks cover rather than compliance, and a permanent secretary's instruction would not cure an unlawful share anyway.
+**Explanation:** Option C shows what "urgent and lawful" looks like: it takes the mission seriously (same-day engagement, aggregated, or de-identified data at pace) while applying the discipline that protects citizens - purpose specification and data minimisation - and it mobilises the right accountable people (data owner, information rights team) rather than deciding alone. It treats governance as an enabler with a fast lane, which is the strongest possible advocacy for the framework itself. Option A is least effective: bulk personal-level case data released without an agreed lawful basis or specified purpose is precisely how departments end up in breach, and "retrospective agreement" is not a lawful basis - ministerial interest raises the stakes of getting it right, it does not lower the bar. Option B is the second error the scenario invites: pure process refusal is defensible on paper but fails the organisation - it hands ammunition to everyone who says governance blocks delivery, when faster lawful routes exist. Option D games the accountability system: it seeks cover rather than compliance, and a permanent secretary's instruction would not cure an unlawful share anyway.
 
 #### Question 6 (challenging) - The quality figures the candidate doubts
 
@@ -964,7 +964,7 @@ D) Leave the framework formally intact but signal informally to directorates whi
 
 ## Conclusion
 
-You have now worked through the four assessment types most relevant to the lead data governance manager role level: cognitive reasoning with the frameworks, catalogues and risk registers the role manages; numeric reasoning with the compliance metrics, budgets and business cases the role defends; verbal reasoning with the policies, audit findings and stakeholder correspondence the role interprets; and situational judgement across the influence, ethics and leadership dilemmas that define the lead level.
+You have now worked through the four assessment types most relevant to the lead data governance manager role level: cognitive reasoning with the frameworks, catalogues, and risk registers the role manages; numeric reasoning with the compliance metrics, budgets, and business cases the role defends; verbal reasoning with the policies, audit findings, and stakeholder correspondence the role interprets; and situational judgement across the influence, ethics, and leadership dilemmas that define the lead level.
 
 Two themes run through everything in this material, and both are worth listening for in a candidate's answers and in the debrief conversation. The first is precision: reading the boundary condition in a rule, using the right denominator in a percentage, distinguishing "will normally" from "must", and separating what a text guarantees from what experience suggests. The second is proportionality: matching remediation to trajectory rather than snapshot, escalation to evidence, and governance effort to risk. These are not test-taking tricks - they are the professional substance of the role, compressed into assessable form, which is exactly why a candidate's reasoning on these items is a fair proxy for how they would handle a real board paper, audit response or difficult stakeholder conversation.
 

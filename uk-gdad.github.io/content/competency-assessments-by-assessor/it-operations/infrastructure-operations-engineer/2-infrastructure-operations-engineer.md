@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -75,7 +75,7 @@ evidence like this before you start scoring.
 ## About this role level
 
 IT operations role: Infrastructure operations engineer. An infrastructure
-operations engineer supports, manages and maintains the core infrastructure
+operations engineer supports, manages, and maintains the core infrastructure
 that underpins production services.
 
 The role has five levels, in order: associate infrastructure operations
@@ -277,7 +277,7 @@ channel.
 
 **Baseline for this role level**
 
-Baseline: 2 — Working. Identifying, registering and correctly routing an
+Baseline: 2 — Working. Identifying, registering, and correctly routing an
 incident unassisted is guided-but-independent triage work, matching this
 level's monitor-and-alert accountability.
 

@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -167,7 +167,7 @@ capability-development accountabilities.
 - 1 — Awareness: contributes to a process improvement led by someone else.
 - 2 — Working: leads a small, well-defined process improvement with
   guidance.
-- 3 — Practitioner: analyses current processes, leads and develops a team of
+- 3 — Practitioner: analyses current processes, leads, and develops a team of
   experts to deliver improvements, and helps set the policy or standards a
   change is implemented against, across large or multiple teams.
 - 4 — Expert: sets development process optimisation strategy for the whole
@@ -245,7 +245,7 @@ lead others in applying modern development standards.
 **Baseline for this role level**
 
 Baseline: 4 — Expert. This wording is unchanged from the lead level, and
-this level's "identify, test and champion the adoption of emerging
+this level's "identify, test, and champion the adoption of emerging
 technologies" accountability supports full mastery being the expectation
 here too.
 
@@ -380,7 +380,7 @@ this level's own accountabilities are largely strategic.
 
 - 1 — Awareness: needs significant support to diagnose a complex fault.
 - 2 — Working: diagnoses complex faults with some guidance.
-- 3 — Practitioner: identifies, locates and fixes complex service faults
+- 3 — Practitioner: identifies, locates, and fixes complex service faults
   independently, and advises across large or multiple teams on which support
   methodology fits a given situation.
 - 4 — Expert: is the organisation-wide escalation point for the hardest
@@ -579,7 +579,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

@@ -1,23 +1,6 @@
 # Lead technical writer - start here
 
-Welcome. If you are working toward the lead technical writer level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-A lead technical writer is an expert practitioner who directs a team of
-technical writers, assuring the quality of technical writing across teams
-and its alignment to strategy — the top of this profession's line. You
-standardise tools, ways of communicating and processes, work closely with
-service managers, technology leaders and senior stakeholders to resource
-teams and resolve problems, promote the discipline of technical writing,
-engage with the cross-government community, and keep up to date with
-industry change. Stakeholder relationship management and user-centred
-content design both sharpen at this level, because you're now directing
-teams and standardising practice, not producing documentation yourself.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -30,7 +13,24 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/technical-writer/2-lead-technical-writer/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/technical-writer/2-lead-technical-writer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/technical-writer/2-lead-technical-writer/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/technical-writer/2-lead-technical-writer/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the lead technical writer level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+A lead technical writer is an expert practitioner who directs a team of
+technical writers, assuring the quality of technical writing across teams
+and its alignment to strategy — the top of this profession's line. You
+standardise tools, ways of communicating and processes, work closely with
+service managers, technology leaders, and senior stakeholders to resource
+teams and resolve problems, promote the discipline of technical writing,
+engage with the cross-government community, and keep up to date with
+industry change. Stakeholder relationship management and user-centred
+content design both sharpen at this level, because you're now directing
+teams and standardising practice, not producing documentation yourself.
 
 ## Learning pathway
 

@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -329,7 +329,7 @@ live system unaided — that is independent, applied work, not guided practice.
   close supervision.
 - 2 — Working: Produces and maintains a data model for a defined need
   with some review, and can explain basic modelling concepts correctly.
-- 3 — Practitioner: Independently produces, maintains and updates data models for
+- 3 — Practitioner: Independently produces, maintains, and updates data models for
   real organisational needs, and can reverse-engineer a model from a live
   system with no supporting documentation.
 - 4 — Expert: Is someone others bring their hardest modelling problems to,
@@ -356,7 +356,7 @@ live system unaided — that is independent, applied work, not guided practice.
 
 **What the framework expects at this level**
 
-Use data policies, processes and standards effectively. Work with subject
+Use data policies, processes, and standards effectively. Work with subject
 matter experts to develop standards, policies and guidance to protect data.
 Monitor compliance with policies and standards in a team, and take action if
 needed. Analyse the impact if a standard is breached.
@@ -574,7 +574,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

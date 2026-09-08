@@ -4,7 +4,7 @@
 
 This document is written for you: an assessor evaluating a candidate for the analytics engineer role, at the analytics engineer role level. It gives you structured, workplace job-specific psychometric assessment material to administer, score and debrief — not a study guide for the candidate to read themselves.
 
-Psychometric assessments of this kind are structured, standardised exercises that sample the thinking a role genuinely requires: pattern recognition, numerical interpretation, careful reading, and sound judgement in realistic dilemmas. They are not tests of trivia or memory, and every item below is built from the kind of material an analytics engineer actually handles — a metadata record, a load statistics table, a stakeholder email, a workplace dilemma involving users, subject matter experts, trainees and senior colleagues.
+Psychometric assessments of this kind are structured, standardised exercises that sample the thinking a role genuinely requires: pattern recognition, numerical interpretation, careful reading, and sound judgement in realistic dilemmas. They are not tests of trivia or memory, and every item below is built from the kind of material an analytics engineer actually handles — a metadata record, a load statistics table, a stakeholder email, a workplace dilemma involving users, subject matter experts, trainees, and senior colleagues.
 
 To administer this fairly, give every candidate for this role level the same items under the same conditions. Use the same set of practice questions and the same time limit for each candidate assessed against this role level, rather than varying the material or the pressure from one candidate to the next — consistency is what makes a comparison between candidates meaningful, and its absence is one of the more common ways an informal process drifts into unlawful adverse impact. Keep the worked answers and explanations that follow each question back from the candidate until after they have answered: they are your answer key for scoring and for the debrief conversation afterwards, not material to share in advance.
 
@@ -23,7 +23,7 @@ How should you use this document? Read a section in full before a session, so yo
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -222,7 +222,7 @@ D) P, Q and R are all fact tables at different grains.
 
 **Correct answer: B**
 
-**Explanation:** Reason from cardinality and keys. Q has 8 rows with unique `licence_type_id` — a small reference table, i.e. a licence-type dimension. P has 1,240 rows with unique `licence_id` and a `licence_type_id` drawn from 8 values — one row per licence, referencing Q: a licence dimension. R has 61,392 rows, each referencing a licence and carrying a `payment_date` — many events per licence: a fact table of payments at the payment-event grain. This is the classic dimensional pattern (Kimball-style): high-volume event facts pointing at lower-volume descriptive dimensions. Options A and C invert the cardinality logic (facts are the many side), and D ignores the uniqueness evidence. When reverse-engineering a data model from a live system, distinct counts, uniqueness and foreign-key relationships are the primary clues.
+**Explanation:** Reason from cardinality and keys. Q has 8 rows with unique `licence_type_id` — a small reference table, i.e. a licence-type dimension. P has 1,240 rows with unique `licence_id` and a `licence_type_id` drawn from 8 values — one row per licence, referencing Q: a licence dimension. R has 61,392 rows, each referencing a licence and carrying a `payment_date` — many events per licence: a fact table of payments at the payment-event grain. This is the classic dimensional pattern (Kimball-style): high-volume event facts pointing at lower-volume descriptive dimensions. Options A and C invert the cardinality logic (facts are the many side), and D ignores the uniqueness evidence. When reverse-engineering a data model from a live system, distinct counts, uniqueness, and foreign-key relationships are the primary clues.
 
 **Question 10 (hard) — Error checking across documentation and reality**
 

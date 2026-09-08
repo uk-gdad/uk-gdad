@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -75,7 +75,7 @@ you start scoring.
 ## About this role level
 
 IT operations role: Infrastructure operations engineer. An infrastructure
-operations engineer supports, manages and maintains the core infrastructure
+operations engineer supports, manages, and maintains the core infrastructure
 that underpins production services.
 
 The role has five levels, in order: associate infrastructure operations
@@ -184,7 +184,7 @@ gives this level.
 **What the framework expects at this level**
 
 An associate infrastructure operations engineer investigates problems in
-systems, processes and services, with an understanding of the level of a
+systems, processes, and services, with an understanding of the level of a
 problem — for example, strategic, tactical or operational — and contributes
 to the implementation of remedies and preventative measures.
 

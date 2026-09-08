@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -88,7 +88,7 @@ role. They are responsible for the planning and co-ordination of resources to
 ensure that services are effectively transitioned into service operation.
 
 At this level, you will be solely responsible for the co-ordination
-activities across projects, suppliers and service teams.
+activities across projects, suppliers, and service teams.
 
 This role level names eleven skills: Asset and configuration management,
 Availability and capacity management, Change management, Community
@@ -110,7 +110,7 @@ areas, and verify the location and state of IT assets.
 
 Baseline: 2 — Working. The wording is unchanged from the service
 transition manager level below — this level's added weight comes from being
-solely accountable for co-ordination across projects, suppliers and service
+solely accountable for co-ordination across projects, suppliers, and service
 teams, but the framework's own description of this specific skill does not
 escalate, so the baseline is unchanged too.
 
@@ -241,7 +241,7 @@ responses.
 Baseline: 3 — Practitioner. This fuller, actively facilitative wording — adapting
 feedback, running health checks, rectifying team dynamics — is a step up from
 the level below, matching this level's sole responsibility for co-ordination
-across projects, suppliers and service teams.
+across projects, suppliers, and service teams.
 
 **Behavioural indicators**
 
@@ -364,7 +364,7 @@ potential problems, and to achieve excellent user outcomes.
 Baseline: 3 — Practitioner. The shift from "own an issue" at the level below to
 "take accountability ... proactive in searching for potential problems" is a
 step into active risk-seeking, matching this level's sole accountability for
-co-ordination across projects, suppliers and service teams.
+co-ordination across projects, suppliers, and service teams.
 
 **Behavioural indicators**
 
@@ -619,7 +619,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

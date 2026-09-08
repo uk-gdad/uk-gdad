@@ -1,21 +1,6 @@
 # Associate infrastructure engineer - start here
 
-Welcome. If you are working toward the associate infrastructure engineer
-level, this page is for you: what the role is about, where to find
-everything else this repository has for it, and a pathway for building the
-skills it asks for.
-
-## Purpose
-
-An infrastructure engineer designs, builds, manages and supports the
-infrastructure services that underpin all internal user services and
-services to the public. As a trainee, you work in an established team and
-support infrastructure engineers in their daily work, under their
-direction — the foundations of computing, storage, networking, physical
-infrastructure and cloud computing, and how a team resolves the problems
-that arise across them.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -28,7 +13,22 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the associate infrastructure engineer
+level, this page is for you: what the role is about, where to find
+everything else this repository has for it, and a pathway for building the
+skills it asks for.
+
+## Purpose
+
+An infrastructure engineer designs, builds, manages, and supports the
+infrastructure services that underpin all internal user services and
+services to the public. As a trainee, you work in an established team and
+support infrastructure engineers in their daily work, under their
+direction — the foundations of computing, storage, networking, physical
+infrastructure and cloud computing, and how a team resolves the problems
+that arise across them.
 
 ## Learning pathway
 
@@ -52,7 +52,7 @@ question rather than searching for a generic guide.
   Service, Platform as a Service and Software as a Service.
 
   Ask AI: "Explain, for a beginner, the difference between Infrastructure as
-  a Service, Platform as a Service and Software as a Service, with an
+  a Service, Platform as a Service, and Software as a Service, with an
   example of each."
 
 - [ ] **Explain information security controls**
@@ -104,7 +104,7 @@ question rather than searching for a generic guide.
   the level of a problem — for example, strategic, tactical or
   operational — and contribute to remedies and preventative measures.
 
-  Ask AI: "What's the difference between a strategic, a tactical and an
+  Ask AI: "What's the difference between a strategic, a tactical, and an
   operational problem in IT infrastructure, and why does knowing which is
   which change how you respond?"
 

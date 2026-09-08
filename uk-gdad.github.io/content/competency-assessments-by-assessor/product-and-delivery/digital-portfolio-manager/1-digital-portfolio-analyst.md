@@ -19,14 +19,14 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
 
 **Preparing.** Read `## About this role level` before you score anything, so
 you know what a digital portfolio analyst is accountable for — supporting the
-tracking, analysis and delivery of outcomes across a portfolio, while
+tracking, analysis, and delivery of outcomes across a portfolio, while
 learning basic portfolio management skills and reporting to a more senior
 portfolio manager. Then gather whatever evidence exists: a CV or portfolio, a
 structured interview, a small work sample or task, direct observation, or
@@ -81,7 +81,7 @@ to co-ordinate and manage a group, or "portfolio", of digital projects. The
 framework says a digital portfolio manager uses an iterative and flexible
 approach and helps define governance processes for the portfolio.
 
-A **digital portfolio analyst** supports the tracking, analysis and delivery
+A **digital portfolio analyst** supports the tracking, analysis, and delivery
 of outcomes across a portfolio of digital projects. The framework notes this
 role level may be called "associate digital portfolio manager" in some
 organisations. Because the person is still learning basic portfolio

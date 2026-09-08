@@ -135,8 +135,8 @@ REQUIRED_SECTIONS = {
         "Conclusion",
     ],
     START_HERE: [
+        "Start here",
         "Purpose",
-        "Explore the framework",
         "Learning pathway",
     ],
 }

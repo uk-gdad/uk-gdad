@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -29,7 +29,7 @@ Relevance at this level lies in three shifts from earlier roles: scale (constrai
 ### How this assessment maps to the role
 
 - **Pattern recognition** maps to **Life cycle management** and **Managing product outcomes**: reading weak signals across a portfolio before they become incidents.
-- **Logical deduction** maps to **Strategic ownership** and **Life cycle management**: valid inference from conditions, standards and evidence, with unknowns marked as unknowns.
+- **Logical deduction** maps to **Strategic ownership** and **Life cycle management**: valid inference from conditions, standards, and evidence, with unknowns marked as unknowns.
 - **Error checking** maps to the duties to **contribute to the assessment of other teams** and **ensure teams comply with appropriate standards**: reviewing others' artefacts for internal inconsistency.
 - **Prioritisation** maps to **Product management** and **Creating value for money**: portfolio ranking problems under interacting constraints.
 - **Applied problem solving** maps to **Product leadership** and **Agile and Lean practices**: decomposing cross-team, politically loaded problems into testable parts.
@@ -414,7 +414,7 @@ This role operates at the altitude where words become commitments — reviewing 
 
 - **Comprehension of governance, policy, and assessment text** maps to duties in **programme management activities**, **contributing to the assessment of other teams**, and **ensuring teams comply with appropriate standards**.
 - **True/false/cannot-say discipline** maps to **Managing product outcomes** and **Applying user-centred insights**: portfolio claims must match portfolio evidence.
-- **Assumption and inference analysis** maps to **Creating value for money** and **Strategic ownership**: surfacing unstated premises in cases, strategies and survivor stories.
+- **Assumption and inference analysis** maps to **Creating value for money** and **Strategic ownership**: surfacing unstated premises in cases, strategies, and survivor stories.
 - **Commitment-strength reading** maps to **Stakeholder relationship management**: perfect pitch for endorsed versus approved, anticipated versus committed, noted versus agreed.
 - **Clear-writing judgement** maps to **Product leadership** and coaching: diagnosing others' prose precisely enough to improve it without rewriting it.
 

@@ -23,7 +23,7 @@ This role operates at a level where clarity of thought under complexity is the c
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -156,7 +156,7 @@ Reviewing three programme architectures, the candidate notes the following compo
 - Programme Beta: business identity verification, document upload, company registry lookup, grant disbursement.
 - Programme Gamma: citizen identity verification, appointment booking, address lookup, payment collection.
 
-A reference architecture designates identity verification, address lookup and payments as shared enterprise capabilities. Which conclusion is best supported?
+A reference architecture designates identity verification, address lookup, and payments as shared enterprise capabilities. Which conclusion is best supported?
 
 A) All three programmes are fully compliant with the reference architecture
 B) Document upload should immediately be designated a shared capability

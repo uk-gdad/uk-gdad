@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -277,7 +277,7 @@ taught it to others.
 A lead frontend developer changes organisational structures to fixable and
 sustainable designs, leads on the strategy for the whole organisation,
 marrying business needs with innovative analysis, and makes and justifies
-decisions characterised by high levels of risk, impact and complexity. They
+decisions characterised by high levels of risk, impact, and complexity. They
 build consensus between organisations — private or public — or highly
 independent stakeholders, solve and unblock issues between teams or
 departments at the highest level, understand the psychology of a team and
@@ -393,9 +393,9 @@ work in the framework's own terms.
 
 - 1 — Awareness: Builds simple interfaces from a clear specification, with
   regular review and correction.
-- 2 — Working: Builds, tests and documents interfaces of moderate
+- 2 — Working: Builds, tests, and documents interfaces of moderate
   complexity from a specification, with some guidance on tool choice.
-- 3 — Practitioner: Independently builds, tests and documents user interfaces of
+- 3 — Practitioner: Independently builds, tests, and documents user interfaces of
   high complexity, choosing the appropriate standards and tools without
   support.
 - 4 — Expert: Has set the programming standards or tool choices a whole team
@@ -573,7 +573,7 @@ level to teach or set integration approaches for other teams.
 A lead frontend developer collaborates with user researchers and interaction
 designers to represent user needs internally, explains the difference between
 user needs and the desires of the user, champions user research to focus on
-all users, effectively prioritises and defines approaches to understand the
+all users, effectively prioritises, and defines approaches to understand the
 user story while guiding others to do so, and offers recommendations on the
 best tools and methods to use.
 
@@ -711,7 +711,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -77,7 +77,7 @@ the baseline this level expects.
 
 The User-centred design profession's Graphic designer role creates graphic
 elements that underpin interaction and service design. Across the role, a
-graphic designer uses layout, spacing, colour, type and iconography to ensure
+graphic designer uses layout, spacing, colour, type, and iconography to ensure
 that content is legible and readable, and that users see and understand
 interactions.
 
@@ -148,7 +148,7 @@ this is already the top of what the framework describes for this skill.
 **What the framework expects at this level**
 
 A head of graphic design is expected to measurably improve the practice of
-inclusive, accessible and environmentally sustainable design in multiple
+inclusive, accessible, and environmentally sustainable design in multiple
 teams or across their organisation, and help others understand and mitigate
 the influence of privilege and power on the design and delivery of content
 and services.
@@ -164,7 +164,7 @@ from the lead graphic designer level below, so the baseline stays at Expert.
 - 2 — Working: Advises a single team on inclusive or accessible design.
 - 3 — Practitioner: Advises multiple teams on inclusive, accessible and
   sustainable design.
-- 4 — Expert: Measurably improves inclusive, accessible and sustainable
+- 4 — Expert: Measurably improves inclusive, accessible, and sustainable
   design practice across multiple teams or the organisation, and helps
   others understand and mitigate the influence of privilege and power.
 
@@ -286,7 +286,7 @@ designer's advisory role.
 
 A head of graphic design is expected to embed a practice of
 hypothesis-driven design in a team, guide the organisation in how to use
-evidence to improve services, analyse, synthesise and use evidence to improve
+evidence to improve services, analyse, synthesise, and use evidence to improve
 the way the organisation works, and ensure user insights are shared with and
 used by the wider organisation and across government.
 
@@ -460,7 +460,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

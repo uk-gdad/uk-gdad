@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -348,7 +348,7 @@ newly live product are this manager's direct responsibility.
 **Evidence to gather**
 
 - Give the candidate a mock early-life-support incident and ask them to
-  diagnose, prioritise and propose a resolution.
+  diagnose, prioritise, and propose a resolution.
 - Ask for an example of an incident they investigated and resolved during
   early-life support.
 
@@ -631,5 +631,5 @@ level can help plan next steps:
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/it-operations/service-transition-manager/3-service-transition-manager.md)
 
 Treat this competency assessment as one input among several, alongside your
-organisation's own interview, reference and calibration processes. Thank you
+organisation's own interview, reference, and calibration processes. Thank you
 for taking the time to assess this candidly and fairly.

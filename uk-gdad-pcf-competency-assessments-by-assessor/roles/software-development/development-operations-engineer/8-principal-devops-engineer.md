@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -173,7 +173,7 @@ capability-development accountabilities.
 - 1 — Awareness: contributes to a process improvement led by someone else.
 - 2 — Working: leads a small, well-defined process improvement with
   guidance.
-- 3 — Practitioner: analyses current processes, leads and develops a team of
+- 3 — Practitioner: analyses current processes, leads, and develops a team of
   experts to deliver improvements, and helps set the policy or standards a
   change is implemented against, across large or multiple teams.
 - 4 — Expert: sets development process optimisation strategy for the whole
@@ -251,7 +251,7 @@ lead others in applying modern development standards.
 **Baseline for this role level**
 
 Baseline: 4 — Expert. This wording is unchanged from the lead level, and
-this level's "identify, test and champion the adoption of emerging
+this level's "identify, test, and champion the adoption of emerging
 technologies" accountability supports full mastery being the expectation
 here too.
 
@@ -386,7 +386,7 @@ this level's own accountabilities are largely strategic.
 
 - 1 — Awareness: needs significant support to diagnose a complex fault.
 - 2 — Working: diagnoses complex faults with some guidance.
-- 3 — Practitioner: identifies, locates and fixes complex service faults
+- 3 — Practitioner: identifies, locates, and fixes complex service faults
   independently, and advises across large or multiple teams on which support
   methodology fits a given situation.
 - 4 — Expert: is the organisation-wide escalation point for the hardest

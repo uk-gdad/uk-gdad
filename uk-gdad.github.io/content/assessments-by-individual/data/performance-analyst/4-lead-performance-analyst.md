@@ -954,7 +954,7 @@ The cognitive section was about reasoning structurally - reading a pattern for t
 
 The numeric section was the arithmetic that this role runs on, and one calculation in particular: a completion rate rising from 58% to 66% while starts fall from 24,000 to 18,000 means roughly two thousand fewer people completed. Rates and counts answer different questions, and a great deal of misleading reporting lives in the space between them.
 
-The verbal section was about reading definitions, frameworks and attributed claims exactly. "Should" is not "must". A correction plus a re-review is two conditions. A platform team's estimate of its own data quality is a claim. And a dashboard that is not versioned cannot be used to reproduce a figure you quoted last month.
+The verbal section was about reading definitions, frameworks, and attributed claims exactly. "Should" is not "must". A correction plus a re-review is two conditions. A platform team's estimate of its own data quality is a claim. And a dashboard that is not versioned cannot be used to reproduce a figure you quoted last month.
 
 The situational judgement section circled the two halves of your role. You coach, which means walking an analyst to an answer rather than handing it over, and fronting your team's corrections yourself while handling the learning privately. And you are accountable for how analysis is used, which is why the strong answers intervened at the point of interpretation - correcting the misreading in the room, asking how a target would be met before it was set, and investigating why teams do not trust a measure rather than explaining it again.
 

@@ -10,11 +10,11 @@ Three features shape this material. First, a candidate is accountable for design
 
 Each of the four sections that follow presents an overview of what it measures and its typical format, a mapping to the role's named skills, twelve graduated practice questions with full worked explanations, then administration tips and common scoring pitfalls.
 
-**How to administer this fairly.** Give every candidate for this role level the same items and the same time allowance, and hold the answer key back until scoring and debrief. Score cognitive and numeric items for whether the candidate diagnoses a mechanism behind evidence assembled at a distance, reads a distribution of failures diagnostically, and reasons about prioritisation as value of information (decision leverage and remaining time) rather than importance, urgency or visibility. Situational judgement items at this level consistently reward action that changes a system or a set of conditions rather than solving a problem personally, absorbs pressure downward, and builds capability that survives the candidate's own attention.
+**How to administer this fairly.** Give every candidate for this role level the same items and the same time allowance, and hold the answer key back until scoring and debrief. Score cognitive and numeric items for whether the candidate diagnoses a mechanism behind evidence assembled at a distance, reads a distribution of failures diagnostically, and reasons about prioritisation as value of information (decision leverage and remaining time) rather than importance, urgency, or visibility. Situational judgement items at this level consistently reward action that changes a system or a set of conditions rather than solving a problem personally, absorbs pressure downward, and builds capability that survives the candidate's own attention.
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -413,7 +413,7 @@ The classic format presents a short passage followed by statements to mark True,
 - **Reading precisely** maps to setting direction and assuring the quality of design delivery across teams.
 - **Separating statement from inference** maps to **Evidence-based design**: guiding the organisation in how to use evidence.
 - **Identifying the main point** maps to **Design communication**: gaining support for design strategy from senior leaders and communicating across boundaries.
-- **Handling qualified language** maps to **Designing strategically**: constraints in technology, systems and policy shape design.
+- **Handling qualified language** maps to **Designing strategically**: constraints in technology, systems, and policy shape design.
 - **Reading for absence** maps to **Designing for everyone**: noticing a framework never mentions access needs has consequences at scale.
 - **Reading cross-government prose accurately** maps to ensuring insights are used across the organisation and across government.
 

@@ -17,7 +17,7 @@ Each section explains what the assessment measures and why it matters at this le
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -132,7 +132,7 @@ A dependency log: D1, API test credentials, needed 12 May, received 10 May. D2, 
 
 **Correct answer: C**
 
-**Explanation:** D1 is complete; D2 is on track; D4 has time but should be requested soon; D3 is already guaranteed to be a week late unless something changes — the earlier this is acted on, the more options remain. This tests comparing promised dates against needed-by dates, the heart of tracking, managing, escalating and communicating dependencies.
+**Explanation:** D1 is complete; D2 is on track; D4 has time but should be requested soon; D3 is already guaranteed to be a week late unless something changes — the earlier this is acted on, the more options remain. This tests comparing promised dates against needed-by dates, the heart of tracking, managing, escalating, and communicating dependencies.
 
 **Question 8 (moderate) — Prioritisation with a hidden dependency**
 
@@ -820,4 +820,4 @@ The cognitive section tested the noticing skills this role runs on: spotting bro
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can think carefully with delivery artefacts, work accurately with the numbers of a small team, read precisely, and exercise sound judgement while learning under supervision — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can think carefully with delivery artefacts, work accurately with the numbers of a small team, read precisely, and exercise sound judgement while learning under supervision — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

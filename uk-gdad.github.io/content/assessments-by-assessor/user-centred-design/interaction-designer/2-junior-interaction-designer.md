@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -39,7 +39,7 @@ For a junior interaction designer the core of the craft is disciplined noticing 
 
 **Question 1 (easy) — Error checking a set of pages**
 
-Question page rules: ask one thing, use a question as the label, include a back link, have one primary action, show errors both in a summary at the top and next to the field. Three pages: Page 1 — compliant; Page 2 — 1 thing asked, statement label, back link, 1 primary action, inline errors only; Page 3 — 2 things asked, question label, no back link, 1 primary action, summary and inline errors. Ask for the total number of rule breaches.
+Question page rules: ask one thing, use a question as the label, include a back link, have one primary action, show errors both in a summary at the top and next to the field. Three pages: Page 1 — compliant; Page 2 — 1 thing asked, statement label, back link, 1 primary action, inline errors only; Page 3 — 2 things asked, question label, no back link, 1 primary action, summary, and inline errors. Ask for the total number of rule breaches.
 
 - A) 2
 - B) 3
@@ -224,7 +224,7 @@ Typical format: a timed online test of 15 to 30 minutes, each item presenting a 
 - **Measuring whether an iteration worked** maps to **Iterative design**: iterating and improving a design based on successive rounds of research.
 - **Understanding scale** maps to **Designing strategically**: knowing how many people a decision affects.
 - **Explaining figures honestly** maps to **Design communication**: clearly explaining design decisions.
-- **Working with analysts** maps to **Evidence-based design**: using evidence to inform, develop and test a design idea.
+- **Working with analysts** maps to **Evidence-based design**: using evidence to inform, develop, and test a design idea.
 
 ### Practice questions
 

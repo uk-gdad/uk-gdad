@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -215,7 +215,7 @@ risk and opportunity, short of the senior designer's coaching role.
   goals, and contributes new pattern or component ideas to a shared library.
 - 3 — Practitioner: Helps a team understand how design contributes to its
   goals, and shapes design using risk, opportunity and constraints in
-  technology, systems and policy.
+  technology, systems, and policy.
 - 4 — Expert: Embeds design in organisational strategy.
 
 **Evidence to gather**
@@ -388,7 +388,7 @@ Working is the right baseline rather than Awareness.
 **Behavioural indicators**
 
 - 1 — Awareness: Describes the value of user-centred design when asked.
-- 2 — Working: With support, leads or coordinates a piece of design
+- 2 — Working: With support, leads, or coordinates a piece of design
   work in the team, communicates the value of user-centred design, and
   supports another designer.
 - 3 — Practitioner: Leads and coordinates design work without needing support,

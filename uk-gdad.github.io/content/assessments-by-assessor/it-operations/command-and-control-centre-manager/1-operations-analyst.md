@@ -12,7 +12,7 @@ This document is organised into four assessment sections. Each follows the same 
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -91,7 +91,7 @@ In the room, monitors tagged MON-101, MON-102, MON-103 and MON-104 are found, on
 
 **Correct answer: B**
 
-**Explanation:** Comparing each row with reality: MON-101, MON-102 and MON-104 match. MON-103 is recorded in "Storage cupboard B" but is actually on a desk in the control room, so that row needs correcting. This tests a row-by-row, one-fact-at-a-time comparison rather than trying to hold the whole table in mind — a wrong location seems harmless until someone needs that asset urgently during an incident and looks in the wrong place.
+**Explanation:** Comparing each row with reality: MON-101, MON-102, and MON-104 match. MON-103 is recorded in "Storage cupboard B" but is actually on a desk in the control room, so that row needs correcting. This tests a row-by-row, one-fact-at-a-time comparison rather than trying to hold the whole table in mind — a wrong location seems harmless until someone needs that asset urgently during an incident and looks in the wrong place.
 
 **Question 4 (easy) — Prioritisation of incoming alerts**
 
@@ -859,4 +859,4 @@ The cognitive section tests checking asset registers and handover notes for the 
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can monitor carefully, read procedures precisely, and exercise sound judgement in the everyday moments of a control centre — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can monitor carefully, read procedures precisely, and exercise sound judgement in the everyday moments of a control centre — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

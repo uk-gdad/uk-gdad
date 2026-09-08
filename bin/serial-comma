@@ -47,6 +47,7 @@ ROOT = Path(__file__).resolve().parent.parent
 # The prose this repository writes. Role summaries are adapted from the
 # framework, and the website's `content/` is a vendored copy of the rest.
 TARGETS = (
+    "uk-gdad-pcf-role-level-start-here/**/*.md",
     "uk-gdad-pcf-psychometric-assessments-by-assessor/**/*.md",
     "uk-gdad-pcf-psychometric-assessments-by-individual/**/*.md",
     "uk-gdad-pcf-competency-assessments-by-assessor/**/*.md",

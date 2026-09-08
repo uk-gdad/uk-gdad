@@ -17,7 +17,7 @@ Each section explains what the assessment measures and why it matters at this le
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -97,7 +97,7 @@ Monday morning presents: (1) Wednesday's executive committee will decide next ye
 
 **Question 5 (moderate) — Deduction about an assurance regime's incentives**
 
-An assurance regime scores programmes red, amber or green on analysis quality. Observations: (i) programmes self-assess before the function's review; (ii) a programme whose self-assessment matches the review outcome faces no follow-up, while mismatches trigger a deep-dive; (iii) over the year, self-assessments have converged almost perfectly with the reviews — and both have drifted greener. Which conclusion does the evidence best support?
+An assurance regime scores programmes red, amber, or green on analysis quality. Observations: (i) programmes self-assess before the function's review; (ii) a programme whose self-assessment matches the review outcome faces no follow-up, while mismatches trigger a deep-dive; (iii) over the year, self-assessments have converged almost perfectly with the reviews — and both have drifted greener. Which conclusion does the evidence best support?
 
 - A) Analysis quality has genuinely improved across the portfolio.
 - B) The regime rewards agreement rather than accuracy: programmes minimise deep-dive risk by predicting the review rather than assessing themselves honestly, and reviewers face no counterweight to grade inflation — so convergence-plus-greening is exactly what gaming would produce, and independent evidence is needed to distinguish it from genuine improvement.
@@ -221,7 +221,7 @@ A digital strategy commits to "90% of transactions digital by 2028"; a customer 
 
 A workplace job-specific numeric reasoning assessment measures a candidate's ability to interpret, manipulate and draw sound conclusions from quantitative information of the kind this role genuinely handles. The arithmetic stays within percentages, ratios, averages, rates, and projections; the difficulty lives in judgement — extracting the right figures, choosing the right operation under time pressure, and recognising precisely what a number does and does not establish.
 
-These assessments are usually taken online, timed between 20 and 40 minutes, with 15 to 25 questions anchored to tables, charts and short data-rich passages. Calculators and rough paper are normally permitted.
+These assessments are usually taken online, timed between 20 and 40 minutes, with 15 to 25 questions anchored to tables, charts, and short data-rich passages. Calculators and rough paper are normally permitted.
 
 This matters for a head of business analysis in two ways. First, the numbers are function-scale: budgets, pay bills, day rates, utilisation, capability investment cases, benefits portfolios. Second, and more importantly, they arrive pre-packaged: finance summaries, supplier reports, programme dashboards and workforce returns land already aggregated, already averaged, already framed — and this role is the last analytical checkpoint before they become decisions. The errors that survive to this level are structural rather than arithmetical: wrong denominators, unweighted averages, mix effects, annualisation games, survivorship, false comparability.
 
@@ -512,7 +512,7 @@ What has the permanent secretary asked heads of profession to deliver?
 
 **Correct answer: B**
 
-**Explanation:** The letter is explicit about its own status — an options request, not an implementation instruction — with a built-in channel for evidenced risk statements. Option A converts an options exercise into an implementation instruction, the misreading the letter pre-empts; D asserts what the letter expressly discourages. This tests reading a tasking letter for deliverable, deadline, status and channel.
+**Explanation:** The letter is explicit about its own status — an options request, not an implementation instruction — with a built-in channel for evidenced risk statements. Option A converts an options exercise into an implementation instruction, the misreading the letter pre-empts; D asserts what the letter expressly discourages. This tests reading a tasking letter for deliverable, deadline, status, and channel.
 
 **Question 7 (moderate) — Inference**
 
@@ -608,7 +608,7 @@ A consultation response wants the standard to define "proportionate" independent
 - **Missing when a candidate splits a combined cap into separate allowances.**
 - **Crediting an answer that invents a consequence for an unspecified condition.**
 - **Missing when a candidate reads a dissent or exception channel as a guarantee of success.**
-- **Rewarding a reading that destroys a provision's evident purpose** — a transition period, exception mechanism or minimum-content rule read into meaninglessness.
+- **Rewarding a reading that destroys a provision's evident purpose** — a transition period, exception mechanism, or minimum-content rule read into meaninglessness.
 
 ## Workplace job-specific situational judgement assessment
 
@@ -712,7 +712,7 @@ A fellow head of profession's function produces weak requirements work that a ca
 
 **Question 7 (moderate) — Inclusion versus the delivery narrative**
 
-An organisation's transformation story — repeated by executives — is "loved by users, 92% satisfaction". Deeper analysis shows the 92% comes from post-completion surveys of digital-channel users only; assisted-channel users (18% of the base, skewed old, disabled and poor) were never surveyed, and their proxy indicators are worsening. Comms is about to publish the figure externally in a case study the chief executive will front. What is the most effective response?
+An organisation's transformation story — repeated by executives — is "loved by users, 92% satisfaction". Deeper analysis shows the 92% comes from post-completion surveys of digital-channel users only; assisted-channel users (18% of the base, skewed old, disabled, and poor) were never surveyed, and their proxy indicators are worsening. Comms is about to publish the figure externally in a case study the chief executive will front. What is the most effective response?
 
 - A) Let publication proceed; the figure is technically true and the case study is already written.
 - B) Brief the chief executive's office and comms urgently: the figure as framed will not survive scrutiny (state the survey's actual base), the excluded 18% show worsening indicators, and provide corrected framing options — publish the digital-channel figure accurately labelled, alongside a stated commitment on assisted-channel improvement — so the story becomes honest without becoming a retraction.
@@ -738,7 +738,7 @@ A reorganisation proposal would move a function's reporting line from direct att
 
 **Question 9 (hard) — Most and least effective: the spending review squeeze**
 
-A function must lose 15% of its budget. The least-harmful path cuts two vacant posts, ends the contractor premium through conversions, and withdraws embedded analysts from four low-value programmes whose directors are vocal and well-connected. The alternative, favoured by the candidate's director because it is quieter, spreads the cut evenly — every programme keeps its analyst, every analyst loses training, community time and assurance backup. Identify the MOST and LEAST effective responses.
+A function must lose 15% of its budget. The least-harmful path cuts two vacant posts, ends the contractor premium through conversions, and withdraws embedded analysts from four low-value programmes whose directors are vocal and well-connected. The alternative, favoured by the candidate's director because it is quieter, spreads the cut evenly — every programme keeps its analyst, every analyst loses training, community time, and assurance backup. Identify the MOST and LEAST effective responses.
 
 - A) Implement the least-harmful path: present the evidence for concentrating the cut, absorb the four directors' anger by meeting each personally with the prioritisation rationale and a defined re-entry route, and protect the function's training, standards and assurance core as non-negotiable infrastructure.
 - B) Implement the even spread the director favours; political capital matters more than operating model purity.
@@ -814,4 +814,4 @@ The cognitive section tested stress-testing standards libraries, delegation sche
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can reason precisely at organisational scale, handle numbers that arrive pre-packaged and must survive scrutiny, read governing documents exactly, and exercise the leadership judgement that builds a function and a profession that outlast any one postholder — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can reason precisely at organisational scale, handle numbers that arrive pre-packaged and must survive scrutiny, read governing documents exactly, and exercise the leadership judgement that builds a function and a profession that outlast any one postholder — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

@@ -20,7 +20,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -80,7 +80,7 @@ accessible code following a progressive enhancement approach, creates code
 that is open by default and easy for others to reuse, designs software which
 meets user needs and creates meaningful interactions and relationships with
 users, and has an understanding of the three fundamental frontend
-technologies: HTML, CSS and JavaScript.
+technologies: HTML, CSS, and JavaScript.
 
 This assessment covers the **Frontend developer** level, the third step of
 the role's ladder — the point at which the role becomes fully independent.
@@ -337,7 +337,7 @@ accountability supports a baseline above Working.
 - 1 — Awareness: needs step-by-step direction to build from a specification.
 - 2 — Working: builds simple-to-medium complexity interfaces from a
   specification, with some guidance.
-- 3 — Practitioner: builds, tests and documents user interfaces of medium to
+- 3 — Practitioner: builds, tests, and documents user interfaces of medium to
   high complexity independently, using the right standards and tools, and
   collaborates on specification review when needed.
 - 4 — Expert: does this reliably at the highest complexity the role sees, and
@@ -345,7 +345,7 @@ accountability supports a baseline above Working.
 
 **Evidence to gather**
 
-- Set a realistic, medium-complexity interface task and observe the
+- Set a realistic, medium-complexity interface task, and observe the
   candidate's full process: specification review, build, test and
   documentation.
 - Ask to see a complex user interface the candidate built recently, and

@@ -78,7 +78,7 @@ policy.
 - **`{#each}` keys must be unique.** Summary bullets repeat, and some summaries
   name a skill twice. A duplicate key throws at hydration and blanks the page,
   while the prerendered HTML looks fine. Do not key a loop on its text.
-- **Every route hydrates.** The theme, text size and share pickers in the
+- **Every route hydrates.** The theme, text size, and share pickers in the
   header (`src/lib/lily-helpers/`, mounted in `+layout.svelte`) are
   interactive on every page, so no route sets `csr = false` any more. That
   used to halve the built site's client JS; the trade-off is gone now that a

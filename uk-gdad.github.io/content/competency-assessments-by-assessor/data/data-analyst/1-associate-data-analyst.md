@@ -25,14 +25,14 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
 
 **Preparing.** Read `## About this role level` first, then gather whatever
 evidence exists: a CV or portfolio, a structured interview, a work sample or
-task (for example, a short, guided data-cleaning or charting exercise), direct
+task (for example, a short, guided data-cleaning, or charting exercise), direct
 observation of the candidate shadowing or pairing, or references.
 
 **Score on evidence, not impression.** Every rating must trace to something
@@ -77,9 +77,9 @@ only way information is conveyed) is showing evidence closer to
 
 ## About this role level
 
-The Data profession's Data analyst role collects, manages, explores and shares
+The Data profession's Data analyst role collects, manages, explores, and shares
 data to support organisational objectives and deliver business impact. Across
-the role, a data analyst identifies, collects and moves data between a range
+the role, a data analyst identifies, collects, and moves data between a range
 of systems; applies data analysis and data visualisation tools and
 techniques; prepares, manages and models data, following appropriate
 standards and practices; and communicates data, insights and conclusions in
@@ -303,7 +303,7 @@ work, so the baseline sits at Awareness.
 **Evidence to gather**
 
 - Give the candidate a small, simple data extract with an obvious quality
-  issue (for example, a duplicated row or a missing value) and ask them to
+  issue (for example, a duplicated row, or a missing value) and ask them to
   spot it and suggest a fix.
 - Ask about a time they cleaned or prepared data as part of a course, a
   project, or a previous role.

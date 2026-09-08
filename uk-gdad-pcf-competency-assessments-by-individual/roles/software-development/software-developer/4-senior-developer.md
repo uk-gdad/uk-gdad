@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -348,10 +348,10 @@ of this level.
 
 - 1 — Awareness: Can implement a small, well-defined piece of a specification
   with close supervision, but needs help breaking down anything more complex.
-- 2 — Working: Delivers code, tests and documentation for
+- 2 — Working: Delivers code, tests, and documentation for
   low-to-medium complexity work from an agreed specification, with a more
   senior developer reviewing the approach before or during the work.
-- 3 — Practitioner: Independently designs, codes, tests and documents programs of
+- 3 — Practitioner: Independently designs, codes, tests, and documents programs of
   medium-to-high complexity from an agreed specification, choosing appropriate
   standards and tools without needing the approach checked first.
 - 4 — Expert: Handles the highest-complexity work in their team unsupervised,
@@ -433,7 +433,7 @@ expected at this level, rather than following a pattern someone else set.
 
 **What the framework expects at this level**
 
-Identify, locate and fix service faults.
+Identify, locate, and fix service faults.
 
 **Baseline for this role level**
 
@@ -447,7 +447,7 @@ capability, not a supervised task.
   following clear instructions.
 - 2 — Working: Can locate the cause of a straightforward fault in a
   system they know well, with support available if the cause is unclear.
-- 3 — Practitioner: Independently identifies, locates and fixes faults across
+- 3 — Practitioner: Independently identifies, locates, and fixes faults across
   the services they operate, including ones whose cause is not immediately
   obvious, without needing another engineer to diagnose it for them.
 - 4 — Expert: Is someone the team escalates the hardest, most obscure
@@ -497,7 +497,7 @@ alongside strong, independent design capability of their own.
   independently, but has a more senior colleague check the design standards
   and tool choices before or during the work.
 - 3 — Practitioner: Independently designs systems of medium risk, impact and
-  complexity, selects appropriate standards, methods and tools without
+  complexity, selects appropriate standards, methods, and tools without
   needing them checked first, and reviews other developers' designs for
   sound technology choices and efficient integration.
 - 4 — Expert: Designs the highest-complexity systems in their team's remit
@@ -667,7 +667,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

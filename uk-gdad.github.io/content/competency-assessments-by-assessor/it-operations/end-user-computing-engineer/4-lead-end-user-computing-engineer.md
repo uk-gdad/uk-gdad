@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -67,7 +67,7 @@ engages a user directly to understand their need and uses that to resolve one
 issue well. At 3 — Practitioner, they champion user research more widely and can
 explain the difference between what a user asks for and what they actually
 need. At 4 — Expert, the baseline for this level, they collaborate with user
-researchers, represent users internally, prioritise and define the approach
+researchers, represent users internally, prioritise, and define the approach
 to understanding the user story, guide others in doing so, and recommend
 which tools and methods the team should use — the framework's own wording for
 this level, and a clear step beyond independent competence into guiding
@@ -456,7 +456,7 @@ widening of the skill that supports an Practitioner baseline.
 **What the framework expects at this level**
 
 A lead end user computing engineer drafts and maintains procedures and
-documentation, and sets standards for the definition, security and integrity
+documentation, and sets standards for the definition, security, and integrity
 of objects, ensuring conformity to these standards.
 
 **Baseline for this role level**
@@ -473,7 +473,7 @@ described as having expert technical understanding.
   reviewing it.
 - 3 — Practitioner: drafts and maintains procedures and documentation
   independently, and checks conformity to existing standards.
-- 4 — Expert: sets the standards for the definition, security and integrity
+- 4 — Expert: sets the standards for the definition, security, and integrity
   of objects that others must conform to, and is the escalation point when
   conformity is in doubt.
 
@@ -564,7 +564,7 @@ scale's own definition of Expert.
   that to resolve issues well.
 - 3 — Practitioner: champions user research and can explain, to a colleague, the
   difference between what a user asks for and what they need.
-- 4 — Expert: represents users internally, prioritises and defines the
+- 4 — Expert: represents users internally, prioritises, and defines the
   approach to the user story, guides colleagues through it, and recommends
   which tools or methods the team should use.
 

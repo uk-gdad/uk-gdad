@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -220,7 +220,7 @@ technologies used" — a textbook Awareness-level expectation, nothing more.
 - A short scenario: describe a simple data source (a spreadsheet export, a
   set of sensor readings) and ask what preparation it would likely need before
   it could be analysed, and why.
-- A document to review: any coursework, project write-up or portfolio note
+- A document to review: any coursework, project write-up, or portfolio note
   that touches on where data came from or how it was stored.
 - Something to ask a referee: whether you have asked sensible
   questions of engineering colleagues rather than treating data preparation as
@@ -589,7 +589,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

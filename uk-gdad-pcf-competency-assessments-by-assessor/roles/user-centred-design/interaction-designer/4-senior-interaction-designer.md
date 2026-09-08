@@ -28,7 +28,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -403,7 +403,7 @@ skill text itself has not moved on yet.
 **Behavioural indicators**
 
 - 1 — Awareness: Describes the value of user-centred design when asked.
-- 2 — Working: With support, leads or coordinates a piece of design
+- 2 — Working: With support, leads, or coordinates a piece of design
   work in the team, communicates the value of user-centred design, and
   supports another designer.
 - 3 — Practitioner: Leads and coordinates design work without needing support,

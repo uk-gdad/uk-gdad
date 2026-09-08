@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -93,7 +93,7 @@ services and work with IT service operations teams. It has four levels:
 
 The **IT service analyst** is the entry level of the role. They give frontline
 technical support to end users on issues relating to hardware, software and
-peripherals, including responding to, documenting and resolving service desk
+peripherals, including responding to, documenting, and resolving service desk
 incident tickets in a timely manner against an SLA.
 
 At this role level, you will:
@@ -560,6 +560,6 @@ level can help plan next steps:
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/it-operations/it-service-manager/1-it-service-analyst.md)
 
 Treat this competency assessment as one input among several, alongside your
-organisation's own interview, reference and probation processes. Thank you for
+organisation's own interview, reference, and probation processes. Thank you for
 taking the time to assess this candidly and fairly — it is a hard job to do
 well, and doing it well matters to the person on the other end of it.

@@ -6,7 +6,7 @@ This guide is for you: an assessor — a line manager, a panel member or a revie
 
 Psychometric assessments are structured, standardised exercises that measure the mental capabilities and behavioural tendencies that predict success in a role. For a developer, that means far more than abstract puzzles: the assessments described here are job-specific, using artefacts the role genuinely handles — bug reports, log extracts, test results, code review situations, deployment decisions, and specifications — and decisions genuinely made by someone delivering software components that form part of a product, developing software to meet user needs, following best practice guidelines and helping to improve them, and writing clean, secure and well-tested code, test-first, that is open by default.
 
-At this level, a large part of effectiveness is reasoning rather than typing speed or language knowledge: deducing what a bug report actually implies, working out which of two explanations the evidence supports, judging what a test proves, and reading a specification precisely enough to build the right thing. Because government software runs in production for a long time, serves people with no alternative, and handles data that matters, security, resilience and honest risk assessment carry unusual weight.
+At this level, a large part of effectiveness is reasoning rather than typing speed or language knowledge: deducing what a bug report actually implies, working out which of two explanations the evidence supports, judging what a test proves, and reading a specification precisely enough to build the right thing. Because government software runs in production for a long time, serves people with no alternative, and handles data that matters, security, resilience, and honest risk assessment carry unusual weight.
 
 Each of the four sections follows the same pattern: an overview of what it measures and its typical format; a mapping to the role's named skills; graduated practice questions with full worked explanations; then administration tips and common scoring pitfalls.
 
@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -776,7 +776,7 @@ Under time pressure, something was implemented in a known-poor but working way; 
 ### Administration tips
 
 - Score for whether the candidate separates a verified fact from a belief or theory, particularly under incident or deadline pressure.
-- Note whether a security, quality, or data concern is raised through the right channel, at the right altitude, before or alongside implementation rather than after.
+- Note whether a security, quality, or data concern is raised through the right channel, at the right altitude, before, or alongside implementation rather than after.
 - Watch for whether the candidate treats a code review comment's severity as something to state explicitly, distinguishing blocking from suggestion.
 - Score for whether the candidate separates a code fix from any downstream data or consequence remediation it implies.
 - Note whether a shortcut, assumption, or known limitation is disclosed proactively rather than left for someone else to discover without context.

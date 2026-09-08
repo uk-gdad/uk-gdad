@@ -6,7 +6,7 @@ This document is written for you: an assessor administering a workplace job-spec
 
 A psychometric assessment is a structured set of questions that measures the thinking skills and workplace judgement that predict success in a job. Employers across government use assessments like this when people apply for roles, move between teams, or take part in development programmes — and workplace job-specific assessments, tied to the real duties of a role rather than generic aptitude, give a fairer and more informative picture than an abstract test.
 
-This particular role is a good fit for job-specific material, because an associate application operations engineer's daily work already exercises the exact abilities these assessments measure: identifying and registering incidents draws on error checking and logical thinking; reading ticket queues and monitoring screens draws on pattern recognition; reading runbooks, knowledge base articles and service desk emails draws on verbal comprehension; and the day-to-day judgement calls of working under direction in a busy team draw on situational judgement.
+This particular role is a good fit for job-specific material, because an associate application operations engineer's daily work already exercises the exact abilities these assessments measure: identifying and registering incidents draws on error checking and logical thinking; reading ticket queues and monitoring screens draws on pattern recognition; reading runbooks, knowledge base articles, and service desk emails draws on verbal comprehension; and the day-to-day judgement calls of working under direction in a busy team draw on situational judgement.
 
 This document is organised into four assessment sections:
 
@@ -21,7 +21,7 @@ Each section explains what the assessment measures and what the format usually l
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -871,4 +871,4 @@ Each section maps directly onto the skills this role level actually needs. The c
 
 **Records and consistency.** Keep a note of the conditions under which you administered this assessment — timing, any interruptions, anything you had to clarify — alongside the result, and use the same items and conditions for every candidate you assess for this role level. Consistent administration is what makes a comparison between candidates fair and defensible.
 
-**One assessment among several.** This result is one input into a wider decision, never the whole of it. Pair it with the candidate's experience, a conversation, and whatever else your process requires, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision, never the whole of it. Pair it with the candidate's experience, a conversation, and whatever else your process requires, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

@@ -1,20 +1,6 @@
 # Associate data analyst - start here
 
-Welcome. If you are starting out as an associate data analyst, this page is
-for you: what the role is about, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for,
-one step at a time.
-
-## Purpose
-
-A data analyst collects, manages, explores and shares data to support
-organisational objectives and deliver real business impact. As an
-associate, you support data analysis activities and projects, developing
-your skills by working closely with other data professionals: developing
-analytical approaches and visualisations under supervision, and learning
-how data analysts work alongside the rest of a multidisciplinary team.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -27,7 +13,21 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/data/data-analyst/1-associate-data-analyst/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/data/data-analyst/1-associate-data-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/data-analyst/1-associate-data-analyst/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/data/data-analyst/1-associate-data-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are starting out as an associate data analyst, this page is
+for you: what the role is about, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for,
+one step at a time.
+
+## Purpose
+
+A data analyst collects, manages, explores, and shares data to support
+organisational objectives and deliver real business impact. As an
+associate, you support data analysis activities and projects, developing
+your skills by working closely with other data professionals: developing
+analytical approaches and visualisations under supervision, and learning
+how data analysts work alongside the rest of a multidisciplinary team.
 
 ## Learning pathway
 
@@ -102,7 +102,7 @@ organisation's data, which a generic guide never is.
 - [ ] **Understand data governance, and how tools relate to a project**
 
   Explain the importance of data governance policies, and explain how data
-  management tools, procedures and methods relate to a specific project.
+  management tools, procedures, and methods relate to a specific project.
 
   Ask AI: "Explain, for a beginner, what data governance means in
   practice, with a concrete example of a policy it might set."

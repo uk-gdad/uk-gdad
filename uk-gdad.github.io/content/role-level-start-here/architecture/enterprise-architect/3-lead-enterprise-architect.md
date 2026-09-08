@@ -1,5 +1,20 @@
 # Lead enterprise architect - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the lead enterprise architect level,
 this page is for you: what the role expects, where to find everything else
 this repository has for it, and a pathway for building the skills it asks
@@ -18,21 +33,6 @@ capabilities. Several named skills sharpen at this level — seeing the
 whole context, architecture communication, commercial perspective, problem
 definition, strategy design — because you're now shaping direction beyond
 your own organisation, not just within it.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/enterprise-architect/3-lead-enterprise-architect/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -66,7 +66,7 @@ you're weighing across the organisation and ask what you might be missing.
 - [ ] **Choose contractual frameworks, and select suppliers**
 
   Identify appropriate contractual frameworks and approaches, and
-  identify, evaluate and select appropriate suppliers.
+  identify, evaluate, and select appropriate suppliers.
 
   Ask AI: "What should a lead enterprise architect weigh when selecting a
   contractual framework for a major piece of architectural work?"

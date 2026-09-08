@@ -16,7 +16,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -227,7 +227,7 @@ Quantitative evidence carries unearned authority — a number in a board paper i
 - **Comparing rates between groups** maps to **Designing for everyone**: gaps between groups are the first numerical trace of exclusion.
 - **Judging what a measurement can establish** maps to **Evidence-based design**: helping teams use design hypotheses effectively.
 - **Quantifying risk and reuse** maps to **Designing strategically**: scale determines what matters.
-- **Presenting figures at defensible strength** maps to **Design communication**: documenting decisions, risks and unresolved issues.
+- **Presenting figures at defensible strength** maps to **Design communication**: documenting decisions, risks, and unresolved issues.
 - **Interrogating others' claims** maps to **Design communication**: building consensus by asking difficult questions.
 
 ### Practice questions
@@ -419,7 +419,7 @@ Small words carry the load. "All" is not "most". "Consider whether" is not "reco
 - **Reading precisely** maps to **Designing for everyone**: ensuring a design meets appropriate standards such as accessibility regulations.
 - **Separating statement from inference** maps to **Evidence-based design**: analysing and clearly explaining complex evidence.
 - **Identifying the main point** maps to **Design communication**: clearly explaining complex problems and ideas to teams or stakeholders outside design.
-- **Handling qualified language** maps to **Designing strategically**: using constraints in technology, systems and policy to shape design.
+- **Handling qualified language** maps to **Designing strategically**: using constraints in technology, systems, and policy to shape design.
 - **Reading for absence** maps to **Designing for everyone**: noticing a specification never mentions keyboard operation has a consequence.
 - **Documenting risks and unresolved issues accurately** maps to **Design communication**.
 
@@ -609,7 +609,7 @@ That last point separates this level from a competent practitioner's more sharpl
 - **Running and adapting sessions, and coaching others** maps to **Designing together**.
 - **Working across profession boundaries** maps to **Designing together**: working with policy and technology teams.
 - **Embedding practice and mentoring** maps to **Leading design** and **Iterative design**.
-- **Documenting risk honestly** maps to **Design communication**: documenting decisions, related risks and unresolved issues.
+- **Documenting risk honestly** maps to **Design communication**: documenting decisions, related risks, and unresolved issues.
 
 ### Practice questions
 

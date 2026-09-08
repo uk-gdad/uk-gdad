@@ -12,7 +12,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -767,7 +767,7 @@ With two weeks until a deadline, a delivery manager says there is no time for re
 
 ## Conclusion
 
-This guide has worked through pattern recognition and careful checking against the everyday materials of a research team — schedules, consent trackers, screeners and session notes; the numeric habits that keep a study's reporting honest — finding the right denominator, distinguishing a percentage point from a percentage, and noticing when a mean conceals an outlier; the discipline of reading a standard or a stakeholder email exactly as written, including its exceptions and its qualifiers; and the situational judgement that defines a strong associate user researcher — putting participants first, working within remit while being transparent about its edges, and reporting mistakes quickly.
+This guide has worked through pattern recognition and careful checking against the everyday materials of a research team — schedules, consent trackers, screeners, and session notes; the numeric habits that keep a study's reporting honest — finding the right denominator, distinguishing a percentage point from a percentage, and noticing when a mean conceals an outlier; the discipline of reading a standard or a stakeholder email exactly as written, including its exceptions and its qualifiers; and the situational judgement that defines a strong associate user researcher — putting participants first, working within remit while being transparent about its edges, and reporting mistakes quickly.
 
 **Scoring and debrief.** Score against the worked explanations, not the answer letter alone — several items reward the quality of reasoning as much as the final choice, and the strongest answers consistently apply only the information given rather than imported assumptions. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
 

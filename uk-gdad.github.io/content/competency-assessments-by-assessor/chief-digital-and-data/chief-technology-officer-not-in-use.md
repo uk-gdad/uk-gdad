@@ -29,7 +29,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -359,7 +359,7 @@ published against any of them:
 
 - Ask the candidate to describe a technology they recommended retiring, and
   the evidence that led them to that recommendation.
-- Review a technology evaluation report, options paper or vendor assessment
+- Review a technology evaluation report, options paper, or vendor assessment
   the candidate authored or led.
 - Ask a colleague from a delivery team how the candidate's technology
   evaluations affected their work.

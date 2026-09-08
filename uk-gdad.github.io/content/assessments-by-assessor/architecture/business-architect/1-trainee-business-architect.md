@@ -19,13 +19,13 @@ Each section explains what the assessment measures, why it matters for this role
 
 Administer this fairly. Give every candidate for this role level the same items and the same time limit - do not vary the questions, the time allowed, or the level of hinting between candidates, even informally. Brief every candidate the same way before you start, and keep the same conditions (room, equipment, breaks) as far as you reasonably can. After scoring, debrief the candidate: explain broadly how they did and what it showed, without necessarily walking through every question and answer, since some or all of this material may be reused with future candidates.
 
-There is no pass or fail mark built into this guide - that is a judgement for you and your organisation to set, informed by the role's requirements. Use this material as one input among several. It is not a validated instrument, and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision - see the advisory below.
+There is no pass or fail mark built into this guide - that is a judgement for you and your organisation to set, informed by the role's requirements. Use this material as one input among several. It is not a validated instrument, and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision - see the advisory below.
 
 Let's get started.
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 

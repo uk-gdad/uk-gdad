@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -81,7 +81,7 @@ within one someone else set up.
 ## About this role level
 
 The product and delivery profession's service owner role exists to be
-accountable for the quality, performance, benefits and outcomes of a service.
+accountable for the quality, performance, benefits, and outcomes of a service.
 A service owner provides clear end-to-end direction, prioritisation, risk
 management and decision making for the teams delivering that service, in line
 with departmental policy and user outcomes.
@@ -392,7 +392,7 @@ broadly, so the baseline stops short of Expert.
 
 **Evidence to gather**
 
-- Ask for an example of a continue, change-direction or stop decision the
+- Ask for an example of a continue, change-direction, or stop decision the
   candidate made, and the evidence behind it.
 - Ask how they guided a stakeholder unfamiliar with a life cycle phase
   through it.
@@ -434,7 +434,7 @@ only the candidate's own delivery team.
 - 3 — Practitioner: Coordinates with one other function to overcome an
   operational constraint affecting the service.
 - 4 — Expert: Ensures a scalable, resilient operating model is in place,
-  coordinates operations, policy, digital and delivery teams together to
+  coordinates operations, policy, digital, and delivery teams together to
   operate and iterate the service, and is the escalation point for major
   operational issues.
 

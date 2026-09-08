@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -213,7 +213,7 @@ independent working into setting direction for others.
 
 A lead business analyst is expected to lead the identification of large-scale
 opportunities to deliver business performance improvements, to set the
-direction for analysis, design and evaluation of business process
+direction for analysis, design, and evaluation of business process
 improvements including methods, tools and standards, to set the direction for
 design, execution and assessment of business process tests and usability
 evaluations, and to coach others in designing, testing, implementing and
@@ -235,7 +235,7 @@ someone's own delivery.
   programme, with real independence, but has not yet set organisation-wide
   standards.
 - 4 — Expert: Leads identification of large-scale improvement opportunities,
-  sets direction for methods, tools and standards used across the
+  sets direction for methods, tools, and standards used across the
   organisation, and coaches other business analysts in the discipline.
 
 **Evidence to gather**
@@ -279,7 +279,7 @@ the level description's own "go-to person in the field".
   experience, though not yet sought out proactively by others.
 - 3 — Practitioner: Is regularly sought out for advice within their business area
   and proposes practical approaches to implementation.
-- 4 — Expert: Provides advice, guidance and recommendations based on genuine
+- 4 — Expert: Provides advice, guidance, and recommendations based on genuine
   specialist knowledge across a range of problems, proposes methodologies
   that others adopt, and frames ambiguous problems so non-specialists can
   understand and act on them.
@@ -513,7 +513,7 @@ the scale defines as expert.
   digital professionals on interface and functionality decisions.
 - 4 — Expert: Sets the direction for systems analysis, enables others to
   explore functionality gaps and assess software change effects, and forms a
-  common understanding between users, development teams and external
+  common understanding between users, development teams, and external
   suppliers.
 
 **Evidence to gather**
@@ -672,7 +672,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

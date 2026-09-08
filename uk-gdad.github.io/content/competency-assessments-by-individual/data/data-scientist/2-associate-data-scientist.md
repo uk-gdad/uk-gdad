@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -301,7 +301,7 @@ willing to learn if asked.
 - A structured interview question: "What is a data science technique or tool
   you looked into recently off your own back? What made you curious about
   it?"
-- A portfolio item: a note, write-up or short presentation the person made
+- A portfolio item: a note, write-up, or short presentation the person made
   about something you researched and shared with colleagues.
 - Direct observation: whether the person asks questions in team sessions that
   go beyond what is needed to finish the immediate task.
@@ -374,7 +374,7 @@ their learning to their objectives and to organisational goals. They can
 confidently talk about the benefits of data science approaches to existing and
 potential customers, and they demonstrate a good understanding of key data
 science techniques, such as machine learning, using them to build data science
-solutions including reports, models and dashboards.
+solutions including reports, models, and dashboards.
 
 **Baseline for this role level**
 
@@ -386,7 +386,7 @@ know, with guidance, not merely to be aware that the techniques exist.
 **Behavioural indicators**
 
 - 1 — Awareness: Follows a development plan set by someone else, and has built
-  a report, model or dashboard with substantial help from a colleague.
+  a report, model, or dashboard with substantial help from a colleague.
 - 2 — Working: Sets and reviews their own short-term learning goals
   linked to real pieces of work, and independently builds a working report,
   model or dashboard using a technique such as a basic machine learning
@@ -399,7 +399,7 @@ know, with guidance, not merely to be aware that the techniques exist.
 
 **Evidence to gather**
 
-- A portfolio item: a report, model or dashboard the person built, with you talking through the technique you used and why.
+- A portfolio item: a report, model, or dashboard the person built, with you talking through the technique you used and why.
 - A structured interview question: "What have you learned in the last few
   months, and how did you decide that was the right thing to focus on?"
 - A document to review: a personal development plan or record of continuous
@@ -554,7 +554,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

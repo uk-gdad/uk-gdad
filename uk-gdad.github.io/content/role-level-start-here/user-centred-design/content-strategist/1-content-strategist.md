@@ -1,26 +1,6 @@
 # Content strategist - start here
 
-Welcome. If you are working toward the content strategist role, this page
-is for you: what the role is about, where to find everything else this
-repository has for it, and a pathway for building the areas it names. The
-framework publishes this as a single level rather than a ladder, and its
-named skills read at a genuinely expert register throughout — this is not
-a role most people arrive at without content design experience already
-behind them.
-
-## Purpose
-
-A content strategist takes an overview of content and how it's produced,
-designing governance, workflows and taxonomies in a user-centred context
-and working with senior stakeholders, user researchers, and content,
-service and interaction designers. As an expert practitioner in content
-strategy and taxonomy design, you develop governance, processes and
-workflows that deliver strategy and policy intent, manage relationships and
-interdependencies with other content roles, shape and structure content
-architecture on user-centred design principles, and work with lead content
-designers to organise and manage teams towards outcomes.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -33,7 +13,27 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/content-strategist/1-content-strategist/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/content-strategist/1-content-strategist/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/content-strategist/1-content-strategist/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/content-strategist/1-content-strategist/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the content strategist role, this page
+is for you: what the role is about, where to find everything else this
+repository has for it, and a pathway for building the areas it names. The
+framework publishes this as a single level rather than a ladder, and its
+named skills read at a genuinely expert register throughout — this is not
+a role most people arrive at without content design experience already
+behind them.
+
+## Purpose
+
+A content strategist takes an overview of content and how it's produced,
+designing governance, workflows, and taxonomies in a user-centred context
+and working with senior stakeholders, user researchers, and content,
+service and interaction designers. As an expert practitioner in content
+strategy and taxonomy design, you develop governance, processes and
+workflows that deliver strategy and policy intent, manage relationships and
+interdependencies with other content roles, shape and structure content
+architecture on user-centred design principles, and work with lead content
+designers to organise and manage teams towards outcomes.
 
 ## Learning pathway
 

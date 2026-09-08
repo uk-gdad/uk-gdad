@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -74,9 +74,9 @@ use is showing **4 — Expert**, the baseline this level expects.
 
 ## About this role level
 
-The Data profession's Data analyst role collects, manages, explores and shares
+The Data profession's Data analyst role collects, manages, explores, and shares
 data to support organisational objectives and deliver business impact. Across
-the role, a data analyst identifies, collects and moves data between a range
+the role, a data analyst identifies, collects, and moves data between a range
 of systems; applies data analysis and data visualisation tools and
 techniques; prepares, manages and models data, following appropriate
 standards and practices; and communicates data, insights and conclusions in
@@ -162,7 +162,7 @@ decisions — the top of this skill's progression.
 
 A principal data analyst is expected to mediate between people and strengthen
 relationships, adopting the appropriate communication method with
-stakeholders at all levels, manage stakeholder expectations and moderate
+stakeholders at all levels, manage stakeholder expectations, and moderate
 difficult discussions about high risk and complex topics even within
 constrained timescales, and speak on behalf of and represent the community to
 large audiences inside and outside the organisation.
@@ -573,7 +573,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

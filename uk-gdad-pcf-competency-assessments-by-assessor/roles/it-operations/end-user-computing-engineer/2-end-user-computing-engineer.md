@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -242,7 +242,7 @@ the required information and allocating it to the appropriate channel.
 
 **Baseline for this role level**
 
-Baseline: 2 — Working. Identifying, registering and correctly routing an
+Baseline: 2 — Working. Identifying, registering, and correctly routing an
 incident unassisted is guided-but-independent triage work, not close
 supervision, and not yet the diagnosis and resolution work of the next level
 up.
@@ -386,7 +386,7 @@ bigger-picture, cross-service view the framework describes at senior levels.
 **Evidence to gather**
 
 - Ask the candidate to describe how they organise a typical day's mix of
-  incidents, requests and follow-ups into a coherent routine.
+  incidents, requests, and follow-ups into a coherent routine.
 - Ask a referee whether the candidate's way of working has helped or hindered
   the wider team.
 - Review any process note or checklist the candidate has produced for their

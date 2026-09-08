@@ -17,7 +17,7 @@ Each section explains what the assessment measures and why it matters at this le
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -110,7 +110,7 @@ A service's completion rate has fallen from 81% to 64% over two months, coincidi
 
 **Question 6 (moderate) — Deduction with delivery constraints**
 
-A team must deliver features F1, F2, F3, and F4. Constraints: (i) F2 depends on F1's data model being finalised; (ii) F3 and F4 both depend on F2's API; (iii) at most two features can be developed in parallel; (iv) F1 takes one sprint, F2 takes two sprints, F3 and F4 take one sprint each. Development of a dependent feature cannot start until the feature it depends on is fully complete. What is the minimum number of sprints to deliver everything?
+A team must deliver features F1, F2, F3, and F4. Constraints: (i) F2 depends on F1's data model being finalised; (ii) F3 and F4 both depend on F2's API; (iii) at most two features can be developed in parallel; (iv) F1 takes one sprint, F2 takes two sprints, F3, and F4 take one sprint each. Development of a dependent feature cannot start until the feature it depends on is fully complete. What is the minimum number of sprints to deliver everything?
 
 - A) 4
 - B) 5
@@ -816,4 +816,4 @@ The cognitive section tested testability checks on tidy-looking requirements, de
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can think carefully under independence, work accurately with numbers that travel unaccompanied, read precisely, and exercise sound judgement while managing stakeholders and developing others — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can think carefully under independence, work accurately with numbers that travel unaccompanied, read precisely, and exercise sound judgement while managing stakeholders and developing others — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

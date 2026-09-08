@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -806,7 +806,7 @@ A junior analyst privately reports that monthly performance figures sent to the 
 
 ## Conclusion
 
-This guide has worked through cognitive questions exercising pattern reading, deduction and prioritisation under dashboards, assessment conditions and operational pipelines; numeric questions rebuilding unit costs, channel-shift savings, benefits trackers, supplier break-evens and recovery arithmetic with every step shown; verbal questions sharpening precise reading of approval letters, policy steers, assessment reports, and carefully drafted stakeholder correspondence; and situational judgement scenarios rehearsing the hardest part of the role — the moments when users, evidence, money, politics and people pull in different directions.
+This guide has worked through cognitive questions exercising pattern reading, deduction and prioritisation under dashboards, assessment conditions and operational pipelines; numeric questions rebuilding unit costs, channel-shift savings, benefits trackers, supplier break-evens, and recovery arithmetic with every step shown; verbal questions sharpening precise reading of approval letters, policy steers, assessment reports, and carefully drafted stakeholder correspondence; and situational judgement scenarios rehearsing the hardest part of the role — the moments when users, evidence, money, politics, and people pull in different directions.
 
 **Scoring and debrief.** Score against the worked explanations, not the answer letter alone — several situational and verbal items reward the quality of reasoning as much as the final choice, particularly where substance and sequence (the right decision, delivered in the right order) both matter. Debrief promptly, holding back the answer key until scoring is complete for every candidate sitting this role level.
 

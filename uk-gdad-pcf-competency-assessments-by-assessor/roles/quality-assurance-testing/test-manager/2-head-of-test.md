@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -181,7 +181,7 @@ competently.
 **What the framework expects at this level**
 
 Set standards and influence organisational decisions for test types,
-techniques, design and execution. Coach others in test types, techniques,
+techniques, design, and execution. Coach others in test types, techniques,
 design and execution. Advocate for continuous improvement and refinement of
 test types and techniques. Make strategic decisions on new or improved test
 types and techniques used in your area.

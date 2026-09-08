@@ -4,7 +4,7 @@
 
 This guide is for you: an assessor — a line manager, a panel member or a reviewer — administering a workplace job-specific psychometric assessment to a candidate for lead technical writer. It is not the candidate's practice material. Every item below carries its worked answer and explanation as your answer key, to be held back and shown to the candidate only at scoring and debrief.
 
-A lead technical writer is an expert practitioner who directs a team of technical writers and assures the quality of technical writing across teams and its alignment to strategy: standardising tools, ways of communicating and processes; working closely with service managers, technology leaders and senior stakeholders to resource teams and resolve problems; promoting the discipline of technical writing; engaging with the cross-government community; and keeping up to date with industry changes.
+A lead technical writer is an expert practitioner who directs a team of technical writers and assures the quality of technical writing across teams and its alignment to strategy: standardising tools, ways of communicating, and processes; working closely with service managers, technology leaders and senior stakeholders to resource teams and resolve problems; promoting the discipline of technical writing; engaging with the cross-government community; and keeping up to date with industry changes.
 
 That is a role in which most of what a candidate achieves happens through other people, in a discipline that is chronically under-resourced because its value is hard to demonstrate. Both facts shape this material.
 
@@ -16,7 +16,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 

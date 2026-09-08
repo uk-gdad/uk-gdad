@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -412,7 +412,7 @@ The governing discipline: answer only from the passage. This role transforms wri
 
 ### How this assessment maps to the role
 
-- **Comprehension of requirements and procedures** maps to the duty to **transform technical requirements into DevOps processes**: scope, conditions, exceptions and modal force all carry design consequences.
+- **Comprehension of requirements and procedures** maps to the duty to **transform technical requirements into DevOps processes**: scope, conditions, exceptions, and modal force all carry design consequences.
 - **True/false/cannot-say discipline** maps to **Information security**: representing guidance and threat information exactly.
 - **Inference** maps to **Systems integration** and **Service support**: connecting stated facts into their guaranteed implications, no further.
 - **Argument evaluation** maps to **Development process optimisation** and **Prototyping**: weighing evidence for proposed process or prototyping changes.

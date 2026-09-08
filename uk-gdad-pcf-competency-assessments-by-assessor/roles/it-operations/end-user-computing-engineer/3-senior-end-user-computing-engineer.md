@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -245,7 +245,7 @@ investigates their causes and finds resolutions.
 **Baseline for this role level**
 
 Baseline: 3 — Practitioner. This is the clearest step up in the whole matrix from
-level 2's register-and-route work: diagnosing, prioritising and resolving
+level 2's register-and-route work: diagnosing, prioritising, and resolving
 unassisted is independent, strong-grasp work by the scale's own definition.
 
 **Behavioural indicators**
@@ -255,7 +255,7 @@ unassisted is independent, strong-grasp work by the scale's own definition.
 - 2 — Working: diagnoses and resolves familiar incidents unassisted, but
   needs help prioritising against a busy queue.
 - 3 — Practitioner: independently diagnoses and prioritises incidents against
-  competing work, investigates the cause and finds the resolution.
+  competing work, investigates the cause, and finds the resolution.
 - 4 — Expert: is the escalation point for incidents that have resisted
   diagnosis by others, and teaches the diagnostic approach to the team.
 
@@ -376,7 +376,7 @@ frameworks that work.
 
 Baseline: 2 — Working. The framework's wording for this skill is
 unchanged from level 2; this level's growth in scope is expressed through
-Incident management, Problem management and team co-ordination duties rather
+Incident management, Problem management, and team co-ordination duties rather
 than through a wider Service focus expectation.
 
 **Behavioural indicators**

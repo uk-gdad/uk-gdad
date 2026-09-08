@@ -6,7 +6,7 @@ This guide is for you: an assessor — a line manager, a panel member or a revie
 
 Psychometric assessments are structured, standardised exercises that measure the everyday thinking a particular job actually uses. For an associate service designer that means noticing when a journey map and a set of research findings disagree, spotting that a service step assumes something users do not have, reading a design standard carefully and applying it, working out what a set of numbers about a service is really telling you, and making sensible decisions when something in a design session goes sideways.
 
-An associate service designer is a trainee in an entry-level position, working under supervision, expected to show design aptitude, potential and an understanding of the role. Nobody at this level is expected to have mapped a cross-government service or negotiated with a policy team — what is being tested is exactly what the role summary names: aptitude, potential, and understanding. Every rule, definition and figure needed appears inside the question; nothing needs to be memorised.
+An associate service designer is a trainee in an entry-level position, working under supervision, expected to show design aptitude, potential and an understanding of the role. Nobody at this level is expected to have mapped a cross-government service or negotiated with a policy team — what is being tested is exactly what the role summary names: aptitude, potential, and understanding. Every rule, definition, and figure needed appears inside the question; nothing needs to be memorised.
 
 Service design is unusual in that its subject is the whole journey — not a screen, not a page, but everything a person has to do, across digital and offline channels, sometimes across several organisations, to get something done. That means the thinking constantly has to zoom out: where does this person come from before they reach us, what happens after they submit, who else is involved, what happens to the person who cannot do this step at all. A surprising amount of what this material measures is precisely that habit of looking at the whole thing rather than the part in front of you.
 
@@ -16,7 +16,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 

@@ -21,7 +21,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -189,7 +189,7 @@ Communicate with technical and non-technical stakeholders at all levels, and
 across organisations, using architecture communication techniques. Mediate
 between people in difficult architectural discussions. Gain support from
 business and technical stakeholders for architectural topics with high
-levels of risk, impact and complexity. Coach and support others in
+levels of risk, impact, and complexity. Coach and support others in
 architecture communication.
 
 **Baseline for this role level**
@@ -246,7 +246,7 @@ judgement.
 - 1 — Awareness: Contributes to supplier evaluation with support.
 - 2 — Working: Identifies contractual frameworks for straightforward
   cases with occasional support.
-- 3 — Practitioner: Independently identifies, evaluates and selects appropriate
+- 3 — Practitioner: Independently identifies, evaluates, and selects appropriate
   suppliers and contractual frameworks for real work.
 - 4 — Expert: Not expected at this level.
 

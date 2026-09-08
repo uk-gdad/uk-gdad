@@ -1,22 +1,6 @@
 # Associate user researcher - start here
 
-Welcome. If you are starting out as an associate user researcher, this
-page is for you: what the role is about, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for,
-one step at a time.
-
-## Purpose
-
-User researchers plan, design and carry out research activities with users
-that help teams get a deep understanding of the people who use government
-services — research that informs policy, proposition, service, content and
-interaction design so services work well for users and achieve their policy
-intent. As an associate, this is a trainee, entry-level role working with
-more experienced researchers: you need an understanding of the role and to
-show potential, with guidance and training to produce good work and
-develop your skills.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -29,7 +13,23 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/user-centred-design/user-researcher/1-associate-user-researcher/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/user-centred-design/user-researcher/1-associate-user-researcher/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/user-researcher/1-associate-user-researcher/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/user-centred-design/user-researcher/1-associate-user-researcher/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are starting out as an associate user researcher, this
+page is for you: what the role is about, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for,
+one step at a time.
+
+## Purpose
+
+User researchers plan, design, and carry out research activities with users
+that help teams get a deep understanding of the people who use government
+services — research that informs policy, proposition, service, content and
+interaction design so services work well for users and achieve their policy
+intent. As an associate, this is a trainee, entry-level role working with
+more experienced researchers: you need an understanding of the role and to
+show potential, with guidance and training to produce good work and
+develop your skills.
 
 ## Learning pathway
 

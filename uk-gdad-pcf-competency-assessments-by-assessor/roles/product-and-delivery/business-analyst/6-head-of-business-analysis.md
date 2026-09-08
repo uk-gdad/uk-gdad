@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -28,7 +28,7 @@ colleagues.
 This is the top of the business analyst ladder: leadership of the whole
 business analysis function across the enterprise area, and building the
 organisation's business analysis capability. The evidence you need is about
-organisation-wide impact — capability building, workforce and standards
+organisation-wide impact — capability building, workforce, and standards
 decisions, representing the function externally — not project delivery.
 
 **Score on evidence, not impression.** Every rating must trace to something
@@ -520,7 +520,7 @@ systems analysis practice.
 - 4 — Expert: Sets the direction for systems analysis practice across the
   function, enables business analysts across the organisation to explore
   functionality gaps and software change effects, and is the point of common
-  understanding between users, development teams and external suppliers at
+  understanding between users, development teams, and external suppliers at
   organisational level.
 
 **Evidence to gather**

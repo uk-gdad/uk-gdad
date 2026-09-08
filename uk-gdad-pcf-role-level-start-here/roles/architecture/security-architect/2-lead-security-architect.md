@@ -1,24 +1,6 @@
 # Lead security architect - start here
 
-Welcome. If you are working toward the lead security architect level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for.
-
-## Purpose
-
-A lead security architect undertakes complex work at a high risk level,
-often working across several projects at once. You interact with senior
-stakeholders across departments, reach and influence a wide range of people
-across larger teams and communities, research and apply innovative security
-solutions to new or existing problems while justifying and communicating
-your design decisions, develop vision, principles and strategy for security
-architects on a project or technology, work out subtle security needs,
-balance requirements and understand the impact of decisions, produce
-patterns and support quality assurance, act as the escalation point for
-architects in lower grade roles, and lead the technical design of systems
-and services.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -31,7 +13,25 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/architecture/security-architect/2-lead-security-architect/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/architecture/security-architect/2-lead-security-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/security-architect/2-lead-security-architect/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/security-architect/2-lead-security-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the lead security architect level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for.
+
+## Purpose
+
+A lead security architect undertakes complex work at a high risk level,
+often working across several projects at once. You interact with senior
+stakeholders across departments, reach, and influence a wide range of people
+across larger teams and communities, research and apply innovative security
+solutions to new or existing problems while justifying and communicating
+your design decisions, develop vision, principles, and strategy for security
+architects on a project or technology, work out subtle security needs,
+balance requirements and understand the impact of decisions, produce
+patterns and support quality assurance, act as the escalation point for
+architects in lower grade roles, and lead the technical design of systems
+and services.
 
 ## Learning pathway
 

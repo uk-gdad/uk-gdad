@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -94,7 +94,7 @@ services and work with IT service operations teams. It has four levels:
 
 The **senior IT service manager** is responsible for service management
 across platforms, multiple channels and services, to ensure service
-availability, performance and process maturity. The framework does not list a
+availability, performance, and process maturity. The framework does not list a
 separate set of "at this role level" accountabilities for this level beyond
 its skills — the skill bullets below are its full description of what this
 level does.
@@ -373,7 +373,7 @@ relationships" — a distinct, senior capability that fits the framework's
   challenging situations.
 - 2 — Working: Negotiates and influences successfully in
   moderately difficult situations, with some support.
-- 3 — Practitioner: Independently negotiates, removes blockers and manages
+- 3 — Practitioner: Independently negotiates, removes blockers, and manages
   challenging situations across multiple stakeholder relationships.
 - 4 — Expert: Has built and sustained long-term strategic relationships that
   survive genuine crises, and other managers ask them to intervene on their
@@ -544,5 +544,5 @@ level can help plan next steps:
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/it-operations/it-service-manager/3-senior-it-service-manager.md)
 
 Treat this competency assessment as one input among several, alongside your
-organisation's own interview, reference and calibration processes. Thank you
+organisation's own interview, reference, and calibration processes. Thank you
 for taking the time to assess this candidly and fairly.

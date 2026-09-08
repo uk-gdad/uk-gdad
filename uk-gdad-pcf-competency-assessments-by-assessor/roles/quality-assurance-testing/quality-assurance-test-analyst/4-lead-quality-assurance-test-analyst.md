@@ -28,7 +28,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -133,7 +133,7 @@ The framework names six skills at this level:
 
 At this level, a person is expected to mediate between people and strengthen
 relationships, adopting the appropriate communication method with
-stakeholders at all levels, manage stakeholder expectations and moderate
+stakeholders at all levels, manage stakeholder expectations, and moderate
 difficult discussions about high-risk and complex topics even within
 constrained timescales, and speak on behalf of, and represent the community
 to, large audiences inside and outside the organisation.
@@ -482,7 +482,7 @@ and the cost of a wrong call is higher.
 This assessment gives you a structured, evidence-based view of one person
 against the lead quality assurance test analyst baseline — not a verdict.
 Combine it with the rest of your organisation's process before making a
-decision about hiring, promotion or development.
+decision about hiring, promotion, or development.
 
 Where the matrix shows development areas, two sibling documents for this
 exact role level can help plan next steps:

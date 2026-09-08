@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -209,7 +209,7 @@ this text does not make.
 - 2 — Working: has helped align one piece of design work to a team's goals, with
   guidance.
 - 3 — Practitioner: independently helps teams understand how their design work supports
-  organisational goals, weighs technology, systems and policy constraints to shape
+  organisational goals, weighs technology, systems, and policy constraints to shape
   design, and creates a new design pattern or component when an existing one does not
   fit.
 - 4 — Expert: shapes design strategy across multiple teams or the whole organisation.
@@ -456,7 +456,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

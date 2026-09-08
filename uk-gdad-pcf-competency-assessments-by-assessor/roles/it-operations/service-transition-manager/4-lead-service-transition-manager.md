@@ -12,7 +12,7 @@ eleven skills it names.
 The lead service transition manager is responsible for the planning and
 co-ordination of resources to ensure that services are effectively
 transitioned into service operation, and is solely responsible for
-co-ordination activities across projects, suppliers and service teams. This
+co-ordination activities across projects, suppliers, and service teams. This
 assessment turns that description into a structured matrix an assessor can
 score against observed or reported evidence, for a hiring decision, a
 promotion board, or a capability review against the framework.
@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -108,7 +108,7 @@ role. They are responsible for the planning and co-ordination of resources to
 ensure that services are effectively transitioned into service operation.
 
 At this level, you will be solely responsible for the co-ordination
-activities across projects, suppliers and service teams.
+activities across projects, suppliers, and service teams.
 
 This role level names eleven skills: Asset and configuration management,
 Availability and capacity management, Change management, Community
@@ -130,7 +130,7 @@ areas, and verify the location and state of IT assets.
 
 Baseline: 2 — Working. The wording is unchanged from the service
 transition manager level below — this level's added weight comes from being
-solely accountable for co-ordination across projects, suppliers and service
+solely accountable for co-ordination across projects, suppliers, and service
 teams, but the framework's own description of this specific skill does not
 escalate, so the baseline is unchanged too.
 
@@ -262,7 +262,7 @@ responses.
 Baseline: 3 — Practitioner. This fuller, actively facilitative wording — adapting
 feedback, running health checks, rectifying team dynamics — is a step up from
 the level below, matching this level's sole responsibility for co-ordination
-across projects, suppliers and service teams.
+across projects, suppliers, and service teams.
 
 **Behavioural indicators**
 
@@ -386,7 +386,7 @@ potential problems, and to achieve excellent user outcomes.
 Baseline: 3 — Practitioner. The shift from "own an issue" at the level below to
 "take accountability ... proactive in searching for potential problems" is a
 step into active risk-seeking, matching this level's sole accountability for
-co-ordination across projects, suppliers and service teams.
+co-ordination across projects, suppliers, and service teams.
 
 **Behavioural indicators**
 
@@ -615,7 +615,7 @@ baseline target. At this most senior level of the role, one or two skills
 below target is not automatically a fail: weigh how central the skill is to
 this level's accountabilities (Service focus and Ownership and initiative
 sit at the very heart of the job, given the sole accountability for
-co-ordination across projects, suppliers and service teams), consider
+co-ordination across projects, suppliers, and service teams), consider
 whether the shortfall is coachable quickly after appointment, and record the
 reasoning behind the overall call, not only the numbers.
 
@@ -661,7 +661,7 @@ level can help plan next steps:
 - [Upskilling resources](../../../../uk-gdad-pcf-upskilling-resources/roles/it-operations/service-transition-manager/4-lead-service-transition-manager.md)
 
 Treat this competency assessment as one input among several, alongside your
-organisation's own interview, reference and calibration processes. Thank you
+organisation's own interview, reference, and calibration processes. Thank you
 for taking the time to assess this candidly and fairly — this is the most
 senior level of the role, and getting the appointment right matters to every
 project, supplier and service team this person will co-ordinate.

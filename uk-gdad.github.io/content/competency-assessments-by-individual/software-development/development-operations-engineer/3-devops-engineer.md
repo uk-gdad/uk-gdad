@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -368,7 +368,7 @@ better fit than Practitioner.
 **Behavioural indicators**
 
 - 1 — Awareness: locates and fixes a straightforward fault with guidance.
-- 2 — Working: identifies, locates and fixes a service fault
+- 2 — Working: identifies, locates, and fixes a service fault
   independently, for faults of typical difficulty.
 - 3 — Practitioner: does this for complex, less obvious faults and can advise a
   colleague on the approach.
@@ -424,7 +424,7 @@ consistent with a strong, independent grasp of the skill.
 - Think about how you'd walk through a design you produced, from logical
   design through to documented physical design.
 - Look back at a design document you authored for completeness against
-  the required standards, methods and tools.
+  the required standards, methods, and tools.
 
 **Rate this skill**
 
@@ -562,7 +562,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

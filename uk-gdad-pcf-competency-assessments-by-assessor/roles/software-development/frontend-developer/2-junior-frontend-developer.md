@@ -20,7 +20,7 @@ educational purposes. It is not a validated assessment instrument — it has not
 been piloted, normed or checked for adverse impact — and a rating on this form
 must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -78,7 +78,7 @@ accessible code following a progressive enhancement approach, creates code
 that is open by default and easy for others to reuse, designs software which
 meets user needs and creates meaningful interactions and relationships with
 users, and has an understanding of the three fundamental frontend
-technologies: HTML, CSS and JavaScript.
+technologies: HTML, CSS, and JavaScript.
 
 This assessment covers the **Junior frontend developer** level, the second
 step of the role's ladder. The full ladder, in order, is: Apprentice frontend
@@ -333,7 +333,7 @@ accountability.
 - 1 — Awareness: builds a simple interface with close, step-by-step
   direction.
 - 2 — Working: collaborates on reviewing requirements, and designs,
-  codes, tests, corrects and documents a user interface under general
+  codes, tests, corrects, and documents a user interface under general
   direction, needing occasional guidance.
 - 3 — Practitioner: does this with minimal direction, and helps correct a peer's
   simple mistakes.

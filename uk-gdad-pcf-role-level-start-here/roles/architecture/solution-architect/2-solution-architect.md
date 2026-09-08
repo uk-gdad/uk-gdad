@@ -1,5 +1,20 @@
 # Solution architect - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the solution architect level, this page
 is for you: what the role expects, where to find everything else this
 repository has for it, and a pathway for building the skills it asks for.
@@ -16,21 +31,6 @@ team achieve its objectives. Almost every named skill grows at this level,
 because owning even a low-risk solution asks more of you than supporting
 someone else's did.
 
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/solution-architect/2-solution-architect/upskilling-resources/): courses, articles, videos and books to work through.
-
 ## Learning pathway
 
 Work through these roughly in order. Each one is a requirement of this role
@@ -40,7 +40,7 @@ around your own solution.
 
 - [ ] **Lead communication of complex architecture topics**
 
-  Lead communicating complicated, complex or risky architecture topics
+  Lead communicating complicated, complex, or risky architecture topics
   with technical and non-technical stakeholders, communicate with senior
   stakeholders, adapt your message to your audience, advocate for your
   team, and manage expectations effectively.
@@ -52,7 +52,7 @@ around your own solution.
 - [ ] **See beyond your own solution to the wider organisation**
 
   Align your work with other architects and technical professionals, track
-  emerging issues, strategies, roadmaps, patterns and technologies to
+  emerging issues, strategies, roadmaps, patterns, and technologies to
   assess opportunities and risks, and identify how other teams contribute
   to delivering outcomes.
 

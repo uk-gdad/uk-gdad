@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -204,7 +204,7 @@ strengthen relationships, adopting the appropriate communication method with
 stakeholders at all levels, to manage stakeholder expectations and moderate
 difficult discussions about high risk and complex topics even within
 constrained timescales, and to speak on behalf of, and represent the
-community to, large audiences inside and outside the organisation.
+community to, large audiences inside, and outside the organisation.
 
 **Baseline for this role level**
 
@@ -251,7 +251,7 @@ communicate business-value propositions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Practitioner. "Negotiate, influence or set budgets in complex
+Baseline: 3 — Practitioner. "Negotiate, influence, or set budgets in complex
 environments" and writing business cases describes independent financial
 judgement exercised with real weight, a clear step up from monitoring and
 reporting on a budget someone else set.
@@ -261,7 +261,7 @@ reporting on a budget someone else set.
 - 1 — Awareness: Monitors and reports on a budget set by someone else.
 - 2 — Working: Balances cost against value in day-to-day delivery
   decisions.
-- 3 — Practitioner: Negotiates, influences or sets a budget in a complex
+- 3 — Practitioner: Negotiates, influences, or sets a budget in a complex
   environment, and writes or contributes meaningfully to a business case,
   communicating the business-value proposition clearly.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -478,7 +478,7 @@ development cycle.
 
 **Baseline for this role level**
 
-Baseline: 3 — Practitioner. Identifying, rectifying and using structured tools
+Baseline: 3 — Practitioner. Identifying, rectifying, and using structured tools
 such as health checks to diagnose team dynamics describes a strong,
 independent grasp of the skill applied within someone's own teams,
 though the framework does not yet describe this level as coaching the whole
@@ -558,7 +558,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

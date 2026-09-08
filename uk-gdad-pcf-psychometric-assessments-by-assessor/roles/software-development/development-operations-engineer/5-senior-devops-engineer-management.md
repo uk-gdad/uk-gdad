@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -220,7 +220,7 @@ For a senior DevOps engineer on the management track, numeric reasoning is the d
 
 ### How this assessment maps to the role
 
-- **Percentages and rates** map to **Availability and capacity management**: availability targets, utilisation percentages, growth rates and error rates.
+- **Percentages and rates** map to **Availability and capacity management**: availability targets, utilisation percentages, growth rates, and error rates.
 - **Ratios and proportions** map to **Systems design** and **Systems integration**: sizing decisions and efficient use of resources.
 - **Averages and distributions** map to **Development process optimisation**: mean and percentile pipeline durations, and demonstrating that a process change actually improved anything.
 - **Trend reading and projection** map to the duty to plan large groups of stories and to initiate remedial action: forecasting when a disk fills or a memory limit is reached.
@@ -597,7 +597,7 @@ Notice: "A change freeze applies to all citizen-facing services from 18 December
 
 A situational judgement assessment (SJT) presents realistic workplace scenarios and asks the candidate to judge the effectiveness of possible responses. There is rarely a mathematically provable answer; responses are scored against the judgement of experienced practitioners and the behaviours UK government digital organisations value — user focus, collaboration, ownership, appropriate escalation, developing others, and inclusion.
 
-Typical format: 10 to 20 scenarios, often untimed or generously timed. Question styles include picking the most effective response, most and least effective from four options, full ranking, or independent effectiveness ratings.
+Typical format: 10 to 20 scenarios, often untimed, or generously timed. Question styles include picking the most effective response, most and least effective from four options, full ranking, or independent effectiveness ratings.
 
 For a senior DevOps engineer on the management track, situational judgement is arguably the most role-relevant assessment of the four: scenarios are not hypothetical, and in each case the technically correct action and the humanly effective action must be found together, because at this level delivery happens through other people as much as through the candidate's own keyboard.
 

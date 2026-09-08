@@ -1,5 +1,20 @@
 # Senior machine learning engineer - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the senior machine learning engineer
 level, this page is for you: what the role is about, where to find
 everything else this repository has for it, and a pathway for building the
@@ -20,22 +35,7 @@ level, you decide which model genuinely suits a product or service,
 customise, optimise, retrain and maintain existing models, deploy them into
 production while testing and assuring they meet performance requirements,
 work with others to integrate them with existing systems, and check that
-live models stay safe, secure and effective over time.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/machine-learning-engineer/1-senior-machine-learning-engineer/upskilling-resources/): courses, articles, videos and books to work through.
+live models stay safe, secure, and effective over time.
 
 ## Learning pathway
 
@@ -47,7 +47,7 @@ models and systems, which a generic guide never is.
 - [ ] **Design and build to agreed specifications**
 
   Collaborate with others when necessary to review specifications, then
-  use the agreed specifications to design, code, test and document
+  use the agreed specifications to design, code, test, and document
   programs of medium-to-high complexity, using the right standards and
   tools.
 
@@ -72,7 +72,7 @@ models and systems, which a generic guide never is.
   the statistical tools available in your organisation.
 
   Ask AI: "How would a senior machine learning engineer decide whether
-  time series analysis, optimisation or simulation fits a given
+  time series analysis, optimisation, or simulation fits a given
   prediction problem?"
 
 - [ ] **Demonstrate practical knowledge, and spot opportunities to improve**

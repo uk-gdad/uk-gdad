@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -251,7 +251,7 @@ For a problem manager, numbers are the argument. Which problem gets investigated
 
 - **Trend and recurrence arithmetic** maps to **Problem management**: investigating patterns and trends, and demonstrating that preventive measures worked.
 - **Impact and cost quantification** maps to **Problem management** and **Ownership and initiative**: the case for each fix rests on cost-of-fault versus cost-of-fix arithmetic done honestly.
-- **KPI and availability figures** maps to **Availability and capacity management**: fluent conversion between percentages, hours and thresholds.
+- **KPI and availability figures** maps to **Availability and capacity management**: fluent conversion between percentages, hours, and thresholds.
 - **Weighted combination across services** maps to **Service focus**: combining unequal figures correctly, weighted, never naively averaged.
 - **Change and schedule arithmetic** maps to **Change management**: computing windows, durations, and clashes.
 - **User-impact data** maps to **User focus**: quantitative data about who is affected, how often, how badly.
@@ -861,4 +861,4 @@ The thread running through all four sections is evidence discipline, honest arit
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can resolve a situation, protect the honest record, and strengthen the system that will face the situation's successor — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can resolve a situation, protect the honest record, and strengthen the system that will face the situation's successor — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

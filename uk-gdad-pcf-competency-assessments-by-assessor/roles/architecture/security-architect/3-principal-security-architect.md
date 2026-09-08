@@ -23,7 +23,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -444,7 +444,7 @@ not just the attempt.
 - 3 — Practitioner: Independently challenges a policy or process and secures a
   change, though not yet at organisational scale.
 - 4 — Expert: Leads changes to policy and process at organisational or
-  inter-organisational scale, balancing legal, political and business-
+  inter-organisational scale, balancing legal, political, and business-
   architecture implications.
 
 **Evidence to gather**
@@ -455,7 +455,7 @@ not just the attempt.
 - A portfolio item: a policy or process document the candidate authored or
   materially changed.
 - A reference question: "Has this person changed how the organisation, or a
-  wider group of organisations, handles a policy or process?"
+  wider group of organisations, handles a policy, or process?"
 
 **Rate this skill**
 

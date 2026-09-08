@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -324,7 +324,7 @@ level, not for managing a product or service through a phase.
 
 An associate delivery manager is expected to actively address internal risks
 and issues and know when to escalate them, to set the team cadence and tempo
-ensuring it is sustainable, to track, manage, escalate and communicate
+ensuring it is sustainable, to track, manage, escalate, and communicate
 dependencies, to actively remove or minimise risks, issues or dependencies
 where possible, and to understand how risks, issues or dependencies impact
 the work of a team.

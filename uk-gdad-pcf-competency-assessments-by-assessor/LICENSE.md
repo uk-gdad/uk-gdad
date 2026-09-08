@@ -16,7 +16,7 @@ The documents are AI-assisted with human review, and unvalidated; see
 
 The competency assessments are not a validated instrument: not piloted, not
 normed, and not checked for adverse impact. A rating on one of them must never
-be the sole basis for a hiring, promotion, pay, performance or disciplinary
+be the sole basis for a hiring, promotion, pay, performance, or disciplinary
 decision. Anyone republishing them **shall** carry that advisory with them.
 
 Part of the [UK GDAD PCF monorepo](../README.md), which is licensed under the

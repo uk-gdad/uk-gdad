@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -325,7 +325,7 @@ standard-setting expected further up the ladder.
 **What the framework expects at this level**
 
 A Developer collaborates with others when necessary to review specifications,
-and uses the agreed specifications to design, code, test and document programs
+and uses the agreed specifications to design, code, test, and document programs
 or scripts of medium-to-high complexity, using the right standards and tools.
 
 **Baseline for this role level**
@@ -343,13 +343,13 @@ substantial pieces of work, which is the definition of Practitioner on this scal
 - 2 — Working: Implements a specification for a moderately complex
   component with some guidance, and writes tests and documentation to a basic
   but adequate standard.
-- 3 — Practitioner: Independently designs, codes, tests and documents a component
+- 3 — Practitioner: Independently designs, codes, tests, and documents a component
   of medium-to-high complexity from an agreed specification, choosing
   appropriate standards and tools, and raises sensible questions when the
   specification itself is unclear or incomplete.
 - 4 — Expert: Takes on the most complex components in the team's backlog,
   sets the technical approach others follow, and reviews and improves other
-  developers' designs, code, tests and documentation.
+  developers' designs, code, tests, and documentation.
 
 **Evidence to gather**
 
@@ -664,7 +664,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

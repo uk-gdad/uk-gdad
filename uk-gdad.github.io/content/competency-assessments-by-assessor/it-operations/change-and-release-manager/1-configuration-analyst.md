@@ -8,7 +8,7 @@ The competency matrix below turns the framework's own description of this role l
 
 ## Advisory
 
-This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## How to use this assessment
 
@@ -86,7 +86,7 @@ Baseline: 1 — Awareness. The verb here is "explain", a knowledge-level expecta
 
 **Behavioural indicators**
 
-- 1 — Awareness: Can explain, in general terms, what availability and capacity management processes cover.
+- 1 — Awareness: Can explain, in general terms, what availability, and capacity management processes cover.
 - 2 — Working: Connects those processes to specific examples from their own work.
 - 3 — Practitioner: Applies availability and capacity concepts independently in day-to-day work.
 - 4 — Expert: Teaches others how these processes work.

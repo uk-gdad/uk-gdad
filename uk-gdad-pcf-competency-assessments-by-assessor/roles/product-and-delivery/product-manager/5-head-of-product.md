@@ -18,7 +18,7 @@ whole-community responsibility, not whether they show promise for it.
 
 Use it as one input among several — alongside a CV or portfolio, a
 structured interview, a work sample, direct observation or references —
-never as the whole of a hiring, promotion, pay, performance or disciplinary
+never as the whole of a hiring, promotion, pay, performance, or disciplinary
 decision on its own. Read `## Advisory` before you start.
 
 ## Advisory
@@ -28,7 +28,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -281,7 +281,7 @@ others about a business case rather than owning one.
   product's life cycle, and coaches one or two other product managers on
   value-for-money thinking.
 - 4 — Expert: Has built the organisation's approach to demonstrating
-  value-for-money through product strategy, owns and defends a business
+  value-for-money through product strategy, owns, and defends a business
   case at the most senior level, and has empowered multiple teams to make
   their own value-based trade-offs confidently.
 
@@ -309,7 +309,7 @@ others about a business case rather than owning one.
 
 A head of product leads and coaches teams through different phases of the
 product life cycle, ensures effective support for the product or service
-and its users, predicts, prevents, mitigates and manages potential risks at
+and its users, predicts, prevents, mitigates, and manages potential risks at
 different phases of that life cycle, and contributes to the assessment of
 other teams, providing guidance and support.
 
@@ -360,8 +360,8 @@ supports it.
 
 A head of product uses data to make prioritisation decisions for multiple
 or complex projects, products or services, uses data to influence the
-priorities of senior stakeholders, guides and challenges teams to make
-better use of data, guides and challenges teams to demonstrate achievement
+priorities of senior stakeholders, guides, and challenges teams to make
+better use of data, guides, and challenges teams to demonstrate achievement
 of outcomes, and identifies opportunities to share and connect product data
 across government.
 
@@ -560,14 +560,14 @@ mastery at that scale.
 
 A head of product supports and coaches others in creating and implementing
 a successful long-term strategy and tactical approach that others agree
-with, influences and persuades stakeholders to support delivery of the
+with, influences, and persuades stakeholders to support delivery of the
 strategy, supports strategic decision making, and ensures strategic
 alignment across the organisation.
 
 **Baseline for this role level**
 
 Baseline: 3 — Practitioner. The framework's own wording at this level, as at
-lead product manager, describes supporting and coaching others toward
+lead product manager, describes supporting, and coaching others toward
 strategy rather than personally owning or setting it — strong, independent
 contribution and organisation-wide alignment-checking, but the text stops
 short of naming this skill as the seat of the role's authority the way

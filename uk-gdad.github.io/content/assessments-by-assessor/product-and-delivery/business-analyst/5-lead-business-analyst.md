@@ -17,7 +17,7 @@ Each section explains what the assessment measures and why it matters at this le
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -433,7 +433,7 @@ Present each passage and its questions in order. Instruct the candidate to answe
 
 *Passage 1 (for Questions 1–5)*
 
-"Departments may adopt the shared casework platform on either the standard or the enhanced tier. The standard tier includes hosting, maintenance and quarterly releases. The enhanced tier additionally includes a dedicated integration team and monthly releases. Departments adopting either tier must complete a data protection impact assessment before migration and must nominate a senior responsible owner. Requests for functionality changes are considered by the cross-government design board, which meets monthly; the board prioritises requests that benefit multiple departments. A department may exit the platform with six months' notice, provided all data extraction obligations in Schedule 4 are met. Nothing in this agreement transfers statutory accountability for casework decisions from the adopting department to the platform provider."
+"Departments may adopt the shared casework platform on either the standard or the enhanced tier. The standard tier includes hosting, maintenance, and quarterly releases. The enhanced tier additionally includes a dedicated integration team and monthly releases. Departments adopting either tier must complete a data protection impact assessment before migration and must nominate a senior responsible owner. Requests for functionality changes are considered by the cross-government design board, which meets monthly; the board prioritises requests that benefit multiple departments. A department may exit the platform with six months' notice, provided all data extraction obligations in Schedule 4 are met. Nothing in this agreement transfers statutory accountability for casework decisions from the adopting department to the platform provider."
 
 **Question 1 (easy)**
 
@@ -814,4 +814,4 @@ The cognitive section tested reconciling contradictory programme models and cont
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can reason precisely at enterprise scale, handle numbers that reach investment committees, read governance documents exactly, and exercise leadership judgement through others and upward — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can reason precisely at enterprise scale, handle numbers that reach investment committees, read governance documents exactly, and exercise leadership judgement through others and upward — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

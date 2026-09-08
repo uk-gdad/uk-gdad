@@ -29,7 +29,7 @@ and judgement through practice items rather than demonstrated skill.
 Unlike most projects here, this one is not drafted fresh from the role
 summary — it is produced by transforming
 [`uk-gdad-pcf-competency-assessments-by-assessor`](../uk-gdad-pcf-competency-assessments-by-assessor)'s
-existing matrix for the same slug. The skill list, the baseline points and the
+existing matrix for the same slug. The skill list, the baseline points, and the
 behavioural indicators carry over unchanged, because the framework's own
 description of a role level does not depend on who is holding the pen. What
 changes is voice: anything written to an assessor about "the candidate" is

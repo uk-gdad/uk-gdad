@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -70,7 +70,7 @@ Calibrate against evidence like this before you start scoring.
 ## About this role level
 
 IT operations role: Infrastructure operations engineer. An infrastructure
-operations engineer supports, manages and maintains the core infrastructure
+operations engineer supports, manages, and maintains the core infrastructure
 that underpins production services.
 
 The role has five levels, in order: associate infrastructure operations
@@ -234,7 +234,7 @@ actioning changes, is ownership at a scale that fits full mastery — someone ot
 
 **What the framework expects at this level**
 
-A lead infrastructure operations engineer interacts with, reads and writes
+A lead infrastructure operations engineer interacts with, reads, and writes
 code, and carries out baseline repair activities.
 
 **Baseline for this role level**
@@ -491,7 +491,7 @@ widening of the skill that supports an Practitioner baseline.
 **What the framework expects at this level**
 
 A lead infrastructure operations engineer drafts and maintains procedures and
-documentation, and sets standards for the definition, security and integrity
+documentation, and sets standards for the definition, security, and integrity
 of objects, ensuring conformity to these standards.
 
 **Baseline for this role level**
@@ -507,7 +507,7 @@ the standard-setting definition of Expert on this scale.
   reviewing it.
 - 3 — Practitioner: drafts and maintains procedures and documentation
   independently, and checks conformity to existing standards.
-- 4 — Expert: sets the standards for the definition, security and integrity
+- 4 — Expert: sets the standards for the definition, security, and integrity
   of objects that others must conform to, and is the escalation point when
   conformity is in doubt.
 
@@ -598,7 +598,7 @@ scale's own definition of Expert.
   that to resolve issues well.
 - 3 — Practitioner: champions user research and can explain, to a colleague, the
   difference between what a user asks for and what they need.
-- 4 — Expert: represents users internally, prioritises and defines the
+- 4 — Expert: represents users internally, prioritises, and defines the
   approach to the user story, guides colleagues through it, and recommends
   which tools or methods the team should use.
 
@@ -668,7 +668,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

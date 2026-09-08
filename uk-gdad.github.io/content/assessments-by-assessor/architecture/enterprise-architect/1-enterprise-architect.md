@@ -19,7 +19,7 @@ How should you use this document? Administer the same items and the same time li
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -815,7 +815,7 @@ Looking back at Passage A (the architecture principles extract), which of the fo
 
 ### About this assessment
 
-A workplace job-specific situational judgement assessment evaluates a candidate's decision-making, interpersonal skill and professional conduct through realistic workplace dilemmas. Unlike logic or numeric tests, there is often no single objectively right answer: several responses may seem reasonable, but one aligns best with the organisation's values and the demands of the role. For an enterprise architect in UK government, that alignment means the values of the public sector digital profession: user needs first, transparency, collaboration across boundaries, accessibility and inclusion, and stewardship of public money.
+A workplace job-specific situational judgement assessment evaluates a candidate's decision-making, interpersonal skill, and professional conduct through realistic workplace dilemmas. Unlike logic or numeric tests, there is often no single objectively right answer: several responses may seem reasonable, but one aligns best with the organisation's values and the demands of the role. For an enterprise architect in UK government, that alignment means the values of the public sector digital profession: user needs first, transparency, collaboration across boundaries, accessibility and inclusion, and stewardship of public money.
 
 Typical format and timing: each item presents a short scenario — a conflict, an ethical dilemma, or an operational challenge — followed by three to five possible responses. Ask the candidate to select the **most effective** and **least effective** actions, or to rank or rate every option from best to worst. Timing is generous or absent: the assessment measures a candidate's natural judgement, not their speed. Score by comparing the candidate's choices with those of experienced practitioners and with the organisation's competency framework.
 

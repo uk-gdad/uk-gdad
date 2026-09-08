@@ -8,9 +8,9 @@ baseline expected of a senior user researcher. It is not for the person being
 assessed to complete about themselves.
 
 Senior user researcher is the fourth of six levels in the user researcher role.
-User researchers plan, design and carry out research activities with users
+User researchers plan, design, and carry out research activities with users
 that help teams get a deep understanding of the people who use government
-services, so that policy, proposition, service, content and interaction design
+services, so that policy, proposition, service, content, and interaction design
 work well for users and achieve policy intent. A senior user researcher is an
 experienced practitioner who plans and leads research activities in larger
 teams and on more complex services, builds user-centred practices in teams
@@ -26,7 +26,7 @@ here must never be the only evidence a decision is based on. See
 
 ## Advisory
 
-This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This competency assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a rating on this form must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## How to use this assessment
 

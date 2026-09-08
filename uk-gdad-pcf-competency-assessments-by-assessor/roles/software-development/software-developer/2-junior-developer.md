@@ -22,7 +22,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -82,7 +82,7 @@ two junior developer candidates, both of whom have written code before.
   senior developer at natural points — for example, to confirm an
   assumption. That is **2 — Working**: they can perform the task with
   some guidance, rather than needing to be walked through it.
-- A candidate who could design, code, test and document a simple component
+- A candidate who could design, code, test, and document a simple component
   with only occasional check-ins, producing documentation someone else could
   pick up unaided, would be **3 — Practitioner** — beyond what this role level's
   baseline requires, but worth noting if you see it.
@@ -302,7 +302,7 @@ single small task, not as a higher scale point here.
 - 2 — Working: Breaks a simple, well-defined task into steps
   themselves, writes code, tests it and corrects it, checking in with a more
   senior developer at natural points rather than needing constant direction.
-- 3 — Practitioner: Designs, codes, tests and documents a simple component with
+- 3 — Practitioner: Designs, codes, tests, and documents a simple component with
   only occasional check-ins, and the documentation is clear enough for
   someone else to pick up.
 - 4 — Expert: Is trusted to take on a small, simple piece of work end-to-end

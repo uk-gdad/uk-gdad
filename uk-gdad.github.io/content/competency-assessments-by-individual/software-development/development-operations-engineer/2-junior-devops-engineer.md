@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -235,7 +235,7 @@ the level's "assist in the building of a complex story" accountability.
 
 - 1 — Awareness: can follow step-by-step direction to write a very small piece
   of code, with heavy support.
-- 2 — Working: can design, code, test, correct and document a simple
+- 2 — Working: can design, code, test, correct, and document a simple
   script or program under general direction, needing occasional guidance.
 - 3 — Practitioner: can do the same work with minimal direction, and helps
   correct a peer's simple mistakes.
@@ -498,7 +498,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

@@ -14,7 +14,7 @@ At this level, the items are calibrated for the analyst level. A candidate is no
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -587,7 +587,7 @@ A summary of the email's IT actions is needed for a team huddle, in one sentence
 
 **Correct answer: B**
 
-**Explanation:** A good operational summary preserves every fact a team must act on, and nothing else. Option B keeps all five action-bearing facts: the volume, the window, the SLA, the accessibility constraint, and the Wi-Fi workaround. Option A is too vague to plan from. Option C invents a delay the email never mentions. Option D drops the second week, the accessibility requirement and the Wi-Fi workaround. This tests summarising — a core analyst skill, since ticket notes and handovers are summaries, and the test of a good one is that a colleague could act on it without reading the original.
+**Explanation:** A good operational summary preserves every fact a team must act on, and nothing else. Option B keeps all five action-bearing facts: the volume, the window, the SLA, the accessibility constraint, and the Wi-Fi workaround. Option A is too vague to plan from. Option C invents a delay the email never mentions. Option D drops the second week, the accessibility requirement, and the Wi-Fi workaround. This tests summarising — a core analyst skill, since ticket notes and handovers are summaries, and the test of a good one is that a colleague could act on it without reading the original.
 
 For Questions 9 to 11, the candidate reads this passage.
 
@@ -721,7 +721,7 @@ It is a busy Monday. One analyst's own queue is under control, but a newer colle
 
 **Correct answer: B**
 
-**Explanation:** The role description states explicitly: work independently, *share information and assist others*. Option B does both halves well: practical help now, plus a discreet flag to the person who can rebalance workload properly. Option A rationalises inaction. Option C helps publicly, in a way that embarrasses the colleague. Option D undermines the colleague's development and the helper's own SLAs. This tests collaboration and inclusion — supporting a colleague in a way they can accept with dignity.
+**Explanation:** The role description states explicitly: work independently, *share information, and assist others*. Option B does both halves well: practical help now, plus a discreet flag to the person who can rebalance workload properly. Option A rationalises inaction. Option C helps publicly, in a way that embarrasses the colleague. Option D undermines the colleague's development and the helper's own SLAs. This tests collaboration and inclusion — supporting a colleague in a way they can accept with dignity.
 
 **Question 4 (moderate) — A mistake made**
 
@@ -873,4 +873,4 @@ The thread running through all four sections is careful attention, honest reason
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can resolve a situation, protect the honest record, and treat users well under pressure — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can resolve a situation, protect the honest record, and treat users well under pressure — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

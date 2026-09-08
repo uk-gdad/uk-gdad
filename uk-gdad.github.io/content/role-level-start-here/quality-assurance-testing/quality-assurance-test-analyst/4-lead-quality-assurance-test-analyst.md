@@ -1,5 +1,20 @@
 # Lead quality assurance test analyst - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the lead quality assurance test analyst
 level, this page is for you: what the role expects, where to find everything
 else this repository has for it, and a pathway for building the skills it
@@ -17,21 +32,6 @@ and coach other analysts, and negotiate and escalate the risks and defects
 that are too significant for any one team to own alone. Where a senior
 analyst makes a defined area stronger, a lead analyst makes the practice
 itself better, for people they may never work with directly.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -63,7 +63,7 @@ a standard you're about to set, not to set it for you.
 - [ ] **Make the strategic calls on test types and techniques**
 
   Set standards and influence organisational decisions on test types,
-  techniques, design and execution; coach others in them; advocate for their
+  techniques, design, and execution; coach others in them; advocate for their
   continuous improvement; and make the strategic decisions about new or
   improved approaches used in your area.
 

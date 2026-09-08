@@ -6,7 +6,7 @@ This guide is for you: an assessor — a line manager, a panel member or a revie
 
 Psychometric assessments are structured, standardised exercises that measure the everyday thinking a particular job actually uses. For an associate interaction designer that means checking a screen against a pattern and spotting where it diverges, noticing that a form asks two questions in one field, working out what a set of numbers about a page is really telling you, reading a design standard carefully and applying it, and making sensible decisions when something in a critique or a build conversation goes sideways.
 
-An associate interaction designer is a trainee in an entry-level position, working under supervision, expected to show design aptitude, potential and an understanding of the role. Nobody at this level is expected to have designed a complex journey or created a new pattern for the Design System — what is being tested is exactly what the role summary names: aptitude, potential, and understanding. Every rule, definition and figure needed appears inside the question; nothing needs to be memorised.
+An associate interaction designer is a trainee in an entry-level position, working under supervision, expected to show design aptitude, potential and an understanding of the role. Nobody at this level is expected to have designed a complex journey or created a new pattern for the Design System — what is being tested is exactly what the role summary names: aptitude, potential, and understanding. Every rule, definition, and figure needed appears inside the question; nothing needs to be memorised.
 
 Interaction design operates at two scales at once: the overall flow — what order the questions come in, when to split a page, what happens when someone goes back — and individual elements — the label on a field, the wording of an error, whether something should be a radio group or a checkbox. Moving fluently between those two scales, and noticing when a decision at one level breaks something at the other, is a large part of the craft, and a surprising amount of what this material measures is exactly that habit.
 
@@ -16,7 +16,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -193,7 +193,7 @@ A designer proposes replacing a set of six radio buttons with a custom filtering
 
 **Correct answer: B**
 
-**Explanation:** Filtering earns its complexity when a list is long enough that scanning it is genuinely burdensome; with six options everything is visible at once and filtering saves nobody meaningful effort, while a custom component must be built and maintained to work across keyboard, assistive technology, voice control and zoom. This tests weighing both sides and naming the mechanism — option A weighs one group's marginal convenience against another group's ability to use the service at all, and option C treats testing as a substitute for the design decision rather than a check on it.
+**Explanation:** Filtering earns its complexity when a list is long enough that scanning it is genuinely burdensome; with six options everything is visible at once and filtering saves nobody meaningful effort, while a custom component must be built and maintained to work across keyboard, assistive technology, voice control, and zoom. This tests weighing both sides and naming the mechanism — option A weighs one group's marginal convenience against another group's ability to use the service at all, and option C treats testing as a substitute for the design decision rather than a check on it.
 
 ### Administration tips
 

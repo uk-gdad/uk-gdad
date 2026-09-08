@@ -12,7 +12,7 @@ A senior developer (management) plans and leads development on sets of related
 stories, holds and teaches an understanding of the whole system, works across
 disciplines to define what gets built, coaches and mentors more junior
 colleagues, operates the production services the team builds, and looks for
-ways to improve system robustness, resilience and stability. This is the
+ways to improve system robustness, resilience, and stability. This is the
 management track at this seniority: alongside doing the technical work, the
 person in this role is accountable for the standards and the people around
 them, not only for their own output.
@@ -482,7 +482,7 @@ something done with a colleague looking over their shoulder.
   but needs help locating the cause.
 - 2 — Working: Identifies and locates common, previously-seen faults with
   some support, and fixes them correctly.
-- 3 — Practitioner: Independently identifies, locates and fixes faults in
+- 3 — Practitioner: Independently identifies, locates, and fixes faults in
   production services, including ones they have not seen before, working from
   symptoms through to root cause.
 - 4 — Expert: Diagnoses the hardest, most ambiguous faults in the service, and

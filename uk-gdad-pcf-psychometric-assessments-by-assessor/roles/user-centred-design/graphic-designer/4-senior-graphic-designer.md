@@ -14,7 +14,7 @@ Each of the four sections that follow presents an overview of what it measures a
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -47,7 +47,7 @@ A design system uses a spacing scale based on multiples of a 4px base unit, doub
 
 **Correct answer: C**
 
-**Explanation:** 16, 8, 32 and 4 all appear on the scale; 12px sits between `space-2` and `space-3` and belongs to no named token. This tests reading the rule first, then testing every item against it mechanically — a single off-scale value looks harmless once but becomes a precedent once shipped, and the scale's whole purpose, predictable rhythm and fewer arbitrary decisions, erodes with each one.
+**Explanation:** 16, 8, 32, and 4 all appear on the scale; 12px sits between `space-2` and `space-3` and belongs to no named token. This tests reading the rule first, then testing every item against it mechanically — a single off-scale value looks harmless once but becomes a precedent once shipped, and the scale's whole purpose, predictable rhythm and fewer arbitrary decisions, erodes with each one.
 
 **Question 2 (easy) — Logical deduction from an accessibility rule**
 
@@ -214,7 +214,7 @@ Accessibility audit findings, engineering capacity for two fixes this sprint: (1
 
 A numeric reasoning assessment measures how accurately a candidate interprets, manipulates and draws sound conclusions from numerical information of the kind this role genuinely produces and consumes. Not a mathematics exam — the arithmetic rarely goes beyond percentages, ratios, averages, rates, and proportions. What it tests is whether a candidate reads a table or chart accurately, selects the right operation, executes it without slips, and resists conclusions the numbers do not support.
 
-Typical format: a timed online test of 20 to 40 minutes with 15 to 25 questions, each based on a data table, chart, or short numerical scenario, calculators usually permitted. For design roles, the data used includes usability testing results, accessibility metrics, research sample breakdowns, survey scores, task completion and error rates, file sizes and performance budgets, and, at senior level, capacity and cost figures.
+Typical format: a timed online test of 20 to 40 minutes with 15 to 25 questions, each based on a data table, chart, or short numerical scenario, calculators usually permitted. For design roles, the data used includes usability testing results, accessibility metrics, research sample breakdowns, survey scores, task completion and error rates, file sizes and performance budgets, and, at senior level, capacity, and cost figures.
 
 A senior designer who misreads a percentage-point change as a percentage change, or who averages averages without weighting, will build consensus around the wrong conclusion — persuasively. Numeric reasoning assessment checks that the person guiding a team's interpretation of evidence can be trusted with the numbers.
 
@@ -425,7 +425,7 @@ Three things matter particularly: accessibility regulation attaches obligations 
 - **Reading governance and authority** maps to **Leading design** and building consensus around an approach.
 - **Reading research precisely** maps to **Evidence-based design** and making decisions based on research.
 - **Reading strategy and policy** maps to **Designing strategically**.
-- **Documenting decisions and risks** maps to **Design communication**: documenting decisions, related risks and unresolved issues.
+- **Documenting decisions and risks** maps to **Design communication**: documenting decisions, related risks, and unresolved issues.
 - **Reading collaboratively** maps to **Designing together**.
 
 ### Practice questions

@@ -1,24 +1,6 @@
 # Senior data architect - start here
 
-Welcome. If you are working toward the senior data architect level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the skills it asks for.
-
-## Purpose
-
-A senior data architect delivers the vision for the organisation as set by
-the chief data architect — turning organisational intent into models,
-standards and oversight that other architects can actually work to. You
-design data models and metadata systems, help chief data architects
-interpret the organisation's needs, provide oversight and advice to other
-data architects producing data artefacts, design and support the management
-of data dictionaries, make sure your teams work to the standards the chief
-data architect has set, and work with technical architects so systems are
-designed in line with the right data architecture. Nearly every named skill
-grows at this level, because you're now responsible for other architects'
-work, not just your own.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -31,7 +13,25 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/architecture/data-architect/2-senior-data-architect/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/architecture/data-architect/2-senior-data-architect/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/architecture/data-architect/2-senior-data-architect/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/architecture/data-architect/2-senior-data-architect/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the senior data architect level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the skills it asks for.
+
+## Purpose
+
+A senior data architect delivers the vision for the organisation as set by
+the chief data architect — turning organisational intent into models,
+standards and oversight that other architects can actually work to. You
+design data models and metadata systems, help chief data architects
+interpret the organisation's needs, provide oversight, and advice to other
+data architects producing data artefacts, design and support the management
+of data dictionaries, make sure your teams work to the standards the chief
+data architect has set, and work with technical architects so systems are
+designed in line with the right data architecture. Nearly every named skill
+grows at this level, because you're now responsible for other architects'
+work, not just your own.
 
 ## Learning pathway
 

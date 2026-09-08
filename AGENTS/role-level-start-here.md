@@ -18,15 +18,11 @@ requires all 205 from it, exactly as it does from them. See the root
 
 Title `# <Level> - start here`, then three `##` sections:
 
-`Purpose` · `Explore the framework` · `Learning pathway`
+`Start here` · `Purpose` · `Learning pathway`
 
-## Purpose
+An untitled Welcome paragraph follows the title, before `## Start here`.
 
-One paragraph. Inspirational and motivational, but grounded in what this
-specific role level actually does — its accountabilities and its skills, not a
-generic "you'll make a difference" line that could sit on any level's page.
-
-## Explore the framework
+## Start here
 
 Nine links, to the sibling page for this exact role level on each of:
 
@@ -44,7 +40,14 @@ Nine links, to the sibling page for this exact role level on each of:
 Link with the absolute website URL, not a relative `.md` path — this document
 is a signpost to the published site, and it names the site explicitly per its
 own spec. See `uk-gdad.github.io/spec/index.md` § URLs for the path shape per
-document kind.
+document kind. This section comes first, immediately after the title and
+before the Welcome paragraph.
+
+## Purpose
+
+One paragraph. Inspirational and motivational, but grounded in what this
+specific role level actually does — its accountabilities and its skills, not a
+generic "you'll make a difference" line that could sit on any level's page.
 
 ## Learning pathway
 

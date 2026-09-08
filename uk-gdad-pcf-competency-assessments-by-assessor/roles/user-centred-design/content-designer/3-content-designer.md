@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -343,7 +343,7 @@ findings, not just applying someone else's research.
 - 2 — Working: Identifies a task that would give insight into a
   problem, and uses quantitative or qualitative data with some support to
   reach a decision.
-- 3 — Practitioner: Formulates a hypothesis, gathers or draws on user research
+- 3 — Practitioner: Formulates a hypothesis, gathers, or draws on user research
   to test it, makes a content decision from the findings, and translates a
   user story into content that meets the need it describes.
 - 4 — Expert: Champions user research to focus on all users and evaluates
@@ -389,7 +389,7 @@ management is important; and work autonomously.
 
 Baseline: 3 — Practitioner. This block's own text is explicit — "work
 autonomously" — and every other bullet describes robust, independent,
-end-to-end practice: designing, writing, publishing and evaluating content
+end-to-end practice: designing, writing, publishing, and evaluating content
 without support. This is the clearest single statement in the whole role of
 what full practitioner competence looks like.
 

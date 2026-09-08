@@ -19,11 +19,11 @@ Each section follows the same pattern: an overview of what the assessment measur
 
 **Administer it fairly.** Use the same items and the same time limit for every candidate you assess for this role level. Do not let a candidate see the worked explanations before they answer, and hold the answer key back until scoring is complete. Each item carries a rough difficulty and time allowance to help you plan a session; the four sections together typically run 60 to 100 minutes if administered in full, so you may wish to split them across more than one sitting for a junior candidate. After scoring, debrief the candidate: explain what a strong answer looked like and where theirs differed, since this level of candidate benefits particularly from specific, encouraging feedback.
 
-Treat this as one input among several. A result from this material should sit alongside a structured interview, a work sample, and reference information — never as the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Read the advisory below before you use it.
+Treat this as one input among several. A result from this material should sit alongside a structured interview, a work sample, and reference information — never as the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Read the advisory below before you use it.
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -390,7 +390,7 @@ On Monday the project had 25 open defects. By Friday it had 18. By what percenta
 
 **Question 8 (moderate) — Reading a two-way results table**
 
-Regression run results, split by area and outcome:
+Regression run results, split by area, and outcome:
 
 | Area | Passed | Failed | Blocked |
 |---|---|---|---|
@@ -892,7 +892,7 @@ Along the way, a candidate is asked to demonstrate the four families of thinking
 
 **Debrief.** This level of candidate benefits particularly from a specific, encouraging debrief: where their reasoning matched a strong candidate's answer, and where it did not, using the explanations as your script. A good debrief names what was strong as well as what needs development — an associate candidate is, by definition, early in their career, and an unexplained low score teaches them nothing. If the candidate is unsuccessful, this material also gives them something concrete to develop.
 
-**Records and consistency.** Keep the completed answer sheet, your scoring notes, and the items used on file, in line with your organisation's recruitment record-keeping policy, and administer the same items and time limits to every candidate for this role level in a given process. Treat this assessment as one input among several: combine it with a structured interview, a work sample, and reference information, and never let it stand alone as the basis for a hiring, promotion, pay, performance or disciplinary decision.
+**Records and consistency.** Keep the completed answer sheet, your scoring notes, and the items used on file, in line with your organisation's recruitment record-keeping policy, and administer the same items and time limits to every candidate for this role level in a given process. Treat this assessment as one input among several: combine it with a structured interview, a work sample, and reference information, and never let it stand alone as the basis for a hiring, promotion, pay, performance, or disciplinary decision.
 
 ---
 

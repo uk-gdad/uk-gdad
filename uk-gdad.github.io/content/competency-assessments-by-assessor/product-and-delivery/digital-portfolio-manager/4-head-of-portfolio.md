@@ -24,7 +24,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -278,7 +278,7 @@ built.
 
 A head of portfolio should understand the environment and prioritise the
 highest-value tasks, use data to inform planning, manage complex internal and
-external dependencies, provide delivery confidence, remove blockers or develop
+external dependencies, provide delivery confidence, remove blockers, or develop
 a plan for difficult situations, and ensure teams plan appropriately for their
 capacity.
 

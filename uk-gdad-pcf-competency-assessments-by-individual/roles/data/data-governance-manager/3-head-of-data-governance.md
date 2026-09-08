@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -81,7 +81,7 @@ A data governance manager plans, monitors and enforces the management of an
 organisation's data assets. Across the role, this means cataloguing and
 monitoring data assets essential to the organisation's operations or
 services, assigning clear ownership of data through a RACI (responsible,
-accountable, consulted and informed) matrix, building governance into routine
+accountable, consulted, and informed) matrix, building governance into routine
 processes, supporting or managing data risk processes, advocating for better
 use and management of data, and encouraging better data literacy across the
 organisation.
@@ -230,7 +230,7 @@ not asked to do.
 **What the framework expects at this level**
 
 At this level, someone oversees compliance with data ethics standards and
-legislation across the organisation; develops, manages and continuously
+legislation across the organisation; develops, manages, and continuously
 improves an ethical framework within their area; develops a data ethics
 culture and influences others to act on it; and makes sure data ethics is
 applied properly when policies and programmes are formulated, implemented and
@@ -498,7 +498,7 @@ expert-level ownership accountability.
   guidance on scaling to the wider organisation.
 - 3 — Practitioner: Champions and leads data management and governance processes
   across a significant part of the organisation, largely independently.
-- 4 — Expert: Defines data management responsibilities, tools and training
+- 4 — Expert: Defines data management responsibilities, tools, and training
   requirements at organisational scale, and can point to a continuous
   improvement they enabled that measurably lifted compliance with data
   governance policies.
@@ -805,7 +805,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

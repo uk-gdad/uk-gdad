@@ -27,7 +27,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -134,7 +134,7 @@ levels.
 
 - 1 — Awareness: Explains a design problem or idea when prompted, with
   support choosing the right tool or method.
-- 2 — Working: Clearly explains design problems, ideas and decisions
+- 2 — Working: Clearly explains design problems, ideas, and decisions
   to others, choosing an appropriate tool or method — such as an annotated
   mock-up or a short walkthrough — without being told which one to use.
 - 3 — Practitioner: Adapts how a design decision is explained to suit different

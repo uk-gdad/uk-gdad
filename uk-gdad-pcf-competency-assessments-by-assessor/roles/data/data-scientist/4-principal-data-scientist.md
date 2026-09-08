@@ -25,7 +25,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -386,7 +386,7 @@ team and the wider organisation; to talk confidently about the benefits of
 data science approaches to existing and potential customers; and to
 demonstrate a good understanding of a range of data science techniques, such
 as machine learning and natural language processing, using them to build
-solutions including reports, models and dashboards.
+solutions including reports, models, and dashboards.
 
 **Baseline for this role level**
 
@@ -586,7 +586,7 @@ calibration discussion is recommended before the result is finalised.
 
 This assessment gives a structured, evidence-based view of whether a candidate
 or employee meets the baseline expected of a principal data scientist — a
-leader of data science, often managing and developing teams, with broad
+leader of data science, often managing, and developing teams, with broad
 technical knowledge and extensive experience scoping, designing and
 delivering data science outputs. Use the result alongside your organisation's
 own process, never in place of it.

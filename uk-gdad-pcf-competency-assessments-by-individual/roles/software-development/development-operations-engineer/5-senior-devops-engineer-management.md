@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -99,7 +99,7 @@ of stories. At this level, a person is expected to:
 
 These accountabilities are shared with the technical track. What
 distinguishes the management track is how several of this level's skills are
-framed: policy-setting, resourcing and leading a team of experts, rather than
+framed: policy-setting, resourcing, and leading a team of experts, rather than
 personal technical delivery alone. This level names ten skills: Availability
 and capacity management, Development process optimisation, Information
 security, Modern development standards, Programming and build (software
@@ -177,7 +177,7 @@ at this level, and support a strong, independent baseline.
 - 1 — Awareness: contributes to a process improvement led by someone else.
 - 2 — Working: leads a small, well-defined process improvement with
   guidance.
-- 3 — Practitioner: analyses current processes, leads and develops a team of
+- 3 — Practitioner: analyses current processes, leads, and develops a team of
   experts to deliver improvements, and helps set the policy or standards a
   change is implemented against.
 - 4 — Expert: sets development process strategy across more than one team.
@@ -383,7 +383,7 @@ alone.
 **Behavioural indicators**
 
 - 1 — Awareness: locates and fixes a straightforward fault with guidance.
-- 2 — Working: identifies, locates and fixes a service fault
+- 2 — Working: identifies, locates, and fixes a service fault
   independently, for faults of typical difficulty.
 - 3 — Practitioner: does this for less obvious faults and organises how their
   team responds to a wider incident.
@@ -578,7 +578,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

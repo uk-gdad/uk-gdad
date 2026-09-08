@@ -26,7 +26,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -144,7 +144,7 @@ This level names nine skills, assessed in the competency matrix below:
 **What the framework expects at this level**
 
 An associate product manager should demonstrate experience of applying Agile
-principles in practice, provide a clear, open and transparent framework in
+principles in practice, provide a clear, open, and transparent framework in
 which teams can deliver, show an awareness of Agile tools and start to use
 them intelligently, and visualise and make visible the work of the team.
 

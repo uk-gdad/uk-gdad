@@ -1,27 +1,6 @@
 # Head of data science - start here
 
-Welcome. If you are working toward the head of data science level, this
-page is for you: what the role expects, where to find everything else this
-repository has for it, and a pathway for building the areas it names.
-
-## Purpose
-
-The head of data science has complete oversight of data science within
-their organisation — the top of this profession's line. You set direction,
-build capability, oversee resourcing, budgeting, professionalism and
-outputs, support future IT developments, understand and use a wide range of
-data science techniques, lead on ethics, communicate data science and data
-ethics effectively to ministers and senior leaders, champion the role of
-data science in supporting organisational priorities and cross-profession
-working, and represent the department on data science matters. Four skills
-carry the same demanding wording as lead level — applied maths, data
-ethics, delivering business impact, and developing capability — while data
-engineering, data science innovation, programming and understanding product
-delivery read more simply here than at lead level. That's the framework's
-own choice, and it fits the role: at this level, technical depth sits with
-the team you lead, while oversight, direction and representation are yours.
-
-## Explore the framework
+## Start here
 
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
@@ -34,7 +13,28 @@ more depth:
 - [Continuing professional development](https://uk-gdad.github.io/data/data-scientist/6-head-of-data-science/continuing-professional-development/): a checklist for keeping your skills current.
 - [Skills gap form](https://uk-gdad.github.io/data/data-scientist/6-head-of-data-science/skills-gap-form/): a form for comparing what you do now against what this level expects.
 - [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/data-scientist/6-head-of-data-science/upskilling-resources/): courses, articles, videos and books to work through.
+- [Upskilling resources](https://uk-gdad.github.io/data/data-scientist/6-head-of-data-science/upskilling-resources/): courses, articles, videos, and books to work through.
+
+Welcome. If you are working toward the head of data science level, this
+page is for you: what the role expects, where to find everything else this
+repository has for it, and a pathway for building the areas it names.
+
+## Purpose
+
+The head of data science has complete oversight of data science within
+their organisation — the top of this profession's line. You set direction,
+build capability, oversee resourcing, budgeting, professionalism and
+outputs, support future IT developments, understand and use a wide range of
+data science techniques, lead on ethics, communicate data science, and data
+ethics effectively to ministers and senior leaders, champion the role of
+data science in supporting organisational priorities and cross-profession
+working, and represent the department on data science matters. Four skills
+carry the same demanding wording as lead level — applied maths, data
+ethics, delivering business impact, and developing capability — while data
+engineering, data science innovation, programming and understanding product
+delivery read more simply here than at lead level. That's the framework's
+own choice, and it fits the role: at this level, technical depth sits with
+the team you lead, while oversight, direction and representation are yours.
 
 ## Learning pathway
 

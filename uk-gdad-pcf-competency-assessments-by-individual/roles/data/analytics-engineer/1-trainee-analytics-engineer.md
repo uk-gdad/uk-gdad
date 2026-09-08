@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -91,7 +91,7 @@ analytics engineering. This assessment is for the first of them.
 A **trainee analytics engineer** attends training and develops skills on the
 job. At this role level, they will spend time shadowing other analytics
 engineers, build their knowledge of the organisation, learn skills for
-managing data, learn to use different applications, tools, templates and best
+managing data, learn to use different applications, tools, templates, and best
 practices, handle simple queries from users and document their data
 requirements, and contribute to data documentation and user training. It is a
 supervised, learning-first level: the accountabilities are about building
@@ -174,7 +174,7 @@ happen with support and on simple data, so the baseline sits at the scale’s fi
   moderately complex data set and explains it clearly.
 - 3 — Practitioner: Reliably interprets data from multiple related sources and
   distinguishes a genuine insight from noise.
-- 4 — Expert: Synthesises insight across complex, ambiguous data and teaches
+- 4 — Expert: Synthesises insight across complex, ambiguous data, and teaches
   others how to do the same.
 
 **Evidence to gather**
@@ -454,7 +454,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

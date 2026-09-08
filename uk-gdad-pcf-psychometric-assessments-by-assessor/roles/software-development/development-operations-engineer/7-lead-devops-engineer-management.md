@@ -14,7 +14,7 @@ Each of the four sections follows the same pattern: an overview of what it measu
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -243,7 +243,7 @@ A service has a 99.95% availability target over a 30-day month. Ask, to the near
 
 **Question 2 (easy) — Portfolio change failure rate**
 
-Three teams deployed 120, 200 and 80 times last quarter, with change failure rates of 5%, 4%, and 10%. Ask for the total failed changes across the portfolio.
+Three teams deployed 120, 200, and 80 times last quarter, with change failure rates of 5%, 4%, and 10%. Ask for the total failed changes across the portfolio.
 
 - A) 19
 - B) 22
@@ -410,8 +410,8 @@ For a lead DevOps engineer on the management track, verbal precision is a leader
 
 ### How this assessment maps to the role
 
-- **Literal comprehension** maps to **Modern development standards** and **Information security**: reading mandates, scopes and exemptions precisely enough to resolve interpretive disputes correctly.
-- **True/False/Cannot Say discipline** maps to the product ownership and **Service support** duties: separating evidence from assertion in incident reports, supplier claims and delivery updates.
+- **Literal comprehension** maps to **Modern development standards** and **Information security**: reading mandates, scopes, and exemptions precisely enough to resolve interpretive disputes correctly.
+- **True/False/Cannot Say discipline** maps to the product ownership and **Service support** duties: separating evidence from assertion in incident reports, supplier claims, and delivery updates.
 - **Inference** maps to **Systems design** and **Systems integration**: sound inference, and recognising the point where it must give way to a clarifying question.
 - **Clear-writing judgement** maps to the duty to provide technical leadership through coaching and mentoring: the standard applied to reviewing others' writing becomes their standard.
 - **Identifying the main point** maps to the **strategic direction** contribution: extracting a consultation's central claim from its surrounding qualification.
@@ -595,7 +595,7 @@ Contract summary: "The provider guarantees 99.9% monthly availability of the bui
 
 A situational judgement assessment (SJT) presents realistic workplace scenarios and asks the candidate to judge the effectiveness of possible responses. Responses are scored against the judgement of experienced practitioners and the behaviours UK government digital organisations value: user focus, collaboration, ownership, sound escalation, developing others, and inclusion.
 
-Typical format: 10 to 20 scenarios, often untimed or generously timed.
+Typical format: 10 to 20 scenarios, often untimed, or generously timed.
 
 For a lead DevOps engineer on the management track, the SJT examines the judgement calls that define the job: line management (a struggling senior engineer, an underperformer others compensate for, conflict between two teams), product ownership (a stakeholder demanding an uncapacitated commitment, a strategic bet undermined by pilot data), and organisational citizenship (a peer's team heading into a known trap, a governance decision disagreed with, credit and blame flowing to the wrong places).
 
@@ -605,7 +605,7 @@ For a lead DevOps engineer on the management track, the SJT examines the judgeme
 - **Developing others** maps to the duty to provide technical leadership through coaching and mentoring: growing senior engineers into leaders, addressing underperformance honestly, and delegating real authority.
 - **Collaboration and influence** map to **Development process optimisation** and leading the sharing of knowledge and good practice: improving processes across teams not directly managed.
 - **Integrity under pressure** maps to **Information security** and **Modern development standards**: whether a control or standard survives commercial, political or schedule pressure.
-- **User focus** maps to the **User focus** skill: guardianship of user needs against internal convenience, stakeholder desire and sunk costs.
+- **User focus** maps to the **User focus** skill: guardianship of user needs against internal convenience, stakeholder desire, and sunk costs.
 
 ### Practice questions
 
@@ -728,7 +728,7 @@ A design authority rules that all product lines, including the candidate's, must
 
 **Question 10 (hard) — Building an inclusive senior pipeline**
 
-An open senior engineer position has two internal candidates: M, confident and vocal, who has repeatedly asked for the role and matches the "obvious" profile; and J, quieter, from a group under-represented in the senior cohort, with a delivery record at least as strong but who has not put themselves forward and said, when sounded out, "I'm probably not ready." The senior cohort currently shares similar backgrounds. Ask for the most effective response.
+An open senior engineer position has two internal candidates: M, confident, and vocal, who has repeatedly asked for the role and matches the "obvious" profile; and J, quieter, from a group under-represented in the senior cohort, with a delivery record at least as strong but who has not put themselves forward and said, when sounded out, "I'm probably not ready." The senior cohort currently shares similar backgrounds. Ask for the most effective response.
 
 - A) Appoint M — they want it, they fit the profile, and J has self-selected out.
 - B) Appoint J — the cohort needs diversity and their record justifies it.

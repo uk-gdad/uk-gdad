@@ -20,7 +20,7 @@ This competency assessment is created by AI and is a work in progress for
 educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating you
 give yourself here must never be treated as equivalent to a formal
-assessment for a hiring, promotion, pay or performance decision. Use it for
+assessment for a hiring, promotion, pay, or performance decision. Use it for
 your own reflection, and talk to your manager, a mentor, or your
 organisation's people development team about what you find.
 
@@ -71,7 +71,7 @@ against evidence like this before you start scoring.
 ## About this role level
 
 IT operations role: Infrastructure operations engineer. An infrastructure
-operations engineer supports, manages and maintains the core infrastructure
+operations engineer supports, manages, and maintains the core infrastructure
 that underpins production services.
 
 The role has five levels, in order: associate infrastructure operations
@@ -156,7 +156,7 @@ ensure they meet business needs and key performance indicators (KPIs).
 
 Baseline: 2 — Working. The framework's wording is unchanged from the
 level below, so the baseline stays; this level's added weight sits in
-Incident management, Technical specialism and coaching duties instead.
+Incident management, Technical specialism, and coaching duties instead.
 
 **Behavioural indicators**
 
@@ -275,7 +275,7 @@ incidents, investigates their causes and finds resolutions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Practitioner. Diagnosing, prioritising and resolving incidents
+Baseline: 3 — Practitioner. Diagnosing, prioritising, and resolving incidents
 unassisted is exactly the second- or third-line support this level's own
 description names, and matches independent, strong-grasp work.
 
@@ -286,7 +286,7 @@ description names, and matches independent, strong-grasp work.
 - 2 — Working: diagnoses and resolves familiar incidents unassisted, but
   needs help prioritising against a busy queue.
 - 3 — Practitioner: independently diagnoses and prioritises incidents against
-  competing work, investigates the cause and finds the resolution.
+  competing work, investigates the cause, and finds the resolution.
 - 4 — Expert: is the escalation point for incidents that have resisted
   diagnosis by others, and teaches the diagnostic approach to junior
   colleagues.
@@ -653,7 +653,7 @@ useful because you were honest, not because it was flattering.
 
 **What I want to follow up on:**
 
-If you want a second opinion, ask a manager, mentor or trusted colleague to
+If you want a second opinion, ask a manager, mentor, or trusted colleague to
 look at your evidence with you — a second view, even an informal one, often
 sharpens a self-rating more than sitting with it alone.
 

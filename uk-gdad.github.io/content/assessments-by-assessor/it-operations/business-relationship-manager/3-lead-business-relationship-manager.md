@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -58,7 +58,7 @@ Which service most clearly warrants attention first, and on what pattern?
 
 **Correct answer: B**
 
-**Explanation:** Normalising by users: travel booking costs roughly £73 per user against £30 for expenses and £12–£38 elsewhere, and generates roughly 0.63 tickets per user, triple or more the other services, while sitting a full point below the next-worst satisfaction score. One service is an outlier in the same direction on every normalised dimension at once, and that convergence is the pattern — invisible to anyone reading the columns raw. Option A reads a single absolute column. Option C uses reach as a proxy for priority when expenses' per-user profile is mid-pack. Option D invents a hypothesis against the simpler reading that a healthy service generates few tickets. This item tests normalising then looking for the outlier on every axis at once.
+**Explanation:** Normalising by users: travel booking costs roughly £73 per user against £30 for expenses and £12–£38 elsewhere, and generates roughly 0.63 tickets per user, triple, or more the other services, while sitting a full point below the next-worst satisfaction score. One service is an outlier in the same direction on every normalised dimension at once, and that convergence is the pattern — invisible to anyone reading the columns raw. Option A reads a single absolute column. Option C uses reach as a proxy for priority when expenses' per-user profile is mid-pack. Option D invents a hypothesis against the simpler reading that a healthy service generates few tickets. This item tests normalising then looking for the outlier on every axis at once.
 
 **Question 2 (easy) — Deduction through delegation rules**
 
@@ -838,4 +838,4 @@ The cognitive section tests normalising a service portfolio to find the outlier 
 
 **Records and consistency.** Keep a note of the conditions under which you administered this assessment alongside the result, and use the same items and conditions for every candidate you assess for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can arbitrate with evidence, communicate commitments exactly, and grow judgement in others — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can arbitrate with evidence, communicate commitments exactly, and grow judgement in others — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

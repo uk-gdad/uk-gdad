@@ -1,5 +1,20 @@
 # Lead data governance manager - start here
 
+## Start here
+
+This page is a starting point. Nine more pages cover this exact role level in
+more depth:
+
+- [Role specification](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/specification/): the framework's own description of what this level expects.
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
+- [Competency assessment (by individual)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
+- [Continuing professional development](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/continuing-professional-development/): a checklist for keeping your skills current.
+- [Skills gap form](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/skills-gap-form/): a form for comparing what you do now against what this level expects.
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
+- [Upskilling resources](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/upskilling-resources/): courses, articles, videos, and books to work through.
+
 Welcome. If you are working toward the lead data governance manager level,
 this page is for you: what the role expects, where to find everything else
 this repository has for it, and a pathway for building the skills it asks
@@ -16,21 +31,6 @@ data management, and take responsibility for understanding and managing the
 organisation's data risks, co-ordinating with data owners to accept or
 resolve them. Every named skill grows at this level, because leading now
 matters as much as doing.
-
-## Explore the framework
-
-This page is a starting point. Nine more pages cover this exact role level in
-more depth:
-
-- [Role specification](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/data/data-governance-manager/2-lead-data-governance-manager/upskilling-resources/): courses, articles, videos and books to work through.
 
 ## Learning pathway
 
@@ -129,7 +129,7 @@ the actual trade-off and ask what you might be missing.
 - [ ] **Own stakeholder strategy, not just individual relationships**
 
   Work with your team to develop and maintain a shared understanding of
-  stakeholders, develop and implement stakeholder communications
+  stakeholders, develop, and implement stakeholder communications
   strategies, identify and resolve issues, and build long-term strategic
   relationships.
 
@@ -140,7 +140,7 @@ the actual trade-off and ask what you might be missing.
 
   Turn complex data into compelling, clear and actionable stories, share
   data communication skills with your team and across government, present
-  complex messages clearly, communicate both negative and positive
+  complex messages clearly, communicate both negative, and positive
   information honestly, and give recommendations at both tactical and
   strategic level.
 

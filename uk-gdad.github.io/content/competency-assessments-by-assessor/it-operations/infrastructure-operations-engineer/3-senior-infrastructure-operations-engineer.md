@@ -19,7 +19,7 @@ educational purposes. It is not a validated assessment instrument — it has
 not been piloted, normed or checked for adverse impact — and a rating on this
 form must never be the sole basis for a hiring, promotion, pay, performance or
 disciplinary decision. Before using it, consult your organisation's human
-resources, people development, occupational psychology or legal compliance
+resources, people development, occupational psychology, or legal compliance
 colleagues.
 
 ## How to use this assessment
@@ -75,7 +75,7 @@ against evidence like this before you start scoring.
 ## About this role level
 
 IT operations role: Infrastructure operations engineer. An infrastructure
-operations engineer supports, manages and maintains the core infrastructure
+operations engineer supports, manages, and maintains the core infrastructure
 that underpins production services.
 
 The role has five levels, in order: associate infrastructure operations
@@ -160,7 +160,7 @@ ensure they meet business needs and key performance indicators (KPIs).
 
 Baseline: 2 — Working. The framework's wording is unchanged from the
 level below, so the baseline stays; this level's added weight sits in
-Incident management, Technical specialism and coaching duties instead.
+Incident management, Technical specialism, and coaching duties instead.
 
 **Behavioural indicators**
 
@@ -279,7 +279,7 @@ incidents, investigates their causes and finds resolutions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Practitioner. Diagnosing, prioritising and resolving incidents
+Baseline: 3 — Practitioner. Diagnosing, prioritising, and resolving incidents
 unassisted is exactly the second- or third-line support this level's own
 description names, and matches independent, strong-grasp work.
 
@@ -290,7 +290,7 @@ description names, and matches independent, strong-grasp work.
 - 2 — Working: diagnoses and resolves familiar incidents unassisted, but
   needs help prioritising against a busy queue.
 - 3 — Practitioner: independently diagnoses and prioritises incidents against
-  competing work, investigates the cause and finds the resolution.
+  competing work, investigates the cause, and finds the resolution.
 - 4 — Expert: is the escalation point for incidents that have resisted
   diagnosis by others, and teaches the diagnostic approach to junior
   colleagues.

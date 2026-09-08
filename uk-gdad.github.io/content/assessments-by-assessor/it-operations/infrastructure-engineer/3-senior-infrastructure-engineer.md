@@ -12,7 +12,7 @@ This document is organised into four assessment sections, each following the sam
 
 ## Advisory
 
-This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology or legal compliance colleagues.
+This assessment is created by AI and is a work in progress for educational purposes. It is not a validated assessment instrument — it has not been piloted, normed or checked for adverse impact — and a result from it must never be the sole basis for a hiring, promotion, pay, performance, or disciplinary decision. Before using it, consult your organisation's human resources, people development, occupational psychology, or legal compliance colleagues.
 
 ## Workplace job-specific cognitive assessment
 
@@ -167,7 +167,7 @@ A problem investigation into recurring authentication slowdowns identifies four 
 
 **Correct answer: B**
 
-**Explanation:** Rank by value density (benefit per unit of effort and delay) while respecting decision boundaries. Item 4 costs one day and transforms every future occurrence — including those during the weeks before other remedies land — from a long outage into a short one; detection improvements pay out immediately and are almost never wrong to do first. Item 2 is the prevention bargain: two days for half the recurrences. Item 1 adds another 30% for a day. Item 3 is the right long-term answer but is a capital project: forty days and spend of that scale belong in the technology roadmap and budget process — exactly the management input the role level provides — not in a problem record's immediate actions. Option A would leave users exposed for weeks while the big fix mobilises. Option C sequences by effort while ignoring that 4's benefit is categorically different and 2 dominates 1. Option D confuses "majority" with "sufficient". This tests the **Problem management** skill exercised at senior level: layered remedy thinking, staged by value and governance.
+**Explanation:** Rank by value density (benefit per unit of effort and delay) while respecting decision boundaries. Item 4 costs one day and transforms every future occurrence — including those during the weeks before other remedies land — from a long outage into a short one; detection improvements pay out immediately and are almost never wrong to do first. Item 2 is the prevention bargain: two days for half the recurrences. Item 1 adds another 30% for a day. Item 3 is the right long-term answer but is a capital project: forty days and spend of that scale belong in the technology roadmap and budget process — exactly the management input the role level provides — not in a problem record's immediate actions. Option A would leave users exposed for weeks while the big fix mobilises. Option C sequences by effort while ignoring that 4's benefit is categorically different and 2 dominates 1. Option D confuses "majority" with "sufficient". This tests the **Problem management** skill exercised at senior level: layered remedy thinking, staged by value, and governance.
 
 **Question 10 (hard) — Deduction across interacting constraints**
 
@@ -847,4 +847,4 @@ The cognitive section tests separating recurring incident signatures from noise,
 
 **Records and consistency.** Keep a note of the conditions under which the assessment was administered alongside the result, and use the same items and conditions for every candidate assessed for this role level.
 
-**One assessment among several.** This result is one input into a wider decision about whether a candidate can multiply their judgement through systems, suppliers, and people — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance or disciplinary decision.
+**One assessment among several.** This result is one input into a wider decision about whether a candidate can multiply their judgement through systems, suppliers, and people — never the whole of that decision. Pair it with the candidate's experience and a conversation, and revisit the advisory above before it informs any hiring, promotion, pay, performance, or disciplinary decision.

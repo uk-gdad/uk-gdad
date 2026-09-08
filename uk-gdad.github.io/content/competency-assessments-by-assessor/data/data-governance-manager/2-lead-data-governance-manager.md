@@ -19,7 +19,7 @@ decision, never the whole of one — see `## Advisory` for why.
 This competency assessment is created by AI and is a work in progress for educational
 purposes. It is not a validated assessment instrument — it has not been piloted, normed
 or checked for adverse impact — and a rating on this form must never be the sole basis
-for a hiring, promotion, pay, performance or disciplinary decision. Before using it,
+for a hiring, promotion, pay, performance, or disciplinary decision. Before using it,
 consult your organisation's human resources, people development, occupational
 psychology or legal compliance colleagues.
 
@@ -634,7 +634,7 @@ stakeholders on the organisation's behalf, which belongs to the level above.
 - 2 — Working: has helped maintain an understanding of one stakeholder group, with
   support.
 - 3 — Practitioner: independently works with their team to develop and implement a
-  stakeholder communications strategy, resolves issues and influences stakeholders
+  stakeholder communications strategy, resolves issues, and influences stakeholders
   effectively, and builds and maintains long-term strategic relationships with regular,
   clear communication.
 - 4 — Expert: is trusted to negotiate directly with the organisation's most senior
