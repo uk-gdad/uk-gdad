@@ -64,8 +64,8 @@ changes, re-fetch the catalogue and redo that comparison.
 ## Publishing
 
 The website vendors this file:
-`uk-gdad.github.io/static/tools/skills-self-assessment.html`, refreshed by
-`uk-gdad.github.io/bin/sync`. It is served at `/tools/skills-self-assessment.html`
+`uk-gdad.github.io/static/tools/skills-self-assessment/index.html`, refreshed
+by `uk-gdad.github.io/bin/sync`. It is served at `/tools/skills-self-assessment/`
 and introduced by the page at `/skills-self-assessment/`.
 
 Because it is a copy, edit `index.html` here and re-run sync — never edit the

@@ -328,7 +328,7 @@ so that it stays buildable when it is pushed to its own repository:
   System's helper Svelte components — a theme picker, a text size picker and a
   share picker — listed in `uk-gdad.github.io/bin/lily-helper-components.txt`.
   They are mounted site-wide in the header, so every page hydrates.
-- `uk-gdad.github.io/static/tools/skills-self-assessment.html` is a copy of the
+- `uk-gdad.github.io/static/tools/skills-self-assessment/` is a copy of the
   self-assessment tool.
 
 Skills gap forms are the one document kind the site does more than render: it

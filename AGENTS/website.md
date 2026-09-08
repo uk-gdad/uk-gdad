@@ -30,7 +30,7 @@ checks and then publishes.
 - `src/lib/lily/` — Lily headless components, per `bin/lily-components.txt`
 - `src/lib/lily-helpers/` — Lily helper components (theme, text size, share
   pickers), per `bin/lily-helper-components.txt`
-- `static/tools/skills-self-assessment.html` — the self-assessment tool
+- `static/tools/skills-self-assessment/index.html` — the self-assessment tool
 
 Edit the source, run `./bin/sync`, then `bin/check` from the repository root.
 

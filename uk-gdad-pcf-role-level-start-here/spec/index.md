@@ -61,7 +61,7 @@ publishes for this exact role level, plus the one tool that is not per-level:
 
 | Link text                          | Target                                                      |
 | ----------------------------------- | ------------------------------------------------------------ |
-| Role summary                        | `https://uk-gdad.github.io/<slug>/specification/`                       |
+| Role specification                  | `https://uk-gdad.github.io/<slug>/specification/`                       |
 | Assessments                         | `https://uk-gdad.github.io/<slug>/assessment/`                          |
 | Continuing professional development | `https://uk-gdad.github.io/<slug>/continuing-professional-development/` |
 | Skills gap form                     | `https://uk-gdad.github.io/<slug>/skills-gap-form/`                     |

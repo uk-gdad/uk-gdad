@@ -21,8 +21,12 @@ export function documentLoad(kind: ResourceKind) {
     }
 
     const resource = RESOURCES.find((entry) => entry.kind === kind)!;
-    const { title: parsedTitle, html, toc } = renderMarkdown(markdown, { kind, slug });
-    const heading = parsedTitle ?? `${resource.title}: ${context.level.title}`;
+    const { html, toc } = renderMarkdown(markdown, { kind, slug });
+    // The page heading is the level name alone for the start-here landing
+    // page, and "<Level>: <kind>" everywhere else — never the document's own
+    // embedded title, which would repeat the level name a second time.
+    const heading =
+      kind === 'startHere' ? context.level.title : `${context.level.title}: ${resource.short.toLowerCase()}`;
 
     return {
       kind,
@@ -31,7 +35,7 @@ export function documentLoad(kind: ResourceKind) {
       heading,
       // `title` is the page.data.title convention: the full <title> text,
       // read by the root layout for the tab title and for SharePicker.
-      title: `${heading} — ${context.level.title} — UK GDAD PCF`,
+      title: `${heading} — UK GDAD PCF`,
       html,
       toc,
       profession: { slug: context.profession.slug, title: context.profession.title },

@@ -1,10 +1,7 @@
 <script lang="ts">
   import Breadcrumbs from '$lib/Breadcrumbs.svelte';
   import Badge from '$lib/lily/Badge.svelte';
-  import InsetText from '$lib/lily/InsetText.svelte';
-  import SummaryList from '$lib/lily/SummaryList.svelte';
-  import SummaryListItem from '$lib/lily/SummaryListItem.svelte';
-  import { RESOURCES, resourceHref } from '$lib/types';
+  import { RESOURCES } from '$lib/types';
 
   let { data } = $props();
 
@@ -31,9 +28,8 @@
 />
 
 <div class="doc-header">
-  <p class="doc-context">{data.profession.title} · {data.role.title}</p>
   <h1>
-    {data.level.title}
+    {data.level.title}: specification
     {#if !data.level.inUse}<Badge type="warning">Not in use</Badge>{/if}
   </h1>
 </div>
@@ -97,37 +93,3 @@
     <p>No skills are listed for this level.</p>
   {/if}
 </section>
-
-<section>
-  <SummaryList label="Role level details">
-    <SummaryListItem term="Profession">
-      <a href="/professions/{data.profession.slug}/">{data.profession.title}</a>
-    </SummaryListItem>
-    <SummaryListItem term="Role">{data.role.title}</SummaryListItem>
-    <SummaryListItem term="Level">{data.level.title}</SummaryListItem>
-    <SummaryListItem term="Skills">{data.summary.skills.length}</SummaryListItem>
-  </SummaryList>
-</section>
-
-{#if data.siblings.length > 1}
-  <section>
-    <h2>Other levels</h2>
-    <ul class="level-list">
-      {#each data.siblings as sibling (sibling.slug)}
-        <li>
-          <a href={resourceHref('summary', sibling.slug)} aria-current={sibling.slug === data.slug ? 'page' : undefined}>
-            {#if sibling.order !== null}
-              <span class="level-list-number">{sibling.order}</span>
-            {/if}
-            <span class="level-list-title">{sibling.title}</span>
-          </a>
-        </li>
-      {/each}
-    </ul>
-  </section>
-{/if}
-
-<InsetText>
-  Adapted from the Government Digital and Data Profession Capability Framework under the Open
-  Government Licence v3.0.
-</InsetText>

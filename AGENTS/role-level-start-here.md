@@ -30,9 +30,9 @@ generic "you'll make a difference" line that could sit on any level's page.
 
 Nine links, to the sibling page for this exact role level on each of:
 
-1. Role summary
-2. Assessments (by assessor) — the assessor-administered project
-3. Assessments (by individual) — the self-practice project
+1. Role specification
+2. Psychometric assessments (by assessor) — the assessor-administered project
+3. Psychometric assessments (by individual) — the self-practice project
 4. Competency assessment (by assessor) — the assessor-administered project
 5. Competency assessment (by individual) — the self-rating project
 6. Continuing professional development

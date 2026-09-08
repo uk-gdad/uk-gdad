@@ -22,7 +22,7 @@
     next.
   </p>
   <div class="button-row">
-    <a class="button" href="/tools/skills-self-assessment.html">Open the self-assessment</a>
+    <a class="button" href="/tools/skills-self-assessment/">Open the self-assessment</a>
   </div>
 </div>
 

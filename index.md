@@ -127,7 +127,7 @@ Ten skills are named. That list is the agenda.
 
 ### 3. Rate yourself
 
-Open the [skills self-assessment](https://uk-gdad.github.io/tools/skills-self-assessment.html)
+Open the [skills self-assessment](https://uk-gdad.github.io/tools/skills-self-assessment/)
 and score each skill from 0 (none) to 4 (expert). Nothing is sent anywhere and
 nothing is saved, so download the result when you are done — it writes
 `skills.tsv`, one header row and one data row.

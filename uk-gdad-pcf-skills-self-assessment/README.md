@@ -3,7 +3,7 @@
 A single web page for rating yourself against the skills in the United Kingdom
 Government Digital and Data (GDAD) Profession Capability Framework (PCF).
 
-**Use it:** <https://uk-gdad.github.io/tools/skills-self-assessment.html> — or
+**Use it:** <https://uk-gdad.github.io/tools/skills-self-assessment/> — or
 open `index.html` in a browser. No build step, no install, no server.
 
 ## How it works

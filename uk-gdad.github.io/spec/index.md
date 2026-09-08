@@ -54,7 +54,7 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
 | `src/lib/lily/` | Lily Design System headless components, per `bin/lily-components.txt` |
 | `src/lib/lily-helpers/` | Lily Design System helper components (theme, text size, share pickers), per `bin/lily-helper-components.txt` |
-| `static/tools/skills-self-assessment.html` | `uk-gdad-pcf-skills-self-assessment/index.html` |
+| `static/tools/skills-self-assessment/index.html` | `uk-gdad-pcf-skills-self-assessment/index.html` |
 
 Never edit a vendored file. Edit the source and re-run `bin/sync`.
 
@@ -139,8 +139,8 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
 
 ## Page layout
 
-Every page reads as a single column, top to bottom. Two things this rules out,
-deliberately, not by omission:
+Every page reads as a single column, top to bottom. Three things this rules
+out, deliberately, not by omission:
 
 - **No sidebars.** No page splits into a multi-column grid with a secondary
   panel beside the main content — not a contents list, not role level details,
@@ -152,6 +152,11 @@ deliberately, not by omission:
   exactly one place — the start-here page's own `## Explore the framework`
   section (see Content handling) — not repeated as chrome on every page that
   reads it.
+- **No eyebrow headlines.** A page's `<h1>` is not preceded by a small label
+  line naming the profession, role or level above it — the breadcrumb already
+  says that. The start-here page's own document title is `<Level> - start
+  here`; its `<h1>` shows the level name alone, not the "- start here" suffix,
+  since the page itself is already what "start here" means.
 
 Getting from one document to another, other than through that one signpost,
 means the breadcrumb trail: every document page's breadcrumb links back to

@@ -108,7 +108,6 @@
 />
 
 <div class="doc-header">
-  <p class="doc-context">{data.role.title} · {data.level.title}</p>
   <h1>{data.heading}</h1>
   {#if isGapformStyle}
     {@render gapformTools(true)}

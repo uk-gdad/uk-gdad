@@ -21,7 +21,7 @@ export function load({ params }: { params: { slug: string } }) {
     slug,
     // page.data.title convention: the full <title> text, read by the root
     // layout for the tab title and for SharePicker.
-    title: `${context.level.title} — ${context.role.title} — UK GDAD PCF`,
+    title: `${context.level.title}: specification — UK GDAD PCF`,
     summary: parseSummary(text),
     profession: { slug: context.profession.slug, title: context.profession.title },
     role: { slug: context.role.slug, title: context.role.title },
@@ -30,11 +30,6 @@ export function load({ params }: { params: { slug: string } }) {
       order: context.level.order,
       inUse: context.level.inUse,
       has: context.level.has
-    },
-    siblings: context.role.levels.map((level) => ({
-      slug: level.slug,
-      title: level.title,
-      order: level.order
-    }))
+    }
   };
 }

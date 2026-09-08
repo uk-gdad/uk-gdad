@@ -87,9 +87,13 @@ rm -rf "$site/content/assessments"
 
 self_assessment="$gdad/uk-gdad-pcf-skills-self-assessment/index.html"
 if [ -f "$self_assessment" ]; then
-    mkdir -p "$site/static/tools"
-    cp "$self_assessment" "$site/static/tools/skills-self-assessment.html"
-    echo "sync: uk-gdad-pcf-skills-self-assessment -> static/tools/skills-self-assessment.html"
+    # A directory with its own index.html, not a bare .html file, so the URL
+    # takes a trailing slash like every other URL on this site — a bare
+    # skills-self-assessment.html has no trailing-slash form that resolves.
+    mkdir -p "$site/static/tools/skills-self-assessment"
+    rm -f "$site/static/tools/skills-self-assessment.html"
+    cp "$self_assessment" "$site/static/tools/skills-self-assessment/index.html"
+    echo "sync: uk-gdad-pcf-skills-self-assessment -> static/tools/skills-self-assessment/"
 else
     echo "sync: skipping skills self-assessment; not found at $self_assessment" >&2
 fi

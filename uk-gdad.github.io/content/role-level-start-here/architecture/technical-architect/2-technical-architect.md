@@ -21,9 +21,9 @@ to them.
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role summary](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/specification/): the framework's own description of what this level expects.
+- [Role specification](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/specification/): the framework's own description of what this level expects.
 - [Psychometric assessments (by assessor)](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Assessments (by individual)](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
 - [Competency assessment (by assessor)](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
 - [Competency assessment (by individual)](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
 - [Continuing professional development](https://uk-gdad.github.io/architecture/technical-architect/2-technical-architect/continuing-professional-development/): a checklist for keeping your skills current.

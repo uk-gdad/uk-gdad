@@ -778,10 +778,6 @@ th {
 .doc-header h1 {
   margin-bottom: 0.5rem;
 }
-.doc-context {
-  margin: 0;
-  color: var(--lily-text-muted);
-}
 
 .prose {
   max-width: 46rem;
