@@ -5,15 +5,15 @@
 This page is a starting point. Nine more pages cover this exact role in more
 depth:
 
-- [Role specification](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/specification/): the framework's own description of what this role expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/assessment-by-assessor/): a structured assessment an assessor administers, built from this role's skills.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/assessment-by-individual/): practice material for the kind of assessment this role might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/skills-gap-form/): a form for describing your own practice against the skills the framework names.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/upskilling-resources/): courses, articles, videos and books to work through.
+- [Role specification](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/specification/)
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/assessment-by-assessor/)
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/assessment-by-individual/)
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/competency-assessment-by-assessor/)
+- [Competency assessment (by individual)](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/competency-assessment-by-individual/)
+- [Continuing professional development](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/continuing-professional-development/)
+- [Skills gap form](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/skills-gap-form/)
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/)
+- [Upskilling resources](https://uk-gdad.github.io/chief-digital-and-data/chief-information-security-officer-not-in-use/upskilling-resources/)
 
 Welcome. If you are working as, or working toward, a chief information
 security officer role, this page is for you: what the role is about, where

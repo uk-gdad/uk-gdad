@@ -5,15 +5,15 @@
 This page is a starting point. Nine more pages cover this exact role level in
 more depth:
 
-- [Role specification](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/specification/): the framework's own description of what this level expects.
-- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Psychometric assessments (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/assessment-by-individual/): practice material for the kind of assessment this level might use, to work through on your own.
-- [Competency assessment (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/competency-assessment-by-assessor/): a structured assessment that an assessor can administer.
-- [Competency assessment (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/competency-assessment-by-individual/): practice material for this kind of assessment that you can try on your own.
-- [Continuing professional development](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/continuing-professional-development/): a checklist for keeping your skills current.
-- [Skills gap form](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/skills-gap-form/): a form for comparing what you do now against what this level expects.
-- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/): a quick self-rating tool covering skills across the whole framework.
-- [Upskilling resources](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/upskilling-resources/): courses, articles, videos, and books to work through.
+- [Role specification](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/specification/)
+- [Psychometric assessments (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/assessment-by-assessor/)
+- [Psychometric assessments (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/assessment-by-individual/)
+- [Competency assessment (by assessor)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/competency-assessment-by-assessor/)
+- [Competency assessment (by individual)](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/competency-assessment-by-individual/)
+- [Continuing professional development](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/continuing-professional-development/)
+- [Skills gap form](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/skills-gap-form/)
+- [Skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/)
+- [Upskilling resources](https://uk-gdad.github.io/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst/upskilling-resources/)
 
 Welcome. If you are starting out as an associate quality assurance test
 analyst, this page is for you: what the role is about, where to find
