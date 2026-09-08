@@ -49,26 +49,25 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Change management.** At 1 — Beginner, someone might
+**Worked example — Change management.** At 1 — Awareness, someone might
 describe implementing a straightforward change request under close
-supervision, checking each step with a colleague. At 2 — Intermediate, someone for service acceptance analyst should be able to describe applying
+supervision, checking each step with a colleague. At 2 — Working, someone for service acceptance analyst should be able to describe applying
 change control procedures independently for a routine change, while still
 working under an agreed supervision structure for anything unusual — the
 "under supervision" wording the framework uses at this level. That balance —
 independent for the routine, supervised for the exception — is what
-"Intermediate" evidence looks like at this level.
+"Working" evidence looks like at this level.
 
 ## About this role level
 
@@ -105,18 +104,16 @@ information to protect assets and components.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a procedural task at this level, part of
+Baseline: 1 — Awareness. This is a procedural task at this level, part of
 gathering evidence for change acceptance rather than owning configuration
 risk, so a developing, closely-supervised grasp is expected.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot locate or correct an asset record without step-by-step
-  help.
-- 1 — Beginner: Logs and corrects straightforward records under supervision.
-- 2 — Intermediate: Logs and corrects records unsupervised for common cases,
+- 1 — Awareness: Logs and corrects straightforward records under supervision.
+- 2 — Working: Logs and corrects records unsupervised for common cases,
   and links them to the change being validated.
-- 3 — Advanced: Maintains accurate records across a varied caseload without
+- 3 — Practitioner: Maintains accurate records across a varied caseload without
   prompting.
 - 4 — Expert: Spots systemic data quality issues affecting change acceptance
   evidence.
@@ -130,10 +127,9 @@ risk, so a developing, closely-supervised grasp is expected.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -147,17 +143,16 @@ and capacity management processes.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only that this level can
+Baseline: 1 — Awareness. The framework asks only that this level can
 "explain" the processes, not apply or manage them, which is the lightest
 wording it uses for this skill anywhere in the role.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what availability or capacity management covers.
-- 1 — Beginner: Can explain the basic processes when asked.
-- 2 — Intermediate: Recognises when a change under validation has
+- 1 — Awareness: Can explain the basic processes when asked.
+- 2 — Working: Recognises when a change under validation has
   availability or capacity implications.
-- 3 — Advanced: Contributes usefully to an availability or capacity
+- 3 — Practitioner: Contributes usefully to an availability or capacity
   assessment as part of change acceptance.
 - 4 — Expert: Helps others understand these processes as part of induction.
 
@@ -170,10 +165,9 @@ wording it uses for this skill anywhere in the role.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -187,20 +181,18 @@ requests and apply change control procedures under supervision.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework says explicitly "under supervision",
+Baseline: 1 — Awareness. The framework says explicitly "under supervision",
 which sets the baseline directly — this is a skill this level is expected to
 be learning, not one it should already hold independently, even though
 change acceptance is central to the level's work.
 
 **Behavioural indicators**
 
-- 0 — None: Implements a change without following the change control
-  procedure.
-- 1 — Beginner: Implements straightforward change requests correctly when
+- 1 — Awareness: Implements straightforward change requests correctly when
   supervised.
-- 2 — Intermediate: Applies change control procedures correctly with only
+- 2 — Working: Applies change control procedures correctly with only
   occasional checking.
-- 3 — Advanced: Implements changes independently and spots when a proposed
+- 3 — Practitioner: Implements changes independently and spots when a proposed
   change does not fit the procedure.
 - 4 — Expert: Is trusted to implement changes unsupervised and to coach
   others on the procedure.
@@ -213,10 +205,9 @@ change acceptance is central to the level's work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -230,19 +221,18 @@ others and the importance of team dynamics, collaboration and feedback.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the lightest wording the framework uses for
+Baseline: 1 — Awareness. This is the lightest wording the framework uses for
 this skill anywhere in the two roles that share it — "understand" rather than
 "contribute to" or "work collaboratively" — fitting an entry level whose main
 job is co-ordinating across IT operations rather than leading team dynamics.
 
 **Behavioural indicators**
 
-- 0 — None: Works without reference to how their role fits with others'.
-- 1 — Beginner: Can explain how their work depends on and affects other
+- 1 — Awareness: Can explain how their work depends on and affects other
   teams.
-- 2 — Intermediate: Actively factors other teams' constraints into how they
+- 2 — Working: Actively factors other teams' constraints into how they
   co-ordinate change acceptance.
-- 3 — Advanced: Builds constructive working relationships across the teams
+- 3 — Practitioner: Builds constructive working relationships across the teams
   they co-ordinate with.
 - 4 — Expert: Is known for smoothing collaboration between teams during
   change acceptance.
@@ -256,10 +246,9 @@ job is co-ordinating across IT operations rather than leading team dynamics.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -273,17 +262,16 @@ principles of IT standard continuity management processes and procedures.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only for an explanation of basic
+Baseline: 1 — Awareness. The framework asks only for an explanation of basic
 principles, the lightest wording it uses for this skill anywhere in the role.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a continuity plan is for.
-- 1 — Beginner: Can explain the basic principles of continuity management
+- 1 — Awareness: Can explain the basic principles of continuity management
   when asked.
-- 2 — Intermediate: Recognises when a change under acceptance has continuity
+- 2 — Working: Recognises when a change under acceptance has continuity
   implications.
-- 3 — Advanced: Contributes usefully to a continuity-related acceptance
+- 3 — Practitioner: Contributes usefully to a continuity-related acceptance
   criterion.
 - 4 — Expert: Helps others understand continuity principles as part of
   induction.
@@ -297,10 +285,9 @@ principles, the lightest wording it uses for this skill anywhere in the role.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -315,19 +302,18 @@ appropriate channel.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a lighter description than "diagnose and
+Baseline: 1 — Awareness. This is a lighter description than "diagnose and
 prioritise" used elsewhere in IT operations — "identify and register" is a
 procedural first step, matching an entry level whose main job is change
 acceptance, not incident resolution.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot correctly identify or register an incident.
-- 1 — Beginner: Identifies and registers straightforward incidents with
+- 1 — Awareness: Identifies and registers straightforward incidents with
   support.
-- 2 — Intermediate: Identifies, registers and correctly allocates incidents
+- 2 — Working: Identifies, registers and correctly allocates incidents
   to the right channel unsupervised.
-- 3 — Advanced: Gathers thorough, well-organised information that speeds up
+- 3 — Practitioner: Gathers thorough, well-organised information that speeds up
   resolution by whoever picks the incident up.
 - 4 — Expert: Their incident registrations are used as the model for others.
 
@@ -340,10 +326,9 @@ acceptance, not incident resolution.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -357,7 +342,7 @@ problem resolution processes and pass problems on to their team.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the lightest wording the framework uses for
+Baseline: 1 — Awareness. This is the lightest wording the framework uses for
 this skill anywhere in the two roles that share it — "show an awareness"
 and "pass ... on" — rather than the "own an issue" wording used at every
 other level, matching an entry level whose main job is validating changes
@@ -365,13 +350,11 @@ against criteria rather than resolving problems end to end.
 
 **Behavioural indicators**
 
-- 0 — None: Does not recognise when something falls outside their remit and
-  needs passing on.
-- 1 — Beginner: Recognises problems outside their remit and passes them on,
+- 1 — Awareness: Recognises problems outside their remit and passes them on,
   with occasional support on where to send them.
-- 2 — Intermediate: Reliably identifies and routes problems to the right
+- 2 — Working: Reliably identifies and routes problems to the right
   place unsupported.
-- 3 — Advanced: Follows up to confirm a passed-on problem was picked up.
+- 3 — Practitioner: Follows up to confirm a passed-on problem was picked up.
 - 4 — Expert: Is trusted to make the right routing call even in ambiguous
   cases.
 
@@ -383,10 +366,9 @@ against criteria rather than resolving problems end to end.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -402,18 +384,17 @@ the implementation of remedies and preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Contribute to" is a supporting role, appropriate to
+Baseline: 1 — Awareness. "Contribute to" is a supporting role, appropriate to
 an entry level whose accountability is change acceptance, not problem
 resolution leadership.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot distinguish a strategic, tactical or operational problem.
-- 1 — Beginner: Investigates a problem with support, and can distinguish the
+- 1 — Awareness: Investigates a problem with support, and can distinguish the
   three levels when prompted.
-- 2 — Intermediate: Investigates straightforward problems independently and
+- 2 — Working: Investigates straightforward problems independently and
   contributes usefully to a remedy.
-- 3 — Advanced: Correctly classifies problems by level and contributes to
+- 3 — Practitioner: Correctly classifies problems by level and contributes to
   preventative measures unprompted.
 - 4 — Expert: Their contributions to remedies are consistently adopted.
 
@@ -426,10 +407,9 @@ resolution leadership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -443,19 +423,17 @@ establish coherent frameworks that work.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This wording is abstract and light compared with the
+Baseline: 1 — Awareness. This wording is abstract and light compared with the
 role's other skills, so the baseline sits at a developing level, matching a
 supporting rather than leading part in this level's work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot pull together inputs from different sources into a
-  coherent picture.
-- 1 — Beginner: Pulls together straightforward inputs into a workable
+- 1 — Awareness: Pulls together straightforward inputs into a workable
   approach, with guidance.
-- 2 — Intermediate: Independently establishes a coherent approach from
+- 2 — Working: Independently establishes a coherent approach from
   varied inputs for routine change acceptance cases.
-- 3 — Advanced: Does this reliably for complex cases with several competing
+- 3 — Practitioner: Does this reliably for complex cases with several competing
   inputs.
 - 4 — Expert: Their frameworks are adopted by others facing similar cases.
 
@@ -466,10 +444,9 @@ supporting rather than leading part in this level's work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -483,18 +460,17 @@ Level 3 service management framework qualification.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a qualification threshold rather than a depth
+Baseline: 1 — Awareness. This is a qualification threshold rather than a depth
 of practice, so the baseline reflects holding, or being close to holding, the
 qualification.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Holds, or is working towards, a Level 3 qualification, and
+- 1 — Awareness: Holds, or is working towards, a Level 3 qualification, and
   can describe its basic terms.
-- 2 — Intermediate: Holds the qualification and applies its terminology
+- 2 — Working: Holds the qualification and applies its terminology
   correctly in day-to-day acceptance work.
-- 3 — Advanced: Uses framework concepts to explain to a colleague why a
+- 3 — Practitioner: Uses framework concepts to explain to a colleague why a
   process works the way it does.
 - 4 — Expert: Helps induct new starters into the framework's terms and
   processes.
@@ -507,10 +483,9 @@ qualification.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -526,19 +501,17 @@ data about users to turn user focus into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The bullets ask for active engagement with users
+Baseline: 2 — Working. The bullets ask for active engagement with users
 and use of data to improve outcomes, a working level of this skill even for
 an entry-level analyst, since changes validated at this level affect what
 users experience.
 
 **Behavioural indicators**
 
-- 0 — None: Validates changes purely against technical criteria, without
-  reference to user impact.
-- 1 — Beginner: Notes user impact when it is pointed out.
-- 2 — Intermediate: Considers user impact unprompted when validating changes
+- 1 — Awareness: Notes user impact when it is pointed out.
+- 2 — Working: Considers user impact unprompted when validating changes
   against acceptance criteria.
-- 3 — Advanced: Uses evidence from several cases to argue that an acceptance
+- 3 — Practitioner: Uses evidence from several cases to argue that an acceptance
   criterion should account for user impact.
 - 4 — Expert: Their user-impact evidence has changed how acceptance criteria
   are set.
@@ -551,10 +524,9 @@ users experience.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -563,17 +535,17 @@ users experience.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 1 — Beginner | | |
-| Availability and capacity management | 1 — Beginner | | |
-| Change management | 1 — Beginner | | |
-| Community collaboration | 1 — Beginner | | |
-| Continuity management | 1 — Beginner | | |
-| Incident management | 1 — Beginner | | |
-| Ownership and initiative | 1 — Beginner | | |
-| Problem management | 1 — Beginner | | |
-| Service focus | 1 — Beginner | | |
-| Service management framework knowledge | 1 — Beginner | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 1 — Awareness | | |
+| Availability and capacity management | 1 — Awareness | | |
+| Change management | 1 — Awareness | | |
+| Community collaboration | 1 — Awareness | | |
+| Continuity management | 1 — Awareness | | |
+| Incident management | 1 — Awareness | | |
+| Ownership and initiative | 1 — Awareness | | |
+| Problem management | 1 — Awareness | | |
+| Service focus | 1 — Awareness | | |
+| Service management framework knowledge | 1 — Awareness | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

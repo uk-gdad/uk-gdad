@@ -60,20 +60,19 @@ anything other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Strategic thinking.** At 3 — Advanced, a candidate might
+**Worked example — Strategic thinking.** At 3 — Practitioner, a candidate might
 describe defining a service management policy for their own area and
 evaluating whether it exceeded requirements. At 4 — Expert, a candidate for
 head of IT service management should be able to describe leading the design
@@ -133,13 +132,11 @@ policy level — full organisational ownership, matching an expert rating.
 
 **Behavioural indicators**
 
-- 0 — None: Delegates configuration management entirely without setting
-  direction or standards.
-- 1 — Beginner: Understands organisational configuration policy but does not
+- 1 — Awareness: Understands organisational configuration policy but does not
   yet shape it.
-- 2 — Intermediate: Owns configuration management for a defined part of the
+- 2 — Working: Owns configuration management for a defined part of the
   organisation, with support for the wider policy conversation.
-- 3 — Advanced: Sets and defends configuration policy across the
+- 3 — Practitioner: Sets and defends configuration policy across the
   organisation, ensuring it delivers business value.
 - 4 — Expert: Has changed organisational culture around asset control —
   colleagues at every level treat configuration discipline as core to their
@@ -154,10 +151,9 @@ policy level — full organisational ownership, matching an expert rating.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -181,12 +177,10 @@ matching the framework's escalation-point and vision-setting accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: Relies entirely on others to resolve conflicting analysis before
-  seeing it.
-- 1 — Beginner: Can follow an investigation others lead, with support to
+- 1 — Awareness: Can follow an investigation others lead, with support to
   reach a recommendation.
-- 2 — Intermediate: Leads investigations of moderate scope independently.
-- 3 — Advanced: Leads organisation-wide investigations involving genuinely
+- 2 — Working: Leads investigations of moderate scope independently.
+- 3 — Practitioner: Leads organisation-wide investigations involving genuinely
   conflicting sources, producing sound recommendations.
 - 4 — Expert: Is the person senior stakeholders trust to settle the most
   contested, highest-stakes service management questions the organisation
@@ -201,10 +195,9 @@ matching the framework's escalation-point and vision-setting accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -225,11 +218,10 @@ to defend.
 
 **Behavioural indicators**
 
-- 0 — None: Makes decisions without reference to service data.
-- 1 — Beginner: Uses analytics for individual decisions, with support.
-- 2 — Intermediate: Independently uses analytics for decisions of moderate
+- 1 — Awareness: Uses analytics for individual decisions, with support.
+- 2 — Working: Independently uses analytics for decisions of moderate
   scope.
-- 3 — Advanced: Uses analytics to make and defend decisions that affect the
+- 3 — Practitioner: Uses analytics to make and defend decisions that affect the
   wider service delivery function.
 - 4 — Expert: Has built or embedded an analytics capability that
   demonstrably improved organisational performance, and can defend that
@@ -244,10 +236,9 @@ to defend.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -269,13 +260,11 @@ extends across the whole function, not one platform.
 
 **Behavioural indicators**
 
-- 0 — None: Passes escalations back down without taking personal
-  accountability.
-- 1 — Beginner: Accepts escalations but relies heavily on the team to resolve
+- 1 — Awareness: Accepts escalations but relies heavily on the team to resolve
   them.
-- 2 — Intermediate: Takes accountability for escalated issues of moderate
+- 2 — Working: Takes accountability for escalated issues of moderate
   complexity.
-- 3 — Advanced: Reliably takes accountability for the most serious
+- 3 — Practitioner: Reliably takes accountability for the most serious
   escalations and proactively searches for systemic risk across the function.
 - 4 — Expert: Is the final point of accountability the organisation trusts
   when nothing else has worked, and their proactive risk-searching has
@@ -290,10 +279,9 @@ extends across the whole function, not one platform.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -316,13 +304,11 @@ organisational contexts as well as depth.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no expert-level qualification and shows no breadth beyond
-  one environment.
-- 1 — Beginner: Holds the expert qualification but has only applied it in one
+- 1 — Awareness: Holds the expert qualification but has only applied it in one
   environment.
-- 2 — Intermediate: Has applied the framework in more than one environment,
+- 2 — Working: Has applied the framework in more than one environment,
   with support adapting it.
-- 3 — Advanced: Independently adapts the framework to different
+- 3 — Practitioner: Independently adapts the framework to different
   organisational contexts, drawing on broad industry understanding.
 - 4 — Expert: Is recognised, inside and outside the organisation, as an
   authority on implementing the framework across varied environments.
@@ -336,10 +322,9 @@ organisational contexts as well as depth.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -367,13 +352,11 @@ squarely matching an expert-level baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Manages only their own stakeholder relationships, without setting
-  direction for others.
-- 1 — Beginner: Manages senior relationships adequately but struggles to
+- 1 — Awareness: Manages senior relationships adequately but struggles to
   arbitrate when a junior colleague's relationship breaks down.
-- 2 — Intermediate: Directs stakeholder strategy for part of the function,
+- 2 — Working: Directs stakeholder strategy for part of the function,
   with support on the most difficult escalations.
-- 3 — Advanced: Directs stakeholder strategy across the function and
+- 3 — Practitioner: Directs stakeholder strategy across the function and
   successfully arbitrates most escalated relationship breakdowns.
 - 4 — Expert: Is the trusted arbiter for the organisation's most
   high-risk, time-constrained stakeholder situations, and consistently gets a
@@ -388,10 +371,9 @@ squarely matching an expert-level baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -412,10 +394,9 @@ for setting the whole function's vision.
 
 **Behavioural indicators**
 
-- 0 — None: Works within a strategy set entirely by others.
-- 1 — Beginner: Contributes to strategy design but does not yet lead it.
-- 2 — Intermediate: Leads strategy design for a defined part of the function.
-- 3 — Advanced: Leads the design and implementation of strategy across the
+- 1 — Awareness: Contributes to strategy design but does not yet lead it.
+- 2 — Working: Leads strategy design for a defined part of the function.
+- 3 — Practitioner: Leads the design and implementation of strategy across the
   function, with some support directing evaluation.
 - 4 — Expert: Has led strategy that visibly changed the organisation's
   service management maturity, and personally directs how success is
@@ -430,10 +411,9 @@ for setting the whole function's vision.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -457,13 +437,11 @@ focus.
 
 **Behavioural indicators**
 
-- 0 — None: Sets service direction without reference to how user needs have
-  changed.
-- 1 — Beginner: Understands user needs have changed over time, but does not
+- 1 — Awareness: Understands user needs have changed over time, but does not
   yet act on that insight strategically.
-- 2 — Intermediate: Directs tool or method choices for a defined part of the
+- 2 — Working: Directs tool or method choices for a defined part of the
   service.
-- 3 — Advanced: Directs tool and method choices across the function, informed
+- 3 — Practitioner: Directs tool and method choices across the function, informed
   by longitudinal insight into user needs.
 - 4 — Expert: Has used insight into how user needs evolved to change the
   business's overall service strategy, with a demonstrable effect on outcomes.
@@ -477,10 +455,9 @@ focus.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -500,7 +477,7 @@ focus.
 
 The baseline is normally met when every skill is rated at or above its
 baseline target. At this most senior level of the role, one or two skills
-rated Advanced rather than Expert is not automatically a fail: weigh how
+rated Practitioner rather than Expert is not automatically a fail: weigh how
 central the skill is to this level's accountabilities (Strategic thinking and
 Stakeholder relationship management sit at the very heart of the job),
 consider whether the shortfall is coachable quickly after appointment, and

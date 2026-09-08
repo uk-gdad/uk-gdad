@@ -2,10 +2,86 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Interaction designer** role at the **Lead interaction designer** level. You are an expert practitioner who influences and mentors others, works with service managers and programme directors to develop design concepts, sets direction and assures the quality of design delivery across teams, and leads multiple or highly complex services. Your development now is about organisational influence and design leadership.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/interaction-designer/5-lead-interaction-designer.md`](../../../assessments/user-centred-design/interaction-designer/5-lead-interaction-designer.md)
+- Upskilling: [`upskills/user-centred-design/interaction-designer/5-lead-interaction-designer.md`](../../../upskills/user-centred-design/interaction-designer/5-lead-interaction-designer.md)
+
+### Role Level Focus: Lead Interaction Designer
+
+- [ ] Set Direction Across Teams: Publish the interaction design direction for your area and keep it usable.
+- [ ] Assure Design Quality: Establish how design quality is checked across teams.
+- [ ] Lead Complex Services: Take responsibility for multiple or highly complex services.
+- [ ] Develop Concepts With Leaders: Work with service managers and programme directors on concepts.
+- [ ] Mentor as a Discipline: Coach designers in structured sessions with agreed goals.
+- [ ] Improve Design Maturity: Set a measurable goal for raising design maturity in your area.
+- [ ] Contribute to the Community: Represent your organisation in the cross-government design community.
+- [ ] Grow Successors: Develop designers who could take your role.
+
+### Skill: Design communication
+
+- [ ] Gain Senior Support: Win backing for design decisions and strategy from senior leaders.
+- [ ] Communicate Across Boundaries: Take design strategy beyond your own organisation.
+- [ ] Coach Communication: Develop others' ability to communicate design effectively.
+- [ ] Improve the Methods: Introduce better ways of communicating design and working in the open.
+
+### Skill: Designing for everyone
+
+- [ ] Improve Practice Measurably: Raise inclusive, accessible, and sustainable design practice across teams.
+- [ ] Address Privilege and Power: Help others understand and mitigate their influence on design and delivery.
+- [ ] Make Inclusion Structural: Build inclusion into standards and processes, not just individual work.
+- [ ] Evidence the Improvement: Show measurably that practice has improved.
+
+### Skill: Designing strategically
+
+- [ ] Help Teams See Design's Value: Show how user-centred design helps teams meet their goals.
+- [ ] Align Work to Organisational Vision: Help teams connect their work to organisational goals.
+- [ ] Shape Design With Constraints: Use technology, systems, and policy constraints to shape design.
+- [ ] Create New Patterns: Identify and create new design patterns and components.
+
+### Skill: Designing together
+
+- [ ] Run Sessions With Senior Leaders: Plan and run design sessions that include senior stakeholders.
+- [ ] Connect Teams Across Boundaries: Help teams work across organisational lines.
+- [ ] Coach Stakeholder Involvement: Teach designers how to involve stakeholders at any level.
+- [ ] Improve How Teams Design Together: Introduce better collaborative methods.
+
+### Skill: Evidence-based design
+
+- [ ] Embed Hypothesis-Driven Design: Make it standard practice in the teams you lead.
+- [ ] Guide the Organisation: Show the organisation how to use evidence to improve services.
+- [ ] Use Evidence to Change How Work Happens: Improve the organisation itself, not just its outputs.
+- [ ] Share Insights Widely: Ensure user insights reach the wider organisation and across government.
+
+### Skill: Iterative design
+
+- [ ] Embed Iterative Practice: Make iterative design and Agile working normal across teams.
+- [ ] Lead Complex Prototyping: Prototype complex ideas at any fidelity.
+- [ ] Help Teams Adapt: Support teams to respond quickly to changing requirements and needs.
+- [ ] Iterate Structures and Processes: Improve delivery processes and team structures.
+
+### Skill: Leading design
+
+- [ ] Lead and Co-ordinate: Lead design work in a team confidently.
+- [ ] Advocate Beyond Digital: Champion user-centred design with leaders outside digital and data.
+- [ ] Create an Inclusive Environment: Build a productive environment where designers thrive.
+- [ ] Mentor and Coach: Develop other designers deliberately.
+- [ ] Improve Design Processes: Iterate how design works within your team.
+
+### Skill Growth Plan: Toward Head of Interaction Design
+
+- [ ] Review the Next Level: Read the Head of interaction design skill descriptions and mark your gaps.
+- [ ] Influence Organisational Strategy: Take a role in shaping priorities beyond design work.
+- [ ] Collaborate Across Government: Build standing relationships with counterparts in other departments.
+- [ ] Shape Conditions for Designers: Take responsibility for the environment designers work in.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,79 +179,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Interaction designer** role at the **Lead interaction designer** level. You are an expert practitioner who influences and mentors others, works with service managers and programme directors to develop design concepts, sets direction and assures the quality of design delivery across teams, and leads multiple or highly complex services. Your development now is about organisational influence and design leadership.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/interaction-designer/5-lead-interaction-designer.md`](../../../assessments/user-centred-design/interaction-designer/5-lead-interaction-designer.md)
-- Upskilling: [`upskills/user-centred-design/interaction-designer/5-lead-interaction-designer.md`](../../../upskills/user-centred-design/interaction-designer/5-lead-interaction-designer.md)
-
-### Role Level Focus: Lead Interaction Designer
-
-- [ ] Set Direction Across Teams: Publish the interaction design direction for your area and keep it usable.
-- [ ] Assure Design Quality: Establish how design quality is checked across teams.
-- [ ] Lead Complex Services: Take responsibility for multiple or highly complex services.
-- [ ] Develop Concepts With Leaders: Work with service managers and programme directors on concepts.
-- [ ] Mentor as a Discipline: Coach designers in structured sessions with agreed goals.
-- [ ] Improve Design Maturity: Set a measurable goal for raising design maturity in your area.
-- [ ] Contribute to the Community: Represent your organisation in the cross-government design community.
-- [ ] Grow Successors: Develop designers who could take your role.
-
-### Skill: Design communication
-
-- [ ] Gain Senior Support: Win backing for design decisions and strategy from senior leaders.
-- [ ] Communicate Across Boundaries: Take design strategy beyond your own organisation.
-- [ ] Coach Communication: Develop others' ability to communicate design effectively.
-- [ ] Improve the Methods: Introduce better ways of communicating design and working in the open.
-
-### Skill: Designing for everyone
-
-- [ ] Improve Practice Measurably: Raise inclusive, accessible, and sustainable design practice across teams.
-- [ ] Address Privilege and Power: Help others understand and mitigate their influence on design and delivery.
-- [ ] Make Inclusion Structural: Build inclusion into standards and processes, not just individual work.
-- [ ] Evidence the Improvement: Show measurably that practice has improved.
-
-### Skill: Designing strategically
-
-- [ ] Help Teams See Design's Value: Show how user-centred design helps teams meet their goals.
-- [ ] Align Work to Organisational Vision: Help teams connect their work to organisational goals.
-- [ ] Shape Design With Constraints: Use technology, systems, and policy constraints to shape design.
-- [ ] Create New Patterns: Identify and create new design patterns and components.
-
-### Skill: Designing together
-
-- [ ] Run Sessions With Senior Leaders: Plan and run design sessions that include senior stakeholders.
-- [ ] Connect Teams Across Boundaries: Help teams work across organisational lines.
-- [ ] Coach Stakeholder Involvement: Teach designers how to involve stakeholders at any level.
-- [ ] Improve How Teams Design Together: Introduce better collaborative methods.
-
-### Skill: Evidence-based design
-
-- [ ] Embed Hypothesis-Driven Design: Make it standard practice in the teams you lead.
-- [ ] Guide the Organisation: Show the organisation how to use evidence to improve services.
-- [ ] Use Evidence to Change How Work Happens: Improve the organisation itself, not just its outputs.
-- [ ] Share Insights Widely: Ensure user insights reach the wider organisation and across government.
-
-### Skill: Iterative design
-
-- [ ] Embed Iterative Practice: Make iterative design and Agile working normal across teams.
-- [ ] Lead Complex Prototyping: Prototype complex ideas at any fidelity.
-- [ ] Help Teams Adapt: Support teams to respond quickly to changing requirements and needs.
-- [ ] Iterate Structures and Processes: Improve delivery processes and team structures.
-
-### Skill: Leading design
-
-- [ ] Lead and Co-ordinate: Lead design work in a team confidently.
-- [ ] Advocate Beyond Digital: Champion user-centred design with leaders outside digital and data.
-- [ ] Create an Inclusive Environment: Build a productive environment where designers thrive.
-- [ ] Mentor and Coach: Develop other designers deliberately.
-- [ ] Improve Design Processes: Iterate how design works within your team.
-
-### Skill Growth Plan: Toward Head of Interaction Design
-
-- [ ] Review the Next Level: Read the Head of interaction design skill descriptions and mark your gaps.
-- [ ] Influence Organisational Strategy: Take a role in shaping priorities beyond design work.
-- [ ] Collaborate Across Government: Build standing relationships with counterparts in other departments.
-- [ ] Shape Conditions for Designers: Take responsibility for the environment designers work in.

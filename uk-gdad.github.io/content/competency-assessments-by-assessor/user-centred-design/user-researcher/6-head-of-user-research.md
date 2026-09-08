@@ -60,16 +60,15 @@ someone can do something, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 Worked example, using **Stakeholder relationship management**: someone at 2
-(Intermediate) can set stakeholder objectives for one part of the
+(Working) can set stakeholder objectives for one part of the
 organisation, with guidance from another senior leader. Someone at 3
-(Advanced) directs the stakeholder relationship strategy for the teams and
+(Practitioner) directs the stakeholder relationship strategy for the teams and
 programmes they lead, independently. Someone at 4 (Expert) influences and
 negotiates with the most senior stakeholders in the organisation, and across
 other government organisations, to resolve issues that no single team could
@@ -123,19 +122,18 @@ standards and expectations for how research insight should be delivered to
 support delivery by agile teams, and coaches and guides other user
 researchers to adopt agile ways of working.
 
-**Baseline for this role level:** Baseline: 3 — Advanced. The wording here is
+**Baseline for this role level:** Baseline: 3 — Practitioner. The wording here is
 reworded rather than identical to lead user researcher, extending advocacy
 to senior stakeholders and coaching to other researchers, including leads.
 It is a clear, senior duty, but the head's most defining accountabilities —
 setting organisational standards and directing stakeholder strategy — sit in
-other skills below, so this one is Advanced rather than requiring the
+other skills below, so this one is Practitioner rather than requiring the
 organisation's single reference point.
 
 **Behavioural indicators**
 
 | Value | Indicator |
 | ---: | --- |
-| 0 | Cannot describe how agile research practice is expected to work across the organisation. |
 | 1 | Advocates for agile working in conversations with their own former team, but needs support to make the case at senior or organisational level. |
 | 2 | Helps one part of the organisation adopt agile research practices, with guidance from other senior leaders. |
 | 3 | Advocates for agile working with senior stakeholders, and sets standards and expectations for how research insight should be delivered to support agile teams across the organisation. |
@@ -153,10 +151,9 @@ organisation's single reference point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -178,7 +175,6 @@ research.
 
 | Value | Indicator |
 | ---: | --- |
-| 0 | Has not shaped how more than one part of the organisation analyses or synthesises research data. |
 | 1 | Supports one team's adoption of an analysis technique when asked, with close guidance from peers. |
 | 2 | Helps two or three teams adopt a shared analysis or synthesis approach, with some guidance. |
 | 3 | Helps the organisation adopt a wide range of analysis and synthesis techniques, and improves how more than one part of the organisation applies them. |
@@ -195,10 +191,9 @@ research.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -210,9 +205,9 @@ organisations understand the diversity of users of government services, and
 guides organisations to adopt inclusive practices and apply what they learn
 to design and deliver accessible services that work for all users.
 
-**Baseline for this role level:** Baseline: 3 — Advanced. Reworded from lead
+**Baseline for this role level:** Baseline: 3 — Practitioner. Reworded from lead
 user researcher to speak of organisations rather than teams, this remains a
-clear senior duty; it is Advanced here because the head's central,
+clear senior duty; it is Practitioner here because the head's central,
 distinguishing accountabilities for defining and assuring best practice sit
 more directly in the Research management and Stakeholder skills below.
 
@@ -220,7 +215,6 @@ more directly in the Research management and Stakeholder skills below.
 
 | Value | Indicator |
 | ---: | --- |
-| 0 | Has not helped the organisation, as opposed to a single team, think about the diversity of the users it serves. |
 | 1 | Repeats guidance on inclusive research written by someone else, with support to apply it more widely. |
 | 2 | Helps a second part of the organisation adopt an inclusive research practice already used elsewhere, with some guidance. |
 | 3 | Helps the organisation understand the diversity of users of government services, and guides more than one part of it to adopt inclusive practices. |
@@ -238,10 +232,9 @@ more directly in the Research management and Stakeholder skills below.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -266,7 +259,6 @@ places it at full mastery from lead level upward.
 
 | Value | Indicator |
 | ---: | --- |
-| 0 | Has not set a user research standard that applies beyond a single programme. |
 | 1 | Applies a standard someone else set, with support, to a new programme. |
 | 2 | Helps align a second research programme to organisational goals, with some guidance. |
 | 3 | Establishes and aligns user research programmes and teams across the organisation to meet organisational goals, and synthesises findings into strategic insight for the organisation's roadmap. |
@@ -283,10 +275,9 @@ places it at full mastery from lead level upward.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -309,7 +300,6 @@ which is where the practical step up is seen.
 
 | Value | Indicator |
 | ---: | --- |
-| 0 | Has not directed a stakeholder strategy at organisational level. |
 | 1 | Follows an existing stakeholder strategy, with support, when representing research to a new senior stakeholder. |
 | 2 | Sets stakeholder objectives for one part of the organisation, with guidance from another senior leader. |
 | 3 | Directs the stakeholder relationship strategy for the teams and programmes they lead, ensuring stakeholders' objectives are set and supported. |
@@ -327,10 +317,9 @@ which is where the practical step up is seen.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -352,7 +341,6 @@ anything further in the text at head of user research.
 
 | Value | Indicator |
 | ---: | --- |
-| 0 | Has not helped adoption of a research method beyond a single team or programme. |
 | 1 | Introduces a method to a second part of the organisation, with close support. |
 | 2 | Helps more than one part of the organisation adopt a method already used elsewhere, with some guidance. |
 | 3 | Helps the organisation adopt a wide range of user research methods. |
@@ -370,10 +358,9 @@ anything further in the text at head of user research.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -397,7 +384,6 @@ that the framework's own wording places at full mastery.
 
 | Value | Indicator |
 | ---: | --- |
-| 0 | Has not raised user needs in a discussion between senior leaders or between organisations. |
 | 1 | Raises user needs in a discussion when prompted by someone more senior. |
 | 2 | Makes the case for considering user needs in one senior-level discussion, with some guidance on how to frame it. |
 | 3 | Finds ways to help the organisation adopt user-centred practices and appreciate the value of understanding users, and ensures some senior discussions consider user needs. |
@@ -416,10 +402,9 @@ that the framework's own wording places at full mastery.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

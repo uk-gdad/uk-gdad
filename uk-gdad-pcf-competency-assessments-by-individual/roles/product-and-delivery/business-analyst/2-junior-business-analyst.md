@@ -49,15 +49,14 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it or
 how they feel about it.
@@ -121,20 +120,18 @@ work together to support delivery.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's wording for this skill is identical to
+Baseline: 1 — Awareness. The framework's wording for this skill is identical to
 the trainee level — knowledge and explanation, not independent adaptation of
 working practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a delivery methodology or say what scrum or kanban are
-  for.
-- 1 — Beginner: Can describe, in general terms, the difference between an
+- 1 — Awareness: Can describe, in general terms, the difference between an
   Agile and a waterfall approach, and can say why teams work in iterations.
-- 2 — Intermediate: Has worked within a scrum or kanban team's rhythm on real
+- 2 — Working: Has worked within a scrum or kanban team's rhythm on real
   task-based work, and can describe how their own output fitted the team's
   cadence.
-- 3 — Advanced: Not expected at this level. Explaining how roles interact
+- 3 — Practitioner: Not expected at this level. Explaining how roles interact
   across a whole multidisciplinary team, with independent judgement about
   approach, belongs to a later level.
 - 4 — Expert: Not expected at this level.
@@ -150,10 +147,9 @@ working practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -168,20 +164,19 @@ defined task, and to visualise business processes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a new skill at this level and the
+Baseline: 2 — Working. This is a new skill at this level and the
 framework already asks for a produced output — supporting representation
 within a defined task — not just description, so the baseline sits a point
 above pure explanation.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a business model or process diagram is for.
-- 1 — Beginner: Can name a basic business modelling technique, such as a
+- 1 — Awareness: Can name a basic business modelling technique, such as a
   process flow diagram, but has not produced one.
-- 2 — Intermediate: Has produced a simple visualisation of a business process
+- 2 — Working: Has produced a simple visualisation of a business process
   or situation within a task someone else scoped, and can walk through what it
   shows.
-- 3 — Advanced: Not expected at this level. Modelling with limited direction,
+- 3 — Practitioner: Not expected at this level. Modelling with limited direction,
   and reasoning about how changes ripple through a process, belongs to the
   business analyst level.
 - 4 — Expert: Not expected at this level.
@@ -195,10 +190,9 @@ above pure explanation.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -214,17 +208,16 @@ and to contribute to business process testing and usability evaluation.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the trainee level —
+Baseline: 1 — Awareness. The wording is unchanged from the trainee level —
 "contribute to" throughout — so the baseline stays the same even though someone now owns discrete task outputs elsewhere.
 
 **Behavioural indicators**
 
-- 0 — None: Has never taken part in mapping or improving a business process.
-- 1 — Beginner: Has documented an existing process under direction and can
+- 1 — Awareness: Has documented an existing process under direction and can
   explain what it was for.
-- 2 — Intermediate: Has contributed a specific, useful observation or
+- 2 — Working: Has contributed a specific, useful observation or
   suggestion to a process improvement exercise.
-- 3 — Advanced: Not expected at this level. Designing and implementing a
+- 3 — Practitioner: Not expected at this level. Designing and implementing a
   process improvement independently belongs to a later level.
 - 4 — Expert: Not expected at this level.
 
@@ -239,10 +232,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the trainee level —
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -260,19 +252,17 @@ under supervision.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the trainee level —
+Baseline: 1 — Awareness. The wording is unchanged from the trainee level —
 description, explanation, and supervised contribution.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name an analysis technique or explain why context matters
-  to a business problem.
-- 1 — Beginner: Can name one or two analysis techniques and explain, in
+- 1 — Awareness: Can name one or two analysis techniques and explain, in
   general terms, why internal and external factors matter to a problem.
-- 2 — Intermediate: Has contributed, under supervision, to identifying options
+- 2 — Working: Has contributed, under supervision, to identifying options
   for a real piece of work, and can explain the reasoning behind at least one
   option considered.
-- 3 — Advanced: Not expected at this level. Independently formulating and
+- 3 — Practitioner: Not expected at this level. Independently formulating and
   defending a recommendation belongs to a later level.
 - 4 — Expert: Not expected at this level.
 
@@ -287,10 +277,9 @@ description, explanation, and supervised contribution.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -308,20 +297,19 @@ cycle.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework repeats the trainee wording, but at
+Baseline: 2 — Working. The framework repeats the trainee wording, but at
 this level "distinct task-based outputs" are someone's own responsibility
 rather than assistance to someone else's — a small but real step up in what
 you should expect to see delivered.
 
 **Behavioural indicators**
 
-- 0 — None: Has never captured or documented a requirement.
-- 1 — Beginner: Has captured a small number of requirements under close
+- 1 — Awareness: Has captured a small number of requirements under close
   direction, using a template someone else set.
-- 2 — Intermediate: Owns the requirements output for a small, clearly bounded
+- 2 — Working: Owns the requirements output for a small, clearly bounded
   part of a project, using a predetermined life cycle, and produces work that
   needs only light review.
-- 3 — Advanced: Not expected at this level. Co-ordinating and reviewing
+- 3 — Practitioner: Not expected at this level. Co-ordinating and reviewing
   prioritisation with limited supervision belongs to the business analyst
   level.
 - 4 — Expert: Not expected at this level.
@@ -338,10 +326,9 @@ you should expect to see delivered.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -356,22 +343,20 @@ their stakeholders find important and why.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The skill's own wording is unchanged from
+Baseline: 2 — Working. The skill's own wording is unchanged from
 trainee, but the level description explicitly says a junior business analyst
 "will support stakeholder relationship management" — real, if supported,
 practice rather than description alone — so the baseline moves up a point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify who a stakeholder is on a piece of work, or why
-  their views matter.
-- 1 — Beginner: Can name the stakeholders on a piece of work and give a
+- 1 — Awareness: Can name the stakeholders on a piece of work and give a
   plausible reason why each one cares about the outcome, but has had no direct
   contact with them.
-- 2 — Intermediate: Has had direct, supported contact with a stakeholder — for
+- 2 — Working: Has had direct, supported contact with a stakeholder — for
   example fielding a question or providing an update — and can describe what
   they learned about that stakeholder's priorities from it.
-- 3 — Advanced: Not expected at this level. Independently identifying and
+- 3 — Practitioner: Not expected at this level. Independently identifying and
   building relationships with stakeholders, and tailoring communication to
   their needs, belongs to a later level.
 - 4 — Expert: Not expected at this level.
@@ -387,10 +372,9 @@ practice rather than description alone — so the baseline moves up a point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -406,18 +390,16 @@ bespoke IT systems or software packages.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the trainee level —
+Baseline: 1 — Awareness. The wording is unchanged from the trainee level —
 supervised support, not independent systems analysis.
 
 **Behavioural indicators**
 
-- 0 — None: Has no exposure to describing or documenting how an IT system
-  works.
-- 1 — Beginner: Has helped document what an existing system does, under
+- 1 — Awareness: Has helped document what an existing system does, under
   supervision.
-- 2 — Intermediate: Has contributed a specific, useful observation about a
+- 2 — Working: Has contributed a specific, useful observation about a
   system's capability or a gap in it.
-- 3 — Advanced: Not expected at this level. Independent systems analysis
+- 3 — Practitioner: Not expected at this level. Independent systems analysis
   belongs to a later level.
 - 4 — Expert: Not expected at this level.
 
@@ -432,10 +414,9 @@ supervised support, not independent systems analysis.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -451,19 +432,17 @@ requirements to develop functionality.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Understand" and "have an awareness of" describe
+Baseline: 1 — Awareness. "Understand" and "have an awareness of" describe
 knowledge, and the practical work is explicitly supervised — unchanged from
 the trainee level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why testing happens or what stages it typically
-  goes through.
-- 1 — Beginner: Can describe why a requirement needs a test scenario before it
+- 1 — Awareness: Can describe why a requirement needs a test scenario before it
   is considered done.
-- 2 — Intermediate: Has helped write or check a business scenario or test case
+- 2 — Working: Has helped write or check a business scenario or test case
   against a requirement, under supervision.
-- 3 — Advanced: Not expected at this level. Independently tracing requirements
+- 3 — Practitioner: Not expected at this level. Independently tracing requirements
   through testing belongs to a later level.
 - 4 — Expert: Not expected at this level.
 
@@ -478,10 +457,9 @@ the trainee level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -497,21 +475,19 @@ tie to system, product or service requirements.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a new skill at this level, and the wording —
+Baseline: 1 — Awareness. This is a new skill at this level, and the wording —
 "understand" and "support" — describes supervised, supporting work rather than
 independent analysis.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why user research findings should inform a
-  decision.
-- 1 — Beginner: Can explain, in general terms, why decisions should be
+- 1 — Awareness: Can explain, in general terms, why decisions should be
   informed by user research, and can describe an example of user research
   findings they have seen used.
-- 2 — Intermediate: Has supported the analysis of user experience needs on a
+- 2 — Working: Has supported the analysis of user experience needs on a
   real or simulated piece of work, and can describe how a need connected to a
   requirement.
-- 3 — Advanced: Not expected at this level. Advising on the approach to
+- 3 — Practitioner: Not expected at this level. Advising on the approach to
   analysing and prioritising user experience needs belongs to a later level.
 - 4 — Expert: Not expected at this level.
 
@@ -526,10 +502,9 @@ independent analysis.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -538,15 +513,15 @@ independent analysis.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Adapting to delivery methodologies | 1 — Beginner | | |
-| Business modelling | 2 — Intermediate | | |
-| Business process improvement | 1 — Beginner | | |
-| Context, problem and option analysis | 1 — Beginner | | |
-| Defining and managing business needs, user needs and requirements | 2 — Intermediate | | |
-| Stakeholder relationship management | 2 — Intermediate | | |
-| Digital and data systems analysis | 1 — Beginner | | |
-| Testing (business analysis) | 1 — Beginner | | |
-| User experience analysis | 1 — Beginner | | |
+| Adapting to delivery methodologies | 1 — Awareness | | |
+| Business modelling | 2 — Working | | |
+| Business process improvement | 1 — Awareness | | |
+| Context, problem and option analysis | 1 — Awareness | | |
+| Defining and managing business needs, user needs and requirements | 2 — Working | | |
+| Stakeholder relationship management | 2 — Working | | |
+| Digital and data systems analysis | 1 — Awareness | | |
+| Testing (business analysis) | 1 — Awareness | | |
+| User experience analysis | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

@@ -2,10 +2,72 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Network architect** role at the **Network architect** level. You own network designs and specifications that support business strategy, research new technologies, plan and co-ordinate programme activities with stakeholders, agree service level agreements, engage third party vendors, and coach associate network architects. Your development now is about breadth, delivery leadership, and design judgement.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/network-architect/2-network-architect.md`](../../../assessments/architecture/network-architect/2-network-architect.md)
+- Upskilling: [`upskills/architecture/network-architect/2-network-architect.md`](../../../upskills/architecture/network-architect/2-network-architect.md)
+
+### Role Level Focus: Network Architect
+
+- [ ] Cover Most Technologies: Build working competence across local and wide area networks, wifi, data centre networking, software-defined networks, telephony, mobile infrastructure, unified communications, network management, security, and remote access.
+- [ ] Research New Technologies: Evaluate emerging network technology with honest cost, risk, and assurance analysis.
+- [ ] Co-ordinate a Programme: Plan, direct, and co-ordinate activities across stakeholders for a real programme.
+- [ ] Agree Service Levels: Negotiate service level agreements you can actually design to.
+- [ ] Manage Vendors: Build the skill to engage third party vendors sceptically and productively.
+- [ ] Coach Associates: Mentor associate network architects with agreed goals and review points.
+- [ ] Stay Close to Engineers: Keep checking designs against what is practical to build and run.
+- [ ] Deepen Credentials: Work toward a professional-level network or cloud networking certification.
+
+### Skill: Governance and assurance
+
+- [ ] Develop Processes: Design governance and assurance processes that are proportionate to the risk.
+- [ ] Recommend Improvements: Identify where governance adds friction without adding safety, and fix it.
+- [ ] Support Others: Help colleagues navigate governance rather than doing it for them.
+- [ ] Learn Assessment Practice: Understand how service assessments and design authorities actually work.
+
+### Skill: IT infrastructure
+
+- [ ] Design and Implement Solutions: Own infrastructure solutions across networking, physical, commercial, open source, and cloud.
+- [ ] Learn Hybrid Networking: Study how on-premises and cloud networks interconnect securely.
+- [ ] Automate Infrastructure: Push network configuration toward code, testing, and version control.
+- [ ] Understand Costs: Learn what your network actually costs to run, and where the money goes.
+
+### Skill: Systems design
+
+- [ ] Design at Medium Risk and Complexity: Own designs with meaningful risk, impact, and complexity.
+- [ ] Select Standards and Methods: Choose design standards and tools deliberately and ensure they are applied.
+- [ ] Review Others' Designs: Review for appropriate technology, efficient resource use, and integration.
+- [ ] Design for Resilience: Study failure modes and build designs that degrade gracefully.
+- [ ] Write Decision Records: Capture significant decisions with context, options, and consequences.
+
+### Skill: Systems integration
+
+- [ ] Define the Integration Build: Own how network components come together into a working whole.
+- [ ] Co-ordinate Across Systems: Sequence build activities across teams you do not manage.
+- [ ] Support Integration Testing: Ensure test approaches, environments, and rollback plans exist.
+- [ ] Plan Migrations: Learn to design cutover plans that can be reversed safely.
+
+### Skill: Troubleshooting and problem resolution
+
+- [ ] Decompose Problems: Break problems into components to identify and diagnose root causes.
+- [ ] Troubleshoot Across Capabilities: Diagnose issues that span networking, compute, storage, and applications.
+- [ ] Lead Diagnosis Under Pressure: Take the technical lead during a major network incident.
+- [ ] Prevent Recurrence: Turn recurring faults into design changes.
+
+### Skill Growth Plan: Toward Lead Network Architect
+
+- [ ] Review the Next Level: Read the Lead network architect skill descriptions and mark your gaps.
+- [ ] Cover All Technologies: Close the remaining gaps in your technology breadth.
+- [ ] Join Governance Forums: Seek a seat, even as an observer, in forums that set IT strategy.
+- [ ] Represent the Team: Take opportunities to speak for network architecture internally.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,65 +165,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Network architect** role at the **Network architect** level. You own network designs and specifications that support business strategy, research new technologies, plan and co-ordinate programme activities with stakeholders, agree service level agreements, engage third party vendors, and coach associate network architects. Your development now is about breadth, delivery leadership, and design judgement.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/network-architect/2-network-architect.md`](../../../assessments/architecture/network-architect/2-network-architect.md)
-- Upskilling: [`upskills/architecture/network-architect/2-network-architect.md`](../../../upskills/architecture/network-architect/2-network-architect.md)
-
-### Role Level Focus: Network Architect
-
-- [ ] Cover Most Technologies: Build working competence across local and wide area networks, wifi, data centre networking, software-defined networks, telephony, mobile infrastructure, unified communications, network management, security, and remote access.
-- [ ] Research New Technologies: Evaluate emerging network technology with honest cost, risk, and assurance analysis.
-- [ ] Co-ordinate a Programme: Plan, direct, and co-ordinate activities across stakeholders for a real programme.
-- [ ] Agree Service Levels: Negotiate service level agreements you can actually design to.
-- [ ] Manage Vendors: Build the skill to engage third party vendors sceptically and productively.
-- [ ] Coach Associates: Mentor associate network architects with agreed goals and review points.
-- [ ] Stay Close to Engineers: Keep checking designs against what is practical to build and run.
-- [ ] Deepen Credentials: Work toward a professional-level network or cloud networking certification.
-
-### Skill: Governance and assurance
-
-- [ ] Develop Processes: Design governance and assurance processes that are proportionate to the risk.
-- [ ] Recommend Improvements: Identify where governance adds friction without adding safety, and fix it.
-- [ ] Support Others: Help colleagues navigate governance rather than doing it for them.
-- [ ] Learn Assessment Practice: Understand how service assessments and design authorities actually work.
-
-### Skill: IT infrastructure
-
-- [ ] Design and Implement Solutions: Own infrastructure solutions across networking, physical, commercial, open source, and cloud.
-- [ ] Learn Hybrid Networking: Study how on-premises and cloud networks interconnect securely.
-- [ ] Automate Infrastructure: Push network configuration toward code, testing, and version control.
-- [ ] Understand Costs: Learn what your network actually costs to run, and where the money goes.
-
-### Skill: Systems design
-
-- [ ] Design at Medium Risk and Complexity: Own designs with meaningful risk, impact, and complexity.
-- [ ] Select Standards and Methods: Choose design standards and tools deliberately and ensure they are applied.
-- [ ] Review Others' Designs: Review for appropriate technology, efficient resource use, and integration.
-- [ ] Design for Resilience: Study failure modes and build designs that degrade gracefully.
-- [ ] Write Decision Records: Capture significant decisions with context, options, and consequences.
-
-### Skill: Systems integration
-
-- [ ] Define the Integration Build: Own how network components come together into a working whole.
-- [ ] Co-ordinate Across Systems: Sequence build activities across teams you do not manage.
-- [ ] Support Integration Testing: Ensure test approaches, environments, and rollback plans exist.
-- [ ] Plan Migrations: Learn to design cutover plans that can be reversed safely.
-
-### Skill: Troubleshooting and problem resolution
-
-- [ ] Decompose Problems: Break problems into components to identify and diagnose root causes.
-- [ ] Troubleshoot Across Capabilities: Diagnose issues that span networking, compute, storage, and applications.
-- [ ] Lead Diagnosis Under Pressure: Take the technical lead during a major network incident.
-- [ ] Prevent Recurrence: Turn recurring faults into design changes.
-
-### Skill Growth Plan: Toward Lead Network Architect
-
-- [ ] Review the Next Level: Read the Lead network architect skill descriptions and mark your gaps.
-- [ ] Cover All Technologies: Close the remaining gaps in your technology breadth.
-- [ ] Join Governance Forums: Seek a seat, even as an observer, in forums that set IT strategy.
-- [ ] Represent the Team: Take opportunities to speak for network architecture internally.

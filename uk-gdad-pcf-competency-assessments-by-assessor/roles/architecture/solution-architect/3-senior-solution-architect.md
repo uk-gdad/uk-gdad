@@ -51,25 +51,24 @@ in the project specification.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
 A worked example, using **Community collaboration**:
 
-- A candidate rated **2 — Intermediate** contributes to a positive team
+- A candidate rated **2 — Working** contributes to a positive team
   environment for their own solution, with support for dealing with harder
   issues.
-- A candidate rated **3 — Advanced** independently adapts feedback so it
+- A candidate rated **3 — Practitioner** independently adapts feedback so it
   lasts, uses Agile health checks to surface team-dynamic issues, and
   rectifies problems in how the team works together, unsupported.
 - A candidate rated **4 — Expert** coaches other architects on team dynamics
@@ -150,19 +149,17 @@ Identify how other teams contribute to delivering outcomes through change.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's text repeats solution architect's
+Baseline: 3 — Practitioner. The framework's text repeats solution architect's
 wording, but this level's accountability to "support multiple architecture
 projects" and "find and use emerging technologies" describes independent,
-Advanced practice across more than one piece of work.
+Practitioner practice across more than one piece of work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their solution relates to wider
-  organisational trends or other teams' work.
-- 1 — Beginner: Aligns to strategies and roadmaps pointed out to them.
-- 2 — Intermediate: Actively tracks emerging issues for their own solution
+- 1 — Awareness: Aligns to strategies and roadmaps pointed out to them.
+- 2 — Working: Actively tracks emerging issues for their own solution
   with support judging opportunity or risk.
-- 3 — Advanced: Independently tracks and assesses emerging issues across
+- 3 — Practitioner: Independently tracks and assesses emerging issues across
   more than one solution, and proactively identifies opportunities or risks
   before being asked.
 - 4 — Expert: Coaches others in identifying important trends and anticipates
@@ -179,10 +176,9 @@ Advanced practice across more than one piece of work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -199,19 +195,17 @@ stakeholders. Manage stakeholder expectations effectively.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is shared with solution architect below,
+Baseline: 3 — Practitioner. This wording is shared with solution architect below,
 but at this level it is read against "build relationships with senior
 stakeholders" and a more complex solution — independent, unsupported
 communication with senior stakeholders is the realistic bar here.
 
 **Behavioural indicators**
 
-- 0 — None: Has not led communication of a complex or risky topic with a
-  senior stakeholder.
-- 1 — Beginner: Communicates with support for senior or contested audiences.
-- 2 — Intermediate: Leads communication for their solution with occasional
+- 1 — Awareness: Communicates with support for senior or contested audiences.
+- 2 — Working: Leads communication for their solution with occasional
   support for the harder conversations.
-- 3 — Advanced: Independently manages senior stakeholder expectations for
+- 3 — Practitioner: Independently manages senior stakeholder expectations for
   complicated or risky topics, adapting technique to audience, unsupported.
 - 4 — Expert: Mediates the most difficult architectural discussions across
   organisations and coaches others — the bar for lead solution architect and
@@ -227,10 +221,9 @@ communication with senior stakeholders is the realistic bar here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -245,21 +238,19 @@ to apply them.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This wording is identical to solution architect
+Baseline: 2 — Working. This wording is identical to solution architect
 below, and nothing in this level's own accountabilities points to a deeper
 commercial bar — record the repeat rather than inflating the number on
 seniority alone.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a sourcing strategy or internal commercial contact
-  relevant to their work.
-- 1 — Beginner: Aware sourcing strategies exist, needs help judging which
+- 1 — Awareness: Aware sourcing strategies exist, needs help judging which
   applies.
-- 2 — Intermediate: Knows the appropriate internal commercial contacts and
+- 2 — Working: Knows the appropriate internal commercial contacts and
   can judge which sourcing strategy applies, with support for less common
   cases.
-- 3 — Advanced: Identifies appropriate contractual frameworks and evaluates
+- 3 — Practitioner: Identifies appropriate contractual frameworks and evaluates
   suppliers independently — the bar for lead solution architect, above this
   level.
 - 4 — Expert: Not expected at this level.
@@ -271,10 +262,9 @@ seniority alone.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -291,19 +281,17 @@ responses.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is materially new text from solution architect
+Baseline: 3 — Practitioner. This is materially new text from solution architect
 below — actively rectifying team-dynamic issues and running Agile health
 checks is independent, unsupported practice.
 
 **Behavioural indicators**
 
-- 0 — None: Has not used a structured method, such as an Agile health check,
-  to surface a team-dynamic issue.
-- 1 — Beginner: Contributes to a team environment but has not rectified a
+- 1 — Awareness: Contributes to a team environment but has not rectified a
   dynamic issue unsupported.
-- 2 — Intermediate: Adapts feedback for one-off effect, with support making
+- 2 — Working: Adapts feedback for one-off effect, with support making
   it stick over time.
-- 3 — Advanced: Independently identifies and rectifies team-dynamic issues,
+- 3 — Practitioner: Independently identifies and rectifies team-dynamic issues,
   uses Agile health checks to surface problems, and adapts feedback so it
   lasts.
 - 4 — Expert: Coaches the organisation on team dynamics and conflict
@@ -320,10 +308,9 @@ checks is independent, unsupported practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -340,18 +327,16 @@ Contribute to the development of architectural governance and assurance.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Make and guide" decisions unsupported, at medium
+Baseline: 3 — Practitioner. "Make and guide" decisions unsupported, at medium
 risk, addressing risks across multiple teams, is a clear, independent step
 up from solution architect's "with support" ceiling.
 
 **Behavioural indicators**
 
-- 0 — None: Has not made an architectural decision affecting more than one
-  team.
-- 1 — Beginner: Contributes to decisions with regular support.
-- 2 — Intermediate: Makes decisions of managed risk with occasional support,
+- 1 — Awareness: Contributes to decisions with regular support.
+- 2 — Working: Makes decisions of managed risk with occasional support,
   for a single team or domain.
-- 3 — Advanced: Independently makes and guides decisions of medium risk and
+- 3 — Practitioner: Independently makes and guides decisions of medium risk and
   complexity, addresses risks affecting multiple teams or domains, and
   contributes to how architectural governance itself works.
 - 4 — Expert: Leads and evolves architectural governance across the
@@ -366,10 +351,9 @@ up from solution architect's "with support" ceiling.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -386,18 +370,17 @@ delivery methods can be decided.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is identical to solution architect
+Baseline: 3 — Practitioner. This wording is identical to solution architect
 below, but at senior level it applies to a more complex solution
 unsupported, which is the realistic reading given this level's own
 accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: Has not independently framed a medium-complexity problem.
-- 1 — Beginner: Frames simple problems with support.
-- 2 — Intermediate: Frames medium-complexity problems with occasional
+- 1 — Awareness: Frames simple problems with support.
+- 2 — Working: Frames medium-complexity problems with occasional
   support.
-- 3 — Advanced: Independently frames medium-complexity problems, produces
+- 3 — Practitioner: Independently frames medium-complexity problems, produces
   representations multiple teams can use, and describes options that lead to
   a delivery decision.
 - 4 — Expert: Leads framing of high-complexity, high-risk problems and
@@ -412,10 +395,9 @@ accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -432,18 +414,17 @@ architectural principles, patterns, and constraints when appropriate.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Text unchanged from solution architect, but this
+Baseline: 3 — Practitioner. Text unchanged from solution architect, but this
 level's "support multiple architecture projects" accountability means the
 supporting role here spans more than one strategy, with less need for
-oversight — independent, Advanced support.
+oversight — independent, Practitioner support.
 
 **Behavioural indicators**
 
-- 0 — None: Has not contributed to a strategy or vision.
-- 1 — Beginner: Contributes when directed.
-- 2 — Intermediate: Supports strategy development for one solution, with
+- 1 — Awareness: Contributes when directed.
+- 2 — Working: Supports strategy development for one solution, with
   occasional support.
-- 3 — Advanced: Independently supports strategy or vision development and
+- 3 — Practitioner: Independently supports strategy or vision development and
   implementation across more than one piece of work, regularly challenges
   requirements and assumptions.
 - 4 — Expert: Defines strategies or visions across teams — the bar for lead
@@ -458,10 +439,9 @@ oversight — independent, Advanced support.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -477,19 +457,17 @@ technical designs throughout the life cycle.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework raises this skill's wording explicitly
+Baseline: 3 — Practitioner. The framework raises this skill's wording explicitly
 at this level — from "managed" to "medium" risk, and from "adapt if needed"
 to actively maintaining coherence and using feedback to optimise — an
-independent, Advanced bar.
+independent, Practitioner bar.
 
 **Behavioural indicators**
 
-- 0 — None: Has not maintained a technical design's coherence through
-  significant change.
-- 1 — Beginner: Adapts a design when told to, with support.
-- 2 — Intermediate: Creates designs of managed risk and adapts them with
+- 1 — Awareness: Adapts a design when told to, with support.
+- 2 — Working: Creates designs of managed risk and adapts them with
   occasional support.
-- 3 — Advanced: Independently creates designs of medium risk and complexity,
+- 3 — Practitioner: Independently creates designs of medium risk and complexity,
   maintains their coherence as circumstances change, and uses feedback to
   refine them over the life cycle.
 - 4 — Expert: Creates designs of high risk and impact and leads others in
@@ -504,10 +482,9 @@ independent, Advanced bar.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

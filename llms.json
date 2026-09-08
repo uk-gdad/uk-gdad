@@ -93,7 +93,7 @@
       "path": "uk-gdad-pcf-competency-assessments-by-assessor",
       "spec": "uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md",
       "sibling": "uk-gdad-pcf-competency-assessments-by-individual",
-      "description": "A skill-by-skill competency matrix, rated 0-4, for an assessor to judge a candidate or employee against.",
+      "description": "A skill-by-skill competency matrix, rated 1-4, for an assessor to judge a candidate or employee against.",
       "published_at": "https://uk-gdad.github.io/<slug>/competency-assessment-by-assessor/"
     },
     {

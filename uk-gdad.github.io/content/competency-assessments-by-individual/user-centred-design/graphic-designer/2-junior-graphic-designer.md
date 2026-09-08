@@ -49,27 +49,24 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using Iterative design, a skill this level names:
 
-- Someone who produces one version of a design and does not revisit it
-  in light of research or feedback sits at **0 — None**.
 - Someone who only iterates when told exactly what to change sits at
-  **1 — Beginner**.
+  **1 — Awareness**.
 - Someone who applies iterative and agile principles to their own work,
   prototypes ideas at more than one fidelity, and uses and iterates design
   patterns and components across successive rounds of research sits at
-  **2 — Intermediate** — the baseline this assessment sets for this skill.
+  **2 — Working** — the baseline this assessment sets for this skill.
 
 ## About this role level
 
@@ -119,7 +116,7 @@ appropriate tools and methods.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Both bullets now describe actually explaining
+Baseline: 2 — Working. Both bullets now describe actually explaining
 problems and decisions to others using appropriate tools, not just
 explaining why communication matters — a step up from associate graphic
 designer's explain-the-importance wording, though still short of the
@@ -128,14 +125,12 @@ levels.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain a design problem or idea clearly enough for
-  someone outside the immediate team to follow.
-- 1 — Beginner: Explains a design problem or idea when prompted, with
+- 1 — Awareness: Explains a design problem or idea when prompted, with
   support choosing the right tool or method.
-- 2 — Intermediate: Clearly explains design problems, ideas and decisions
+- 2 — Working: Clearly explains design problems, ideas and decisions
   to others, choosing an appropriate tool or method — such as an annotated
   mock-up or a short walkthrough — without being told which one to use.
-- 3 — Advanced: Adapts how a design decision is explained to suit different
+- 3 — Practitioner: Adapts how a design decision is explained to suit different
   audiences, including non-designers and senior stakeholders — already
   working above this level's own baseline.
 - 4 — Expert: Sets the standard for how a team communicates design
@@ -152,10 +147,9 @@ levels.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -171,7 +165,7 @@ standards, for example accessibility regulations, with support.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Work with others to design and deliver" and
+Baseline: 2 — Working. "Work with others to design and deliver" and
 "ensure a design meets appropriate standards... with support" describe
 actually producing inclusive, accessible work, not just explaining the
 principles behind it — a genuine step up from associate graphic designer,
@@ -180,14 +174,12 @@ independent assurance.
 
 **Behavioural indicators**
 
-- 0 — None: Produces design work that overlooks an obvious accessibility or
-  inclusion need.
-- 1 — Beginner: Applies an inclusive design principle when someone else
+- 1 — Awareness: Applies an inclusive design principle when someone else
   points it out.
-- 2 — Intermediate: Works with others to design and deliver content or a
+- 2 — Working: Works with others to design and deliver content or a
   service that meets the needs of a range of users, and checks it against
   accessibility standards with support.
-- 3 — Advanced: Independently checks a piece of design work against
+- 3 — Practitioner: Independently checks a piece of design work against
   accessibility regulations and fixes what it finds — already working
   above this level's own baseline.
 - 4 — Expert: Sets inclusive design standards for a team and reviews
@@ -204,10 +196,9 @@ independent assurance.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -223,21 +214,19 @@ patterns and components in design.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework repeats associate graphic designer's
+Baseline: 1 — Awareness. The framework repeats associate graphic designer's
 wording for this skill exactly — explain and describe throughout — so this
 level asks nothing more of someone yet, and the baseline stays where it
 sat at associate graphic designer.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a design should align with an organisation's
-  strategy.
-- 1 — Beginner: Explains why aligning to organisational strategy matters,
+- 1 — Awareness: Explains why aligning to organisational strategy matters,
   describes how their own work connects to the team's goals, and explains
   the value of using existing patterns and components.
-- 2 — Intermediate: Connects a specific piece of their own work to a stated
+- 2 — Working: Connects a specific piece of their own work to a stated
   team goal without being told to.
-- 3 — Advanced: Chooses an existing pattern or component for a piece of
+- 3 — Practitioner: Chooses an existing pattern or component for a piece of
   work and explains why it fits the team's strategy — already working
   above this level's own baseline.
 - 4 — Expert: Shapes design strategy for a team or organisation — well
@@ -254,10 +243,9 @@ sat at associate graphic designer.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -272,20 +260,18 @@ to explain the importance of constructive feedback in the design process.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework repeats associate graphic designer's
+Baseline: 1 — Awareness. The framework repeats associate graphic designer's
 wording for this skill exactly, so the baseline stays where it sat at
 associate graphic designer.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a technique for bringing multiple people's
-  perspectives into a design.
-- 1 — Beginner: Explains a technique for gathering multiple perspectives,
+- 1 — Awareness: Explains a technique for gathering multiple perspectives,
   such as a design crit or workshop, and explains why constructive feedback
   matters in the design process.
-- 2 — Intermediate: Takes part constructively in a design crit or workshop
+- 2 — Working: Takes part constructively in a design crit or workshop
   and visibly applies feedback received.
-- 3 — Advanced: Helps facilitate a small collaborative design session —
+- 3 — Practitioner: Helps facilitate a small collaborative design session —
   already working above this level's own baseline.
 - 4 — Expert: Runs collaborative design practice across a team — well above
   this level.
@@ -301,10 +287,9 @@ associate graphic designer.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -320,21 +305,19 @@ test a design idea.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Both bullets describe actually analysing and
+Baseline: 2 — Working. Both bullets describe actually analysing and
 using evidence with others, not just explaining where evidence comes from —
 a genuine step up from associate graphic designer's explain-and-identify
 wording.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a piece of evidence, such as analytics data, to
-  a design decision.
-- 1 — Beginner: Explains what a piece of evidence shows, with support
+- 1 — Awareness: Explains what a piece of evidence shows, with support
   working out what it means for a design.
-- 2 — Intermediate: Analyses and synthesises evidence relevant to users or
+- 2 — Working: Analyses and synthesises evidence relevant to users or
   a service, and works with a researcher or analyst to use it to inform,
   develop or test a design idea.
-- 3 — Advanced: Independently designs a small piece of evidence-gathering,
+- 3 — Practitioner: Independently designs a small piece of evidence-gathering,
   such as a short test, to answer a specific design question — already
   working above this level's own baseline.
 - 4 — Expert: Leads evidence-based design practice for a team — well above
@@ -351,10 +334,9 @@ wording.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -371,21 +353,19 @@ techniques; and use and iterate design patterns and components.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Every bullet is now a doing verb — apply,
+Baseline: 2 — Working. Every bullet is now a doing verb — apply,
 iterate, prototype, use — a clear step up from associate graphic designer's
 describe-and-explain wording, though still short of running iteration
 independently at scale.
 
 **Behavioural indicators**
 
-- 0 — None: Produces one version of a design and does not revisit it in
-  light of research or feedback.
-- 1 — Beginner: Makes a change to a design when told the research findings
+- 1 — Awareness: Makes a change to a design when told the research findings
   that require it.
-- 2 — Intermediate: Applies iterative and agile principles to their own
+- 2 — Working: Applies iterative and agile principles to their own
   work, prototypes ideas at more than one fidelity, and uses and iterates
   design patterns and components across successive rounds of research.
-- 3 — Advanced: Plans and runs a full iteration cycle — prototype, test,
+- 3 — Practitioner: Plans and runs a full iteration cycle — prototype, test,
   learn, revise — with minimal support — already working above this
   level's own baseline.
 - 4 — Expert: Coaches others in iterative practice and improves how a team
@@ -402,10 +382,9 @@ independently at scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -421,20 +400,18 @@ with.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework repeats associate graphic designer's
+Baseline: 1 — Awareness. The framework repeats associate graphic designer's
 wording for this skill exactly, so the baseline stays where it sat at
 associate graphic designer.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what user-centred design contributes to an
-  organisation.
-- 1 — Beginner: Explains the role user-centred design plays in an
+- 1 — Awareness: Explains the role user-centred design plays in an
   organisation, describes what a design leader typically does, and
   identifies a leader their team needs to work with.
-- 2 — Intermediate: Explains how a specific design leadership decision
+- 2 — Working: Explains how a specific design leadership decision
   affected a piece of work they were part of.
-- 3 — Advanced: Takes on a small piece of informal leadership within a
+- 3 — Practitioner: Takes on a small piece of informal leadership within a
   team — already working above this level's own baseline.
 - 4 — Expert: Leads design for a team or organisation — well above this
   level.
@@ -449,10 +426,9 @@ associate graphic designer.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -461,13 +437,13 @@ associate graphic designer.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Design communication | 2 — Intermediate | | |
-| Designing for everyone | 2 — Intermediate | | |
-| Designing strategically | 1 — Beginner | | |
-| Designing together | 1 — Beginner | | |
-| Evidence-based design | 2 — Intermediate | | |
-| Iterative design | 2 — Intermediate | | |
-| Leading design | 1 — Beginner | | |
+| Design communication | 2 — Working | | |
+| Designing for everyone | 2 — Working | | |
+| Designing strategically | 1 — Awareness | | |
+| Designing together | 1 — Awareness | | |
+| Evidence-based design | 2 — Working | | |
+| Iterative design | 2 — Working | | |
+| Leading design | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

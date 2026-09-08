@@ -49,15 +49,14 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it or
 how they feel about it.
@@ -117,18 +116,16 @@ working.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Compare and select" and "use a blended approach
+Baseline: 3 — Practitioner. "Compare and select" and "use a blended approach
 depending on the context" describe independent judgement about method, not
 just applying a given approach — a strong, self-directed grasp of the skill.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot compare two delivery methods or say which would suit a
-  given context.
-- 1 — Beginner: Applies an Agile method someone else selected, with guidance.
-- 2 — Intermediate: Applies Agile principles and tools independently within
+- 1 — Awareness: Applies an Agile method someone else selected, with guidance.
+- 2 — Working: Applies Agile principles and tools independently within
   a single, familiar context.
-- 3 — Advanced: Independently compares and selects the most appropriate
+- 3 — Practitioner: Independently compares and selects the most appropriate
   delivery method for a team's context, recognises and adapts when something
   is not working, and encourages reflective practice to improve ways of
   working.
@@ -146,10 +143,9 @@ just applying a given approach — a strong, self-directed grasp of the skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -165,7 +161,7 @@ be brought into digital, data and technology projects.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is
+Baseline: 2 — Working. The framework's wording for this skill is
 unchanged from the associate delivery manager level; this level's growth in
 accountability shows up in the team-facing skills rather than in commercial
 management, which stays a supporting rather than a leading responsibility
@@ -173,14 +169,12 @@ here.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why a project might need to work with a
-  contracted supplier.
-- 1 — Beginner: Can describe when a third party might be brought into a
+- 1 — Awareness: Can describe when a third party might be brought into a
   project.
-- 2 — Intermediate: Acts as the day-to-day point of contact for a supplier,
+- 2 — Working: Acts as the day-to-day point of contact for a supplier,
   understands the internal processes involved, and knows how and when to
   involve a third party in a project.
-- 3 — Advanced: Not expected at this level. Taking responsibility for complex
+- 3 — Practitioner: Not expected at this level. Taking responsibility for complex
   supplier relationships and negotiating contracts belongs to a senior
   delivery manager or above.
 - 4 — Expert: Not expected at this level.
@@ -195,10 +189,9 @@ here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -214,19 +207,17 @@ discussions within the team or with diverse senior stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Manage" stakeholder expectations and "support or
+Baseline: 3 — Practitioner. "Manage" stakeholder expectations and "support or
 host difficult discussions... with diverse senior stakeholders" describes
 confident, largely independent handling of communication that carries real
 stakes.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to explain a technical concept to a non-technical
-  audience or vice versa.
-- 1 — Beginner: Communicates simple, low-stakes information clearly.
-- 2 — Intermediate: Supports discussions within a multidisciplinary team,
+- 1 — Awareness: Communicates simple, low-stakes information clearly.
+- 2 — Working: Supports discussions within a multidisciplinary team,
   with some tension in them.
-- 3 — Advanced: Independently listens to and interprets stakeholder needs,
+- 3 — Practitioner: Independently listens to and interprets stakeholder needs,
   manages their expectations, and hosts a difficult discussion involving
   senior stakeholders, keeping it constructive.
 - 4 — Expert: Not expected at this level. Mediating and strengthening
@@ -244,10 +235,9 @@ stakes.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -262,19 +252,17 @@ budget, and to understand how and when to escalate issues.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a step up from associate delivery
+Baseline: 2 — Working. This is a step up from associate delivery
 manager's pure understanding into real, active monitoring and reporting, but
 short of setting or negotiating a budget, which belongs to a later level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how cost and value trade off against each other
-  on a project.
-- 1 — Beginner: Can explain the financial impact of the team's work but has
+- 1 — Awareness: Can explain the financial impact of the team's work but has
   not monitored or reported on a budget.
-- 2 — Intermediate: Monitors cost and budget for a team, reports on financial
+- 2 — Working: Monitors cost and budget for a team, reports on financial
   delivery, and balances cost against value in a real decision.
-- 3 — Advanced: Not expected at this level. Negotiating or setting budgets in
+- 3 — Practitioner: Not expected at this level. Negotiating or setting budgets in
   complex environments belongs to a senior delivery manager or above.
 - 4 — Expert: Not expected at this level.
 
@@ -289,10 +277,9 @@ short of setting or negotiating a budget, which belongs to a later level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -310,21 +297,19 @@ use new information to adapt approaches to life cycle management.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "With some support" signals real, hands-on
+Baseline: 2 — Working. "With some support" signals real, hands-on
 management of a product or service through a phase, though not yet the fully
 independent, evidence-led judgement about whether a team should continue,
 change direction, or stop that a later level describes.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the phases of a product or service life cycle or say
-  what changes between them.
-- 1 — Beginner: Can describe what changes between phases but has not managed
+- 1 — Awareness: Can describe what changes between phases but has not managed
   delivery through one.
-- 2 — Intermediate: Manages delivery through a phase with some support,
+- 2 — Working: Manages delivery through a phase with some support,
   assesses readiness to move to the next phase, and adapts the approach when
   new information emerges.
-- 3 — Advanced: Not expected at this level. Deciding, with evidence, whether a
+- 3 — Practitioner: Not expected at this level. Deciding, with evidence, whether a
   team should continue, change direction or stop belongs to a senior delivery
   manager or above.
 - 4 — Expert: Not expected at this level.
@@ -339,10 +324,9 @@ change direction, or stop that a later level describes.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -358,18 +342,17 @@ team.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Facilitate... managing the pace and tempo" for a
+Baseline: 3 — Practitioner. "Facilitate... managing the pace and tempo" for a
 whole team, and handling risks that reach outside the team's own boundary,
 describes independent ownership of delivery flow, not the smaller, contained
 scope described at the level below.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what affects a team's delivery pace.
-- 1 — Beginner: Tracks a dependency or risk when pointed at it.
-- 2 — Intermediate: Tracks dependencies and flags risks within a small,
+- 1 — Awareness: Tracks a dependency or risk when pointed at it.
+- 2 — Working: Tracks dependencies and flags risks within a small,
   supported scope.
-- 3 — Advanced: Independently facilitates a team's delivery flow and pace,
+- 3 — Practitioner: Independently facilitates a team's delivery flow and pace,
   and actively addresses risks, issues and dependencies even where ownership
   sits outside the team.
 - 4 — Expert: Not expected at this level. Optimising delivery flow across
@@ -386,10 +369,9 @@ scope described at the level below.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -405,17 +387,15 @@ processes, and to guide teams through the implementation of a new process.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Identify and challenge" organisational, not just
+Baseline: 3 — Practitioner. "Identify and challenge" organisational, not just
 team-level, processes and "coach the organisation" describe independent
 judgement exercised beyond someone's own team.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify a process that is getting in the way of a team's
-  output.
-- 1 — Beginner: Supports a team in following an established process.
-- 2 — Intermediate: Helps a team adapt its own process, with some support.
-- 3 — Advanced: Identifies and challenges an unnecessarily complicated
+- 1 — Awareness: Supports a team in following an established process.
+- 2 — Working: Helps a team adapt its own process, with some support.
+- 3 — Practitioner: Identifies and challenges an unnecessarily complicated
   organisational process, coaches the organisation to inspect and adapt it,
   and guides a team through implementing a new process.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -430,10 +410,9 @@ judgement exercised beyond someone's own team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -451,20 +430,18 @@ their capacity.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a substantial, active list — prioritising,
+Baseline: 3 — Practitioner. This is a substantial, active list — prioritising,
 using data, managing complex dependencies, providing delivery confidence —
 that describes independent ownership of a team's planning, a clear step up
 from the awareness expected of an associate delivery manager.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a team's plan should account for its
-  capacity.
-- 1 — Beginner: Understands the importance of planning but has not produced
+- 1 — Awareness: Understands the importance of planning but has not produced
   one.
-- 2 — Intermediate: Contributes to a plan with support, and can explain a
+- 2 — Working: Contributes to a plan with support, and can explain a
   dependency it depends on.
-- 3 — Advanced: Independently prioritises high-value work using data, manages
+- 3 — Practitioner: Independently prioritises high-value work using data, manages
   complex dependencies, removes blockers affecting the plan, and ensures the
   team plans to its actual capacity.
 - 4 — Expert: Not expected at this level. Leading a continual planning
@@ -481,10 +458,9 @@ from the awareness expected of an associate delivery manager.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -500,17 +476,16 @@ create the best team makeup depending on the situation.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Bring people together to form" a team and "empower
+Baseline: 3 — Practitioner. "Bring people together to form" a team and "empower
 it to deliver" describes independent ownership of a team's dynamics, matching
 the level description's own accountability for building and maintaining a
 motivated, collaborating team.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what makes a team's dynamic work well or poorly.
-- 1 — Beginner: Explains, in general terms, why team dynamics matter.
-- 2 — Intermediate: Supports a team's established dynamic without shaping it.
-- 3 — Advanced: Independently brings people together to form a motivated
+- 1 — Awareness: Explains, in general terms, why team dynamics matter.
+- 2 — Working: Supports a team's established dynamic without shaping it.
+- 3 — Practitioner: Independently brings people together to form a motivated
   team, creates the right environment for it to deliver, recognises and deals
   with dynamics issues, and helps shape the team's makeup for a given
   situation.
@@ -528,10 +503,9 @@ motivated, collaborating team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -540,15 +514,15 @@ motivated, collaborating team.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Agile and Lean practices | 3 — Advanced | | |
-| Commercial management | 2 — Intermediate | | |
-| Communicating between the technical and non-technical | 3 — Advanced | | |
-| Financial management | 2 — Intermediate | | |
-| Life cycle management | 2 — Intermediate | | |
-| Maintaining delivery momentum | 3 — Advanced | | |
-| Making a process work | 3 — Advanced | | |
-| Planning | 3 — Advanced | | |
-| Team dynamics and collaboration | 3 — Advanced | | |
+| Agile and Lean practices | 3 — Practitioner | | |
+| Commercial management | 2 — Working | | |
+| Communicating between the technical and non-technical | 3 — Practitioner | | |
+| Financial management | 2 — Working | | |
+| Life cycle management | 2 — Working | | |
+| Maintaining delivery momentum | 3 — Practitioner | | |
+| Making a process work | 3 — Practitioner | | |
+| Planning | 3 — Practitioner | | |
+| Team dynamics and collaboration | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

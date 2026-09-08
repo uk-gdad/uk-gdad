@@ -52,24 +52,23 @@ other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale — how well the person does the thing, on the evidence
 available, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example.** Take Skill: Systems design. At 1 — Beginner, a candidate
-assists with a design component under close direction. At 2 — Intermediate,
+**Worked example.** Take Skill: Systems design. At 1 — Awareness, a candidate
+assists with a design component under close direction. At 2 — Working,
 the baseline for this level, they translate a logical design into a physical
 one, produce a detailed design and document it to the required standards,
 working with well understood technology and managed levels of risk and
-complexity — the framework's own wording for this level. At 3 — Advanced,
+complexity — the framework's own wording for this level. At 3 — Practitioner,
 they take on systems of medium risk and complexity unassisted, and review
 others' work. Calibrate against evidence like this before you start scoring.
 
@@ -110,18 +109,17 @@ software that are available and currently in use.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Describing available tools, rather than writing or
+Baseline: 1 — Awareness. Describing available tools, rather than writing or
 maintaining scripts, is knowledge-level work suited to guided practice at this
 stage.
 
 **Behavioural indicators**
 
-- 0 — None: cannot name a scripting tool used by the team.
-- 1 — Beginner: describes the scripting tools and software currently in use
+- 1 — Awareness: describes the scripting tools and software currently in use
   when asked.
-- 2 — Intermediate: explains why a particular scripting tool is used for a
+- 2 — Working: explains why a particular scripting tool is used for a
   given task.
-- 3 — Advanced: writes or amends a simple script using one of the described
+- 3 — Practitioner: writes or amends a simple script using one of the described
   tools.
 - 4 — Expert: recommends which scripting tool to use for a new task.
 
@@ -136,10 +134,9 @@ stage.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -155,19 +152,18 @@ packages and solutions, or virtual and cloud computing.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Building and configuring solutions, not only
+Baseline: 2 — Working. Building and configuring solutions, not only
 supporting them as at the associate level, is applied, guided delivery — a
 genuine step up, though not yet independent design work.
 
 **Behavioural indicators**
 
-- 0 — None: cannot configure a routine infrastructure component.
-- 1 — Beginner: builds or configures an infrastructure component with a
+- 1 — Awareness: builds or configures an infrastructure component with a
   colleague checking the work.
-- 2 — Intermediate: builds, configures, administers and supports
+- 2 — Working: builds, configures, administers and supports
   infrastructure solutions and services as directed, without needing a check
   at every step.
-- 3 — Advanced: builds and administers infrastructure across several areas
+- 3 — Practitioner: builds and administers infrastructure across several areas
   unassisted.
 - 4 — Expert: sets how infrastructure in their specialism is built and
   administered.
@@ -183,10 +179,9 @@ genuine step up, though not yet independent design work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -200,19 +195,17 @@ controls available to protect solutions and services.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's wording for this skill is unchanged
+Baseline: 1 — Awareness. The framework's wording for this skill is unchanged
 from the associate level, so the baseline holds; this level's growth is
 expressed through IT infrastructure and Systems design instead.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what information security means for
-  infrastructure.
-- 1 — Beginner: explains the basic purpose of information security and names
+- 1 — Awareness: explains the basic purpose of information security and names
   a security control when asked.
-- 2 — Intermediate: explains several security controls accurately and links
+- 2 — Working: explains several security controls accurately and links
   them to a real solution they have worked on.
-- 3 — Advanced: applies security control knowledge to spot a gap in a
+- 3 — Practitioner: applies security control knowledge to spot a gap in a
   solution's protection.
 - 4 — Expert: advises colleagues on which security controls to apply.
 
@@ -227,10 +220,9 @@ expressed through IT infrastructure and Systems design instead.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -245,18 +237,17 @@ development standards principles under guidance.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Applying the principles, even under guidance,
+Baseline: 2 — Working. Applying the principles, even under guidance,
 rather than only explaining why they matter, is a real step up from the
 associate level.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say why modern development standards matter.
-- 1 — Beginner: explains why modern development standards matter, but has
+- 1 — Awareness: explains why modern development standards matter, but has
   not yet applied one.
-- 2 — Intermediate: explains the most important principles and applies them
+- 2 — Working: explains the most important principles and applies them
   to their own work with guidance.
-- 3 — Advanced: applies modern development standards to their work
+- 3 — Practitioner: applies modern development standards to their work
   unassisted.
 - 4 — Expert: supports others in applying modern development standards.
 
@@ -270,10 +261,9 @@ associate level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -287,18 +277,17 @@ the problem has been mitigated or resolved.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Holding onto an issue through a handover rather
+Baseline: 2 — Working. Holding onto an issue through a handover rather
 than dropping it once escalated is basic, guided-but-independent
 professionalism expected of every working-level engineer.
 
 **Behavioural indicators**
 
-- 0 — None: drops an issue once it is out of their hands.
-- 1 — Beginner: keeps an issue open on their own list but needs reminding to
+- 1 — Awareness: keeps an issue open on their own list but needs reminding to
   chase it.
-- 2 — Intermediate: tracks an issue through to a confirmed handover or
+- 2 — Working: tracks an issue through to a confirmed handover or
   resolution without being chased.
-- 3 — Advanced: proactively checks that a handed-over issue actually landed
+- 3 — Practitioner: proactively checks that a handed-over issue actually landed
   with its new owner and was picked up.
 - 4 — Expert: is the person others rely on to never let an issue slip, across
   a whole shift or team.
@@ -314,10 +303,9 @@ professionalism expected of every working-level engineer.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -333,18 +321,17 @@ remedies and preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is
+Baseline: 2 — Working. The framework's wording for this skill is
 unchanged from the associate level, so the baseline holds; this level's
 growth is expressed through IT infrastructure and Systems design instead.
 
 **Behavioural indicators**
 
-- 0 — None: cannot distinguish a problem from an incident.
-- 1 — Beginner: investigates a problem when told exactly what to look at.
-- 2 — Intermediate: investigates a problem unassisted, correctly judges
+- 1 — Awareness: investigates a problem when told exactly what to look at.
+- 2 — Working: investigates a problem unassisted, correctly judges
   whether it is strategic, tactical or operational, and contributes ideas to
   the remedy.
-- 3 — Advanced: leads the investigation of a problem and proposes the
+- 3 — Practitioner: leads the investigation of a problem and proposes the
   preventative measure that is adopted.
 - 4 — Expert: spots patterns across multiple problems that others have
   missed.
@@ -359,10 +346,9 @@ growth is expressed through IT infrastructure and Systems design instead.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -376,17 +362,16 @@ that work.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Turning a set of inputs into a working framework
+Baseline: 2 — Working. Turning a set of inputs into a working framework
 for their own area of work is applied, guided practice, short of the
 bigger-picture view expected at senior levels.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe how their daily tasks fit into the wider service.
-- 1 — Beginner: follows a service framework someone else has set up.
-- 2 — Intermediate: takes several inputs and organises their own work into a
+- 1 — Awareness: follows a service framework someone else has set up.
+- 2 — Working: takes several inputs and organises their own work into a
   coherent, working routine.
-- 3 — Advanced: improves a service framework so it works better for the wider
+- 3 — Practitioner: improves a service framework so it works better for the wider
   team.
 - 4 — Expert: designs a service framework that a whole team adopts.
 
@@ -401,10 +386,9 @@ bigger-picture view expected at senior levels.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -422,7 +406,7 @@ understood technology, identifying appropriate patterns.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Producing detailed, documented designs for
+Baseline: 2 — Working. Producing detailed, documented designs for
 systems of managed risk and complexity is real design work, but bounded to
 well understood technology and managed risk — a clear step above assisting
 with components, but not yet the medium-risk, review-others'-work
@@ -430,13 +414,12 @@ independence of the level above.
 
 **Behavioural indicators**
 
-- 0 — None: cannot translate a logical design into a physical one.
-- 1 — Beginner: translates part of a logical design into a physical one with
+- 1 — Awareness: translates part of a logical design into a physical one with
   close review.
-- 2 — Intermediate: translates logical designs into physical designs,
+- 2 — Working: translates logical designs into physical designs,
   produces detailed, documented designs for systems of managed risk and
   complexity, and works with well understood technology unassisted.
-- 3 — Advanced: designs systems of medium risk and complexity independently,
+- 3 — Practitioner: designs systems of medium risk and complexity independently,
   and reviews a colleague's design.
 - 4 — Expert: sets the design standards others follow.
 
@@ -450,10 +433,9 @@ independence of the level above.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -467,18 +449,17 @@ systems, and works on more complex integration as part of a wider team.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Building and testing simple interfaces
+Baseline: 2 — Working. Building and testing simple interfaces
 independently, while still contributing to complex integration as part of a
 team, is a real step up from explaining the concepts at the associate level.
 
 **Behavioural indicators**
 
-- 0 — None: cannot build a simple interface between two systems.
-- 1 — Beginner: builds a simple interface with a colleague checking the
+- 1 — Awareness: builds a simple interface with a colleague checking the
   result.
-- 2 — Intermediate: builds and tests simple interfaces unassisted, and
+- 2 — Working: builds and tests simple interfaces unassisted, and
   contributes to more complex integration as part of a wider team.
-- 3 — Advanced: leads the build of a moderately complex interface.
+- 3 — Practitioner: leads the build of a moderately complex interface.
 - 4 — Expert: designs the integration approach for a complex, multi-system
   programme.
 
@@ -491,10 +472,9 @@ team, is a real step up from explaining the concepts at the associate level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -508,17 +488,16 @@ and understands the role of testing and how it works.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording — "under supervision" —
+Baseline: 1 — Awareness. The framework's own wording — "under supervision" —
 sets the ceiling for this skill at this level.
 
 **Behavioural indicators**
 
-- 0 — None: cannot follow a test script.
-- 1 — Beginner: executes a test script correctly with a colleague checking
+- 1 — Awareness: executes a test script correctly with a colleague checking
   the outcome, and can explain what testing is for.
-- 2 — Intermediate: executes test scripts correctly without needing a check
+- 2 — Working: executes test scripts correctly without needing a check
   at every step.
-- 3 — Advanced: identifies gaps in a test script and suggests improvements to
+- 3 — Practitioner: identifies gaps in a test script and suggests improvements to
   it.
 - 4 — Expert: writes test scripts that others execute.
 
@@ -533,10 +512,9 @@ sets the ceiling for this skill at this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -550,18 +528,17 @@ different technology capabilities.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Troubleshooting across different technology
+Baseline: 2 — Working. Troubleshooting across different technology
 capabilities unassisted is a genuine step up from the associate level's basic,
 single-area troubleshooting.
 
 **Behavioural indicators**
 
-- 0 — None: cannot follow a basic troubleshooting step.
-- 1 — Beginner: troubleshoots a familiar fault in one technology area, with a
+- 1 — Awareness: troubleshoots a familiar fault in one technology area, with a
   colleague checking the approach.
-- 2 — Intermediate: troubleshoots and identifies problems across different
+- 2 — Working: troubleshoots and identifies problems across different
   technology capabilities unassisted.
-- 3 — Advanced: breaks a problem spanning several technology areas down into
+- 3 — Practitioner: breaks a problem spanning several technology areas down into
   its component parts to find the root cause.
 - 4 — Expert: is the escalation point for faults that have resisted diagnosis
   by others.
@@ -577,10 +554,9 @@ single-area troubleshooting.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -589,17 +565,17 @@ single-area troubleshooting.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Coding and scripting | 1 — Beginner | | |
-| IT infrastructure | 2 — Intermediate | | |
-| Information security | 1 — Beginner | | |
-| Modern development standards | 2 — Intermediate | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 2 — Intermediate | | |
-| Service focus | 2 — Intermediate | | |
-| Systems design | 2 — Intermediate | | |
-| Systems integration | 2 — Intermediate | | |
-| Testing | 1 — Beginner | | |
-| Troubleshooting and problem resolution | 2 — Intermediate | | |
+| Coding and scripting | 1 — Awareness | | |
+| IT infrastructure | 2 — Working | | |
+| Information security | 1 — Awareness | | |
+| Modern development standards | 2 — Working | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 2 — Working | | |
+| Service focus | 2 — Working | | |
+| Systems design | 2 — Working | | |
+| Systems integration | 2 — Working | | |
+| Testing | 1 — Awareness | | |
+| Troubleshooting and problem resolution | 2 — Working | | |
 
 The baseline for this role level is normally met when every skill above is
 rated at or above its baseline target.

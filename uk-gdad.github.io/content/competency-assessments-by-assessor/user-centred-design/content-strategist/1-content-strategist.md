@@ -58,24 +58,21 @@ other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using Strategic thinking, a skill this level names:
 
-- A candidate who cannot connect a piece of content work to any wider
-  organisational strategy sits at **0 — None**.
 - A candidate who contributes ideas to a strategic discussion that get taken
   up, but has not led a strategy's design themselves, sits at **2 —
-  Intermediate**.
+  Working**.
 - A candidate who leads the design and implementation of a content strategy
   end to end, and directs the evaluation of strategies and policies against
   business requirements, sits at **4 — Expert** — the baseline this
@@ -127,7 +124,7 @@ priorities and scope.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The bullets describe advising and helping teams
+Baseline: 3 — Practitioner. The bullets describe advising and helping teams
 decide and prioritise their own delivery approach — genuine, independent
 practice at team level — but they stop short of the level's most senior
 bullets, which describe leading or directing across multiple teams, so this
@@ -135,13 +132,11 @@ skill sits a point below the level's top baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a delivery method affects content strategy
-  outcomes.
-- 1 — Beginner: Names common delivery approaches but needs support comparing
+- 1 — Awareness: Names common delivery approaches but needs support comparing
   them for a specific piece of work.
-- 2 — Intermediate: Compares delivery approaches for a straightforward piece
+- 2 — Working: Compares delivery approaches for a straightforward piece
   of work and recommends one, with review.
-- 3 — Advanced: Independently compares and selects delivery approaches
+- 3 — Practitioner: Independently compares and selects delivery approaches
   across a programme of content work, measures outcomes, and helps a team
   stick to an agreed MVP and scope.
 - 4 — Expert: Sets the delivery approach standard across multiple teams and
@@ -159,10 +154,9 @@ skill sits a point below the level's top baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -177,7 +171,7 @@ their team.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The bullets describe judgement about technique
+Baseline: 3 — Practitioner. The bullets describe judgement about technique
 choice and persuading a team of prototyping's value — independent practice —
 but the skill's scope is narrower than the level's headline strategic
 accountabilities, so it does not reach Expert on the evidence the framework
@@ -185,13 +179,11 @@ gives.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a team would prototype a piece of content
-  strategy or taxonomy work before committing to it.
-- 1 — Beginner: Names a prototyping technique but needs help judging when to
+- 1 — Awareness: Names a prototyping technique but needs help judging when to
   use it.
-- 2 — Intermediate: Chooses a reasonable prototyping technique for a
+- 2 — Working: Chooses a reasonable prototyping technique for a
   straightforward case, with review.
-- 3 — Advanced: Independently judges which prototyping technique fits a
+- 3 — Practitioner: Independently judges which prototyping technique fits a
   given strategy or taxonomy problem, and persuades a sceptical team of its
   value.
 - 4 — Expert: Introduces prototyping practice across teams that had not used
@@ -209,10 +201,9 @@ gives.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -235,13 +226,11 @@ is the framework's own definition of expert practice for this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe who the senior stakeholders are for a piece of
-  content strategy work, or what they need.
-- 1 — Beginner: Identifies senior stakeholders and their objectives, with
+- 1 — Awareness: Identifies senior stakeholders and their objectives, with
   support.
-- 2 — Intermediate: Manages a stakeholder relationship for a defined piece
+- 2 — Working: Manages a stakeholder relationship for a defined piece
   of work, escalating disagreements to someone more senior.
-- 3 — Advanced: Sets stakeholders' objectives and supports a team to meet
+- 3 — Practitioner: Sets stakeholders' objectives and supports a team to meet
   them, resolving straightforward disagreements without escalation.
 - 4 — Expert: Directs the stakeholder relationship strategy across teams,
   and personally negotiates with senior stakeholders to resolve a genuine
@@ -258,10 +247,9 @@ is the framework's own definition of expert practice for this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -283,13 +271,11 @@ anywhere in this level's summary.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a piece of content work to any wider
-  organisational strategy.
-- 1 — Beginner: Explains how their own work connects to a stated strategy,
+- 1 — Awareness: Explains how their own work connects to a stated strategy,
   without having shaped it.
-- 2 — Intermediate: Contributes ideas to a strategic discussion that get
+- 2 — Working: Contributes ideas to a strategic discussion that get
   taken up.
-- 3 — Advanced: Leads part of a strategy's design, or evaluates whether a
+- 3 — Practitioner: Leads part of a strategy's design, or evaluates whether a
   strategy is meeting business requirements, with oversight.
 - 4 — Expert: Leads the design and implementation of a content strategy end
   to end, and directs the evaluation of strategies and policies against
@@ -306,10 +292,9 @@ anywhere in this level's summary.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -326,7 +311,7 @@ thinking to provide the best service for the end user.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The bullets describe directing others' tool and
+Baseline: 3 — Practitioner. The bullets describe directing others' tool and
 method choices and bringing longitudinal insight into user need — independent
 expert practice — but the wording frames the person as informing and
 directing others' work on users, rather than owning strategy outright the way
@@ -334,13 +319,11 @@ Strategic thinking does, so it sits a point below the level's top baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how user needs have changed for the service they
-  work on.
-- 1 — Beginner: Describes current user needs, but not how they have changed
+- 1 — Awareness: Describes current user needs, but not how they have changed
   over time.
-- 2 — Intermediate: Applies a known user-focused method to a piece of work,
+- 2 — Working: Applies a known user-focused method to a piece of work,
   with review.
-- 3 — Advanced: Gives a team direction on which user research tool or
+- 3 — Practitioner: Gives a team direction on which user research tool or
   method to use, and explains how user needs have shifted over time in a way
   that changes what the business does.
 - 4 — Expert: Sets the user-focus approach across multiple teams and
@@ -358,10 +341,9 @@ Strategic thinking does, so it sits a point below the level's top baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -391,13 +373,11 @@ in content strategy and taxonomy design".
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe an end-to-end user journey for a service they
-  have worked on, or where content sits within it.
-- 1 — Beginner: Describes an end-to-end journey and names a content problem
+- 1 — Awareness: Describes an end-to-end journey and names a content problem
   within it, with support identifying the fix.
-- 2 — Intermediate: Identifies a journey fix or content improvement
+- 2 — Working: Identifies a journey fix or content improvement
   independently for a straightforward case.
-- 3 — Advanced: Runs a regular content review and evaluation process for a
+- 3 — Practitioner: Runs a regular content review and evaluation process for a
   piece of work, and encourages a continuous improvement mindset in a small
   team.
 - 4 — Expert: Takes responsibility for the quality of junior colleagues'
@@ -416,10 +396,9 @@ in content strategy and taxonomy design".
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -428,11 +407,11 @@ in content strategy and taxonomy design".
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Agile working | 3 — Advanced | | |
-| Prototyping | 3 — Advanced | | |
+| Agile working | 3 — Practitioner | | |
+| Prototyping | 3 — Practitioner | | |
 | Stakeholder relationship management | 4 — Expert | | |
 | Strategic thinking | 4 — Expert | | |
-| User focus | 3 — Advanced | | |
+| User focus | 3 — Practitioner | | |
 | User-centred content design | 4 — Expert | | |
 
 **Scoring guidance.** The baseline for this role level is normally met when

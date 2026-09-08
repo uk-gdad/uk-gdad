@@ -2,10 +2,85 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Graphic designer** role at the **Head of graphic design** level. You are an expert practitioner with broad industry experience who defines and assures best practice while influencing, leading, and mentoring. You influence both design and organisational strategy and priorities, collaborate with counterparts across government, and focus on ensuring the right conditions and environment for designers to work effectively. Your development is now about leadership and stewardship.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/graphic-designer/6-head-of-graphic-design.md`](../../../assessments/user-centred-design/graphic-designer/6-head-of-graphic-design.md)
+- Upskilling: [`upskills/user-centred-design/graphic-designer/6-head-of-graphic-design.md`](../../../upskills/user-centred-design/graphic-designer/6-head-of-graphic-design.md)
+
+### Role Level Focus: Head of Graphic Design
+
+- [ ] Influence Organisational Strategy: Take a seat where priorities and funding are decided.
+- [ ] Collaborate Across Government: Maintain standing relationships with counterparts in other departments.
+- [ ] Create the Right Conditions: Audit what stops your designers doing good work, and remove it.
+- [ ] Define and Assure Best Practice: Own what good design looks like and how it is checked.
+- [ ] Develop Capability: Own career paths, internal mobility, and recruitment for designers.
+- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
+- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
+
+### Skill: Design communication
+
+- [ ] Gain Senior Support: Win backing for design decisions and strategy from senior leaders.
+- [ ] Communicate Across Boundaries: Take design strategy beyond your own organisation.
+- [ ] Coach Communication: Develop others' ability to communicate design effectively.
+- [ ] Improve the Methods: Introduce better ways of communicating design and working in the open.
+
+### Skill: Designing for everyone
+
+- [ ] Improve Practice Measurably: Raise inclusive, accessible, and sustainable design practice organisation-wide.
+- [ ] Address Privilege and Power: Help others understand and mitigate their influence on design and delivery.
+- [ ] Make Inclusion Structural: Build inclusion into standards, processes, and funding.
+- [ ] Evidence the Improvement: Show measurably that practice has improved.
+
+### Skill: Designing strategically
+
+- [ ] Make Design Part of Strategy: Ensure design shapes the development and implementation of organisational strategy.
+- [ ] Get Design in Early: Work with leaders so design informs policy, technology, and delivery decisions in time.
+- [ ] Enable Patterns Organisation-Wide: Make patterns and components usable and used across the organisation.
+- [ ] Connect to Government Direction: Align your design direction with wider government strategy.
+
+### Skill: Designing together
+
+- [ ] Run Sessions With Senior Leaders: Plan and run design sessions that include senior stakeholders.
+- [ ] Connect Teams Across Boundaries: Help teams work across organisational lines.
+- [ ] Coach Stakeholder Involvement: Teach designers how to involve stakeholders at any level.
+- [ ] Improve How Teams Design Together: Introduce better collaborative methods.
+
+### Skill: Evidence-based design
+
+- [ ] Embed Hypothesis-Driven Design: Make it standard practice across teams.
+- [ ] Guide the Organisation: Show the organisation how to use evidence to improve services.
+- [ ] Use Evidence to Change How Work Happens: Improve the organisation itself, not just its outputs.
+- [ ] Share Insights Widely: Ensure user insights reach the wider organisation and across government.
+
+### Skill: Iterative design
+
+- [ ] Embed Iterative Practice: Make iterative design and Agile working normal across the organisation.
+- [ ] Lead Complex Prototyping: Prototype complex ideas at any fidelity.
+- [ ] Help Teams Adapt: Support teams to respond quickly to changing requirements and needs.
+- [ ] Iterate Structures and Processes: Improve delivery processes and team structures.
+
+### Skill: Leading design
+
+- [ ] Set the Design Vision: Lead design across multiple teams or the whole organisation.
+- [ ] Work With Senior Leaders: Be effective with leaders across your organisation and the wider public sector.
+- [ ] Support Learning and Experimentation: Build a culture where trying and failing is safe.
+- [ ] Improve Design Maturity: Measurably raise design maturity in your organisation and its partners.
+
+### Skill Growth Plan: Beyond Head of Graphic Design
+
+- [ ] Review Adjacent Roles: Read the head of user-centred design, service owner, and deputy director descriptions.
+- [ ] Broaden Beyond Design: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,78 +178,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Graphic designer** role at the **Head of graphic design** level. You are an expert practitioner with broad industry experience who defines and assures best practice while influencing, leading, and mentoring. You influence both design and organisational strategy and priorities, collaborate with counterparts across government, and focus on ensuring the right conditions and environment for designers to work effectively. Your development is now about leadership and stewardship.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/graphic-designer/6-head-of-graphic-design.md`](../../../assessments/user-centred-design/graphic-designer/6-head-of-graphic-design.md)
-- Upskilling: [`upskills/user-centred-design/graphic-designer/6-head-of-graphic-design.md`](../../../upskills/user-centred-design/graphic-designer/6-head-of-graphic-design.md)
-
-### Role Level Focus: Head of Graphic Design
-
-- [ ] Influence Organisational Strategy: Take a seat where priorities and funding are decided.
-- [ ] Collaborate Across Government: Maintain standing relationships with counterparts in other departments.
-- [ ] Create the Right Conditions: Audit what stops your designers doing good work, and remove it.
-- [ ] Define and Assure Best Practice: Own what good design looks like and how it is checked.
-- [ ] Develop Capability: Own career paths, internal mobility, and recruitment for designers.
-- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
-- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
-
-### Skill: Design communication
-
-- [ ] Gain Senior Support: Win backing for design decisions and strategy from senior leaders.
-- [ ] Communicate Across Boundaries: Take design strategy beyond your own organisation.
-- [ ] Coach Communication: Develop others' ability to communicate design effectively.
-- [ ] Improve the Methods: Introduce better ways of communicating design and working in the open.
-
-### Skill: Designing for everyone
-
-- [ ] Improve Practice Measurably: Raise inclusive, accessible, and sustainable design practice organisation-wide.
-- [ ] Address Privilege and Power: Help others understand and mitigate their influence on design and delivery.
-- [ ] Make Inclusion Structural: Build inclusion into standards, processes, and funding.
-- [ ] Evidence the Improvement: Show measurably that practice has improved.
-
-### Skill: Designing strategically
-
-- [ ] Make Design Part of Strategy: Ensure design shapes the development and implementation of organisational strategy.
-- [ ] Get Design in Early: Work with leaders so design informs policy, technology, and delivery decisions in time.
-- [ ] Enable Patterns Organisation-Wide: Make patterns and components usable and used across the organisation.
-- [ ] Connect to Government Direction: Align your design direction with wider government strategy.
-
-### Skill: Designing together
-
-- [ ] Run Sessions With Senior Leaders: Plan and run design sessions that include senior stakeholders.
-- [ ] Connect Teams Across Boundaries: Help teams work across organisational lines.
-- [ ] Coach Stakeholder Involvement: Teach designers how to involve stakeholders at any level.
-- [ ] Improve How Teams Design Together: Introduce better collaborative methods.
-
-### Skill: Evidence-based design
-
-- [ ] Embed Hypothesis-Driven Design: Make it standard practice across teams.
-- [ ] Guide the Organisation: Show the organisation how to use evidence to improve services.
-- [ ] Use Evidence to Change How Work Happens: Improve the organisation itself, not just its outputs.
-- [ ] Share Insights Widely: Ensure user insights reach the wider organisation and across government.
-
-### Skill: Iterative design
-
-- [ ] Embed Iterative Practice: Make iterative design and Agile working normal across the organisation.
-- [ ] Lead Complex Prototyping: Prototype complex ideas at any fidelity.
-- [ ] Help Teams Adapt: Support teams to respond quickly to changing requirements and needs.
-- [ ] Iterate Structures and Processes: Improve delivery processes and team structures.
-
-### Skill: Leading design
-
-- [ ] Set the Design Vision: Lead design across multiple teams or the whole organisation.
-- [ ] Work With Senior Leaders: Be effective with leaders across your organisation and the wider public sector.
-- [ ] Support Learning and Experimentation: Build a culture where trying and failing is safe.
-- [ ] Improve Design Maturity: Measurably raise design maturity in your organisation and its partners.
-
-### Skill Growth Plan: Beyond Head of Graphic Design
-
-- [ ] Review Adjacent Roles: Read the head of user-centred design, service owner, and deputy director descriptions.
-- [ ] Broaden Beyond Design: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

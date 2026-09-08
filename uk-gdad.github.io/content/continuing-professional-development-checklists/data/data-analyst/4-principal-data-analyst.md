@@ -2,10 +2,100 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Data analyst** role at the **Principal data analyst** level. You lead teams or significant areas of data analysis work, determine and implement the standards, processes, and structures that ensure data is prepared, managed, and used effectively, influence organisational decision making, oversee continuous improvement of data practices, and represent the data analyst community inside and outside the organisation. Your development is now about organisational influence and stewardship.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/data-analyst/4-principal-data-analyst.md`](../../../assessments/data/data-analyst/4-principal-data-analyst.md)
+- Upskilling: [`upskills/data/data-analyst/4-principal-data-analyst.md`](../../../upskills/data/data-analyst/4-principal-data-analyst.md)
+
+### Role Level Focus: Principal Data Analyst
+
+- [ ] Set Standards and Structures: Determine how data is prepared, managed, and used across your area.
+- [ ] Influence Organisational Decisions: Get analysis into the rooms where decisions are made.
+- [ ] Oversee Continuous Improvement: Own the improvement of data practice and management.
+- [ ] Represent the Community: Speak for data analysis inside and outside the organisation.
+- [ ] Build Capability: Take responsibility for developing analytical skill across teams.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
+- [ ] Partner Across Professions: Build relationships with policy, operational, and digital colleagues.
+- [ ] Grow Successors: Develop analysts who could take your role.
+
+### Skill: Applying statistical and analytical tools and techniques
+
+- [ ] Identify Insight Opportunities: Spot where statistical insight would support organisational objectives.
+- [ ] Develop and Guide Others: Build capability in a range of techniques and tools.
+- [ ] Oversee Quality Assurance: Own quality assurance and keep improving it.
+- [ ] Influence With Analysis: Use analytical outputs to shift decisions across the organisation and beyond.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
+- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
+- [ ] Represent the Community: Speak for data analysis to large audiences inside and outside the organisation.
+- [ ] Communicate to Boards: Practise the version of an analytical argument a board will act on.
+
+### Skill: Data ethics and privacy
+
+- [ ] Address Concerns With Stakeholders: Work with stakeholders to identify and resolve ethical concerns.
+- [ ] Show the Wider Context: Explain how data ethics fits into the organisational picture.
+- [ ] Research Developments: Track how data ethics and privacy practice is evolving.
+- [ ] Challenge Policies Constructively: Assess and question proposed data ethics policies.
+
+### Skill: Data management
+
+- [ ] Champion Governance: Lead data management and governance in your team and organisation.
+- [ ] Define Responsibilities: Set out and lead implementation of data management responsibilities.
+- [ ] Define Tools and Training: Determine the tools and training needed to implement governance well.
+- [ ] Enable Continuous Improvement: Make practice improvement ongoing rather than periodic.
+
+### Skill: Data preparation and linkage
+
+- [ ] Develop Analytical Models: Build models from a deep understanding of data sources.
+- [ ] Ensure Standards Compliance: Make sure models are implemented in line with modelling standards.
+- [ ] Set Quality Standards: Define data quality standards and make sure stakeholders understand them.
+- [ ] Mentor Others: Develop others' skill in data quality and modelling.
+
+### Skill: Data visualisation
+
+- [ ] Translate Requirements Into Goals: Turn business requirements into visualisation goals.
+- [ ] Set Accessibility Standards: Advocate for new standards in inclusive, accessible visualisation.
+- [ ] Address Capability Gaps: Identify gaps and implement the training to close them.
+- [ ] Promote Adoption: Make good visualisation valued and used across the organisation.
+- [ ] Support Stakeholders Strategically: Help senior people understand and use the story.
+
+### Skill: Delivering business impact through data
+
+- [ ] Champion Data's Role: Make the case for data across the organisation.
+- [ ] Communicate Impact Strategically: Show the business impact of data in terms leaders act on.
+- [ ] Lead Scalable Delivery: Guide others in delivering products aligned to organisational objectives.
+- [ ] Partner to Pivot: Work with other professions to decide when to change direction.
+
+### Skill: Developing code for analysis
+
+- [ ] Promote Coding Standards: Oversee implementation of standards on new and existing outputs.
+- [ ] Contribute Organisation-Wide: Help shape coding standards across the organisation.
+- [ ] Ensure Reproducibility: Make reproducible code and documentation the organisational norm.
+- [ ] Stay Technically Credible: Retain enough hands-on skill to judge the work you are shown.
+
+### Skill: Managing a data project
+
+- [ ] Advise on Problem Statements: Ensure problem definitions meet standards.
+- [ ] Oversee Life Cycle Planning: Advise on planning and implementation across varied data projects.
+- [ ] Share Good Practice: Spread effective ways of working between teams.
+- [ ] Lead Stakeholder Relationships: Own the relationships your teams' projects depend on.
+
+### Skill Growth Plan: Beyond Principal Data Analyst
+
+- [ ] Review Adjacent Roles: Read the head of performance analysis, chief data officer, and data science leadership descriptions.
+- [ ] Broaden Beyond Analysis: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as data or ethics boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,93 +193,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Data analyst** role at the **Principal data analyst** level. You lead teams or significant areas of data analysis work, determine and implement the standards, processes, and structures that ensure data is prepared, managed, and used effectively, influence organisational decision making, oversee continuous improvement of data practices, and represent the data analyst community inside and outside the organisation. Your development is now about organisational influence and stewardship.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/data-analyst/4-principal-data-analyst.md`](../../../assessments/data/data-analyst/4-principal-data-analyst.md)
-- Upskilling: [`upskills/data/data-analyst/4-principal-data-analyst.md`](../../../upskills/data/data-analyst/4-principal-data-analyst.md)
-
-### Role Level Focus: Principal Data Analyst
-
-- [ ] Set Standards and Structures: Determine how data is prepared, managed, and used across your area.
-- [ ] Influence Organisational Decisions: Get analysis into the rooms where decisions are made.
-- [ ] Oversee Continuous Improvement: Own the improvement of data practice and management.
-- [ ] Represent the Community: Speak for data analysis inside and outside the organisation.
-- [ ] Build Capability: Take responsibility for developing analytical skill across teams.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
-- [ ] Partner Across Professions: Build relationships with policy, operational, and digital colleagues.
-- [ ] Grow Successors: Develop analysts who could take your role.
-
-### Skill: Applying statistical and analytical tools and techniques
-
-- [ ] Identify Insight Opportunities: Spot where statistical insight would support organisational objectives.
-- [ ] Develop and Guide Others: Build capability in a range of techniques and tools.
-- [ ] Oversee Quality Assurance: Own quality assurance and keep improving it.
-- [ ] Influence With Analysis: Use analytical outputs to shift decisions across the organisation and beyond.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
-- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
-- [ ] Represent the Community: Speak for data analysis to large audiences inside and outside the organisation.
-- [ ] Communicate to Boards: Practise the version of an analytical argument a board will act on.
-
-### Skill: Data ethics and privacy
-
-- [ ] Address Concerns With Stakeholders: Work with stakeholders to identify and resolve ethical concerns.
-- [ ] Show the Wider Context: Explain how data ethics fits into the organisational picture.
-- [ ] Research Developments: Track how data ethics and privacy practice is evolving.
-- [ ] Challenge Policies Constructively: Assess and question proposed data ethics policies.
-
-### Skill: Data management
-
-- [ ] Champion Governance: Lead data management and governance in your team and organisation.
-- [ ] Define Responsibilities: Set out and lead implementation of data management responsibilities.
-- [ ] Define Tools and Training: Determine the tools and training needed to implement governance well.
-- [ ] Enable Continuous Improvement: Make practice improvement ongoing rather than periodic.
-
-### Skill: Data preparation and linkage
-
-- [ ] Develop Analytical Models: Build models from a deep understanding of data sources.
-- [ ] Ensure Standards Compliance: Make sure models are implemented in line with modelling standards.
-- [ ] Set Quality Standards: Define data quality standards and make sure stakeholders understand them.
-- [ ] Mentor Others: Develop others' skill in data quality and modelling.
-
-### Skill: Data visualisation
-
-- [ ] Translate Requirements Into Goals: Turn business requirements into visualisation goals.
-- [ ] Set Accessibility Standards: Advocate for new standards in inclusive, accessible visualisation.
-- [ ] Address Capability Gaps: Identify gaps and implement the training to close them.
-- [ ] Promote Adoption: Make good visualisation valued and used across the organisation.
-- [ ] Support Stakeholders Strategically: Help senior people understand and use the story.
-
-### Skill: Delivering business impact through data
-
-- [ ] Champion Data's Role: Make the case for data across the organisation.
-- [ ] Communicate Impact Strategically: Show the business impact of data in terms leaders act on.
-- [ ] Lead Scalable Delivery: Guide others in delivering products aligned to organisational objectives.
-- [ ] Partner to Pivot: Work with other professions to decide when to change direction.
-
-### Skill: Developing code for analysis
-
-- [ ] Promote Coding Standards: Oversee implementation of standards on new and existing outputs.
-- [ ] Contribute Organisation-Wide: Help shape coding standards across the organisation.
-- [ ] Ensure Reproducibility: Make reproducible code and documentation the organisational norm.
-- [ ] Stay Technically Credible: Retain enough hands-on skill to judge the work you are shown.
-
-### Skill: Managing a data project
-
-- [ ] Advise on Problem Statements: Ensure problem definitions meet standards.
-- [ ] Oversee Life Cycle Planning: Advise on planning and implementation across varied data projects.
-- [ ] Share Good Practice: Spread effective ways of working between teams.
-- [ ] Lead Stakeholder Relationships: Own the relationships your teams' projects depend on.
-
-### Skill Growth Plan: Beyond Principal Data Analyst
-
-- [ ] Review Adjacent Roles: Read the head of performance analysis, chief data officer, and data science leadership descriptions.
-- [ ] Broaden Beyond Analysis: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as data or ethics boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

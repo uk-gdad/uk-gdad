@@ -49,15 +49,14 @@ still building.
 
 ## Rating scale
 
-Every skill in this record is rated on the same five-point scale:
+Every skill in this record is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 Because no baseline is published for this role level, use the scale here to
@@ -65,10 +64,10 @@ describe someone's actual, observed practice rather than to compare that
 practice against a target.
 
 **A worked example**, using Leading digital products and services, one of the
-eight skills this role names. Evidence at 1 — Beginner might be someone
+eight skills this role names. Evidence at 1 — Awareness might be someone
 who can describe what oversight of digital solutions involves, but has only
 ever contributed to a single product team rather than overseen a portfolio.
-Evidence at 3 — Advanced might be someone who has overseen the delivery,
+Evidence at 3 — Practitioner might be someone who has overseen the delivery,
 management and maintenance of a set of digital services for a mid-sized
 organisation, and can describe how they balanced strategic goals against user
 needs when the two pulled in different directions. Evidence at 4 — Expert
@@ -132,16 +131,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence someone has planned for or built digital,
-  data or technology capability — no workforce plan, no capability review, no
-  example of anticipating a future skills gap.
-- 1 — Beginner: Someone can describe why capability planning matters, but
+- 1 — Awareness: Someone can describe why capability planning matters, but
   the evidence shows only reactive responses to skills gaps as they appeared,
   rather than anticipation.
-- 2 — Intermediate: Someone has contributed to a capability plan or
+- 2 — Working: Someone has contributed to a capability plan or
   workforce review, with support from a learning and development or HR
   function, and can describe a specific capability gap it addressed.
-- 3 — Advanced: Someone has independently ensured their organisation
+- 3 — Practitioner: Someone has independently ensured their organisation
   anticipates and adapts to changes in its digital, data and technology
   capability needs, and can point to a specific future gap they identified
   before it became a problem.
@@ -161,10 +157,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -175,15 +170,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: Someone cannot describe how their organisation protects itself
-  against cyber threats or disruption, and shows no evidence of having been
-  accountable for resilience.
-- 1 — Beginner: Someone can describe what resilience involves in general
+- 1 — Awareness: Someone can describe what resilience involves in general
   terms, but has not personally been accountable for a resilience decision.
-- 2 — Intermediate: Someone has contributed to a resilience or security
+- 2 — Working: Someone has contributed to a resilience or security
   improvement, working with a security function, and can describe a specific
   threat or disruption it addressed.
-- 3 — Advanced: Someone has independently ensured their organisation
+- 3 — Practitioner: Someone has independently ensured their organisation
   remains safe, secure and resilient to cyber threats and attacks, and can
   describe a real incident or near-miss and how the organisation's resilience
   held up or was strengthened as a result.
@@ -203,10 +195,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -217,15 +208,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence someone has negotiated investment or
-  advised on investment priorities for digital, data or technology.
-- 1 — Beginner: Someone can describe how investment decisions are usually
+- 1 — Awareness: Someone can describe how investment decisions are usually
   made, but has only worked within a budget set by others rather than
   negotiated or shaped it.
-- 2 — Intermediate: Someone has contributed to a business case or
+- 2 — Working: Someone has contributed to a business case or
   investment negotiation, with support from a finance function, and can
   describe the reasoning behind a specific investment decision.
-- 3 — Advanced: Someone has independently negotiated and secured
+- 3 — Practitioner: Someone has independently negotiated and secured
   investment for digital, data and technology, and can describe how they
   advised on investment priorities across genuinely competing demands to
   maximise benefits and outcomes.
@@ -245,10 +234,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -259,15 +247,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: Someone shows no evidence of having identified or acted on a
-  change in the digital, data and technology landscape, or of enabling an
-  innovative approach.
-- 1 — Beginner: Someone can describe examples of innovation elsewhere, but
+- 1 — Awareness: Someone can describe examples of innovation elsewhere, but
   has no example of having enabled one themselves.
-- 2 — Intermediate: Someone has supported the introduction of an
+- 2 — Working: Someone has supported the introduction of an
   innovative approach or emerging technology led by someone else, and can
   describe what made it work or fail.
-- 3 — Advanced: Someone has independently enabled the use of an innovative
+- 3 — Practitioner: Someone has independently enabled the use of an innovative
   approach or emerging technology, and can describe how they ensured
   inclusivity, security and ethical practice alongside it.
 - 4 — Expert: Someone's approach to innovation has demonstrably changed
@@ -286,10 +271,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -300,15 +284,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence someone has overseen the delivery,
-  management or maintenance of a digital product or service.
-- 1 — Beginner: Someone can describe what good oversight of a digital
+- 1 — Awareness: Someone can describe what good oversight of a digital
   product or service looks like, but has only contributed to a single product
   team rather than overseen a portfolio.
-- 2 — Intermediate: Someone has overseen the delivery of one or more
+- 2 — Working: Someone has overseen the delivery of one or more
   digital services, with support from delivery leads, and can describe how a
   specific service met strategic goals and user needs.
-- 3 — Advanced: Someone has independently overseen the delivery,
+- 3 — Practitioner: Someone has independently overseen the delivery,
   management and maintenance of a portfolio of sustainable digital solutions,
   and can describe how they balanced strategic goals against user needs where
   the two were in tension.
@@ -328,10 +310,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -342,15 +323,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence someone has led a strategy or a change
-  effort tied to measurable organisational objectives.
-- 1 — Beginner: Someone can describe how strategy and change should be
+- 1 — Awareness: Someone can describe how strategy and change should be
   linked to performance, but has not led a strategy or a change effort
   themselves.
-- 2 — Intermediate: Someone has contributed to a strategic change effort,
+- 2 — Working: Someone has contributed to a strategic change effort,
   with support from a more senior sponsor, and can describe how progress was
   measured.
-- 3 — Advanced: Someone has independently led an innovative strategy that
+- 3 — Practitioner: Someone has independently led an innovative strategy that
   delivered the organisation's objectives, and can describe the performance
   measures they used to know whether the change had worked.
 - 4 — Expert: Someone's strategic, performance-led change has
@@ -369,10 +348,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -383,15 +361,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: Someone cannot describe how their organisation's technology
-  and data architecture decisions relate to scalability, reusability or
-  interoperability, and shows no evidence of having shaped one.
-- 1 — Beginner: Someone can talk about architecture principles in general
+- 1 — Awareness: Someone can talk about architecture principles in general
   terms, but has not been accountable for a real architecture decision.
-- 2 — Intermediate: Someone has contributed to an architecture decision,
+- 2 — Working: Someone has contributed to an architecture decision,
   working alongside specialist architects, and can explain how it supported
   scalability, reusability or interoperability.
-- 3 — Advanced: Someone has independently ensured that technology and data
+- 3 — Practitioner: Someone has independently ensured that technology and data
   architecture decisions support scalability, reusability and
   interoperability across government, and can point to a specific decision
   that improved one of those properties.
@@ -411,10 +386,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -425,16 +399,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence someone has advised a board on digital,
-  data and technology matters, or shaped organisational strategy through
-  them.
-- 1 — Beginner: Someone can describe how digital, data and technology
+- 1 — Awareness: Someone can describe how digital, data and technology
   should inform organisational strategy, but has not advised a board or
   senior leadership team on it themselves.
-- 2 — Intermediate: Someone has contributed advice to a board or senior
+- 2 — Working: Someone has contributed advice to a board or senior
   leadership team on a specific digital, data or technology matter, with
   support from a more senior sponsor.
-- 3 — Advanced: Someone has independently been a trusted advisor to the
+- 3 — Practitioner: Someone has independently been a trusted advisor to the
   board on all matters of digital, data and technology, and can describe a
   specific strategic decision the board made differently because of their
   advice.
@@ -454,10 +425,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

@@ -61,22 +61,21 @@ commercially confidential figures into this document.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale. It measures how well the person does the thing, on the
 evidence available, not how often they do it or how they feel about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Strategy design.** A person rated 2 (Intermediate) can
+**Worked example — Strategy design.** A person rated 2 (Working) can
 challenge a requirement or assumption in a strategy discussion and support
 implementation through a roadmap or plan, but does not yet own defining the
-strategy itself. A person rated 3 (Advanced) — the baseline for this role
+strategy itself. A person rated 3 (Practitioner) — the baseline for this role
 level — defines strategies or visions across teams that align with
 organisational objectives, directs their implementation through roadmaps or
 plans, defines architectural principles and patterns, and develops or
@@ -129,21 +128,19 @@ that tracking.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The skill's own wording is unchanged from the level
+Baseline: 3 — Practitioner. The skill's own wording is unchanged from the level
 below, but the level's accountability has moved from "learn to identify
 influences or risks" to identifying them outright, so this level is expected
 to exercise the skill independently rather than under guidance.
 
 **Behavioural indicators**
 
-- 0 — None: Works only within their own immediate task or project and has not
-  considered how it connects to wider organisational goals.
-- 1 — Beginner: Notices an emerging issue only when a more senior colleague
+- 1 — Awareness: Notices an emerging issue only when a more senior colleague
   points it out.
-- 2 — Intermediate: Notices an emerging issue that could affect other teams
+- 2 — Working: Notices an emerging issue that could affect other teams
   and raises it with a more senior architect, but relies on others to decide
   what to do about it.
-- 3 — Advanced: Independently tracks internal and external issues over time,
+- 3 — Practitioner: Independently tracks internal and external issues over time,
   connects them to teams beyond their own, and influences colleagues to
   mitigate a problem without being asked.
 - 4 — Expert: Is sought out by other teams for a view on emerging issues, and
@@ -161,10 +158,9 @@ to exercise the skill independently rather than under guidance.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -181,20 +177,18 @@ expectations effectively.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. A senior enterprise architect supporting lead
+Baseline: 3 — Practitioner. A senior enterprise architect supporting lead
 architects on strategy is expected to lead this kind of communication
 themselves, not to be building towards it.
 
 **Behavioural indicators**
 
-- 0 — None: Communicates only within their immediate team and has not
-  presented architecture material to a non-technical audience.
-- 1 — Beginner: Explains a simple architecture topic to a non-technical
+- 1 — Awareness: Explains a simple architecture topic to a non-technical
   stakeholder with support from a more senior colleague preparing the
   material.
-- 2 — Intermediate: Adapts a message for a specific audience unaided for
+- 2 — Working: Adapts a message for a specific audience unaided for
   topics of moderate complexity.
-- 3 — Advanced: Leads communication of a complicated or risky architecture
+- 3 — Practitioner: Leads communication of a complicated or risky architecture
   topic to senior stakeholders, manages their expectations proactively, and
   advocates for their team's position.
 - 4 — Expert: Is trusted to communicate the organisation's most contested or
@@ -212,10 +206,9 @@ themselves, not to be building towards it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -230,20 +223,18 @@ when to apply them.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The skill's wording is unchanged from the level
+Baseline: 2 — Working. The skill's wording is unchanged from the level
 below and remains a supporting capability, but a senior enterprise architect
 supporting the team's long-term strategy is expected to apply this
 understanding with less guidance than an entry-level colleague.
 
 **Behavioural indicators**
 
-- 0 — None: Has no working knowledge of how commercial or sourcing decisions
-  are made in a government department.
-- 1 — Beginner: Knows who to approach internally for commercial advice and
+- 1 — Awareness: Knows who to approach internally for commercial advice and
   can describe, in general terms, more than one sourcing strategy.
-- 2 — Intermediate: Explains when a particular sourcing strategy would suit a
+- 2 — Working: Explains when a particular sourcing strategy would suit a
   given piece of work, with occasional guidance.
-- 3 — Advanced: Advises a project or programme on an appropriate sourcing
+- 3 — Practitioner: Advises a project or programme on an appropriate sourcing
   approach without needing to check with a more senior colleague.
 - 4 — Expert: Shapes an organisation's approach to sourcing strategy and is
   consulted by commercial colleagues on its architectural implications.
@@ -257,10 +248,9 @@ understanding with less guidance than an entry-level colleague.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -277,18 +267,17 @@ response.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is more active than the entry level's —
+Baseline: 3 — Practitioner. This wording is more active than the entry level's —
 "rectify", not just "recognise" — matching a senior architect who supports a
 community or team directly.
 
 **Behavioural indicators**
 
-- 0 — None: Works alone and has not contributed to another team's output.
-- 1 — Beginner: Contributes to another team's work when asked, but does not
+- 1 — Awareness: Contributes to another team's work when asked, but does not
   yet notice team dynamic issues unprompted.
-- 2 — Intermediate: Actively networks with others and names an issue in a
+- 2 — Working: Actively networks with others and names an issue in a
   team's dynamic when it arises, but relies on someone else to act on it.
-- 3 — Advanced: Adapts feedback so it lands well and lasts, identifies an
+- 3 — Practitioner: Adapts feedback so it lands well and lasts, identifies an
   issue through an Agile health check or similar signal, and helps rectify
   it.
 - 4 — Expert: Is sought out to advise on team composition and dynamics across
@@ -303,10 +292,9 @@ community or team directly.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -322,19 +310,17 @@ objectives.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The "with support" qualifier from the level below has
+Baseline: 3 — Practitioner. The "with support" qualifier from the level below has
 been dropped: this level designs the architecture itself, not just
 contributes to one.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot design an architecture that connects technology, people
-  and process to an organisational objective.
-- 1 — Beginner: Designs a narrow part of an architecture with close direction
+- 1 — Awareness: Designs a narrow part of an architecture with close direction
   from a senior architect.
-- 2 — Intermediate: Designs a straightforward architecture element with some
+- 2 — Working: Designs a straightforward architecture element with some
   guidance, and needs support to connect it to the wider organisation.
-- 3 — Advanced: Independently designs an architecture defining technology,
+- 3 — Practitioner: Independently designs an architecture defining technology,
   people and process elements, and works with others across the organisation
   to see it used to achieve its objectives.
 - 4 — Expert: Owns the design and adoption of enterprise architecture across
@@ -352,10 +338,9 @@ contributes to one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -372,17 +357,16 @@ contribute to the development of that governance and assurance.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The scope has widened from a single team or domain to
+Baseline: 3 — Practitioner. The scope has widened from a single team or domain to
 multiple, and the verb has shifted from "work with others to make" to "make
 and guide" — this level leads decisions rather than contributing to them.
 
 **Behavioural indicators**
 
-- 0 — None: Has not taken part in an architectural decision-making process.
-- 1 — Beginner: Contributes to a decision made mainly by others.
-- 2 — Intermediate: Makes a decision of managed risk affecting their own team
+- 1 — Awareness: Contributes to a decision made mainly by others.
+- 2 — Working: Makes a decision of managed risk affecting their own team
   or domain, with governance support.
-- 3 — Advanced: Makes and guides architectural decisions of medium risk and
+- 3 — Practitioner: Makes and guides architectural decisions of medium risk and
   complexity, identifies risks affecting multiple teams or domains, and uses
   governance and assurance to manage them.
 - 4 — Expert: Is trusted to make decisions in situations of significant
@@ -398,10 +382,9 @@ and guide" — this level leads decisions rather than contributing to them.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -418,18 +401,16 @@ delivery methods can be decided.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The verb "help" has dropped from the level below —
+Baseline: 3 — Practitioner. The verb "help" has dropped from the level below —
 this level frames the problem and produces the representations, not merely
 contributes to them.
 
 **Behavioural indicators**
 
-- 0 — None: Takes a problem statement as given and does not question or
-  reframe it.
-- 1 — Beginner: Contributes to framing a simple problem with close support.
-- 2 — Intermediate: Frames a problem of managed complexity with some
+- 1 — Awareness: Contributes to framing a simple problem with close support.
+- 2 — Working: Frames a problem of managed complexity with some
   guidance, and contributes to shared representations others have started.
-- 3 — Advanced: Independently frames a problem of medium complexity,
+- 3 — Practitioner: Independently frames a problem of medium complexity,
   produces representations that give different teams a shared understanding
   of it, and describes options so delivery methods can be decided.
 - 4 — Expert: Reframes problems that others have defined poorly, and is
@@ -444,10 +425,9 @@ contributes to them.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -463,17 +443,16 @@ and develop or maintain the strategy in response to feedback and findings.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This level defines and directs strategy rather than
+Baseline: 3 — Practitioner. This level defines and directs strategy rather than
 supporting someone else's, a clear step up from the entry-level wording.
 
 **Behavioural indicators**
 
-- 0 — None: Has not contributed to defining a strategy or vision.
-- 1 — Beginner: Supports someone else's strategy work with a small,
+- 1 — Awareness: Supports someone else's strategy work with a small,
   well-defined contribution.
-- 2 — Intermediate: Challenges an assumption in a strategy discussion and
+- 2 — Working: Challenges an assumption in a strategy discussion and
   supports its implementation, but does not yet own defining it.
-- 3 — Advanced: Defines a strategy or vision across teams, directs its
+- 3 — Practitioner: Defines a strategy or vision across teams, directs its
   implementation through a roadmap or plan, and develops the strategy further
   in response to feedback.
 - 4 — Expert: Defines and connects strategies across the organisation or
@@ -489,10 +468,9 @@ supporting someone else's, a clear step up from the entry-level wording.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -501,14 +479,14 @@ supporting someone else's, a clear step up from the entry-level wording.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Architect for the whole context | 3 — Advanced | | |
-| Architecture communication | 3 — Advanced | | |
-| Commercial perspective | 2 — Intermediate | | |
-| Community collaboration | 3 — Advanced | | |
-| Enterprise architecture | 3 — Advanced | | |
-| Making architectural decisions | 3 — Advanced | | |
-| Problem definition and shaping | 3 — Advanced | | |
-| Strategy design | 3 — Advanced | | |
+| Architect for the whole context | 3 — Practitioner | | |
+| Architecture communication | 3 — Practitioner | | |
+| Commercial perspective | 2 — Working | | |
+| Community collaboration | 3 — Practitioner | | |
+| Enterprise architecture | 3 — Practitioner | | |
+| Making architectural decisions | 3 — Practitioner | | |
+| Problem definition and shaping | 3 — Practitioner | | |
+| Strategy design | 3 — Practitioner | | |
 
 The baseline is normally met when every skill is rated at or above its
 baseline target. One or two skills below target is not automatically a fail:

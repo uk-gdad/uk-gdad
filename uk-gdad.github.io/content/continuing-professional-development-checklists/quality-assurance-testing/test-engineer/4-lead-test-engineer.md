@@ -2,10 +2,78 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Test engineer** role at the **Lead test engineer** level. You write new automation frameworks based on project requirements, promote open source tools, work in multiple test scripting languages, maintain a presence in external test communities, work with leads across the Government Digital and Data profession to champion quality, guide teams in designing test strategies, and manage communications between projects to control integration and dependencies. Your development now is about technical leadership and community influence.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/quality-assurance-testing/test-engineer/4-lead-test-engineer.md`](../../../assessments/quality-assurance-testing/test-engineer/4-lead-test-engineer.md)
+- Upskilling: [`upskills/quality-assurance-testing/test-engineer/4-lead-test-engineer.md`](../../../upskills/quality-assurance-testing/test-engineer/4-lead-test-engineer.md)
+
+### Role Level Focus: Lead Test Engineer
+
+- [ ] Build New Frameworks: Design automation frameworks from requirements, including their maintenance story.
+- [ ] Promote Open Source: Champion open tooling, and be honest about its total cost of ownership.
+- [ ] Master Multiple Languages: Maintain proficiency across several test scripting languages.
+- [ ] Maintain External Presence: Speak, write, or contribute to external test communities regularly.
+- [ ] Champion Quality Across the Profession: Work with leads across digital and data to raise quality expectations.
+- [ ] Guide Strategy Design: Help teams design test strategies for complex, large-scale delivery.
+- [ ] Control Integration and Dependencies: Manage communication between projects so integration risk is visible early.
+- [ ] Grow Successors: Develop engineers who could take your role.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
+- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
+- [ ] Represent the Community: Speak for the community to large audiences inside and outside the organisation.
+- [ ] Communicate Quality to Boards: Practise the version of a quality argument a board will act on.
+
+### Skill: Designing and executing tests
+
+- [ ] Set Organisational Standards: Define standards and influence decisions on test types, techniques, design, and execution.
+- [ ] Coach Others: Develop technique and design skill across teams.
+- [ ] Advocate Continuous Improvement: Keep the practice moving rather than settling.
+- [ ] Make Strategic Technique Decisions: Decide on new or improved test types for your area.
+
+### Skill: Managing, reporting and resolving defects
+
+- [ ] Lead Process Improvement: Coach others in improving test and defect management processes.
+- [ ] Support Complex Assessment: Help others assess genuinely difficult defects across the organisation.
+- [ ] Coach on Patterns and Trends: Teach others to turn defect data into recommendations.
+- [ ] Influence Quality Processes: Use defect evidence to change how the organisation works.
+
+### Skill: Test analysis
+
+- [ ] Lead Multiple Teams: Guide several teams in test analysis, implemented early in the life cycle.
+- [ ] Advocate Risk-Based Analysis: Drive risk-based improvement across many teams.
+- [ ] Set Principles and Standards: Own the test analysis principles for the organisation.
+- [ ] Keep Analytical Depth: Retain enough hands-on skill to stay credible.
+
+### Skill: Test and quality planning
+
+- [ ] Manage Multiple Strategies: Create and manage several plans, approaches, and strategies at once.
+- [ ] Lead Strategy Adoption: Guide multiple teams into genuinely adopting the strategy.
+- [ ] Advocate Early Involvement: Get quality engaged at the start of delivery processes.
+- [ ] Optimise With Data: Guide teams in using data to optimise approaches and plans.
+
+### Skill: Test engineering
+
+- [ ] Establish Practices and Standards: Lead the test engineering practices, standards, and behaviours.
+- [ ] Guide Tool Choices: Influence test engineering technology and tooling across the organisation.
+- [ ] Advocate Appropriate Solutions: Push for testing solutions aligned to organisational goals and quality objectives.
+- [ ] Keep Building: Retain enough hands-on framework work to stay technically credible.
+
+### Skill Growth Plan: Beyond Lead Test Engineer
+
+- [ ] Review Adjacent Roles: Read the test manager and head of test descriptions.
+- [ ] Learn Supplier Management: Understand how testing suppliers are selected and managed.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
+- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,71 +171,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Test engineer** role at the **Lead test engineer** level. You write new automation frameworks based on project requirements, promote open source tools, work in multiple test scripting languages, maintain a presence in external test communities, work with leads across the Government Digital and Data profession to champion quality, guide teams in designing test strategies, and manage communications between projects to control integration and dependencies. Your development now is about technical leadership and community influence.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/quality-assurance-testing/test-engineer/4-lead-test-engineer.md`](../../../assessments/quality-assurance-testing/test-engineer/4-lead-test-engineer.md)
-- Upskilling: [`upskills/quality-assurance-testing/test-engineer/4-lead-test-engineer.md`](../../../upskills/quality-assurance-testing/test-engineer/4-lead-test-engineer.md)
-
-### Role Level Focus: Lead Test Engineer
-
-- [ ] Build New Frameworks: Design automation frameworks from requirements, including their maintenance story.
-- [ ] Promote Open Source: Champion open tooling, and be honest about its total cost of ownership.
-- [ ] Master Multiple Languages: Maintain proficiency across several test scripting languages.
-- [ ] Maintain External Presence: Speak, write, or contribute to external test communities regularly.
-- [ ] Champion Quality Across the Profession: Work with leads across digital and data to raise quality expectations.
-- [ ] Guide Strategy Design: Help teams design test strategies for complex, large-scale delivery.
-- [ ] Control Integration and Dependencies: Manage communication between projects so integration risk is visible early.
-- [ ] Grow Successors: Develop engineers who could take your role.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
-- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
-- [ ] Represent the Community: Speak for the community to large audiences inside and outside the organisation.
-- [ ] Communicate Quality to Boards: Practise the version of a quality argument a board will act on.
-
-### Skill: Designing and executing tests
-
-- [ ] Set Organisational Standards: Define standards and influence decisions on test types, techniques, design, and execution.
-- [ ] Coach Others: Develop technique and design skill across teams.
-- [ ] Advocate Continuous Improvement: Keep the practice moving rather than settling.
-- [ ] Make Strategic Technique Decisions: Decide on new or improved test types for your area.
-
-### Skill: Managing, reporting and resolving defects
-
-- [ ] Lead Process Improvement: Coach others in improving test and defect management processes.
-- [ ] Support Complex Assessment: Help others assess genuinely difficult defects across the organisation.
-- [ ] Coach on Patterns and Trends: Teach others to turn defect data into recommendations.
-- [ ] Influence Quality Processes: Use defect evidence to change how the organisation works.
-
-### Skill: Test analysis
-
-- [ ] Lead Multiple Teams: Guide several teams in test analysis, implemented early in the life cycle.
-- [ ] Advocate Risk-Based Analysis: Drive risk-based improvement across many teams.
-- [ ] Set Principles and Standards: Own the test analysis principles for the organisation.
-- [ ] Keep Analytical Depth: Retain enough hands-on skill to stay credible.
-
-### Skill: Test and quality planning
-
-- [ ] Manage Multiple Strategies: Create and manage several plans, approaches, and strategies at once.
-- [ ] Lead Strategy Adoption: Guide multiple teams into genuinely adopting the strategy.
-- [ ] Advocate Early Involvement: Get quality engaged at the start of delivery processes.
-- [ ] Optimise With Data: Guide teams in using data to optimise approaches and plans.
-
-### Skill: Test engineering
-
-- [ ] Establish Practices and Standards: Lead the test engineering practices, standards, and behaviours.
-- [ ] Guide Tool Choices: Influence test engineering technology and tooling across the organisation.
-- [ ] Advocate Appropriate Solutions: Push for testing solutions aligned to organisational goals and quality objectives.
-- [ ] Keep Building: Retain enough hands-on framework work to stay technically credible.
-
-### Skill Growth Plan: Beyond Lead Test Engineer
-
-- [ ] Review Adjacent Roles: Read the test manager and head of test descriptions.
-- [ ] Learn Supplier Management: Understand how testing suppliers are selected and managed.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
-- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.

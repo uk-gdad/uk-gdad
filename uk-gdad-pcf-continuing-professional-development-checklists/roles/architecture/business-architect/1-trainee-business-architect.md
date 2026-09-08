@@ -2,10 +2,78 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Business architect** role at the **Trainee business architect** level in the UK GDAD PCF. You are building your knowledge of architecture frameworks, supporting senior colleagues, and helping in workshops with stakeholders. Nobody expects mastery yet, so use this time to learn the vocabulary, the techniques, and the organisation itself.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/business-architect/1-trainee-business-architect.md`](../../../assessments/architecture/business-architect/1-trainee-business-architect.md)
+- Upskilling: [`upskills/architecture/business-architect/1-trainee-business-architect.md`](../../../upskills/architecture/business-architect/1-trainee-business-architect.md)
+
+### Role Level Focus: Trainee Business Architect
+
+- [ ] Learn the Organisation: Draw your own map of the business areas, who leads them, and what they are accountable for.
+- [ ] Track Your Training: Keep a list of every course, framework module, and shadowing session, with dates and outcomes.
+- [ ] Shadow Senior Architects: Sit in on their work and note the questions they ask that you would not have thought of.
+- [ ] Support Real Outputs: Contribute to a genuine business architecture artefact and get it reviewed.
+- [ ] Help Run Workshops: Learn to prepare materials, capture notes, and write up outcomes clearly.
+- [ ] Learn the Government Context: Read the Government Digital and Data strategy and note what it asks of your organisation.
+- [ ] Keep a Question Journal: Write down what puzzled you each day and bring it to your mentor.
+
+### Skill: Business architecture
+
+- [ ] Learn the Frameworks: Study an established framework such as TOGAF or the Business Architecture Body of Knowledge at foundation level.
+- [ ] Learn the Core Techniques: Practise capability modelling, value stream mapping, and organisation modelling on a small area.
+- [ ] Support Framework Application: Help apply a framework to a real business change under guidance.
+- [ ] Build a Glossary: Write your own plain-English definitions of capability, value stream, and business service.
+- [ ] Read Real Artefacts: Study your organisation's existing architecture products and note what makes the good ones good.
+
+### Skill: Communicating information
+
+- [ ] Listen and Interpret: Practise reflecting back what a stakeholder said and confirming your understanding.
+- [ ] Join Team Discussions: Contribute at least one question or observation in every multidisciplinary session.
+- [ ] Learn Plain English: Practise explaining an architectural idea without jargon, then check it landed.
+- [ ] Write Clear Notes: Turn a messy workshop into a short, accurate write-up that people actually use.
+
+### Skill: Consultancy
+
+- [ ] Understand Why Consulting Matters: Write down what advisory work adds that delivery work cannot.
+- [ ] Learn From Previous Work: Use past architecture engagements as your reference library for advice.
+- [ ] Practise Framing Problems: Take a vague request and restate it as a clear problem statement.
+- [ ] Observe an Engagement: Shadow a senior colleague through a full advisory engagement, start to finish.
+
+### Skill: Making and guiding decisions
+
+- [ ] Recommend With Reasoning: Practise stating a recommendation together with the reasoning behind it.
+- [ ] Learn Decision Records: Study how decisions are documented in your organisation, and write one.
+- [ ] Spot Disputes Early: Learn to identify and articulate technical disagreements between peers.
+- [ ] Understand Governance: Learn which boards make which decisions, and what they need from you.
+
+### Skill: Methods and tools
+
+- [ ] Learn the Toolset: Get proficient in your organisation's modelling and diagramming tools.
+- [ ] Follow Advice on Selection: Practise choosing tools and techniques with guidance, and record why.
+- [ ] Learn Notation: Study a modelling notation such as ArchiMate or BPMN, at least to reading level.
+- [ ] Build a Technique Library: Keep your own notes on each technique, when it works, and when it does not.
+
+### Skill: Strategic thinking
+
+- [ ] Explain the Strategic Context: Write down why your organisation exists and what its current priorities are.
+- [ ] Support Strategic Planning: Help prepare materials for planning sessions and learn how priorities get set.
+- [ ] Read the Strategy Documents: Read your organisation's strategy and note where architecture could help.
+- [ ] Connect Work to Goals: For each task you do, name the strategic goal it supports.
+
+### Skill Growth Plan: Toward Associate Business Architect
+
+- [ ] Review the Next Level: Read the Associate business architect skill descriptions and mark what to build next.
+- [ ] Pick Two Stretch Goals: Choose two skills to grow this quarter, agreed with your line manager.
+- [ ] Build a Portfolio: Collect artefacts you contributed to, with a note on your part in each.
+- [ ] Book a Progress Review: Agree a date to walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,71 +171,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Business architect** role at the **Trainee business architect** level in the UK GDAD PCF. You are building your knowledge of architecture frameworks, supporting senior colleagues, and helping in workshops with stakeholders. Nobody expects mastery yet, so use this time to learn the vocabulary, the techniques, and the organisation itself.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/business-architect/1-trainee-business-architect.md`](../../../assessments/architecture/business-architect/1-trainee-business-architect.md)
-- Upskilling: [`upskills/architecture/business-architect/1-trainee-business-architect.md`](../../../upskills/architecture/business-architect/1-trainee-business-architect.md)
-
-### Role Level Focus: Trainee Business Architect
-
-- [ ] Learn the Organisation: Draw your own map of the business areas, who leads them, and what they are accountable for.
-- [ ] Track Your Training: Keep a list of every course, framework module, and shadowing session, with dates and outcomes.
-- [ ] Shadow Senior Architects: Sit in on their work and note the questions they ask that you would not have thought of.
-- [ ] Support Real Outputs: Contribute to a genuine business architecture artefact and get it reviewed.
-- [ ] Help Run Workshops: Learn to prepare materials, capture notes, and write up outcomes clearly.
-- [ ] Learn the Government Context: Read the Government Digital and Data strategy and note what it asks of your organisation.
-- [ ] Keep a Question Journal: Write down what puzzled you each day and bring it to your mentor.
-
-### Skill: Business architecture
-
-- [ ] Learn the Frameworks: Study an established framework such as TOGAF or the Business Architecture Body of Knowledge at foundation level.
-- [ ] Learn the Core Techniques: Practise capability modelling, value stream mapping, and organisation modelling on a small area.
-- [ ] Support Framework Application: Help apply a framework to a real business change under guidance.
-- [ ] Build a Glossary: Write your own plain-English definitions of capability, value stream, and business service.
-- [ ] Read Real Artefacts: Study your organisation's existing architecture products and note what makes the good ones good.
-
-### Skill: Communicating information
-
-- [ ] Listen and Interpret: Practise reflecting back what a stakeholder said and confirming your understanding.
-- [ ] Join Team Discussions: Contribute at least one question or observation in every multidisciplinary session.
-- [ ] Learn Plain English: Practise explaining an architectural idea without jargon, then check it landed.
-- [ ] Write Clear Notes: Turn a messy workshop into a short, accurate write-up that people actually use.
-
-### Skill: Consultancy
-
-- [ ] Understand Why Consulting Matters: Write down what advisory work adds that delivery work cannot.
-- [ ] Learn From Previous Work: Use past architecture engagements as your reference library for advice.
-- [ ] Practise Framing Problems: Take a vague request and restate it as a clear problem statement.
-- [ ] Observe an Engagement: Shadow a senior colleague through a full advisory engagement, start to finish.
-
-### Skill: Making and guiding decisions
-
-- [ ] Recommend With Reasoning: Practise stating a recommendation together with the reasoning behind it.
-- [ ] Learn Decision Records: Study how decisions are documented in your organisation, and write one.
-- [ ] Spot Disputes Early: Learn to identify and articulate technical disagreements between peers.
-- [ ] Understand Governance: Learn which boards make which decisions, and what they need from you.
-
-### Skill: Methods and tools
-
-- [ ] Learn the Toolset: Get proficient in your organisation's modelling and diagramming tools.
-- [ ] Follow Advice on Selection: Practise choosing tools and techniques with guidance, and record why.
-- [ ] Learn Notation: Study a modelling notation such as ArchiMate or BPMN, at least to reading level.
-- [ ] Build a Technique Library: Keep your own notes on each technique, when it works, and when it does not.
-
-### Skill: Strategic thinking
-
-- [ ] Explain the Strategic Context: Write down why your organisation exists and what its current priorities are.
-- [ ] Support Strategic Planning: Help prepare materials for planning sessions and learn how priorities get set.
-- [ ] Read the Strategy Documents: Read your organisation's strategy and note where architecture could help.
-- [ ] Connect Work to Goals: For each task you do, name the strategic goal it supports.
-
-### Skill Growth Plan: Toward Associate Business Architect
-
-- [ ] Review the Next Level: Read the Associate business architect skill descriptions and mark what to build next.
-- [ ] Pick Two Stretch Goals: Choose two skills to grow this quarter, agreed with your line manager.
-- [ ] Build a Portfolio: Collect artefacts you contributed to, with a note on your part in each.
-- [ ] Book a Progress Review: Agree a date to walk your evidence through with your mentor.

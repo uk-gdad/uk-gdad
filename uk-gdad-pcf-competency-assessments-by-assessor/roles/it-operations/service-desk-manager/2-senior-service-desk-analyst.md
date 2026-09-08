@@ -59,26 +59,25 @@ anything other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Customer service management.** At 2 — Intermediate, a
+**Worked example — Customer service management.** At 2 — Working, a
 candidate might describe resolving their own difficult calls competently. At
-3 — Advanced, a candidate for senior service desk analyst should be able to
+3 — Practitioner, a candidate for senior service desk analyst should be able to
 describe stepping in on a colleague's escalated, angry call, resolving it
 while maintaining a high level of customer service, and then explaining to
 the colleague what they did differently. That combination — resolving a hard
-case and coaching someone else through it — is what "Advanced" evidence looks
+case and coaching someone else through it — is what "Practitioner" evidence looks
 like at this level.
 
 ## About this role level
@@ -120,16 +119,15 @@ correct information to protect assets and components.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the analyst level,
+Baseline: 2 — Working. The wording is unchanged from the analyst level,
 but this level's accountability for coaching analysts means the same
 recording discipline should now be demonstrated reliably and unprompted.
 
 **Behavioural indicators**
 
-- 0 — None: Relies on others to keep asset records accurate.
-- 1 — Beginner: Logs and corrects records with occasional prompting.
-- 2 — Intermediate: Logs and corrects records unsupervised, consistently.
-- 3 — Advanced: Spots and corrects a colleague's recording errors as part of
+- 1 — Awareness: Logs and corrects records with occasional prompting.
+- 2 — Working: Logs and corrects records unsupervised, consistently.
+- 3 — Practitioner: Spots and corrects a colleague's recording errors as part of
   coaching them.
 - 4 — Expert: Improves the team's asset logging discipline as a whole.
 
@@ -142,10 +140,9 @@ recording discipline should now be demonstrated reliably and unprompted.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -160,17 +157,16 @@ complex complaints, and use empathy to understand and meet customer needs.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Deal with complex complaints" is a clear step up
+Baseline: 3 — Practitioner. "Deal with complex complaints" is a clear step up
 from resolving requests to SLA at the level below, matching this level's
 accountability to intervene in difficult calls that others cannot resolve.
 
 **Behavioural indicators**
 
-- 0 — None: Escalates any complaint rather than attempting to resolve it.
-- 1 — Beginner: Handles simple complaints, but needs support with complex
+- 1 — Awareness: Handles simple complaints, but needs support with complex
   ones.
-- 2 — Intermediate: Handles moderately complex complaints independently.
-- 3 — Advanced: Reliably resolves complex complaints and difficult calls
+- 2 — Working: Handles moderately complex complaints independently.
+- 3 — Practitioner: Reliably resolves complex complaints and difficult calls
   that other analysts could not, while maintaining service quality.
 - 4 — Expert: Is the analyst everyone else calls on for the hardest
   situations, and their intervention consistently turns a bad call around.
@@ -184,10 +180,9 @@ accountability to intervene in difficult calls that others cannot resolve.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -203,18 +198,16 @@ and communicate this to others.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the analyst level,
+Baseline: 2 — Working. The wording is unchanged from the analyst level,
 but this level's coaching and script-ownership accountabilities mean reports
 should now also be used to identify where analysts need support.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot produce a call handling report without detailed
-  instructions.
-- 1 — Beginner: Produces a standard report, with help interpreting it.
-- 2 — Intermediate: Produces reports to deadline and uses them to identify
+- 1 — Awareness: Produces a standard report, with help interpreting it.
+- 2 — Working: Produces reports to deadline and uses them to identify
   where coaching is needed.
-- 3 — Advanced: Spots a trend in call data before being asked and raises it
+- 3 — Practitioner: Spots a trend in call data before being asked and raises it
   with the manager.
 - 4 — Expert: Proposes a change to what is reported to better support
   coaching or scripting decisions.
@@ -228,10 +221,9 @@ should now also be used to identify where analysts need support.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -245,17 +237,16 @@ new owner has been found or the problem has been mitigated or resolved.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the analyst level,
+Baseline: 2 — Working. The wording is unchanged from the analyst level,
 but at this level ownership should extend to intervening on issues other
 analysts have escalated, not just their own.
 
 **Behavioural indicators**
 
-- 0 — None: Only follows through on their own issues.
-- 1 — Beginner: Follows through on escalated issues when specifically asked.
-- 2 — Intermediate: Tracks and follows through on issues escalated to them by
+- 1 — Awareness: Follows through on escalated issues when specifically asked.
+- 2 — Working: Tracks and follows through on issues escalated to them by
   other analysts, unprompted.
-- 3 — Advanced: Reliably owns every escalated issue through to resolution.
+- 3 — Practitioner: Reliably owns every escalated issue through to resolution.
 - 4 — Expert: Is known for never letting an escalated issue drop, and models
   this for the analysts they coach.
 
@@ -267,10 +258,9 @@ analysts have escalated, not just their own.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -286,20 +276,18 @@ the implementation of remedies and preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This skill first appears at this level, not the
+Baseline: 2 — Working. This skill first appears at this level, not the
 level below, so the baseline reflects a developing but real working practice
 appropriate to someone newly taking on problem investigation alongside call
 handling.
 
 **Behavioural indicators**
 
-- 0 — None: Treats each difficult call as an isolated event, without looking
-  for an underlying problem.
-- 1 — Beginner: Notices a pattern when pointed to it, and needs support
+- 1 — Awareness: Notices a pattern when pointed to it, and needs support
   investigating further.
-- 2 — Intermediate: Investigates a recurring problem independently and
+- 2 — Working: Investigates a recurring problem independently and
   contributes usefully to a remedy.
-- 3 — Advanced: Correctly distinguishes strategic, tactical and operational
+- 3 — Practitioner: Correctly distinguishes strategic, tactical and operational
   problems and prioritises accordingly.
 - 4 — Expert: Their problem investigations lead to preventative measures that
   measurably reduce recurring complaints.
@@ -313,10 +301,9 @@ handling.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -330,20 +317,18 @@ establish coherent frameworks that work.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a step up from the analyst's "show an
+Baseline: 2 — Working. This is a step up from the analyst's "show an
 awareness of different products and services", matching the level's
 accountability for owning the analyst script, which needs a coherent view of
 how services fit together.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect script or process gaps to underlying service
-  issues.
-- 1 — Beginner: Pulls together straightforward inputs into a workable
+- 1 — Awareness: Pulls together straightforward inputs into a workable
   approach, with guidance.
-- 2 — Intermediate: Independently establishes a coherent approach to
+- 2 — Working: Independently establishes a coherent approach to
   handling calls about related services.
-- 3 — Advanced: Does this reliably for complex, cross-service situations.
+- 3 — Practitioner: Does this reliably for complex, cross-service situations.
 - 4 — Expert: Their frameworks for handling service issues are adopted
   team-wide.
 
@@ -354,10 +339,9 @@ how services fit together.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -371,17 +355,16 @@ Level 3 service management framework qualification.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording is unchanged from the
+Baseline: 2 — Working. The framework's wording is unchanged from the
 analyst level, but a senior analyst coaching others should apply the
 qualification's concepts consistently, not just hold the certificate.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Holds the qualification but applies its terms imprecisely.
-- 2 — Intermediate: Holds the qualification and applies its terminology
+- 1 — Awareness: Holds the qualification but applies its terms imprecisely.
+- 2 — Working: Holds the qualification and applies its terminology
   correctly, including when coaching analysts.
-- 3 — Advanced: Uses framework concepts to explain to a colleague why a
+- 3 — Practitioner: Uses framework concepts to explain to a colleague why a
   process works the way it does.
 - 4 — Expert: Is a reference point for how the framework should be applied
   locally.
@@ -394,10 +377,9 @@ qualification's concepts consistently, not just hold the certificate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -413,18 +395,17 @@ data about users to turn user focus into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a fuller description than the analyst
+Baseline: 2 — Working. This is a fuller description than the analyst
 level's "awareness" wording, matching this level's accountability for owning
 the script analysts use, which should reflect real user needs evidence.
 
 **Behavioural indicators**
 
-- 0 — None: Owns the analyst script without reference to user needs evidence.
-- 1 — Beginner: Collects some user feedback but does not systematically use
+- 1 — Awareness: Collects some user feedback but does not systematically use
   it.
-- 2 — Intermediate: Regularly collates user needs evidence and uses it to
+- 2 — Working: Regularly collates user needs evidence and uses it to
   shape the script or coaching.
-- 3 — Advanced: Uses combined quantitative and qualitative evidence to make
+- 3 — Practitioner: Uses combined quantitative and qualitative evidence to make
   a change that measurably improves call outcomes.
 - 4 — Expert: Embeds user-focused practice into how the whole desk operates.
 
@@ -437,10 +418,9 @@ the script analysts use, which should reflect real user needs evidence.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -449,14 +429,14 @@ the script analysts use, which should reflect real user needs evidence.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Customer service management | 3 — Advanced | | |
-| IT service reporting | 2 — Intermediate | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 2 — Intermediate | | |
-| Service focus | 2 — Intermediate | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 2 — Working | | |
+| Customer service management | 3 — Practitioner | | |
+| IT service reporting | 2 — Working | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 2 — Working | | |
+| Service focus | 2 — Working | | |
+| Service management framework knowledge | 2 — Working | | |
+| User focus | 2 — Working | | |
 
 The baseline is normally met when every skill is rated at or above its
 baseline target. One or two skills below target is not automatically a fail:

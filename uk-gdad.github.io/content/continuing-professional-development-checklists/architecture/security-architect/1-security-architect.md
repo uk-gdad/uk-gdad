@@ -2,10 +2,87 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Security architect** role at the **Security architect** level. You create and design security for systems and services, maintain security documentation, develop architecture patterns and security approaches for new technologies, recommend controls, advise across teams, assess the risk of proposed changes, and help review other people's work. Your development now is about technical depth, clear communication, and earning trust.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/security-architect/1-security-architect.md`](../../../assessments/architecture/security-architect/1-security-architect.md)
+- Upskilling: [`upskills/architecture/security-architect/1-security-architect.md`](../../../upskills/architecture/security-architect/1-security-architect.md)
+
+### Role Level Focus: Security Architect
+
+- [ ] Recommend Controls That Enable: Practise framing security controls as enablers of a business objective, not obstacles.
+- [ ] Maintain Security Documentation: Own the security documentation for a service and keep it genuinely current.
+- [ ] Develop Architecture Patterns: Write reusable security patterns for the technologies your organisation adopts.
+- [ ] Advise Across Teams: Build a reputation as someone teams want to consult early rather than late.
+- [ ] Review Others' Work: Take part in design review and give feedback that improves the designer.
+- [ ] Learn the Government Frameworks: Study the NCSC guidance, the Cyber Assessment Framework, and the Government Security Classifications.
+- [ ] Build Credentials: Work toward a recognised security architecture certification such as CCP or CISSP.
+- [ ] Join the Community: Take part in cross-government security architecture forums.
+
+### Skill: Analysis
+
+- [ ] Apply the Approach to Real Problems: Use structured analysis on live problems, considering all relevant information.
+- [ ] Apply Appropriate Rigour: Make sure your analysis produces a full solution that achieves the business outcome.
+- [ ] Learn Analytical Technique: Study structured analytic techniques, including challenging your own assumptions.
+- [ ] Document Your Reasoning: Write analysis that someone else could audit and disagree with productively.
+
+### Skill: Communication (security architect)
+
+- [ ] Deepen Security Concepts: Build understanding deep enough to apply concepts at a technical level.
+- [ ] Translate Risk Accurately: Practise explaining security and risk implications to non-technical stakeholders.
+- [ ] Respond to Challenge: Learn to answer pushback with evidence rather than authority.
+- [ ] Reach Consensus: Adapt to stakeholder reactions and manage expectations toward agreement.
+- [ ] Avoid Fear-Based Persuasion: Practise making the case on evidence, because credibility compounds.
+
+### Skill: Designing secure systems
+
+- [ ] Design With Patterns and Principles: Apply established patterns and principles to real system architectures.
+- [ ] Review Architectures: Build a routine of reviewing others' architectures constructively.
+- [ ] Learn Threat Modelling: Get properly trained in threat modelling and run sessions regularly.
+- [ ] Study Secure Design: Deepen your knowledge of identity, authorisation, cryptography, and segregation.
+- [ ] Design for Failure: Assume controls will fail, and design what happens next.
+
+### Skill: Enabling and informing risk-based decisions
+
+- [ ] Work With Risk Owners: Build working relationships with the people who actually own the risk.
+- [ ] Advise on Tolerance: Learn to say clearly whether a risk sits within tolerance, and why.
+- [ ] Learn Risk Methodologies: Study several methodologies and their proportionate application.
+- [ ] Practise Proportionality: Resist applying heavyweight process to low-impact decisions.
+
+### Skill: Research and innovation
+
+- [ ] Advise on Security Properties: Keep current on how technology security properties are developing.
+- [ ] Identify New Technologies: Spot new technology and design its use in a business context.
+- [ ] Evaluate Honestly: Trial new security technology properly, including its operational cost.
+- [ ] Share What You Learn: Write up evaluations for your community.
+
+### Skill: Security technology
+
+- [ ] Explain Vulnerability Impact: Be able to explain how vulnerabilities affect current and future designs.
+- [ ] Share Across Systems: Build broad knowledge across systems while specialising in one.
+- [ ] Keep Current on Threats: Follow credible threat intelligence and translate it into design advice.
+- [ ] Practise Hands-On: Retain enough practical skill to test claims yourself.
+
+### Skill: Understanding security implications of transformation
+
+- [ ] Connect Policy and Technology: Interpret policy, process, and business architecture into technical controls.
+- [ ] Understand Legal Implications: Learn the legal and regulatory constraints your designs must respect.
+- [ ] Understand Political Context: Recognise how political pressures shape what solutions are possible.
+- [ ] Advise on Transformation: Contribute security thinking early in transformation programmes.
+
+### Skill Growth Plan: Toward Lead Security Architect
+
+- [ ] Review the Next Level: Read the Lead security architect skill descriptions and mark your gaps.
+- [ ] Work Across Projects: Seek work spanning several projects rather than one.
+- [ ] Develop Patterns Others Use: Get one of your patterns adopted beyond your team.
+- [ ] Build Senior Relationships: Seek exposure to senior stakeholders across departments.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,80 +180,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Security architect** role at the **Security architect** level. You create and design security for systems and services, maintain security documentation, develop architecture patterns and security approaches for new technologies, recommend controls, advise across teams, assess the risk of proposed changes, and help review other people's work. Your development now is about technical depth, clear communication, and earning trust.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/security-architect/1-security-architect.md`](../../../assessments/architecture/security-architect/1-security-architect.md)
-- Upskilling: [`upskills/architecture/security-architect/1-security-architect.md`](../../../upskills/architecture/security-architect/1-security-architect.md)
-
-### Role Level Focus: Security Architect
-
-- [ ] Recommend Controls That Enable: Practise framing security controls as enablers of a business objective, not obstacles.
-- [ ] Maintain Security Documentation: Own the security documentation for a service and keep it genuinely current.
-- [ ] Develop Architecture Patterns: Write reusable security patterns for the technologies your organisation adopts.
-- [ ] Advise Across Teams: Build a reputation as someone teams want to consult early rather than late.
-- [ ] Review Others' Work: Take part in design review and give feedback that improves the designer.
-- [ ] Learn the Government Frameworks: Study the NCSC guidance, the Cyber Assessment Framework, and the Government Security Classifications.
-- [ ] Build Credentials: Work toward a recognised security architecture certification such as CCP or CISSP.
-- [ ] Join the Community: Take part in cross-government security architecture forums.
-
-### Skill: Analysis
-
-- [ ] Apply the Approach to Real Problems: Use structured analysis on live problems, considering all relevant information.
-- [ ] Apply Appropriate Rigour: Make sure your analysis produces a full solution that achieves the business outcome.
-- [ ] Learn Analytical Technique: Study structured analytic techniques, including challenging your own assumptions.
-- [ ] Document Your Reasoning: Write analysis that someone else could audit and disagree with productively.
-
-### Skill: Communication (security architect)
-
-- [ ] Deepen Security Concepts: Build understanding deep enough to apply concepts at a technical level.
-- [ ] Translate Risk Accurately: Practise explaining security and risk implications to non-technical stakeholders.
-- [ ] Respond to Challenge: Learn to answer pushback with evidence rather than authority.
-- [ ] Reach Consensus: Adapt to stakeholder reactions and manage expectations toward agreement.
-- [ ] Avoid Fear-Based Persuasion: Practise making the case on evidence, because credibility compounds.
-
-### Skill: Designing secure systems
-
-- [ ] Design With Patterns and Principles: Apply established patterns and principles to real system architectures.
-- [ ] Review Architectures: Build a routine of reviewing others' architectures constructively.
-- [ ] Learn Threat Modelling: Get properly trained in threat modelling and run sessions regularly.
-- [ ] Study Secure Design: Deepen your knowledge of identity, authorisation, cryptography, and segregation.
-- [ ] Design for Failure: Assume controls will fail, and design what happens next.
-
-### Skill: Enabling and informing risk-based decisions
-
-- [ ] Work With Risk Owners: Build working relationships with the people who actually own the risk.
-- [ ] Advise on Tolerance: Learn to say clearly whether a risk sits within tolerance, and why.
-- [ ] Learn Risk Methodologies: Study several methodologies and their proportionate application.
-- [ ] Practise Proportionality: Resist applying heavyweight process to low-impact decisions.
-
-### Skill: Research and innovation
-
-- [ ] Advise on Security Properties: Keep current on how technology security properties are developing.
-- [ ] Identify New Technologies: Spot new technology and design its use in a business context.
-- [ ] Evaluate Honestly: Trial new security technology properly, including its operational cost.
-- [ ] Share What You Learn: Write up evaluations for your community.
-
-### Skill: Security technology
-
-- [ ] Explain Vulnerability Impact: Be able to explain how vulnerabilities affect current and future designs.
-- [ ] Share Across Systems: Build broad knowledge across systems while specialising in one.
-- [ ] Keep Current on Threats: Follow credible threat intelligence and translate it into design advice.
-- [ ] Practise Hands-On: Retain enough practical skill to test claims yourself.
-
-### Skill: Understanding security implications of transformation
-
-- [ ] Connect Policy and Technology: Interpret policy, process, and business architecture into technical controls.
-- [ ] Understand Legal Implications: Learn the legal and regulatory constraints your designs must respect.
-- [ ] Understand Political Context: Recognise how political pressures shape what solutions are possible.
-- [ ] Advise on Transformation: Contribute security thinking early in transformation programmes.
-
-### Skill Growth Plan: Toward Lead Security Architect
-
-- [ ] Review the Next Level: Read the Lead security architect skill descriptions and mark your gaps.
-- [ ] Work Across Projects: Seek work spanning several projects rather than one.
-- [ ] Develop Patterns Others Use: Get one of your patterns adopted beyond your team.
-- [ ] Build Senior Relationships: Seek exposure to senior stakeholders across departments.

@@ -50,15 +50,14 @@ evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it or
@@ -109,21 +108,19 @@ quickly.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" and "explain" describe developing
+Baseline: 1 — Awareness. "Show an awareness" and "explain" describe developing
 knowledge, though "iterate quickly" implies the candidate is already
 practising the habit in a small, supported way, which keeps the baseline from
 sitting at 0.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what Agile methodology is or why iteration
-  matters.
-- 1 — Beginner: Can describe, in general terms, how Agile principles apply in
+- 1 — Awareness: Can describe, in general terms, how Agile principles apply in
   practice, explains why iteration matters, and has iterated on a small piece
   of work under guidance.
-- 2 — Intermediate: Not expected at this level. Applying Agile principles
+- 2 — Working: Not expected at this level. Applying Agile principles
   independently across portfolio-level work belongs to a more senior level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -137,10 +134,9 @@ sitting at 0.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -158,20 +154,19 @@ making.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "With support" is explicit for presenting to mixed
+Baseline: 1 — Awareness. "With support" is explicit for presenting to mixed
 audiences, and the recommendations given are tactical rather than strategic —
 real, but closely guided, practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot choose an appropriate way to communicate a finding.
-- 1 — Beginner: Chooses a reasonable medium for a finding, shapes a simple
+- 1 — Awareness: Chooses a reasonable medium for a finding, shapes a simple
   message for its audience, and gives a tactical recommendation, with support
   to present to a mixed audience.
-- 2 — Intermediate: Not expected at this level. Presenting complex analysis
+- 2 — Working: Not expected at this level. Presenting complex analysis
   independently to specialist and non-specialist audiences belongs to a more
   senior level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -185,10 +180,9 @@ real, but closely guided, practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -203,21 +197,19 @@ under supervision.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Explain" and "follow... under supervision" describe
+Baseline: 1 — Awareness. "Explain" and "follow... under supervision" describe
 knowledge and supervised compliance, not independent judgement about
 governance.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why a portfolio needs governance or assurance
-  processes.
-- 1 — Beginner: Can explain, in general terms, why governance and assurance
+- 1 — Awareness: Can explain, in general terms, why governance and assurance
   matter to a portfolio, and has followed a governance or assurance process
   under supervision.
-- 2 — Intermediate: Not expected at this level. Helping define governance
+- 2 — Working: Not expected at this level. Helping define governance
   processes belongs to a more senior level, matching the role's own
   description.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -231,10 +223,9 @@ governance.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -249,18 +240,16 @@ develop a plan.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only for understanding and
+Baseline: 1 — Awareness. The framework asks only for understanding and
 awareness, not for producing or owning a portfolio-level plan.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why planning and forecasting matter to a
-  portfolio.
-- 1 — Beginner: Can explain why planning and forecasting matter, and can name
+- 1 — Awareness: Can explain why planning and forecasting matter, and can name
   more than one way a plan might be developed.
-- 2 — Intermediate: Not expected at this level. Producing or contributing
+- 2 — Working: Not expected at this level. Producing or contributing
   substantively to a portfolio-level plan belongs to a more senior level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -274,10 +263,9 @@ awareness, not for producing or owning a portfolio-level plan.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -294,7 +282,7 @@ improve stakeholder relationships using evidence to explain decisions.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This wording describes real, active stakeholder
+Baseline: 2 — Working. This wording describes real, active stakeholder
 management, but the level description's overall framing — learning basic
 skills, reporting to a more senior manager — means an assessor should expect
 this practised in a small, supported way rather than owning the portfolio's
@@ -302,14 +290,12 @@ key relationships independently.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify who a stakeholder is on a piece of work, or why
-  their views matter.
-- 1 — Beginner: Names stakeholders and their interests but has had little
+- 1 — Awareness: Names stakeholders and their interests but has had little
   direct contact.
-- 2 — Intermediate: Has communicated directly and regularly with a
+- 2 — Working: Has communicated directly and regularly with a
   stakeholder on a bounded piece of work, tailoring the message to what they
   needed, with some support to build or reach consensus.
-- 3 — Advanced: Not expected at this level. Independently owning stakeholder
+- 3 — Practitioner: Not expected at this level. Independently owning stakeholder
   relationships across a portfolio belongs to a more senior level.
 - 4 — Expert: Not expected at this level.
 
@@ -324,10 +310,9 @@ key relationships independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -342,20 +327,18 @@ administrative capacity.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Explain" and "support... in an administrative
+Baseline: 1 — Awareness. "Explain" and "support... in an administrative
 capacity" describe understanding and assisting someone else's strategic
 work, not independent strategic judgement.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain how their work connects to the organisation's
-  wider strategy.
-- 1 — Beginner: Can explain, in general terms, the strategic context of their
+- 1 — Awareness: Can explain, in general terms, the strategic context of their
   work, and has supported strategic planning administratively — for example
   collating information or preparing materials for a planning session.
-- 2 — Intermediate: Not expected at this level. Contributing substantive
+- 2 — Working: Not expected at this level. Contributing substantive
   strategic analysis or judgement belongs to a more senior level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -369,10 +352,9 @@ work, not independent strategic judgement.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -381,12 +363,12 @@ work, not independent strategic judgement.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Agile working | 1 — Beginner | | |
-| Communicating analysis and insight | 1 — Beginner | | |
-| Governance and assurance | 1 — Beginner | | |
-| Planning | 1 — Beginner | | |
-| Stakeholder relationship management | 2 — Intermediate | | |
-| Strategic thinking | 1 — Beginner | | |
+| Agile working | 1 — Awareness | | |
+| Communicating analysis and insight | 1 — Awareness | | |
+| Governance and assurance | 1 — Awareness | | |
+| Planning | 1 — Awareness | | |
+| Stakeholder relationship management | 2 — Working | | |
+| Strategic thinking | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill is rated at
 or above the target shown for it above.

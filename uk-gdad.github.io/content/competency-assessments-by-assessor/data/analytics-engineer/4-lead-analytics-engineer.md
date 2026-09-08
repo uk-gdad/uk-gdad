@@ -53,28 +53,27 @@ did, said, or produced.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — it rates how well the person does the
 thing, on the evidence available, not how often they do it or how they feel
 about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Data innovation.** The framework expects a lead analytics
 engineer to "identify areas of innovation in data tools and techniques, and
 recognise appropriate timing for adoption". A candidate who can name emerging
 tools but not judge when the team should actually adopt them is showing
-**2 — Intermediate**, below this level's baseline. A candidate who has
+**2 — Working**, below this level's baseline. A candidate who has
 identified a genuine opportunity for the team — for example, recommending a
 new data transformation tool and correctly judging that now, rather than mid
 way through a major delivery, is the right time to introduce it — is showing
-**3 — Advanced**, the baseline this level expects. A candidate who does this
+**3 — Practitioner**, the baseline this level expects. A candidate who does this
 routinely across the whole organisation, not just their own team, is showing
 evidence towards **4 — Expert**.
 
@@ -124,7 +123,7 @@ within the team or with diverse senior stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Managing stakeholder expectations and hosting
+Baseline: 3 — Practitioner. Managing stakeholder expectations and hosting
 discussions with "diverse senior stakeholders" describes confident,
 independent practice at a wider scope than the senior level's team-level
 discussions, but the framework reserves speaking for the whole community to
@@ -132,13 +131,11 @@ large external audiences for the level above this one.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot interpret conflicting stakeholder needs or manage
-  expectations proactively.
-- 1 — Beginner: Communicates stakeholder needs upward but does not yet manage
+- 1 — Awareness: Communicates stakeholder needs upward but does not yet manage
   expectations independently.
-- 2 — Intermediate: Manages routine stakeholder expectations, but escalates
+- 2 — Working: Manages routine stakeholder expectations, but escalates
   discussions involving senior or diverse stakeholders.
-- 3 — Advanced: Independently interprets and manages the needs of technical
+- 3 — Practitioner: Independently interprets and manages the needs of technical
   and non-technical stakeholders, including senior ones, and hosts difficult
   discussions without escalating.
 - 4 — Expert: Mediates across the whole organisation and represents the
@@ -155,10 +152,9 @@ large external audiences for the level above this one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -174,19 +170,18 @@ conformed model for analysis.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Bringing multiple sources together into a conformed
+Baseline: 3 — Practitioner. Bringing multiple sources together into a conformed
 model, and teaching a team a range of profiling techniques, is more demanding
 than the single-source profiling expected below, and describes someone who is
 both a strong practitioner and starting to build others' capability.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot synthesise more than one data source into a usable model.
-- 1 — Beginner: Profiles a single source competently but struggles to combine
+- 1 — Awareness: Profiles a single source competently but struggles to combine
   more than one.
-- 2 — Intermediate: Combines two related sources with support, but not yet a
+- 2 — Working: Combines two related sources with support, but not yet a
   genuinely complex single source or several disparate ones.
-- 3 — Advanced: Independently analyses a complex single source and brings
+- 3 — Practitioner: Independently analyses a complex single source and brings
   multiple data sources together in a conformed model, and helps team members
   build their own profiling technique.
 - 4 — Expert: Sets the organisation's approach to conforming disparate data
@@ -201,10 +196,9 @@ both a strong practitioner and starting to build others' capability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -219,20 +213,18 @@ about not just what is new, but when to bring it in.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Recognising the right timing for adoption is a
+Baseline: 3 — Practitioner. Recognising the right timing for adoption is a
 judgement call that goes beyond understanding a trend's impact, which is what
 the level below is baselined against, so this level's baseline moves up a
 point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify a genuine opportunity for innovation relevant to
-  the team.
-- 1 — Beginner: Identifies opportunities for innovation but cannot judge
+- 1 — Awareness: Identifies opportunities for innovation but cannot judge
   timing.
-- 2 — Intermediate: Identifies opportunities and has an instinct for timing,
+- 2 — Working: Identifies opportunities and has an instinct for timing,
   with some support in deciding.
-- 3 — Advanced: Independently identifies genuine opportunities for
+- 3 — Practitioner: Independently identifies genuine opportunities for
   innovation and judges the right time to introduce them, balancing benefit
   against disruption to current delivery.
 - 4 — Expert: Horizon-scans across the whole organisation and introduces
@@ -246,10 +238,9 @@ point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -268,7 +259,7 @@ skill is unchanged from the senior level below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The skill's own text does not move between senior and
+Baseline: 3 — Practitioner. The skill's own text does not move between senior and
 lead, but this level's accountabilities — creating standards for the whole
 team and reviewing other analytics engineers' work — mean the modelling
 practice itself needs to stay at the same strong, independent standard while
@@ -276,12 +267,10 @@ now being used as the yardstick others are reviewed against.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot design a complex data model or judge whether one meets
-  standards.
-- 1 — Beginner: Builds simple models with support.
-- 2 — Intermediate: Builds moderately complex models independently but needs
+- 1 — Awareness: Builds simple models with support.
+- 2 — Working: Builds moderately complex models independently but needs
   support reviewing others' models against standards.
-- 3 — Advanced: Independently builds and reviews complex data models, ensures
+- 3 — Practitioner: Independently builds and reviews complex data models, ensures
   they meet quality and interoperability standards, and sets the standard the
   rest of the team is reviewed against.
 - 4 — Expert: Works across the organisation to improve modelling and
@@ -296,10 +285,9 @@ now being used as the yardstick others are reviewed against.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -317,18 +305,17 @@ below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As with data modelling, the text is unchanged from the
+Baseline: 3 — Practitioner. As with data modelling, the text is unchanged from the
 level below, but this level's team-wide standard-setting role means the
 baseline holds at the same strong, independent point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot judge whether a metadata repository is fit for purpose.
-- 1 — Beginner: Uses an existing repository correctly but could not design or
+- 1 — Awareness: Uses an existing repository correctly but could not design or
   improve one.
-- 2 — Intermediate: Suggests small improvements to an existing repository
+- 2 — Working: Suggests small improvements to an existing repository
   with support.
-- 3 — Advanced: Independently designs a metadata repository appropriate to a
+- 3 — Practitioner: Independently designs a metadata repository appropriate to a
   defined area, proposes improvements to existing repositories, and advises
   less experienced colleagues on metadata management.
 - 4 — Expert: Sets metadata governance for the whole organisation.
@@ -342,10 +329,9 @@ baseline holds at the same strong, independent point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -362,20 +348,18 @@ investigation.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Ensuring the right actions are taken and coordinating
+Baseline: 3 — Practitioner. Ensuring the right actions are taken and coordinating
 a team's response is a step beyond determining and implementing an individual
 resolution, which is what the level below is baselined against — the scope
 widens even where the general standard of judgement is similar.
 
 **Behavioural indicators**
 
-- 0 — None: Does not coordinate a team's response to a problem, even when
-  asked.
-- 1 — Beginner: Coordinates a simple, contained problem response with
+- 1 — Awareness: Coordinates a simple, contained problem response with
   guidance.
-- 2 — Intermediate: Coordinates the team's response to moderately complex
+- 2 — Working: Coordinates the team's response to moderately complex
   problems with some oversight.
-- 3 — Advanced: Independently ensures the right actions are taken across the
+- 3 — Practitioner: Independently ensures the right actions are taken across the
   team to investigate, resolve and anticipate problems, coordinating several
   people at once.
 - 4 — Expert: Builds problem-anticipating capability into the team and the
@@ -390,10 +374,9 @@ widens even where the general standard of judgement is similar.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -411,19 +394,17 @@ below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The text does not move from the level below, and this
+Baseline: 3 — Practitioner. The text does not move from the level below, and this
 level's own role is more about setting standards and reviewing others' work
 than writing more programs personally, so the baseline for hands-on
 programming holds at the same point rather than climbing further.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot design or build a program from a specification without
-  significant direction.
-- 1 — Beginner: Builds simple programs from a clear specification, with
+- 1 — Awareness: Builds simple programs from a clear specification, with
   substantial review needed.
-- 2 — Intermediate: Builds moderately complex programs with some review.
-- 3 — Advanced: Independently designs, builds, tests and documents
+- 2 — Working: Builds moderately complex programs with some review.
+- 3 — Practitioner: Independently designs, builds, tests and documents
   moderate-to-complex programs to agreed standards, and collaborates on
   reviewing specifications.
 - 4 — Expert: Sets programming standards and takes overall technical
@@ -437,10 +418,9 @@ programming holds at the same point rather than climbing further.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -457,17 +437,16 @@ below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As with programming, the text is unchanged from the
+Baseline: 3 — Practitioner. As with programming, the text is unchanged from the
 level below, and the baseline holds at the same strong, independent point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot define test conditions from a set of requirements.
-- 1 — Beginner: Executes test scripts reliably but needs help defining test
+- 1 — Awareness: Executes test scripts reliably but needs help defining test
   conditions.
-- 2 — Intermediate: Defines test conditions for straightforward requirements
+- 2 — Working: Defines test conditions for straightforward requirements
   with some support.
-- 3 — Advanced: Independently reviews requirements and specifications, defines
+- 3 — Practitioner: Independently reviews requirements and specifications, defines
   test conditions, identifies risks in the work, and reports results clearly.
 - 4 — Expert: Sets testing standards across the team and reviews others' test
   design.
@@ -481,10 +460,9 @@ level below, and the baseline holds at the same strong, independent point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -493,14 +471,14 @@ level below, and the baseline holds at the same strong, independent point.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Communicating between the technical and non-technical | 3 — Advanced | | |
-| Data analysis and synthesis | 3 — Advanced | | |
-| Data innovation | 3 — Advanced | | |
-| Data modelling, cleansing and enrichment | 3 — Advanced | | |
-| Metadata management | 3 — Advanced | | |
-| Problem management | 3 — Advanced | | |
-| Programming and build (data and analytics engineering) | 3 — Advanced | | |
-| Testing | 3 — Advanced | | |
+| Communicating between the technical and non-technical | 3 — Practitioner | | |
+| Data analysis and synthesis | 3 — Practitioner | | |
+| Data innovation | 3 — Practitioner | | |
+| Data modelling, cleansing and enrichment | 3 — Practitioner | | |
+| Metadata management | 3 — Practitioner | | |
+| Problem management | 3 — Practitioner | | |
+| Programming and build (data and analytics engineering) | 3 — Practitioner | | |
+| Testing | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when every skill above is
 rated at or above its baseline target. One or two skills below target is not

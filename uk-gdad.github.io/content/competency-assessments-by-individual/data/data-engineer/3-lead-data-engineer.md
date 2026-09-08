@@ -49,25 +49,24 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — it rates how well someone does the
 thing, on the evidence available, not how often they do it or how they feel
 about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Data integration design.** The framework expects a lead
 data engineer to "establish standards, keep them up to date and ensure
 adherence to them" and to "keep abreast of best practice in industry and
 across government". Someone who selects the right technologies for their
 own projects well, but has never set a standard that other teams are held to,
-is showing **3 — Advanced**, below this level's baseline. Someone who has
+is showing **3 — Practitioner**, below this level's baseline. Someone who has
 established a data integration standard that multiple teams now follow, keeps
 it current, and can point to industry or cross-government practice that
 informed it, is showing **4 — Expert** — the baseline this level expects.
@@ -109,7 +108,7 @@ discussions within the team or with diverse senior stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Managing stakeholder expectations and hosting
+Baseline: 3 — Practitioner. Managing stakeholder expectations and hosting
 discussions with diverse senior stakeholders describes confident,
 independent practice at a wider scope than a senior data engineer's
 team-level communication, but the framework reserves speaking for the whole
@@ -117,13 +116,11 @@ community to large external audiences for a more senior level than this one.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot interpret conflicting stakeholder needs or manage
-  expectations proactively.
-- 1 — Beginner: Communicates stakeholder needs upward but does not yet manage
+- 1 — Awareness: Communicates stakeholder needs upward but does not yet manage
   expectations independently.
-- 2 — Intermediate: Manages routine stakeholder expectations but escalates
+- 2 — Working: Manages routine stakeholder expectations but escalates
   discussions involving senior or diverse stakeholders.
-- 3 — Advanced: Independently interprets and manages the needs of technical
+- 3 — Practitioner: Independently interprets and manages the needs of technical
   and non-technical stakeholders, including senior ones, and hosts difficult
   discussions without escalating.
 - 4 — Expert: Mediates across the whole organisation and represents the
@@ -139,10 +136,9 @@ community to large external audiences for a more senior level than this one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -158,18 +154,17 @@ conformed model for analysis.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Bringing multiple sources together into a conformed
+Baseline: 3 — Practitioner. Bringing multiple sources together into a conformed
 model, and teaching a team a range of profiling techniques, is more demanding
 than the single-source profiling expected below, and describes someone who is
 both a strong practitioner and starting to build others' capability.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot synthesise more than one data source into a usable model.
-- 1 — Beginner: Profiles a single source competently but struggles to combine
+- 1 — Awareness: Profiles a single source competently but struggles to combine
   more than one.
-- 2 — Intermediate: Combines two related sources with support.
-- 3 — Advanced: Independently analyses a complex single source and brings
+- 2 — Working: Combines two related sources with support.
+- 3 — Practitioner: Independently analyses a complex single source and brings
   multiple data sources together in a conformed model, and helps team members
   build their own profiling technique.
 - 4 — Expert: Sets the organisation's approach to conforming disparate data.
@@ -183,10 +178,9 @@ both a strong practitioner and starting to build others' capability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -209,12 +203,10 @@ personally.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how the organisation's data integration
-  procedures are kept consistent across teams.
-- 1 — Beginner: Follows enterprise-scale procedures but has not shaped them.
-- 2 — Intermediate: Contributes to enterprise-scale procedures within their
+- 1 — Awareness: Follows enterprise-scale procedures but has not shaped them.
+- 2 — Working: Contributes to enterprise-scale procedures within their
   own team.
-- 3 — Advanced: Independently designs, builds and tests complex or
+- 3 — Practitioner: Independently designs, builds and tests complex or
   large-scale data products.
 - 4 — Expert: Establishes enterprise-scale data integration procedures across
   the whole development life cycle, ensures teams adhere to them, and manages
@@ -229,10 +221,9 @@ personally.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -246,19 +237,17 @@ tools and techniques, and recognise appropriate timing for adoption.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Recognising the right timing for adoption is a
+Baseline: 3 — Practitioner. Recognising the right timing for adoption is a
 judgement call that goes beyond understanding a trend's impact, which is
 where the level below is baselined.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify a genuine opportunity for innovation relevant to
-  the team.
-- 1 — Beginner: Identifies opportunities for innovation but cannot judge
+- 1 — Awareness: Identifies opportunities for innovation but cannot judge
   timing.
-- 2 — Intermediate: Identifies opportunities and has an instinct for timing,
+- 2 — Working: Identifies opportunities and has an instinct for timing,
   with some support in deciding.
-- 3 — Advanced: Independently identifies genuine opportunities for
+- 3 — Practitioner: Independently identifies genuine opportunities for
   innovation and judges the right time to introduce them, balancing benefit
   against disruption to current delivery.
 - 4 — Expert: Horizon-scans across the whole organisation and introduces
@@ -273,10 +262,9 @@ where the level below is baselined.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -298,11 +286,9 @@ given problem.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the organisation's data integration design
-  standards or how they came about.
-- 1 — Beginner: Follows integration design standards but has not shaped them.
-- 2 — Intermediate: Selects technologies for their own projects with support.
-- 3 — Advanced: Independently selects and implements the right technologies
+- 1 — Awareness: Follows integration design standards but has not shaped them.
+- 2 — Working: Selects technologies for their own projects with support.
+- 3 — Practitioner: Independently selects and implements the right technologies
   to deliver resilient, scalable, future-proofed solutions.
 - 4 — Expert: Establishes data integration design standards, keeps them up to
   date, ensures adherence across teams, and keeps abreast of best practice in
@@ -317,10 +303,9 @@ given problem.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -344,13 +329,11 @@ the top of this skill's progression.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how the organisation categorises or governs its
-  data models.
-- 1 — Beginner: Produces a data model to a given pattern but has not shaped
+- 1 — Awareness: Produces a data model to a given pattern but has not shaped
   the organisation's approach to categorising them.
-- 2 — Intermediate: Produces data models for a defined subject area with
+- 2 — Working: Produces data models for a defined subject area with
   moderate review.
-- 3 — Advanced: Independently produces relevant data models across multiple
+- 3 — Practitioner: Independently produces relevant data models across multiple
   subject areas and compares and aligns different models.
 - 4 — Expert: Designs the method to categorise data models within the
   organisation, and works across government and industry to recognise
@@ -365,10 +348,9 @@ the top of this skill's progression.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -386,19 +368,18 @@ below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The skill's own text does not move from the senior
+Baseline: 3 — Practitioner. The skill's own text does not move from the senior
 level, and this level's team-wide standard-setting role means the baseline
 holds at the same strong, independent point rather than being inflated for
 the sake of the job title.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot judge whether a metadata repository is fit for purpose.
-- 1 — Beginner: Uses an existing repository correctly but could not design or
+- 1 — Awareness: Uses an existing repository correctly but could not design or
   improve one.
-- 2 — Intermediate: Suggests small improvements to an existing repository
+- 2 — Working: Suggests small improvements to an existing repository
   with support.
-- 3 — Advanced: Independently designs a metadata repository appropriate to a
+- 3 — Practitioner: Independently designs a metadata repository appropriate to a
   defined area, proposes improvements to existing repositories, and advises
   less experienced colleagues.
 - 4 — Expert: Sets metadata governance for the whole organisation.
@@ -412,10 +393,9 @@ the sake of the job title.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -430,20 +410,18 @@ to investigate problems, implement solutions and take preventive measures.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Ensuring the right actions are taken and coordinating
+Baseline: 3 — Practitioner. Ensuring the right actions are taken and coordinating
 a team's response is a step beyond determining and implementing an individual
 resolution, which is where the level below is baselined — the scope widens
 even where the general standard of judgement is similar.
 
 **Behavioural indicators**
 
-- 0 — None: Does not coordinate a team's response to a problem, even when
-  asked.
-- 1 — Beginner: Coordinates a simple, contained problem response with
+- 1 — Awareness: Coordinates a simple, contained problem response with
   guidance.
-- 2 — Intermediate: Coordinates the team's response to moderately complex
+- 2 — Working: Coordinates the team's response to moderately complex
   problems with some oversight.
-- 3 — Advanced: Independently ensures the right actions are taken across the
+- 3 — Practitioner: Independently ensures the right actions are taken across the
   team to investigate, resolve and anticipate problems, coordinating several
   people at once.
 - 4 — Expert: Builds problem-anticipating capability into the team and the
@@ -458,10 +436,9 @@ even where the general standard of judgement is similar.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -478,19 +455,17 @@ wording for this skill is unchanged from the senior level below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The text does not move from the level below, and this
+Baseline: 3 — Practitioner. The text does not move from the level below, and this
 level's own role is more about setting standards and co-ordinating teams than
 writing more programs personally, so the baseline for hands-on programming
 holds at the same point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot design or build a program from a specification without
-  significant direction.
-- 1 — Beginner: Builds simple programs from a clear specification, with
+- 1 — Awareness: Builds simple programs from a clear specification, with
   substantial review needed.
-- 2 — Intermediate: Builds moderately complex programs with some review.
-- 3 — Advanced: Independently designs, builds, tests and documents
+- 2 — Working: Builds moderately complex programs with some review.
+- 3 — Practitioner: Independently designs, builds, tests and documents
   moderate-to-complex programs to agreed standards, and collaborates on
   reviewing specifications.
 - 4 — Expert: Sets programming standards and takes overall technical
@@ -504,10 +479,9 @@ holds at the same point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -523,17 +497,16 @@ wording for this skill is unchanged from the senior level below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As with programming, the text is unchanged from the
+Baseline: 3 — Practitioner. As with programming, the text is unchanged from the
 level below, and the baseline holds at the same strong, independent point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot define test conditions from a set of requirements.
-- 1 — Beginner: Executes test scripts reliably but needs help defining test
+- 1 — Awareness: Executes test scripts reliably but needs help defining test
   conditions.
-- 2 — Intermediate: Defines test conditions for straightforward requirements
+- 2 — Working: Defines test conditions for straightforward requirements
   with some support.
-- 3 — Advanced: Independently reviews requirements and specifications, defines
+- 3 — Practitioner: Independently reviews requirements and specifications, defines
   test conditions, identifies risks in the work, and reports results clearly.
 - 4 — Expert: Sets testing standards across the team.
 
@@ -546,10 +519,9 @@ level below, and the baseline holds at the same strong, independent point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -558,16 +530,16 @@ level below, and the baseline holds at the same strong, independent point.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Communicating between the technical and non-technical | 3 — Advanced | | |
-| Data analysis and synthesis | 3 — Advanced | | |
+| Communicating between the technical and non-technical | 3 — Practitioner | | |
+| Data analysis and synthesis | 3 — Practitioner | | |
 | Data development process | 4 — Expert | | |
-| Data innovation | 3 — Advanced | | |
+| Data innovation | 3 — Practitioner | | |
 | Data integration design | 4 — Expert | | |
 | Data modelling | 4 — Expert | | |
-| Metadata management | 3 — Advanced | | |
-| Problem management | 3 — Advanced | | |
-| Programming and build (data and analytics engineering) | 3 — Advanced | | |
-| Testing | 3 — Advanced | | |
+| Metadata management | 3 — Practitioner | | |
+| Problem management | 3 — Practitioner | | |
+| Programming and build (data and analytics engineering) | 3 — Practitioner | | |
+| Testing | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

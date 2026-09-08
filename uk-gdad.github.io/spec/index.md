@@ -100,7 +100,17 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
 - **Summaries** are parsed by `src/lib/server/content.ts` into role, level,
   duties and skills, then rendered as structured HTML — not as markdown.
 - **Derived documents** are rendered from markdown at build time. Headings get
-  stable ids and feed an on-page contents list.
+  stable ids, so a link to `#section-name` still resolves even where nothing
+  on the page renders a contents list from them.
+- **A psychometric assessment's worked answer** — the "Correct answer" bullet
+  and any "Explanation" paragraph that follows it — collapses into a
+  `<details>`/`<summary>` disclosure at render time, reusing the Lily Details
+  component's own `.details` styling, so a reader can attempt the question
+  before revealing the answer.
+- **The start-here page's `## Explore the framework` section** collapses the
+  same way. It is a signpost to the other eight documents for this role
+  level, not the page's own content, so it stays out of the way until a
+  reader opens it.
 - **Links inside markdown** that point at `.md` files are rewritten to site
   URLs where they resolve, and rendered as plain text where they do not, so a
   placeholder never becomes a broken link.
@@ -126,6 +136,26 @@ A URL that 404s at build time fails the build. Prerendering crawls every link.
   before a tab closes are not lost, and its status line repeats the message
   already in the markup when it saves, so the live region announces restoring,
   exporting, clearing and failing — and stays silent while someone types.
+
+## Page layout
+
+Every page reads as a single column, top to bottom. Two things this rules out,
+deliberately, not by omission:
+
+- **No sidebars.** No page splits into a multi-column grid with a secondary
+  panel beside the main content — not a contents list, not role level details,
+  not a licence notice. Everything a page has to say sits in the one column a
+  reader is already reading.
+- **No bottom call-to-action.** A document page ends when its content ends. It
+  does not close with a card grid or a link list pointing at its sibling
+  documents. Cross-navigation between a role level's nine documents lives in
+  exactly one place — the start-here page's own `## Explore the framework`
+  section (see Content handling) — not repeated as chrome on every page that
+  reads it.
+
+Getting from one document to another, other than through that one signpost,
+means the breadcrumb trail: every document page's breadcrumb links back to
+`/<slug>/`, the start-here page, which is where the reader finds the rest.
 
 ## Site tools
 

@@ -49,20 +49,19 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
 **Worked example — Stakeholder relationship management (IT operations).** At
-3 — Advanced, someone might describe negotiating a difficult change window
+3 — Practitioner, someone might describe negotiating a difficult change window
 with a resistant business stakeholder, reaching a workable compromise. At
 4 — Expert, someone for senior IT service manager should be able to
 describe building a long-term strategic relationship with a stakeholder over
@@ -105,18 +104,17 @@ items and related information, and to manage service compliance and risk.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The introduction of "compliance and risk" marks a
+Baseline: 3 — Practitioner. The introduction of "compliance and risk" marks a
 clear step up from the IT service manager's "maintain" and "control" wording —
 this level owns the risk position, not just the data accuracy.
 
 **Behavioural indicators**
 
-- 0 — None: Treats configuration management as someone else's job.
-- 1 — Beginner: Understands configuration risk in principle but needs support
+- 1 — Awareness: Understands configuration risk in principle but needs support
   to manage it in practice.
-- 2 — Intermediate: Manages configuration items and their compliance with
+- 2 — Working: Manages configuration items and their compliance with
   guidance from others.
-- 3 — Advanced: Independently manages configuration compliance and risk
+- 3 — Practitioner: Independently manages configuration compliance and risk
   across platforms and channels, and can explain the risk position to a
   governance forum.
 - 4 — Expert: Sets the configuration risk appetite for the wider service
@@ -131,10 +129,9 @@ this level owns the risk position, not just the data accuracy.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -150,19 +147,17 @@ large amounts of conflicting information and use it to produce solutions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Lead investigative work" and handling "large amounts
+Baseline: 3 — Practitioner. "Lead investigative work" and handling "large amounts
 of conflicting information" are a marked step up from the IT service
 manager's contributory wording, and match this level's remit across
 platforms and multiple channels.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot make sense of conflicting information from different
-  sources about a shared problem.
-- 1 — Beginner: Investigates with support, and needs help resolving
+- 1 — Awareness: Investigates with support, and needs help resolving
   conflicting accounts.
-- 2 — Intermediate: Leads a straightforward investigation independently.
-- 3 — Advanced: Leads investigations that draw on conflicting sources across
+- 2 — Working: Leads a straightforward investigation independently.
+- 3 — Practitioner: Leads investigations that draw on conflicting sources across
   platforms, resolves the conflicts, and produces a workable recommendation.
 - 4 — Expert: Their investigations are trusted by senior stakeholders to
   settle genuinely contested questions about how a service should change.
@@ -176,10 +171,9 @@ platforms and multiple channels.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -193,17 +187,16 @@ skills to make decisions that enhance business performance.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a change in kind from the reporting and
+Baseline: 3 — Practitioner. This is a change in kind from the reporting and
 interpreting expected below — it asks someone to use analytics to drive a
 business decision, which is a senior, independent capability.
 
 **Behavioural indicators**
 
-- 0 — None: Reads reports without drawing decisions from them.
-- 1 — Beginner: Uses basic analysis to inform a decision, with support.
-- 2 — Intermediate: Independently uses data analysis for straightforward
+- 1 — Awareness: Uses basic analysis to inform a decision, with support.
+- 2 — Working: Independently uses data analysis for straightforward
   decisions.
-- 3 — Advanced: Uses data analytics to identify and justify a decision that
+- 3 — Practitioner: Uses data analytics to identify and justify a decision that
   measurably enhances business performance across services.
 - 4 — Expert: Builds analytics capability others rely on, and their
   data-driven recommendations shape investment decisions.
@@ -216,10 +209,9 @@ business decision, which is a senior, independent capability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -234,18 +226,17 @@ to achieve excellent user outcomes.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The shift from "own an issue" to "proactive in
+Baseline: 3 — Practitioner. The shift from "own an issue" to "proactive in
 searching for potential problems" marks a move from reactive ownership to
 active risk-seeking, appropriate to this level's platform-wide remit.
 
 **Behavioural indicators**
 
-- 0 — None: Only responds to issues once they are raised by others.
-- 1 — Beginner: Follows through on raised issues reliably, but rarely looks
+- 1 — Awareness: Follows through on raised issues reliably, but rarely looks
   for problems proactively.
-- 2 — Intermediate: Occasionally identifies a potential problem before it is
+- 2 — Working: Occasionally identifies a potential problem before it is
   raised.
-- 3 — Advanced: Regularly and systematically searches for potential problems
+- 3 — Practitioner: Regularly and systematically searches for potential problems
   across platforms, and takes accountability for outcomes even outside their
   direct control.
 - 4 — Expert: Has built a track record of catching serious problems before
@@ -259,10 +250,9 @@ active risk-seeking, appropriate to this level's platform-wide remit.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -277,18 +267,17 @@ underlying services.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording matches the IT service manager level, but
+Baseline: 3 — Practitioner. The wording matches the IT service manager level, but
 here it applies across platforms and multiple channels, so the evidence bar
 for "advanced" independent practice is set by that wider scope.
 
 **Behavioural indicators**
 
-- 0 — None: Manages platforms and channels as separate, unconnected concerns.
-- 1 — Beginner: Sees some connections between platforms but needs guidance to
+- 1 — Awareness: Sees some connections between platforms but needs guidance to
   act on them.
-- 2 — Intermediate: Investigates connections between grouped services with
+- 2 — Working: Investigates connections between grouped services with
   some independence.
-- 3 — Advanced: Independently investigates and improves how groups of
+- 3 — Practitioner: Independently investigates and improves how groups of
   services work together across platforms and channels.
 - 4 — Expert: Has reshaped how a whole service area is organised to get more
   value from underlying services.
@@ -302,10 +291,9 @@ for "advanced" independent practice is set by that wider scope.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -325,12 +313,11 @@ expected below, so the baseline follows the framework's own wording directly.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no advanced service management qualification.
-- 1 — Beginner: Working towards an expert-level qualification, with gaps in
+- 1 — Awareness: Working towards an expert-level qualification, with gaps in
   applying it.
-- 2 — Intermediate: Holds an expert-level qualification but applies it
+- 2 — Working: Holds an expert-level qualification but applies it
   inconsistently in practice.
-- 3 — Advanced: Holds the qualification and consistently applies its concepts
+- 3 — Practitioner: Holds the qualification and consistently applies its concepts
   to complex, multi-platform situations.
 - 4 — Expert: Holds the qualification and is sought out to mentor others in
   applying it, including outside their own team.
@@ -344,10 +331,9 @@ expected below, so the baseline follows the framework's own wording directly.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -372,13 +358,11 @@ relationships" — a distinct, senior capability that fits the framework's
 
 **Behavioural indicators**
 
-- 0 — None: Manages stakeholders transactionally, without building lasting
-  relationships.
-- 1 — Beginner: Builds working relationships but struggles in genuinely
+- 1 — Awareness: Builds working relationships but struggles in genuinely
   challenging situations.
-- 2 — Intermediate: Negotiates and influences successfully in
+- 2 — Working: Negotiates and influences successfully in
   moderately difficult situations, with some support.
-- 3 — Advanced: Independently negotiates, removes blockers and manages
+- 3 — Practitioner: Independently negotiates, removes blockers and manages
   challenging situations across multiple stakeholder relationships.
 - 4 — Expert: Has built and sustained long-term strategic relationships that
   survive genuine crises, and other managers ask them to intervene on their
@@ -393,10 +377,9 @@ relationships" — a distinct, senior capability that fits the framework's
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -412,18 +395,17 @@ met and exceeded where possible.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Moving from "contribute to the development of
+Baseline: 3 — Practitioner. Moving from "contribute to the development of
 strategy" at the levels below to "define strategies and policies" and giving
 "guidance to others" is a clear step into independent, leading strategic
 work.
 
 **Behavioural indicators**
 
-- 0 — None: Works only within strategy set by others, without evaluating it.
-- 1 — Beginner: Contributes to strategy discussions but does not yet define
+- 1 — Awareness: Contributes to strategy discussions but does not yet define
   policy independently.
-- 2 — Intermediate: Defines straightforward policy with support.
-- 3 — Advanced: Independently defines strategy and policy for their area, and
+- 2 — Working: Defines straightforward policy with support.
+- 3 — Practitioner: Independently defines strategy and policy for their area, and
   evaluates whether it is exceeding business requirements.
 - 4 — Expert: Guides other managers on strategic thinking, and their policies
   set the direction for the wider service delivery function.
@@ -437,10 +419,9 @@ work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -458,19 +439,18 @@ to use.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a substantially fuller description than at
+Baseline: 3 — Practitioner. This is a substantially fuller description than at
 the levels below — championing research, guiding others, and recommending
 methods — matching a senior, leading role in how user focus is practised
 across the service.
 
 **Behavioural indicators**
 
-- 0 — None: Treats user needs and user requests as the same thing.
-- 1 — Beginner: Understands the difference between needs and desires in
+- 1 — Awareness: Understands the difference between needs and desires in
   theory, but does not apply it consistently.
-- 2 — Intermediate: Applies the distinction and represents users internally
+- 2 — Working: Applies the distinction and represents users internally
   with support.
-- 3 — Advanced: Champions user research across the service, guides others in
+- 3 — Practitioner: Champions user research across the service, guides others in
   approach, and recommends tools and methods.
 - 4 — Expert: Their advocacy has changed how the wider organisation treats
   user research as part of service management.
@@ -483,10 +463,9 @@ across the service.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -495,15 +474,15 @@ across the service.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 3 — Advanced | | |
-| Business analysis (IT operations) | 3 — Advanced | | |
-| IT service reporting | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
-| Service focus | 3 — Advanced | | |
+| Asset and configuration management | 3 — Practitioner | | |
+| Business analysis (IT operations) | 3 — Practitioner | | |
+| IT service reporting | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
+| Service focus | 3 — Practitioner | | |
 | Service management framework knowledge | 4 — Expert | | |
 | Stakeholder relationship management (IT operations) | 4 — Expert | | |
-| Strategic thinking | 3 — Advanced | | |
-| User focus | 3 — Advanced | | |
+| Strategic thinking | 3 — Practitioner | | |
+| User focus | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

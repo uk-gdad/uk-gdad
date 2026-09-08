@@ -49,16 +49,15 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates **how well** someone does the thing, on the evidence available,
 not how often they do it.
@@ -67,12 +66,12 @@ not how often they do it.
 this level names:
 
 - Someone who can only run basic automated checks and still needs help
-  interpreting an edge case sits at **2 — Intermediate**, the level below
+  interpreting an edge case sits at **2 — Working**, the level below
   this assessment's baseline.
 - Someone who performs detailed audits of websites, services and
   documents unsupported, documents findings clearly enough for a developer
   to act on, and is confident using at least one assistive technology, sits
-  at **3 — Advanced** — the baseline this assessment sets for this skill.
+  at **3 — Practitioner** — the baseline this assessment sets for this skill.
 - Someone who additionally trains others in the department and is
   sought out to resolve edge cases nobody else can settle is already working
   towards senior accessibility specialist, at **4 — Expert**.
@@ -130,21 +129,19 @@ relevant to the audience.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Advocating for the team externally and shaping
+Baseline: 2 — Working. Advocating for the team externally and shaping
 communications for an audience is real, unsupervised work, but the framework
 does not yet ask for the mediation between senior stakeholders that appears
 at senior accessibility specialist.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot restate a stakeholder's need accurately and does not
-  represent the team's position when asked.
-- 1 — Beginner: Restates stakeholder needs accurately with support; needs
+- 1 — Awareness: Restates stakeholder needs accurately with support; needs
   coaching to represent the team externally.
-- 2 — Intermediate: Represents the team to external stakeholders and manages
+- 2 — Working: Represents the team to external stakeholders and manages
   differing perspectives without support, and tailors written or spoken
   communication to who is receiving it.
-- 3 — Advanced: Proactively resolves a disagreement between stakeholders
+- 3 — Practitioner: Proactively resolves a disagreement between stakeholders
   before it escalates, and is asked by colleagues to review how they should
   frame a difficult message.
 - 4 — Expert: Sets how the wider team communicates externally, and mediates
@@ -161,10 +158,9 @@ at senior accessibility specialist.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -180,7 +176,7 @@ so they can easily be understood and troubleshoot where required.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework has dropped junior accessibility
+Baseline: 2 — Working. The framework has dropped junior accessibility
 specialist's "under guidance" and "referring to previous work by others" —
 this level originates advice from its own specialist knowledge, but leading
 the definition of organisation-wide guidance is reserved for senior
@@ -188,14 +184,12 @@ accessibility specialist.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot give advice on an accessibility problem without simply
-  repeating something someone else told them.
-- 1 — Beginner: Gives advice on familiar problems but still checks it against
+- 1 — Awareness: Gives advice on familiar problems but still checks it against
   documented guidance before offering it.
-- 2 — Intermediate: Gives sound advice drawn from their own knowledge and
+- 2 — Working: Gives sound advice drawn from their own knowledge and
   experience on problems without an obvious precedent, and proposes a
   workable approach to implementation.
-- 3 — Advanced: Leads a piece of work defining how the organisation should
+- 3 — Practitioner: Leads a piece of work defining how the organisation should
   approach an accessibility problem, informing wider practice — already
   working towards the level above.
 - 4 — Expert: A recognised authority whose recommendations shape strategy
@@ -211,10 +205,9 @@ accessibility specialist.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -229,21 +222,19 @@ predefined framework, assessing them against accessibility standards.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This skill first appears at this level, and the
+Baseline: 2 — Working. This skill first appears at this level, and the
 framework's own wording — "according to a predefined framework" — describes
-applying a structure someone else has set, which fits Intermediate rather
-than the independent judgement Advanced would require.
+applying a structure someone else has set, which fits Working rather
+than the independent judgement Practitioner would require.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot use a governance checklist to assess a document against
-  accessibility standards, even with the checklist in front of them.
-- 1 — Beginner: Applies a predefined governance framework to a document with
+- 1 — Awareness: Applies a predefined governance framework to a document with
   support, and needs help interpreting an ambiguous case.
-- 2 — Intermediate: Applies the predefined framework to governance and
+- 2 — Working: Applies the predefined framework to governance and
   project documents unsupported, and gives clear, standards-referenced
   feedback at a governance board.
-- 3 — Advanced: Spots a gap in the predefined framework itself and raises it
+- 3 — Practitioner: Spots a gap in the predefined framework itself and raises it
   — already working towards challenging governance arrangements, which is
   the senior accessibility specialist expectation.
 - 4 — Expert: Designs governance and assurance frameworks for others to
@@ -260,10 +251,9 @@ than the independent judgement Advanced would require.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -280,21 +270,19 @@ account all views and opinions.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a new skill at this level, and "managed
+Baseline: 2 — Working. This is a new skill at this level, and "managed
 levels of risk and complexity" is a deliberately more contained scope than
 senior accessibility specialist's "medium levels of risk and complexity" or
 head of accessibility's "high levels".
 
 **Behavioural indicators**
 
-- 0 — None: Avoids or escalates every dispute between colleagues rather than
-  attempting to resolve it.
-- 1 — Beginner: Contributes an example or a suggestion to best practice
+- 1 — Awareness: Contributes an example or a suggestion to best practice
   guidelines when asked, but needs support to make a decision involving risk.
-- 2 — Intermediate: Makes decisions involving managed risk and complexity
+- 2 — Working: Makes decisions involving managed risk and complexity
   unsupported, and resolves a technical dispute between peers by hearing all
   sides fairly.
-- 3 — Advanced: Recommends decisions as risk and complexity increase beyond
+- 3 — Practitioner: Recommends decisions as risk and complexity increase beyond
   what they would decide alone — already working towards senior accessibility
   specialist.
 - 4 — Expert: Coaches the organisation on team dynamics and resolves disputes
@@ -311,10 +299,9 @@ head of accessibility's "high levels".
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -334,7 +321,7 @@ more assistive technologies with knowledge of others.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is the central technical skill of the role, and
+Baseline: 3 — Practitioner. This is the central technical skill of the role, and
 the framework's wording moves clearly beyond junior accessibility
 specialist's basic checks to detailed, unsupported audits and real
 confidence with assistive technology — this level is trusted to be
@@ -343,15 +330,12 @@ responsible for.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot perform an audit without a checklist someone else wrote,
-  and cannot explain an accessibility standard's requirement in their own
-  words.
-- 1 — Beginner: Explains a standard's requirement with help, and performs
+- 1 — Awareness: Explains a standard's requirement with help, and performs
   only basic automated checks unsupported.
-- 2 — Intermediate: Performs basic manual and automated checks confidently
+- 2 — Working: Performs basic manual and automated checks confidently
   but still needs support with a detailed audit or an unfamiliar assistive
   technology.
-- 3 — Advanced: Performs a detailed audit of a website, service or document
+- 3 — Practitioner: Performs a detailed audit of a website, service or document
   unsupported, documents findings clearly enough for a developer to fix
   without further explanation, and uses at least one assistive technology
   with genuine confidence.
@@ -371,10 +355,9 @@ responsible for.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -389,21 +372,19 @@ and analyse and report test activities and results.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Defining test conditions from requirements and
+Baseline: 2 — Working. Defining test conditions from requirements and
 analysing results is a step up from junior accessibility specialist's
 supervised script execution, but managing testing activities across a whole
 programme of work is reserved for senior accessibility specialist.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot turn a requirement into a test condition, and only
-  executes scripts someone else has written.
-- 1 — Beginner: Defines a simple test condition from a clear requirement with
+- 1 — Awareness: Defines a simple test condition from a clear requirement with
   support.
-- 2 — Intermediate: Reviews requirements and specifications and defines test
+- 2 — Working: Reviews requirements and specifications and defines test
   conditions unsupported, identifies risks in the work, and reports results
   clearly.
-- 3 — Advanced: Manages testing activities across more than one piece of
+- 3 — Practitioner: Manages testing activities across more than one piece of
   work at once — already working towards senior accessibility specialist.
 - 4 — Expert: Sets the testing approach for a whole programme and manages
   preventative action when risk becomes unacceptable — well above this
@@ -419,10 +400,9 @@ programme of work is reserved for senior accessibility specialist.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -438,21 +418,19 @@ about users to turn user focus into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This level moves from junior accessibility
+Baseline: 2 — Working. This level moves from junior accessibility
 specialist's awareness of user experience principles to actively engaging
 users and turning evidence into outcomes, without yet the champion-level
 research advocacy expected at senior accessibility specialist.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a specific user need shaped a decision they
-  made.
-- 1 — Beginner: Collates user needs evidence that someone else has already
+- 1 — Awareness: Collates user needs evidence that someone else has already
   gathered, but does not yet engage users directly.
-- 2 — Intermediate: Engages users or stakeholders directly to collate
+- 2 — Working: Engages users or stakeholders directly to collate
   evidence of user needs, and uses quantitative or qualitative data to shape
   a recommendation.
-- 3 — Advanced: Champions user research to make sure all users, including
+- 3 — Practitioner: Champions user research to make sure all users, including
   those with less common access needs, are represented — already working
   towards senior accessibility specialist.
 - 4 — Expert: Applies strategic thinking to how the whole organisation meets
@@ -469,10 +447,9 @@ research advocacy expected at senior accessibility specialist.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -481,13 +458,13 @@ research advocacy expected at senior accessibility specialist.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Communicating information | 2 — Intermediate | | |
-| Consultancy | 2 — Intermediate | | |
-| Governance and assurance (accessibility) | 2 — Intermediate | | |
-| Leadership and guidance | 2 — Intermediate | | |
-| Technical understanding (accessibility) | 3 — Advanced | | |
-| Testing | 2 — Intermediate | | |
-| User focus | 2 — Intermediate | | |
+| Communicating information | 2 — Working | | |
+| Consultancy | 2 — Working | | |
+| Governance and assurance (accessibility) | 2 — Working | | |
+| Leadership and guidance | 2 — Working | | |
+| Technical understanding (accessibility) | 3 — Practitioner | | |
+| Testing | 2 — Working | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

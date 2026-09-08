@@ -432,9 +432,10 @@ same baselines, same behavioural indicators — for two different readers:
   for exactly what changes and what carries over unchanged.
 
 The core of either is `## Competency matrix`: one `### Skill:` block per skill
-the summary names, giving what the framework expects, a baseline point on a
-0–4 proficiency scale (0 None, 1 Beginner, 2 Intermediate, 3 Advanced, 4
-Expert), behavioural indicators at each point, and evidence to gather.
+the summary names, giving what the framework expects, a baseline point on the
+UK GDAD framework's own 1–4 proficiency scale (1 Awareness, 2 Working,
+3 Practitioner, 4 Expert), behavioural indicators at each point, and evidence
+to gather.
 `## Overall determination` turns the individual ratings into a result.
 Neither is a validated instrument, and neither is ever the sole basis for a
 decision about someone — the required `## Advisory` section says so.

@@ -57,18 +57,17 @@ what the person actually did, said, or produced.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — it rates how well the person does the
 thing, on the evidence available, not how often they do it or how they feel
 about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Leading design.** The framework expects a head of graphic
 design to "set a vision for and lead design across multiple teams or a whole
@@ -77,7 +76,7 @@ organisation or wider public sector," and "iterate and measurably improve
 design maturity within your organisation and its partners." A candidate who
 leads and mentors well within a single team, as a lead graphic designer
 does, but has not set a vision spanning multiple teams or measurably moved
-design maturity, is showing at most **3 — Advanced**. A candidate who can
+design maturity, is showing at most **3 — Practitioner**. A candidate who can
 show a design vision they set for a whole organisation, and evidence that
 design maturity measurably improved as a result, is showing **4 — Expert**,
 the baseline this level expects.
@@ -125,11 +124,10 @@ this is already the top of what the framework describes for this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain a design decision beyond their immediate team.
-- 1 — Beginner: Explains a design decision clearly within their own team.
-- 2 — Intermediate: Explains complex design problems to stakeholders outside
+- 1 — Awareness: Explains a design decision clearly within their own team.
+- 2 — Working: Explains complex design problems to stakeholders outside
   design.
-- 3 — Advanced: Builds consensus on a design approach without needing
+- 3 — Practitioner: Builds consensus on a design approach without needing
   support.
 - 4 — Expert: Gains support for design strategy from senior leaders,
   communicates it across organisational boundaries, and coaches others in
@@ -146,10 +144,9 @@ this is already the top of what the framework describes for this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -171,11 +168,9 @@ from the lead graphic designer level below, so the baseline stays at Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how privilege or power might influence a design
-  decision.
-- 1 — Beginner: Applies accessible design practice to their own work.
-- 2 — Intermediate: Advises a single team on inclusive or accessible design.
-- 3 — Advanced: Advises multiple teams on inclusive, accessible and
+- 1 — Awareness: Applies accessible design practice to their own work.
+- 2 — Working: Advises a single team on inclusive or accessible design.
+- 3 — Practitioner: Advises multiple teams on inclusive, accessible and
   sustainable design.
 - 4 — Expert: Measurably improves inclusive, accessible and sustainable
   design practice across multiple teams or the organisation, and helps
@@ -192,10 +187,9 @@ from the lead graphic designer level below, so the baseline stays at Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -220,11 +214,10 @@ patterns for a team.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain how design fits into organisational strategy.
-- 1 — Beginner: Aligns their own work to organisational goals, with
+- 1 — Awareness: Aligns their own work to organisational goals, with
   guidance.
-- 2 — Intermediate: Helps a single team align to organisational vision.
-- 3 — Advanced: Helps multiple teams align to organisational vision and
+- 2 — Working: Helps a single team align to organisational vision.
+- 3 — Practitioner: Helps multiple teams align to organisational vision and
   creates new design patterns and components.
 - 4 — Expert: Ensures design is part of organisational strategy
   development, works with leaders to bring design into policy, technology
@@ -242,10 +235,9 @@ patterns for a team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -270,10 +262,9 @@ designer's advisory role.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how to plan a design session.
-- 1 — Beginner: Contributes to a design session someone else runs.
-- 2 — Intermediate: Plans and runs their own design sessions.
-- 3 — Advanced: Advises other designers on planning and running sessions and
+- 1 — Awareness: Contributes to a design session someone else runs.
+- 2 — Working: Plans and runs their own design sessions.
+- 3 — Practitioner: Advises other designers on planning and running sessions and
   works across team or profession boundaries.
 - 4 — Expert: Plans and runs sessions that include senior leaders, helps
   teams connect and work across organisational boundaries, coaches other
@@ -291,10 +282,9 @@ designer's advisory role.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -317,11 +307,10 @@ already the top of what the framework describes for this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a piece of research or data evidence shows.
-- 1 — Beginner: Explains simple evidence with support.
-- 2 — Intermediate: Independently analyses and explains evidence relevant to
+- 1 — Awareness: Explains simple evidence with support.
+- 2 — Working: Independently analyses and explains evidence relevant to
   a design.
-- 3 — Advanced: Analyses and explains complex evidence and helps a team frame
+- 3 — Practitioner: Analyses and explains complex evidence and helps a team frame
   and use design hypotheses effectively.
 - 4 — Expert: Embeds a hypothesis-driven design practice in a team, guides
   the organisation on using evidence to improve services, and ensures
@@ -338,10 +327,9 @@ already the top of what the framework describes for this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -363,11 +351,10 @@ from the lead graphic designer level below, so the baseline stays at Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a design changed across iterations.
-- 1 — Beginner: Iterates a simple design with guidance on what to change.
-- 2 — Intermediate: Independently iterates straightforward designs across
+- 1 — Awareness: Iterates a simple design with guidance on what to change.
+- 2 — Working: Independently iterates straightforward designs across
   rounds of research.
-- 3 — Advanced: Helps other designers apply iterative principles and
+- 3 — Practitioner: Helps other designers apply iterative principles and
   iterates complex designs.
 - 4 — Expert: Embeds iterative design and agile practice across teams or the
   organisation, leads prototyping of complex ideas at any fidelity, and
@@ -384,10 +371,9 @@ from the lead graphic designer level below, so the baseline stays at Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -413,10 +399,9 @@ leadership.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a vision for design beyond their own work.
-- 1 — Beginner: Leads a piece of design work in a team, with support.
-- 2 — Intermediate: Leads design work in a team independently.
-- 3 — Advanced: Leads design across a team and mentors other designers,
+- 1 — Awareness: Leads a piece of design work in a team, with support.
+- 2 — Working: Leads design work in a team independently.
+- 3 — Practitioner: Leads design across a team and mentors other designers,
   advocating for user-centred design with leaders outside digital and data.
 - 4 — Expert: Sets a vision for and leads design across multiple teams or a
   whole organisation, works effectively with senior leaders across the wider
@@ -435,10 +420,9 @@ leadership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

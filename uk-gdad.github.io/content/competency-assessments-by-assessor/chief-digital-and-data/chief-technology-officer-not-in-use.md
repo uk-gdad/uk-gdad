@@ -73,15 +73,14 @@ the sensitive content itself.
 
 ## Rating scale
 
-Every skill in this record is rated on the same five-point scale:
+Every skill in this record is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
@@ -90,9 +89,9 @@ describe the person's actual, observed practice rather than to compare that
 practice against a target.
 
 **A worked example**, using Technology architecture, one of the six skills
-this role names. Evidence at 1 — Beginner might be a candidate who can
+this role names. Evidence at 1 — Awareness might be a candidate who can
 describe what a reliable technology architecture looks like, but has never
-been accountable for putting one in place. Evidence at 3 — Advanced might be
+been accountable for putting one in place. Evidence at 3 — Practitioner might be
 a candidate who has independently put in place a technology architecture that
 provided a reliable and permanent infrastructure for a mid-sized
 organisation, and can describe how they made systems and services resistant
@@ -153,15 +152,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has ensured people have the
-  tools, technical skills or working environment they need to do their jobs.
-- 1 — Beginner: The person can describe why capability building matters, but
+- 1 — Awareness: The person can describe why capability building matters, but
   the evidence shows only reactive fixes to individual complaints rather than
   a deliberate effort.
-- 2 — Intermediate: The person has contributed to a capability activity — a
+- 2 — Working: The person has contributed to a capability activity — a
   tooling upgrade, a technical skills programme, an improvement to the
   working environment — with support from a technology or people function.
-- 3 — Advanced: The person has independently ensured people across their
+- 3 — Practitioner: The person has independently ensured people across their
   organisation have the tools, technical skills and working environment they
   need, and can describe how they identified the gap and closed it.
 - 4 — Expert: The person's capability building has demonstrably changed how
@@ -179,10 +176,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -193,15 +189,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has made or influenced a
-  financial decision about technology — no business case, no budget, no
-  investment trade-off they were accountable for.
-- 1 — Beginner: The person can describe how technology investment decisions
+- 1 — Awareness: The person can describe how technology investment decisions
   are usually made, but has only worked within a budget set by others.
-- 2 — Intermediate: The person has contributed to a technology business case
+- 2 — Working: The person has contributed to a technology business case
   or budget decision, with support from a finance function, and can describe
   the reasoning behind a specific choice.
-- 3 — Advanced: The person has independently evaluated which technologies an
+- 3 — Practitioner: The person has independently evaluated which technologies an
   organisation needs and made the financial case for them, working within
   appropriate levels of risk, and can describe a specific investment
   trade-off they made.
@@ -221,10 +214,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -235,13 +227,11 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has enabled an organisation to
-  be innovative or adopt a new technology that offered real value.
-- 1 — Beginner: The person can describe examples of technology innovation
+- 1 — Awareness: The person can describe examples of technology innovation
   elsewhere, but has no example of having enabled one themselves.
-- 2 — Intermediate: The person has supported the adoption of a new technology
+- 2 — Working: The person has supported the adoption of a new technology
   led by someone else, and can describe what made it work or fail.
-- 3 — Advanced: The person has independently enabled the organisation to be
+- 3 — Practitioner: The person has independently enabled the organisation to be
   innovative and adopted a new technology that offered value, working within
   appropriate levels of risk, and can describe how they judged that risk.
 - 4 — Expert: The person's approach to technology innovation has
@@ -260,10 +250,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -274,15 +263,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has created or led a technology
-  strategy, and cannot describe how technology should align with an
-  organisation's broader strategy.
-- 1 — Beginner: The person can explain what a technology strategy is and why
+- 1 — Awareness: The person can explain what a technology strategy is and why
   an organisation needs one, but has never created or led one themselves.
-- 2 — Intermediate: The person has contributed to a technology strategy, with
+- 2 — Working: The person has contributed to a technology strategy, with
   support from a more senior sponsor, and can describe how it aligned with
   the organisation's broader strategy.
-- 3 — Advanced: The person has independently created a strategy and vision
+- 3 — Practitioner: The person has independently created a strategy and vision
   for technology that aligns with the organisation's broader strategy, led
   its implementation, and can describe how they advocated for technology as a
   critical part of that broader strategy.
@@ -302,10 +288,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -316,15 +301,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: The person cannot describe how their organisation's technology
-  architecture works, and shows no evidence of having put one in place.
-- 1 — Beginner: The person can talk about technology architecture principles
+- 1 — Awareness: The person can talk about technology architecture principles
   in general terms, but has not been accountable for a real architecture
   decision.
-- 2 — Intermediate: The person has contributed to a technology architecture
+- 2 — Working: The person has contributed to a technology architecture
   decision, working alongside specialist architects, and can explain the
   reasoning behind at least one such decision.
-- 3 — Advanced: The person has independently put in place a technology
+- 3 — Practitioner: The person has independently put in place a technology
   architecture that provides a reliable and permanent infrastructure, and can
   describe how they made systems and services continuously operational and
   resistant to attacks and disasters.
@@ -345,10 +328,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -359,15 +341,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has evaluated an organisation's
-  range of technologies or judged which ones it needs.
-- 1 — Beginner: The person can describe how technology evaluation should
+- 1 — Awareness: The person can describe how technology evaluation should
   work in general terms, but has not personally evaluated a real technology
   choice for an organisation.
-- 2 — Intermediate: The person has contributed to a technology evaluation,
+- 2 — Working: The person has contributed to a technology evaluation,
   with support from specialists, and can describe the criteria that shaped a
   specific recommendation.
-- 3 — Advanced: The person has independently evaluated the organisation's
+- 3 — Practitioner: The person has independently evaluated the organisation's
   range of technologies and determined which ones it needs, and can describe
   a specific technology they recommended retiring or adopting, and why.
 - 4 — Expert: The person's technology evaluation judgement has demonstrably
@@ -386,10 +366,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

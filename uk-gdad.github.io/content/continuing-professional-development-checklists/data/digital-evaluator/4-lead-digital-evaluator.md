@@ -2,10 +2,86 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Digital evaluator** role at the **Lead digital evaluator** level. You plan and lead evaluation in larger teams and for more complex services, usually managing multiple evaluations and possibly a team of evaluators. You influence stakeholders to secure resources, provide guidance on evaluation strategy for groups of products and services, and ensure high standards are set and met. Your development now is about leadership, strategy, and assurance.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/digital-evaluator/4-lead-digital-evaluator.md`](../../../assessments/data/digital-evaluator/4-lead-digital-evaluator.md)
+- Upskilling: [`upskills/data/digital-evaluator/4-lead-digital-evaluator.md`](../../../upskills/data/digital-evaluator/4-lead-digital-evaluator.md)
+
+### Role Level Focus: Lead Digital Evaluator
+
+- [ ] Manage Multiple Evaluations: Hold several evaluations coherent without becoming a bottleneck.
+- [ ] Secure Resources: Build the skill of winning funding and time for evaluation.
+- [ ] Guide Evaluation Strategy: Provide strategy for a group of digital products and services.
+- [ ] Set and Meet Standards: Establish high evaluation standards and check they are met.
+- [ ] Lead a Team: Complete line manager training if you manage anyone.
+- [ ] Say When to Stop: Build the credibility to recommend stopping work that is not delivering.
+- [ ] Coach Others: Mentor evaluators with agreed goals and review points.
+- [ ] Grow Successors: Develop evaluators who could take your role.
+
+### Skill: Communicating analysis and insight
+
+- [ ] Communicate Compelling Stories: Use the most appropriate medium for the audience and message.
+- [ ] Make Complex Recommendations: Advise at both tactical and strategic level.
+- [ ] Report Honestly: Deliver uncomfortable findings clearly and early.
+- [ ] Develop Communication Capability: Grow this skill across your team.
+
+### Skill: Data ethics and privacy
+
+- [ ] Oversee Compliance: Ensure compliance with data ethics standards and legislation across the organisation.
+- [ ] Develop the Ethical Framework: Build, manage, and continuously improve the framework in your area.
+- [ ] Develop the Culture: Influence others to act on ethics rather than just acknowledge it.
+- [ ] Embed in Policy Making: Ensure ethics is applied when policies and programmes are formed and evaluated.
+
+### Skill: Evaluation delivery
+
+- [ ] Use Appropriate Techniques: Apply process, impact, theory of change, experimental, and economic evaluation.
+- [ ] Collect Both Kinds of Data: Gather quantitative and qualitative data confidently.
+- [ ] Analyse and Interpret: Work with data you collected and data from elsewhere.
+- [ ] Use a Wide Range of Approaches: Apply descriptive and inferential analysis appropriately.
+
+### Skill: Evaluation planning and strategy
+
+- [ ] Secure Resources: Influence stakeholders to fund evaluation properly.
+- [ ] Identify Evidence Needs: Work out what evidence decisions actually require.
+- [ ] Keep Plans Proportionate: Make sure evaluation effort matches the decision at stake.
+- [ ] Consider Constraints: Account for wider policy and practical limits.
+- [ ] Agree the Approach: Get diverse stakeholders to a shared evaluation approach.
+
+### Skill: Monitoring and evaluation across the product life cycle
+
+- [ ] Apply Across the Life Cycle: Use monitoring and evaluation techniques at multiple life cycle stages.
+- [ ] Recommend Continue or Stop: Give evidence-based recommendations on whether to proceed.
+- [ ] Work With Agile Disciplines: Collaborate throughout the product life cycle.
+- [ ] Engage Stakeholders at the Right Time: Plan engagement so it lands when it can change decisions.
+
+### Skill: Product and service monitoring
+
+- [ ] Win Senior Support: Get senior stakeholders behind developing theories of change.
+- [ ] Guide Theory of Change Development: Coach others in building them well.
+- [ ] Define Best Practice: Set methodologies for measuring indicators, including economic outcomes.
+- [ ] Communicate Limitations: Make sure caveats travel with the numbers.
+
+### Skill: Quality assurance of data and analysis
+
+- [ ] Set Up Assurance Systems: Build tools and systems for assuring data and analysis across teams.
+- [ ] Verify and Validate: Use appropriate approaches for checking data and analysis.
+- [ ] Influence Senior Stakeholders: Shape how the organisation approaches data and analysis.
+- [ ] Coach and Mentor: Develop others' skill in assuring data and analysis.
+
+### Skill Growth Plan: Toward Head of Digital Evaluation
+
+- [ ] Review the Next Level: Read the Head of digital evaluation skill descriptions and mark your gaps.
+- [ ] Set Strategy: Draft an evaluation strategy for the whole organisation.
+- [ ] Build the Community: Take a leading role in the digital evaluation community.
+- [ ] Learn Business Planning: Understand how capability is planned, funded, and recruited.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,79 +179,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Digital evaluator** role at the **Lead digital evaluator** level. You plan and lead evaluation in larger teams and for more complex services, usually managing multiple evaluations and possibly a team of evaluators. You influence stakeholders to secure resources, provide guidance on evaluation strategy for groups of products and services, and ensure high standards are set and met. Your development now is about leadership, strategy, and assurance.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/digital-evaluator/4-lead-digital-evaluator.md`](../../../assessments/data/digital-evaluator/4-lead-digital-evaluator.md)
-- Upskilling: [`upskills/data/digital-evaluator/4-lead-digital-evaluator.md`](../../../upskills/data/digital-evaluator/4-lead-digital-evaluator.md)
-
-### Role Level Focus: Lead Digital Evaluator
-
-- [ ] Manage Multiple Evaluations: Hold several evaluations coherent without becoming a bottleneck.
-- [ ] Secure Resources: Build the skill of winning funding and time for evaluation.
-- [ ] Guide Evaluation Strategy: Provide strategy for a group of digital products and services.
-- [ ] Set and Meet Standards: Establish high evaluation standards and check they are met.
-- [ ] Lead a Team: Complete line manager training if you manage anyone.
-- [ ] Say When to Stop: Build the credibility to recommend stopping work that is not delivering.
-- [ ] Coach Others: Mentor evaluators with agreed goals and review points.
-- [ ] Grow Successors: Develop evaluators who could take your role.
-
-### Skill: Communicating analysis and insight
-
-- [ ] Communicate Compelling Stories: Use the most appropriate medium for the audience and message.
-- [ ] Make Complex Recommendations: Advise at both tactical and strategic level.
-- [ ] Report Honestly: Deliver uncomfortable findings clearly and early.
-- [ ] Develop Communication Capability: Grow this skill across your team.
-
-### Skill: Data ethics and privacy
-
-- [ ] Oversee Compliance: Ensure compliance with data ethics standards and legislation across the organisation.
-- [ ] Develop the Ethical Framework: Build, manage, and continuously improve the framework in your area.
-- [ ] Develop the Culture: Influence others to act on ethics rather than just acknowledge it.
-- [ ] Embed in Policy Making: Ensure ethics is applied when policies and programmes are formed and evaluated.
-
-### Skill: Evaluation delivery
-
-- [ ] Use Appropriate Techniques: Apply process, impact, theory of change, experimental, and economic evaluation.
-- [ ] Collect Both Kinds of Data: Gather quantitative and qualitative data confidently.
-- [ ] Analyse and Interpret: Work with data you collected and data from elsewhere.
-- [ ] Use a Wide Range of Approaches: Apply descriptive and inferential analysis appropriately.
-
-### Skill: Evaluation planning and strategy
-
-- [ ] Secure Resources: Influence stakeholders to fund evaluation properly.
-- [ ] Identify Evidence Needs: Work out what evidence decisions actually require.
-- [ ] Keep Plans Proportionate: Make sure evaluation effort matches the decision at stake.
-- [ ] Consider Constraints: Account for wider policy and practical limits.
-- [ ] Agree the Approach: Get diverse stakeholders to a shared evaluation approach.
-
-### Skill: Monitoring and evaluation across the product life cycle
-
-- [ ] Apply Across the Life Cycle: Use monitoring and evaluation techniques at multiple life cycle stages.
-- [ ] Recommend Continue or Stop: Give evidence-based recommendations on whether to proceed.
-- [ ] Work With Agile Disciplines: Collaborate throughout the product life cycle.
-- [ ] Engage Stakeholders at the Right Time: Plan engagement so it lands when it can change decisions.
-
-### Skill: Product and service monitoring
-
-- [ ] Win Senior Support: Get senior stakeholders behind developing theories of change.
-- [ ] Guide Theory of Change Development: Coach others in building them well.
-- [ ] Define Best Practice: Set methodologies for measuring indicators, including economic outcomes.
-- [ ] Communicate Limitations: Make sure caveats travel with the numbers.
-
-### Skill: Quality assurance of data and analysis
-
-- [ ] Set Up Assurance Systems: Build tools and systems for assuring data and analysis across teams.
-- [ ] Verify and Validate: Use appropriate approaches for checking data and analysis.
-- [ ] Influence Senior Stakeholders: Shape how the organisation approaches data and analysis.
-- [ ] Coach and Mentor: Develop others' skill in assuring data and analysis.
-
-### Skill Growth Plan: Toward Head of Digital Evaluation
-
-- [ ] Review the Next Level: Read the Head of digital evaluation skill descriptions and mark your gaps.
-- [ ] Set Strategy: Draft an evaluation strategy for the whole organisation.
-- [ ] Build the Community: Take a leading role in the digital evaluation community.
-- [ ] Learn Business Planning: Understand how capability is planned, funded, and recruited.

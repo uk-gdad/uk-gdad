@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -52,14 +51,13 @@ The framework expects an application operations engineer to maintain secure conf
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework describes active maintenance and verification duties, not a supervised assist role, so the baseline sits above beginner, but "one or more areas" rather than the whole estate keeps it below advanced.
+Baseline: 2 — Working. The framework describes active maintenance and verification duties, not a supervised assist role, so the baseline sits above beginner, but "one or more areas" rather than the whole estate keeps it below advanced.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a configuration record is for or has never checked one against reality.
-- 1 — Beginner: Can update a configuration record accurately when told exactly what to change, with checking.
-- 2 — Intermediate: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state against what the records say.
-- 3 — Advanced: Maintains configuration and asset accuracy across more than one area, and proactively catches and corrects discrepancies before they cause an incident.
+- 1 — Awareness: Can update a configuration record accurately when told exactly what to change, with checking.
+- 2 — Working: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state against what the records say.
+- 3 — Practitioner: Maintains configuration and asset accuracy across more than one area, and proactively catches and corrects discrepancies before they cause an incident.
 - 4 — Expert: Owns configuration accuracy for the organisation and sets the standard others follow.
 
 **Evidence to gather**
@@ -70,10 +68,9 @@ Baseline: 2 — Intermediate. The framework describes active maintenance and ver
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -86,14 +83,13 @@ The framework expects an application operations engineer to manage service compo
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Managing components against a KPI is a working-level, largely independent task, which fits Intermediate rather than a beginner or expert reading of this level.
+Baseline: 2 — Working. Managing components against a KPI is a working-level, largely independent task, which fits Working rather than a beginner or expert reading of this level.
 
 **Behavioural indicators**
 
-- 0 — None: Does not know what availability or capacity KPIs apply to their application.
-- 1 — Beginner: Can locate and read the relevant availability or capacity figures, with help interpreting them.
-- 2 — Intermediate: Monitors service components against agreed KPIs and takes routine action to keep them within target.
-- 3 — Advanced: Spots capacity trends before they breach KPIs and adjusts service components proactively.
+- 1 — Awareness: Can locate and read the relevant availability or capacity figures, with help interpreting them.
+- 2 — Working: Monitors service components against agreed KPIs and takes routine action to keep them within target.
+- 3 — Practitioner: Spots capacity trends before they breach KPIs and adjusts service components proactively.
 - 4 — Expert: Sets availability and capacity standards and coaches others on managing to them.
 
 **Evidence to gather**
@@ -103,10 +99,9 @@ Baseline: 2 — Intermediate. Managing components against a KPI is a working-lev
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -119,14 +114,13 @@ The framework expects an application operations engineer to implement change req
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording — "under supervision" — caps this level below advanced, while "implement" is more than a beginner's exposure, so Intermediate best matches the text.
+Baseline: 2 — Working. The framework's own wording — "under supervision" — caps this level below advanced, while "implement" is more than a beginner's exposure, so Working best matches the text.
 
 **Behavioural indicators**
 
-- 0 — None: Has never implemented a change request or does not know what a change control procedure is.
-- 1 — Beginner: Implements a change request only with someone checking each step.
-- 2 — Intermediate: Implements change requests correctly under general supervision, following documented procedure without deviation.
-- 3 — Advanced: Implements change requests independently and can flag where a procedure itself needs correcting.
+- 1 — Awareness: Implements a change request only with someone checking each step.
+- 2 — Working: Implements change requests correctly under general supervision, following documented procedure without deviation.
+- 3 — Practitioner: Implements change requests independently and can flag where a procedure itself needs correcting.
 - 4 — Expert: Designs or owns change control procedures for others to follow.
 
 **Evidence to gather**
@@ -136,10 +130,9 @@ Baseline: 2 — Intermediate. The framework's own wording — "under supervision
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -152,14 +145,13 @@ The framework expects an application operations engineer to identify and registe
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording matches the associate level's skill text closely, but at this level it is expected without direction, which is Intermediate on this scale.
+Baseline: 2 — Working. The wording matches the associate level's skill text closely, but at this level it is expected without direction, which is Working on this scale.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what an incident record needs.
-- 1 — Beginner: Logs a straightforward incident correctly with guidance.
-- 2 — Intermediate: Logs incidents accurately and unprompted, capturing the right detail and routing them to a sensible channel.
-- 3 — Advanced: Logs and routes incidents of varying complexity correctly and consistently, explaining unusual routing decisions.
+- 1 — Awareness: Logs a straightforward incident correctly with guidance.
+- 2 — Working: Logs incidents accurately and unprompted, capturing the right detail and routing them to a sensible channel.
+- 3 — Practitioner: Logs and routes incidents of varying complexity correctly and consistently, explaining unusual routing decisions.
 - 4 — Expert: Reviews and improves how the team logs incidents.
 
 **Evidence to gather**
@@ -169,10 +161,9 @@ Baseline: 2 — Intermediate. The wording matches the associate level's skill te
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -185,14 +176,13 @@ The framework expects an application operations engineer to own an issue until a
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Owning an issue through to a handover or resolution is a step up from the associate level's "pass problems on", and fits solid independent working rather than beginner or expert practice.
+Baseline: 2 — Working. Owning an issue through to a handover or resolution is a step up from the associate level's "pass problems on", and fits solid independent working rather than beginner or expert practice.
 
 **Behavioural indicators**
 
-- 0 — None: Drops issues once they become someone else's to chase.
-- 1 — Beginner: Holds an issue for a short time but needs reminding to follow it through.
-- 2 — Intermediate: Consistently holds an issue until it is mitigated, resolved, or properly handed to a new owner.
-- 3 — Advanced: Proactively chases stalled issues across team boundaries to keep them moving.
+- 1 — Awareness: Holds an issue for a short time but needs reminding to follow it through.
+- 2 — Working: Consistently holds an issue until it is mitigated, resolved, or properly handed to a new owner.
+- 3 — Practitioner: Proactively chases stalled issues across team boundaries to keep them moving.
 - 4 — Expert: Is the person others rely on to make sure nothing falls through the cracks.
 
 **Evidence to gather**
@@ -202,10 +192,9 @@ Baseline: 2 — Intermediate. Owning an issue through to a handover or resolutio
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -218,14 +207,13 @@ The framework expects an application operations engineer to investigate problems
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Contribute to the implementation" is active participation without leading, which sits at Intermediate.
+Baseline: 2 — Working. "Contribute to the implementation" is active participation without leading, which sits at Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot distinguish an incident from a problem.
-- 1 — Beginner: Contributes a small piece of investigation when directed.
-- 2 — Intermediate: Investigates problems unprompted and contributes a workable remedy or preventative measure.
-- 3 — Advanced: Runs a problem investigation independently, from evidence to proposed remedy, for moderately complex problems.
+- 1 — Awareness: Contributes a small piece of investigation when directed.
+- 2 — Working: Investigates problems unprompted and contributes a workable remedy or preventative measure.
+- 3 — Practitioner: Runs a problem investigation independently, from evidence to proposed remedy, for moderately complex problems.
 - 4 — Expert: Leads investigations across the team and judges escalation without checking.
 
 **Evidence to gather**
@@ -235,10 +223,9 @@ Baseline: 2 — Intermediate. "Contribute to the implementation" is active parti
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -251,14 +238,13 @@ The framework expects an application operations engineer to take inputs and esta
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Turning inputs into a working framework is a practical, applied task suited to independent working at this level, without the "bigger picture across services" language the framework uses for more senior levels.
+Baseline: 2 — Working. Turning inputs into a working framework is a practical, applied task suited to independent working at this level, without the "bigger picture across services" language the framework uses for more senior levels.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their work fits into the service as a whole.
-- 1 — Beginner: Follows an existing framework without adapting it, even when it does not quite fit.
-- 2 — Intermediate: Takes a set of inputs — requirements, constraints, existing tools — and puts together a working approach for their own area.
-- 3 — Advanced: Builds coherent frameworks that other team members adopt too.
+- 1 — Awareness: Follows an existing framework without adapting it, even when it does not quite fit.
+- 2 — Working: Takes a set of inputs — requirements, constraints, existing tools — and puts together a working approach for their own area.
+- 3 — Practitioner: Builds coherent frameworks that other team members adopt too.
 - 4 — Expert: Designs frameworks that span multiple services.
 
 **Evidence to gather**
@@ -268,10 +254,9 @@ Baseline: 2 — Intermediate. Turning inputs into a working framework is a pract
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -284,14 +269,13 @@ The framework expects an application operations engineer to show they have a Lev
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework names a specific qualification level (Level 3), which maps most naturally onto Intermediate on this proficiency scale — solid working knowledge, formally certified, without the deeper or expert-level certification named at more senior levels.
+Baseline: 2 — Working. The framework names a specific qualification level (Level 3), which maps most naturally onto Working on this proficiency scale — solid working knowledge, formally certified, without the deeper or expert-level certification named at more senior levels.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification and cannot explain basic service management terms.
-- 1 — Beginner: Is working towards a Level 3 qualification, or holds an entry-level award only.
-- 2 — Intermediate: Holds a Level 3 service management framework qualification and applies its concepts correctly in day-to-day work.
-- 3 — Advanced: Holds Level 3 and additionally demonstrates working knowledge of the framework's wider lifecycle, beyond what is asked at this level.
+- 1 — Awareness: Is working towards a Level 3 qualification, or holds an entry-level award only.
+- 2 — Working: Holds a Level 3 service management framework qualification and applies its concepts correctly in day-to-day work.
+- 3 — Practitioner: Holds Level 3 and additionally demonstrates working knowledge of the framework's wider lifecycle, beyond what is asked at this level.
 - 4 — Expert: Holds an expert-level service management qualification and is asked to explain framework concepts to others.
 
 **Evidence to gather**
@@ -301,10 +285,9 @@ Baseline: 2 — Intermediate. The framework names a specific qualification level
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -317,14 +300,13 @@ The framework expects an application operations engineer to assist in technical 
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Assist" and "carry out agreed or routine tasks" describe competent, guided-but-largely-independent execution, which fits Intermediate rather than a beginner reading.
+Baseline: 2 — Working. "Assist" and "carry out agreed or routine tasks" describe competent, guided-but-largely-independent execution, which fits Working rather than a beginner reading.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot carry out a routine maintenance task without step-by-step instructions each time.
-- 1 — Beginner: Carries out a routine task correctly only with someone checking as they go.
-- 2 — Intermediate: Carries out agreed routine maintenance and administration tasks reliably, and assists competently in technical support activities.
-- 3 — Advanced: Carries out non-routine technical support tasks independently and assists others with the routine ones.
+- 1 — Awareness: Carries out a routine task correctly only with someone checking as they go.
+- 2 — Working: Carries out agreed routine maintenance and administration tasks reliably, and assists competently in technical support activities.
+- 3 — Practitioner: Carries out non-routine technical support tasks independently and assists others with the routine ones.
 - 4 — Expert: Is the technical reference point others go to when a task is genuinely unfamiliar.
 
 **Evidence to gather**
@@ -334,10 +316,9 @@ Baseline: 2 — Intermediate. "Assist" and "carry out agreed or routine tasks" d
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -350,14 +331,13 @@ The framework expects an application operations engineer to correctly execute te
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording — "under supervision" — is a close match to the Beginner definition on this scale, so the baseline sits there rather than at Intermediate.
+Baseline: 1 — Awareness. The framework's own wording — "under supervision" — is a close match to the Awareness definition on this scale, so the baseline sits there rather than at Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot follow a written test script or explain what testing is for.
-- 1 — Beginner: Executes a given test script correctly with someone checking the results.
-- 2 — Intermediate: Executes test scripts accurately without supervision and can explain why a test step exists.
-- 3 — Advanced: Adapts a test script when circumstances change and flags gaps in test coverage.
+- 1 — Awareness: Executes a given test script correctly with someone checking the results.
+- 2 — Working: Executes test scripts accurately without supervision and can explain why a test step exists.
+- 3 — Practitioner: Adapts a test script when circumstances change and flags gaps in test coverage.
 - 4 — Expert: Designs test scripts and reviews others' testing.
 
 **Evidence to gather**
@@ -367,10 +347,9 @@ Baseline: 1 — Beginner. The framework's own wording — "under supervision" �
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -383,14 +362,13 @@ The framework expects an application operations engineer to identify and engage 
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a marked step up from the associate level's awareness-only expectation, and now describes active engagement and use of data, which fits Intermediate working practice.
+Baseline: 2 — Working. This is a marked step up from the associate level's awareness-only expectation, and now describes active engagement and use of data, which fits Working working practice.
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with users or use any user evidence in their work.
-- 1 — Beginner: Collects user feedback when asked, but does not yet connect it to their day-to-day decisions.
-- 2 — Intermediate: Actively collates user needs evidence from users or stakeholders and uses it to inform routine decisions.
-- 3 — Advanced: Defines what research would fit a given user needs question, and uses quantitative and qualitative data together to shape outcomes.
+- 1 — Awareness: Collects user feedback when asked, but does not yet connect it to their day-to-day decisions.
+- 2 — Working: Actively collates user needs evidence from users or stakeholders and uses it to inform routine decisions.
+- 3 — Practitioner: Defines what research would fit a given user needs question, and uses quantitative and qualitative data together to shape outcomes.
 - 4 — Expert: Is sought out by others for how to turn user evidence into a concrete change.
 
 **Evidence to gather**
@@ -400,10 +378,9 @@ Baseline: 2 — Intermediate. This is a marked step up from the associate level'
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -412,17 +389,17 @@ Baseline: 2 — Intermediate. This is a marked step up from the associate level'
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Availability and capacity management | 2 — Intermediate | | |
-| Change management | 2 — Intermediate | | |
-| Incident management | 2 — Intermediate | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 2 — Intermediate | | |
-| Service focus | 2 — Intermediate | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| Technical specialism | 2 — Intermediate | | |
-| Testing | 1 — Beginner | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 2 — Working | | |
+| Availability and capacity management | 2 — Working | | |
+| Change management | 2 — Working | | |
+| Incident management | 2 — Working | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 2 — Working | | |
+| Service focus | 2 — Working | | |
+| Service management framework knowledge | 2 — Working | | |
+| Technical specialism | 2 — Working | | |
+| Testing | 1 — Awareness | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when every skill above is rated at or above its baseline target.
 

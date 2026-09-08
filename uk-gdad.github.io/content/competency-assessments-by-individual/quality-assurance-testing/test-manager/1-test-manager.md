@@ -49,21 +49,20 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — how well someone does the thing,
 on the evidence available — not a frequency scale.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Test and quality planning.** A person rated 1 (Beginner)
+**Worked example — Test and quality planning.** A person rated 1 (Awareness)
 can produce a test plan from a template with someone checking it before it is
-used. A person rated 3 (Advanced) creates and manages several quality testing
+used. A person rated 3 (Practitioner) creates and manages several quality testing
 plans and strategies at once, unsupported, and can explain the trade-offs
 behind each one. A person rated 4 (Expert) does that across teams they do not
 manage directly, using data to show why one team's approach should change,
@@ -120,7 +119,7 @@ organisation.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Test manager owns delivery-level stakeholder
+Baseline: 3 — Practitioner. Test manager owns delivery-level stakeholder
 relationships and is expected to lead difficult, high-risk conversations
 under time pressure without a more senior colleague stepping in; full
 external representation of the community to large audiences matures further
@@ -128,16 +127,14 @@ at head of test.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot translate a testing issue into terms a non-technical
-  stakeholder understands, and avoids or defers conversations about risk.
-- 1 — Beginner: Explains straightforward test results to a non-technical
+- 1 — Awareness: Explains straightforward test results to a non-technical
   colleague when asked, but needs a more senior colleague to lead the
   conversation once risk or timescales become contested.
-- 2 — Intermediate: Runs routine stakeholder updates unsupported and
+- 2 — Working: Runs routine stakeholder updates unsupported and
   explains test status and defect trends in plain language, but hands off a
   discussion once it becomes a contested disagreement about risk or a
   delivery date.
-- 3 — Advanced: Leads difficult conversations about high risk or complex
+- 3 — Practitioner: Leads difficult conversations about high risk or complex
   trade-offs with delivery stakeholders under constrained timescales,
   adapts the message to the audience without being asked, and de-escalates
   disagreements about scope or risk appetite without escalating further.
@@ -162,10 +159,9 @@ at head of test.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -183,22 +179,20 @@ structured process.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The level owns delivery of the test strategy and
+Baseline: 3 — Practitioner. The level owns delivery of the test strategy and
 leads others in test design and execution, which requires independent,
 standard-shaping practice; setting standards across the whole organisation
 is head of test's ceiling, not test manager's.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot set up a test environment or choose a test type without
-  step-by-step direction, and test designs miss basic scenarios.
-- 1 — Beginner: Sets up straightforward test environments and designs tests
+- 1 — Awareness: Sets up straightforward test environments and designs tests
   for well-understood functionality with close guidance, and needs a senior
   colleague to choose which test types fit a given risk.
-- 2 — Intermediate: Selects and applies suitable test types and techniques
+- 2 — Working: Selects and applies suitable test types and techniques
   for most features with some guidance, and can build and execute a test
   suite that someone else reviewed first.
-- 3 — Advanced: Leads a team through designing, building and executing
+- 3 — Practitioner: Leads a team through designing, building and executing
   tests that mitigate risk early without needing sign-off first, and
   contributes real changes to the team's test standards based on what
   worked or failed.
@@ -219,10 +213,9 @@ is head of test's ceiling, not test manager's.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -239,22 +232,20 @@ quality processes, informed by defect patterns and trends.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The level explicitly leads and coaches others on
+Baseline: 3 — Practitioner. The level explicitly leads and coaches others on
 defect management and turns defect trends into recommendations that reach
 beyond a single team, which is independent, organisation-facing practice
 rather than supervised practice.
 
 **Behavioural indicators**
 
-- 0 — None: Logs defects inconsistently and cannot explain why a defect was
-  prioritised the way it was.
-- 1 — Beginner: Logs and triages straightforward defects with support, and
+- 1 — Awareness: Logs and triages straightforward defects with support, and
   needs help interpreting a defect trend or handling a contested severity
   rating.
-- 2 — Intermediate: Manages a team's defect backlog independently and
+- 2 — Working: Manages a team's defect backlog independently and
   triages routine defects correctly, but asks a more senior colleague for
   help with an unusually complex or cross-team defect.
-- 3 — Advanced: Coaches others in improving defect management practice,
+- 3 — Practitioner: Coaches others in improving defect management practice,
   supports colleagues elsewhere in the organisation in assessing complex or
   contested defects, and turns defect trends into a tactical recommendation
   a delivery team acts on.
@@ -273,10 +264,9 @@ rather than supervised practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -293,22 +283,20 @@ identify risks. Coach others in test analysis.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The level leads cross-team work to decide which
+Baseline: 3 — Practitioner. The level leads cross-team work to decide which
 quality characteristics matter and coaches others in analysis, which needs
 independent, cross-team judgement rather than analysis confined to a single
 team's features.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say which functional or non-functional characteristics
-  matter most for a given feature without being told.
-- 1 — Beginner: Identifies obvious functional risks with guidance, and
+- 1 — Awareness: Identifies obvious functional risks with guidance, and
   misses non-functional characteristics such as performance, accessibility
   or security unless prompted.
-- 2 — Intermediate: Analyses risk for a single team's features
+- 2 — Working: Analyses risk for a single team's features
   independently, using one or two techniques, and adjusts the approach when
   asked.
-- 3 — Advanced: Works with stakeholders across teams to decide which
+- 3 — Practitioner: Works with stakeholders across teams to decide which
   quality characteristics matter, uses multiple techniques to find risks
   others missed, and coaches a colleague through their first risk-based
   analysis.
@@ -330,10 +318,9 @@ team's features.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -350,7 +337,7 @@ quality testing approaches, plans and strategies, using appropriate data.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This skill's own wording already describes managing
+Baseline: 3 — Practitioner. This skill's own wording already describes managing
 several plans at once and guiding teams across an organisation, so
 independent, multi-team practice is the baseline expected of a test manager;
 head of test sets the organisation's policy behind that practice rather than
@@ -358,14 +345,12 @@ doing markedly more of the activity itself.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot produce a test plan without a template and step-by-step
-  help.
-- 1 — Beginner: Produces a test plan for a single, well-understood piece of
+- 1 — Awareness: Produces a test plan for a single, well-understood piece of
   work with support.
-- 2 — Intermediate: Creates and manages a quality testing plan or approach
+- 2 — Working: Creates and manages a quality testing plan or approach
   for their own team independently, and adapts it when circumstances
   change.
-- 3 — Advanced: Creates and manages multiple quality testing plans,
+- 3 — Practitioner: Creates and manages multiple quality testing plans,
   approaches and strategies at once, and guides more than one team in
   adopting a shared quality testing strategy.
 - 4 — Expert: Guides teams across the organisation in optimising their
@@ -385,10 +370,9 @@ doing markedly more of the activity itself.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -403,21 +387,18 @@ maintenance of automated tests and tools required for testing.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording for this skill at
+Baseline: 2 — Working. The framework's own wording for this skill at
 test manager is explaining, following and supporting rather than leading or
 setting direction — this is a supporting skill for the management track, so
 its baseline sits a point below the level's other skills.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why test environments, tools or engineering
-  processes matter, and cannot follow an established process without being
-  walked through it each time.
-- 1 — Beginner: Explains, in general terms, why test engineering practices
+- 1 — Awareness: Explains, in general terms, why test engineering practices
   matter, but needs support to follow them correctly.
-- 2 — Intermediate: Follows established test engineering practices and
+- 2 — Working: Follows established test engineering practices and
   standards with some support, and can explain their purpose to others.
-- 3 — Advanced: Follows test engineering practices independently, spots
+- 3 — Practitioner: Follows test engineering practices independently, spots
   when a process is not fit for purpose, and contributes to maintaining
   automated tests and tooling without being asked.
 - 4 — Expert: Sets or substantially revises the test engineering standards
@@ -435,10 +416,9 @@ its baseline sits a point below the level's other skills.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -447,12 +427,12 @@ its baseline sits a point below the level's other skills.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Communicating between the technical and non-technical | 3 — Advanced | | |
-| Designing and executing tests | 3 — Advanced | | |
-| Managing, reporting and resolving defects | 3 — Advanced | | |
-| Test analysis | 3 — Advanced | | |
-| Test and quality planning | 3 — Advanced | | |
-| Test engineering | 2 — Intermediate | | |
+| Communicating between the technical and non-technical | 3 — Practitioner | | |
+| Designing and executing tests | 3 — Practitioner | | |
+| Managing, reporting and resolving defects | 3 — Practitioner | | |
+| Test analysis | 3 — Practitioner | | |
+| Test and quality planning | 3 — Practitioner | | |
+| Test engineering | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

@@ -2,10 +2,85 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **User researcher** role at the **Head of user research** level. You lead user researchers in the organisation, attract and build talent, define and assure best practice, influence organisational strategy and priorities, and collaborate with colleagues across government. Your development is now about leadership, capability, and stewardship of the discipline.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/user-researcher/6-head-of-user-research.md`](../../../assessments/user-centred-design/user-researcher/6-head-of-user-research.md)
+- Upskilling: [`upskills/user-centred-design/user-researcher/6-head-of-user-research.md`](../../../upskills/user-centred-design/user-researcher/6-head-of-user-research.md)
+
+### Role Level Focus: Head of User Research
+
+- [ ] Lead the Discipline: Own how user research works across the organisation.
+- [ ] Attract and Build Talent: Take accountability for recruitment, career paths, and internal mobility.
+- [ ] Define and Assure Best Practice: Own what good research looks like and how it is checked.
+- [ ] Influence Organisational Strategy: Take a seat where priorities and funding are decided.
+- [ ] Collaborate Across Government: Maintain standing relationships with counterparts in other departments.
+- [ ] Own Research Operations: Ensure recruitment, tooling, participant care, and data management are resourced.
+- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
+- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
+
+### Skill: Agile research practices
+
+- [ ] Advocate at Organisational Level: Make the case for Agile working with senior stakeholders.
+- [ ] Help Organisations Adopt Practices: Spread Agile research practice beyond individual teams.
+- [ ] Set Delivery Standards: Define how research insights should reach Agile teams to be useful.
+- [ ] Coach Researchers: Guide others in adopting Agile ways of working.
+
+### Skill: Analysis and synthesis
+
+- [ ] Help the Organisation Adopt Techniques: Spread a wide range of analysis and synthesis practice.
+- [ ] Assure and Improve Practice: Continually check and raise analysis quality.
+- [ ] Innovate Practice: Introduce techniques that produce clearer, more valuable findings.
+- [ ] Synthesise Across Programmes: Build organisational insight from many studies.
+
+### Skill: Inclusive research
+
+- [ ] Help Organisations Understand Diversity: Build organisational understanding of who uses services.
+- [ ] Guide Inclusive Adoption: Help the organisation adopt inclusive practice and apply what it learns.
+- [ ] Fund Inclusion: Make inclusive recruitment a funded expectation rather than an aspiration.
+- [ ] Hold the Organisation to Account: Track whether services actually work for everyone.
+
+### Skill: Research management, leadership and assurance
+
+- [ ] Establish Research Programmes: Align programmes and teams to organisational goals.
+- [ ] Produce Strategic Insight: Synthesise findings to inform the organisation's roadmap.
+- [ ] Set Standards Including Ethics: Own good practice standards, ethics, and safeguarding.
+- [ ] Assure Quality Organisation-Wide: Establish how research quality is checked and improved.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
+- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
+- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
+- [ ] Represent the Discipline: Speak for user research at board and cross-government level.
+
+### Skill: User research methods
+
+- [ ] Help the Organisation Adopt Methods: Spread a wide range of research methods.
+- [ ] Lead a Community of Practice: Build the community that assures, improves, and innovates research.
+- [ ] Stay Credible: Retain enough hands-on knowledge to judge the work you are shown.
+- [ ] Evaluate New Methods: Assess emerging methods and tooling honestly, including their limits.
+
+### Skill: User-centred practice and advocacy
+
+- [ ] Help the Organisation Adopt Practices: Find ways to make user-centred practice normal and valued.
+- [ ] Get Users Into Senior Discussions: Ensure senior and inter-organisational discussions consider user needs.
+- [ ] Show the Complete Journey: Help the organisation understand the whole user journey and act on it.
+- [ ] Track Changing Behaviour: Keep the organisation current on how user behaviour is evolving.
+
+### Skill Growth Plan: Beyond Head of User Research
+
+- [ ] Review Adjacent Roles: Read the head of service design, service owner, and deputy director descriptions.
+- [ ] Broaden Beyond Research: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance or ethics boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,78 +178,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **User researcher** role at the **Head of user research** level. You lead user researchers in the organisation, attract and build talent, define and assure best practice, influence organisational strategy and priorities, and collaborate with colleagues across government. Your development is now about leadership, capability, and stewardship of the discipline.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/user-researcher/6-head-of-user-research.md`](../../../assessments/user-centred-design/user-researcher/6-head-of-user-research.md)
-- Upskilling: [`upskills/user-centred-design/user-researcher/6-head-of-user-research.md`](../../../upskills/user-centred-design/user-researcher/6-head-of-user-research.md)
-
-### Role Level Focus: Head of User Research
-
-- [ ] Lead the Discipline: Own how user research works across the organisation.
-- [ ] Attract and Build Talent: Take accountability for recruitment, career paths, and internal mobility.
-- [ ] Define and Assure Best Practice: Own what good research looks like and how it is checked.
-- [ ] Influence Organisational Strategy: Take a seat where priorities and funding are decided.
-- [ ] Collaborate Across Government: Maintain standing relationships with counterparts in other departments.
-- [ ] Own Research Operations: Ensure recruitment, tooling, participant care, and data management are resourced.
-- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
-- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
-
-### Skill: Agile research practices
-
-- [ ] Advocate at Organisational Level: Make the case for Agile working with senior stakeholders.
-- [ ] Help Organisations Adopt Practices: Spread Agile research practice beyond individual teams.
-- [ ] Set Delivery Standards: Define how research insights should reach Agile teams to be useful.
-- [ ] Coach Researchers: Guide others in adopting Agile ways of working.
-
-### Skill: Analysis and synthesis
-
-- [ ] Help the Organisation Adopt Techniques: Spread a wide range of analysis and synthesis practice.
-- [ ] Assure and Improve Practice: Continually check and raise analysis quality.
-- [ ] Innovate Practice: Introduce techniques that produce clearer, more valuable findings.
-- [ ] Synthesise Across Programmes: Build organisational insight from many studies.
-
-### Skill: Inclusive research
-
-- [ ] Help Organisations Understand Diversity: Build organisational understanding of who uses services.
-- [ ] Guide Inclusive Adoption: Help the organisation adopt inclusive practice and apply what it learns.
-- [ ] Fund Inclusion: Make inclusive recruitment a funded expectation rather than an aspiration.
-- [ ] Hold the Organisation to Account: Track whether services actually work for everyone.
-
-### Skill: Research management, leadership and assurance
-
-- [ ] Establish Research Programmes: Align programmes and teams to organisational goals.
-- [ ] Produce Strategic Insight: Synthesise findings to inform the organisation's roadmap.
-- [ ] Set Standards Including Ethics: Own good practice standards, ethics, and safeguarding.
-- [ ] Assure Quality Organisation-Wide: Establish how research quality is checked and improved.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
-- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
-- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
-- [ ] Represent the Discipline: Speak for user research at board and cross-government level.
-
-### Skill: User research methods
-
-- [ ] Help the Organisation Adopt Methods: Spread a wide range of research methods.
-- [ ] Lead a Community of Practice: Build the community that assures, improves, and innovates research.
-- [ ] Stay Credible: Retain enough hands-on knowledge to judge the work you are shown.
-- [ ] Evaluate New Methods: Assess emerging methods and tooling honestly, including their limits.
-
-### Skill: User-centred practice and advocacy
-
-- [ ] Help the Organisation Adopt Practices: Find ways to make user-centred practice normal and valued.
-- [ ] Get Users Into Senior Discussions: Ensure senior and inter-organisational discussions consider user needs.
-- [ ] Show the Complete Journey: Help the organisation understand the whole user journey and act on it.
-- [ ] Track Changing Behaviour: Keep the organisation current on how user behaviour is evolving.
-
-### Skill Growth Plan: Beyond Head of User Research
-
-- [ ] Review Adjacent Roles: Read the head of service design, service owner, and deputy director descriptions.
-- [ ] Broaden Beyond Research: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance or ethics boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

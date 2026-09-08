@@ -48,15 +48,14 @@ evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it or
@@ -127,19 +126,17 @@ early.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording for this skill is unchanged
+Baseline: 3 — Practitioner. The framework's wording for this skill is unchanged
 from the senior business analyst level; the leadership this role level adds
 shows up in the other skills, particularly Consultancy and Enterprise and
 business architecture, rather than in a further step-change here.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how they would shape their role's scope within a
-  delivery methodology.
-- 1 — Beginner: Follows an agreed approach within a methodology.
-- 2 — Intermediate: Adapts their own working practice to a chosen
+- 1 — Awareness: Follows an agreed approach within a methodology.
+- 2 — Working: Adapts their own working practice to a chosen
   methodology, with some support negotiating scope.
-- 3 — Advanced: Independently determines their approach, negotiates delivery
+- 3 — Practitioner: Independently determines their approach, negotiates delivery
   priorities with the team and stakeholders across an enterprise-scale piece
   of work, and communicates the value of iterative delivery convincingly to
   senior, sceptical audiences.
@@ -158,10 +155,9 @@ business architecture, rather than in a further step-change here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -183,13 +179,11 @@ independent working into setting direction for others.
 
 **Behavioural indicators**
 
-- 0 — None: Has never scoped or designed a modelling approach for
-  organisation-wide work.
-- 1 — Beginner: Produces a model within a scope and methodology someone else
+- 1 — Awareness: Produces a model within a scope and methodology someone else
   has set.
-- 2 — Intermediate: Leads modelling for a single project or programme, with
+- 2 — Working: Leads modelling for a single project or programme, with
   limited direction.
-- 3 — Advanced: Leads modelling across a project or programme independently,
+- 3 — Practitioner: Leads modelling across a project or programme independently,
   and manages the impact of proposed changes on what has been modelled.
 - 4 — Expert: Determines the scope and methodology for representing complex
   programmes across an organisation, and produces conceptual models that
@@ -206,10 +200,9 @@ independent working into setting direction for others.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -235,12 +228,10 @@ the candidate's own delivery.
 
 **Behavioural indicators**
 
-- 0 — None: Has never set direction for process improvement work beyond their
-  own project.
-- 1 — Beginner: Leads a single process improvement with support.
-- 2 — Intermediate: Leads process improvement work independently for one
+- 1 — Awareness: Leads a single process improvement with support.
+- 2 — Working: Leads process improvement work independently for one
   project or programme.
-- 3 — Advanced: Leads process improvement across more than one project or
+- 3 — Practitioner: Leads process improvement across more than one project or
   programme, with real independence, but has not yet set organisation-wide
   standards.
 - 4 — Expert: Leads identification of large-scale improvement opportunities,
@@ -258,10 +249,9 @@ the candidate's own delivery.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -285,12 +275,10 @@ the level description's own "go-to person in the field".
 
 **Behavioural indicators**
 
-- 0 — None: Has never been asked to provide specialist advice on a business
-  problem.
-- 1 — Beginner: Offers an opinion on a familiar problem when directly asked.
-- 2 — Intermediate: Provides advice within their own area of recent
+- 1 — Awareness: Offers an opinion on a familiar problem when directly asked.
+- 2 — Working: Provides advice within their own area of recent
   experience, though not yet sought out proactively by others.
-- 3 — Advanced: Is regularly sought out for advice within their business area
+- 3 — Practitioner: Is regularly sought out for advice within their business area
   and proposes practical approaches to implementation.
 - 4 — Expert: Provides advice, guidance and recommendations based on genuine
   specialist knowledge across a range of problems, proposes methodologies
@@ -308,10 +296,9 @@ the level description's own "go-to person in the field".
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -336,11 +323,10 @@ discipline to their own work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot advise on options analysis approach beyond their own work.
-- 1 — Beginner: Applies an analysis approach set by someone else.
-- 2 — Intermediate: Plans and uses appropriate techniques independently for
+- 1 — Awareness: Applies an analysis approach set by someone else.
+- 2 — Working: Plans and uses appropriate techniques independently for
   their own piece of work.
-- 3 — Advanced: Leads the analysis approach for a project and advocates for
+- 3 — Practitioner: Leads the analysis approach for a project and advocates for
   recommendations to gain support.
 - 4 — Expert: Advises across the organisation on options analysis and impact
   assessment approach, ensures work streams align to strategic goals, and
@@ -356,10 +342,9 @@ discipline to their own work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -375,19 +360,18 @@ to create operating models that meet business objectives.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "With limited direction" signals real, independent
+Baseline: 3 — Practitioner. "With limited direction" signals real, independent
 competence at translating strategy into objectives and capabilities, though
 the framework's wording ("help define") stops short of the candidate solely
 owning enterprise architecture decisions.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot translate a business driver into a business objective.
-- 1 — Beginner: Contributes to translating drivers into objectives when given
+- 1 — Awareness: Contributes to translating drivers into objectives when given
   significant direction.
-- 2 — Intermediate: Translates straightforward drivers into objectives with
+- 2 — Working: Translates straightforward drivers into objectives with
   some support.
-- 3 — Advanced: With limited direction, translates business drivers, goals and
+- 3 — Practitioner: With limited direction, translates business drivers, goals and
   constraints into business objectives, and helps define capabilities and
   operating models that meet them.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -405,10 +389,9 @@ owning enterprise architecture decisions.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -431,11 +414,10 @@ the scale's own definition of expert practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot direct a requirements management approach for others.
-- 1 — Beginner: Manages requirements for their own piece of work.
-- 2 — Intermediate: Advises on requirements approach for a single project or
+- 1 — Awareness: Manages requirements for their own piece of work.
+- 2 — Working: Advises on requirements approach for a single project or
   programme.
-- 3 — Advanced: Directs requirements approach for a project or programme
+- 3 — Practitioner: Directs requirements approach for a project or programme
   independently.
 - 4 — Expert: Directs the organisation's approach to requirements management,
   enables other business analysts to select and apply appropriate life cycle
@@ -453,10 +435,9 @@ the scale's own definition of expert practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -479,10 +460,9 @@ on behalf of others, not just the candidate's own relationships.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot direct a stakeholder relationship strategy for a team.
-- 1 — Beginner: Manages their own stakeholder relationships with support.
-- 2 — Intermediate: Manages their own stakeholder relationships independently.
-- 3 — Advanced: Develops and implements a stakeholder communications strategy
+- 1 — Awareness: Manages their own stakeholder relationships with support.
+- 2 — Working: Manages their own stakeholder relationships independently.
+- 3 — Practitioner: Develops and implements a stakeholder communications strategy
   with a team.
 - 4 — Expert: Directs stakeholder relationship strategy across teams, ensures
   stakeholder objectives are set and supported, and negotiates directly with
@@ -499,10 +479,9 @@ on behalf of others, not just the candidate's own relationships.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -528,12 +507,10 @@ the scale defines as expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot set direction for systems analysis or bridge business and
-  technical perspectives.
-- 1 — Beginner: Analyses systems capabilities within their own piece of work.
-- 2 — Intermediate: Independently analyses systems capabilities for a bounded
+- 1 — Awareness: Analyses systems capabilities within their own piece of work.
+- 2 — Working: Independently analyses systems capabilities for a bounded
   piece of work.
-- 3 — Advanced: Leads systems analysis across a project, working with other
+- 3 — Practitioner: Leads systems analysis across a project, working with other
   digital professionals on interface and functionality decisions.
 - 4 — Expert: Sets the direction for systems analysis, enables others to
   explore functionality gaps and assess software change effects, and forms a
@@ -551,10 +528,9 @@ the scale defines as expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -571,18 +547,16 @@ test outcome reporting.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording for this skill is unchanged
+Baseline: 3 — Practitioner. The framework's wording for this skill is unchanged
 from the senior business analyst level, so the baseline holds steady even
 though the role level around it has grown in scope.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot develop acceptance criteria or review a test plan
-  meaningfully.
-- 1 — Beginner: Writes acceptance criteria with guidance.
-- 2 — Intermediate: Independently identifies scenarios and develops
+- 1 — Awareness: Writes acceptance criteria with guidance.
+- 2 — Working: Independently identifies scenarios and develops
   acceptance criteria that trace requirements to functionality.
-- 3 — Advanced: Recommends the value and approach to testing, applies the
+- 3 — Practitioner: Recommends the value and approach to testing, applies the
   right tools and techniques to ensure test validity, and reviews prototypes,
   test plans and outcome reporting critically, across more than one project.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -598,10 +572,9 @@ though the role level around it has grown in scope.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -619,18 +592,17 @@ work.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording for this skill is unchanged
+Baseline: 3 — Practitioner. The framework's wording for this skill is unchanged
 from the senior business analyst level; this level's growth in scope shows up
 more clearly in Consultancy and Enterprise and business architecture than
 here.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot advise on an approach to user experience analysis.
-- 1 — Beginner: Applies a technique when told which one to use.
-- 2 — Intermediate: Independently applies a basic technique and presents
+- 1 — Awareness: Applies a technique when told which one to use.
+- 2 — Working: Independently applies a basic technique and presents
   findings clearly.
-- 3 — Advanced: Advises on the approach to analysing, prioritising and
+- 3 — Practitioner: Advises on the approach to analysing, prioritising and
   validating user experience needs across more than one piece of work,
   recommends a range of techniques, and articulates how those needs affect a
   system's design to varied audiences.
@@ -648,10 +620,9 @@ here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -660,17 +631,17 @@ here.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Adapting to delivery methodologies | 3 — Advanced | | |
+| Adapting to delivery methodologies | 3 — Practitioner | | |
 | Business modelling | 4 — Expert | | |
 | Business process improvement | 4 — Expert | | |
 | Consultancy | 4 — Expert | | |
 | Context, problem and option analysis | 4 — Expert | | |
-| Enterprise and business architecture (business analyst) | 3 — Advanced | | |
+| Enterprise and business architecture (business analyst) | 3 — Practitioner | | |
 | Defining and managing business needs, user needs and requirements | 4 — Expert | | |
 | Stakeholder relationship management | 4 — Expert | | |
 | Digital and data systems analysis | 4 — Expert | | |
-| Testing (business analysis) | 3 — Advanced | | |
-| User experience analysis | 3 — Advanced | | |
+| Testing (business analysis) | 3 — Practitioner | | |
+| User experience analysis | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when every skill is rated at
 or above the target shown for it above. Most skills carry an Expert baseline
@@ -679,7 +650,7 @@ here, reflecting how much of this level's own wording — "set the direction",
 guiding other people, which is what the scale's own top point means.
 
 One or two skills below target is not automatically a fail, particularly
-where the shortfall sits in a skill whose baseline stayed at Advanced (such as
+where the shortfall sits in a skill whose baseline stayed at Practitioner (such as
 Testing, or User experience analysis) rather than the Expert-level skills that
 are more central to this level's leadership remit. Weigh how central the
 skill is to leading enterprise-scale, cross-organisational work, consider

@@ -57,16 +57,15 @@ anything other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates **how well** the person does the thing, on the evidence available
 — not how often they do it, and not how they feel about it.
@@ -76,14 +75,14 @@ this level names:
 
 - A candidate who knows accessibility legislation exists but cannot say where
   to find it, and cannot name a common accessibility issue in HTML without
-  prompting, sits at **1 — Beginner**.
+  prompting, sits at **1 — Awareness**.
 - A candidate who runs the standard automated and manual checks unsupported —
   headings, alt text, contrast, keyboard navigation — and writes up findings
-  another person could act on, sits at **2 — Intermediate**. This is the
+  another person could act on, sits at **2 — Working**. This is the
   baseline this assessment sets for this skill at this level.
 - A candidate who does all of that and also spots issues the automated tools
   miss, and proposes a fix rather than just naming the problem, is already
-  working above this level's baseline, at **3 — Advanced**.
+  working above this level's baseline, at **3 — Practitioner**.
 
 ## About this role level
 
@@ -138,7 +137,7 @@ and to take part in discussions within a multidisciplinary team.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Listening and contributing when part of a
+Baseline: 1 — Awareness. Listening and contributing when part of a
 supervised, structured discussion is realistic for someone new to the role;
 independently managing stakeholder communication is not expected until
 accessibility specialist, where the framework adds advocacy and shaping
@@ -146,15 +145,13 @@ communications for the audience.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot accurately restate a stakeholder's need after hearing it,
-  and does not contribute in team discussions even when directly invited.
-- 1 — Beginner: Listens to a stakeholder and can restate their need
+- 1 — Awareness: Listens to a stakeholder and can restate their need
   accurately when asked; contributes to multidisciplinary discussions when
   prompted.
-- 2 — Intermediate: Independently interprets what a stakeholder is asking for
+- 2 — Working: Independently interprets what a stakeholder is asking for
   without needing it re-explained; volunteers relevant points in team
   discussions without being asked.
-- 3 — Advanced: Notices and raises a stakeholder need or a gap in the
+- 3 — Practitioner: Notices and raises a stakeholder need or a gap in the
   discussion that others have missed; is sought out for input.
 - 4 — Expert: Shapes how the team runs accessibility discussions and coaches
   others in reading stakeholder needs accurately — well above this level's
@@ -175,10 +172,9 @@ communications for the audience.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -195,7 +191,7 @@ frame problems that need to be solved.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording — "under guidance",
+Baseline: 1 — Awareness. The framework's own wording — "under guidance",
 "usually by referring to previous work by others" — describes someone who
 recognises good precedent rather than someone who originates advice
 unsupported. Originating advice from specialist knowledge is the expectation
@@ -203,15 +199,13 @@ from accessibility specialist upwards.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why giving advice and guidance is part of this
-  role, and does not know where existing guidance is kept.
-- 1 — Beginner: Can explain the purpose of consultancy in the role; when
+- 1 — Awareness: Can explain the purpose of consultancy in the role; when
   asked for advice, looks for established guidance or asks a more senior
   colleague rather than guessing.
-- 2 — Intermediate: Finds and adapts relevant prior guidance to a new but
+- 2 — Working: Finds and adapts relevant prior guidance to a new but
   similar situation unsupported, and can frame a straightforward accessibility
   problem clearly enough for someone else to act on.
-- 3 — Advanced: Gives sound, defensible advice on a problem with no obvious
+- 3 — Practitioner: Gives sound, defensible advice on a problem with no obvious
   precedent, and can explain the reasoning — already working towards the
   level above.
 - 4 — Expert: A source of consultancy advice others draw on, and writes new
@@ -229,10 +223,9 @@ from accessibility specialist upwards.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -251,7 +244,7 @@ of the work; and demonstrated knowledge of using some assistive technology.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is the core technical skill of the role, and
+Baseline: 2 — Working. This is the core technical skill of the role, and
 the framework's wording for it goes beyond awareness — "perform basic
 automated and manual checks" and "communicate findings and fixes" describe
 actual, unsupported doing, not just an understanding of concepts. That sets
@@ -260,17 +253,15 @@ matrix, even though the person is at the most junior level of the role.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot run even a basic automated accessibility check, and cannot
-  identify an obvious HTML accessibility issue when shown one.
-- 1 — Beginner: Knows accessibility standards and legislation exist but needs
+- 1 — Awareness: Knows accessibility standards and legislation exist but needs
   help finding them; can name a common accessibility issue but does not
   consistently spot one unaided.
-- 2 — Intermediate: Runs the standard automated and manual checks unsupported
+- 2 — Working: Runs the standard automated and manual checks unsupported
   — headings, alternative text, colour contrast, keyboard navigation — and
   writes up findings clearly enough for someone else to act on; knows enough
   HTML, CSS and JavaScript to explain why an issue occurs; has used at least
   one assistive technology.
-- 3 — Advanced: Performs detailed manual checks beyond the basic set, spots
+- 3 — Practitioner: Performs detailed manual checks beyond the basic set, spots
   issues automated tools miss, and proposes a fix a developer could implement
   without further guidance; comfortable with more than one assistive
   technology.
@@ -292,10 +283,9 @@ matrix, even though the person is at the most junior level of the role.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -309,20 +299,18 @@ supervision, and to understand the role of testing and how it works.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording is "under supervision" —
+Baseline: 1 — Awareness. The framework's own wording is "under supervision" —
 executing a defined script accurately, with support available, is what this
 level asks for. Reviewing specifications and defining test conditions
 independently is the expectation from accessibility specialist upwards.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot follow a written test script accurately even with
-  guidance.
-- 1 — Beginner: Executes a given test script accurately under supervision,
+- 1 — Awareness: Executes a given test script accurately under supervision,
   and can explain in general terms what testing is for.
-- 2 — Intermediate: Executes test scripts unsupported, and flags an ambiguous
+- 2 — Working: Executes test scripts unsupported, and flags an ambiguous
   result for review rather than guessing at it.
-- 3 — Advanced: Adapts a test script sensibly when it does not quite fit the
+- 3 — Practitioner: Adapts a test script sensibly when it does not quite fit the
   thing being tested, and can explain why the adaptation was reasonable.
 - 4 — Expert: Designs test scripts and coaches others to execute them
   reliably — well above this level.
@@ -336,10 +324,9 @@ independently is the expectation from accessibility specialist upwards.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -354,20 +341,18 @@ user stories and the focus on user needs.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's wording is "show an awareness" and
+Baseline: 1 — Awareness. The framework's wording is "show an awareness" and
 "explain the purpose" — understanding and explaining, not yet independently
 identifying user needs from evidence, which arrives at accessibility
 specialist.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a user story is or why user needs matter to
-  accessibility work.
-- 1 — Beginner: Can explain, in general terms, the purpose of user stories
+- 1 — Awareness: Can explain, in general terms, the purpose of user stories
   and why user experience analysis matters.
-- 2 — Intermediate: Connects a specific accessibility finding to the user
+- 2 — Working: Connects a specific accessibility finding to the user
   need it affects, with some support.
-- 3 — Advanced: Independently reasons from a stated user need to a testing
+- 3 — Practitioner: Independently reasons from a stated user need to a testing
   priority or a fix recommendation — already working towards the level above.
 - 4 — Expert: Brings first-hand or directly observed evidence of disabled
   users' experience into the team's decisions, and coaches others to do the
@@ -384,10 +369,9 @@ specialist.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -396,11 +380,11 @@ specialist.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Communicating information | 1 — Beginner | | |
-| Consultancy | 1 — Beginner | | |
-| Technical understanding (accessibility) | 2 — Intermediate | | |
-| Testing | 1 — Beginner | | |
-| User focus | 1 — Beginner | | |
+| Communicating information | 1 — Awareness | | |
+| Consultancy | 1 — Awareness | | |
+| Technical understanding (accessibility) | 2 — Working | | |
+| Testing | 1 — Awareness | | |
+| User focus | 1 — Awareness | | |
 
 **Scoring guidance.** The baseline for this role level is normally met when
 every skill above is rated at or above its baseline target. One skill below

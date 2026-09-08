@@ -1,13 +1,22 @@
-// Turns a skills gap form's markdown into a page you can actually fill in.
+// Turns a skills gap form's — or a competency assessment's — markdown into a
+// page you can actually fill in.
 //
 // The markdown stays plain markdown — the source files are read on GitHub and
-// printed as often as they are read on screen, so they carry no HTML. Three
+// printed as often as they are read on screen, so they carry no HTML. These
 // shapes are recognised at render time and become real controls:
 //
 //   **Q10.** …                     a numbered question, which names the field
 //   *Your answer:*                 -> a labelled <textarea>
+//   *Assessor notes:* / *Your notes:*  -> the same, named after its skill
 //   - [ ] 0 — None: …              -> a radio group, where the list is a rating
 //   - [ ] Data protection — …      -> a checkbox group, for everything else
+//
+// A competency assessment has no numbered questions, only `### Skill:`
+// headings and a `**Rate this skill**` checklist per skill. Pass
+// `{ ratingsOnly: true }` there so only the rating checklist becomes a
+// control — the assessor notes and evidence log's own checklist ("tick all
+// that apply") has no question to tell a radio group from a checkbox group,
+// so it stays plain rather than risk rendering it the wrong way round.
 //
 // Nothing is submitted anywhere: there is no form element and no action. Each
 // field carries a `data-key`, which is the column heading in an export and the
@@ -44,7 +53,11 @@ function isMultiple(question: string): boolean {
   return /\btick\b/i.test(question) || /^which\b/i.test(question);
 }
 
-const ANSWER = /^\*Your answer:\*$/;
+// A skills gap form asks `*Your answer:*`. A competency assessment's
+// free-text prompt is the same shape, addressed to whoever is filling it in —
+// `*Assessor notes:*` on the by-assessor project, `*Your notes:*` on the
+// by-individual one.
+const ANSWER = /^\*(?:Your answer|Assessor notes|Your notes):\*$/;
 
 export type FormWriter = {
   /** Records a heading, so a rating group can be named after its skill. */
@@ -55,7 +68,8 @@ export type FormWriter = {
   list(token: Tokens.List, label: (item: Tokens.ListItem) => string): string | null;
 };
 
-export function createFormWriter(): FormWriter {
+export function createFormWriter(options: { ratingsOnly?: boolean } = {}): FormWriter {
+  const { ratingsOnly = false } = options;
   // The question a `*Your answer:*` or a set of choices belongs to, and the
   // skill a rating belongs to. Both are set by the token that introduces the
   // block, which the parser always reaches first.
@@ -90,15 +104,23 @@ export function createFormWriter(): FormWriter {
         return `<p class="form-question" id="q${question}-prompt">${html}</p>\n`;
       }
       if (ANSWER.test(text)) {
-        const key = keyFor(question === null ? `Answer ${(group += 1)}` : `Q${question}`);
-        const name = question === null ? `answer-${group}` : `q${question}-answer`;
-        // The visible label reads "Your answer:" on every one of them, so the
-        // field takes its name from the question as well. Without that, moving
-        // from field to field announces the same three words sixty times over.
-        const named = question === null ? `${name}-label` : `q${question}-prompt ${name}-label`;
+        const label = text.slice(1, -2); // strip the surrounding *…:*
+        // A skills gap form's free-text field belongs to the numbered question
+        // above it. A competency assessment has no question number — its
+        // free-text field belongs to the skill block it sits inside instead.
+        const key = keyFor(
+          skill ? `Notes: ${skill.title}` : question === null ? `Answer ${(group += 1)}` : `Q${question}`
+        );
+        const name = skill ? `notes-${skill.id}` : question === null ? `answer-${group}` : `q${question}-answer`;
+        // The visible label reads the same few words on every one of them, so
+        // the field takes its name from the question or skill as well.
+        // Without that, moving from field to field announces the same label
+        // sixty times over.
+        const named =
+          question === null || skill ? `${name}-label` : `q${question}-prompt ${name}-label`;
         return (
           `<div class="form-field">` +
-          `<label class="form-label" id="${name}-label" for="${name}">Your answer:</label>` +
+          `<label class="form-label" id="${name}-label" for="${name}">${label}:</label>` +
           `<textarea class="form-textarea" id="${name}" name="${name}" rows="6"` +
           ` aria-labelledby="${named}" data-key="${escapeAttribute(key)}"></textarea>` +
           `</div>\n`
@@ -110,6 +132,7 @@ export function createFormWriter(): FormWriter {
     list(token, label) {
       const items = token.items;
       if (!items.length || !items.every((item) => item.task)) return null;
+      if (ratingsOnly && !isRating(items)) return null;
 
       // The `## Rating scale` section shows a filled-in answer as an example.
       // It stays an example: the same controls, ticked, and not clickable. It

@@ -51,28 +51,27 @@ in the project specification.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
 A worked example, using **Making architectural decisions**:
 
-- A candidate rated **1 — Beginner** describes the reasoning behind
+- A candidate rated **1 — Awareness** describes the reasoning behind
   decisions someone else made, but has not yet contributed to making one.
-- A candidate rated **2 — Intermediate** works with others to make
+- A candidate rated **2 — Working** works with others to make
   architectural decisions of managed risk and complexity, engaging with
   governance and assurance processes with support — the framework's own
   ceiling for this skill at this level.
-- A candidate rated **3 — Advanced** makes and guides decisions of medium
+- A candidate rated **3 — Practitioner** makes and guides decisions of medium
   risk unsupported, addressing risks affecting multiple teams — the bar for
   senior technical architect, above this level.
 
@@ -137,20 +136,18 @@ Identify how other teams contribute to delivering outcomes through change.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Aligning and tracking are active, ongoing
+Baseline: 2 — Working. Aligning and tracking are active, ongoing
 practices — independent of associate's "identify relevant information" — but
 this level does not yet act on organisation-wide trends unsupported.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their work relates to other architects' or
-  technical professionals' work.
-- 1 — Beginner: Identifies relevant strategies and roadmaps when pointed to
+- 1 — Awareness: Identifies relevant strategies and roadmaps when pointed to
   them, but needs help aligning their own work to them.
-- 2 — Intermediate: Actively aligns their work with other architects' and
+- 2 — Working: Actively aligns their work with other architects' and
   tracks relevant emerging issues, with support available for judging
   opportunity or risk from them.
-- 3 — Advanced: Independently tracks and assesses emerging issues across
+- 3 — Practitioner: Independently tracks and assesses emerging issues across
   more than one piece of work — the bar for senior technical architect,
   above this level.
 - 4 — Expert: Not expected at this level.
@@ -165,10 +162,9 @@ this level does not yet act on organisation-wide trends unsupported.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -184,7 +180,7 @@ discussions about architectural topics within a multidisciplinary team.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This level's accountabilities explicitly
+Baseline: 2 — Working. This level's accountabilities explicitly
 describe communicating with technical and non-technical stakeholders, so an
 assessor should read "provide support in discussions" against that context
 rather than at face value — real, independent communication for
@@ -192,14 +188,12 @@ straightforward topics, with support for the more contested ones.
 
 **Behavioural indicators**
 
-- 0 — None: Has not created an architecture representation that achieved
-  stakeholder agreement.
-- 1 — Beginner: Listens to stakeholder needs and creates a simple
+- 1 — Awareness: Listens to stakeholder needs and creates a simple
   representation with guidance.
-- 2 — Intermediate: Independently creates representations that achieve
+- 2 — Working: Independently creates representations that achieve
   agreement with a stakeholder on a straightforward topic, and contributes
   actively to multidisciplinary discussions.
-- 3 — Advanced: Leads communication of complicated or risky topics with
+- 3 — Practitioner: Leads communication of complicated or risky topics with
   senior stakeholders — the bar for senior technical architect, above this
   level.
 - 4 — Expert: Not expected at this level.
@@ -213,10 +207,9 @@ straightforward topics, with support for the more contested ones.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -231,20 +224,18 @@ makeup depending on the situation. Recognise and deal with issues.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a step up from associate's
+Baseline: 2 — Working. This is a step up from associate's
 "understanding" of team dynamics to actively motivating teams and dealing
 with issues, applied to the design and build work this level owns.
 
 **Behavioural indicators**
 
-- 0 — None: Has not contributed to motivating or shaping a team's working
-  environment.
-- 1 — Beginner: Contributes constructively to a team but has not yet taken
+- 1 — Awareness: Contributes constructively to a team but has not yet taken
   action to motivate others or resolve an issue.
-- 2 — Intermediate: Contributes to others' work, helps create a positive
+- 2 — Working: Contributes to others' work, helps create a positive
   working environment, and recognises and deals with straightforward
   issues, with support for harder ones.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -256,10 +247,9 @@ with issues, applied to the design and build work this level owns.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -276,19 +266,17 @@ manage decisions and risks, with support.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own words — "with support" — set
-this level's ceiling explicitly at Intermediate for this skill.
+Baseline: 2 — Working. The framework's own words — "with support" — set
+this level's ceiling explicitly at Working for this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Has not contributed to an architectural decision beyond
-  describing one someone else made.
-- 1 — Beginner: Contributes to decisions when directed, and needs help
+- 1 — Awareness: Contributes to decisions when directed, and needs help
   identifying risks relevant to their domain.
-- 2 — Intermediate: Works with others to make decisions of managed risk and
+- 2 — Working: Works with others to make decisions of managed risk and
   complexity, identifies risks relevant to their own domain, and engages
   with governance processes with support.
-- 3 — Advanced: Makes and guides decisions unsupported and addresses risks
+- 3 — Practitioner: Makes and guides decisions unsupported and addresses risks
   affecting multiple teams — the bar for senior technical architect, above
   this level.
 - 4 — Expert: Not expected at this level.
@@ -302,10 +290,9 @@ this level's ceiling explicitly at Intermediate for this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -322,19 +309,18 @@ architectural principles, patterns, and constraints when appropriate.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Support" is the operative word — this level
+Baseline: 2 — Working. "Support" is the operative word — this level
 contributes to strategy someone else owns, a step up from associate's purely
 explanatory bar but short of independent strategy design.
 
 **Behavioural indicators**
 
-- 0 — None: Has not contributed to a strategy or vision document.
-- 1 — Beginner: Explains how organisational objectives link to strategy, but
+- 1 — Awareness: Explains how organisational objectives link to strategy, but
   has not yet contributed to developing one.
-- 2 — Intermediate: Supports the development and implementation of a
+- 2 — Working: Supports the development and implementation of a
   strategy or vision, challenges a requirement or assumption at least once,
   and uses architectural principles and patterns appropriately.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -346,10 +332,9 @@ explanatory bar but short of independent strategy design.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -366,7 +351,7 @@ patterns.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework repeats associate technical
+Baseline: 2 — Working. The framework repeats associate technical
 architect's wording for this skill word for word — record that rather than
 raising the number on assumption. This level's independence comes from
 owning the whole design and being consulted by others, which the assessor
@@ -375,13 +360,12 @@ changed.
 
 **Behavioural indicators**
 
-- 0 — None: Has not produced a technical design used in real delivery.
-- 1 — Beginner: Produces a technical design with close supervision, and
+- 1 — Awareness: Produces a technical design with close supervision, and
   needs help adapting it when circumstances change.
-- 2 — Intermediate: Independently creates a technical design for
+- 2 — Working: Independently creates a technical design for
   well-understood technology and managed risk, is consulted by others on
   design, and adapts it during delivery with occasional support.
-- 3 — Advanced: Maintains quality and coherence of a technical design in
+- 3 — Practitioner: Maintains quality and coherence of a technical design in
   response to change, unsupported, for medium risk and complexity — the bar
   for senior technical architect, above this level.
 - 4 — Expert: Not expected at this level.
@@ -395,10 +379,9 @@ changed.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -415,7 +398,7 @@ changed.
 | Technical design throughout the life cycle | 2 | | |
 
 **Scoring guidance.** The baseline is normally met when every skill is rated
-at or above its baseline target. Every skill sits at Intermediate for this
+at or above its baseline target. Every skill sits at Working for this
 level, which reflects a role that works independently on structured
 analysis and design consultation, but is not yet leading complex or risky
 topics unsupported — that step is senior technical architect's. One or two

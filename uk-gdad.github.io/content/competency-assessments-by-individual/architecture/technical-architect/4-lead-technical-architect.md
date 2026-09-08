@@ -49,21 +49,20 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
 A worked example, using **Technical design throughout the life cycle**:
 
-- Someone rated **3 — Advanced** independently creates technical designs
+- Someone rated **3 — Practitioner** independently creates technical designs
   of high risk and impact, but has not yet led another architect through
   creating one.
 - Someone rated **4 — Expert** leads and guides other architects in
@@ -130,20 +129,18 @@ problems by influencing colleagues across the organisation.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Taking action across the organisation by influencing
-colleagues, unsupported, is independent Advanced practice; the framework
+Baseline: 3 — Practitioner. Taking action across the organisation by influencing
+colleagues, unsupported, is independent Practitioner practice; the framework
 reserves explicit coaching of others in this skill for principal technical
 architect.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe an organisational objective beyond their own
-  projects or teams.
-- 1 — Beginner: Aware of wider organisational objectives, needs support
+- 1 — Awareness: Aware of wider organisational objectives, needs support
   acting on them.
-- 2 — Intermediate: Tracks internal and external issues for their own area,
+- 2 — Working: Tracks internal and external issues for their own area,
   with support influencing colleagues elsewhere.
-- 3 — Advanced: Independently tracks issues that could affect teams across
+- 3 — Practitioner: Independently tracks issues that could affect teams across
   the organisation, and takes action to solve or mitigate problems by
   influencing colleagues outside their own reporting line.
 - 4 — Expert: Anticipates policy changes and coaches others in identifying
@@ -159,10 +156,9 @@ architect.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -185,11 +181,10 @@ explicitly at this level — the definition of Expert on this scale.
 
 **Behavioural indicators**
 
-- 0 — None: Has not mediated a difficult architectural discussion.
-- 1 — Beginner: Communicates well one-to-one, but has not mediated between
+- 1 — Awareness: Communicates well one-to-one, but has not mediated between
   disagreeing stakeholders.
-- 2 — Intermediate: Mediates straightforward disagreements with support.
-- 3 — Advanced: Independently mediates difficult discussions and gains
+- 2 — Working: Mediates straightforward disagreements with support.
+- 3 — Practitioner: Independently mediates difficult discussions and gains
   support for high-risk, high-complexity topics, but has not yet coached
   another architect in doing the same.
 - 4 — Expert: Coaches and supports other architects in architecture
@@ -206,10 +201,9 @@ explicitly at this level — the definition of Expert on this scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -226,7 +220,7 @@ responses.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is identical to senior technical
+Baseline: 3 — Practitioner. This wording is identical to senior technical
 architect's — record the repeat rather than assuming a higher bar. This
 level's accountability to provide leadership to other architects across
 multiple projects means the evidence should span more than one team, even
@@ -234,11 +228,10 @@ though the skill's own text has not changed.
 
 **Behavioural indicators**
 
-- 0 — None: Has not rectified a team-dynamic issue.
-- 1 — Beginner: Contributes to a team environment with support.
-- 2 — Intermediate: Adapts feedback for short-term effect, with support
+- 1 — Awareness: Contributes to a team environment with support.
+- 2 — Working: Adapts feedback for short-term effect, with support
   making it last.
-- 3 — Advanced: Independently identifies and rectifies team-dynamic issues
+- 3 — Practitioner: Independently identifies and rectifies team-dynamic issues
   and runs Agile health checks, across more than one team where the role
   requires it.
 - 4 — Expert: Solves and unblocks issues between teams or departments at the
@@ -254,10 +247,9 @@ though the skill's own text has not changed.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -274,18 +266,17 @@ Contribute to the development of architectural governance and assurance.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is materially stronger than senior
+Baseline: 3 — Practitioner. This wording is materially stronger than senior
 technical architect's "with support" ceiling — making and guiding decisions
 of medium risk across multiple teams, and contributing to how governance
-develops, is independent Advanced practice, short of the "lead and evolve"
+develops, is independent Practitioner practice, short of the "lead and evolve"
 bar the framework reserves for principal technical architect.
 
 **Behavioural indicators**
 
-- 0 — None: Has not made an architectural decision affecting multiple teams.
-- 1 — Beginner: Contributes to decisions with regular support.
-- 2 — Intermediate: Makes decisions of managed risk with occasional support.
-- 3 — Advanced: Independently makes and guides decisions of medium risk and
+- 1 — Awareness: Contributes to decisions with regular support.
+- 2 — Working: Makes decisions of managed risk with occasional support.
+- 3 — Practitioner: Independently makes and guides decisions of medium risk and
   complexity across multiple teams or domains, and contributes to how
   governance itself develops.
 - 4 — Expert: Leads and evolves architectural governance and represents it
@@ -301,10 +292,9 @@ bar the framework reserves for principal technical architect.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -320,18 +310,16 @@ Develop or maintain strategy in response to feedback and findings.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Define" and "direct" strategy across teams is a
+Baseline: 3 — Practitioner. "Define" and "direct" strategy across teams is a
 clear step up from senior technical architect's "support" — independent
 ownership, though the framework does not yet describe organisation-wide
 scope, which it reserves for principal technical architect.
 
 **Behavioural indicators**
 
-- 0 — None: Has not defined a strategy or set of principles for their own
-  area.
-- 1 — Beginner: Contributes to defining strategy with regular support.
-- 2 — Intermediate: Defines strategy elements with occasional support.
-- 3 — Advanced: Independently defines strategies or visions across the
+- 1 — Awareness: Contributes to defining strategy with regular support.
+- 2 — Working: Defines strategy elements with occasional support.
+- 3 — Practitioner: Independently defines strategies or visions across the
   teams they work with, directs implementation, and maintains the strategy
   in response to feedback.
 - 4 — Expert: Defines and connects strategies across the organisation or
@@ -347,10 +335,9 @@ scope, which it reserves for principal technical architect.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -371,11 +358,10 @@ skill explicitly at this level — the definition of Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Has not created a technical design of high risk and complexity.
-- 1 — Beginner: Contributes to high-risk designs with regular support.
-- 2 — Intermediate: Creates designs of medium risk and complexity with
+- 1 — Awareness: Contributes to high-risk designs with regular support.
+- 2 — Working: Creates designs of medium risk and complexity with
   occasional support.
-- 3 — Advanced: Independently creates technical designs of high risk, impact
+- 3 — Practitioner: Independently creates technical designs of high risk, impact
   and complexity, but has not yet led another architect through the process.
 - 4 — Expert: Leads and guides other architects in creating technical
   designs that achieve organisational objectives, and refines the standards
@@ -390,10 +376,9 @@ skill explicitly at this level — the definition of Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

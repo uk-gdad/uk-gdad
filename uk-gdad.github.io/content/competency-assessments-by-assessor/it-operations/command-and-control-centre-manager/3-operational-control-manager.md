@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -52,14 +51,13 @@ The framework expects an operational control manager to maintain secure configur
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, but an operational control manager is expected to carry out this work with full independence across day-to-day operations, matching Advanced.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, but an operational control manager is expected to carry out this work with full independence across day-to-day operations, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a configuration record is for.
-- 1 — Beginner: Updates configuration records accurately only with checking.
-- 2 — Intermediate: Maintains accurate records for their own area with some guidance on edge cases.
-- 3 — Advanced: Maintains secure, accurate configuration and asset information across the areas they are accountable for, entirely independently.
+- 1 — Awareness: Updates configuration records accurately only with checking.
+- 2 — Working: Maintains accurate records for their own area with some guidance on edge cases.
+- 3 — Practitioner: Maintains secure, accurate configuration and asset information across the areas they are accountable for, entirely independently.
 - 4 — Expert: Sets configuration and asset control standards other operational control managers follow.
 
 **Evidence to gather**
@@ -68,10 +66,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, but an 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -84,14 +81,13 @@ The framework expects an operational control manager to manage service component
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from earlier levels, but at this level a candidate is accountable for day-to-day operations as a whole, and expected to manage this independently, matching Advanced.
+Baseline: 3 — Practitioner. The wording is unchanged from earlier levels, but at this level a candidate is accountable for day-to-day operations as a whole, and expected to manage this independently, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Does not know what availability or capacity KPIs apply.
-- 1 — Beginner: Reads KPI figures but needs help interpreting them.
-- 2 — Intermediate: Manages routine capacity actions with some guidance.
-- 3 — Advanced: Independently manages service components to meet KPIs across day-to-day operations, and anticipates and prevents breaches.
+- 1 — Awareness: Reads KPI figures but needs help interpreting them.
+- 2 — Working: Manages routine capacity actions with some guidance.
+- 3 — Practitioner: Independently manages service components to meet KPIs across day-to-day operations, and anticipates and prevents breaches.
 - 4 — Expert: Sets or redefines the availability and capacity standards for the operations centre.
 
 **Evidence to gather**
@@ -100,10 +96,9 @@ Baseline: 3 — Advanced. The wording is unchanged from earlier levels, but at t
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -116,14 +111,13 @@ The framework expects an operational control manager to manage high impact, comp
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Manage high impact, complex" changes independently is a clear step up from applying procedure under supervision at earlier levels, matching Advanced.
+Baseline: 3 — Practitioner. "Manage high impact, complex" changes independently is a clear step up from applying procedure under supervision at earlier levels, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Has never handled a complex or high impact change.
-- 1 — Beginner: Handles a high impact change only with close direction.
-- 2 — Intermediate: Manages moderately complex changes with occasional guidance.
-- 3 — Advanced: Manages high impact, complex change requests independently, and ensures release policy is applied correctly.
+- 1 — Awareness: Handles a high impact change only with close direction.
+- 2 — Working: Manages moderately complex changes with occasional guidance.
+- 3 — Practitioner: Manages high impact, complex change requests independently, and ensures release policy is applied correctly.
 - 4 — Expert: Sets or improves the release policies and processes others apply.
 
 **Evidence to gather**
@@ -132,10 +126,9 @@ Baseline: 3 — Advanced. "Manage high impact, complex" changes independently is
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -148,14 +141,13 @@ The framework expects an operational control manager to work collaboratively in 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Actively diagnosing and rectifying team dynamic issues is independent, applied leadership of collaboration, matching Advanced.
+Baseline: 3 — Practitioner. Actively diagnosing and rectifying team dynamic issues is independent, applied leadership of collaboration, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Works in isolation and does not engage in team health or collaboration practices.
-- 1 — Beginner: Participates in a team health check without acting on what it surfaces.
-- 2 — Intermediate: Networks and collaborates with support identifying underlying team dynamic issues.
-- 3 — Advanced: Actively networks across operations, adapts feedback so it lands effectively, and uses insight to identify and rectify team dynamic problems.
+- 1 — Awareness: Participates in a team health check without acting on what it surfaces.
+- 2 — Working: Networks and collaborates with support identifying underlying team dynamic issues.
+- 3 — Practitioner: Actively networks across operations, adapts feedback so it lands effectively, and uses insight to identify and rectify team dynamic problems.
 - 4 — Expert: Is asked to run or improve Agile health checks for other teams beyond their own.
 
 **Evidence to gather**
@@ -164,10 +156,9 @@ Baseline: 3 — Advanced. Actively diagnosing and rectifying team dynamic issues
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -180,14 +171,13 @@ The framework expects an operational control manager to manage the runbooks and 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Owning and testing runbooks is a clear step up from explaining basic continuity principles at earlier levels, matching independent, applied practice at Advanced.
+Baseline: 3 — Practitioner. Owning and testing runbooks is a clear step up from explaining basic continuity principles at earlier levels, matching independent, applied practice at Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a runbook is for.
-- 1 — Beginner: Follows an existing runbook without maintaining or testing it.
-- 2 — Intermediate: Maintains a runbook with support, and has taken part in testing one.
-- 3 — Advanced: Manages runbooks and continuity processes independently, and runs tests that verify service availability is maintained.
+- 1 — Awareness: Follows an existing runbook without maintaining or testing it.
+- 2 — Working: Maintains a runbook with support, and has taken part in testing one.
+- 3 — Practitioner: Manages runbooks and continuity processes independently, and runs tests that verify service availability is maintained.
 - 4 — Expert: Owns continuity strategy and testing across the operations centre.
 
 **Evidence to gather**
@@ -197,10 +187,9 @@ Baseline: 3 — Advanced. Owning and testing runbooks is a clear step up from ex
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -213,14 +202,13 @@ The framework expects an operational control manager to lead the investigation a
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Lead" marks a clear move from diagnosing incidents personally (the level below) to directing others through resolution as the named escalation point, matching Advanced.
+Baseline: 3 — Practitioner. "Lead" marks a clear move from diagnosing incidents personally (the level below) to directing others through resolution as the named escalation point, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Has never led an incident response.
-- 1 — Beginner: Follows someone else's lead during an incident.
-- 2 — Intermediate: Leads the response to straightforward incidents with support available.
-- 3 — Advanced: Leads the investigation and resolution of incidents independently as the escalation point, co-ordinating others and communicating clearly throughout, including out of hours.
+- 1 — Awareness: Follows someone else's lead during an incident.
+- 2 — Working: Leads the response to straightforward incidents with support available.
+- 3 — Practitioner: Leads the investigation and resolution of incidents independently as the escalation point, co-ordinating others and communicating clearly throughout, including out of hours.
 - 4 — Expert: Is called in to lead the operations centre's most difficult incidents and mentors others in incident leadership.
 
 **Evidence to gather**
@@ -230,10 +218,9 @@ Baseline: 3 — Advanced. "Lead" marks a clear move from diagnosing incidents pe
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -246,14 +233,13 @@ The framework expects an operational control manager to take accountability for 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Proactively searching for problems ahead of time, rather than reacting once they occur, is independent, forward-looking practice matching Advanced.
+Baseline: 3 — Practitioner. Proactively searching for problems ahead of time, rather than reacting once they occur, is independent, forward-looking practice matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Only responds to issues once someone else raises them.
-- 1 — Beginner: Takes accountability for an issue when told to.
-- 2 — Intermediate: Takes accountability for issues in their own area, occasionally spotting problems early.
-- 3 — Advanced: Actively searches for potential problems ahead of time across day-to-day operations and consistently produces excellent outcomes for users.
+- 1 — Awareness: Takes accountability for an issue when told to.
+- 2 — Working: Takes accountability for issues in their own area, occasionally spotting problems early.
+- 3 — Practitioner: Actively searches for potential problems ahead of time across day-to-day operations and consistently produces excellent outcomes for users.
 - 4 — Expert: Builds proactive problem-spotting into how the whole operations centre works.
 
 **Evidence to gather**
@@ -262,10 +248,9 @@ Baseline: 3 — Advanced. Proactively searching for problems ahead of time, rath
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -278,14 +263,13 @@ The framework expects an operational control manager to initiate and monitor act
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Initiating and monitoring investigation, and determining resolution independently, is a clear step above contributing to someone else's investigation, matching Advanced.
+Baseline: 3 — Practitioner. Initiating and monitoring investigation, and determining resolution independently, is a clear step above contributing to someone else's investigation, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how to investigate a recurring problem.
-- 1 — Beginner: Contributes to a problem investigation someone else initiated.
-- 2 — Intermediate: Initiates a problem investigation with support and determines a resolution with guidance.
-- 3 — Advanced: Initiates and monitors problem investigations independently, consults specialists appropriately, and determines both the resolution and preventative measures.
+- 1 — Awareness: Contributes to a problem investigation someone else initiated.
+- 2 — Working: Initiates a problem investigation with support and determines a resolution with guidance.
+- 3 — Practitioner: Initiates and monitors problem investigations independently, consults specialists appropriately, and determines both the resolution and preventative measures.
 - 4 — Expert: Sets the approach the operations centre uses for problem investigation.
 
 **Evidence to gather**
@@ -294,10 +278,9 @@ Baseline: 3 — Advanced. Initiating and monitoring investigation, and determini
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -310,14 +293,13 @@ The framework expects an operational control manager to see the bigger picture b
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "See the bigger picture" across groups of services is a broader, more independent reading of this skill than at earlier levels, matching Advanced.
+Baseline: 3 — Practitioner. "See the bigger picture" across groups of services is a broader, more independent reading of this skill than at earlier levels, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Only considers a single service in isolation.
-- 1 — Beginner: Considers how one other service connects to their own, with help.
-- 2 — Intermediate: Considers how a small group of related services interact.
-- 3 — Advanced: Investigates how to get the best from groups of underlying services independently, across day-to-day operations.
+- 1 — Awareness: Considers how one other service connects to their own, with help.
+- 2 — Working: Considers how a small group of related services interact.
+- 3 — Practitioner: Investigates how to get the best from groups of underlying services independently, across day-to-day operations.
 - 4 — Expert: Is the person others rely on to see how the whole operations estate's underlying services should best work together.
 
 **Evidence to gather**
@@ -326,10 +308,9 @@ Baseline: 3 — Advanced. "See the bigger picture" across groups of services is 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -342,14 +323,13 @@ The framework expects an operational control manager to show they have a Level 3
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This level adds ITIL life cycle knowledge on top of the Level 3 qualification named at earlier levels, a broader and more applied grasp of the framework that matches Advanced.
+Baseline: 3 — Practitioner. This level adds ITIL life cycle knowledge on top of the Level 3 qualification named at earlier levels, a broader and more applied grasp of the framework that matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management qualification and cannot describe ITIL's life cycle.
-- 1 — Beginner: Holds a Level 3 qualification but cannot describe how ITIL life cycle elements connect to their own work.
-- 2 — Intermediate: Holds Level 3 and can describe ITIL life cycle elements in general terms.
-- 3 — Advanced: Holds Level 3 and applies ITIL life cycle or capability knowledge directly to how they run day-to-day operations.
+- 1 — Awareness: Holds a Level 3 qualification but cannot describe how ITIL life cycle elements connect to their own work.
+- 2 — Working: Holds Level 3 and can describe ITIL life cycle elements in general terms.
+- 3 — Practitioner: Holds Level 3 and applies ITIL life cycle or capability knowledge directly to how they run day-to-day operations.
 - 4 — Expert: Holds expert-level certification and teaches ITIL concepts to others.
 
 **Evidence to gather**
@@ -358,10 +338,9 @@ Baseline: 3 — Advanced. This level adds ITIL life cycle knowledge on top of th
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -374,14 +353,13 @@ The framework expects an operational control manager to collaborate with user re
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Championing user research and guiding others in prioritising the user story is independent leadership of this skill, matching Advanced.
+Baseline: 3 — Practitioner. Championing user research and guiding others in prioritising the user story is independent leadership of this skill, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with user research or represent users internally.
-- 1 — Beginner: Engages with user research when asked.
-- 2 — Intermediate: Represents users internally on straightforward matters.
-- 3 — Advanced: Champions user research, clearly distinguishes user needs from desires, and guides others in prioritising the user story.
+- 1 — Awareness: Engages with user research when asked.
+- 2 — Working: Represents users internally on straightforward matters.
+- 3 — Practitioner: Champions user research, clearly distinguishes user needs from desires, and guides others in prioritising the user story.
 - 4 — Expert: Sets how the wider operations centre approaches user focus and coaches others in it.
 
 **Evidence to gather**
@@ -391,10 +369,9 @@ Baseline: 3 — Advanced. Championing user research and guiding others in priori
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -403,17 +380,17 @@ Baseline: 3 — Advanced. Championing user research and guiding others in priori
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 3 — Advanced | | |
-| Availability and capacity management | 3 — Advanced | | |
-| Change management | 3 — Advanced | | |
-| Community collaboration | 3 — Advanced | | |
-| Continuity management | 3 — Advanced | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
-| Problem management | 3 — Advanced | | |
-| Service focus | 3 — Advanced | | |
-| Service management framework knowledge | 3 — Advanced | | |
-| User focus | 3 — Advanced | | |
+| Asset and configuration management | 3 — Practitioner | | |
+| Availability and capacity management | 3 — Practitioner | | |
+| Change management | 3 — Practitioner | | |
+| Community collaboration | 3 — Practitioner | | |
+| Continuity management | 3 — Practitioner | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
+| Problem management | 3 — Practitioner | | |
+| Service focus | 3 — Practitioner | | |
+| Service management framework knowledge | 3 — Practitioner | | |
+| User focus | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when every skill above is rated at or above its baseline target.
 

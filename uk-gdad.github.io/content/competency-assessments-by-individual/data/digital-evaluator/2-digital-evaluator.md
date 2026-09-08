@@ -49,25 +49,24 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Quality assurance of data and
 analysis:
 
-- **1 — Beginner**: when shown a dataset with an obvious error, they could point to it
+- **1 — Awareness**: when shown a dataset with an obvious error, they could point to it
   once it was flagged, but did not spot it unprompted.
-- **2 — Intermediate**: with limited guidance, they prepared and cleansed a dataset for
+- **2 — Working**: with limited guidance, they prepared and cleansed a dataset for
   analysis and checked it looked plausible before handing it on.
-- **3 — Advanced**: they set up how a dataset should be collected, collated and
+- **3 — Practitioner**: they set up how a dataset should be collected, collated and
   prepared, decided independently whether it was fit for purpose, and peer-reviewed a
   colleague's output.
 
@@ -115,20 +114,19 @@ decision making.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Three of the four bullets describe active, independent
+Baseline: 2 — Working. Three of the four bullets describe active, independent
 communication work; only the presenting-visualisations bullet keeps "with support" —
-together this sits above pure Beginner and matches "can perform tasks with some
+together this sits above pure Awareness and matches "can perform tasks with some
 guidance."
 
 **Behavioural indicators**
 
-- 0 — None: has not chosen a communication medium or shaped a message for an audience.
-- 1 — Beginner: with close direction, has helped format a findings report chosen by
+- 1 — Awareness: with close direction, has helped format a findings report chosen by
   someone else.
-- 2 — Intermediate: has chosen a format for a set of findings, shaped the message for a
+- 2 — Working: has chosen a format for a set of findings, shaped the message for a
   named audience, and given a tactical recommendation, with some support presenting
   visualisations.
-- 3 — Advanced: independently chooses medium, shapes communications and gives tactical
+- 3 — Practitioner: independently chooses medium, shapes communications and gives tactical
   recommendations for a real evaluation, without needing support on visualisations.
 - 4 — Expert: is trusted to develop other evaluators' communication skills.
 
@@ -142,10 +140,9 @@ guidance."
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -160,18 +157,17 @@ through appropriate channels.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Apply... under supervision" is active application with
+Baseline: 2 — Working. "Apply... under supervision" is active application with
 guidance, a step up from the junior level's purely explanatory wording, matching
-Intermediate.
+Working.
 
 **Behavioural indicators**
 
-- 0 — None: has not applied a data ethics or privacy principle in real work.
-- 1 — Beginner: can explain a data ethics or privacy principle but has not yet applied
+- 1 — Awareness: can explain a data ethics or privacy principle but has not yet applied
   one in their own work.
-- 2 — Intermediate: has applied a fundamental data ethics or privacy principle under
+- 2 — Working: has applied a fundamental data ethics or privacy principle under
   supervision, and has shared a risk through the right channel.
-- 3 — Advanced: applies data ethics and privacy principles to their own work without
+- 3 — Practitioner: applies data ethics and privacy principles to their own work without
   needing supervision, and proactively raises risks.
 - 4 — Expert: advises colleagues on applying data ethics and privacy principles.
 
@@ -186,10 +182,9 @@ Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -209,18 +204,17 @@ junior level asks for.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Because the framework repeats the junior level's "with support"
+Baseline: 1 — Awareness. Because the framework repeats the junior level's "with support"
 wording word for word here, the honest baseline is the same one used for the junior
 level, not a higher figure implied by the level's title alone.
 
 **Behavioural indicators**
 
-- 0 — None: has not collected or analysed evaluation data, even under close direction.
-- 1 — Beginner: with a colleague setting the task, has collected data and produced a
+- 1 — Awareness: with a colleague setting the task, has collected data and produced a
   guided first-pass analysis for an evaluation.
-- 2 — Intermediate: collects and analyses data for a small evaluation with periodic
+- 2 — Working: collects and analyses data for a small evaluation with periodic
   check-ins rather than step-by-step direction.
-- 3 — Advanced: independently runs data collection and analysis for a straightforward
+- 3 — Practitioner: independently runs data collection and analysis for a straightforward
   evaluation, choosing and justifying an appropriate technique.
 - 4 — Expert: designs and runs evaluation delivery for a complex intervention and
   teaches the techniques to others.
@@ -236,10 +230,9 @@ level, not a higher figure implied by the level's title alone.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -255,19 +248,18 @@ influence decisions on evaluation plans with support.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This moves from the junior level's descriptive wording
+Baseline: 2 — Working. This moves from the junior level's descriptive wording
 ("describe how you might...") to actual doing ("work with", "translate", "present"),
-with only the influencing bullet keeping "with support" — a clear step to Intermediate.
+with only the influencing bullet keeping "with support" — a clear step to Working.
 
 **Behavioural indicators**
 
-- 0 — None: has not worked directly with a stakeholder on evaluation needs.
-- 1 — Beginner: has sat in on a stakeholder conversation about evaluation needs but not
+- 1 — Awareness: has sat in on a stakeholder conversation about evaluation needs but not
   yet led any part of it.
-- 2 — Intermediate: has worked with a stakeholder to understand their needs, translated
+- 2 — Working: has worked with a stakeholder to understand their needs, translated
   those needs into research questions, and presented options for evaluation, with some
   support influencing the final decision.
-- 3 — Advanced: independently agrees an evaluation plan's direction with a stakeholder.
+- 3 — Practitioner: independently agrees an evaluation plan's direction with a stakeholder.
 - 4 — Expert: is trusted to secure resources and agreement from senior stakeholders for
   an evaluation strategy.
 
@@ -282,10 +274,9 @@ with only the influencing bullet keeping "with support" — a clear step to Inte
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -301,19 +292,18 @@ future phases.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. All three bullets describe genuine ownership of a piece of
+Baseline: 2 — Working. All three bullets describe genuine ownership of a piece of
 work ("ensure", "manage the delivery", "plan"), a clear step up from the junior level's
 single descriptive bullet, and matching "can perform tasks with some guidance" rather
 than full independence.
 
 **Behavioural indicators**
 
-- 0 — None: has not been involved in matching evaluation activity to a life cycle phase.
-- 1 — Beginner: can describe what phase a product is in and what evaluation activity
+- 1 — Awareness: can describe what phase a product is in and what evaluation activity
   might suit it, without having run any of it.
-- 2 — Intermediate: has helped ensure a team measured performance appropriately for its
+- 2 — Working: has helped ensure a team measured performance appropriately for its
   current phase, and has looked ahead at data needs for the next phase, with guidance.
-- 3 — Advanced: independently manages evaluation delivery across more than one life
+- 3 — Practitioner: independently manages evaluation delivery across more than one life
   cycle phase.
 - 4 — Expert: advises other teams on evaluation and data requirements as they move
   through life cycle phases.
@@ -329,10 +319,9 @@ than full independence.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -349,19 +338,18 @@ development of a performance dashboard.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Active verbs throughout ("develop", "identify and present",
+Baseline: 2 — Working. Active verbs throughout ("develop", "identify and present",
 "turn... into"), with "with support" attached to the theory of change bullet — the
-overall pattern is doing with guidance, matching Intermediate.
+overall pattern is doing with guidance, matching Working.
 
 **Behavioural indicators**
 
-- 0 — None: has not contributed to a theory of change or a measurement framework.
-- 1 — Beginner: has observed or helped populate a theory of change diagram someone else
+- 1 — Awareness: has observed or helped populate a theory of change diagram someone else
   led.
-- 2 — Intermediate: has developed part of a theory of change with support, presented
+- 2 — Working: has developed part of a theory of change with support, presented
   indicator options to stakeholders, and turned some indicators into a measurement
   framework.
-- 3 — Advanced: independently develops a theory of change through stakeholder
+- 3 — Practitioner: independently develops a theory of change through stakeholder
   discussion and builds the resulting measurement framework.
 - 4 — Expert: sets the approach other evaluators use for theory of change and indicator
   development.
@@ -376,10 +364,9 @@ overall pattern is doing with guidance, matching Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -395,18 +382,17 @@ processes, and peer-review colleagues' outputs from data analysis to ensure qual
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "With limited guidance" and active ownership across five
-bullets, including peer review of others' work, places this above Beginner — "limited
+Baseline: 2 — Working. "With limited guidance" and active ownership across five
+bullets, including peer review of others' work, places this above Awareness — "limited
 guidance" is a good match for "can perform tasks with some guidance."
 
 **Behavioural indicators**
 
-- 0 — None: has not prepared, cleansed or quality-checked a dataset.
-- 1 — Beginner: has cleansed or prepared a small dataset only with close, step-by-step
+- 1 — Awareness: has cleansed or prepared a small dataset only with close, step-by-step
   direction.
-- 2 — Intermediate: prepares and cleanses data with limited guidance, decides whether a
+- 2 — Working: prepares and cleanses data with limited guidance, decides whether a
   dataset is fit for purpose, and has peer-reviewed a colleague's analysis output.
-- 3 — Advanced: independently sets up how a dataset should be collected, collated and
+- 3 — Practitioner: independently sets up how a dataset should be collected, collated and
   prepared for a real evaluation.
 - 4 — Expert: designs and owns a quality assurance process for others to follow.
 
@@ -421,10 +407,9 @@ guidance" is a good match for "can perform tasks with some guidance."
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

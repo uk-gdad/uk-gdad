@@ -2,10 +2,77 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Technical architect** role at the **Technical architect** level. You are responsible for the design and build of technical architecture, you undertake structured analysis of technical issues and translate it into designs, you are consulted about design and provide patterns, you identify deeper issues that need fixing, and you look for opportunities to collaborate and reuse. Your development now is about analytical rigour and credibility with both engineers and stakeholders.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/technical-architect/2-technical-architect.md`](../../../assessments/architecture/technical-architect/2-technical-architect.md)
+- Upskilling: [`upskills/architecture/technical-architect/2-technical-architect.md`](../../../upskills/architecture/technical-architect/2-technical-architect.md)
+
+### Role Level Focus: Technical Architect
+
+- [ ] Practise Structured Analysis: Adopt a repeatable method for analysing technical issues, and use it every time.
+- [ ] Provide Design Patterns: Write patterns others can reuse, and keep them current.
+- [ ] Identify Deeper Issues: Practise naming the underlying problem, not just the presenting one.
+- [ ] Champion Reuse: Look actively for components and services that already exist before designing new ones.
+- [ ] Stay Technically Current: Keep enough hands-on skill to test claims rather than accept them.
+- [ ] Communicate Both Ways: Build a reputation with engineers and with non-technical stakeholders.
+- [ ] Deepen Your Framework Knowledge: Move beyond foundation level in your architecture framework.
+
+### Skill: Architect for the whole context
+
+- [ ] Align With Other Architects: Keep your work coherent with other architects and technical professionals.
+- [ ] Track Trends Over Time: Maintain a log of emerging issues, strategies, roadmaps, patterns, and technologies.
+- [ ] Identify Other Teams' Contributions: Understand how other teams deliver outcomes through change.
+- [ ] Learn Systems Thinking: Apply systems thinking to a problem that crosses team boundaries.
+
+### Skill: Architecture communication
+
+- [ ] Listen to Both Sides: Hear technical and business needs without translating too early.
+- [ ] Create Useful Representations: Produce views that achieve genuine agreement, not just nods.
+- [ ] Support Team Discussions: Contribute usefully to architectural discussions in multidisciplinary teams.
+- [ ] Improve Your Diagramming: Study visual communication and make your diagrams work harder.
+
+### Skill: Community collaboration
+
+- [ ] Contribute to Others' Work: Offer help and review beyond your own deliverables.
+- [ ] Motivate and Empower: Notice good work publicly and specifically.
+- [ ] Create the Right Environment: Learn what team makeup suits which situation.
+- [ ] Recognise and Deal With Issues: Raise team problems early and constructively.
+
+### Skill: Making architectural decisions
+
+- [ ] Make Managed-Risk Decisions: Work with others on decisions of managed risk and complexity.
+- [ ] Address Architectural Risks: Identify and act on business, data, or security risks in your domain.
+- [ ] Engage With Governance: Use architectural governance and assurance to manage decisions and risks.
+- [ ] Record Decisions Well: Keep decision records a future architect could actually use.
+
+### Skill: Strategy design
+
+- [ ] Support Strategy Development: Contribute to strategy and vision aligned with organisational objectives.
+- [ ] Challenge Assumptions: Ask why a requirement exists, kindly but persistently.
+- [ ] Support Implementation: Help turn strategy into a roadmap or plan.
+- [ ] Use Principles and Patterns: Apply architectural principles, patterns, and constraints where they fit.
+
+### Skill: Technical design throughout the life cycle
+
+- [ ] Create Managed-Risk Designs: Produce designs with manageable complexity and meaningful impact.
+- [ ] Support Teams Through Delivery: Stay engaged with the teams using your designs.
+- [ ] Adapt During Delivery: Change designs when delivery reveals something new, and say why.
+- [ ] Identify Appropriate Patterns: Work confidently with well-understood technology and known patterns.
+
+### Skill Growth Plan: Toward Senior Technical Architect
+
+- [ ] Review the Next Level: Read the Senior technical architect skill descriptions and mark your gaps.
+- [ ] Take On Complexity: Ask for work that is large, complex, or genuinely risky.
+- [ ] Start Coaching: Mentor a junior colleague with an agreed goal and review point.
+- [ ] Practise Translation: Get better at turning technical problems into non-technical descriptions.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,70 +170,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Technical architect** role at the **Technical architect** level. You are responsible for the design and build of technical architecture, you undertake structured analysis of technical issues and translate it into designs, you are consulted about design and provide patterns, you identify deeper issues that need fixing, and you look for opportunities to collaborate and reuse. Your development now is about analytical rigour and credibility with both engineers and stakeholders.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/technical-architect/2-technical-architect.md`](../../../assessments/architecture/technical-architect/2-technical-architect.md)
-- Upskilling: [`upskills/architecture/technical-architect/2-technical-architect.md`](../../../upskills/architecture/technical-architect/2-technical-architect.md)
-
-### Role Level Focus: Technical Architect
-
-- [ ] Practise Structured Analysis: Adopt a repeatable method for analysing technical issues, and use it every time.
-- [ ] Provide Design Patterns: Write patterns others can reuse, and keep them current.
-- [ ] Identify Deeper Issues: Practise naming the underlying problem, not just the presenting one.
-- [ ] Champion Reuse: Look actively for components and services that already exist before designing new ones.
-- [ ] Stay Technically Current: Keep enough hands-on skill to test claims rather than accept them.
-- [ ] Communicate Both Ways: Build a reputation with engineers and with non-technical stakeholders.
-- [ ] Deepen Your Framework Knowledge: Move beyond foundation level in your architecture framework.
-
-### Skill: Architect for the whole context
-
-- [ ] Align With Other Architects: Keep your work coherent with other architects and technical professionals.
-- [ ] Track Trends Over Time: Maintain a log of emerging issues, strategies, roadmaps, patterns, and technologies.
-- [ ] Identify Other Teams' Contributions: Understand how other teams deliver outcomes through change.
-- [ ] Learn Systems Thinking: Apply systems thinking to a problem that crosses team boundaries.
-
-### Skill: Architecture communication
-
-- [ ] Listen to Both Sides: Hear technical and business needs without translating too early.
-- [ ] Create Useful Representations: Produce views that achieve genuine agreement, not just nods.
-- [ ] Support Team Discussions: Contribute usefully to architectural discussions in multidisciplinary teams.
-- [ ] Improve Your Diagramming: Study visual communication and make your diagrams work harder.
-
-### Skill: Community collaboration
-
-- [ ] Contribute to Others' Work: Offer help and review beyond your own deliverables.
-- [ ] Motivate and Empower: Notice good work publicly and specifically.
-- [ ] Create the Right Environment: Learn what team makeup suits which situation.
-- [ ] Recognise and Deal With Issues: Raise team problems early and constructively.
-
-### Skill: Making architectural decisions
-
-- [ ] Make Managed-Risk Decisions: Work with others on decisions of managed risk and complexity.
-- [ ] Address Architectural Risks: Identify and act on business, data, or security risks in your domain.
-- [ ] Engage With Governance: Use architectural governance and assurance to manage decisions and risks.
-- [ ] Record Decisions Well: Keep decision records a future architect could actually use.
-
-### Skill: Strategy design
-
-- [ ] Support Strategy Development: Contribute to strategy and vision aligned with organisational objectives.
-- [ ] Challenge Assumptions: Ask why a requirement exists, kindly but persistently.
-- [ ] Support Implementation: Help turn strategy into a roadmap or plan.
-- [ ] Use Principles and Patterns: Apply architectural principles, patterns, and constraints where they fit.
-
-### Skill: Technical design throughout the life cycle
-
-- [ ] Create Managed-Risk Designs: Produce designs with manageable complexity and meaningful impact.
-- [ ] Support Teams Through Delivery: Stay engaged with the teams using your designs.
-- [ ] Adapt During Delivery: Change designs when delivery reveals something new, and say why.
-- [ ] Identify Appropriate Patterns: Work confidently with well-understood technology and known patterns.
-
-### Skill Growth Plan: Toward Senior Technical Architect
-
-- [ ] Review the Next Level: Read the Senior technical architect skill descriptions and mark your gaps.
-- [ ] Take On Complexity: Ask for work that is large, complex, or genuinely risky.
-- [ ] Start Coaching: Mentor a junior colleague with an agreed goal and review point.
-- [ ] Practise Translation: Get better at turning technical problems into non-technical descriptions.

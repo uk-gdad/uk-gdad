@@ -35,7 +35,7 @@ This is different from the documents it sits alongside:
 | Introduction | Who this is for and how to use it |
 | Advisory | The standing caution |
 | How to use this assessment | Preparing, gathering evidence, scoring, staying fair |
-| Rating scale | The 0–4 scale used throughout |
+| Rating scale | The 1–4 scale used throughout |
 | About this role level | The role, the level, its duties and its skills |
 | Competency matrix | One block per skill: baseline target, behavioural indicators at each rating, evidence to gather |
 | Overall determination | A scoring summary and guidance on borderline cases |

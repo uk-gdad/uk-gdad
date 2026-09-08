@@ -49,28 +49,25 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using User-centred content design, a skill this level
 names:
 
-- Someone who cannot spot an obvious spelling, grammar or plain-language
-  problem in a short piece of copy sits at **0 — None**.
 - Someone who can perform a basic copy edit and apply obvious style rules
   when someone points them out, but needs support to catch anything less
-  obvious, sits at **1 — Beginner** — the baseline this assessment sets for
+  obvious, sits at **1 — Awareness** — the baseline this assessment sets for
   this skill.
 - Someone who applies style standards consistently without prompting is
-  already working above this level's baseline, at **2 — Intermediate**.
+  already working above this level's baseline, at **2 — Working**.
 
 ## About this role level
 
@@ -120,19 +117,18 @@ responsive to feedback; and see outside of the process.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Demonstrate experience" and "an awareness" describe
+Baseline: 1 — Awareness. "Demonstrate experience" and "an awareness" describe
 early exposure, and this level's overall accountability — basic checks and
 edits under supervision — does not support a higher bar for a discipline as
 broad as Agile working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a basic Agile tool or ceremony the team uses.
-- 1 — Beginner: Has worked in an Agile team, knows the common tools by name,
+- 1 — Awareness: Has worked in an Agile team, knows the common tools by name,
   and responds constructively when given feedback.
-- 2 — Intermediate: Explains to a colleague why the team uses a particular
+- 2 — Working: Explains to a colleague why the team uses a particular
   Agile method, not just what it is.
-- 3 — Advanced: Notices when the team's process is getting in the way of the
+- 3 — Practitioner: Notices when the team's process is getting in the way of the
   outcome and says so — already working towards junior content designer.
 - 4 — Expert: Coaches a team in Agile practice and decides the right
   approach for a project — well above this level.
@@ -147,10 +143,9 @@ broad as Agile working.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -165,19 +160,17 @@ collaborative environment, for example by pair working.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" and "explain why and when" are
+Baseline: 1 — Awareness. "Show an awareness" and "explain why and when" are
 understanding-level bullets, matching a trainee who has not yet built
 prototypes independently.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a content prototype is or why a team might
-  make one.
-- 1 — Beginner: Explains what prototyping is and gives a plausible reason to
+- 1 — Awareness: Explains what prototyping is and gives a plausible reason to
   use it, and has taken part in pair working.
-- 2 — Intermediate: Has helped build a simple prototype — a paper sketch or
+- 2 — Working: Has helped build a simple prototype — a paper sketch or
   similar — as part of a team.
-- 3 — Advanced: Chooses between prototyping techniques for a given problem
+- 3 — Practitioner: Chooses between prototyping techniques for a given problem
   and explains the choice — already working towards junior content designer.
 - 4 — Expert: Builds a range of prototypes independently and shows their
   value to a team — well above this level.
@@ -191,10 +184,9 @@ prototypes independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -209,19 +201,17 @@ relationships with them.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Understand" describes conceptual grasp rather than
+Baseline: 1 — Awareness. "Understand" describes conceptual grasp rather than
 active relationship management, which the framework does not expect
 independently until later levels.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name who the stakeholders are for a piece of content
-  work they have done.
-- 1 — Beginner: Names the stakeholders for a piece of work and explains, in
+- 1 — Awareness: Names the stakeholders for a piece of work and explains, in
   general terms, why the relationship with them matters.
-- 2 — Intermediate: Identifies what evidence a specific stakeholder would
+- 2 — Working: Identifies what evidence a specific stakeholder would
   find relevant, with some support.
-- 3 — Advanced: Communicates with a stakeholder directly and clearly on a
+- 3 — Practitioner: Communicates with a stakeholder directly and clearly on a
   straightforward matter — already working towards junior content designer.
 - 4 — Expert: Manages complex, long-term stakeholder relationships
   independently — well above this level.
@@ -237,10 +227,9 @@ independently until later levels.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -255,20 +244,18 @@ strategic planning in an administrative capacity.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" and "support... in an
+Baseline: 1 — Awareness. "Show an awareness" and "support... in an
 administrative capacity" describe a supporting, learning role rather than
 contributing to strategy itself.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why the content work they do connects to any wider
-  goal.
-- 1 — Beginner: Can explain, broadly, why their work matters to the team's
+- 1 — Awareness: Can explain, broadly, why their work matters to the team's
   wider goals, and has helped with administrative tasks around strategic
   planning, such as note-taking or collating input.
-- 2 — Intermediate: Connects a specific piece of their own work to a stated
+- 2 — Working: Connects a specific piece of their own work to a stated
   team goal without being told to.
-- 3 — Advanced: Contributes an idea to a strategic planning discussion that
+- 3 — Practitioner: Contributes an idea to a strategic planning discussion that
   gets taken up — already working towards junior content designer.
 - 4 — Expert: Leads strategic planning for content — well above this level.
 
@@ -283,10 +270,9 @@ contributing to strategy itself.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -301,19 +287,17 @@ stories and the focus on user needs.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" and "see the purpose" are
+Baseline: 1 — Awareness. "Show an awareness" and "see the purpose" are
 understanding-level bullets, consistent with a trainee who has not yet
 independently identified user needs from evidence.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a user story is or why it matters to
-  content.
-- 1 — Beginner: Explains, in general terms, what user experience analysis is
+- 1 — Awareness: Explains, in general terms, what user experience analysis is
   for and can describe the purpose of a user story.
-- 2 — Intermediate: Connects a specific user story to the content decision
+- 2 — Working: Connects a specific user story to the content decision
   it should influence, with some support.
-- 3 — Advanced: Independently identifies a user need from a piece of
+- 3 — Practitioner: Independently identifies a user need from a piece of
   evidence, such as feedback or a support ticket — already working towards
   junior content designer.
 - 4 — Expert: Gathers and synthesises user evidence to shape content
@@ -330,10 +314,9 @@ independently identified user needs from evidence.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -348,22 +331,20 @@ supervision.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the level's own most direct accountability —
+Baseline: 1 — Awareness. This is the level's own most direct accountability —
 "perform basic standard checks and copy edits" — so this is the one skill
 where a genuine trainee should already be doing real, if supervised, work,
-but "basic but decent" still describes Beginner rather than independent
+but "basic but decent" still describes Awareness rather than independent
 practice.
 
 **Behavioural indicators**
 
-- 0 — None: Misses obvious spelling, grammar or plain-language problems in a
-  short piece of copy.
-- 1 — Beginner: Performs a basic copy edit competently, and applies a named
+- 1 — Awareness: Performs a basic copy edit competently, and applies a named
   style rule when it is pointed out; works well when supervised.
-- 2 — Intermediate: Applies the organisation's style standards consistently
+- 2 — Working: Applies the organisation's style standards consistently
   without being reminded, and catches issues beyond spelling and grammar,
   such as unclear plain language.
-- 3 — Advanced: Writes original short-form content that meets style
+- 3 — Practitioner: Writes original short-form content that meets style
   standards with only light review — already working towards junior content
   designer.
 - 4 — Expert: Designs content to meet complex user needs independently,
@@ -379,10 +360,9 @@ practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -391,12 +371,12 @@ practice.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Agile working (content design) | 1 — Beginner | | |
-| Content concepts and prototyping | 1 — Beginner | | |
-| Stakeholder relationship management (content design) | 1 — Beginner | | |
-| Strategic thinking (content design) | 1 — Beginner | | |
-| User focus (content design) | 1 — Beginner | | |
-| User-centred content design | 1 — Beginner | | |
+| Agile working (content design) | 1 — Awareness | | |
+| Content concepts and prototyping | 1 — Awareness | | |
+| Stakeholder relationship management (content design) | 1 — Awareness | | |
+| Strategic thinking (content design) | 1 — Awareness | | |
+| User focus (content design) | 1 — Awareness | | |
+| User-centred content design | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

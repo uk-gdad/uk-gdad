@@ -69,25 +69,24 @@ characteristics, identity, or personal circumstances.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Data ethics and privacy.** At 1 — Beginner, a candidate
+**Worked example — Data ethics and privacy.** At 1 — Awareness, a candidate
 might describe checking a single project's data handling against a checklist
 someone else wrote, without being able to say why each check mattered. At 2 —
-Intermediate, they might describe working with stakeholders on one project to
+Working, they might describe working with stakeholders on one project to
 identify a privacy concern, but needing a more senior colleague to confirm how
-serious it was. At 3 — Advanced, they would describe independently researching
+serious it was. At 3 — Practitioner, they would describe independently researching
 a recent development in data ethics or privacy, and using it to constructively
 challenge a proposed policy before it was adopted — evidence that would
 justify a rating at this role level's baseline for that skill.
@@ -144,7 +143,7 @@ ethical diagnostics and assessment.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The bullets describe independent practice that already
+Baseline: 3 — Practitioner. The bullets describe independent practice that already
 supports other people's work — advising on technique choice and critiquing
 colleagues' findings — which is a strong, working command of the skill, one
 step below the "expertly" and organisation-wide language the framework uses
@@ -152,13 +151,11 @@ for this same skill at the head of data ethics level above.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot draw a clear finding from a small set of mixed evidence
-  without help.
-- 1 — Beginner: Summarises a single source accurately, but needs support
+- 1 — Awareness: Summarises a single source accurately, but needs support
   combining several sources into one finding.
-- 2 — Intermediate: Synthesises evidence from a few sources into a finding
+- 2 — Working: Synthesises evidence from a few sources into a finding
   that supports a decision on one project, with some guidance on structure.
-- 3 — Advanced: Independently synthesises complex, mixed evidence into a clear
+- 3 — Practitioner: Independently synthesises complex, mixed evidence into a clear
   finding, advises a colleague on which technique to use for their own
   analysis, and constructively critiques a colleague's draft findings.
 - 4 — Expert: Turns synthesis into a finding that shapes an
@@ -177,10 +174,9 @@ for this same skill at the head of data ethics level above.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -198,7 +194,7 @@ concepts.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The bullets ask for independent evaluation and
+Baseline: 3 — Practitioner. The bullets ask for independent evaluation and
 challenge of live projects and direct engagement with academics and external
 researchers, which is a strong, working command of the skill — but they stop
 short of the "strategic oversight" and published research the framework
@@ -206,13 +202,11 @@ expects one level up.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a social science concept to a specific data ethics
-  question.
-- 1 — Beginner: Names a relevant social science concept when prompted, but
+- 1 — Awareness: Names a relevant social science concept when prompted, but
   cannot yet apply it to a live project.
-- 2 — Intermediate: Applies a familiar social science framework to a data
+- 2 — Working: Applies a familiar social science framework to a data
   project, with some support.
-- 3 — Advanced: Independently applies theory from more than one discipline to
+- 3 — Practitioner: Independently applies theory from more than one discipline to
   evaluate and challenge an assumption in a live data science project, and
   engages directly with academics or external researchers on emerging
   thinking.
@@ -231,10 +225,9 @@ expects one level up.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -250,20 +243,18 @@ discussions within the team or with diverse senior stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Hosting difficult discussions with senior stakeholders
+Baseline: 3 — Practitioner. Hosting difficult discussions with senior stakeholders
 without support is independent, working-level command of the skill; the scope
 described stays internal to the organisation, which is what distinguishes it
 from the external representation the head of data ethics level takes on.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to interpret what a stakeholder actually needs from a
-  request.
-- 1 — Beginner: Interprets a straightforward stakeholder need accurately, with
+- 1 — Awareness: Interprets a straightforward stakeholder need accurately, with
   support.
-- 2 — Intermediate: Manages routine active and reactive communication with
+- 2 — Working: Manages routine active and reactive communication with
   stakeholders, escalating anything contentious.
-- 3 — Advanced: Independently hosts a difficult discussion with a senior
+- 3 — Practitioner: Independently hosts a difficult discussion with a senior
   stakeholder, manages their expectations, and reaches a workable outcome.
 - 4 — Expert: Moderates high-risk, time-constrained discussions and represents
   the organisation's position to large audiences outside it.
@@ -279,10 +270,9 @@ from the external representation the head of data ethics level takes on.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -302,7 +292,7 @@ implementing data ethics.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats this skill's wording unchanged
+Baseline: 3 — Practitioner. The framework repeats this skill's wording unchanged
 from the head of data ethics level above — this is one of the skills where the
 two levels are not differentiated in the text. Because the data ethics lead
 supports the head rather than owning data ethics organisation-wide, the
@@ -312,13 +302,11 @@ level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot follow a data science team's discussion of a technical bias
-  issue well enough to comment on it.
-- 1 — Beginner: Follows a technical explanation with help, but struggles to
+- 1 — Awareness: Follows a technical explanation with help, but struggles to
   restate it for a non-technical audience.
-- 2 — Intermediate: Translates a familiar technical concept accurately for a
+- 2 — Working: Translates a familiar technical concept accurately for a
   non-technical audience, with review.
-- 3 — Advanced: Holds a substantive conversation with data scientists or
+- 3 — Practitioner: Holds a substantive conversation with data scientists or
   engineers on a technical issue, such as bias in a dataset, translates it
   clearly for others, and gives the team practical support in implementing a
   data ethics change.
@@ -337,10 +325,9 @@ level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -358,7 +345,7 @@ data ethics policies.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Independently researching developments and
+Baseline: 3 — Practitioner. Independently researching developments and
 constructively challenging a proposed policy is a strong, working command of
 the skill; the bullets describe informing and challenging policy rather than
 owning and continuously improving an organisation-wide ethical framework,
@@ -366,13 +353,11 @@ which is the head of data ethics level's own accountability.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a project was checked for ethical or privacy
-  concerns.
-- 1 — Beginner: Applies an existing checklist to one project, with close
+- 1 — Awareness: Applies an existing checklist to one project, with close
   supervision.
-- 2 — Intermediate: Works with stakeholders to identify an ethical or privacy
+- 2 — Working: Works with stakeholders to identify an ethical or privacy
   concern on one project, with some guidance.
-- 3 — Advanced: Independently researches a recent development in data ethics
+- 3 — Practitioner: Independently researches a recent development in data ethics
   or privacy, and uses it to constructively challenge a proposed policy or
   approach before it is adopted.
 - 4 — Expert: Owns and continuously improves an organisation-wide ethical
@@ -389,10 +374,9 @@ which is the head of data ethics level's own accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -413,7 +397,7 @@ work.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats this skill's wording unchanged
+Baseline: 3 — Practitioner. The framework repeats this skill's wording unchanged
 from the head of data ethics level above. Because this level supports the
 head's organisation-wide diversity and inclusion plan rather than shaping it,
 the baseline sits one point below the level above's full mastery, while still
@@ -429,13 +413,11 @@ is.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a specific method for hearing from groups a
-  project would otherwise miss.
-- 1 — Beginner: Follows an existing outreach process to gather views from an
+- 1 — Awareness: Follows an existing outreach process to gather views from an
   underrepresented group, with support.
-- 2 — Intermediate: Draws on multidisciplinary knowledge to identify how a
+- 2 — Working: Draws on multidisciplinary knowledge to identify how a
   data system might affect a specific stakeholder group, with guidance.
-- 3 — Advanced: Independently designs and runs in-depth consultation or
+- 3 — Practitioner: Independently designs and runs in-depth consultation or
   outreach that reaches beyond the usual stakeholders, and can explain how a
   piece of feedback changed a specific product or policy decision.
 - 4 — Expert: Has shaped the organisation's own diversity and inclusion plan
@@ -455,10 +437,9 @@ is.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -474,7 +455,7 @@ methodologies in proportion to the risk.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats this skill's wording unchanged
+Baseline: 3 — Practitioner. The framework repeats this skill's wording unchanged
 from the head of data ethics level above. Working independently on a
 consequential risk and building consensus between two stakeholders is a
 strong, working command of the skill; leading a group through a
@@ -483,13 +464,11 @@ takes on, sits one point higher.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why one risk was treated more seriously than
-  another on a project.
-- 1 — Beginner: Applies a given risk methodology to a straightforward case,
+- 1 — Awareness: Applies a given risk methodology to a straightforward case,
   with supervision.
-- 2 — Intermediate: Selects an appropriate risk methodology for a moderately
+- 2 — Working: Selects an appropriate risk methodology for a moderately
   complex case, with some guidance.
-- 3 — Advanced: Works independently on a consequential risk, and builds
+- 3 — Practitioner: Works independently on a consequential risk, and builds
   consensus between two services or stakeholders with different priorities.
 - 4 — Expert: Leads a group of people through a complex, high-consequence risk
   decision to a good outcome, applying a proportionate methodology and
@@ -506,10 +485,9 @@ takes on, sits one point higher.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -525,7 +503,7 @@ measures.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework repeats this skill's wording
+Baseline: 2 — Working. The framework repeats this skill's wording
 unchanged from the head of data ethics level above, and even at that level the
 bullets are worded more operationally than the level's other skills. At this
 level, resolving a problem independently and documenting it is the expected
@@ -534,12 +512,10 @@ without being asked is the step this skill takes one level up.
 
 **Behavioural indicators**
 
-- 0 — None: Reacts to problems individually as they arise, with no attempt to
-  anticipate or prevent recurrence.
-- 1 — Beginner: Investigates a reported problem when asked, with supervision.
-- 2 — Intermediate: Investigates and resolves a straightforward data ethics
+- 1 — Awareness: Investigates a reported problem when asked, with supervision.
+- 2 — Working: Investigates and resolves a straightforward data ethics
   problem independently, and documents what was done.
-- 3 — Advanced: Co-ordinates colleagues through investigation, resolution and
+- 3 — Practitioner: Co-ordinates colleagues through investigation, resolution and
   preventive action on a data ethics problem, without needing to be asked.
 - 4 — Expert: Anticipates a class of problem before it occurs, and has put in
   place preventive measures that visibly reduced how often it recurred.
@@ -555,10 +531,9 @@ without being asked is the step this skill takes one level up.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -576,7 +551,7 @@ promotion.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording is more modest here
+Baseline: 2 — Working. The framework's own wording is more modest here
 than for the head of data ethics level's version of the same skill — "develop"
 rather than "define and create organisation-wide", and "demonstrate
 familiarity with" rather than "demonstrate expertise in" — which describes
@@ -584,13 +559,11 @@ guided, working-level practice rather than independent ownership.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a data ethics tool or resource they have
-  contributed to.
-- 1 — Beginner: Contributes to a tool someone else owns, with direction.
-- 2 — Intermediate: Develops a data ethics tool or resource for one team,
+- 1 — Awareness: Contributes to a tool someone else owns, with direction.
+- 2 — Working: Develops a data ethics tool or resource for one team,
   using a recognised product management approach and gathering feedback, with
   some support.
-- 3 — Advanced: Owns a data ethics tool used across more than one team, and
+- 3 — Practitioner: Owns a data ethics tool used across more than one team, and
   adapts the way of working when evidence shows it is needed.
 - 4 — Expert: Defines and creates organisation-wide data ethics tools,
   translates a theoretical principle into something people actually use, and
@@ -608,10 +581,9 @@ guided, working-level practice rather than independent ownership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -629,7 +601,7 @@ stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The bullets describe independently identifying and
+Baseline: 3 — Practitioner. The bullets describe independently identifying and
 resolving stakeholder issues and building long-term strategic relationships —
 a strong, working command of the skill — but they are framed as working with
 the team on strategy and understanding, rather than the level above's own
@@ -638,12 +610,10 @@ stakeholders on the organisation's behalf.
 
 **Behavioural indicators**
 
-- 0 — None: Manages individual stakeholder interactions with no wider plan
-  behind them.
-- 1 — Beginner: Follows a stakeholder plan someone else set, with support.
-- 2 — Intermediate: Works with the team to maintain an understanding of a
+- 1 — Awareness: Follows a stakeholder plan someone else set, with support.
+- 2 — Working: Works with the team to maintain an understanding of a
   defined set of stakeholders, with some guidance.
-- 3 — Advanced: Independently implements a stakeholder communications
+- 3 — Practitioner: Independently implements a stakeholder communications
   strategy, identifies and resolves an issue without escalating it, and builds
   a long-term strategic relationship with at least one stakeholder.
 - 4 — Expert: Directs the stakeholder relationship strategy across their teams
@@ -661,10 +631,9 @@ stakeholders on the organisation's behalf.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -673,16 +642,16 @@ stakeholders on the organisation's behalf.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Analysis and synthesis (data ethics) | 3 — Advanced | | |
-| Applied social sciences | 3 — Advanced | | |
-| Communicating between the technical and non-technical | 3 — Advanced | | |
-| Communication (data ethics) | 3 — Advanced | | |
-| Data ethics and privacy | 3 — Advanced | | |
-| Empathy and inclusivity | 3 — Advanced | | |
-| Managing decisions and risks | 3 — Advanced | | |
-| Problem management | 2 — Intermediate | | |
-| Product ownership (data ethics) | 2 — Intermediate | | |
-| Stakeholder relationship management | 3 — Advanced | | |
+| Analysis and synthesis (data ethics) | 3 — Practitioner | | |
+| Applied social sciences | 3 — Practitioner | | |
+| Communicating between the technical and non-technical | 3 — Practitioner | | |
+| Communication (data ethics) | 3 — Practitioner | | |
+| Data ethics and privacy | 3 — Practitioner | | |
+| Empathy and inclusivity | 3 — Practitioner | | |
+| Managing decisions and risks | 3 — Practitioner | | |
+| Problem management | 2 — Working | | |
+| Product ownership (data ethics) | 2 — Working | | |
+| Stakeholder relationship management | 3 — Practitioner | | |
 
 The baseline is normally met when every skill is rated at or above its
 baseline target. One or two skills below target is not automatically a fail:

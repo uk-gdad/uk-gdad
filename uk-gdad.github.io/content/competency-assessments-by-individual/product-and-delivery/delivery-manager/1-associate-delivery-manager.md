@@ -49,15 +49,14 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it or
 how they feel about it.
@@ -112,20 +111,18 @@ the work of the team.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Demonstrate experience... in practice" and
+Baseline: 2 — Working. "Demonstrate experience... in practice" and
 "starting to use [tools] intelligently" describe real, if guided, hands-on
-practice rather than pure knowledge, so the baseline sits above Beginner.
+practice rather than pure knowledge, so the baseline sits above Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe an Agile principle or name a tool used to make
-  team work visible.
-- 1 — Beginner: Can describe Agile principles from study, but has not applied
+- 1 — Awareness: Can describe Agile principles from study, but has not applied
   them on a real team.
-- 2 — Intermediate: Has applied Agile principles on a real, if small or
+- 2 — Working: Has applied Agile principles on a real, if small or
   supervised, team, used a tool such as a task board to make the team's work
   visible, and can explain why that visibility mattered.
-- 3 — Advanced: Not expected at this level. Comparing and selecting the most
+- 3 — Practitioner: Not expected at this level. Comparing and selecting the most
   appropriate delivery methods for a context belongs to a later level.
 - 4 — Expert: Not expected at this level.
 
@@ -140,10 +137,9 @@ practice rather than pure knowledge, so the baseline sits above Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -159,20 +155,18 @@ third parties should be brought into digital, data and technology projects.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Understand" describes knowledge, and even "act as
+Baseline: 1 — Awareness. "Understand" describes knowledge, and even "act as
 the point of contact" is a narrow, procedural task rather than independent
 commercial judgement, so the baseline sits low.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why a project might need to work with a
-  contracted supplier.
-- 1 — Beginner: Can describe, in general terms, when a third party might be
+- 1 — Awareness: Can describe, in general terms, when a third party might be
   brought into a project, and knows who the internal commercial contacts are
   in their organisation.
-- 2 — Intermediate: Has acted as the day-to-day point of contact for a
+- 2 — Working: Has acted as the day-to-day point of contact for a
   supplier on a small piece of work, under guidance.
-- 3 — Advanced: Not expected at this level. Taking responsibility for complex
+- 3 — Practitioner: Not expected at this level. Taking responsibility for complex
   supplier relationships belongs to a later level.
 - 4 — Expert: Not expected at this level.
 
@@ -187,10 +181,9 @@ commercial judgement, so the baseline sits low.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -207,20 +200,18 @@ perspectives.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Support and host discussions" and "be an
+Baseline: 2 — Working. "Support and host discussions" and "be an
 advocate" describe real, active participation, though "support" signals this
 is not yet done fully independently.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to explain a technical concept to a non-technical
-  audience or vice versa.
-- 1 — Beginner: Can communicate simple, low-stakes information clearly to
+- 1 — Awareness: Can communicate simple, low-stakes information clearly to
   both technical and non-technical people.
-- 2 — Intermediate: Has supported or co-hosted a discussion within a
+- 2 — Working: Has supported or co-hosted a discussion within a
   multidisciplinary team, including one with some tension in it, and has
   spoken up for the team's position to someone outside it.
-- 3 — Advanced: Not expected at this level. Independently mediating
+- 3 — Practitioner: Not expected at this level. Independently mediating
   high-stakes discussions and moderating difficult conversations belongs to a
   later level.
 - 4 — Expert: Not expected at this level.
@@ -236,10 +227,9 @@ is not yet done fully independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -253,19 +243,18 @@ of the work they do and how cost and budgets are created.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only for understanding at this
+Baseline: 1 — Awareness. The framework asks only for understanding at this
 level — there is no accountability yet for monitoring or reporting on a
 budget.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why the team's work has a cost.
-- 1 — Beginner: Can describe, in general terms, how the team's work
+- 1 — Awareness: Can describe, in general terms, how the team's work
   translates into cost, and has some awareness of how a budget is put
   together.
-- 2 — Intermediate: Not expected at this level. Balancing cost against value
+- 2 — Working: Not expected at this level. Balancing cost against value
   or monitoring a budget belongs to a later level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -279,10 +268,9 @@ budget.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -298,18 +286,17 @@ responds to them.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only for explanation at this
+Baseline: 1 — Awareness. The framework asks only for explanation at this
 level, not for managing a product or service through a phase.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the phases of a product or service life cycle.
-- 1 — Beginner: Can name the phases of a typical life cycle (for example
+- 1 — Awareness: Can name the phases of a typical life cycle (for example
   discovery, alpha, beta, live) and give a general description of what each
   is for.
-- 2 — Intermediate: Not expected at this level. Managing delivery through a
+- 2 — Working: Not expected at this level. Managing delivery through a
   phase with some support belongs to a later level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -323,10 +310,9 @@ level, not for managing a product or service through a phase.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -344,21 +330,19 @@ the work of a team.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a substantial list of active verbs for a
+Baseline: 2 — Working. This is a substantial list of active verbs for a
 first-level role, but every one of them is bounded to internal risks and a
 small or mature team — real applied practice within a supported, contained
 scope.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a risk, issue or dependency is in a delivery
-  context.
-- 1 — Beginner: Can identify a risk or dependency when pointed at it, but has
+- 1 — Awareness: Can identify a risk or dependency when pointed at it, but has
   not tracked or escalated one independently.
-- 2 — Intermediate: Has tracked a dependency, flagged a risk and known when to
+- 2 — Working: Has tracked a dependency, flagged a risk and known when to
   escalate it, and has helped set or maintain a sustainable team cadence, on a
   small or mature team.
-- 3 — Advanced: Not expected at this level. Facilitating delivery flow across
+- 3 — Practitioner: Not expected at this level. Facilitating delivery flow across
   a team and handling risks with ownership outside the team belongs to a later
   level.
 - 4 — Expert: Not expected at this level.
@@ -374,10 +358,9 @@ scope.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -392,19 +375,17 @@ them, and to support teams in establishing a process.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Guide", "help" and "support" describe assisting an
+Baseline: 1 — Awareness. "Guide", "help" and "support" describe assisting an
 existing process rather than independently diagnosing or designing one.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the difference between a team's process and its
-  output.
-- 1 — Beginner: Can explain why a team should focus on its output rather than
+- 1 — Awareness: Can explain why a team should focus on its output rather than
   rigidly following a process, and has supported a team in following an
   established process.
-- 2 — Intermediate: Not expected at this level. Identifying and challenging
+- 2 — Working: Not expected at this level. Identifying and challenging
   overly complex organisational processes belongs to a later level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -418,10 +399,9 @@ existing process rather than independently diagnosing or designing one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -436,17 +416,16 @@ develop a plan.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only for understanding and
+Baseline: 1 — Awareness. The framework asks only for understanding and
 awareness, not for producing or owning a plan.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why planning matters to a delivery team.
-- 1 — Beginner: Can explain why planning and forecasting matter, and can name
+- 1 — Awareness: Can explain why planning and forecasting matter, and can name
   more than one way a team might develop a plan.
-- 2 — Intermediate: Not expected at this level. Using data to inform planning
+- 2 — Working: Not expected at this level. Using data to inform planning
   and managing dependencies belongs to a later level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -460,10 +439,9 @@ awareness, not for producing or owning a plan.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -478,18 +456,17 @@ importance of feedback.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only for explanation and
+Baseline: 1 — Awareness. The framework asks only for explanation and
 understanding — this level is not yet accountable for shaping a team's
 dynamics itself.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why team dynamics or feedback matter to delivery.
-- 1 — Beginner: Can explain, in general terms, why healthy team dynamics and
+- 1 — Awareness: Can explain, in general terms, why healthy team dynamics and
   regular feedback help a team deliver.
-- 2 — Intermediate: Not expected at this level. Actively bringing people
+- 2 — Working: Not expected at this level. Actively bringing people
   together to form a motivated team belongs to a later level.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -502,10 +479,9 @@ dynamics itself.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -514,15 +490,15 @@ dynamics itself.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Agile and Lean practices | 2 — Intermediate | | |
-| Commercial management | 1 — Beginner | | |
-| Communicating between the technical and non-technical | 2 — Intermediate | | |
-| Financial management | 1 — Beginner | | |
-| Life cycle management | 1 — Beginner | | |
-| Maintaining delivery momentum | 2 — Intermediate | | |
-| Making a process work | 1 — Beginner | | |
-| Planning | 1 — Beginner | | |
-| Team dynamics and collaboration | 1 — Beginner | | |
+| Agile and Lean practices | 2 — Working | | |
+| Commercial management | 1 — Awareness | | |
+| Communicating between the technical and non-technical | 2 — Working | | |
+| Financial management | 1 — Awareness | | |
+| Life cycle management | 1 — Awareness | | |
+| Maintaining delivery momentum | 2 — Working | | |
+| Making a process work | 1 — Awareness | | |
+| Planning | 1 — Awareness | | |
+| Team dynamics and collaboration | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

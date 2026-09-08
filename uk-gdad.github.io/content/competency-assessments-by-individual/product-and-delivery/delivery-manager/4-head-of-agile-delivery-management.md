@@ -49,15 +49,14 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it or
 how they feel about it.
@@ -136,12 +135,10 @@ level's own defining accountability.
 
 **Behavioural indicators**
 
-- 0 — None: Has never coached another delivery manager or team in Agile or
-  Lean practice.
-- 1 — Beginner: Applies an Agile approach chosen by someone else.
-- 2 — Intermediate: Independently applies Agile principles within their own
+- 1 — Awareness: Applies an Agile approach chosen by someone else.
+- 2 — Working: Independently applies Agile principles within their own
   team.
-- 3 — Advanced: Independently compares and selects the most appropriate
+- 3 — Practitioner: Independently compares and selects the most appropriate
   method for a team's context.
 - 4 — Expert: Coaches and leads teams across the delivery management
   community, sets and evolves Agile and Lean good practice as part of
@@ -159,10 +156,9 @@ level's own defining accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -184,12 +180,10 @@ building other people's capability to do the same.
 
 **Behavioural indicators**
 
-- 0 — None: Has never resolved a large or high-risk commercial management
-  issue.
-- 1 — Beginner: Acts as a point of contact for a straightforward supplier
+- 1 — Awareness: Acts as a point of contact for a straightforward supplier
   relationship.
-- 2 — Intermediate: Manages supplier relationships independently.
-- 3 — Advanced: Takes responsibility for a complex supplier relationship and
+- 2 — Working: Manages supplier relationships independently.
+- 3 — Practitioner: Takes responsibility for a complex supplier relationship and
   negotiates it independently.
 - 4 — Expert: Is the escalation point for large or high-risk commercial
   management issues across the delivery function, resolves them, and coaches
@@ -205,10 +199,9 @@ building other people's capability to do the same.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -234,11 +227,9 @@ the community to large audiences concretely means here.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to explain a technical concept to a non-technical
-  audience or vice versa.
-- 1 — Beginner: Communicates simple, low-stakes information clearly.
-- 2 — Intermediate: Supports discussions within a multidisciplinary team.
-- 3 — Advanced: Independently hosts a difficult discussion involving senior
+- 1 — Awareness: Communicates simple, low-stakes information clearly.
+- 2 — Working: Supports discussions within a multidisciplinary team.
+- 3 — Practitioner: Independently hosts a difficult discussion involving senior
   stakeholders on their own team's work.
 - 4 — Expert: Mediates and strengthens relationships across stakeholders at
   every level, moderates high-risk discussions under time pressure, and
@@ -257,10 +248,9 @@ the community to large audiences concretely means here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -275,19 +265,17 @@ cases and communicate business-value propositions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording is unchanged from the senior
+Baseline: 3 — Practitioner. The framework's wording is unchanged from the senior
 delivery manager level, so the baseline holds steady — this level's growth in
 accountability shows up more clearly in Commercial management, Life cycle
 management and Team dynamics and collaboration than here.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what goes into a business case or budget
-  negotiation.
-- 1 — Beginner: Monitors and reports on a budget set by someone else.
-- 2 — Intermediate: Balances cost against value in day-to-day delivery
+- 1 — Awareness: Monitors and reports on a budget set by someone else.
+- 2 — Working: Balances cost against value in day-to-day delivery
   decisions.
-- 3 — Advanced: Negotiates, influences or sets a budget in a complex
+- 3 — Practitioner: Negotiates, influences or sets a budget in a complex
   environment, and writes or contributes meaningfully to a business case at
   organisational scale.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -304,10 +292,9 @@ management and Team dynamics and collaboration than here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -331,11 +318,9 @@ capability-building role this level's own description names.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how life cycle risks should be predicted or
-  managed proactively.
-- 1 — Beginner: Manages delivery through a phase with significant support.
-- 2 — Intermediate: Manages delivery through a phase with some support.
-- 3 — Advanced: Independently manages a product or service through the life
+- 1 — Awareness: Manages delivery through a phase with significant support.
+- 2 — Working: Manages delivery through a phase with some support.
+- 3 — Practitioner: Independently manages a product or service through the life
   cycle and adapts approach as new information emerges.
 - 4 — Expert: Leads and coaches multiple teams through life cycle phases,
   predicts and manages risk proactively rather than reactively, and
@@ -353,10 +338,9 @@ capability-building role this level's own description names.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -379,13 +363,11 @@ scope.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what affects delivery flow across more than one
-  team.
-- 1 — Beginner: Tracks a dependency or risk within their own team, with
+- 1 — Awareness: Tracks a dependency or risk within their own team, with
   support.
-- 2 — Intermediate: Tracks and manages risks and dependencies within their
+- 2 — Working: Tracks and manages risks and dependencies within their
   own team independently.
-- 3 — Advanced: Facilitates their own team's delivery flow and addresses
+- 3 — Practitioner: Facilitates their own team's delivery flow and addresses
   risks owned outside the team.
 - 4 — Expert: Optimises delivery flow across the whole function or
   department, resolves the most complicated, ownerless risks and issues, and
@@ -401,10 +383,9 @@ scope.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -421,18 +402,16 @@ process.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording is unchanged from the senior
+Baseline: 3 — Practitioner. The framework's wording is unchanged from the senior
 delivery manager level, so the baseline holds steady — this level's growth in
 accountability shows up more clearly in the skills tied directly to
 representing and building the community than here.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify a process that is getting in the way of a team's
-  output.
-- 1 — Beginner: Supports a team in following an established process.
-- 2 — Intermediate: Helps a team adapt its own process, with some support.
-- 3 — Advanced: Identifies and challenges an unnecessarily complicated
+- 1 — Awareness: Supports a team in following an established process.
+- 2 — Working: Helps a team adapt its own process, with some support.
+- 3 — Practitioner: Identifies and challenges an unnecessarily complicated
   organisational process, coaches the organisation to inspect and adapt it,
   and guides teams through implementing a new one across the department.
 - 4 — Expert: Not distinctly expected at this level by the framework's own
@@ -449,10 +428,9 @@ representing and building the community than here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -475,10 +453,9 @@ directly.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a dependency that spans more than one service.
-- 1 — Beginner: Contributes to a plan with support.
-- 2 — Intermediate: Manages complex dependencies for their own team's plan.
-- 3 — Advanced: Independently prioritises high-value work using data and
+- 1 — Awareness: Contributes to a plan with support.
+- 2 — Working: Manages complex dependencies for their own team's plan.
+- 3 — Practitioner: Independently prioritises high-value work using data and
   removes blockers affecting their own team's plan.
 - 4 — Expert: Leads a continual planning process across a very complex,
   department-wide environment, co-ordinates dependencies across services, and
@@ -496,10 +473,9 @@ directly.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -528,11 +504,9 @@ this role.
 
 **Behavioural indicators**
 
-- 0 — None: Has never changed an organisational structure or led strategy at
-  organisational level.
-- 1 — Beginner: Identifies a team dynamics issue when pointed out.
-- 2 — Intermediate: Notices and raises team dynamics issues independently.
-- 3 — Advanced: Identifies and rectifies dynamics issues within their own
+- 1 — Awareness: Identifies a team dynamics issue when pointed out.
+- 2 — Working: Notices and raises team dynamics issues independently.
+- 3 — Practitioner: Identifies and rectifies dynamics issues within their own
   teams, using structured tools such as health checks.
 - 4 — Expert: Changes organisational structures into sustainable designs,
   leads strategy for an entire organisation, makes and justifies decisions
@@ -552,10 +526,9 @@ this role.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -567,10 +540,10 @@ this role.
 | Agile and Lean practices | 4 — Expert | | |
 | Commercial management | 4 — Expert | | |
 | Communicating between the technical and non-technical | 4 — Expert | | |
-| Financial management | 3 — Advanced | | |
+| Financial management | 3 — Practitioner | | |
 | Life cycle management | 4 — Expert | | |
 | Maintaining delivery momentum | 4 — Expert | | |
-| Making a process work | 3 — Advanced | | |
+| Making a process work | 3 — Practitioner | | |
 | Planning | 4 — Expert | | |
 | Team dynamics and collaboration | 4 — Expert | | |
 

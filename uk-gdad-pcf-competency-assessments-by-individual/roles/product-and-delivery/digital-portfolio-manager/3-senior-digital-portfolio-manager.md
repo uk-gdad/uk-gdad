@@ -49,17 +49,16 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale.
+Every skill in the competency matrix is rated on the same four-point scale.
 This is a **proficiency** scale: it rates how well someone does the thing,
 on the evidence available, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Planning.** At 1, a person can explain why a portfolio
 plan matters and has helped build part of one under close supervision, but
@@ -111,7 +110,7 @@ quickly.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework repeats this skill's wording
+Baseline: 2 — Working. The framework repeats this skill's wording
 unchanged from the entry level — it is still "show an awareness" and
 "explain why" rather than a description that grows with seniority. The
 baseline still moves up one point here, not because this skill's own text
@@ -122,15 +121,13 @@ someone still learning what they are.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what an iterative or Agile approach is, or has no
-  experience working in a team that used one.
-- 1 — Beginner: Can explain why working iteratively helps a portfolio, and
+- 1 — Awareness: Can explain why working iteratively helps a portfolio, and
   has taken part in Agile ceremonies as a team member under someone else's
   facilitation.
-- 2 — Intermediate: Applies Agile principles to their own work without
+- 2 — Working: Applies Agile principles to their own work without
   prompting, and adjusts a team's working pattern based on what a
   retrospective surfaced.
-- 3 — Advanced: Adapts an Agile approach to a portfolio's specific
+- 3 — Practitioner: Adapts an Agile approach to a portfolio's specific
   constraints, and helps more than one team move from a rigid plan to an
   iterative one when circumstances change.
 - 4 — Expert: Coaches other portfolio staff on applying Agile principles, and
@@ -147,10 +144,9 @@ someone still learning what they are.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -168,21 +164,19 @@ recommendations.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework has dropped "with support" entirely and
+Baseline: 3 — Practitioner. The framework has dropped "with support" entirely and
 added "share... skills with the team and across government" and "strategic
 recommendations" — independent, complex communication work that goes beyond
 this level's own portfolio, which matches an advanced rating.
 
 **Behavioural indicators**
 
-- 0 — None: Has not produced or presented any analysis of portfolio data to
-  another person.
-- 1 — Beginner: Has put together a status update with a more senior
+- 1 — Awareness: Has put together a status update with a more senior
   colleague checking it before it goes to a stakeholder.
-- 2 — Intermediate: Chooses the right format and level of detail for the
+- 2 — Working: Chooses the right format and level of detail for the
   audience unprompted, but sticks to reporting what has happened rather than
   recommending what to do about it.
-- 3 — Advanced: Turns complex, messy portfolio data into a clear story
+- 3 — Practitioner: Turns complex, messy portfolio data into a clear story
   unaided, delivers difficult news to a stakeholder without it landing
   badly, and gives recommendations that shape a decision.
 - 4 — Expert: Is asked by colleagues beyond their own department to help
@@ -201,10 +195,9 @@ this level's own portfolio, which matches an advanced rating.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -219,7 +212,7 @@ assurance processes, and to support others in following or applying them.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Develop... processes" and "support others" are a
+Baseline: 2 — Working. "Develop... processes" and "support others" are a
 real step up from the level below's "explain" and "follow", but the framework
 does not yet describe owning governance across more than one portfolio or
 setting the wider standard — that sits with the level above — so an
@@ -227,14 +220,12 @@ intermediate baseline fits.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a governance process such as a stage gate
-  or a project board is for.
-- 1 — Beginner: Follows an existing governance process correctly when told
+- 1 — Awareness: Follows an existing governance process correctly when told
   to, but has not designed or changed one.
-- 2 — Intermediate: Develops a governance process fitted to a specific
+- 2 — Working: Develops a governance process fitted to a specific
   portfolio's size and risk, and helps a colleague understand how to apply
   it.
-- 3 — Advanced: Spots a systemic weakness in how governance is being applied
+- 3 — Practitioner: Spots a systemic weakness in how governance is being applied
   across a portfolio, and gets a recommended improvement adopted.
 - 4 — Expert: Sets or reviews governance standards across more than one
   portfolio, and other senior portfolio managers seek their advice.
@@ -250,10 +241,9 @@ intermediate baseline fits.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -271,20 +261,18 @@ appropriately for their capacity.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Six substantive bullets describing independent,
+Baseline: 3 — Practitioner. Six substantive bullets describing independent,
 complex work — managing dependencies, removing blockers, developing plans for
 difficult situations — none of which need close guidance, which matches an
 advanced rating.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe having planned or prioritised work across more
-  than a single task.
-- 1 — Beginner: Has helped build part of a plan for a small piece of work,
+- 1 — Awareness: Has helped build part of a plan for a small piece of work,
   with someone more senior checking the result.
-- 2 — Intermediate: Prioritises tasks within a project using data, with some
+- 2 — Working: Prioritises tasks within a project using data, with some
   guidance on how the pieces fit together across the wider portfolio.
-- 3 — Advanced: Manages dependencies across several projects unaided,
+- 3 — Practitioner: Manages dependencies across several projects unaided,
   removes a blocker before it derails a delivery date, and can give
   stakeholders confidence in a plan even when the situation is genuinely
   difficult.
@@ -303,10 +291,9 @@ advanced rating.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -323,21 +310,19 @@ build long-term strategic relationships, communicating clearly and regularly.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Identify and resolve issues, influence
+Baseline: 3 — Practitioner. "Identify and resolve issues, influence
 stakeholders" and "build long-term strategic relationships" describe
 independent, effective relationship management that goes beyond the entry
 level's "build and reach consensus", so the baseline moves up to advanced.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the stakeholders on a portfolio they have been part
-  of.
-- 1 — Beginner: Communicates with stakeholders when told to, but has not
+- 1 — Awareness: Communicates with stakeholders when told to, but has not
   led a stakeholder communications approach.
-- 2 — Intermediate: Works with the team to build a stakeholder
+- 2 — Working: Works with the team to build a stakeholder
   communications strategy, and tailors messages to different audiences
   without prompting.
-- 3 — Advanced: Resolves a stakeholder issue by influencing them directly,
+- 3 — Practitioner: Resolves a stakeholder issue by influencing them directly,
   rather than escalating it, and sustains a long-term relationship with a
   senior stakeholder across more than one piece of work.
 - 4 — Expert: Is asked to lead or rescue a relationship with a difficult
@@ -354,10 +339,9 @@ level's "build and reach consensus", so the baseline moves up to advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -372,21 +356,19 @@ development of strategy and policies.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Contribute to the development of strategy and
+Baseline: 2 — Working. "Contribute to the development of strategy and
 policies" is a genuine step beyond the entry level's administrative support,
 but it stops short of setting strategic direction, which is why the baseline
 sits at intermediate rather than advanced.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain how the portfolio they work on connects to any
-  wider organisational goal.
-- 1 — Beginner: Can explain why their work matters to the wider strategy,
+- 1 — Awareness: Can explain why their work matters to the wider strategy,
   but has only supported strategic planning administratively.
-- 2 — Intermediate: Communicates how portfolio activities meet strategic
+- 2 — Working: Communicates how portfolio activities meet strategic
   goals to others, and contributes original input to a strategy or policy
   document.
-- 3 — Advanced: Shapes part of a strategy or policy, and makes the case for
+- 3 — Practitioner: Shapes part of a strategy or policy, and makes the case for
   a portfolio-level change that supports a wider organisational goal.
 - 4 — Expert: Sets strategic direction for a portfolio function and
   represents that thinking to senior leadership.
@@ -402,10 +384,9 @@ sits at intermediate rather than advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -414,12 +395,12 @@ sits at intermediate rather than advanced.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Agile working | 2 — Intermediate | | |
-| Communicating analysis and insight | 3 — Advanced | | |
-| Governance and assurance | 2 — Intermediate | | |
-| Planning | 3 — Advanced | | |
-| Stakeholder relationship management | 3 — Advanced | | |
-| Strategic thinking | 2 — Intermediate | | |
+| Agile working | 2 — Working | | |
+| Communicating analysis and insight | 3 — Practitioner | | |
+| Governance and assurance | 2 — Working | | |
+| Planning | 3 — Practitioner | | |
+| Stakeholder relationship management | 3 — Practitioner | | |
+| Strategic thinking | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

@@ -51,11 +51,10 @@ still building.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well someone does the thing, on the evidence available, not how often they do it.
 
@@ -79,14 +78,13 @@ The framework expects a senior application operations engineer to maintain secur
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this particular skill is unchanged from the level below, and still describes maintaining and verifying records for "one or more areas" rather than setting standards across the wider service, so Intermediate remains the right baseline for this skill specifically, even though other skills at this level move further.
+Baseline: 2 — Working. The framework's wording for this particular skill is unchanged from the level below, and still describes maintaining and verifying records for "one or more areas" rather than setting standards across the wider service, so Working remains the right baseline for this skill specifically, even though other skills at this level move further.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a configuration record is for, or has never reconciled one against reality.
-- 1 — Beginner: Updates a configuration record accurately only when told exactly what to change.
-- 2 — Intermediate: Maintains accurate configuration and asset records for one or more areas unprompted, and verifies location and state before and after a deployment or change.
-- 3 — Advanced: Maintains configuration accuracy across a complex, multi-component application, and catches discrepancies that would otherwise surface as an incident during a go-live.
+- 1 — Awareness: Updates a configuration record accurately only when told exactly what to change.
+- 2 — Working: Maintains accurate configuration and asset records for one or more areas unprompted, and verifies location and state before and after a deployment or change.
+- 3 — Practitioner: Maintains configuration accuracy across a complex, multi-component application, and catches discrepancies that would otherwise surface as an incident during a go-live.
 - 4 — Expert: Owns configuration accuracy standards for the wider service and is the reference point when records and reality persistently disagree.
 
 **Evidence to gather**
@@ -97,10 +95,9 @@ Baseline: 2 — Intermediate. The framework's wording for this particular skill 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -113,14 +110,13 @@ The framework expects a senior application operations engineer to manage service
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording still describes hands-on management of components against agreed KPIs rather than setting targets across services, so Intermediate is the right reading, though a senior engineer is expected to apply it to more complex or higher-impact services than the level below.
+Baseline: 2 — Working. The wording still describes hands-on management of components against agreed KPIs rather than setting targets across services, so Working is the right reading, though a senior engineer is expected to apply it to more complex or higher-impact services than the level below.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what KPI applies to a component they support.
-- 1 — Beginner: Reads KPI figures with help interpreting what they mean.
-- 2 — Intermediate: Manages service components against agreed KPIs, including through periods of change or deployment, and takes routine corrective action to keep them within target.
-- 3 — Advanced: Anticipates the availability or capacity impact of a planned deployment before it happens and adjusts the plan accordingly.
+- 1 — Awareness: Reads KPI figures with help interpreting what they mean.
+- 2 — Working: Manages service components against agreed KPIs, including through periods of change or deployment, and takes routine corrective action to keep them within target.
+- 3 — Practitioner: Anticipates the availability or capacity impact of a planned deployment before it happens and adjusts the plan accordingly.
 - 4 — Expert: Sets availability and capacity targets for a service and is consulted when other teams plan high-impact changes.
 
 **Evidence to gather**
@@ -130,10 +126,9 @@ Baseline: 2 — Intermediate. The wording still describes hands-on management of
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -146,14 +141,13 @@ The framework expects a senior application operations engineer to analyse and as
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is the accountability that most directly defines the level — the level description itself names being "responsible for code deployment and co-ordinating change-based activities, such as taking services live" — and analysing and assessing impact, documenting requests, and actioning changes describe independent, judgement-based work rather than following someone else's assessment, so Advanced fits.
+Baseline: 3 — Practitioner. This is the accountability that most directly defines the level — the level description itself names being "responsible for code deployment and co-ordinating change-based activities, such as taking services live" — and analysing and assessing impact, documenting requests, and actioning changes describe independent, judgement-based work rather than following someone else's assessment, so Practitioner fits.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what an impact assessment for a change would need to cover.
-- 1 — Beginner: Completes a change request document when given a template and a worked example to follow.
-- 2 — Intermediate: Documents and actions straightforward change requests correctly, with someone else assessing the impact.
-- 3 — Advanced: Analyses and assesses the impact of a change themselves, documents the change request accurately, and actions it — including co-ordinating a go-live where several components or teams are affected.
+- 1 — Awareness: Completes a change request document when given a template and a worked example to follow.
+- 2 — Working: Documents and actions straightforward change requests correctly, with someone else assessing the impact.
+- 3 — Practitioner: Analyses and assesses the impact of a change themselves, documents the change request accurately, and actions it — including co-ordinating a go-live where several components or teams are affected.
 - 4 — Expert: Is trusted to assess impact and co-ordinate change across the most complex or highest-risk deployments, and improves the change process itself.
 
 **Evidence to gather**
@@ -164,10 +158,9 @@ Baseline: 3 — Advanced. This is the accountability that most directly defines 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -180,14 +173,13 @@ The framework expects a senior application operations engineer to diagnose and p
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Diagnose", "investigate causes" and "find resolutions" describe independent diagnostic work with more complex issues, matching the level description's own framing of dealing with more complex issues than the level below, so Advanced is the right baseline.
+Baseline: 3 — Practitioner. "Diagnose", "investigate causes" and "find resolutions" describe independent diagnostic work with more complex issues, matching the level description's own framing of dealing with more complex issues than the level below, so Practitioner is the right baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot distinguish a symptom from a cause in an incident.
-- 1 — Beginner: Diagnoses a straightforward, familiar incident with guidance.
-- 2 — Intermediate: Diagnoses and prioritises routine incidents unsupervised, and finds a working resolution for straightforward cases.
-- 3 — Advanced: Diagnoses and prioritises complex or unfamiliar incidents, investigates the root cause rather than just the symptom, and finds a resolution without needing to escalate.
+- 1 — Awareness: Diagnoses a straightforward, familiar incident with guidance.
+- 2 — Working: Diagnoses and prioritises routine incidents unsupervised, and finds a working resolution for straightforward cases.
+- 3 — Practitioner: Diagnoses and prioritises complex or unfamiliar incidents, investigates the root cause rather than just the symptom, and finds a resolution without needing to escalate.
 - 4 — Expert: Is someone others escalate the hardest incidents to, and improves how the team diagnoses and resolves incidents generally.
 
 **Evidence to gather**
@@ -198,10 +190,9 @@ Baseline: 3 — Advanced. "Diagnose", "investigate causes" and "find resolutions
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -214,14 +205,13 @@ The framework expects a senior application operations engineer to own an issue u
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is unchanged from the level below, so the baseline stays where that wording places it — consistently holding an issue through to resolution or handover — even though this level's other skills move further.
+Baseline: 2 — Working. The framework's wording for this skill is unchanged from the level below, so the baseline stays where that wording places it — consistently holding an issue through to resolution or handover — even though this level's other skills move further.
 
 **Behavioural indicators**
 
-- 0 — None: Drops an issue once it becomes inconvenient to keep chasing.
-- 1 — Beginner: Holds an issue for a short period but needs reminding to see it through.
-- 2 — Intermediate: Consistently holds an issue — including through a complex change or deployment — until it is mitigated, resolved, or properly handed to a new owner.
-- 3 — Advanced: Proactively chases issues that cross team or system boundaries, and prevents ownership gaps during high-risk activity such as a go-live.
+- 1 — Awareness: Holds an issue for a short period but needs reminding to see it through.
+- 2 — Working: Consistently holds an issue — including through a complex change or deployment — until it is mitigated, resolved, or properly handed to a new owner.
+- 3 — Practitioner: Proactively chases issues that cross team or system boundaries, and prevents ownership gaps during high-risk activity such as a go-live.
 - 4 — Expert: Is relied on across the wider team to make sure nothing owned is dropped, even under pressure.
 
 **Evidence to gather**
@@ -231,10 +221,9 @@ Baseline: 2 — Intermediate. The framework's wording for this skill is unchange
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -247,14 +236,13 @@ The framework expects a senior application operations engineer to initiate and m
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Initiating and monitoring investigative action, consulting specialists, and determining both the resolution and preventative measures describe someone leading a problem investigation rather than contributing to one led by someone else, which fits Advanced.
+Baseline: 3 — Practitioner. Initiating and monitoring investigative action, consulting specialists, and determining both the resolution and preventative measures describe someone leading a problem investigation rather than contributing to one led by someone else, which fits Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the difference between a problem and the pattern of incidents behind it.
-- 1 — Beginner: Investigates a piece of a problem when told exactly what to look at.
-- 2 — Intermediate: Investigates a straightforward problem independently and contributes to a resolution.
-- 3 — Advanced: Initiates and monitors investigation into patterns and trends, consults specialists where the problem needs expertise beyond their own, and determines both the resolution and preventative measures for moderately complex problems.
+- 1 — Awareness: Investigates a piece of a problem when told exactly what to look at.
+- 2 — Working: Investigates a straightforward problem independently and contributes to a resolution.
+- 3 — Practitioner: Initiates and monitors investigation into patterns and trends, consults specialists where the problem needs expertise beyond their own, and determines both the resolution and preventative measures for moderately complex problems.
 - 4 — Expert: Leads problem investigation across the team for the most complex or recurring problems, and is someone specialists themselves are consulted through.
 
 **Evidence to gather**
@@ -265,10 +253,9 @@ Baseline: 3 — Advanced. Initiating and monitoring investigative action, consul
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -281,14 +268,13 @@ The framework expects a senior application operations engineer to take inputs an
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is unchanged from the level below, and still describes building a working approach for their own area rather than one that spans other people's areas, so Intermediate remains the right reading for this specific skill.
+Baseline: 2 — Working. The framework's wording for this skill is unchanged from the level below, and still describes building a working approach for their own area rather than one that spans other people's areas, so Working remains the right reading for this specific skill.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their work fits into the wider service.
-- 1 — Beginner: Follows an existing framework even where it does not fit their situation well.
-- 2 — Intermediate: Takes inputs — requirements, constraints, existing tools — and puts together a coherent working approach for their own area, including for change and deployment activity.
-- 3 — Advanced: Builds frameworks that other engineers adopt, and adapts them as the service's needs change.
+- 1 — Awareness: Follows an existing framework even where it does not fit their situation well.
+- 2 — Working: Takes inputs — requirements, constraints, existing tools — and puts together a coherent working approach for their own area, including for change and deployment activity.
+- 3 — Practitioner: Builds frameworks that other engineers adopt, and adapts them as the service's needs change.
 - 4 — Expert: Designs frameworks that span multiple applications or services.
 
 **Evidence to gather**
@@ -298,10 +284,9 @@ Baseline: 2 — Intermediate. The framework's wording for this skill is unchange
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -314,14 +299,13 @@ The framework expects a senior application operations engineer to show they have
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework names the same qualification level here as it does one level down, which maps to Intermediate on this proficiency scale — solid, formally certified working knowledge, without the deeper certification named at more senior levels of this role.
+Baseline: 2 — Working. The framework names the same qualification level here as it does one level down, which maps to Working on this proficiency scale — solid, formally certified working knowledge, without the deeper certification named at more senior levels of this role.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification and cannot explain basic service management terms.
-- 1 — Beginner: Is working towards a Level 3 qualification, or holds an entry-level award only.
-- 2 — Intermediate: Holds a Level 3 service management framework qualification and applies its concepts correctly, including during change and incident activity.
-- 3 — Advanced: Holds Level 3 and demonstrates working knowledge of the framework's wider lifecycle, beyond what this level asks for.
+- 1 — Awareness: Is working towards a Level 3 qualification, or holds an entry-level award only.
+- 2 — Working: Holds a Level 3 service management framework qualification and applies its concepts correctly, including during change and incident activity.
+- 3 — Practitioner: Holds Level 3 and demonstrates working knowledge of the framework's wider lifecycle, beyond what this level asks for.
 - 4 — Expert: Holds an expert-level service management qualification and is asked to explain framework concepts to others.
 
 **Evidence to gather**
@@ -331,10 +315,9 @@ Baseline: 2 — Intermediate. The framework names the same qualification level h
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -347,14 +330,13 @@ The framework expects a senior application operations engineer to use management
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Using logical schemata to investigate technical problems, and optimising performance and forecasting resource needs, describe independent technical analysis and forward planning well beyond routine, supervised maintenance, which fits Advanced.
+Baseline: 3 — Practitioner. Using logical schemata to investigate technical problems, and optimising performance and forecasting resource needs, describe independent technical analysis and forward planning well beyond routine, supervised maintenance, which fits Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot use management system software and tools without step-by-step instructions.
-- 1 — Beginner: Uses management system tools and carries out routine database configuration tasks with someone checking as they go.
-- 2 — Intermediate: Carries out routine configuration, installation and reconfiguration of database and related products reliably and unsupervised.
-- 3 — Advanced: Uses logical schemata to investigate technical problems, collects and interprets performance statistics to create reports, and optimises performance and forecasts resource needs ahead of demand.
+- 1 — Awareness: Uses management system tools and carries out routine database configuration tasks with someone checking as they go.
+- 2 — Working: Carries out routine configuration, installation and reconfiguration of database and related products reliably and unsupervised.
+- 3 — Practitioner: Uses logical schemata to investigate technical problems, collects and interprets performance statistics to create reports, and optimises performance and forecasts resource needs ahead of demand.
 - 4 — Expert: Is the technical reference point for performance optimisation and resource forecasting across the wider team.
 
 **Evidence to gather**
@@ -365,10 +347,9 @@ Baseline: 3 — Advanced. Using logical schemata to investigate technical proble
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -381,14 +362,13 @@ The framework expects a senior application operations engineer to review require
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Reviewing requirements and specifications to define test conditions, and identifying risk rather than only executing a script written by someone else, is a marked step up, and fits independent, judgement-based work.
+Baseline: 3 — Practitioner. Reviewing requirements and specifications to define test conditions, and identifying risk rather than only executing a script written by someone else, is a marked step up, and fits independent, judgement-based work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot read a requirement or specification well enough to say what should be tested.
-- 1 — Beginner: Defines a test condition for a simple requirement with help.
-- 2 — Intermediate: Reviews straightforward requirements and specifications and defines sensible test conditions for them.
-- 3 — Advanced: Reviews requirements and specifications for a piece of change or deployment work, defines test conditions, identifies the issues and risks involved, and analyses and reports the results clearly enough for others to act on.
+- 1 — Awareness: Defines a test condition for a simple requirement with help.
+- 2 — Working: Reviews straightforward requirements and specifications and defines sensible test conditions for them.
+- 3 — Practitioner: Reviews requirements and specifications for a piece of change or deployment work, defines test conditions, identifies the issues and risks involved, and analyses and reports the results clearly enough for others to act on.
 - 4 — Expert: Sets the testing approach for complex or high-risk deployments and reviews other engineers' test conditions and reports.
 
 **Evidence to gather**
@@ -399,10 +379,9 @@ Baseline: 3 — Advanced. Reviewing requirements and specifications to define te
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -415,14 +394,13 @@ The framework expects a senior application operations engineer to identify and e
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is unchanged from the level below, and still describes active engagement and use of data to inform outcomes, which is Intermediate working practice, even though the level as a whole moves further in other skills.
+Baseline: 2 — Working. The framework's wording for this skill is unchanged from the level below, and still describes active engagement and use of data to inform outcomes, which is Working working practice, even though the level as a whole moves further in other skills.
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with users or use any user evidence in their work.
-- 1 — Beginner: Collects user feedback when asked but does not connect it to decisions about a change or deployment.
-- 2 — Intermediate: Actively collates user needs evidence from users or stakeholders — including ahead of a change going live — and uses it to inform routine decisions.
-- 3 — Advanced: Defines what research would answer a specific user needs question, and combines quantitative and qualitative data to shape an outcome.
+- 1 — Awareness: Collects user feedback when asked but does not connect it to decisions about a change or deployment.
+- 2 — Working: Actively collates user needs evidence from users or stakeholders — including ahead of a change going live — and uses it to inform routine decisions.
+- 3 — Practitioner: Defines what research would answer a specific user needs question, and combines quantitative and qualitative data to shape an outcome.
 - 4 — Expert: Is sought out by others for how to turn user evidence into a concrete change to a service.
 
 **Evidence to gather**
@@ -432,10 +410,9 @@ Baseline: 2 — Intermediate. The framework's wording for this skill is unchange
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -444,17 +421,17 @@ Baseline: 2 — Intermediate. The framework's wording for this skill is unchange
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Availability and capacity management | 2 — Intermediate | | |
-| Change management | 3 — Advanced | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 3 — Advanced | | |
-| Service focus | 2 — Intermediate | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| Technical specialism | 3 — Advanced | | |
-| Testing | 3 — Advanced | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 2 — Working | | |
+| Availability and capacity management | 2 — Working | | |
+| Change management | 3 — Practitioner | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 3 — Practitioner | | |
+| Service focus | 2 — Working | | |
+| Service management framework knowledge | 2 — Working | | |
+| Technical specialism | 3 — Practitioner | | |
+| Testing | 3 — Practitioner | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

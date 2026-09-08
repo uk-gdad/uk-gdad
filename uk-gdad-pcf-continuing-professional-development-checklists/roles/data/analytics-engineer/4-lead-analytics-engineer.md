@@ -2,10 +2,92 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Analytics engineer** role at the **Lead analytics engineer** level. You lead the design and deployment of data models for analysis, lead and support a team, work with stakeholders across the organisation to understand relationships between data and processes, promote analytics engineering, review others' work, create standards for communication, models, and documentation, and define and improve ways of working. Your development now is about leadership and standards.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/analytics-engineer/4-lead-analytics-engineer.md`](../../../assessments/data/analytics-engineer/4-lead-analytics-engineer.md)
+- Upskilling: [`upskills/data/analytics-engineer/4-lead-analytics-engineer.md`](../../../upskills/data/analytics-engineer/4-lead-analytics-engineer.md)
+
+### Role Level Focus: Lead Analytics Engineer
+
+- [ ] Lead a Team: Develop the skill of leading analytics engineers, including formal management training.
+- [ ] Define Data Requirements: Work with stakeholders to translate organisational processes into data requirements.
+- [ ] Promote the Discipline: Build awareness and understanding of analytics engineering across the organisation.
+- [ ] Review Others' Work: Establish review as a development activity, not just a quality gate.
+- [ ] Create Standards: Own standards for communication, data models, and documentation.
+- [ ] Improve Ways of Working: Define and iterate how the team works.
+- [ ] Grow Successors: Develop engineers who could take your role.
+- [ ] Learn Data Governance: Understand how governance, ethics, and protection apply to your models.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Listen and Interpret: Interpret technical and non-technical needs accurately, and manage expectations.
+- [ ] Manage Active and Reactive Communication: Get ahead of issues and respond well when caught out.
+- [ ] Host Difficult Discussions: Facilitate hard conversations with diverse senior stakeholders.
+- [ ] Report Honestly: Give unwelcome news about data quality or delivery early and clearly.
+
+### Skill: Data analysis and synthesis
+
+- [ ] Help Teams Profile Data: Support teams in applying a range of profiling techniques.
+- [ ] Analyse Complex Sources: Handle source system analysis from a complex single source.
+- [ ] Conform Multiple Sources: Bring several data sources into a conformed model for analysis.
+- [ ] Assure Quality: Ensure quality measurement is routine rather than reactive.
+
+### Skill: Data innovation
+
+- [ ] Identify Innovation Areas: Spot where new tools and techniques would genuinely help.
+- [ ] Judge Adoption Timing: Recognise when a technology is ready for your organisation.
+- [ ] Evaluate Honestly: Include cost, operational burden, and exit route in every evaluation.
+- [ ] Share Findings: Publish evaluations across the data community.
+
+### Skill: Data modelling, cleansing and enrichment
+
+- [ ] Build and Review Complex Models: Ensure models adhere to standards across the team.
+- [ ] Advise on Integration: Use integration tools well, and advise teams on best practice.
+- [ ] Ensure Quality and Interoperability: Make data meet standards and work with other data sets.
+- [ ] Improve Patterns With Peers: Work with other data professionals to raise modelling standards.
+
+### Skill: Metadata management
+
+- [ ] Design a Repository: Design a metadata repository fit for real organisational needs.
+- [ ] Improve Existing Repositories: Recommend and land concrete improvements.
+- [ ] Know the Tooling Landscape: Understand a range of metadata tools and their trade-offs.
+- [ ] Advise Others: Coach colleagues in metadata management.
+
+### Skill: Problem management
+
+- [ ] Ensure the Right Actions: Make sure problems get investigated, resolved, and anticipated.
+- [ ] Co-ordinate the Team: Organise investigation, solution, and prevention across people.
+- [ ] Learn Root Cause Technique: Study structured root cause analysis and use it consistently.
+- [ ] Build Preventive Habits: Turn recurring problems into standards.
+
+### Skill: Programming and build (data engineering)
+
+- [ ] Handle Moderate Complexity: Design, code, test, and document moderate-to-complex programs to standard.
+- [ ] Review Specifications: Collaborate on reviewing specifications before building.
+- [ ] Set Tooling Direction: Make deliberate, explained choices about shared tools.
+- [ ] Stay Hands-On: Keep building so your standards stay grounded in reality.
+
+### Skill: Testing
+
+- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
+- [ ] Identify Issues and Risks: Surface risks associated with the work.
+- [ ] Analyse and Report: Report test activities and results so people can act on them.
+- [ ] Make Testing Continuous: Ensure data quality testing runs automatically and visibly.
+
+### Skill Growth Plan: Toward Head of Analytics Engineering
+
+- [ ] Review the Next Level: Read the Head of analytics engineering skill descriptions and mark your gaps.
+- [ ] Build Senior Relationships: Develop relationships with senior stakeholders across the organisation.
+- [ ] Align to Strategy: Connect your team's work explicitly to strategic priorities.
+- [ ] Advocate Externally: Represent analytics engineering beyond your organisation.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,85 +185,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Analytics engineer** role at the **Lead analytics engineer** level. You lead the design and deployment of data models for analysis, lead and support a team, work with stakeholders across the organisation to understand relationships between data and processes, promote analytics engineering, review others' work, create standards for communication, models, and documentation, and define and improve ways of working. Your development now is about leadership and standards.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/analytics-engineer/4-lead-analytics-engineer.md`](../../../assessments/data/analytics-engineer/4-lead-analytics-engineer.md)
-- Upskilling: [`upskills/data/analytics-engineer/4-lead-analytics-engineer.md`](../../../upskills/data/analytics-engineer/4-lead-analytics-engineer.md)
-
-### Role Level Focus: Lead Analytics Engineer
-
-- [ ] Lead a Team: Develop the skill of leading analytics engineers, including formal management training.
-- [ ] Define Data Requirements: Work with stakeholders to translate organisational processes into data requirements.
-- [ ] Promote the Discipline: Build awareness and understanding of analytics engineering across the organisation.
-- [ ] Review Others' Work: Establish review as a development activity, not just a quality gate.
-- [ ] Create Standards: Own standards for communication, data models, and documentation.
-- [ ] Improve Ways of Working: Define and iterate how the team works.
-- [ ] Grow Successors: Develop engineers who could take your role.
-- [ ] Learn Data Governance: Understand how governance, ethics, and protection apply to your models.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Listen and Interpret: Interpret technical and non-technical needs accurately, and manage expectations.
-- [ ] Manage Active and Reactive Communication: Get ahead of issues and respond well when caught out.
-- [ ] Host Difficult Discussions: Facilitate hard conversations with diverse senior stakeholders.
-- [ ] Report Honestly: Give unwelcome news about data quality or delivery early and clearly.
-
-### Skill: Data analysis and synthesis
-
-- [ ] Help Teams Profile Data: Support teams in applying a range of profiling techniques.
-- [ ] Analyse Complex Sources: Handle source system analysis from a complex single source.
-- [ ] Conform Multiple Sources: Bring several data sources into a conformed model for analysis.
-- [ ] Assure Quality: Ensure quality measurement is routine rather than reactive.
-
-### Skill: Data innovation
-
-- [ ] Identify Innovation Areas: Spot where new tools and techniques would genuinely help.
-- [ ] Judge Adoption Timing: Recognise when a technology is ready for your organisation.
-- [ ] Evaluate Honestly: Include cost, operational burden, and exit route in every evaluation.
-- [ ] Share Findings: Publish evaluations across the data community.
-
-### Skill: Data modelling, cleansing and enrichment
-
-- [ ] Build and Review Complex Models: Ensure models adhere to standards across the team.
-- [ ] Advise on Integration: Use integration tools well, and advise teams on best practice.
-- [ ] Ensure Quality and Interoperability: Make data meet standards and work with other data sets.
-- [ ] Improve Patterns With Peers: Work with other data professionals to raise modelling standards.
-
-### Skill: Metadata management
-
-- [ ] Design a Repository: Design a metadata repository fit for real organisational needs.
-- [ ] Improve Existing Repositories: Recommend and land concrete improvements.
-- [ ] Know the Tooling Landscape: Understand a range of metadata tools and their trade-offs.
-- [ ] Advise Others: Coach colleagues in metadata management.
-
-### Skill: Problem management
-
-- [ ] Ensure the Right Actions: Make sure problems get investigated, resolved, and anticipated.
-- [ ] Co-ordinate the Team: Organise investigation, solution, and prevention across people.
-- [ ] Learn Root Cause Technique: Study structured root cause analysis and use it consistently.
-- [ ] Build Preventive Habits: Turn recurring problems into standards.
-
-### Skill: Programming and build (data engineering)
-
-- [ ] Handle Moderate Complexity: Design, code, test, and document moderate-to-complex programs to standard.
-- [ ] Review Specifications: Collaborate on reviewing specifications before building.
-- [ ] Set Tooling Direction: Make deliberate, explained choices about shared tools.
-- [ ] Stay Hands-On: Keep building so your standards stay grounded in reality.
-
-### Skill: Testing
-
-- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
-- [ ] Identify Issues and Risks: Surface risks associated with the work.
-- [ ] Analyse and Report: Report test activities and results so people can act on them.
-- [ ] Make Testing Continuous: Ensure data quality testing runs automatically and visibly.
-
-### Skill Growth Plan: Toward Head of Analytics Engineering
-
-- [ ] Review the Next Level: Read the Head of analytics engineering skill descriptions and mark your gaps.
-- [ ] Build Senior Relationships: Develop relationships with senior stakeholders across the organisation.
-- [ ] Align to Strategy: Connect your team's work explicitly to strategic priorities.
-- [ ] Advocate Externally: Represent analytics engineering beyond your organisation.

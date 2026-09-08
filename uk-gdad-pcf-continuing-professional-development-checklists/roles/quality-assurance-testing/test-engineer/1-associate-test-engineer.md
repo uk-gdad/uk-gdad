@@ -2,10 +2,77 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Test engineer** role at the **Associate test engineer** level in the UK GDAD PCF. You work closely with test engineers and quality assurance test analysts to learn the activities and techniques that establish the basis of testing, you build domain and business knowledge, you develop test scripts under supervision, and you raise and manage defects. This is a great time to build strong technical foundations.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/quality-assurance-testing/test-engineer/1-associate-test-engineer.md`](../../../assessments/quality-assurance-testing/test-engineer/1-associate-test-engineer.md)
+- Upskilling: [`upskills/quality-assurance-testing/test-engineer/1-associate-test-engineer.md`](../../../upskills/quality-assurance-testing/test-engineer/1-associate-test-engineer.md)
+
+### Role Level Focus: Associate Test Engineer
+
+- [ ] Build Domain Knowledge: Learn what your service does, who uses it, and what would hurt them if it broke.
+- [ ] Learn a Programming Language: Work through a structured beginner course in your team's test scripting language.
+- [ ] Write Scripts Under Supervision: Develop test scripts and ask for review every time.
+- [ ] Get a Foundation Certification: Work toward a recognised testing foundation qualification such as ISTQB.
+- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
+- [ ] Shadow Experienced Engineers: Note the debugging moves they make that you would not have thought of.
+- [ ] Track Your Training: Keep a record of courses, exams, and shadowing with dates and outcomes.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Explain Why It Matters: Write down why technical concepts need non-technical language.
+- [ ] Learn Communication Types: Understand which channels suit internal and external stakeholders.
+- [ ] Practise Plain English: Explain a failing test to someone non-technical and check they understood.
+- [ ] Write Clear Reports: Practise reports that lead with what it means, not what you did.
+
+### Skill: Designing and executing tests
+
+- [ ] Contribute to Test Choices: Take part in deciding which test types and techniques suit the situation.
+- [ ] Design Simple Tests: Follow guidance to design, build, and maintain tests aligned to user needs.
+- [ ] Execute With Support: Run tests carefully and record exactly what you did and observed.
+- [ ] Explain the Value of Automation: Say clearly what automation is good for and what it is not.
+
+### Skill: Managing, reporting and resolving defects
+
+- [ ] Learn the Process: Understand how defects are reported and tracked in your organisation.
+- [ ] Write Good Defect Reports: Practise reports that are reproducible, specific, and blame-free.
+- [ ] Retest Properly: Verify fixes, including checking nothing nearby broke.
+- [ ] Escalate When Needed: Know when a defect needs raising urgently, and to whom.
+
+### Skill: Test analysis
+
+- [ ] Learn Quality Characteristics: Describe functional and non-functional characteristics and why they matter.
+- [ ] Analyse Artefacts With Support: Read user stories, prototypes, processes, and designs critically.
+- [ ] Spot Quality Risks: Learn to say what might prevent a quality goal from being met.
+- [ ] Ask Good Questions: Practise the questions that reveal ambiguity in a requirement.
+
+### Skill: Test and quality planning
+
+- [ ] Explain the Value of Planning: Say why testing approaches, plans, and strategies matter.
+- [ ] Learn Delivery Methodologies: Understand how Agile and plan-driven delivery change the testing approach.
+- [ ] Follow Plans With Support: Work to the agreed approach and notice where it does not fit.
+- [ ] Learn Effectiveness Measures: Understand how testing effectiveness is measured.
+
+### Skill: Test engineering
+
+- [ ] Explain Why Tooling Matters: Say why testing processes, environments, and tools are important.
+- [ ] Follow Practices and Standards: Work to test engineering standards with support.
+- [ ] Support Automation Maintenance: Help keep automated tests and tools healthy.
+- [ ] Learn the Pipeline: Understand how tests run in continuous integration, and how to read a failure.
+
+### Skill Growth Plan: Toward Test Engineer
+
+- [ ] Review the Next Level: Read the Test engineer skill descriptions and mark what to build next.
+- [ ] Deepen Your Coding: Move from writing scripts to writing maintainable, reviewed test code.
+- [ ] Pair With Developers: Learn how unit testing works from the people who write it.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,70 +170,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Test engineer** role at the **Associate test engineer** level in the UK GDAD PCF. You work closely with test engineers and quality assurance test analysts to learn the activities and techniques that establish the basis of testing, you build domain and business knowledge, you develop test scripts under supervision, and you raise and manage defects. This is a great time to build strong technical foundations.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/quality-assurance-testing/test-engineer/1-associate-test-engineer.md`](../../../assessments/quality-assurance-testing/test-engineer/1-associate-test-engineer.md)
-- Upskilling: [`upskills/quality-assurance-testing/test-engineer/1-associate-test-engineer.md`](../../../upskills/quality-assurance-testing/test-engineer/1-associate-test-engineer.md)
-
-### Role Level Focus: Associate Test Engineer
-
-- [ ] Build Domain Knowledge: Learn what your service does, who uses it, and what would hurt them if it broke.
-- [ ] Learn a Programming Language: Work through a structured beginner course in your team's test scripting language.
-- [ ] Write Scripts Under Supervision: Develop test scripts and ask for review every time.
-- [ ] Get a Foundation Certification: Work toward a recognised testing foundation qualification such as ISTQB.
-- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
-- [ ] Shadow Experienced Engineers: Note the debugging moves they make that you would not have thought of.
-- [ ] Track Your Training: Keep a record of courses, exams, and shadowing with dates and outcomes.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Explain Why It Matters: Write down why technical concepts need non-technical language.
-- [ ] Learn Communication Types: Understand which channels suit internal and external stakeholders.
-- [ ] Practise Plain English: Explain a failing test to someone non-technical and check they understood.
-- [ ] Write Clear Reports: Practise reports that lead with what it means, not what you did.
-
-### Skill: Designing and executing tests
-
-- [ ] Contribute to Test Choices: Take part in deciding which test types and techniques suit the situation.
-- [ ] Design Simple Tests: Follow guidance to design, build, and maintain tests aligned to user needs.
-- [ ] Execute With Support: Run tests carefully and record exactly what you did and observed.
-- [ ] Explain the Value of Automation: Say clearly what automation is good for and what it is not.
-
-### Skill: Managing, reporting and resolving defects
-
-- [ ] Learn the Process: Understand how defects are reported and tracked in your organisation.
-- [ ] Write Good Defect Reports: Practise reports that are reproducible, specific, and blame-free.
-- [ ] Retest Properly: Verify fixes, including checking nothing nearby broke.
-- [ ] Escalate When Needed: Know when a defect needs raising urgently, and to whom.
-
-### Skill: Test analysis
-
-- [ ] Learn Quality Characteristics: Describe functional and non-functional characteristics and why they matter.
-- [ ] Analyse Artefacts With Support: Read user stories, prototypes, processes, and designs critically.
-- [ ] Spot Quality Risks: Learn to say what might prevent a quality goal from being met.
-- [ ] Ask Good Questions: Practise the questions that reveal ambiguity in a requirement.
-
-### Skill: Test and quality planning
-
-- [ ] Explain the Value of Planning: Say why testing approaches, plans, and strategies matter.
-- [ ] Learn Delivery Methodologies: Understand how Agile and plan-driven delivery change the testing approach.
-- [ ] Follow Plans With Support: Work to the agreed approach and notice where it does not fit.
-- [ ] Learn Effectiveness Measures: Understand how testing effectiveness is measured.
-
-### Skill: Test engineering
-
-- [ ] Explain Why Tooling Matters: Say why testing processes, environments, and tools are important.
-- [ ] Follow Practices and Standards: Work to test engineering standards with support.
-- [ ] Support Automation Maintenance: Help keep automated tests and tools healthy.
-- [ ] Learn the Pipeline: Understand how tests run in continuous integration, and how to read a failure.
-
-### Skill Growth Plan: Toward Test Engineer
-
-- [ ] Review the Next Level: Read the Test engineer skill descriptions and mark what to build next.
-- [ ] Deepen Your Coding: Move from writing scripts to writing maintainable, reviewed test code.
-- [ ] Pair With Developers: Learn how unit testing works from the people who write it.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

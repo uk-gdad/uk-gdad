@@ -49,22 +49,21 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Data ethics and privacy.** At 1 — Beginner, someone
+**Worked example — Data ethics and privacy.** At 1 — Awareness, someone
 might describe checking a single project's data handling against a checklist
 someone else wrote, without being able to say why each check mattered. At 2 —
-Intermediate, they might describe applying an existing ethical framework
+Working, they might describe applying an existing ethical framework
 consistently across several projects, but referring anything ambiguous to a
 more senior colleague. At 4 — Expert, they would describe having written or
 substantially revised an organisation's ethical framework themselves,
@@ -130,13 +129,11 @@ definition of this level as the top of the role's ladder.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot draw a clear finding from a mixed set of qualitative and
-  quantitative evidence without help.
-- 1 — Beginner: Summarises a single source accurately, but struggles to
+- 1 — Awareness: Summarises a single source accurately, but struggles to
   combine several sources into one coherent finding.
-- 2 — Intermediate: Synthesises evidence from a few sources into a finding
+- 2 — Working: Synthesises evidence from a few sources into a finding
   that supports a decision on one project, with some guidance on structure.
-- 3 — Advanced: Independently synthesises complex, mixed evidence into
+- 3 — Practitioner: Independently synthesises complex, mixed evidence into
   findings that hold up under challenge from technical and non-technical
   colleagues alike.
 - 4 — Expert: Produces synthesis that shapes an organisation-wide data ethics
@@ -156,10 +153,9 @@ definition of this level as the top of the role's ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -185,13 +181,11 @@ ladder, where someone is expected to shape the field, not just apply it.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a social science concept to a specific data
-  project's ethical question.
-- 1 — Beginner: Names a relevant social science concept when prompted, but
+- 1 — Awareness: Names a relevant social science concept when prompted, but
   cannot yet apply it to a live project.
-- 2 — Intermediate: Applies a familiar social science framework to challenge
+- 2 — Working: Applies a familiar social science framework to challenge
   an assumption in a data science project, with support.
-- 3 — Advanced: Independently applies social science theory to evaluate
+- 3 — Practitioner: Independently applies social science theory to evaluate
   several projects, and explains the reasoning clearly to non-specialists.
 - 4 — Expert: Has used social science theory to shape strategic oversight of
   a data programme or policy, and has co-published or contributed to research
@@ -208,10 +202,9 @@ ladder, where someone is expected to shape the field, not just apply it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -236,13 +229,11 @@ ladder is asked to carry.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to explain a technical data ethics issue to a
-  non-technical stakeholder without jargon.
-- 1 — Beginner: Explains a straightforward issue clearly one-to-one, with
+- 1 — Awareness: Explains a straightforward issue clearly one-to-one, with
   preparation.
-- 2 — Intermediate: Moderates a small internal discussion between technical
+- 2 — Working: Moderates a small internal discussion between technical
   and non-technical colleagues on a moderately contentious topic.
-- 3 — Advanced: Moderates a high-risk or complex discussion under time
+- 3 — Practitioner: Moderates a high-risk or complex discussion under time
   pressure, and keeps stakeholders at different levels aligned.
 - 4 — Expert: Represents the organisation's data ethics position to a large
   external audience — a conference, a public consultation, a cross-government
@@ -259,10 +250,9 @@ ladder is asked to carry.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -290,13 +280,11 @@ skill.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot follow a data science team's discussion of a technical
-  bias issue well enough to comment on it.
-- 1 — Beginner: Follows a technical explanation with help, but struggles to
+- 1 — Awareness: Follows a technical explanation with help, but struggles to
   restate it for a non-technical audience.
-- 2 — Intermediate: Translates a familiar technical concept accurately for a
+- 2 — Working: Translates a familiar technical concept accurately for a
   non-technical audience, with review.
-- 3 — Advanced: Holds a substantive conversation with data scientists on
+- 3 — Practitioner: Holds a substantive conversation with data scientists on
   technical issues such as data cleansing or bias, and translates it
   independently for others.
 - 4 — Expert: Is sought out by data scientists and engineers to help them
@@ -315,10 +303,9 @@ skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -344,13 +331,11 @@ ladder.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a specific policy or programme was assessed
-  against a data ethics framework.
-- 1 — Beginner: Applies an existing checklist to one project, with close
+- 1 — Awareness: Applies an existing checklist to one project, with close
   supervision.
-- 2 — Intermediate: Applies an established ethical framework consistently
+- 2 — Working: Applies an established ethical framework consistently
   across several projects, escalating anything ambiguous.
-- 3 — Advanced: Manages and improves part of an ethical framework
+- 3 — Practitioner: Manages and improves part of an ethical framework
   independently, and ensures compliance with data ethics standards and
   legislation within a defined area.
 - 4 — Expert: Has written or substantially reshaped an organisation's data
@@ -368,10 +353,9 @@ ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -406,13 +390,11 @@ is.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a specific method for hearing from groups a
-  project would otherwise miss.
-- 1 — Beginner: Follows an existing outreach process to gather views from an
+- 1 — Awareness: Follows an existing outreach process to gather views from an
   underrepresented group, with support.
-- 2 — Intermediate: Designs a simple consultation activity that reaches
+- 2 — Working: Designs a simple consultation activity that reaches
   beyond the usual stakeholders, for one project.
-- 3 — Advanced: Runs in-depth outreach and consulting independently, and can
+- 3 — Practitioner: Runs in-depth outreach and consulting independently, and can
   explain how a specific piece of feedback changed a product or policy
   decision.
 - 4 — Expert: Has shaped the organisation's own diversity and inclusion plan
@@ -432,10 +414,9 @@ is.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -457,13 +438,11 @@ organisation and passed on to others, which is full mastery at this level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why one risk was treated more seriously than
-  another on a project.
-- 1 — Beginner: Applies a given risk methodology to a straightforward case,
+- 1 — Awareness: Applies a given risk methodology to a straightforward case,
   with supervision.
-- 2 — Intermediate: Selects an appropriate risk methodology for a moderately
+- 2 — Working: Selects an appropriate risk methodology for a moderately
   complex case, with some guidance.
-- 3 — Advanced: Works independently on consequential risks, and builds
+- 3 — Practitioner: Works independently on consequential risks, and builds
   consensus between two services or stakeholders with different priorities.
 - 4 — Expert: Leads a group of people through a complex, high-consequence
   risk decision to a good outcome, applying a proportionate methodology and
@@ -480,10 +459,9 @@ organisation and passed on to others, which is full mastery at this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -499,7 +477,7 @@ measures.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The bullets describe co-ordinating a team through
+Baseline: 3 — Practitioner. The bullets describe co-ordinating a team through
 investigation and prevention — a strong, working command of the skill — but
 they are worded more operationally than the organisation-wide, "expertly"
 language the summary uses for this level's other skills, so the baseline sits
@@ -507,12 +485,10 @@ a point below the rest of this block.
 
 **Behavioural indicators**
 
-- 0 — None: Reacts to problems individually as they arise, with no attempt to
-  anticipate or prevent recurrence.
-- 1 — Beginner: Investigates a reported problem when asked, with supervision.
-- 2 — Intermediate: Investigates and resolves a problem independently, and
+- 1 — Awareness: Investigates a reported problem when asked, with supervision.
+- 2 — Working: Investigates and resolves a problem independently, and
   documents what was done.
-- 3 — Advanced: Co-ordinates a small team through investigation, resolution
+- 3 — Practitioner: Co-ordinates a small team through investigation, resolution
   and preventive action on a data ethics problem, without needing to be asked.
 - 4 — Expert: Anticipates a class of problem before it occurs, and has put in
   place preventive measures that visibly reduced how often it recurred.
@@ -528,10 +504,9 @@ a point below the rest of this block.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -555,12 +530,10 @@ organisational scale, which is what this level's own text asks for.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a data ethics tool or resource they have built for
-  others to use.
-- 1 — Beginner: Contributes to a tool someone else owns, with direction.
-- 2 — Intermediate: Owns a small data ethics tool or resource for one team,
+- 1 — Awareness: Contributes to a tool someone else owns, with direction.
+- 2 — Working: Owns a small data ethics tool or resource for one team,
   gathering and acting on feedback.
-- 3 — Advanced: Owns a data ethics tool used across several teams, and
+- 3 — Practitioner: Owns a data ethics tool used across several teams, and
   adapts the way of working when evidence shows it is needed.
 - 4 — Expert: Has defined and created a data ethics tool or resource used
   organisation-wide, translated a theoretical principle into something
@@ -578,10 +551,9 @@ organisational scale, which is what this level's own text asks for.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -604,12 +576,10 @@ level.
 
 **Behavioural indicators**
 
-- 0 — None: Manages individual stakeholder interactions without any wider
-  strategy behind them.
-- 1 — Beginner: Follows a stakeholder plan someone else set, with support.
-- 2 — Intermediate: Manages relationships with a defined set of stakeholders
+- 1 — Awareness: Follows a stakeholder plan someone else set, with support.
+- 2 — Working: Manages relationships with a defined set of stakeholders
   for one piece of work, with some guidance.
-- 3 — Advanced: Sets stakeholder objectives for a team and supports the team
+- 3 — Practitioner: Sets stakeholder objectives for a team and supports the team
   to meet them, working independently.
 - 4 — Expert: Directs the overall stakeholder relationship strategy across
   their teams, and has personally negotiated with a senior stakeholder to
@@ -626,10 +596,9 @@ level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -645,7 +614,7 @@ level.
 | Data ethics and privacy | 4 — Expert | | |
 | Empathy and inclusivity | 4 — Expert | | |
 | Managing decisions and risks | 4 — Expert | | |
-| Problem management | 3 — Advanced | | |
+| Problem management | 3 — Practitioner | | |
 | Product ownership (data ethics) | 4 — Expert | | |
 | Stakeholder relationship management | 4 — Expert | | |
 

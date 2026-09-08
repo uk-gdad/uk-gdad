@@ -118,8 +118,7 @@
 <PhaseBanner class="site-phase-banner">
   <Tag label="Status">Unofficial</Tag>
   <span>
-    A community project, not a government service. Content is AI-assisted and human-reviewed —
-    check anything that matters against
+    A community project, not a government service. See
     <a href="https://ddat-capability-framework.service.gov.uk/">the official framework</a>.
   </span>
 </PhaseBanner>

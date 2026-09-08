@@ -2,10 +2,77 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Quality assurance test analyst** role at the **Associate quality assurance test analyst** level in the UK GDAD PCF. You work with other test professionals to learn quality assurance testing and analysis techniques, following approaches under supervision and building your understanding of how to design and run tests. This is a great time to learn the fundamentals properly.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md`](../../../assessments/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
+- Upskilling: [`upskills/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md`](../../../upskills/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
+
+### Role Level Focus: Associate Quality Assurance Test Analyst
+
+- [ ] Get a Foundation Certification: Work toward a recognised testing foundation qualification such as ISTQB.
+- [ ] Learn Your Service: Understand what your service does and who relies on it before you test it.
+- [ ] Shadow Experienced Testers: Note the questions they ask that you would not have thought of.
+- [ ] Practise Under Supervision: Take assigned test design and execution and ask for review every time.
+- [ ] Build a Technique Library: Keep your own notes on each test technique, when it works, and when it does not.
+- [ ] Learn Accessibility Testing Basics: Complete an introduction to WCAG and try keyboard-only testing.
+- [ ] Track Your Training: Keep a record of courses, exams, and shadowing with dates and outcomes.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Explain Why It Matters: Write down why technical concepts need non-technical language.
+- [ ] Learn Communication Types: Understand which channels suit internal and external stakeholders.
+- [ ] Practise Plain English: Explain a defect to someone non-technical and check they understood.
+- [ ] Write Clear Reports: Practise test reports that lead with what it means, not what you did.
+
+### Skill: Designing and executing tests
+
+- [ ] Contribute to Test Choices: Take part in deciding which test types and techniques suit the situation.
+- [ ] Design Simple Tests: Follow guidance to design, build, and maintain tests aligned to user needs.
+- [ ] Execute With Support: Run tests carefully, and record exactly what you did and observed.
+- [ ] Explain the Value of Automation: Be able to say what automation is good for and what it is not.
+
+### Skill: Managing, reporting and resolving defects
+
+- [ ] Learn the Process: Understand how defects are reported and tracked in your organisation.
+- [ ] Write Good Defect Reports: Practise reports that are reproducible, specific, and blame-free.
+- [ ] Retest Properly: Learn to verify a fix, including checking nothing nearby broke.
+- [ ] Escalate When Needed: Know when a defect needs raising urgently, and to whom.
+
+### Skill: Test analysis
+
+- [ ] Learn Quality Characteristics: Describe functional and non-functional characteristics and why they matter.
+- [ ] Analyse Artefacts With Support: Practise reading user stories, prototypes, processes, and designs critically.
+- [ ] Spot Quality Risks: Learn to say what might prevent a quality goal from being met.
+- [ ] Ask Good Questions: Practise the questions that reveal ambiguity in a requirement.
+
+### Skill: Test and quality planning
+
+- [ ] Explain the Value of Planning: Say clearly why testing approaches, plans, and strategies matter.
+- [ ] Learn Delivery Methodologies: Understand how Agile and plan-driven delivery change the testing approach.
+- [ ] Follow Plans With Support: Work to the agreed approach and notice where it does not fit.
+- [ ] Learn Effectiveness Measures: Understand how testing effectiveness is measured and why it matters.
+
+### Skill: Test engineering
+
+- [ ] Explain Why Tooling Matters: Say why testing processes, environments, and tools are important.
+- [ ] Follow Practices and Standards: Work to test engineering standards with support.
+- [ ] Support Automation Maintenance: Help keep automated tests and tools healthy.
+- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
+
+### Skill Growth Plan: Toward Quality Assurance Test Analyst
+
+- [ ] Review the Next Level: Read the Quality assurance test analyst skill descriptions and mark what to build next.
+- [ ] Try Exploratory Testing: Learn structured exploratory testing and practise it with a session charter.
+- [ ] Build a Portfolio: Collect test designs, defect reports, and feedback as evidence.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,70 +170,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Quality assurance test analyst** role at the **Associate quality assurance test analyst** level in the UK GDAD PCF. You work with other test professionals to learn quality assurance testing and analysis techniques, following approaches under supervision and building your understanding of how to design and run tests. This is a great time to learn the fundamentals properly.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md`](../../../assessments/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
-- Upskilling: [`upskills/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md`](../../../upskills/quality-assurance-testing/quality-assurance-test-analyst/1-associate-quality-assurance-test-analyst.md)
-
-### Role Level Focus: Associate Quality Assurance Test Analyst
-
-- [ ] Get a Foundation Certification: Work toward a recognised testing foundation qualification such as ISTQB.
-- [ ] Learn Your Service: Understand what your service does and who relies on it before you test it.
-- [ ] Shadow Experienced Testers: Note the questions they ask that you would not have thought of.
-- [ ] Practise Under Supervision: Take assigned test design and execution and ask for review every time.
-- [ ] Build a Technique Library: Keep your own notes on each test technique, when it works, and when it does not.
-- [ ] Learn Accessibility Testing Basics: Complete an introduction to WCAG and try keyboard-only testing.
-- [ ] Track Your Training: Keep a record of courses, exams, and shadowing with dates and outcomes.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Explain Why It Matters: Write down why technical concepts need non-technical language.
-- [ ] Learn Communication Types: Understand which channels suit internal and external stakeholders.
-- [ ] Practise Plain English: Explain a defect to someone non-technical and check they understood.
-- [ ] Write Clear Reports: Practise test reports that lead with what it means, not what you did.
-
-### Skill: Designing and executing tests
-
-- [ ] Contribute to Test Choices: Take part in deciding which test types and techniques suit the situation.
-- [ ] Design Simple Tests: Follow guidance to design, build, and maintain tests aligned to user needs.
-- [ ] Execute With Support: Run tests carefully, and record exactly what you did and observed.
-- [ ] Explain the Value of Automation: Be able to say what automation is good for and what it is not.
-
-### Skill: Managing, reporting and resolving defects
-
-- [ ] Learn the Process: Understand how defects are reported and tracked in your organisation.
-- [ ] Write Good Defect Reports: Practise reports that are reproducible, specific, and blame-free.
-- [ ] Retest Properly: Learn to verify a fix, including checking nothing nearby broke.
-- [ ] Escalate When Needed: Know when a defect needs raising urgently, and to whom.
-
-### Skill: Test analysis
-
-- [ ] Learn Quality Characteristics: Describe functional and non-functional characteristics and why they matter.
-- [ ] Analyse Artefacts With Support: Practise reading user stories, prototypes, processes, and designs critically.
-- [ ] Spot Quality Risks: Learn to say what might prevent a quality goal from being met.
-- [ ] Ask Good Questions: Practise the questions that reveal ambiguity in a requirement.
-
-### Skill: Test and quality planning
-
-- [ ] Explain the Value of Planning: Say clearly why testing approaches, plans, and strategies matter.
-- [ ] Learn Delivery Methodologies: Understand how Agile and plan-driven delivery change the testing approach.
-- [ ] Follow Plans With Support: Work to the agreed approach and notice where it does not fit.
-- [ ] Learn Effectiveness Measures: Understand how testing effectiveness is measured and why it matters.
-
-### Skill: Test engineering
-
-- [ ] Explain Why Tooling Matters: Say why testing processes, environments, and tools are important.
-- [ ] Follow Practices and Standards: Work to test engineering standards with support.
-- [ ] Support Automation Maintenance: Help keep automated tests and tools healthy.
-- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
-
-### Skill Growth Plan: Toward Quality Assurance Test Analyst
-
-- [ ] Review the Next Level: Read the Quality assurance test analyst skill descriptions and mark what to build next.
-- [ ] Try Exploratory Testing: Learn structured exploratory testing and practise it with a session charter.
-- [ ] Build a Portfolio: Collect test designs, defect reports, and feedback as evidence.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

@@ -2,10 +2,105 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Data engineer** role at the **Senior data engineer** level. You design and lead the implementation of data flows connecting operational, analytics, and business intelligence systems, recognise opportunities to reuse existing flows, lead the build of streaming systems, optimise code for performance, and lead database management work. Your development now is about design judgement and leading delivery.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/data-engineer/2-senior-data-engineer.md`](../../../assessments/data/data-engineer/2-senior-data-engineer.md)
+- Upskilling: [`upskills/data/data-engineer/2-senior-data-engineer.md`](../../../upskills/data/data-engineer/2-senior-data-engineer.md)
+
+### Role Level Focus: Senior Data Engineer
+
+- [ ] Design Data Flows: Own the design, not just the implementation, and document your reasoning.
+- [ ] Champion Reuse: Look actively for existing flows before building new ones.
+- [ ] Lead Streaming Work: Take the lead on building data streaming systems.
+- [ ] Optimise for Performance: Set measurable performance goals and meet them.
+- [ ] Lead Database Management: Take responsibility for the databases your flows depend on.
+- [ ] Coach Colleagues: Mentor data engineers with agreed goals and review points.
+- [ ] Deepen Platform Knowledge: Reach professional-level certification on your data platform.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Communicate Both Ways: Explain data engineering to technical and non-technical stakeholders equally well.
+- [ ] Host Difficult Discussions: Support or host discussions where dynamics are hard.
+- [ ] Advocate for the Team: Represent your team's position externally.
+- [ ] Manage Differing Perspectives: Hold competing views without taking sides too early.
+
+### Skill: Data analysis and synthesis
+
+- [ ] Profile Real Data: Keep hands-on skill in profiling and source system analysis.
+- [ ] Present Clear Insights: Turn analysis into insight that changes what colleagues do.
+- [ ] Assess Quality Systematically: Establish quality measurement for the data you deliver.
+- [ ] Trace Lineage End to End: Document lineage for a critical flow and keep it current.
+
+### Skill: Data development process
+
+- [ ] Build Complex Products: Design, build, and test data products at genuine complexity or scale.
+- [ ] Build Teams for Integration: Bring together the people needed for a data integration service.
+- [ ] Design for Operability: Make products that can be run and fixed by people other than you.
+- [ ] Measure Delivery: Track how long changes take and where the friction is.
+
+### Skill: Data innovation
+
+- [ ] Understand Emerging Trends: Assess the organisational impact of new data tools and techniques.
+- [ ] Evaluate Rigorously: Run structured evaluations including cost, risk, and exit.
+- [ ] Learn Modern Architecture: Study patterns such as lakehouse, data mesh, and streaming.
+- [ ] Share Your Assessment: Publish findings so others do not repeat the work.
+
+### Skill: Data integration design
+
+- [ ] Select the Right Technology: Choose technologies that deliver resilient, scalable, future-proofed solutions.
+- [ ] Justify Your Choices: Record the options considered and why you picked one.
+- [ ] Design for Failure: Study failure modes and design pipelines that recover.
+- [ ] Consider Total Cost: Weigh licence, compute, and maintenance cost in every choice.
+
+### Skill: Data modelling
+
+- [ ] Model Across Subject Areas: Produce models spanning multiple domains.
+- [ ] Explain Model Selection: Teach which model type suits which purpose.
+- [ ] Apply Industry Patterns: Use recognised patterns and standards deliberately.
+- [ ] Compare and Align Models: Reconcile models built by different teams.
+
+### Skill: Metadata management
+
+- [ ] Design a Repository: Design a metadata repository fit for real needs.
+- [ ] Improve Existing Repositories: Recommend concrete improvements.
+- [ ] Know the Tooling Landscape: Understand a range of metadata tools and their strengths.
+- [ ] Advise Others: Coach less experienced colleagues in metadata management.
+
+### Skill: Problem management
+
+- [ ] Investigate Patterns: Initiate and monitor investigation into recurring problems.
+- [ ] Consult Specialists: Learn who to ask, and ask early rather than late.
+- [ ] Determine Resolutions: Decide the right fix and support its implementation.
+- [ ] Prevent Recurrence: Design the preventative measure, not just the repair.
+
+### Skill: Programming and build (data engineering)
+
+- [ ] Handle Moderate Complexity: Design, code, test, and document moderate-to-complex programs to standard.
+- [ ] Review Specifications: Collaborate on reviewing specifications before building.
+- [ ] Improve Maintainability: Refactor so future change is cheap and safe.
+- [ ] Study Performance: Profile a slow job, improve it, and publish the numbers.
+
+### Skill: Testing
+
+- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
+- [ ] Identify Issues and Risks: Surface risks associated with the work.
+- [ ] Analyse and Report: Report test activities and results so people can act on them.
+- [ ] Make Testing Continuous: Ensure data quality testing runs automatically and visibly.
+
+### Skill Growth Plan: Toward Lead Data Engineer
+
+- [ ] Review the Next Level: Read the Lead data engineer skill descriptions and mark your gaps.
+- [ ] Co-ordinate Teams: Take responsibility for work across more than one team.
+- [ ] Set Standards: Own a best practice standard for data engineering.
+- [ ] Engage Across Government: Join the cross-government data engineering community.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,98 +198,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Data engineer** role at the **Senior data engineer** level. You design and lead the implementation of data flows connecting operational, analytics, and business intelligence systems, recognise opportunities to reuse existing flows, lead the build of streaming systems, optimise code for performance, and lead database management work. Your development now is about design judgement and leading delivery.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/data-engineer/2-senior-data-engineer.md`](../../../assessments/data/data-engineer/2-senior-data-engineer.md)
-- Upskilling: [`upskills/data/data-engineer/2-senior-data-engineer.md`](../../../upskills/data/data-engineer/2-senior-data-engineer.md)
-
-### Role Level Focus: Senior Data Engineer
-
-- [ ] Design Data Flows: Own the design, not just the implementation, and document your reasoning.
-- [ ] Champion Reuse: Look actively for existing flows before building new ones.
-- [ ] Lead Streaming Work: Take the lead on building data streaming systems.
-- [ ] Optimise for Performance: Set measurable performance goals and meet them.
-- [ ] Lead Database Management: Take responsibility for the databases your flows depend on.
-- [ ] Coach Colleagues: Mentor data engineers with agreed goals and review points.
-- [ ] Deepen Platform Knowledge: Reach professional-level certification on your data platform.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Communicate Both Ways: Explain data engineering to technical and non-technical stakeholders equally well.
-- [ ] Host Difficult Discussions: Support or host discussions where dynamics are hard.
-- [ ] Advocate for the Team: Represent your team's position externally.
-- [ ] Manage Differing Perspectives: Hold competing views without taking sides too early.
-
-### Skill: Data analysis and synthesis
-
-- [ ] Profile Real Data: Keep hands-on skill in profiling and source system analysis.
-- [ ] Present Clear Insights: Turn analysis into insight that changes what colleagues do.
-- [ ] Assess Quality Systematically: Establish quality measurement for the data you deliver.
-- [ ] Trace Lineage End to End: Document lineage for a critical flow and keep it current.
-
-### Skill: Data development process
-
-- [ ] Build Complex Products: Design, build, and test data products at genuine complexity or scale.
-- [ ] Build Teams for Integration: Bring together the people needed for a data integration service.
-- [ ] Design for Operability: Make products that can be run and fixed by people other than you.
-- [ ] Measure Delivery: Track how long changes take and where the friction is.
-
-### Skill: Data innovation
-
-- [ ] Understand Emerging Trends: Assess the organisational impact of new data tools and techniques.
-- [ ] Evaluate Rigorously: Run structured evaluations including cost, risk, and exit.
-- [ ] Learn Modern Architecture: Study patterns such as lakehouse, data mesh, and streaming.
-- [ ] Share Your Assessment: Publish findings so others do not repeat the work.
-
-### Skill: Data integration design
-
-- [ ] Select the Right Technology: Choose technologies that deliver resilient, scalable, future-proofed solutions.
-- [ ] Justify Your Choices: Record the options considered and why you picked one.
-- [ ] Design for Failure: Study failure modes and design pipelines that recover.
-- [ ] Consider Total Cost: Weigh licence, compute, and maintenance cost in every choice.
-
-### Skill: Data modelling
-
-- [ ] Model Across Subject Areas: Produce models spanning multiple domains.
-- [ ] Explain Model Selection: Teach which model type suits which purpose.
-- [ ] Apply Industry Patterns: Use recognised patterns and standards deliberately.
-- [ ] Compare and Align Models: Reconcile models built by different teams.
-
-### Skill: Metadata management
-
-- [ ] Design a Repository: Design a metadata repository fit for real needs.
-- [ ] Improve Existing Repositories: Recommend concrete improvements.
-- [ ] Know the Tooling Landscape: Understand a range of metadata tools and their strengths.
-- [ ] Advise Others: Coach less experienced colleagues in metadata management.
-
-### Skill: Problem management
-
-- [ ] Investigate Patterns: Initiate and monitor investigation into recurring problems.
-- [ ] Consult Specialists: Learn who to ask, and ask early rather than late.
-- [ ] Determine Resolutions: Decide the right fix and support its implementation.
-- [ ] Prevent Recurrence: Design the preventative measure, not just the repair.
-
-### Skill: Programming and build (data engineering)
-
-- [ ] Handle Moderate Complexity: Design, code, test, and document moderate-to-complex programs to standard.
-- [ ] Review Specifications: Collaborate on reviewing specifications before building.
-- [ ] Improve Maintainability: Refactor so future change is cheap and safe.
-- [ ] Study Performance: Profile a slow job, improve it, and publish the numbers.
-
-### Skill: Testing
-
-- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
-- [ ] Identify Issues and Risks: Surface risks associated with the work.
-- [ ] Analyse and Report: Report test activities and results so people can act on them.
-- [ ] Make Testing Continuous: Ensure data quality testing runs automatically and visibly.
-
-### Skill Growth Plan: Toward Lead Data Engineer
-
-- [ ] Review the Next Level: Read the Lead data engineer skill descriptions and mark your gaps.
-- [ ] Co-ordinate Teams: Take responsibility for work across more than one team.
-- [ ] Set Standards: Own a best practice standard for data engineering.
-- [ ] Engage Across Government: Join the cross-government data engineering community.

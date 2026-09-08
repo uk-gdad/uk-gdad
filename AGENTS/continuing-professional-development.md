@@ -5,14 +5,15 @@ Contract: [`uk-gdad-pcf-continuing-professional-development-checklists/spec/inde
 ## Shape
 
 Every file has the same title — `# UK GDAD PCF Continuing Professional
-Development Checklist` — and five `##` sections. Four are general and identical
-everywhere, copied from `spec/template.md`:
-
-`## Types` · `## Phases` · `## Events` · `## Teamwork`
-
-One is per-level and is the whole reason the file exists:
+Development Checklist` — and five `##` sections, in this order. First, and the
+whole reason the file exists:
 
 `## UK GDAD PCF Role Skill Specifics`
+
+Then four general sections, identical everywhere, copied from
+`spec/template.md`:
+
+`## Types` · `## Phases` · `## Events` · `## Teamwork`
 
 ## Writing the level-specific section
 

@@ -52,21 +52,20 @@ in the project specification for what this rules out.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well the person does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Stakeholder relationship
 management:
 
-- **3 — Advanced**: they managed their own set of stakeholder relationships
+- **3 — Practitioner**: they managed their own set of stakeholder relationships
   effectively, resolving one disagreement about scope without escalating it.
 - **4 — Expert**: they directed the stakeholder relationship strategy for more than one
   team, made sure each team's stakeholder objectives were set and supported, and
@@ -116,17 +115,16 @@ wording is identical to the technical writer level below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Because the text repeats the level below's wording word for
+Baseline: 3 — Practitioner. Because the text repeats the level below's wording word for
 word, the honest baseline for this specific skill stays the same as that level — this
 level's real step up shows in its own accountability to standardise tools, ways of
 communicating and processes across teams, not in a claim this text does not make.
 
 **Behavioural indicators**
 
-- 0 — None: has not compared delivery methods for a piece of technical writing work.
-- 1 — Beginner: has followed a delivery process someone else chose.
-- 2 — Intermediate: has helped a team evaluate one delivery approach, with guidance.
-- 3 — Advanced: independently identifies and compares delivery methods, measures and
+- 1 — Awareness: has followed a delivery process someone else chose.
+- 2 — Working: has helped a team evaluate one delivery approach, with guidance.
+- 3 — Practitioner: independently identifies and compares delivery methods, measures and
   evaluates outcomes, and helps a team manage its outcomes, priorities and scope
   against an agreed MVP.
 - 4 — Expert: standardises the delivery approach across more than one team of
@@ -143,10 +141,9 @@ communicating and processes across teams, not in a claim this text does not make
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -161,20 +158,19 @@ This wording is identical to the technical writer level below.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording here — "understand" and "show
+Baseline: 2 — Working. The framework's own wording here — "understand" and "show
 the value" — is lighter than the directing and standardising language used for this
 level's other skills, and it is unchanged from the level below, so the honest baseline
-for this one skill stays at Intermediate even at the top of this role's ladder.
+for this one skill stays at Working even at the top of this role's ladder.
 
 **Behavioural indicators**
 
-- 0 — None: has not used a prototyping technique in documentation work.
-- 1 — Beginner: has followed a prototyping technique someone else chose for a
+- 1 — Awareness: has followed a prototyping technique someone else chose for a
   documentation deliverable.
-- 2 — Intermediate: understands when to use a specific prototyping technique, such as a
+- 2 — Working: understands when to use a specific prototyping technique, such as a
   draft documentation structure or a sample API reference, and has shown a team the
   value of prototyping before committing to a full piece of content.
-- 3 — Advanced: independently chooses between more than one prototyping technique for
+- 3 — Practitioner: independently chooses between more than one prototyping technique for
   documentation and advises other writers on the choice.
 - 4 — Expert: has standardised how more than one team of technical writers approaches
   prototyping documentation.
@@ -189,10 +185,9 @@ for this one skill stays at Intermediate even at the top of this role's ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -216,11 +211,10 @@ changes at this level.
 
 **Behavioural indicators**
 
-- 0 — None: has not directed a stakeholder relationship strategy for a team.
-- 1 — Beginner: has managed their own individual stakeholder relationships, without
+- 1 — Awareness: has managed their own individual stakeholder relationships, without
   directing a strategy for others.
-- 2 — Intermediate: has helped set stakeholder objectives for one team, with support.
-- 3 — Advanced: independently ensures a team's stakeholder objectives are set and
+- 2 — Working: has helped set stakeholder objectives for one team, with support.
+- 3 — Practitioner: independently ensures a team's stakeholder objectives are set and
   supported, and has resolved a moderately difficult stakeholder issue alone.
 - 4 — Expert: directs the stakeholder relationship strategy across more than one
   team, and has negotiated directly with a senior stakeholder to resolve an issue and
@@ -237,10 +231,9 @@ changes at this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -264,11 +257,10 @@ too.
 
 **Behavioural indicators**
 
-- 0 — None: has not led the design of a strategy or directed its evaluation.
-- 1 — Beginner: has contributed to a strategy that someone else led.
-- 2 — Intermediate: has helped evaluate one strategy or policy against business
+- 1 — Awareness: has contributed to a strategy that someone else led.
+- 2 — Working: has helped evaluate one strategy or policy against business
   requirements, with support.
-- 3 — Advanced: has led part of the design of a strategy independently, without yet
+- 3 — Practitioner: has led part of the design of a strategy independently, without yet
   directing its full evaluation.
 - 4 — Expert: leads the design and implementation of a strategy for technical writing,
   and directs the evaluation of strategies or policies to check business requirements
@@ -284,10 +276,9 @@ too.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -309,12 +300,10 @@ assuring its accuracy, so the honest baseline stays at the same high point.
 
 **Behavioural indicators**
 
-- 0 — None: cannot demonstrate knowledge of the technologies behind a digital service
-  they are responsible for documenting.
-- 1 — Beginner: has a surface-level understanding of one technology, gained secondhand.
-- 2 — Intermediate: demonstrates knowledge of one technology used to build or operate a
+- 1 — Awareness: has a surface-level understanding of one technology, gained secondhand.
+- 2 — Working: demonstrates knowledge of one technology used to build or operate a
   service, with some support from technical colleagues.
-- 3 — Advanced: independently demonstrates knowledge of the technologies used to build
+- 3 — Practitioner: independently demonstrates knowledge of the technologies used to build
   and operate a digital service, and collaborates closely with colleagues across
   different digital disciplines.
 - 4 — Expert: is trusted by technical leaders to assure the technical accuracy of a
@@ -332,10 +321,9 @@ assuring its accuracy, so the honest baseline stays at the same high point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -361,12 +349,11 @@ across teams.
 
 **Behavioural indicators**
 
-- 0 — None: has not given direction on tools or methods to meet a user need.
-- 1 — Beginner: has followed direction someone else gave on which tool or method to
+- 1 — Awareness: has followed direction someone else gave on which tool or method to
   use.
-- 2 — Intermediate: has met a user need across one channel, with support choosing the
+- 2 — Working: has met a user need across one channel, with support choosing the
   method.
-- 3 — Advanced: independently meets user needs across a variety of channels, and
+- 3 — Practitioner: independently meets user needs across a variety of channels, and
   brings insight into how those needs have changed over time.
 - 4 — Expert: gives direction to a team of writers on which tools or methods to use,
   and applies strategic thinking to shape the best overall service for the end user
@@ -383,10 +370,9 @@ across teams.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -414,10 +400,9 @@ relationship management, whose text genuinely changes from the level below.
 
 **Behavioural indicators**
 
-- 0 — None: has not directed a content life cycle process across more than one team.
-- 1 — Beginner: has reviewed their own content on a cycle set by someone else.
-- 2 — Intermediate: has overseen one team's content production, with support.
-- 3 — Advanced: independently oversees a team's content work to ensure it meets user
+- 1 — Awareness: has reviewed their own content on a cycle set by someone else.
+- 2 — Working: has overseen one team's content production, with support.
+- 3 — Practitioner: independently oversees a team's content work to ensure it meets user
   needs, and demonstrates extensive experience across multiple channels.
 - 4 — Expert: directs the approach to content life cycle management across teams, is
   accountable for the quality of content produced, and identifies capability gaps in
@@ -434,10 +419,9 @@ relationship management, whose text genuinely changes from the level below.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

@@ -2,10 +2,91 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Infrastructure engineer** role at the **Associate infrastructure engineer** level in the UK GDAD PCF. You are a trainee working in an established team, supporting infrastructure engineers under their direction. Infrastructure underpins every internal service and every service to the public, so what you learn here matters to a lot of people.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md`](../../../assessments/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md)
+- Upskilling: [`upskills/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md`](../../../upskills/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md)
+
+### Role Level Focus: Associate Infrastructure Engineer
+
+- [ ] Learn the Estate: Map what infrastructure exists, what it supports, and who owns it.
+- [ ] Get a Cloud Foundation Certification: Complete one for the platform your organisation uses.
+- [ ] Build Terminal Confidence: Practise the command line until it feels natural.
+- [ ] Learn Networking Basics: Understand addressing, routing, and name resolution.
+- [ ] Build a Lab: Set up a safe environment where you can break things.
+- [ ] Shadow Engineers: Note what they check first when something is wrong.
+- [ ] Track Your Training: Keep a record of courses, exercises, and shadowing with dates and outcomes.
+
+### Skill: IT infrastructure
+
+- [ ] Support Solutions and Services: Help support computing, storage, networking, and physical infrastructure.
+- [ ] Learn the Software Landscape: Understand commercial, open source, and cloud options in use.
+- [ ] Learn Cloud Service Models: Know what infrastructure, platform, and software as a service each mean.
+- [ ] Get Hands-On: Build something small yourself in a lab environment.
+
+### Skill: Information security
+
+- [ ] Explain Security Controls: Describe information security and the controls available.
+- [ ] Complete Mandatory Training: Finish your organisation's security and data protection training.
+- [ ] Learn Least Privilege: Understand what access you have, why, and who reviews it.
+- [ ] Handle Secrets Properly: Learn how credentials are stored and never put them in code.
+
+### Skill: Modern development standards
+
+- [ ] Explain Why Standards Matter: List concrete problems that standards and automation prevent.
+- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
+- [ ] Learn Infrastructure as Code: Understand why infrastructure is defined in files, not clicked.
+- [ ] Set Up Your Tooling: Get the team's linters and checks running on your machine.
+
+### Skill: Ownership and topic
+
+- [ ] Learn Resolution Processes: Show awareness of how problems get resolved.
+- [ ] Pass Problems On Properly: Hand over with enough context that nothing is lost.
+- [ ] Follow Up: Check what happened to something you passed on.
+- [ ] Take Small Ownership: Volunteer to own one issue end to end.
+
+### Skill: Problem management
+
+- [ ] Investigate Problems: Look into problems in systems, processes, and services.
+- [ ] Understand Problem Levels: Learn the difference between strategic, tactical, and operational problems.
+- [ ] Contribute to Remedies: Help implement fixes and preventative measures.
+- [ ] Write Up What You Find: Document each investigation clearly.
+
+### Skill: Systems design
+
+- [ ] Assist on Component Design: Contribute to designing parts of larger systems.
+- [ ] Learn Diagram Conventions: Practise drawing infrastructure diagrams others can follow.
+- [ ] Study Trade-offs: For one design decision, record the options and why one won.
+- [ ] Read Existing Designs: Study your organisation's designs and note what makes them clear.
+
+### Skill: Systems integration
+
+- [ ] Explain the Principles: Write a clear explanation of how systems integrate in your estate.
+- [ ] Describe the Challenges: List the practical difficulties of building and testing interfaces.
+- [ ] Trace a Real Path: Follow traffic end to end and document every hop.
+- [ ] Learn Environment Differences: Understand how test and production environments differ.
+
+### Skill: Troubleshooting and problem resolution
+
+- [ ] Learn Technology Capabilities: Build awareness of the different technologies in your estate.
+- [ ] Demonstrate Basic Troubleshooting: Diagnose simple faults methodically.
+- [ ] Adopt a Method: Learn a structured approach such as working up the layers.
+- [ ] Master the Tools: Get comfortable with logs, monitoring, and basic network diagnostics.
+
+### Skill Growth Plan: Toward Infrastructure Engineer
+
+- [ ] Review the Next Level: Read the Infrastructure engineer skill descriptions and mark what to build next.
+- [ ] Learn Scripting: Start a structured course in your team's scripting language.
+- [ ] Build and Configure: Ask to build and configure something yourself, with review.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,84 +184,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Infrastructure engineer** role at the **Associate infrastructure engineer** level in the UK GDAD PCF. You are a trainee working in an established team, supporting infrastructure engineers under their direction. Infrastructure underpins every internal service and every service to the public, so what you learn here matters to a lot of people.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md`](../../../assessments/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md)
-- Upskilling: [`upskills/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md`](../../../upskills/it-operations/infrastructure-engineer/1-associate-infrastructure-engineer.md)
-
-### Role Level Focus: Associate Infrastructure Engineer
-
-- [ ] Learn the Estate: Map what infrastructure exists, what it supports, and who owns it.
-- [ ] Get a Cloud Foundation Certification: Complete one for the platform your organisation uses.
-- [ ] Build Terminal Confidence: Practise the command line until it feels natural.
-- [ ] Learn Networking Basics: Understand addressing, routing, and name resolution.
-- [ ] Build a Lab: Set up a safe environment where you can break things.
-- [ ] Shadow Engineers: Note what they check first when something is wrong.
-- [ ] Track Your Training: Keep a record of courses, exercises, and shadowing with dates and outcomes.
-
-### Skill: IT infrastructure
-
-- [ ] Support Solutions and Services: Help support computing, storage, networking, and physical infrastructure.
-- [ ] Learn the Software Landscape: Understand commercial, open source, and cloud options in use.
-- [ ] Learn Cloud Service Models: Know what infrastructure, platform, and software as a service each mean.
-- [ ] Get Hands-On: Build something small yourself in a lab environment.
-
-### Skill: Information security
-
-- [ ] Explain Security Controls: Describe information security and the controls available.
-- [ ] Complete Mandatory Training: Finish your organisation's security and data protection training.
-- [ ] Learn Least Privilege: Understand what access you have, why, and who reviews it.
-- [ ] Handle Secrets Properly: Learn how credentials are stored and never put them in code.
-
-### Skill: Modern development standards
-
-- [ ] Explain Why Standards Matter: List concrete problems that standards and automation prevent.
-- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
-- [ ] Learn Infrastructure as Code: Understand why infrastructure is defined in files, not clicked.
-- [ ] Set Up Your Tooling: Get the team's linters and checks running on your machine.
-
-### Skill: Ownership and topic
-
-- [ ] Learn Resolution Processes: Show awareness of how problems get resolved.
-- [ ] Pass Problems On Properly: Hand over with enough context that nothing is lost.
-- [ ] Follow Up: Check what happened to something you passed on.
-- [ ] Take Small Ownership: Volunteer to own one issue end to end.
-
-### Skill: Problem management
-
-- [ ] Investigate Problems: Look into problems in systems, processes, and services.
-- [ ] Understand Problem Levels: Learn the difference between strategic, tactical, and operational problems.
-- [ ] Contribute to Remedies: Help implement fixes and preventative measures.
-- [ ] Write Up What You Find: Document each investigation clearly.
-
-### Skill: Systems design
-
-- [ ] Assist on Component Design: Contribute to designing parts of larger systems.
-- [ ] Learn Diagram Conventions: Practise drawing infrastructure diagrams others can follow.
-- [ ] Study Trade-offs: For one design decision, record the options and why one won.
-- [ ] Read Existing Designs: Study your organisation's designs and note what makes them clear.
-
-### Skill: Systems integration
-
-- [ ] Explain the Principles: Write a clear explanation of how systems integrate in your estate.
-- [ ] Describe the Challenges: List the practical difficulties of building and testing interfaces.
-- [ ] Trace a Real Path: Follow traffic end to end and document every hop.
-- [ ] Learn Environment Differences: Understand how test and production environments differ.
-
-### Skill: Troubleshooting and problem resolution
-
-- [ ] Learn Technology Capabilities: Build awareness of the different technologies in your estate.
-- [ ] Demonstrate Basic Troubleshooting: Diagnose simple faults methodically.
-- [ ] Adopt a Method: Learn a structured approach such as working up the layers.
-- [ ] Master the Tools: Get comfortable with logs, monitoring, and basic network diagnostics.
-
-### Skill Growth Plan: Toward Infrastructure Engineer
-
-- [ ] Review the Next Level: Read the Infrastructure engineer skill descriptions and mark what to build next.
-- [ ] Learn Scripting: Start a structured course in your team's scripting language.
-- [ ] Build and Configure: Ask to build and configure something yourself, with review.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

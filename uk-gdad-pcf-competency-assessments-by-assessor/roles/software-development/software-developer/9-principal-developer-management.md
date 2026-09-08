@@ -54,23 +54,22 @@ in the project specification for what that rules out.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale.
+Every skill in the competency matrix is rated on the same four-point scale.
 This is a **proficiency** scale — it rates how well the person does the thing,
 on the evidence available — not a frequency scale, and it is not about how
 often they do it or how they feel about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **A worked example**, using Development process optimisation, one of the skills
 this level names:
 
-- **3 — Advanced**: the candidate can describe a development process they
+- **3 — Practitioner**: the candidate can describe a development process they
   improved for their own team, with a measurable result, but the change was
   scoped to one team and did not require negotiating resource or funding with
   a client function.
@@ -175,12 +174,10 @@ just do it themselves.
 
 **Behavioural indicators**
 
-- 0 — None: has never been responsible for whether services meet availability
-  or capacity targets.
-- 1 — Beginner: can describe an availability or capacity standard, but has only
+- 1 — Awareness: can describe an availability or capacity standard, but has only
   followed one someone else wrote.
-- 2 — Intermediate: has escalated a capacity problem to someone else to fix.
-- 3 — Advanced: has independently identified and remediated a capacity issue
+- 2 — Working: has escalated a capacity problem to someone else to fix.
+- 3 — Practitioner: has independently identified and remediated a capacity issue
   for a service they own.
 - 4 — Expert: owns the organisation's availability and capacity standard, has
   materially revised it, and coaches other leads and principals on
@@ -196,10 +193,9 @@ just do it themselves.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -222,13 +218,11 @@ track should be doing independently and should be able to lead others through.
 
 **Behavioural indicators**
 
-- 0 — None: has never proposed or led a development programme spanning more
-  than one team.
-- 1 — Beginner: has contributed to a programme someone else set the strategy
+- 1 — Awareness: has contributed to a programme someone else set the strategy
   for.
-- 2 — Intermediate: has led delivery of one workstream within a programme, with
+- 2 — Working: has led delivery of one workstream within a programme, with
   support setting its direction.
-- 3 — Advanced: has independently proposed and led a programme scoped to their
+- 3 — Practitioner: has independently proposed and led a programme scoped to their
   own area, with a measurable business result.
 - 4 — Expert: has set the strategy and managed resource allocation for a
   solution development programme, working directly with a client function to
@@ -245,10 +239,9 @@ track should be doing independently and should be able to lead others through.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -270,10 +263,9 @@ the ladder.
 
 **Behavioural indicators**
 
-- 0 — None: has never designed or reviewed a solution for security.
-- 1 — Beginner: can name relevant threats but has not led a security review.
-- 2 — Intermediate: reviews a colleague's solution for security with support.
-- 3 — Advanced: independently reviews and quality assures solutions for
+- 1 — Awareness: can name relevant threats but has not led a security review.
+- 2 — Working: reviews a colleague's solution for security with support.
+- 3 — Practitioner: independently reviews and quality assures solutions for
   security across their own team.
 - 4 — Expert: sets the security practice other teams follow, and has changed
   how the organisation approaches a class of threat at scale.
@@ -289,10 +281,9 @@ the ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -313,12 +304,10 @@ happens across programmes, not just a single project.
 
 **Behavioural indicators**
 
-- 0 — None: does not know what "modern development standards" means for their
-  technology area.
-- 1 — Beginner: can name a standard but has only applied one someone else
+- 1 — Awareness: can name a standard but has only applied one someone else
   chose.
-- 2 — Intermediate: applies standards reliably to their own work.
-- 3 — Advanced: independently identifies and applies the right standards for a
+- 2 — Working: applies standards reliably to their own work.
+- 3 — Practitioner: independently identifies and applies the right standards for a
   complex project.
 - 4 — Expert: has introduced a standard adopted across multiple programmes, and
   can describe coaching several other leads or principals through it.
@@ -334,10 +323,9 @@ happens across programmes, not just a single project.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -353,7 +341,7 @@ standards and tools.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is the anomaly flagged in `## About this role
+Baseline: 3 — Practitioner. This is the anomaly flagged in `## About this role
 level`: the wording here is the same as developer and senior developer
 level — independent delivery against agreed specifications — not the
 technical principal developer's "maintain technical responsibility for all
@@ -363,13 +351,11 @@ specific skill does not support it here.
 
 **Behavioural indicators**
 
-- 0 — None: cannot deliver a program or script from an agreed specification
-  without significant support.
-- 1 — Beginner: delivers small pieces of a specification under close
+- 1 — Awareness: delivers small pieces of a specification under close
   direction.
-- 2 — Intermediate: delivers medium-complexity work against a specification
+- 2 — Working: delivers medium-complexity work against a specification
   with some guidance.
-- 3 — Advanced: independently designs, codes, tests and documents work of
+- 3 — Practitioner: independently designs, codes, tests and documents work of
   medium-to-high complexity from an agreed specification, using the right
   standards and tools without prompting.
 - 4 — Expert: takes technical responsibility for a whole development project
@@ -387,10 +373,9 @@ specific skill does not support it here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -410,11 +395,9 @@ language, matching the top of the ladder.
 
 **Behavioural indicators**
 
-- 0 — None: has never run or contributed meaningfully to a prototyping
-  exercise.
-- 1 — Beginner: has taken part in a prototype run by someone else.
-- 2 — Intermediate: runs a prototype with support on method choice.
-- 3 — Advanced: independently runs prototyping exercises and chooses the right
+- 1 — Awareness: has taken part in a prototype run by someone else.
+- 2 — Working: runs a prototype with support on method choice.
+- 3 — Practitioner: independently runs prototyping exercises and chooses the right
   method for a given problem.
 - 4 — Expert: coaches other principals or leads on prototyping best practice,
   and has shaped a strategic service design end to end using prototyping.
@@ -429,10 +412,9 @@ language, matching the top of the ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -445,18 +427,17 @@ The framework expects you to identify, locate and fix service faults.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording stays the same short, plain form used
+Baseline: 3 — Practitioner. This wording stays the same short, plain form used
 across senior, lead and principal levels — the expectation is independent,
 reliable fault resolution; the framework does not claim an expert or
 teach-others dimension for this specific skill at this level.
 
 **Behavioural indicators**
 
-- 0 — None: has never diagnosed or fixed a service fault unsupervised.
-- 1 — Beginner: fixes faults only when told exactly what to do.
-- 2 — Intermediate: fixes straightforward faults with some support on
+- 1 — Awareness: fixes faults only when told exactly what to do.
+- 2 — Working: fixes straightforward faults with some support on
   diagnosis.
-- 3 — Advanced: independently identifies, locates and fixes faults, including
+- 3 — Practitioner: independently identifies, locates and fixes faults, including
   ones with an unclear root cause.
 - 4 — Expert: is the person other teams escalate the hardest faults to, and has
   changed how the organisation diagnoses a class of fault — beyond what this
@@ -472,10 +453,9 @@ teach-others dimension for this specific skill at this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -501,12 +481,10 @@ signal in this level's skill set of what "principal" means.
 
 **Behavioural indicators**
 
-- 0 — None: has not designed a system beyond a component of managed
-  complexity.
-- 1 — Beginner: contributes to high-complexity system designs under direction.
-- 2 — Intermediate: designs systems of managed complexity with support on
+- 1 — Awareness: contributes to high-complexity system designs under direction.
+- 2 — Working: designs systems of managed complexity with support on
   standards.
-- 3 — Advanced: independently designs systems of high risk, impact and
+- 3 — Practitioner: independently designs systems of high risk, impact and
   complexity within an established architecture.
 - 4 — Expert: controls system design practice across an enterprise
   architecture, has influenced how the wider industry approaches a class of
@@ -524,10 +502,9 @@ signal in this level's skill set of what "principal" means.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -542,18 +519,17 @@ integration testing activities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is identical to lead and senior developer
+Baseline: 3 — Practitioner. This wording is identical to lead and senior developer
 level — co-ordinating across systems independently — and does not itself claim
 a further teach-others or programme-wide dimension, so a baseline of 3 reflects
 what the text actually supports rather than the level's general seniority.
 
 **Behavioural indicators**
 
-- 0 — None: has not defined or co-ordinated an integration build.
-- 1 — Beginner: has taken part in an integration build defined by someone
+- 1 — Awareness: has taken part in an integration build defined by someone
   else.
-- 2 — Intermediate: co-ordinates a straightforward integration with support.
-- 3 — Advanced: independently defines the integration build for work spanning
+- 2 — Working: co-ordinates a straightforward integration with support.
+- 3 — Practitioner: independently defines the integration build for work spanning
   multiple systems, and co-ordinates the activity across them.
 - 4 — Expert: has set the integration approach for a programme spanning many
   systems and teams, adopted as the pattern others follow — beyond what this
@@ -569,10 +545,9 @@ what the text actually supports rather than the level's general seniority.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -589,19 +564,18 @@ and offer recommendations on the best tools and methods to use.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is unchanged from senior and lead level —
+Baseline: 3 — Practitioner. This wording is unchanged from senior and lead level —
 "guiding others" is present, but the organisation-wide championing seen in
 other principal-level skills is not explicit here, so 3 reflects what the text
 supports rather than the level's general seniority.
 
 **Behavioural indicators**
 
-- 0 — None: has never engaged with user research findings in their work.
-- 1 — Beginner: reads user research someone else produced, without acting on
+- 1 — Awareness: reads user research someone else produced, without acting on
   it independently.
-- 2 — Intermediate: uses user research to inform their own work, with support
+- 2 — Working: uses user research to inform their own work, with support
   distinguishing needs from wants.
-- 3 — Advanced: independently represents user needs in technical and
+- 3 — Practitioner: independently represents user needs in technical and
   programme-level decisions, and coaches others on distinguishing a user need
   from a stated desire.
 - 4 — Expert: has championed user research at organisation scale, changing how
@@ -619,10 +593,9 @@ supports rather than the level's general seniority.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

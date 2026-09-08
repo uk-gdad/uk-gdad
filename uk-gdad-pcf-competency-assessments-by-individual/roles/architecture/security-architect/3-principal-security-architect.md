@@ -49,21 +49,20 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
 A worked example, using **Designing secure systems**:
 
-- Someone rated **3 — Advanced** independently develops new patterns that
+- Someone rated **3 — Practitioner** independently develops new patterns that
   another team has adopted, but has not yet set precedents that shape design
   across the organisation.
 - Someone rated **4 — Expert** has created precedents and set direction
@@ -144,13 +143,11 @@ in the skill.
 
 **Behavioural indicators**
 
-- 0 — None: Has not directed a change to how analysis is done beyond their
-  own work.
-- 1 — Beginner: Reviews analysis produced by others but does not yet direct
+- 1 — Awareness: Reviews analysis produced by others but does not yet direct
   changes to how it is done.
-- 2 — Intermediate: Contributes to changing an analytical approach with
+- 2 — Working: Contributes to changing an analytical approach with
   support, and monitors part of the technical environment for risk drift.
-- 3 — Advanced: Independently monitors the technical environment and
+- 3 — Practitioner: Independently monitors the technical environment and
   revisits past risk decisions when circumstances change, across a defined
   area.
 - 4 — Expert: Sets and directs analytical best practice and policy across the
@@ -167,10 +164,9 @@ in the skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -195,13 +191,11 @@ not by inference.
 
 **Behavioural indicators**
 
-- 0 — None: Has not communicated a security position at the most senior
-  levels of an organisation.
-- 1 — Beginner: Communicates well at team and department level, but has not
+- 1 — Awareness: Communicates well at team and department level, but has not
   been tested at board or equivalent level.
-- 2 — Intermediate: Communicates with senior stakeholders on moderately
+- 2 — Working: Communicates with senior stakeholders on moderately
   complex risk, with support for the highest-stakes conversations.
-- 3 — Advanced: Independently communicates complex risk to senior
+- 3 — Practitioner: Independently communicates complex risk to senior
   stakeholders, but has not yet held the line under the most constrained
   timescales or the highest complexity.
 - 4 — Expert: Manages stakeholder expectations at the most senior levels
@@ -220,10 +214,9 @@ not by inference.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -244,13 +237,11 @@ independently.
 
 **Behavioural indicators**
 
-- 0 — None: Has not led the design of a solution to a complex, high-risk
-  problem.
-- 1 — Beginner: Contributes to complex design work under someone else's
+- 1 — Awareness: Contributes to complex design work under someone else's
   direction.
-- 2 — Intermediate: Leads design for a moderately complex problem with
+- 2 — Working: Leads design for a moderately complex problem with
   support, and can challenge an existing pattern when it does not fit.
-- 3 — Advanced: Independently leads design for complex, high-risk problems,
+- 3 — Practitioner: Independently leads design for complex, high-risk problems,
   and has defined a pattern others have questioned and defended.
 - 4 — Expert: Has created precedents that set the direction for how security
   is designed across the organisation or beyond it.
@@ -268,10 +259,9 @@ independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -291,12 +281,11 @@ by senior risk owners as an expert is the definition of Expert on this scale
 
 **Behavioural indicators**
 
-- 0 — None: Has not been the point of escalation for a risk decision.
-- 1 — Beginner: Advises on complex risk with regular support from someone
+- 1 — Awareness: Advises on complex risk with regular support from someone
   more senior.
-- 2 — Intermediate: Handles complex risk decisions with occasional support,
+- 2 — Working: Handles complex risk decisions with occasional support,
   and is trusted by some risk owners.
-- 3 — Advanced: Independently advises on the most complex risk decisions
+- 3 — Practitioner: Independently advises on the most complex risk decisions
   they encounter, though escalation for the very hardest cases still goes
   elsewhere.
 - 4 — Expert: Is the named point of escalation for the organisation's most
@@ -314,10 +303,9 @@ by senior risk owners as an expert is the definition of Expert on this scale
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -332,24 +320,22 @@ across the organisation. Engage with the broader security community.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats lead security architect's
+Baseline: 3 — Practitioner. The framework repeats lead security architect's
 wording for this skill word for word — record this rather than smoothing it
 into a higher number. What changes at principal is scope, carried elsewhere
 in this level's accountabilities ("further the profession... within and
 outside the organisation"), so you should look for organisation-wide
 or cross-organisation influence as the evidence that separates a principal's
-Advanced from a lead's, while recognising the framework itself does not
+Practitioner from a lead's, while recognising the framework itself does not
 mandate Expert for this specific skill's text.
 
 **Behavioural indicators**
 
-- 0 — None: Has not engaged with the broader security community or
-  contributed to a technology development.
-- 1 — Beginner: Follows developments in the field but has not yet
+- 1 — Awareness: Follows developments in the field but has not yet
   contributed to them.
-- 2 — Intermediate: Designs the use of new technology across parts of the
+- 2 — Working: Designs the use of new technology across parts of the
   organisation, with some support, and engages occasionally externally.
-- 3 — Advanced: Independently designs the organisation-wide use of new
+- 3 — Practitioner: Independently designs the organisation-wide use of new
   technology, and actively and regularly engages with the broader security
   community.
 - 4 — Expert: Is recognised outside the organisation as shaping how security
@@ -367,10 +353,9 @@ mandate Expert for this specific skill's text.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -393,13 +378,11 @@ repeat it.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot judge exploitability of a vulnerability against a complex
-  architecture.
-- 1 — Beginner: Explains architectures and judges exploitability with
+- 1 — Awareness: Explains architectures and judges exploitability with
   regular support.
-- 2 — Intermediate: Explains complex architectures independently, but
+- 2 — Working: Explains complex architectures independently, but
   exploitability judgements are checked by someone else.
-- 3 — Advanced: Independently explains complex architectures and judges
+- 3 — Practitioner: Independently explains complex architectures and judges
   exploitability accurately, without external industry influence yet.
 - 4 — Expert: Leads or influences security technology practice in the
   security industry, and their exploitability judgement is treated as
@@ -416,10 +399,9 @@ repeat it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -439,13 +421,11 @@ not just the attempt.
 
 **Behavioural indicators**
 
-- 0 — None: Has not led a change to policy or process arising from security
-  implications.
-- 1 — Beginner: Raises concerns about policy or process but has not led a
+- 1 — Awareness: Raises concerns about policy or process but has not led a
   change to either.
-- 2 — Intermediate: Contributes to a policy or process change with support
+- 2 — Working: Contributes to a policy or process change with support
   from someone more senior.
-- 3 — Advanced: Independently challenges a policy or process and secures a
+- 3 — Practitioner: Independently challenges a policy or process and secures a
   change, though not yet at organisational scale.
 - 4 — Expert: Leads changes to policy and process at organisational or
   inter-organisational scale, balancing legal, political and business-
@@ -463,10 +443,9 @@ not just the attempt.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

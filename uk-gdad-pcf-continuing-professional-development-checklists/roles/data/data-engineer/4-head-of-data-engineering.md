@@ -2,10 +2,106 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Data engineer** role at the **Head of data engineering** level. You lead multi-functional delivery teams providing robust data services for your department, other departments, and private sector partners. You inspire best practice, build data engineering capability through technical leadership and career development, and work with other senior colleagues to identify, plan, develop, and deliver data services. Your development is now about leadership and stewardship.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/data-engineer/4-head-of-data-engineering.md`](../../../assessments/data/data-engineer/4-head-of-data-engineering.md)
+- Upskilling: [`upskills/data/data-engineer/4-head-of-data-engineering.md`](../../../upskills/data/data-engineer/4-head-of-data-engineering.md)
+
+### Role Level Focus: Head of Data Engineering
+
+- [ ] Lead Multi-Functional Teams: Develop the skill of leading beyond your own discipline.
+- [ ] Serve Partners Well: Deliver data services that other departments and partners genuinely rely on.
+- [ ] Inspire Best Practice: Make good practice attractive rather than mandated.
+- [ ] Build Capability: Own technical leadership and career development for the community.
+- [ ] Plan Data Services With Peers: Work with senior colleagues to identify, plan, and deliver services.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
+- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
+- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
+- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
+- [ ] Represent the Community: Speak for data engineering to large audiences inside and outside the organisation.
+- [ ] Communicate to Boards: Practise the version of a data argument a board will act on.
+
+### Skill: Data analysis and synthesis
+
+- [ ] Help Teams Profile Data: Support teams in applying a range of profiling techniques.
+- [ ] Analyse Complex Sources: Handle source system analysis from a complex single source.
+- [ ] Conform Multiple Sources: Ensure sources can be brought together into conformed models.
+- [ ] Assure Quality Organisation-Wide: Make quality measurement a standing expectation.
+
+### Skill: Data development process
+
+- [ ] Establish Enterprise Procedures: Set integration procedures across the development life cycle.
+- [ ] Ensure Adherence: Make sure teams follow them, and investigate honestly when they do not.
+- [ ] Manage Resources: Ensure data services work effectively at enterprise level.
+- [ ] Fund Sustainment: Make sure maintaining services is budgeted, not assumed.
+
+### Skill: Data innovation
+
+- [ ] Investigate Emerging Trends: Research emerging data approaches systematically.
+- [ ] Horizon Scan: Perform structured horizon scanning for the organisation.
+- [ ] Introduce Innovative Ways of Working: Bring in new approaches and evaluate them honestly.
+- [ ] Fund Experimentation: Ensure there is budget and permission to try and to stop.
+
+### Skill: Data integration design
+
+- [ ] Establish Standards: Set integration standards and keep them current.
+- [ ] Ensure Adherence: Make sure standards are followed across teams.
+- [ ] Track Industry Practice: Keep abreast of best practice in industry and across government.
+- [ ] Govern Interfaces: Set the interoperability expectations that let partners build on your services.
+
+### Skill: Data modelling
+
+- [ ] Explain the Principles: Be able to teach modelling concepts clearly.
+- [ ] Retain Modelling Skill: Keep producing and updating models so your judgement stays real.
+- [ ] Reverse-Engineer When Needed: Retain the ability to derive models from live systems.
+- [ ] Champion Standards: Make sure modelling standards exist and are used.
+
+### Skill: Metadata management
+
+- [ ] Identify Repository Value: Show how metadata repositories support different parts of the organisation.
+- [ ] Communicate the Value: Make the case for metadata investment in business terms.
+- [ ] Set Up Governance: Establish robust processes that keep repositories accurate.
+- [ ] Resource It Properly: Ensure metadata work is funded rather than assumed.
+
+### Skill: Problem management
+
+- [ ] Anticipate Problems: Defend against problems early, where prevention is cheap.
+- [ ] See the Larger Picture: Understand how a problem fits into the organisational whole.
+- [ ] Help Others Describe Problems: Coach people to articulate problems clearly.
+- [ ] Build Capability in Others: Develop problem-solving skill across the community.
+
+### Skill: Programming and build (data engineering)
+
+- [ ] Set Standards: Define standards for programming tools and techniques, and development methods.
+- [ ] Advise on Compliance: Guide the application of standards and ensure they are followed.
+- [ ] Take Technical Responsibility: Own all stages and iterations of development work.
+- [ ] Advise Stakeholders: Give method-specific technical advice to project stakeholders.
+
+### Skill: Testing
+
+- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
+- [ ] Identify Issues and Risks: Surface risks associated with the work.
+- [ ] Analyse and Report: Report test activities and results so people can act on them.
+- [ ] Fund Testing Properly: Ensure data quality testing is resourced rather than assumed.
+
+### Skill Growth Plan: Beyond Head of Data Engineering
+
+- [ ] Review Adjacent Roles: Read the chief data architect, chief data officer, and chief technology officer descriptions.
+- [ ] Broaden Beyond Engineering: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as data or investment boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,99 +199,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Data engineer** role at the **Head of data engineering** level. You lead multi-functional delivery teams providing robust data services for your department, other departments, and private sector partners. You inspire best practice, build data engineering capability through technical leadership and career development, and work with other senior colleagues to identify, plan, develop, and deliver data services. Your development is now about leadership and stewardship.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/data-engineer/4-head-of-data-engineering.md`](../../../assessments/data/data-engineer/4-head-of-data-engineering.md)
-- Upskilling: [`upskills/data/data-engineer/4-head-of-data-engineering.md`](../../../upskills/data/data-engineer/4-head-of-data-engineering.md)
-
-### Role Level Focus: Head of Data Engineering
-
-- [ ] Lead Multi-Functional Teams: Develop the skill of leading beyond your own discipline.
-- [ ] Serve Partners Well: Deliver data services that other departments and partners genuinely rely on.
-- [ ] Inspire Best Practice: Make good practice attractive rather than mandated.
-- [ ] Build Capability: Own technical leadership and career development for the community.
-- [ ] Plan Data Services With Peers: Work with senior colleagues to identify, plan, and deliver services.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
-- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
-- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
-- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
-- [ ] Represent the Community: Speak for data engineering to large audiences inside and outside the organisation.
-- [ ] Communicate to Boards: Practise the version of a data argument a board will act on.
-
-### Skill: Data analysis and synthesis
-
-- [ ] Help Teams Profile Data: Support teams in applying a range of profiling techniques.
-- [ ] Analyse Complex Sources: Handle source system analysis from a complex single source.
-- [ ] Conform Multiple Sources: Ensure sources can be brought together into conformed models.
-- [ ] Assure Quality Organisation-Wide: Make quality measurement a standing expectation.
-
-### Skill: Data development process
-
-- [ ] Establish Enterprise Procedures: Set integration procedures across the development life cycle.
-- [ ] Ensure Adherence: Make sure teams follow them, and investigate honestly when they do not.
-- [ ] Manage Resources: Ensure data services work effectively at enterprise level.
-- [ ] Fund Sustainment: Make sure maintaining services is budgeted, not assumed.
-
-### Skill: Data innovation
-
-- [ ] Investigate Emerging Trends: Research emerging data approaches systematically.
-- [ ] Horizon Scan: Perform structured horizon scanning for the organisation.
-- [ ] Introduce Innovative Ways of Working: Bring in new approaches and evaluate them honestly.
-- [ ] Fund Experimentation: Ensure there is budget and permission to try and to stop.
-
-### Skill: Data integration design
-
-- [ ] Establish Standards: Set integration standards and keep them current.
-- [ ] Ensure Adherence: Make sure standards are followed across teams.
-- [ ] Track Industry Practice: Keep abreast of best practice in industry and across government.
-- [ ] Govern Interfaces: Set the interoperability expectations that let partners build on your services.
-
-### Skill: Data modelling
-
-- [ ] Explain the Principles: Be able to teach modelling concepts clearly.
-- [ ] Retain Modelling Skill: Keep producing and updating models so your judgement stays real.
-- [ ] Reverse-Engineer When Needed: Retain the ability to derive models from live systems.
-- [ ] Champion Standards: Make sure modelling standards exist and are used.
-
-### Skill: Metadata management
-
-- [ ] Identify Repository Value: Show how metadata repositories support different parts of the organisation.
-- [ ] Communicate the Value: Make the case for metadata investment in business terms.
-- [ ] Set Up Governance: Establish robust processes that keep repositories accurate.
-- [ ] Resource It Properly: Ensure metadata work is funded rather than assumed.
-
-### Skill: Problem management
-
-- [ ] Anticipate Problems: Defend against problems early, where prevention is cheap.
-- [ ] See the Larger Picture: Understand how a problem fits into the organisational whole.
-- [ ] Help Others Describe Problems: Coach people to articulate problems clearly.
-- [ ] Build Capability in Others: Develop problem-solving skill across the community.
-
-### Skill: Programming and build (data engineering)
-
-- [ ] Set Standards: Define standards for programming tools and techniques, and development methods.
-- [ ] Advise on Compliance: Guide the application of standards and ensure they are followed.
-- [ ] Take Technical Responsibility: Own all stages and iterations of development work.
-- [ ] Advise Stakeholders: Give method-specific technical advice to project stakeholders.
-
-### Skill: Testing
-
-- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
-- [ ] Identify Issues and Risks: Surface risks associated with the work.
-- [ ] Analyse and Report: Report test activities and results so people can act on them.
-- [ ] Fund Testing Properly: Ensure data quality testing is resourced rather than assumed.
-
-### Skill Growth Plan: Beyond Head of Data Engineering
-
-- [ ] Review Adjacent Roles: Read the chief data architect, chief data officer, and chief technology officer descriptions.
-- [ ] Broaden Beyond Engineering: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as data or investment boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

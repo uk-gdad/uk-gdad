@@ -2,10 +2,108 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Development operations (DevOps) engineer** role at the **Lead DevOps engineer** level, technical track. You act as a technical product owner, developing medium to long term strategies for product lines, providing technical leadership through coaching and mentoring, and leading the sharing of knowledge and good practice. Your development is now about strategy, influence, and stewardship.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/software-development/development-operations-engineer/6-lead-devops-engineer.md`](../../../assessments/software-development/development-operations-engineer/6-lead-devops-engineer.md)
+- Upskilling: [`upskills/software-development/development-operations-engineer/6-lead-devops-engineer.md`](../../../upskills/software-development/development-operations-engineer/6-lead-devops-engineer.md)
+
+### Role Level Focus: Lead DevOps Engineer
+
+- [ ] Act as Technical Product Owner: Write and maintain a roadmap for your platform or product line, with outcomes not just features.
+- [ ] Develop Medium-Term Strategy: Learn to plan two to three years out, including technology lifecycle and exit routes.
+- [ ] Provide Technical Leadership: Set the technical direction and explain it well enough that people follow it willingly.
+- [ ] Coach as a Discipline: Learn a coaching model and apply it in structured sessions rather than ad hoc advice.
+- [ ] Lead Knowledge Sharing: Establish a rhythm of talks, guilds, or clinics, and keep it alive.
+- [ ] Treat Your Platform as a Product: Learn product management basics, including users, value, and prioritisation.
+- [ ] Manage Technical Debt Openly: Keep a visible debt register with impact and cost, and negotiate its repayment.
+- [ ] Connect to Strategy: Read your department's digital and technology strategy and link your roadmap to it.
+
+### Skill: Availability and capacity management
+
+- [ ] Manage to Business KPIs: Ensure the components across your product line meet business needs and key performance indicators.
+- [ ] Set Service Levels: Lead definition of objectives that reflect genuine user experience.
+- [ ] Design Cross-Team Resilience: Study failure modes that appear only at platform scale, and mitigate them.
+- [ ] Plan Capacity With Finance: Learn how capacity choices land in budgets and make trade-offs explicit.
+
+### Skill: Development process optimisation
+
+- [ ] Identify Opportunities: Work with senior colleagues to find optimisation opportunities across teams.
+- [ ] Contribute to Implementation: Drive improvements into practice, including the change management they need.
+- [ ] Use Metrics Wisely: Apply delivery and reliability metrics without letting them become targets.
+- [ ] Reduce Toil Systematically: Measure recurring manual effort and set a reduction goal with your teams.
+
+### Skill: Information security
+
+- [ ] Engineer Against Named Threats: Ensure designs across your product line carry controls traceable to threats.
+- [ ] Establish Security Practice: Set expectations for threat modelling, supply chain security, and secrets handling.
+- [ ] Build Security Relationships: Work with security architects so assurance is collaborative rather than adversarial.
+- [ ] Keep Learning: Complete advanced cloud or platform security training relevant to your stack.
+
+### Skill: Modern development standards
+
+- [ ] Apply Standards to Complex Programmes: Identify which standards genuinely support complex, multi-team delivery.
+- [ ] Lead Others in Applying Them: Make adoption a leadership activity with explanation, examples, and support.
+- [ ] Set the Technical Baseline: Publish the standards your teams work to, short enough that they get read.
+- [ ] Champion Working in the Open: Push for open source and open documentation wherever policy allows.
+
+### Skill: Programming and build (software engineering)
+
+- [ ] Review Specifications Collaboratively: Stay close enough to delivery to challenge specifications meaningfully.
+- [ ] Deliver Real Complexity: Keep delivering medium-to-high complexity work, documented to standard.
+- [ ] Set Tooling Direction: Make deliberate, explained choices about the tools your teams share.
+- [ ] Advise Stakeholders: Practise explaining technical positions to non-technical people without losing accuracy.
+
+### Skill: Prototyping
+
+- [ ] Make Prototyping Collective: Solicit prototypes across teams and create forums to compare and test them.
+- [ ] Establish and Iterate Patterns: Own the shared patterns your teams reuse and evolve them with evidence.
+- [ ] Choose Methods Deliberately: Match method to the risk being tested, and coach others to do the same.
+- [ ] Protect Discovery Work: Defend prototyping time when delivery pressure would squeeze it out.
+
+### Skill: Service support
+
+- [ ] Fix Complex Faults: Retain the depth to lead from the front on genuinely hard problems.
+- [ ] Advise on Support Methodologies: Know several support models well enough to recommend the right one.
+- [ ] Design the Support Model: Own how support responsibility is shared across teams, including out of hours.
+- [ ] Institutionalise Learning: Ensure post-incident findings become completed work, not just documents.
+
+### Skill: Systems design
+
+- [ ] Design at Medium Risk and Complexity: Own designs with meaningful risk, impact, and complexity.
+- [ ] Select Standards, Methods, and Tools: Choose deliberately and ensure effective application across teams.
+- [ ] Review Others' Designs: Review for technology fit, resource efficiency, and integration across systems.
+- [ ] Run a Design Forum: Establish or contribute to a place where significant designs get proper scrutiny.
+- [ ] Study Platform Patterns: Deepen your knowledge of self-service platforms, golden paths, and developer experience.
+
+### Skill: Systems integration
+
+- [ ] Establish Standards and Procedures: Set integration standards across the service and development product life cycle.
+- [ ] Ensure Adherence: Make sure practitioners follow those standards, and understand why when they do not.
+- [ ] Manage Integration Resources: Ensure the integration function has the people, environments, and tooling it needs.
+- [ ] Govern Interfaces: Set policy for versioning, deprecation, and compatibility, and hold teams to it kindly.
+
+### Skill: User focus
+
+- [ ] Represent Users Internally: Argue for user needs at governance forums with evidence in hand.
+- [ ] Distinguish Needs from Desires: Coach teams and stakeholders to make this distinction routinely.
+- [ ] Champion Inclusive Research: Ensure research reaches users with access needs, and act on what it finds.
+- [ ] Guide Story Definition: Set expectations for how user needs are framed and prioritised across teams.
+- [ ] Recommend Tools and Methods: Advise credibly on which research and analysis methods fit which question.
+
+### Skill Growth Plan: Toward Principal DevOps Engineer
+
+- [ ] Review the Next Level: Read the Principal DevOps engineer skill descriptions and identify your gaps.
+- [ ] Champion an Emerging Technology: Run a structured evaluation including risk, cost, and exit strategy.
+- [ ] Shape Capability: Get involved in recruitment, career paths, and internal mobility for the engineering community.
+- [ ] Find Senior Sponsorship: Secure a mentor two levels above you and meet them regularly.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,101 +201,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Development operations (DevOps) engineer** role at the **Lead DevOps engineer** level, technical track. You act as a technical product owner, developing medium to long term strategies for product lines, providing technical leadership through coaching and mentoring, and leading the sharing of knowledge and good practice. Your development is now about strategy, influence, and stewardship.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/software-development/development-operations-engineer/6-lead-devops-engineer.md`](../../../assessments/software-development/development-operations-engineer/6-lead-devops-engineer.md)
-- Upskilling: [`upskills/software-development/development-operations-engineer/6-lead-devops-engineer.md`](../../../upskills/software-development/development-operations-engineer/6-lead-devops-engineer.md)
-
-### Role Level Focus: Lead DevOps Engineer
-
-- [ ] Act as Technical Product Owner: Write and maintain a roadmap for your platform or product line, with outcomes not just features.
-- [ ] Develop Medium-Term Strategy: Learn to plan two to three years out, including technology lifecycle and exit routes.
-- [ ] Provide Technical Leadership: Set the technical direction and explain it well enough that people follow it willingly.
-- [ ] Coach as a Discipline: Learn a coaching model and apply it in structured sessions rather than ad hoc advice.
-- [ ] Lead Knowledge Sharing: Establish a rhythm of talks, guilds, or clinics, and keep it alive.
-- [ ] Treat Your Platform as a Product: Learn product management basics, including users, value, and prioritisation.
-- [ ] Manage Technical Debt Openly: Keep a visible debt register with impact and cost, and negotiate its repayment.
-- [ ] Connect to Strategy: Read your department's digital and technology strategy and link your roadmap to it.
-
-### Skill: Availability and capacity management
-
-- [ ] Manage to Business KPIs: Ensure the components across your product line meet business needs and key performance indicators.
-- [ ] Set Service Levels: Lead definition of objectives that reflect genuine user experience.
-- [ ] Design Cross-Team Resilience: Study failure modes that appear only at platform scale, and mitigate them.
-- [ ] Plan Capacity With Finance: Learn how capacity choices land in budgets and make trade-offs explicit.
-
-### Skill: Development process optimisation
-
-- [ ] Identify Opportunities: Work with senior colleagues to find optimisation opportunities across teams.
-- [ ] Contribute to Implementation: Drive improvements into practice, including the change management they need.
-- [ ] Use Metrics Wisely: Apply delivery and reliability metrics without letting them become targets.
-- [ ] Reduce Toil Systematically: Measure recurring manual effort and set a reduction goal with your teams.
-
-### Skill: Information security
-
-- [ ] Engineer Against Named Threats: Ensure designs across your product line carry controls traceable to threats.
-- [ ] Establish Security Practice: Set expectations for threat modelling, supply chain security, and secrets handling.
-- [ ] Build Security Relationships: Work with security architects so assurance is collaborative rather than adversarial.
-- [ ] Keep Learning: Complete advanced cloud or platform security training relevant to your stack.
-
-### Skill: Modern development standards
-
-- [ ] Apply Standards to Complex Programmes: Identify which standards genuinely support complex, multi-team delivery.
-- [ ] Lead Others in Applying Them: Make adoption a leadership activity with explanation, examples, and support.
-- [ ] Set the Technical Baseline: Publish the standards your teams work to, short enough that they get read.
-- [ ] Champion Working in the Open: Push for open source and open documentation wherever policy allows.
-
-### Skill: Programming and build (software engineering)
-
-- [ ] Review Specifications Collaboratively: Stay close enough to delivery to challenge specifications meaningfully.
-- [ ] Deliver Real Complexity: Keep delivering medium-to-high complexity work, documented to standard.
-- [ ] Set Tooling Direction: Make deliberate, explained choices about the tools your teams share.
-- [ ] Advise Stakeholders: Practise explaining technical positions to non-technical people without losing accuracy.
-
-### Skill: Prototyping
-
-- [ ] Make Prototyping Collective: Solicit prototypes across teams and create forums to compare and test them.
-- [ ] Establish and Iterate Patterns: Own the shared patterns your teams reuse and evolve them with evidence.
-- [ ] Choose Methods Deliberately: Match method to the risk being tested, and coach others to do the same.
-- [ ] Protect Discovery Work: Defend prototyping time when delivery pressure would squeeze it out.
-
-### Skill: Service support
-
-- [ ] Fix Complex Faults: Retain the depth to lead from the front on genuinely hard problems.
-- [ ] Advise on Support Methodologies: Know several support models well enough to recommend the right one.
-- [ ] Design the Support Model: Own how support responsibility is shared across teams, including out of hours.
-- [ ] Institutionalise Learning: Ensure post-incident findings become completed work, not just documents.
-
-### Skill: Systems design
-
-- [ ] Design at Medium Risk and Complexity: Own designs with meaningful risk, impact, and complexity.
-- [ ] Select Standards, Methods, and Tools: Choose deliberately and ensure effective application across teams.
-- [ ] Review Others' Designs: Review for technology fit, resource efficiency, and integration across systems.
-- [ ] Run a Design Forum: Establish or contribute to a place where significant designs get proper scrutiny.
-- [ ] Study Platform Patterns: Deepen your knowledge of self-service platforms, golden paths, and developer experience.
-
-### Skill: Systems integration
-
-- [ ] Establish Standards and Procedures: Set integration standards across the service and development product life cycle.
-- [ ] Ensure Adherence: Make sure practitioners follow those standards, and understand why when they do not.
-- [ ] Manage Integration Resources: Ensure the integration function has the people, environments, and tooling it needs.
-- [ ] Govern Interfaces: Set policy for versioning, deprecation, and compatibility, and hold teams to it kindly.
-
-### Skill: User focus
-
-- [ ] Represent Users Internally: Argue for user needs at governance forums with evidence in hand.
-- [ ] Distinguish Needs from Desires: Coach teams and stakeholders to make this distinction routinely.
-- [ ] Champion Inclusive Research: Ensure research reaches users with access needs, and act on what it finds.
-- [ ] Guide Story Definition: Set expectations for how user needs are framed and prioritised across teams.
-- [ ] Recommend Tools and Methods: Advise credibly on which research and analysis methods fit which question.
-
-### Skill Growth Plan: Toward Principal DevOps Engineer
-
-- [ ] Review the Next Level: Read the Principal DevOps engineer skill descriptions and identify your gaps.
-- [ ] Champion an Emerging Technology: Run a structured evaluation including risk, cost, and exit strategy.
-- [ ] Shape Capability: Get involved in recruitment, career paths, and internal mobility for the engineering community.
-- [ ] Find Senior Sponsorship: Secure a mentor two levels above you and meet them regularly.

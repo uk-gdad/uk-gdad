@@ -37,7 +37,7 @@ This is different from the documents it sits alongside:
 | Introduction | An invitation to rate yourself honestly, and why it's worth it |
 | Advisory | The standing caution |
 | How to use this assessment | Preparing, rating on your own evidence, staying consistent, staying kind |
-| Rating scale | The same 0–4 scale used throughout |
+| Rating scale | The same 1–4 scale used throughout |
 | About this role level | The role, the level, its duties and its skills |
 | Competency matrix | The same blocks as the by-assessor sibling, with evidence prompts turned into self-reflection prompts |
 | Overall determination | The same skill table, with guidance on reading your own result |

@@ -2,10 +2,86 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Business architect** role at the **Associate business architect** level. You now apply architectural methods to real business scenarios, break down complexity into clear outputs, bring disconnected information together, and spot cross-cutting issues. You still get support and training, and this is the right time to build technique and credibility together.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/business-architect/2-associate-business-architect.md`](../../../assessments/architecture/business-architect/2-associate-business-architect.md)
+- Upskilling: [`upskills/architecture/business-architect/2-associate-business-architect.md`](../../../upskills/architecture/business-architect/2-associate-business-architect.md)
+
+### Role Level Focus: Associate Business Architect
+
+- [ ] Apply Methods to Real Scenarios: Take a business scenario and produce a full architectural output, with senior review.
+- [ ] Practise Simplification: Take something genuinely complicated and produce a one-page version a director could act on.
+- [ ] Connect Disconnected Information: Bring together data from several business areas to inform a real decision.
+- [ ] Spot Cross-Cutting Issues: Keep a running list of issues that span organisational boundaries, and raise them.
+- [ ] Improve Your Artefact Craft: Learn what makes a diagram persuasive as well as accurate.
+- [ ] Get Certified: Work toward a recognised architecture certification if your organisation supports it.
+- [ ] Keep a Reflective Log: Note each engagement, what worked, and what you would do differently.
+
+### Skill: Business architecture
+
+- [ ] Support Adoption: Help colleagues outside architecture use business architecture products in their own work.
+- [ ] Communicate Frameworks Clearly: Be able to explain frameworks, principles, and techniques without jargon.
+- [ ] Produce Multidimensional Views: Support production of views that show capability, process, information, and organisation together.
+- [ ] Assess Strategy Impact: Analyse how a strategy affects the organisation, and highlight the risks and issues honestly.
+- [ ] Deepen Framework Knowledge: Move beyond foundation level in your chosen framework.
+
+### Skill: Communicating information
+
+- [ ] Build Relationships: Invest in relationships across business areas before you need them.
+- [ ] Use Agile Health Checks: Learn to surface issues through structured health checks and help address them.
+- [ ] Manage Expectations: Say what is realistic early rather than optimistically.
+- [ ] Communicate Both Ways: Get ahead of problems proactively, and respond well when caught out.
+- [ ] Moderate Hard Discussions: Learn facilitation and host a genuinely difficult conversation.
+
+### Skill: Consultancy
+
+- [ ] Advise From Your Own Knowledge: Give advice grounded in your own experience, not only in precedent.
+- [ ] Propose Methodologies: Recommend the approach as well as the answer, and explain the trade-offs.
+- [ ] Frame Problems Well: Practise reframing until the problem statement makes the right answer obvious.
+- [ ] Learn Consulting Craft: Study a structured consulting approach, including contracting and closing an engagement.
+
+### Skill: Making and guiding decisions
+
+- [ ] Make Managed-Risk Decisions: Own decisions of managed risk and complexity, and record the reasoning.
+- [ ] Recommend on Higher Risk: Frame recommendations clearly when the decision belongs to someone else.
+- [ ] Resolve Disputes: Mediate disagreements between wider peers and indirect stakeholders.
+- [ ] Learn Decision Techniques: Study options appraisal and multi-criteria decision analysis.
+
+### Skill: Methods and tools
+
+- [ ] Select Appropriate Tools: Choose the right tools and techniques for a project yourself, and justify your choice.
+- [ ] Master One Modelling Notation: Reach working fluency in ArchiMate, BPMN, or your organisation's standard.
+- [ ] Improve Your Repository Practice: Learn how architecture content is stored, versioned, and kept current.
+- [ ] Learn What Not to Model: Practise deciding when a model is not worth the effort.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Identify Important Stakeholders: Build and maintain a stakeholder map with interests and influence.
+- [ ] Tailor Your Communication: Adapt content and format to each stakeholder's needs.
+- [ ] Build Consensus: Practise moving a group from disagreement to a workable shared position.
+- [ ] Use Evidence to Explain Decisions: Improve relationships by showing your reasoning, not just your conclusion.
+
+### Skill: Strategic thinking
+
+- [ ] Work Within Strategic Context: Explain how your activities meet strategic goals.
+- [ ] Contribute to Strategy: Offer input into strategy and policy development.
+- [ ] Learn Strategy Tools: Study techniques such as scenario planning and capability-based planning.
+- [ ] Think in Outcomes: Frame proposals in terms of outcomes rather than deliverables.
+
+### Skill Growth Plan: Toward Business Architect
+
+- [ ] Review the Next Level: Read the Business architect skill descriptions and mark your genuine gaps.
+- [ ] Guide Someone Else: Support a trainee colleague through a piece of work.
+- [ ] Work With Executives: Seek exposure to executive-level discussions, even as an observer.
+- [ ] Book a Progress Review: Walk your evidence through with your line manager.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,79 +179,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Business architect** role at the **Associate business architect** level. You now apply architectural methods to real business scenarios, break down complexity into clear outputs, bring disconnected information together, and spot cross-cutting issues. You still get support and training, and this is the right time to build technique and credibility together.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/business-architect/2-associate-business-architect.md`](../../../assessments/architecture/business-architect/2-associate-business-architect.md)
-- Upskilling: [`upskills/architecture/business-architect/2-associate-business-architect.md`](../../../upskills/architecture/business-architect/2-associate-business-architect.md)
-
-### Role Level Focus: Associate Business Architect
-
-- [ ] Apply Methods to Real Scenarios: Take a business scenario and produce a full architectural output, with senior review.
-- [ ] Practise Simplification: Take something genuinely complicated and produce a one-page version a director could act on.
-- [ ] Connect Disconnected Information: Bring together data from several business areas to inform a real decision.
-- [ ] Spot Cross-Cutting Issues: Keep a running list of issues that span organisational boundaries, and raise them.
-- [ ] Improve Your Artefact Craft: Learn what makes a diagram persuasive as well as accurate.
-- [ ] Get Certified: Work toward a recognised architecture certification if your organisation supports it.
-- [ ] Keep a Reflective Log: Note each engagement, what worked, and what you would do differently.
-
-### Skill: Business architecture
-
-- [ ] Support Adoption: Help colleagues outside architecture use business architecture products in their own work.
-- [ ] Communicate Frameworks Clearly: Be able to explain frameworks, principles, and techniques without jargon.
-- [ ] Produce Multidimensional Views: Support production of views that show capability, process, information, and organisation together.
-- [ ] Assess Strategy Impact: Analyse how a strategy affects the organisation, and highlight the risks and issues honestly.
-- [ ] Deepen Framework Knowledge: Move beyond foundation level in your chosen framework.
-
-### Skill: Communicating information
-
-- [ ] Build Relationships: Invest in relationships across business areas before you need them.
-- [ ] Use Agile Health Checks: Learn to surface issues through structured health checks and help address them.
-- [ ] Manage Expectations: Say what is realistic early rather than optimistically.
-- [ ] Communicate Both Ways: Get ahead of problems proactively, and respond well when caught out.
-- [ ] Moderate Hard Discussions: Learn facilitation and host a genuinely difficult conversation.
-
-### Skill: Consultancy
-
-- [ ] Advise From Your Own Knowledge: Give advice grounded in your own experience, not only in precedent.
-- [ ] Propose Methodologies: Recommend the approach as well as the answer, and explain the trade-offs.
-- [ ] Frame Problems Well: Practise reframing until the problem statement makes the right answer obvious.
-- [ ] Learn Consulting Craft: Study a structured consulting approach, including contracting and closing an engagement.
-
-### Skill: Making and guiding decisions
-
-- [ ] Make Managed-Risk Decisions: Own decisions of managed risk and complexity, and record the reasoning.
-- [ ] Recommend on Higher Risk: Frame recommendations clearly when the decision belongs to someone else.
-- [ ] Resolve Disputes: Mediate disagreements between wider peers and indirect stakeholders.
-- [ ] Learn Decision Techniques: Study options appraisal and multi-criteria decision analysis.
-
-### Skill: Methods and tools
-
-- [ ] Select Appropriate Tools: Choose the right tools and techniques for a project yourself, and justify your choice.
-- [ ] Master One Modelling Notation: Reach working fluency in ArchiMate, BPMN, or your organisation's standard.
-- [ ] Improve Your Repository Practice: Learn how architecture content is stored, versioned, and kept current.
-- [ ] Learn What Not to Model: Practise deciding when a model is not worth the effort.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Identify Important Stakeholders: Build and maintain a stakeholder map with interests and influence.
-- [ ] Tailor Your Communication: Adapt content and format to each stakeholder's needs.
-- [ ] Build Consensus: Practise moving a group from disagreement to a workable shared position.
-- [ ] Use Evidence to Explain Decisions: Improve relationships by showing your reasoning, not just your conclusion.
-
-### Skill: Strategic thinking
-
-- [ ] Work Within Strategic Context: Explain how your activities meet strategic goals.
-- [ ] Contribute to Strategy: Offer input into strategy and policy development.
-- [ ] Learn Strategy Tools: Study techniques such as scenario planning and capability-based planning.
-- [ ] Think in Outcomes: Frame proposals in terms of outcomes rather than deliverables.
-
-### Skill Growth Plan: Toward Business Architect
-
-- [ ] Review the Next Level: Read the Business architect skill descriptions and mark your genuine gaps.
-- [ ] Guide Someone Else: Support a trainee colleague through a piece of work.
-- [ ] Work With Executives: Seek exposure to executive-level discussions, even as an observer.
-- [ ] Book a Progress Review: Walk your evidence through with your line manager.

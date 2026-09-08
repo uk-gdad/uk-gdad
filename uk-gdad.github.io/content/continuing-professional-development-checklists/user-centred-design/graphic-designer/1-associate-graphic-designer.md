@@ -2,10 +2,84 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Graphic designer** role at the **Associate graphic designer** level in the UK GDAD PCF. You are a trainee in an entry-level position working under supervision, building your understanding of the role. In government, graphic design underpins interaction and service design, so your work on layout, spacing, colour, type, and iconography directly affects whether people can read and understand a public service.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/graphic-designer/1-associate-graphic-designer.md`](../../../assessments/user-centred-design/graphic-designer/1-associate-graphic-designer.md)
+- Upskilling: [`upskills/user-centred-design/graphic-designer/1-associate-graphic-designer.md`](../../../upskills/user-centred-design/graphic-designer/1-associate-graphic-designer.md)
+
+### Role Level Focus: Associate Graphic Designer
+
+- [ ] Master the Fundamentals: Study typography, colour, layout, and grids in a structured way.
+- [ ] Learn the Design System: Work with the GOV.UK Design System and read why its components look as they do.
+- [ ] Learn Legibility and Readability: Understand the difference, and what affects each.
+- [ ] Learn Colour Contrast: Get fluent with contrast ratios and what they mean for real users.
+- [ ] Build a Practice Habit: Set aside regular time to practise craft, not just deliver work.
+- [ ] Keep a Design Journal: Record what you tried, what feedback you got, and what you changed.
+- [ ] Track Your Training: Keep a record of courses, exercises, and critiques with dates and outcomes.
+
+### Skill: Design communication
+
+- [ ] Explain Why It Matters: Say why articulating design decisions to others is essential.
+- [ ] Learn the Methods: Describe several ways to explain a design decision.
+- [ ] Practise Presenting: Present a small piece of work and ask for feedback on your explanation.
+- [ ] Separate Taste from Reasoning: Practise justifying choices with user need rather than preference.
+
+### Skill: Designing for everyone
+
+- [ ] Explain Why Inclusion Matters: Articulate why content and services must be inclusive, accessible, and sustainable.
+- [ ] Learn Access Needs: Describe different access needs and how design can meet them.
+- [ ] Understand Privilege and Power: Describe how they influence design and delivery decisions.
+- [ ] Test With Assistive Technology: Try a screen reader and see how your designs are experienced.
+
+### Skill: Designing strategically
+
+- [ ] Explain Strategic Alignment: Say why aligning to organisational strategy matters.
+- [ ] Connect Work to Vision: Describe how your work aligns to your team's goals and vision.
+- [ ] Explain Patterns and Components: Say why reusing patterns beats inventing every time.
+- [ ] Read the Strategy: Study your organisation's strategy and note the design implications.
+
+### Skill: Designing together
+
+- [ ] Learn Collaboration Techniques: Describe ways to bring multiple perspectives into a design.
+- [ ] Value Constructive Feedback: Explain why feedback matters and practise receiving it well.
+- [ ] Join Design Critiques: Attend critiques regularly and contribute at least one observation.
+- [ ] Work in the Open: Share unfinished work early and often.
+
+### Skill: Evidence-based design
+
+- [ ] Explain How Evidence Informs Design: Say how research and analytics shape user-centred design.
+- [ ] Frame Design Hypotheses: Practise stating your ideas as testable hypotheses.
+- [ ] Learn the Data Sources: Identify the common types of data that inform design in your organisation.
+- [ ] Observe Research: Watch user research sessions and note what surprised you.
+
+### Skill: Iterative design
+
+- [ ] Learn Iterative Methods: Describe the basics of iterative design and Agile ways of working.
+- [ ] Explain Why Iteration Helps: Say how iteration supports user-centred design.
+- [ ] Learn Fidelity Levels: Describe ways to prototype at different fidelities and when each fits.
+- [ ] Practise Low Fidelity First: Get comfortable sketching before opening a design tool.
+
+### Skill: Leading design
+
+- [ ] Understand Design's Role: Explain what user-centred design does in an organisation.
+- [ ] Learn Leadership Responsibilities: Describe what design leaders typically do.
+- [ ] Identify Key Leaders: Know which leaders in your organisation designers need to work with.
+- [ ] Watch Leaders Work: Observe how senior designers influence decisions.
+
+### Skill Growth Plan: Toward Junior Graphic Designer
+
+- [ ] Review the Next Level: Read the Junior graphic designer skill descriptions and mark what to build next.
+- [ ] Work More Independently: Ask for a small piece of work you take from direction to delivery.
+- [ ] Learn Prototyping Tools: Build fluency in the prototyping tools your team uses.
+- [ ] Book a Progress Review: Walk your portfolio through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,77 +177,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Graphic designer** role at the **Associate graphic designer** level in the UK GDAD PCF. You are a trainee in an entry-level position working under supervision, building your understanding of the role. In government, graphic design underpins interaction and service design, so your work on layout, spacing, colour, type, and iconography directly affects whether people can read and understand a public service.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/graphic-designer/1-associate-graphic-designer.md`](../../../assessments/user-centred-design/graphic-designer/1-associate-graphic-designer.md)
-- Upskilling: [`upskills/user-centred-design/graphic-designer/1-associate-graphic-designer.md`](../../../upskills/user-centred-design/graphic-designer/1-associate-graphic-designer.md)
-
-### Role Level Focus: Associate Graphic Designer
-
-- [ ] Master the Fundamentals: Study typography, colour, layout, and grids in a structured way.
-- [ ] Learn the Design System: Work with the GOV.UK Design System and read why its components look as they do.
-- [ ] Learn Legibility and Readability: Understand the difference, and what affects each.
-- [ ] Learn Colour Contrast: Get fluent with contrast ratios and what they mean for real users.
-- [ ] Build a Practice Habit: Set aside regular time to practise craft, not just deliver work.
-- [ ] Keep a Design Journal: Record what you tried, what feedback you got, and what you changed.
-- [ ] Track Your Training: Keep a record of courses, exercises, and critiques with dates and outcomes.
-
-### Skill: Design communication
-
-- [ ] Explain Why It Matters: Say why articulating design decisions to others is essential.
-- [ ] Learn the Methods: Describe several ways to explain a design decision.
-- [ ] Practise Presenting: Present a small piece of work and ask for feedback on your explanation.
-- [ ] Separate Taste from Reasoning: Practise justifying choices with user need rather than preference.
-
-### Skill: Designing for everyone
-
-- [ ] Explain Why Inclusion Matters: Articulate why content and services must be inclusive, accessible, and sustainable.
-- [ ] Learn Access Needs: Describe different access needs and how design can meet them.
-- [ ] Understand Privilege and Power: Describe how they influence design and delivery decisions.
-- [ ] Test With Assistive Technology: Try a screen reader and see how your designs are experienced.
-
-### Skill: Designing strategically
-
-- [ ] Explain Strategic Alignment: Say why aligning to organisational strategy matters.
-- [ ] Connect Work to Vision: Describe how your work aligns to your team's goals and vision.
-- [ ] Explain Patterns and Components: Say why reusing patterns beats inventing every time.
-- [ ] Read the Strategy: Study your organisation's strategy and note the design implications.
-
-### Skill: Designing together
-
-- [ ] Learn Collaboration Techniques: Describe ways to bring multiple perspectives into a design.
-- [ ] Value Constructive Feedback: Explain why feedback matters and practise receiving it well.
-- [ ] Join Design Critiques: Attend critiques regularly and contribute at least one observation.
-- [ ] Work in the Open: Share unfinished work early and often.
-
-### Skill: Evidence-based design
-
-- [ ] Explain How Evidence Informs Design: Say how research and analytics shape user-centred design.
-- [ ] Frame Design Hypotheses: Practise stating your ideas as testable hypotheses.
-- [ ] Learn the Data Sources: Identify the common types of data that inform design in your organisation.
-- [ ] Observe Research: Watch user research sessions and note what surprised you.
-
-### Skill: Iterative design
-
-- [ ] Learn Iterative Methods: Describe the basics of iterative design and Agile ways of working.
-- [ ] Explain Why Iteration Helps: Say how iteration supports user-centred design.
-- [ ] Learn Fidelity Levels: Describe ways to prototype at different fidelities and when each fits.
-- [ ] Practise Low Fidelity First: Get comfortable sketching before opening a design tool.
-
-### Skill: Leading design
-
-- [ ] Understand Design's Role: Explain what user-centred design does in an organisation.
-- [ ] Learn Leadership Responsibilities: Describe what design leaders typically do.
-- [ ] Identify Key Leaders: Know which leaders in your organisation designers need to work with.
-- [ ] Watch Leaders Work: Observe how senior designers influence decisions.
-
-### Skill Growth Plan: Toward Junior Graphic Designer
-
-- [ ] Review the Next Level: Read the Junior graphic designer skill descriptions and mark what to build next.
-- [ ] Work More Independently: Ask for a small piece of work you take from direction to delivery.
-- [ ] Learn Prototyping Tools: Build fluency in the prototyping tools your team uses.
-- [ ] Book a Progress Review: Walk your portfolio through with your mentor.

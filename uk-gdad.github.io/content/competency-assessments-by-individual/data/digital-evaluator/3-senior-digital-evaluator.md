@@ -49,23 +49,22 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Communicating analysis and
 insight:
 
-- **2 — Intermediate**: they presented findings clearly to a specialist audience, but
+- **2 — Working**: they presented findings clearly to a specialist audience, but
   needed help reworking the same material for a non-specialist board.
-- **3 — Advanced**: they turned a complex, mixed-methods evaluation into a compelling
+- **3 — Practitioner**: they turned a complex, mixed-methods evaluation into a compelling
   report that a policy team acted on, unaided.
 - **4 — Expert**: they coached two colleagues on how to turn complex data into a
   compelling story, and are now someone others send a difficult report to for review
@@ -115,17 +114,16 @@ tactical and strategic recommendations.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Every bullet describes unsupported, high-stakes communication
+Baseline: 3 — Practitioner. Every bullet describes unsupported, high-stakes communication
 work, including sharing the skill with others — a strong grasp working independently,
-matching Advanced.
+matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: has not communicated complex evaluation findings to a senior stakeholder.
-- 1 — Beginner: has drafted part of a complex findings report with close direction.
-- 2 — Intermediate: has presented complex findings to a specialist audience with some
+- 1 — Awareness: has drafted part of a complex findings report with close direction.
+- 2 — Working: has presented complex findings to a specialist audience with some
   support adapting for a non-specialist one.
-- 3 — Advanced: independently turns complex, mixed-methods findings into a compelling
+- 3 — Practitioner: independently turns complex, mixed-methods findings into a compelling
   report or briefing, including delivering unwelcome findings clearly, and gives both
   tactical and strategic recommendations.
 - 4 — Expert: is sought out to coach colleagues or across government on communicating
@@ -141,10 +139,9 @@ matching Advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -161,18 +158,16 @@ challenge proposed data ethics policies.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Assess and constructively challenge proposed... policies"
+Baseline: 3 — Practitioner. "Assess and constructively challenge proposed... policies"
 is independent, judgement-based work at organisational scale, well beyond applying a
-principle under supervision — Advanced is the right fit.
+principle under supervision — Practitioner is the right fit.
 
 **Behavioural indicators**
 
-- 0 — None: has not identified or addressed a data ethics or privacy concern
-  independently.
-- 1 — Beginner: has flagged a concern to someone more senior but not led the response.
-- 2 — Intermediate: has worked with a stakeholder to address a specific ethics concern,
+- 1 — Awareness: has flagged a concern to someone more senior but not led the response.
+- 2 — Working: has worked with a stakeholder to address a specific ethics concern,
   with some guidance.
-- 3 — Advanced: independently identifies and addresses ethics and privacy concerns,
+- 3 — Practitioner: independently identifies and addresses ethics and privacy concerns,
   keeps up to date with developments in the field, and has constructively challenged a
   proposed data ethics policy.
 - 4 — Expert: shapes the organisation's data ethics policy or framework, not just
@@ -189,10 +184,9 @@ principle under supervision — Advanced is the right fit.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -211,17 +205,16 @@ entirely.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. No support qualifier remains, and "a wide range of analytical
+Baseline: 3 — Practitioner. No support qualifier remains, and "a wide range of analytical
 approaches" (up from "some" at the levels below) signals a strong, independent grasp of
 delivery.
 
 **Behavioural indicators**
 
-- 0 — None: cannot independently run data collection or analysis for an evaluation.
-- 1 — Beginner: still needs close direction to collect or analyse evaluation data.
-- 2 — Intermediate: runs a straightforward evaluation with some guidance on technique
+- 1 — Awareness: still needs close direction to collect or analyse evaluation data.
+- 2 — Working: runs a straightforward evaluation with some guidance on technique
   choice.
-- 3 — Advanced: independently selects and applies an appropriate technique — process,
+- 3 — Practitioner: independently selects and applies an appropriate technique — process,
   impact, theory of change, experimental or economic evaluation — and uses a wide range
   of analytical approaches on a real evaluation, unsupported.
 - 4 — Expert: is trusted to deliver the most technically demanding evaluations in the
@@ -237,10 +230,9 @@ delivery.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -257,18 +249,16 @@ evaluation approach with diverse stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Securing resources through influence and weighing policy
+Baseline: 3 — Practitioner. Securing resources through influence and weighing policy
 constraints against practical ones is judgement-heavy, unsupported work — a strong,
-independent grasp, matching Advanced.
+independent grasp, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: has not secured resources or agreed an evaluation approach with a
-  stakeholder unsupported.
-- 1 — Beginner: has helped present evaluation options but not negotiated resources.
-- 2 — Intermediate: has agreed an evaluation approach with a single stakeholder group,
+- 1 — Awareness: has helped present evaluation options but not negotiated resources.
+- 2 — Working: has agreed an evaluation approach with a single stakeholder group,
   with support.
-- 3 — Advanced: independently secures resources through influence, weighs policy and
+- 3 — Practitioner: independently secures resources through influence, weighs policy and
   practical constraints, and agrees an approach across diverse stakeholders.
 - 4 — Expert: sets evaluation strategy for a group of products or services, not a
   single project.
@@ -284,10 +274,9 @@ independent grasp, matching Advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -305,18 +294,17 @@ wider accountabilities — managing relationships, assuring others' work — cle
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Because the text is unchanged from the digital evaluator
+Baseline: 2 — Working. Because the text is unchanged from the digital evaluator
 level, the honest baseline for this one skill stays the same as it was there, even
 though most of this level's other skills sit higher.
 
 **Behavioural indicators**
 
-- 0 — None: has not managed evaluation delivery across life cycle phases.
-- 1 — Beginner: can describe what phase a product is in without having managed
+- 1 — Awareness: can describe what phase a product is in without having managed
   evaluation delivery for it.
-- 2 — Intermediate: has ensured a team measured performance appropriately for its phase
+- 2 — Working: has ensured a team measured performance appropriately for its phase
   and planned ahead for the next phase's data needs, with some guidance.
-- 3 — Advanced: independently manages evaluation delivery across multiple life cycle
+- 3 — Practitioner: independently manages evaluation delivery across multiple life cycle
   phases for more than one product.
 - 4 — Expert: advises other teams on evaluation and data requirements across the life
   cycle.
@@ -331,10 +319,9 @@ though most of this level's other skills sit higher.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -352,16 +339,15 @@ digital evaluator level below are both gone here.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Unsupported theory of change development and cross-discipline
+Baseline: 3 — Practitioner. Unsupported theory of change development and cross-discipline
 work with performance analysts to build a dashboard is independent, strong-grasp work.
 
 **Behavioural indicators**
 
-- 0 — None: has not independently developed a theory of change.
-- 1 — Beginner: has helped populate a theory of change someone else led.
-- 2 — Intermediate: has developed a theory of change with some support, or turned some
+- 1 — Awareness: has helped populate a theory of change someone else led.
+- 2 — Working: has developed a theory of change with some support, or turned some
   indicators into a measurement framework with guidance.
-- 3 — Advanced: independently develops a theory of change through stakeholder
+- 3 — Practitioner: independently develops a theory of change through stakeholder
   discussion, turns it into a measurement framework, and works with performance
   analysts to build a dashboard.
 - 4 — Expert: sets the methodology other evaluators use for theory of change and
@@ -377,10 +363,9 @@ work with performance analysts to build a dashboard is independent, strong-grasp
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -395,17 +380,15 @@ different sources, and communicate the limitations of data.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Setting up a system and specifying process, rather than
+Baseline: 3 — Practitioner. Setting up a system and specifying process, rather than
 following one, is ownership-level work — a strong, independent grasp.
 
 **Behavioural indicators**
 
-- 0 — None: has not designed a data preparation system or specified a cleansing
-  approach.
-- 1 — Beginner: has followed a data preparation process someone else designed.
-- 2 — Intermediate: has prepared and combined data from more than one source with some
+- 1 — Awareness: has followed a data preparation process someone else designed.
+- 2 — Working: has prepared and combined data from more than one source with some
   guidance.
-- 3 — Advanced: independently sets up a system for getting data ready for use,
+- 3 — Practitioner: independently sets up a system for getting data ready for use,
   specifies how it should be cleansed, brings sources together, and communicates the
   limitations of the resulting data.
 - 4 — Expert: designs quality assurance systems used across multiple teams.
@@ -421,10 +404,9 @@ following one, is ownership-level work — a strong, independent grasp.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

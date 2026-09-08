@@ -49,25 +49,24 @@ anything other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Accessibility.** At Beginner (1), a candidate could
+**Worked example — Accessibility.** At Awareness (1), a candidate could
 describe watching someone else fix an accessibility issue, without having
-built anything to a standard themselves. At Intermediate (2) — this level's
+built anything to a standard themselves. At Working (2) — this level's
 baseline — they can describe building a user interface that meets
 accessibility standards, and fixing issues under someone else's direction. At
-Advanced (3), above this level's baseline, they could describe championing
+Practitioner (3), above this level's baseline, they could describe championing
 accessibility to stakeholders unprompted, which is more initiative than this
 level expects.
 
@@ -116,19 +115,17 @@ others.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Building to a standard is a real step up from the
+Baseline: 2 — Working. Building to a standard is a real step up from the
 apprentice level's help-under-direction wording, matching this level's
 "deliver software components" accountability.
 
 **Behavioural indicators**
 
-- 0 — None: builds an interface without checking it against any
-  accessibility standard.
-- 1 — Beginner: attempts to build to a standard but needs frequent
+- 1 — Awareness: attempts to build to a standard but needs frequent
   correction.
-- 2 — Intermediate: builds user interfaces that meet a stated accessibility
+- 2 — Working: builds user interfaces that meet a stated accessibility
   standard, and fixes issues when directed to.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -140,10 +137,9 @@ apprentice level's help-under-direction wording, matching this level's
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -160,20 +156,19 @@ relevant to the audience.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Advocating externally and shaping communications
+Baseline: 2 — Working. Advocating externally and shaping communications
 for an audience are active contributions beyond the apprentice level's
 listening-and-restating wording, matching "knows the basics and can perform
 tasks with some guidance."
 
 **Behavioural indicators**
 
-- 0 — None: struggles to interpret what a stakeholder is asking for.
-- 1 — Beginner: listens and restates accurately, but has not represented the
+- 1 — Awareness: listens and restates accurately, but has not represented the
   team externally.
-- 2 — Intermediate: interprets stakeholder needs, takes part actively in
+- 2 — Working: interprets stakeholder needs, takes part actively in
   team discussions, and has represented the team's view to someone outside
   it, with some guidance.
-- 3 — Advanced: does this consistently and manages genuinely differing
+- 3 — Practitioner: does this consistently and manages genuinely differing
   perspectives without support.
 - 4 — Expert: not expected at this level.
 
@@ -186,10 +181,9 @@ tasks with some guidance."
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -205,7 +199,7 @@ recognise and deal with issues.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Contributing to others' work and recognising and
+Baseline: 2 — Working. Contributing to others' work and recognising and
 dealing with issues are active participation, matching "knows the basics and
 can perform tasks with some guidance" — the fuller wording around motivating
 and empowering teams reads as more senior than this level's own
@@ -214,13 +208,11 @@ expected.
 
 **Behavioural indicators**
 
-- 0 — None: does not notice or engage with issues affecting how the team
-  works together.
-- 1 — Beginner: contributes to someone else's work when asked, but does not
+- 1 — Awareness: contributes to someone else's work when asked, but does not
   yet notice team issues themselves.
-- 2 — Intermediate: contributes proactively to others' work, and recognises
+- 2 — Working: contributes proactively to others' work, and recognises
   and raises a team issue rather than ignoring it.
-- 3 — Advanced: actively helps resolve team issues, not just raise them, and
+- 3 — Practitioner: actively helps resolve team issues, not just raise them, and
   helps create a good working environment for others.
 - 4 — Expert: not expected at this level.
 
@@ -233,10 +225,9 @@ expected.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -251,19 +242,17 @@ collaboration, and understand the importance of feedback.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Worth noting plainly, not smoothing over: this
+Baseline: 1 — Awareness. Worth noting plainly, not smoothing over: this
 skill's wording is identical to the apprentice level's, so the baseline stays
 the same even though the level overall has moved on.
 
 **Behavioural indicators**
 
-- 0 — None: does not follow the team's agreed good practice even when told
-  what it is.
-- 1 — Beginner: follows the team's agreed good practice when reminded, and
+- 1 — Awareness: follows the team's agreed good practice when reminded, and
   can explain why feedback matters.
-- 2 — Intermediate: follows agreed good practice consistently without being
+- 2 — Working: follows agreed good practice consistently without being
   reminded.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -275,10 +264,9 @@ the same even though the level overall has moved on.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -293,19 +281,18 @@ work, and to apply those principles under guidance.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a step up from the apprentice level's
+Baseline: 2 — Working. This is a step up from the apprentice level's
 explanation-only wording, to actually applying standards under guidance,
 matching this level's "write clean code that follows web standards"
 accountability.
 
 **Behavioural indicators**
 
-- 0 — None: cannot name a development standard their team follows.
-- 1 — Beginner: can explain a development standard in general terms but has
+- 1 — Awareness: can explain a development standard in general terms but has
   not applied it themselves.
-- 2 — Intermediate: has applied a specific standard to their own work, with
+- 2 — Working: has applied a specific standard to their own work, with
   guidance available.
-- 3 — Advanced: applies standards consistently without needing to be
+- 3 — Practitioner: applies standards consistently without needing to be
   reminded.
 - 4 — Expert: not expected at this level.
 
@@ -318,10 +305,9 @@ accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -337,20 +323,19 @@ under the direction of others.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Reviewing requirements and building user
+Baseline: 2 — Working. Reviewing requirements and building user
 interfaces, still under direction but with a broader task than the
 apprentice's "simple" interfaces, matches this level's independent-but-guided
 accountability.
 
 **Behavioural indicators**
 
-- 0 — None: cannot build a user interface even with direction.
-- 1 — Beginner: builds a simple interface with close, step-by-step
+- 1 — Awareness: builds a simple interface with close, step-by-step
   direction.
-- 2 — Intermediate: collaborates on reviewing requirements, and designs,
+- 2 — Working: collaborates on reviewing requirements, and designs,
   codes, tests, corrects and documents a user interface under general
   direction, needing occasional guidance.
-- 3 — Advanced: does this with minimal direction, and helps correct a peer's
+- 3 — Practitioner: does this with minimal direction, and helps correct a peer's
   simple mistakes.
 - 4 — Expert: not expected at this level.
 
@@ -364,10 +349,9 @@ accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -382,19 +366,17 @@ their team.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Understanding and demonstrating value are asked for,
+Baseline: 1 — Awareness. Understanding and demonstrating value are asked for,
 not running prototyping activities, matching the apprentice level's wording
 closely.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say when a prototype would help versus building the real
-  thing straight away.
-- 1 — Beginner: can identify, for a simple example, whether a quick
+- 1 — Awareness: can identify, for a simple example, whether a quick
   prototype would help before committing to a full build.
-- 2 — Intermediate: has explained to a colleague or in a team discussion why
+- 2 — Working: has explained to a colleague or in a team discussion why
   a specific prototype was worth building, and been understood.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -406,10 +388,9 @@ closely.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -424,18 +405,16 @@ administrative capacity.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Explaining context and supporting administratively
+Baseline: 1 — Awareness. Explaining context and supporting administratively
 are receptive, supported activities, appropriate for a junior developer.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why the work they do matters to the wider team or
-  organisation.
-- 1 — Beginner: can explain, in simple terms, how their work connects to a
+- 1 — Awareness: can explain, in simple terms, how their work connects to a
   bigger goal.
-- 2 — Intermediate: has supported strategic planning in an administrative
+- 2 — Working: has supported strategic planning in an administrative
   way, such as helping collate information for a planning session.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -447,10 +426,9 @@ are receptive, supported activities, appropriate for a junior developer.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -466,18 +444,16 @@ can be delivered for different browsers and devices.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Awareness and explanation are asked for, not building
+Baseline: 1 — Awareness. Awareness and explanation are asked for, not building
 and testing a delivered interface independently.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain what a browser does with a static asset such as a
-  built CSS or JavaScript file.
-- 1 — Beginner: can explain, in general terms, how static assets are built
+- 1 — Awareness: can explain, in general terms, how static assets are built
   from source code and used by a browser.
-- 2 — Intermediate: can describe a real example of an interface behaving
+- 2 — Working: can describe a real example of an interface behaving
   differently across browsers or devices, and why.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -489,10 +465,9 @@ and testing a delivered interface independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -507,19 +482,17 @@ stories and the focus on user needs.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Worth noting plainly, not smoothing over: this
+Baseline: 1 — Awareness. Worth noting plainly, not smoothing over: this
 skill's wording is identical to the apprentice level's, so the baseline stays
 the same even though the level overall has moved on.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why a team writes user stories or considers user
-  needs before building something.
-- 1 — Beginner: can explain, in simple terms, what a user story is for and
+- 1 — Awareness: can explain, in simple terms, what a user story is for and
   why user needs matter to the work.
-- 2 — Intermediate: can point to a specific user need that shaped a piece of
+- 2 — Working: can point to a specific user need that shaped a piece of
   interface work they were involved in.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -531,10 +504,9 @@ the same even though the level overall has moved on.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -549,18 +521,17 @@ web performance under supervision.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Worth noting plainly, not smoothing over: this
+Baseline: 1 — Awareness. Worth noting plainly, not smoothing over: this
 skill's wording is identical to the apprentice level's, so the baseline stays
 the same even though the level overall has moved on.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why a slow-loading page is a problem for users.
-- 1 — Beginner: can describe a basic principle of web performance and
+- 1 — Awareness: can describe a basic principle of web performance and
   explain why it matters.
-- 2 — Intermediate: has helped improve the performance of a real page under
+- 2 — Working: has helped improve the performance of a real page under
   supervision, and can describe what was changed.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -572,10 +543,9 @@ the same even though the level overall has moved on.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -584,17 +554,17 @@ the same even though the level overall has moved on.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Accessibility | 2 — Intermediate | | |
-| Communicating information | 2 — Intermediate | | |
-| Community collaboration | 2 — Intermediate | | |
-| Leadership and guidance (frontend developer) | 1 — Beginner | | |
-| Modern development standards | 2 — Intermediate | | |
-| Programming and build (frontend developer) | 2 — Intermediate | | |
-| Prototyping | 1 — Beginner | | |
-| Strategic thinking | 1 — Beginner | | |
-| Systems integration (frontend developer) | 1 — Beginner | | |
-| User focus (frontend developer) | 1 — Beginner | | |
-| Web performance optimisation | 1 — Beginner | | |
+| Accessibility | 2 — Working | | |
+| Communicating information | 2 — Working | | |
+| Community collaboration | 2 — Working | | |
+| Leadership and guidance (frontend developer) | 1 — Awareness | | |
+| Modern development standards | 2 — Working | | |
+| Programming and build (frontend developer) | 2 — Working | | |
+| Prototyping | 1 — Awareness | | |
+| Strategic thinking | 1 — Awareness | | |
+| Systems integration (frontend developer) | 1 — Awareness | | |
+| User focus (frontend developer) | 1 — Awareness | | |
+| Web performance optimisation | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill is rated at
 or above its baseline target. One or two skills below target is not

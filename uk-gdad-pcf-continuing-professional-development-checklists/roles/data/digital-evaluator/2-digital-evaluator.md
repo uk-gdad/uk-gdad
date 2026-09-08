@@ -2,10 +2,84 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Digital evaluator** role at the **Digital evaluator** level. You support the evaluation of products and services, work with a more senior evaluator to plan and deliver evaluations, manage the development of monitoring and analytical tools, support research design, help with data collection, report on performance, and communicate findings. Your development now is about practical competence and clear reporting.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/digital-evaluator/2-digital-evaluator.md`](../../../assessments/data/digital-evaluator/2-digital-evaluator.md)
+- Upskilling: [`upskills/data/digital-evaluator/2-digital-evaluator.md`](../../../upskills/data/digital-evaluator/2-digital-evaluator.md)
+
+### Role Level Focus: Digital Evaluator
+
+- [ ] Plan and Deliver With Support: Take a real part in planning as well as delivering evaluations.
+- [ ] Manage the Tools: Own the day-to-day development of monitoring and analytical tools.
+- [ ] Support Research Design: Contribute to designing quantitative and qualitative research.
+- [ ] Report on Performance: Produce performance reporting that people actually use.
+- [ ] Write Well: Practise evaluation reports that lead with findings, not method.
+- [ ] Deepen Method Knowledge: Study one evaluation technique in real depth this year.
+- [ ] Keep a Weekly Reflection: Ten minutes each Friday on what worked and what to try next.
+
+### Skill: Communicating analysis and insight
+
+- [ ] Choose the Right Medium: Match format to audience and decision.
+- [ ] Shape for the Audience: Produce different versions of the same finding for different readers.
+- [ ] Present Clearly: Make analysis understandable to specialist and non-specialist audiences.
+- [ ] Give Tactical Recommendations: Offer recommendations that inform real decisions.
+
+### Skill: Data ethics and privacy
+
+- [ ] Apply Ethical Principles: Use fundamental data ethics and privacy principles under supervision.
+- [ ] Raise Risks Properly: Share ethics and privacy risks through the right channels.
+- [ ] Look After Participants: Apply consent and safeguarding practice consistently.
+- [ ] Learn Disclosure Control: Understand how to report without identifying individuals.
+
+### Skill: Evaluation delivery
+
+- [ ] Evaluate With Support: Use process, impact, theory of change, experimental, and economic evaluation.
+- [ ] Collect Both Kinds of Data: Gather quantitative and qualitative data with support.
+- [ ] Analyse and Interpret: Work with data you collected and data from elsewhere.
+- [ ] Use Analytical Approaches: Apply descriptive and inferential analysis correctly.
+
+### Skill: Evaluation planning and strategy
+
+- [ ] Understand Stakeholder Needs: Work with stakeholders to find out what they need and why.
+- [ ] Translate Needs Into Questions: Turn needs into research questions and evaluation approaches.
+- [ ] Present Options: Set out monitoring and evaluation options for products and services.
+- [ ] Influence Plans: Shape evaluation plans with support.
+
+### Skill: Monitoring and evaluation across the product life cycle
+
+- [ ] Match Measurement to Phase: Ensure the team measures what suits the service standard phase.
+- [ ] Manage Phase Delivery: Deliver evaluation across different life cycle phases.
+- [ ] Plan Future Data Needs: Look ahead to what data later phases will require.
+- [ ] Learn the Standard: Know what each phase expects in terms of evidence.
+
+### Skill: Product and service monitoring
+
+- [ ] Develop a Theory of Change: Build one with stakeholders, with support.
+- [ ] Present Indicator Options: Offer stakeholders options for measuring indicators.
+- [ ] Build Measurement Frameworks: Turn theory of change indicators into frameworks for a digital service.
+- [ ] Support Dashboards: Help develop a performance dashboard people actually use.
+
+### Skill: Quality assurance of data and analysis
+
+- [ ] Plan Data Collection: Identify appropriate ways to collect, collate, and prepare data.
+- [ ] Judge Fitness for Purpose: Decide whether data and analysis are accurate and suitable.
+- [ ] Prepare and Cleanse: Do data preparation with limited guidance.
+- [ ] Peer-Review Others: Review colleagues' analytical outputs to assure quality.
+
+### Skill Growth Plan: Toward Senior Digital Evaluator
+
+- [ ] Review the Next Level: Read the Senior digital evaluator skill descriptions and mark your gaps.
+- [ ] Manage an Evaluation: Ask to manage a whole evaluation yourself.
+- [ ] Own Stakeholder Relationships: Take responsibility for relationships with researchers and analysts.
+- [ ] Assure Others' Work: Start reviewing evaluation plans and analysis for colleagues.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,77 +177,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Digital evaluator** role at the **Digital evaluator** level. You support the evaluation of products and services, work with a more senior evaluator to plan and deliver evaluations, manage the development of monitoring and analytical tools, support research design, help with data collection, report on performance, and communicate findings. Your development now is about practical competence and clear reporting.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/digital-evaluator/2-digital-evaluator.md`](../../../assessments/data/digital-evaluator/2-digital-evaluator.md)
-- Upskilling: [`upskills/data/digital-evaluator/2-digital-evaluator.md`](../../../upskills/data/digital-evaluator/2-digital-evaluator.md)
-
-### Role Level Focus: Digital Evaluator
-
-- [ ] Plan and Deliver With Support: Take a real part in planning as well as delivering evaluations.
-- [ ] Manage the Tools: Own the day-to-day development of monitoring and analytical tools.
-- [ ] Support Research Design: Contribute to designing quantitative and qualitative research.
-- [ ] Report on Performance: Produce performance reporting that people actually use.
-- [ ] Write Well: Practise evaluation reports that lead with findings, not method.
-- [ ] Deepen Method Knowledge: Study one evaluation technique in real depth this year.
-- [ ] Keep a Weekly Reflection: Ten minutes each Friday on what worked and what to try next.
-
-### Skill: Communicating analysis and insight
-
-- [ ] Choose the Right Medium: Match format to audience and decision.
-- [ ] Shape for the Audience: Produce different versions of the same finding for different readers.
-- [ ] Present Clearly: Make analysis understandable to specialist and non-specialist audiences.
-- [ ] Give Tactical Recommendations: Offer recommendations that inform real decisions.
-
-### Skill: Data ethics and privacy
-
-- [ ] Apply Ethical Principles: Use fundamental data ethics and privacy principles under supervision.
-- [ ] Raise Risks Properly: Share ethics and privacy risks through the right channels.
-- [ ] Look After Participants: Apply consent and safeguarding practice consistently.
-- [ ] Learn Disclosure Control: Understand how to report without identifying individuals.
-
-### Skill: Evaluation delivery
-
-- [ ] Evaluate With Support: Use process, impact, theory of change, experimental, and economic evaluation.
-- [ ] Collect Both Kinds of Data: Gather quantitative and qualitative data with support.
-- [ ] Analyse and Interpret: Work with data you collected and data from elsewhere.
-- [ ] Use Analytical Approaches: Apply descriptive and inferential analysis correctly.
-
-### Skill: Evaluation planning and strategy
-
-- [ ] Understand Stakeholder Needs: Work with stakeholders to find out what they need and why.
-- [ ] Translate Needs Into Questions: Turn needs into research questions and evaluation approaches.
-- [ ] Present Options: Set out monitoring and evaluation options for products and services.
-- [ ] Influence Plans: Shape evaluation plans with support.
-
-### Skill: Monitoring and evaluation across the product life cycle
-
-- [ ] Match Measurement to Phase: Ensure the team measures what suits the service standard phase.
-- [ ] Manage Phase Delivery: Deliver evaluation across different life cycle phases.
-- [ ] Plan Future Data Needs: Look ahead to what data later phases will require.
-- [ ] Learn the Standard: Know what each phase expects in terms of evidence.
-
-### Skill: Product and service monitoring
-
-- [ ] Develop a Theory of Change: Build one with stakeholders, with support.
-- [ ] Present Indicator Options: Offer stakeholders options for measuring indicators.
-- [ ] Build Measurement Frameworks: Turn theory of change indicators into frameworks for a digital service.
-- [ ] Support Dashboards: Help develop a performance dashboard people actually use.
-
-### Skill: Quality assurance of data and analysis
-
-- [ ] Plan Data Collection: Identify appropriate ways to collect, collate, and prepare data.
-- [ ] Judge Fitness for Purpose: Decide whether data and analysis are accurate and suitable.
-- [ ] Prepare and Cleanse: Do data preparation with limited guidance.
-- [ ] Peer-Review Others: Review colleagues' analytical outputs to assure quality.
-
-### Skill Growth Plan: Toward Senior Digital Evaluator
-
-- [ ] Review the Next Level: Read the Senior digital evaluator skill descriptions and mark your gaps.
-- [ ] Manage an Evaluation: Ask to manage a whole evaluation yourself.
-- [ ] Own Stakeholder Relationships: Take responsibility for relationships with researchers and analysts.
-- [ ] Assure Others' Work: Start reviewing evaluation plans and analysis for colleagues.

@@ -2,10 +2,100 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **IT service manager** role at the **Senior IT service manager** level. You are responsible for service management across platforms, multiple channels, and services, ensuring service availability, performance, and process maturity. Your development now is about breadth, analytics, and process maturity.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/it-operations/it-service-manager/3-senior-it-service-manager.md`](../../../assessments/it-operations/it-service-manager/3-senior-it-service-manager.md)
+- Upskilling: [`upskills/it-operations/it-service-manager/3-senior-it-service-manager.md`](../../../upskills/it-operations/it-service-manager/3-senior-it-service-manager.md)
+
+### Role Level Focus: Senior IT Service Manager
+
+- [ ] Manage Across Platforms: Hold service management coherent across channels and services.
+- [ ] Drive Process Maturity: Assess your processes against a maturity model and improve them deliberately.
+- [ ] Own Availability and Performance: Take real accountability for both, with measures.
+- [ ] Build Analytics Skill: Use data analytics to make decisions that improve business performance.
+- [ ] Get Expert Certification: Achieve an expert certificate in a service management framework.
+- [ ] Negotiate Effectively: Build the skill to influence stakeholders and remove blockers.
+- [ ] Coach Service Managers: Develop your team with agreed goals and review points.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
+
+### Skill: Asset and configuration management
+
+- [ ] Manage Configuration Items: Own configuration items and their related information.
+- [ ] Manage Compliance and Risk: Take responsibility for service compliance and configuration risk.
+- [ ] Automate Assurance: Use tooling so accuracy is continuously visible.
+- [ ] Report Honestly: Give leaders an accurate picture of configuration health.
+
+### Skill: Business analysis (IT operations)
+
+- [ ] Lead Investigative Work: Own investigation into problems and opportunities in existing processes.
+- [ ] Lead Recommendation Development: Own the collection of information and creation of recommendations.
+- [ ] Handle Conflicting Information: Absorb contradictory input and produce workable solutions.
+- [ ] Evidence Your Improvements: Show before and after data for changes you make.
+
+### Skill: IT service reporting
+
+- [ ] Use Analytics for Decisions: Apply data analytics skills to enhance business performance.
+- [ ] Report Honestly: Give an accurate picture, including the uncomfortable parts.
+- [ ] Measure What Matters: Focus on user outcomes rather than ticket volumes.
+- [ ] Build Reporting Capability: Develop analytical skill across your team.
+
+### Skill: Ownership and topic
+
+- [ ] Take Accountability: Own the issues that occur in your area.
+- [ ] Be Proactive: Search for potential problems before they surface.
+- [ ] Achieve Excellent User Outcomes: Judge success by what users experience.
+- [ ] Model Ownership: Show the behaviour you want your team to copy.
+
+### Skill: Service focus
+
+- [ ] See the Bigger Picture: Look across groups of services to get the best from underlying components.
+- [ ] Optimise the Whole: Improve end-to-end service rather than local components.
+- [ ] Set Service Standards: Define what good service means across your area.
+- [ ] Measure Maturity: Assess and improve process maturity systematically.
+
+### Skill: Service management framework knowledge
+
+- [ ] Hold Expert Certification: Achieve an expert certificate in the service management framework.
+- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
+- [ ] Coach Others: Develop framework understanding across your teams.
+- [ ] Keep Current: Track how service management practice is evolving.
+
+### Skill: Stakeholder relationship management (IT operations)
+
+- [ ] Negotiate and Influence: Manage relationships effectively and influence real decisions.
+- [ ] Deal With Challenge: Handle difficult situations and remove blockers.
+- [ ] Build Long-Term Relationships: Support mutual needs while keeping user needs central.
+- [ ] Communicate Regularly: Keep stakeholders informed before they have to ask.
+
+### Skill: Strategic thinking
+
+- [ ] Define Strategies and Policies: Write strategy or policy for your area, and guide others on working within it.
+- [ ] Evaluate Current Strategies: Assess honestly whether strategies meet business requirements.
+- [ ] Learn Strategy Craft: Study how good strategy is written and practise the concise version.
+- [ ] Track the Wider Landscape: Follow cross-government direction and its implications.
+
+### Skill: User focus
+
+- [ ] Represent Users Internally: Speak for users with evidence in service discussions.
+- [ ] Distinguish Needs from Desires: Coach others to separate requests from underlying needs.
+- [ ] Champion Inclusive Research: Push for research that reaches under-served users.
+- [ ] Guide Story Definition: Help teams frame improvement work around genuine needs.
+- [ ] Recommend Tools and Methods: Advise on the right research and analysis approach.
+
+### Skill Growth Plan: Toward Head of IT Service Management
+
+- [ ] Review the Next Level: Read the Head of IT service management skill descriptions and mark your gaps.
+- [ ] Draft a Vision: Write the vision and strategy for service management in your organisation.
+- [ ] Own Process Maturity: Take responsibility for processes being owned and maturing.
+- [ ] Represent at Senior Level: Seek opportunities to represent service management to leadership.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,93 +193,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **IT service manager** role at the **Senior IT service manager** level. You are responsible for service management across platforms, multiple channels, and services, ensuring service availability, performance, and process maturity. Your development now is about breadth, analytics, and process maturity.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/it-operations/it-service-manager/3-senior-it-service-manager.md`](../../../assessments/it-operations/it-service-manager/3-senior-it-service-manager.md)
-- Upskilling: [`upskills/it-operations/it-service-manager/3-senior-it-service-manager.md`](../../../upskills/it-operations/it-service-manager/3-senior-it-service-manager.md)
-
-### Role Level Focus: Senior IT Service Manager
-
-- [ ] Manage Across Platforms: Hold service management coherent across channels and services.
-- [ ] Drive Process Maturity: Assess your processes against a maturity model and improve them deliberately.
-- [ ] Own Availability and Performance: Take real accountability for both, with measures.
-- [ ] Build Analytics Skill: Use data analytics to make decisions that improve business performance.
-- [ ] Get Expert Certification: Achieve an expert certificate in a service management framework.
-- [ ] Negotiate Effectively: Build the skill to influence stakeholders and remove blockers.
-- [ ] Coach Service Managers: Develop your team with agreed goals and review points.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
-
-### Skill: Asset and configuration management
-
-- [ ] Manage Configuration Items: Own configuration items and their related information.
-- [ ] Manage Compliance and Risk: Take responsibility for service compliance and configuration risk.
-- [ ] Automate Assurance: Use tooling so accuracy is continuously visible.
-- [ ] Report Honestly: Give leaders an accurate picture of configuration health.
-
-### Skill: Business analysis (IT operations)
-
-- [ ] Lead Investigative Work: Own investigation into problems and opportunities in existing processes.
-- [ ] Lead Recommendation Development: Own the collection of information and creation of recommendations.
-- [ ] Handle Conflicting Information: Absorb contradictory input and produce workable solutions.
-- [ ] Evidence Your Improvements: Show before and after data for changes you make.
-
-### Skill: IT service reporting
-
-- [ ] Use Analytics for Decisions: Apply data analytics skills to enhance business performance.
-- [ ] Report Honestly: Give an accurate picture, including the uncomfortable parts.
-- [ ] Measure What Matters: Focus on user outcomes rather than ticket volumes.
-- [ ] Build Reporting Capability: Develop analytical skill across your team.
-
-### Skill: Ownership and topic
-
-- [ ] Take Accountability: Own the issues that occur in your area.
-- [ ] Be Proactive: Search for potential problems before they surface.
-- [ ] Achieve Excellent User Outcomes: Judge success by what users experience.
-- [ ] Model Ownership: Show the behaviour you want your team to copy.
-
-### Skill: Service focus
-
-- [ ] See the Bigger Picture: Look across groups of services to get the best from underlying components.
-- [ ] Optimise the Whole: Improve end-to-end service rather than local components.
-- [ ] Set Service Standards: Define what good service means across your area.
-- [ ] Measure Maturity: Assess and improve process maturity systematically.
-
-### Skill: Service management framework knowledge
-
-- [ ] Hold Expert Certification: Achieve an expert certificate in the service management framework.
-- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
-- [ ] Coach Others: Develop framework understanding across your teams.
-- [ ] Keep Current: Track how service management practice is evolving.
-
-### Skill: Stakeholder relationship management (IT operations)
-
-- [ ] Negotiate and Influence: Manage relationships effectively and influence real decisions.
-- [ ] Deal With Challenge: Handle difficult situations and remove blockers.
-- [ ] Build Long-Term Relationships: Support mutual needs while keeping user needs central.
-- [ ] Communicate Regularly: Keep stakeholders informed before they have to ask.
-
-### Skill: Strategic thinking
-
-- [ ] Define Strategies and Policies: Write strategy or policy for your area, and guide others on working within it.
-- [ ] Evaluate Current Strategies: Assess honestly whether strategies meet business requirements.
-- [ ] Learn Strategy Craft: Study how good strategy is written and practise the concise version.
-- [ ] Track the Wider Landscape: Follow cross-government direction and its implications.
-
-### Skill: User focus
-
-- [ ] Represent Users Internally: Speak for users with evidence in service discussions.
-- [ ] Distinguish Needs from Desires: Coach others to separate requests from underlying needs.
-- [ ] Champion Inclusive Research: Push for research that reaches under-served users.
-- [ ] Guide Story Definition: Help teams frame improvement work around genuine needs.
-- [ ] Recommend Tools and Methods: Advise on the right research and analysis approach.
-
-### Skill Growth Plan: Toward Head of IT Service Management
-
-- [ ] Review the Next Level: Read the Head of IT service management skill descriptions and mark your gaps.
-- [ ] Draft a Vision: Write the vision and strategy for service management in your organisation.
-- [ ] Own Process Maturity: Take responsibility for processes being owned and maturing.
-- [ ] Represent at Senior Level: Seek opportunities to represent service management to leadership.

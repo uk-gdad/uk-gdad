@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -52,14 +51,13 @@ The framework expects a configuration analyst to maintain secure configuration a
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is the core of the role from day one — helping maintain the CMDB's integrity — so the baseline sits at applied, independent-with-guidance working rather than a bare beginner exposure.
+Baseline: 2 — Working. This is the core of the role from day one — helping maintain the CMDB's integrity — so the baseline sits at applied, independent-with-guidance working rather than a bare beginner exposure.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a configuration record is for or has never checked one.
-- 1 — Beginner: Updates a configuration record correctly only with someone checking.
-- 2 — Intermediate: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state against the records.
-- 3 — Advanced: Proactively catches and corrects configuration discrepancies before they cause an incident.
+- 1 — Awareness: Updates a configuration record correctly only with someone checking.
+- 2 — Working: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state against the records.
+- 3 — Practitioner: Proactively catches and corrects configuration discrepancies before they cause an incident.
 - 4 — Expert: Owns configuration accuracy for the organisation.
 
 **Evidence to gather**
@@ -69,10 +67,9 @@ Baseline: 2 — Intermediate. This is the core of the role from day one — help
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -85,14 +82,13 @@ The framework expects a configuration analyst to explain availability and capaci
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The verb here is "explain", a knowledge-level expectation rather than a practice-level one, matching close-supervision Beginner rather than independent Intermediate working.
+Baseline: 1 — Awareness. The verb here is "explain", a knowledge-level expectation rather than a practice-level one, matching close-supervision Awareness rather than independent Working working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what availability or capacity management is for.
-- 1 — Beginner: Can explain, in general terms, what availability and capacity management processes cover.
-- 2 — Intermediate: Connects those processes to specific examples from their own work.
-- 3 — Advanced: Applies availability and capacity concepts independently in day-to-day work.
+- 1 — Awareness: Can explain, in general terms, what availability and capacity management processes cover.
+- 2 — Working: Connects those processes to specific examples from their own work.
+- 3 — Practitioner: Applies availability and capacity concepts independently in day-to-day work.
 - 4 — Expert: Teaches others how these processes work.
 
 **Evidence to gather**
@@ -102,10 +98,9 @@ Baseline: 1 — Beginner. The verb here is "explain", a knowledge-level expectat
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -118,14 +113,13 @@ The framework expects a configuration analyst to implement change requests and t
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording — "under supervision" — caps this below Advanced, while "implement" is more than mere beginner exposure, so Intermediate best matches the text.
+Baseline: 2 — Working. The framework's own wording — "under supervision" — caps this below Practitioner, while "implement" is more than mere beginner exposure, so Working best matches the text.
 
 **Behavioural indicators**
 
-- 0 — None: Has never implemented a change request.
-- 1 — Beginner: Implements a change request only with someone checking each step.
-- 2 — Intermediate: Implements change requests correctly under general supervision, following documented procedure without deviation.
-- 3 — Advanced: Implements change requests independently and flags where a procedure needs correcting.
+- 1 — Awareness: Implements a change request only with someone checking each step.
+- 2 — Working: Implements change requests correctly under general supervision, following documented procedure without deviation.
+- 3 — Practitioner: Implements change requests independently and flags where a procedure needs correcting.
 - 4 — Expert: Owns change control procedures for others to follow.
 
 **Evidence to gather**
@@ -135,10 +129,9 @@ Baseline: 2 — Intermediate. The framework's own wording — "under supervision
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -151,14 +144,13 @@ The framework expects a configuration analyst to contribute to the work of other
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Words like "motivate and empower teams" describe a fuller collaborative leadership capability than an entry-level administrative role typically demonstrates yet — the baseline reflects genuine but supervised contribution to a team's working environment.
+Baseline: 1 — Awareness. Words like "motivate and empower teams" describe a fuller collaborative leadership capability than an entry-level administrative role typically demonstrates yet — the baseline reflects genuine but supervised contribution to a team's working environment.
 
 **Behavioural indicators**
 
-- 0 — None: Works in isolation and does not contribute to how the team operates.
-- 1 — Beginner: Contributes to the work of others when asked, and notices team issues without yet acting on them independently.
-- 2 — Intermediate: Actively helps create a good working environment for the team and raises issues promptly.
-- 3 — Advanced: Motivates and empowers colleagues, and helps identify the best team makeup for a given situation.
+- 1 — Awareness: Contributes to the work of others when asked, and notices team issues without yet acting on them independently.
+- 2 — Working: Actively helps create a good working environment for the team and raises issues promptly.
+- 3 — Practitioner: Motivates and empowers colleagues, and helps identify the best team makeup for a given situation.
 - 4 — Expert: Sets the collaborative standard other configuration analysts or teams follow.
 
 **Evidence to gather**
@@ -168,10 +160,9 @@ Baseline: 1 — Beginner. Words like "motivate and empower teams" describe a ful
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -184,14 +175,13 @@ The framework expects a configuration analyst to explain the basic principles of
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Explain the basic principles" is knowledge-level, matching close-supervision Beginner rather than independent practice.
+Baseline: 1 — Awareness. "Explain the basic principles" is knowledge-level, matching close-supervision Awareness rather than independent practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what IT continuity management is for.
-- 1 — Beginner: Can explain the basic principles of standard continuity processes and procedures.
-- 2 — Intermediate: Connects continuity principles to a real example from their own work.
-- 3 — Advanced: Applies continuity principles independently when supporting a change or configuration task.
+- 1 — Awareness: Can explain the basic principles of standard continuity processes and procedures.
+- 2 — Working: Connects continuity principles to a real example from their own work.
+- 3 — Practitioner: Applies continuity principles independently when supporting a change or configuration task.
 - 4 — Expert: Owns continuity documentation or testing for their area.
 
 **Evidence to gather**
@@ -201,10 +191,9 @@ Baseline: 1 — Beginner. "Explain the basic principles" is knowledge-level, mat
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -217,14 +206,13 @@ The framework expects a configuration analyst to identify and register incidents
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the entry level of the role, so the expectation is that someone can log a straightforward incident correctly with support, not that they can triage unsupervised.
+Baseline: 1 — Awareness. This is the entry level of the role, so the expectation is that someone can log a straightforward incident correctly with support, not that they can triage unsupervised.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what an incident record needs.
-- 1 — Beginner: Logs a straightforward incident correctly when shown what fields to capture.
-- 2 — Intermediate: Logs routine incidents accurately and unprompted.
-- 3 — Advanced: Logs and routes incidents of varying complexity correctly and consistently.
+- 1 — Awareness: Logs a straightforward incident correctly when shown what fields to capture.
+- 2 — Working: Logs routine incidents accurately and unprompted.
+- 3 — Practitioner: Logs and routes incidents of varying complexity correctly and consistently.
 - 4 — Expert: Sets the standard other analysts follow for well-logged incidents.
 
 **Evidence to gather**
@@ -234,10 +222,9 @@ Baseline: 1 — Beginner. This is the entry level of the role, so the expectatio
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -250,14 +237,13 @@ The framework expects a configuration analyst to show an awareness of problem re
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. At this level, initiative means recognising a problem and escalating it promptly and to the right place, not owning it through to resolution.
+Baseline: 1 — Awareness. At this level, initiative means recognising a problem and escalating it promptly and to the right place, not owning it through to resolution.
 
 **Behavioural indicators**
 
-- 0 — None: Does not recognise when something needs escalating.
-- 1 — Beginner: Recognises a problem and passes it on, though sometimes to the wrong person or after some delay.
-- 2 — Intermediate: Recognises problems promptly and routes them to the right person or team most of the time.
-- 3 — Advanced: Consistently escalates the right issue to the right place quickly, and follows up.
+- 1 — Awareness: Recognises a problem and passes it on, though sometimes to the wrong person or after some delay.
+- 2 — Working: Recognises problems promptly and routes them to the right person or team most of the time.
+- 3 — Practitioner: Consistently escalates the right issue to the right place quickly, and follows up.
 - 4 — Expert: Others come to this person to ask who should own an ambiguous issue.
 
 **Evidence to gather**
@@ -267,10 +253,9 @@ Baseline: 1 — Beginner. At this level, initiative means recognising a problem 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -283,14 +268,13 @@ The framework expects a configuration analyst to investigate problems in systems
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Contribute" describes participation under guidance rather than leading an investigation, matching this level's entry position.
+Baseline: 1 — Awareness. "Contribute" describes participation under guidance rather than leading an investigation, matching this level's entry position.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the difference between an incident and a problem.
-- 1 — Beginner: Can describe what an operational-level problem looks like, and has contributed a small piece of investigation when directed.
-- 2 — Intermediate: Contributes useful investigation unprompted.
-- 3 — Advanced: Runs a problem investigation independently for problems of moderate complexity.
+- 1 — Awareness: Can describe what an operational-level problem looks like, and has contributed a small piece of investigation when directed.
+- 2 — Working: Contributes useful investigation unprompted.
+- 3 — Practitioner: Runs a problem investigation independently for problems of moderate complexity.
 - 4 — Expert: Leads problem investigations and judges escalation without checking.
 
 **Evidence to gather**
@@ -300,10 +284,9 @@ Baseline: 1 — Beginner. "Contribute" describes participation under guidance ra
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -316,14 +299,13 @@ The framework expects a configuration analyst to show an awareness of different 
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" is knowledge-level, matching close-supervision Beginner rather than the applied, frameworks-building expectation named at more senior levels.
+Baseline: 1 — Awareness. "Show an awareness" is knowledge-level, matching close-supervision Awareness rather than the applied, frameworks-building expectation named at more senior levels.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the products or services their configuration work supports.
-- 1 — Beginner: Can describe, in general terms, the products and services their work touches.
-- 2 — Intermediate: Connects specific configuration or change tasks to the service they affect.
-- 3 — Advanced: Independently considers service impact when carrying out their own work.
+- 1 — Awareness: Can describe, in general terms, the products and services their work touches.
+- 2 — Working: Connects specific configuration or change tasks to the service they affect.
+- 3 — Practitioner: Independently considers service impact when carrying out their own work.
 - 4 — Expert: Advises others on how their configuration work affects wider services.
 
 **Evidence to gather**
@@ -333,10 +315,9 @@ Baseline: 1 — Beginner. "Show an awareness" is knowledge-level, matching close
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -349,14 +330,13 @@ The framework expects a configuration analyst to show they have a Level 3 servic
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. A named Level 3 qualification maps to solid, certified working knowledge — Intermediate on this scale.
+Baseline: 2 — Working. A named Level 3 qualification maps to solid, certified working knowledge — Working on this scale.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Is working towards a Level 3 qualification.
-- 2 — Intermediate: Holds a Level 3 service management framework qualification and applies its concepts correctly.
-- 3 — Advanced: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
+- 1 — Awareness: Is working towards a Level 3 qualification.
+- 2 — Working: Holds a Level 3 service management framework qualification and applies its concepts correctly.
+- 3 — Practitioner: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
 - 4 — Expert: Holds an expert-level qualification and is asked to explain concepts to others.
 
 **Evidence to gather**
@@ -366,10 +346,9 @@ Baseline: 2 — Intermediate. A named Level 3 qualification maps to solid, certi
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -382,14 +361,13 @@ The framework expects a configuration analyst to show an awareness or understand
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a knowledge-level expectation — awareness and explanation — rather than a practice-level one, fitting an entry-level candidate.
+Baseline: 1 — Awareness. This is a knowledge-level expectation — awareness and explanation — rather than a practice-level one, fitting an entry-level candidate.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a user story is or why user needs matter.
-- 1 — Beginner: Can explain, in general terms, what user experience analysis is for and what a user story captures.
-- 2 — Intermediate: Connects user needs to their own day-to-day configuration or change work.
-- 3 — Advanced: Actively brings a user perspective into their work unprompted.
+- 1 — Awareness: Can explain, in general terms, what user experience analysis is for and what a user story captures.
+- 2 — Working: Connects user needs to their own day-to-day configuration or change work.
+- 3 — Practitioner: Actively brings a user perspective into their work unprompted.
 - 4 — Expert: Coaches others on why user focus matters.
 
 **Evidence to gather**
@@ -399,10 +377,9 @@ Baseline: 1 — Beginner. This is a knowledge-level expectation — awareness an
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -411,17 +388,17 @@ Baseline: 1 — Beginner. This is a knowledge-level expectation — awareness an
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Availability and capacity management | 1 — Beginner | | |
-| Change management | 2 — Intermediate | | |
-| Community collaboration | 1 — Beginner | | |
-| Continuity management | 1 — Beginner | | |
-| Incident management | 1 — Beginner | | |
-| Ownership and initiative | 1 — Beginner | | |
-| Problem management | 1 — Beginner | | |
-| Service focus | 1 — Beginner | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| User focus | 1 — Beginner | | |
+| Asset and configuration management | 2 — Working | | |
+| Availability and capacity management | 1 — Awareness | | |
+| Change management | 2 — Working | | |
+| Community collaboration | 1 — Awareness | | |
+| Continuity management | 1 — Awareness | | |
+| Incident management | 1 — Awareness | | |
+| Ownership and initiative | 1 — Awareness | | |
+| Problem management | 1 — Awareness | | |
+| Service focus | 1 — Awareness | | |
+| Service management framework knowledge | 2 — Working | | |
+| User focus | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill above is rated at or above its baseline target.
 

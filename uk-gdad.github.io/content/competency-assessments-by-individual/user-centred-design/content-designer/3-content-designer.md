@@ -49,27 +49,26 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using User-centred content design, a skill this level
 names:
 
 - Someone who applies style standards consistently but still needs
-  review before publishing sits at **2 — Intermediate**, below this
+  review before publishing sits at **2 — Working**, below this
   assessment's baseline.
 - Someone who designs content to meet complex user needs, writes,
   edits and publishes it using a content management system, understands
   government accessibility requirements, and works autonomously sits at
-  **3 — Advanced** — the baseline this assessment sets for this skill.
+  **3 — Practitioner** — the baseline this assessment sets for this skill.
 - Someone who additionally takes responsibility for the quality of
   other people's content and coaches them is already working towards senior
   content designer, at **4 — Expert**.
@@ -136,21 +135,19 @@ range of tools and platforms to plan and manage their work.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Applying an Agile mindset and managing work with
+Baseline: 2 — Working. Applying an Agile mindset and managing work with
 a range of tools describes solid, independent day-to-day practice; leading
 or coaching a team in Agile and Lean practice is reserved for senior content
 designer upwards.
 
 **Behavioural indicators**
 
-- 0 — None: Follows an Agile process without understanding why the team
-  works that way.
-- 1 — Beginner: Explains Agile methodology but needs support to apply it to
+- 1 — Awareness: Explains Agile methodology but needs support to apply it to
   their own work in a fast-paced environment.
-- 2 — Intermediate: Applies an Agile mindset independently, takes reasonable
+- 2 — Working: Applies an Agile mindset independently, takes reasonable
   risks and learns visibly from mistakes, and uses the team's tools to plan
   and manage their own work.
-- 3 — Advanced: Helps the team maintain situational awareness of each
+- 3 — Practitioner: Helps the team maintain situational awareness of each
   other's work and proactively flags where objectives and user needs have
   drifted apart — already working towards senior content designer.
 - 4 — Expert: Coaches teams in Agile and Lean practice and decides the right
@@ -167,10 +164,9 @@ designer upwards.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -188,20 +184,18 @@ team.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Choosing between techniques and demonstrating a
+Baseline: 2 — Working. Choosing between techniques and demonstrating a
 proposed approach unsupported is genuine independent practice; building and
 iterating a range of prototypes for multiple audiences at scale is reserved
 for senior content designer.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain the difference between a low- and high-fidelity
-  prototype.
-- 1 — Beginner: Builds a simple prototype with support from a colleague.
-- 2 — Intermediate: Chooses a prototyping technique appropriate to an
+- 1 — Awareness: Builds a simple prototype with support from a colleague.
+- 2 — Working: Chooses a prototyping technique appropriate to an
   audience unsupported, and uses it to demonstrate a proposed content
   change.
-- 3 — Advanced: Combines prototyping with other content and design outputs
+- 3 — Practitioner: Combines prototyping with other content and design outputs
   to test with users and show to stakeholders — already working towards
   senior content designer.
 - 4 — Expert: Establishes content patterns and tests and iterates them at
@@ -217,10 +211,9 @@ for senior content designer.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -237,7 +230,7 @@ stakeholder relationships, using evidence to explain decisions made.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Identifying, communicating with and building
+Baseline: 2 — Working. Identifying, communicating with and building
 consensus with stakeholders directly is real independent practice, matching
 this level's own accountability to build relationships across government;
 negotiating and removing blockers for stakeholders is reserved for senior
@@ -245,14 +238,12 @@ content designer.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the stakeholders relevant to a piece of work they
-  are responsible for.
-- 1 — Beginner: Communicates with an identified stakeholder when told to,
+- 1 — Awareness: Communicates with an identified stakeholder when told to,
   but does not yet initiate the relationship.
-- 2 — Intermediate: Identifies important stakeholders unprompted,
+- 2 — Working: Identifies important stakeholders unprompted,
   communicates with them clearly and regularly, and uses evidence to explain
   a content decision when a stakeholder disagrees.
-- 3 — Advanced: Negotiates with a stakeholder to remove a blocker, and
+- 3 — Practitioner: Negotiates with a stakeholder to remove a blocker, and
   manages a challenging situation without escalating it — already working
   towards senior content designer.
 - 4 — Expert: Builds long-term strategic relationships across the
@@ -269,10 +260,9 @@ content designer.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -288,21 +278,19 @@ solutions and activities.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Creating content patterns or standards, not just
+Baseline: 2 — Working. Creating content patterns or standards, not just
 using them, and focusing on outcomes rather than activity is a real step
 from junior content designer's supporting role, matching this level's
 accountability to contribute to and use style guides and content patterns.
 
 **Behavioural indicators**
 
-- 0 — None: Describes their work in terms of tasks completed rather than
-  outcomes achieved.
-- 1 — Beginner: Contributes to a content strategy or pattern when
+- 1 — Awareness: Contributes to a content strategy or pattern when
   specifically asked, but does not yet focus on outcomes unprompted.
-- 2 — Intermediate: Contributes independently to a content strategy or
+- 2 — Working: Contributes independently to a content strategy or
   policy, creates or improves a content pattern or standard, and can explain
   their work in terms of the outcome it achieved.
-- 3 — Advanced: Helps lead the design and implementation of a content
+- 3 — Practitioner: Helps lead the design and implementation of a content
   strategy, evaluating its impact — already working towards senior content
   designer.
 - 4 — Expert: Leads content strategy for the whole organisation — well
@@ -318,10 +306,9 @@ accountability to contribute to and use style guides and content patterns.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -340,7 +327,7 @@ and qualitative data about users to turn user insights into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is one of the two skills that carries this
+Baseline: 3 — Practitioner. This is one of the two skills that carries this
 level's central accountability — being comfortable using evidence, data and
 research to make content decisions — and the framework's own wording
 describes independently forming hypotheses and making decisions from
@@ -348,14 +335,12 @@ findings, not just applying someone else's research.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a content decision they made based on user
-  evidence.
-- 1 — Beginner: Uses user research someone else gathered to inform a
+- 1 — Awareness: Uses user research someone else gathered to inform a
   decision, with support.
-- 2 — Intermediate: Identifies a task that would give insight into a
+- 2 — Working: Identifies a task that would give insight into a
   problem, and uses quantitative or qualitative data with some support to
   reach a decision.
-- 3 — Advanced: Formulates a hypothesis, gathers or draws on user research
+- 3 — Practitioner: Formulates a hypothesis, gathers or draws on user research
   to test it, makes a content decision from the findings, and translates a
   user story into content that meets the need it describes.
 - 4 — Expert: Champions user research to focus on all users and evaluates
@@ -373,10 +358,9 @@ findings, not just applying someone else's research.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -400,7 +384,7 @@ management is important; and work autonomously.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This block's own text is explicit — "work
+Baseline: 3 — Practitioner. This block's own text is explicit — "work
 autonomously" — and every other bullet describes robust, independent,
 end-to-end practice: designing, writing, publishing and evaluating content
 without support. This is the clearest single statement in the whole role of
@@ -408,14 +392,12 @@ what full practitioner competence looks like.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot design a piece of content that meets a stated user need
-  without significant rework.
-- 1 — Beginner: Writes and edits content competently but needs regular
+- 1 — Awareness: Writes and edits content competently but needs regular
   review before publishing.
-- 2 — Intermediate: Applies content standards and style guidelines
+- 2 — Working: Applies content standards and style guidelines
   consistently, and writes in plain language, but still relies on others for
   the more complex accessibility or evaluation judgements.
-- 3 — Advanced: Designs content that makes complex language and processes
+- 3 — Practitioner: Designs content that makes complex language and processes
   easy to understand, writes, edits and publishes it end to end using the
   team's content management system, understands government accessibility
   requirements, and uses evidence to evaluate and improve their own content
@@ -436,10 +418,9 @@ what full practitioner competence looks like.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -448,12 +429,12 @@ what full practitioner competence looks like.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Agile working (content design) | 2 — Intermediate | | |
-| Content concepts and prototyping | 2 — Intermediate | | |
-| Stakeholder relationship management (content design) | 2 — Intermediate | | |
-| Strategic thinking (content design) | 2 — Intermediate | | |
-| User focus (content design) | 3 — Advanced | | |
-| User-centred content design | 3 — Advanced | | |
+| Agile working (content design) | 2 — Working | | |
+| Content concepts and prototyping | 2 — Working | | |
+| Stakeholder relationship management (content design) | 2 — Working | | |
+| Strategic thinking (content design) | 2 — Working | | |
+| User focus (content design) | 3 — Practitioner | | |
+| User-centred content design | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

@@ -63,31 +63,30 @@ confidential incident, control or data set.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — it rates how well the person does the
 thing, on the evidence available, not how often they do it or how they feel
 about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Data governance.** The framework expects a data governance
 manager to "develop an end-to-end data governance framework (the processes,
 operational policies and standards needed to support data management)" and to
 "work effectively with technical teams and other stakeholders to implement" it.
 A candidate who can describe what a data governance framework is for, but
-cannot point to any part of one they have built, is showing **1 — Beginner** —
+cannot point to any part of one they have built, is showing **1 — Awareness** —
 below this level's baseline. A candidate who, with some support, has drafted
 one policy or process within a wider framework and can explain how it fits is
-showing **2 — Intermediate**, still short of the baseline. A candidate who has
+showing **2 — Working**, still short of the baseline. A candidate who has
 independently developed an end-to-end framework — processes, policies and
 standards together — and worked with technical teams to implement it and
-secure compliance is showing **3 — Advanced**, the baseline this level
+secure compliance is showing **3 — Practitioner**, the baseline this level
 expects.
 
 ## About this role level
@@ -139,21 +138,19 @@ based on their analysis and insight to inform decision making.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Presenting "with support" caps the practical
+Baseline: 2 — Working. Presenting "with support" caps the practical
 expectation, while choosing a medium, shaping communications, and giving
 tactical recommendations describe real, if still developing, independent
-practice, so the baseline sits at Intermediate rather than Beginner.
+practice, so the baseline sits at Working rather than Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a particular audience would need a different
-  explanation of a governance finding.
-- 1 — Beginner: With guidance, picks a broadly suitable format for one finding
+- 1 — Awareness: With guidance, picks a broadly suitable format for one finding
   (for example, a short memo) and drafts it with a colleague's review.
-- 2 — Intermediate: Chooses an appropriate medium unprompted, presents a
+- 2 — Working: Chooses an appropriate medium unprompted, presents a
   governance analysis to a mixed specialist and non-specialist audience with
   support, and offers a tactical recommendation tied to the finding.
-- 3 — Advanced: Independently shapes and delivers analysis and recommendations
+- 3 — Practitioner: Independently shapes and delivers analysis and recommendations
   that change how a stakeholder group acts, without needing a colleague's
   review first.
 - 4 — Expert: Sets the standard for how governance analysis is communicated
@@ -171,10 +168,9 @@ practice, so the baseline sits at Intermediate rather than Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -190,21 +186,19 @@ for the team externally, and manage differing stakeholder perspectives.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Supporting and hosting discussions, and managing
+Baseline: 2 — Working. Supporting and hosting discussions, and managing
 differing perspectives, ask for practical facilitation skill beyond basic
 communication but stop short of independently leading the hardest dynamics
-alone, which fits Intermediate.
+alone, which fits Working.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to get a technical governance point across to a
-  non-technical stakeholder even with a colleague's help.
-- 1 — Beginner: Communicates a straightforward governance point to a
+- 1 — Awareness: Communicates a straightforward governance point to a
   non-technical stakeholder, with support preparing the explanation.
-- 2 — Intermediate: Hosts part of a multidisciplinary discussion, including
+- 2 — Working: Hosts part of a multidisciplinary discussion, including
   one with some difficult dynamics, and manages at least one differing
   stakeholder perspective without escalating it.
-- 3 — Advanced: Independently leads discussions across a multidisciplinary
+- 3 — Practitioner: Independently leads discussions across a multidisciplinary
   team through difficult dynamics and represents the team's position
   externally.
 - 4 — Expert: Is sought out to mediate the most difficult disputes between
@@ -221,10 +215,9 @@ alone, which fits Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -239,21 +232,18 @@ and privacy risks through appropriate channels.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Under supervision" is explicit in the framework's own
-wording for this skill at this level, so the baseline sits at the first rung
-above None rather than higher.
+Baseline: 1 — Awareness. "Under supervision" is explicit in the framework's own
+wording for this skill at this level, so the baseline sits at the scale’s first rung rather than higher.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify a data ethics or privacy principle relevant to a
-  piece of work they are doing.
-- 1 — Beginner: Applies a fundamental data ethics or privacy principle in
+- 1 — Awareness: Applies a fundamental data ethics or privacy principle in
   their own work when a supervisor points it out, and, when a concern arises,
   uses the right channel to share it after checking with someone senior.
-- 2 — Intermediate: Applies fundamental data ethics and privacy principles to
+- 2 — Working: Applies fundamental data ethics and privacy principles to
   their own work without prompting, and raises a concern through the right
   channel unprompted.
-- 3 — Advanced: Proactively spots data ethics or privacy risk in someone
+- 3 — Practitioner: Proactively spots data ethics or privacy risk in someone
   else's work and advises them on it.
 - 4 — Expert: Shapes the organisation's approach to data ethics and privacy and
   is the point of escalation for others' concerns.
@@ -269,10 +259,9 @@ above None rather than higher.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -290,21 +279,20 @@ governance framework, making recommendations to ensure compliance.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is the skill the role level's own description
+Baseline: 3 — Practitioner. This is the skill the role level's own description
 names as its core purpose — "defines, implements and manages data governance
 frameworks, policies and standards" — and the framework's own wording asks for
 an end-to-end framework to be developed and implemented, which is independent
-work, so the baseline sits at Advanced.
+work, so the baseline sits at Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a data governance framework is for.
-- 1 — Beginner: Describes, at a basic level, current data governance theory
+- 1 — Awareness: Describes, at a basic level, current data governance theory
   and methodology, and points to parts of an existing framework.
-- 2 — Intermediate: With support, drafts part of a data governance framework,
+- 2 — Working: With support, drafts part of a data governance framework,
   such as one policy or one process, and explains how it fits the wider
   framework.
-- 3 — Advanced: Independently develops an end-to-end data governance
+- 3 — Practitioner: Independently develops an end-to-end data governance
   framework — the processes, policies and standards a function needs — and
   works with technical teams to implement it, making recommendations to
   secure compliance.
@@ -324,10 +312,9 @@ work, so the baseline sits at Advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -342,21 +329,19 @@ usage.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a single "understand the impact" bullet,
+Baseline: 1 — Awareness. This is a single "understand the impact" bullet,
 which describes awareness rather than demonstrated application, so the
-baseline sits at Beginner.
+baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Is unaware of a data tool, technique, or usage trend that is
-  materially changing similar organisations' practice.
-- 1 — Beginner: Names an emerging trend in data tools, analysis techniques or
+- 1 — Awareness: Names an emerging trend in data tools, analysis techniques or
   data usage and gives a plausible view of its impact on the organisation,
   when asked.
-- 2 — Intermediate: Tracks emerging trends as a matter of course and raises a
+- 2 — Working: Tracks emerging trends as a matter of course and raises a
   specific, credible implication for the organisation's data governance
   unprompted.
-- 3 — Advanced: Assesses the governance implications of an emerging trend in
+- 3 — Practitioner: Assesses the governance implications of an emerging trend in
   enough depth to inform a policy or process change.
 - 4 — Expert: Is sought out by others in the organisation to interpret what an
   emerging data trend means for governance.
@@ -370,10 +355,9 @@ baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -387,20 +371,18 @@ over a data life cycle, ensuring best practice at each phase.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Applying governance across the whole life cycle,
+Baseline: 2 — Working. Applying governance across the whole life cycle,
 not just understanding it, is real applied work, so the baseline sits above
-Beginner, at Intermediate.
+Awareness, at Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the phases of a data life cycle relevant to their
-  work.
-- 1 — Beginner: Names the phases of a data life cycle and, with guidance,
+- 1 — Awareness: Names the phases of a data life cycle and, with guidance,
   identifies a governance best practice that applies at one phase.
-- 2 — Intermediate: Applies data governance appropriately across most phases
+- 2 — Working: Applies data governance appropriately across most phases
   of a data life cycle for a data asset they are responsible for, with some
   guidance at the harder phases.
-- 3 — Advanced: Independently applies best practice governance at every phase
+- 3 — Practitioner: Independently applies best practice governance at every phase
   of the data life cycle, including for a data asset with complex or
   contested phases.
 - 4 — Expert: Defines the organisation's data life cycle governance model and
@@ -415,10 +397,9 @@ Beginner, at Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -434,20 +415,18 @@ do with data.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Raising awareness unprompted and actively enabling
+Baseline: 2 — Working. Raising awareness unprompted and actively enabling
 data consumers to understand data use, even in a supporting role, is more than
-a first attempt, so the baseline sits at Intermediate.
+a first attempt, so the baseline sits at Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what data literacy means or why it matters to
-  colleagues.
-- 1 — Beginner: Raises awareness of data literacy with a small group, with
+- 1 — Awareness: Raises awareness of data literacy with a small group, with
   support preparing the message.
-- 2 — Intermediate: Raises awareness of data literacy needs across a team
+- 2 — Working: Raises awareness of data literacy needs across a team
   unprompted, and supports data literacy training by helping data consumers
   understand what they can and cannot do with a specific data set.
-- 3 — Advanced: Designs or leads a data literacy activity for a wider part of
+- 3 — Practitioner: Designs or leads a data literacy activity for a wider part of
   the organisation.
 - 4 — Expert: Sets the organisation's data literacy strategy and its success
   measures.
@@ -461,10 +440,9 @@ a first attempt, so the baseline sits at Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -481,22 +459,20 @@ with some support.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "With some support" is explicit in the framework's
-own wording, and matches the definition of Intermediate — knowing the basics
+Baseline: 2 — Working. "With some support" is explicit in the framework's
+own wording, and matches the definition of Working — knowing the basics
 and performing tasks with some guidance — directly.
 
 **Behavioural indicators**
 
-- 0 — None: Does not follow the organisation's data governance policies on
-  data access, sharing, dissemination or protection.
-- 1 — Beginner: Follows organisational data governance policy in their own
+- 1 — Awareness: Follows organisational data governance policy in their own
   work when reminded, and takes a small, defined part in a data management
   activity for one service or product.
-- 2 — Intermediate: Follows data governance policy consistently without
+- 2 — Working: Follows data governance policy consistently without
   reminders, and, with some support, uses appropriate data management tools,
   procedures and methods to deliver data management work across a service or
   product.
-- 3 — Advanced: Independently delivers data management across multiple
+- 3 — Practitioner: Independently delivers data management across multiple
   services or products, choosing the right tools, procedures and methods
   without support.
 - 4 — Expert: Sets the data management approach other teams follow across
@@ -511,10 +487,9 @@ and performing tasks with some guidance — directly.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -529,19 +504,18 @@ describe the benefits of potential improvements.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Measuring maturity and implementing a best
+Baseline: 2 — Working. Measuring maturity and implementing a best
 practice, alongside explaining models and benefits, is a mix of applied work
-and explanation that fits Intermediate rather than pure understanding.
+and explanation that fits Working rather than pure understanding.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a data maturity model measures.
-- 1 — Beginner: Explains, in outline, one or two data maturity models
+- 1 — Awareness: Explains, in outline, one or two data maturity models
   available and what a low or high score on one would mean.
-- 2 — Intermediate: Measures data maturity for a defined area using an
+- 2 — Working: Measures data maturity for a defined area using an
   established model, implements a recognised best practice as a result, and
   describes the benefit a specific improvement would bring.
-- 3 — Advanced: Independently selects the right data maturity model for a
+- 3 — Practitioner: Independently selects the right data maturity model for a
   context, runs the assessment, and builds a credible improvement plan from
   the result.
 - 4 — Expert: Develops or adapts a data maturity model for the organisation
@@ -556,10 +530,9 @@ and explanation that fits Intermediate rather than pure understanding.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -576,22 +549,20 @@ standard is breached.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Using standards effectively and contributing to
+Baseline: 2 — Working. Using standards effectively and contributing to
 developing them alongside subject matter experts describes solid, guided
 practice; independently leading standard development and owning breach
 response sit above this level's baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say which data standard applies to a piece of work they are
-  doing.
-- 1 — Beginner: Uses an existing data policy, process, or standard correctly
+- 1 — Awareness: Uses an existing data policy, process, or standard correctly
   in their own work, with guidance on which one applies.
-- 2 — Intermediate: Uses data policies, processes and standards effectively
+- 2 — Working: Uses data policies, processes and standards effectively
   without guidance, contributes to developing a standard alongside subject
   matter experts, and monitors compliance in a team, escalating where action
   is needed.
-- 3 — Advanced: Independently leads the development of a new standard with
+- 3 — Practitioner: Independently leads the development of a new standard with
   subject matter experts, and analyses the impact of a breach, recommending a
   proportionate response.
 - 4 — Expert: Owns the organisation's data standards portfolio and is the
@@ -608,10 +579,9 @@ response sit above this level's baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -627,19 +597,18 @@ as the proportionality of risk.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Work with risk owners to advise" describes
+Baseline: 2 — Working. "Work with risk owners to advise" describes
 supported engagement with risk decisions rather than owning them outright, so
-the baseline sits at Intermediate.
+the baseline sits at Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what "risk tolerance" means in a data context.
-- 1 — Beginner: With support, describes a risk methodology and gives a basic
+- 1 — Awareness: With support, describes a risk methodology and gives a basic
   view on whether a data risk sits within tolerance.
-- 2 — Intermediate: Works with a risk owner to advise on and give feedback on
+- 2 — Working: Works with a risk owner to advise on and give feedback on
   a data risk, and independently describes different risk methodologies and
   how proportionality applies.
-- 3 — Advanced: Advises risk owners on complex, ambiguous data risk with
+- 3 — Practitioner: Advises risk owners on complex, ambiguous data risk with
   confidence, and is trusted to judge proportionality without checking with
   someone senior.
 - 4 — Expert: Shapes the organisation's approach to data risk methodology and
@@ -656,10 +625,9 @@ the baseline sits at Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -676,21 +644,19 @@ stakeholder relationships using evidence to explain decisions.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Identifying stakeholders, communicating regularly,
+Baseline: 2 — Working. Identifying stakeholders, communicating regularly,
 and tailoring communication describe solid, applied practice; building
 consensus on a contested issue and repairing a strained relationship are the
 harder end of this skill and sit above the baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the stakeholders relevant to a piece of governance
-  work.
-- 1 — Beginner: Identifies important stakeholders for a piece of work, with
+- 1 — Awareness: Identifies important stakeholders for a piece of work, with
   guidance, and communicates with them when prompted.
-- 2 — Intermediate: Identifies stakeholders and communicates with them clearly
+- 2 — Working: Identifies stakeholders and communicates with them clearly
   and regularly without prompting, tailors communication to their needs, and
   builds towards consensus on a straightforward issue.
-- 3 — Advanced: Builds and reaches consensus with stakeholders on a contested
+- 3 — Practitioner: Builds and reaches consensus with stakeholders on a contested
   issue, and uses evidence to repair a strained stakeholder relationship.
 - 4 — Expert: Is the person other data governance colleagues bring in to
   manage the organisation's hardest stakeholder relationships.
@@ -704,10 +670,9 @@ harder end of this skill and sit above the baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -722,22 +687,20 @@ development of strategy and policies.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Contribute to the development of strategy and
+Baseline: 1 — Awareness. "Contribute to the development of strategy and
 policies" is explicitly a supporting role rather than owning strategy, which
 fits the entry level of this role's own ladder, so the baseline sits at
-Beginner.
+Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a piece of governance work to the organisation's
-  wider strategic goals.
-- 1 — Beginner: Explains, when asked, how a piece of their work meets a
+- 1 — Awareness: Explains, when asked, how a piece of their work meets a
   specific strategic goal, and makes a small, specific contribution when
   asked to help develop a policy.
-- 2 — Intermediate: Communicates unprompted how team activities meet
+- 2 — Working: Communicates unprompted how team activities meet
   strategic goals, and makes a substantive, unprompted contribution to
   developing a policy.
-- 3 — Advanced: Shapes part of the data governance strategy, rather than only
+- 3 — Practitioner: Shapes part of the data governance strategy, rather than only
   contributing to it, and defends the choices made in it.
 - 4 — Expert: Sets data governance strategy for the organisation.
 
@@ -750,10 +713,9 @@ Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -762,19 +724,19 @@ Beginner.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Communicating analysis and insight | 2 — Intermediate | | |
-| Communicating between the technical and non-technical | 2 — Intermediate | | |
-| Data ethics and privacy | 1 — Beginner | | |
-| Data governance | 3 — Advanced | | |
-| Data innovation | 1 — Beginner | | |
-| Data life cycle | 2 — Intermediate | | |
-| Data literacy improvement | 2 — Intermediate | | |
-| Data management | 2 — Intermediate | | |
-| Data maturity | 2 — Intermediate | | |
-| Data standards | 2 — Intermediate | | |
-| Enabling and informing risk-based decisions | 2 — Intermediate | | |
-| Stakeholder relationship management | 2 — Intermediate | | |
-| Strategic thinking | 1 — Beginner | | |
+| Communicating analysis and insight | 2 — Working | | |
+| Communicating between the technical and non-technical | 2 — Working | | |
+| Data ethics and privacy | 1 — Awareness | | |
+| Data governance | 3 — Practitioner | | |
+| Data innovation | 1 — Awareness | | |
+| Data life cycle | 2 — Working | | |
+| Data literacy improvement | 2 — Working | | |
+| Data management | 2 — Working | | |
+| Data maturity | 2 — Working | | |
+| Data standards | 2 — Working | | |
+| Enabling and informing risk-based decisions | 2 — Working | | |
+| Stakeholder relationship management | 2 — Working | | |
+| Strategic thinking | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill above is
 rated at or above its baseline target. Note that the baseline target is not

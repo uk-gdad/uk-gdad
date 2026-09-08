@@ -51,11 +51,10 @@ still building.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well someone does the thing, on the evidence available, not how often they do it.
 
@@ -79,14 +78,13 @@ The framework expects a change and release analyst to maintain secure configurat
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the level below, so the baseline stays at Intermediate rather than rising on wording alone.
+Baseline: 2 — Working. The wording is unchanged from the level below, so the baseline stays at Working rather than rising on wording alone.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a configuration record is for.
-- 1 — Beginner: Updates a configuration record correctly only with someone checking.
-- 2 — Intermediate: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state.
-- 3 — Advanced: Proactively catches and corrects configuration discrepancies before a release is affected.
+- 1 — Awareness: Updates a configuration record correctly only with someone checking.
+- 2 — Working: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state.
+- 3 — Practitioner: Proactively catches and corrects configuration discrepancies before a release is affected.
 - 4 — Expert: Owns configuration accuracy for the organisation.
 
 **Evidence to gather**
@@ -96,10 +94,9 @@ Baseline: 2 — Intermediate. The wording is unchanged from the level below, so 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -112,14 +109,13 @@ The framework expects a change and release analyst to explain availability and c
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording — "explain" — is unchanged from the level below and is knowledge-level, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording — "explain" — is unchanged from the level below and is knowledge-level, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what availability or capacity management is for.
-- 1 — Beginner: Can explain, in general terms, what availability and capacity management processes cover.
-- 2 — Intermediate: Connects those processes to specific examples from planning a release.
-- 3 — Advanced: Applies availability and capacity concepts independently when planning a release.
+- 1 — Awareness: Can explain, in general terms, what availability and capacity management processes cover.
+- 2 — Working: Connects those processes to specific examples from planning a release.
+- 3 — Practitioner: Applies availability and capacity concepts independently when planning a release.
 - 4 — Expert: Teaches others how these processes affect release planning.
 
 **Evidence to gather**
@@ -128,10 +124,9 @@ Baseline: 1 — Beginner. The wording — "explain" — is unchanged from the le
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -144,14 +139,13 @@ The framework expects a change and release analyst to analyse and assess the imp
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording moves from implementing under supervision (the level below) to independently analysing impact and taking action, which is a clear step up matching Advanced.
+Baseline: 3 — Practitioner. The framework's wording moves from implementing under supervision (the level below) to independently analysing impact and taking action, which is a clear step up matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how to assess the impact of a proposed change.
-- 1 — Beginner: Documents a change request only with someone checking the impact assessment.
-- 2 — Intermediate: Assesses straightforward change impact with occasional guidance.
-- 3 — Advanced: Analyses and assesses change impact independently, documents change requests thoroughly, and actions changes correctly without supervision.
+- 1 — Awareness: Documents a change request only with someone checking the impact assessment.
+- 2 — Working: Assesses straightforward change impact with occasional guidance.
+- 3 — Practitioner: Analyses and assesses change impact independently, documents change requests thoroughly, and actions changes correctly without supervision.
 - 4 — Expert: Sets the standard other analysts follow for change impact assessment.
 
 **Evidence to gather**
@@ -161,10 +155,9 @@ Baseline: 3 — Advanced. The framework's wording moves from implementing under 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -177,14 +170,13 @@ The framework expects a change and release analyst to contribute to the work of 
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Works in isolation and does not contribute to how the team operates.
-- 1 — Beginner: Contributes to the work of others when asked, particularly around release co-ordination with DevOps and service design colleagues.
-- 2 — Intermediate: Actively helps create a good working environment across the teams they liaise with.
-- 3 — Advanced: Motivates and empowers colleagues across teams and helps identify the best team makeup for a release.
+- 1 — Awareness: Contributes to the work of others when asked, particularly around release co-ordination with DevOps and service design colleagues.
+- 2 — Working: Actively helps create a good working environment across the teams they liaise with.
+- 3 — Practitioner: Motivates and empowers colleagues across teams and helps identify the best team makeup for a release.
 - 4 — Expert: Sets the collaborative standard other analysts follow.
 
 **Evidence to gather**
@@ -194,10 +186,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -210,14 +201,13 @@ The framework expects a change and release analyst to explain the basic principl
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below and is knowledge-level, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below and is knowledge-level, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what IT continuity management is for.
-- 1 — Beginner: Can explain the basic principles of standard continuity processes and procedures.
-- 2 — Intermediate: Connects continuity principles to a release they have planned.
-- 3 — Advanced: Applies continuity principles independently when planning a release.
+- 1 — Awareness: Can explain the basic principles of standard continuity processes and procedures.
+- 2 — Working: Connects continuity principles to a release they have planned.
+- 3 — Practitioner: Applies continuity principles independently when planning a release.
 - 4 — Expert: Owns continuity documentation or testing relevant to release planning.
 
 **Evidence to gather**
@@ -226,10 +216,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below and is k
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -242,14 +231,13 @@ The framework expects a change and release analyst to identify and register inci
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what an incident record needs.
-- 1 — Beginner: Logs a straightforward incident correctly when shown what fields to capture.
-- 2 — Intermediate: Logs routine incidents accurately and unprompted, including one caused by a release.
-- 3 — Advanced: Logs and routes incidents of varying complexity correctly and consistently.
+- 1 — Awareness: Logs a straightforward incident correctly when shown what fields to capture.
+- 2 — Working: Logs routine incidents accurately and unprompted, including one caused by a release.
+- 3 — Practitioner: Logs and routes incidents of varying complexity correctly and consistently.
 - 4 — Expert: Sets the standard other analysts follow for well-logged incidents.
 
 **Evidence to gather**
@@ -258,10 +246,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -274,14 +261,13 @@ The framework expects a change and release analyst to show an awareness of probl
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Does not recognise when something needs escalating.
-- 1 — Beginner: Recognises a problem and passes it on, though sometimes to the wrong person or after some delay.
-- 2 — Intermediate: Recognises problems promptly and routes them to the right person or team most of the time.
-- 3 — Advanced: Consistently escalates the right issue to the right place quickly, and follows up.
+- 1 — Awareness: Recognises a problem and passes it on, though sometimes to the wrong person or after some delay.
+- 2 — Working: Recognises problems promptly and routes them to the right person or team most of the time.
+- 3 — Practitioner: Consistently escalates the right issue to the right place quickly, and follows up.
 - 4 — Expert: Others come to this person to ask who should own an ambiguous issue.
 
 **Evidence to gather**
@@ -290,10 +276,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -306,14 +291,13 @@ The framework expects a change and release analyst to investigate problems in sy
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below, so the baseline stays consistent at Beginner, though the accountability to "undertake analysis after release" gives this person more direct opportunity to demonstrate it than the level below.
+Baseline: 1 — Awareness. The wording is unchanged from the level below, so the baseline stays consistent at Awareness, though the accountability to "undertake analysis after release" gives this person more direct opportunity to demonstrate it than the level below.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot distinguish an incident from a problem.
-- 1 — Beginner: Contributes a small piece of post-release analysis when directed.
-- 2 — Intermediate: Undertakes post-release analysis unprompted and contributes a workable remedy or preventative measure.
-- 3 — Advanced: Runs a post-release problem investigation independently, from evidence to proposed remedy.
+- 1 — Awareness: Contributes a small piece of post-release analysis when directed.
+- 2 — Working: Undertakes post-release analysis unprompted and contributes a workable remedy or preventative measure.
+- 3 — Practitioner: Runs a post-release problem investigation independently, from evidence to proposed remedy.
 - 4 — Expert: Leads problem investigations across releases and judges escalation without checking.
 
 **Evidence to gather**
@@ -322,10 +306,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -338,14 +321,13 @@ The framework expects a change and release analyst to show an awareness of diffe
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below and is knowledge-level, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below and is knowledge-level, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the products or services their release work affects.
-- 1 — Beginner: Can describe, in general terms, the products and services their releases touch.
-- 2 — Intermediate: Connects a specific release plan to the services it will affect.
-- 3 — Advanced: Independently considers service impact when planning a release.
+- 1 — Awareness: Can describe, in general terms, the products and services their releases touch.
+- 2 — Working: Connects a specific release plan to the services it will affect.
+- 3 — Practitioner: Independently considers service impact when planning a release.
 - 4 — Expert: Advises others on how a release plan affects wider services.
 
 **Evidence to gather**
@@ -354,10 +336,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below and is k
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -370,14 +351,13 @@ The framework expects a change and release analyst to show they have a Level 3 s
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. A named Level 3 qualification maps to solid, certified working knowledge — Intermediate on this scale, unchanged from the level below.
+Baseline: 2 — Working. A named Level 3 qualification maps to solid, certified working knowledge — Working on this scale, unchanged from the level below.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Is working towards a Level 3 qualification.
-- 2 — Intermediate: Holds a Level 3 qualification and applies its concepts correctly to release planning.
-- 3 — Advanced: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
+- 1 — Awareness: Is working towards a Level 3 qualification.
+- 2 — Working: Holds a Level 3 qualification and applies its concepts correctly to release planning.
+- 3 — Practitioner: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
 - 4 — Expert: Holds an expert-level qualification and teaches concepts to others.
 
 **Evidence to gather**
@@ -387,10 +367,9 @@ Baseline: 2 — Intermediate. A named Level 3 qualification maps to solid, certi
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -403,14 +382,13 @@ The framework expects a change and release analyst to show an awareness or under
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below and remains knowledge-level, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below and remains knowledge-level, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a user story is or why user needs matter.
-- 1 — Beginner: Can explain, in general terms, what user experience analysis is for.
-- 2 — Intermediate: Connects user needs to the timing or content of a release plan.
-- 3 — Advanced: Actively brings a user perspective into release planning unprompted.
+- 1 — Awareness: Can explain, in general terms, what user experience analysis is for.
+- 2 — Working: Connects user needs to the timing or content of a release plan.
+- 3 — Practitioner: Actively brings a user perspective into release planning unprompted.
 - 4 — Expert: Coaches others on why user focus matters to release timing and content.
 
 **Evidence to gather**
@@ -419,10 +397,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below and rema
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -431,17 +408,17 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below and rema
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Availability and capacity management | 1 — Beginner | | |
-| Change management | 3 — Advanced | | |
-| Community collaboration | 1 — Beginner | | |
-| Continuity management | 1 — Beginner | | |
-| Incident management | 1 — Beginner | | |
-| Ownership and initiative | 1 — Beginner | | |
-| Problem management | 1 — Beginner | | |
-| Service focus | 1 — Beginner | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| User focus | 1 — Beginner | | |
+| Asset and configuration management | 2 — Working | | |
+| Availability and capacity management | 1 — Awareness | | |
+| Change management | 3 — Practitioner | | |
+| Community collaboration | 1 — Awareness | | |
+| Continuity management | 1 — Awareness | | |
+| Incident management | 1 — Awareness | | |
+| Ownership and initiative | 1 — Awareness | | |
+| Problem management | 1 — Awareness | | |
+| Service focus | 1 — Awareness | | |
+| Service management framework knowledge | 2 — Working | | |
+| User focus | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

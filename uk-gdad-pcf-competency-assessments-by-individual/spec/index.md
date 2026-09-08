@@ -19,7 +19,7 @@ to this project.
 ## Purpose
 
 For every role level, a self-rating version of the competency assessment: the
-same matrix, the same skills, the same five-point scale, but written for the
+same matrix, the same skills, the same four-point scale, but written for the
 reader to complete about themselves, at their own pace, without anyone else in
 the room.
 
@@ -51,7 +51,7 @@ and that section is required.
 | A whole-catalogue self-rating | 189 skills, no role context, nothing saved | `uk-gdad-pcf-skills-self-assessment` |
 | Legal advice | Named duties, not interpreted ones | See the assessor project's own [Fair and lawful use](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#fair-and-lawful-use) |
 
-The skills gap form and this assessment share the same 0–4 scale points
+The skills gap form and this assessment share the same 1–4 scale points
 deliberately, so a person familiar with one recognises the shape of the other.
 
 ## Input
@@ -92,7 +92,7 @@ In this order — the same nine as the assessor-administered sibling, so
 | `## Introduction` | What this is, and an invitation to be honest with yourself |
 | `## Advisory` | The standing caution, below |
 | `## How to use this assessment` | Preparing, rating on evidence, staying consistent, staying kind |
-| `## Rating scale` | The 0–4 scale, with a worked example |
+| `## Rating scale` | The 1–4 scale, with a worked example |
 | `## About this role level` | The role, the level, its duties, its accountabilities and the skills it names |
 | `## Competency matrix` | One block per skill in the summary, carried over from the assessor-administered sibling |
 | `## Overall determination` | The same skill-by-skill table, with guidance on reading your own result |
@@ -118,7 +118,7 @@ no earlier, self-practice framing to preserve here the way there was for
 
 ## The rating scale
 
-The same five-point proficiency scale as the sibling project — see its
+The same four-point proficiency scale as the sibling project — see its
 [Rating scale](../uk-gdad-pcf-competency-assessments-by-assessor/spec/index.md#the-rating-scale).
 The worked example carries over from the sibling, reworded from "a candidate
 who…" into "if you…", since there is no candidate here, only the reader.

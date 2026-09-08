@@ -49,20 +49,19 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Performance measurement:
 
-- **3 — Advanced**: they led the development of a KPI framework for a single, complex
+- **3 — Practitioner**: they led the development of a KPI framework for a single, complex
   programme unsupported.
 - **4 — Expert**: they oversee the development and consistency of performance
   measurement frameworks across every project in the organisation, and personally check
@@ -131,12 +130,10 @@ read alone, support a lower figure; note your reasoning either way.
 
 **Behavioural indicators**
 
-- 0 — None: has not applied more than one technique for analysis and insight
-  independently.
-- 1 — Beginner: has applied a single technique with close direction.
-- 2 — Intermediate: has applied a range of techniques with some guidance and presented
+- 1 — Awareness: has applied a single technique with close direction.
+- 2 — Working: has applied a range of techniques with some guidance and presented
   a finding a colleague acted on.
-- 3 — Advanced: independently applies a range of techniques, proactively presents
+- 3 — Practitioner: independently applies a range of techniques, proactively presents
   compelling findings that inform a wider decision, and has applied an innovative
   approach to resolve a problem.
 - 4 — Expert: is recognised across the organisation for applying and teaching a wide
@@ -154,10 +151,9 @@ read alone, support a lower figure; note your reasoning either way.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -178,11 +174,10 @@ altitude, for the most senior audiences the organisation has, is the essence of 
 
 **Behavioural indicators**
 
-- 0 — None: has not made a strategic recommendation from performance evidence.
-- 1 — Beginner: has drafted part of a strategic communication with close direction.
-- 2 — Intermediate: communicates tactical recommendations independently but needs
+- 1 — Awareness: has drafted part of a strategic communication with close direction.
+- 2 — Working: communicates tactical recommendations independently but needs
   support framing a strategic one.
-- 3 — Advanced: independently communicates compelling stories and gives both tactical
+- 3 — Practitioner: independently communicates compelling stories and gives both tactical
   and strategic recommendations for a single area.
 - 4 — Expert: is trusted to represent the whole performance analysis community's
   findings and recommendations to the organisation's and government's most senior
@@ -199,10 +194,9 @@ altitude, for the most senior audiences the organisation has, is the essence of 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -223,10 +217,9 @@ is a mastery-level responsibility.
 
 **Behavioural indicators**
 
-- 0 — None: has not overseen consistency across more than one measurement framework.
-- 1 — Beginner: has contributed to one framework's development.
-- 2 — Intermediate: has led one framework's development, with some support.
-- 3 — Advanced: independently leads the development of a single framework and aligns
+- 1 — Awareness: has contributed to one framework's development.
+- 2 — Working: has led one framework's development, with some support.
+- 3 — Practitioner: independently leads the development of a single framework and aligns
   it to business needs and strategy.
 - 4 — Expert: oversees the development and consistency of performance measurement
   frameworks across every project in the organisation, ensuring each is aligned to
@@ -243,10 +236,9 @@ is a mastery-level responsibility.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -271,10 +263,9 @@ Expert.
 
 **Behavioural indicators**
 
-- 0 — None: has not set up an assurance tool or system used by more than one team.
-- 1 — Beginner: has followed an assurance system someone else set up.
-- 2 — Intermediate: has contributed to an assurance system across teams with guidance.
-- 3 — Advanced: independently verifies and validates data and analysis for their own
+- 1 — Awareness: has followed an assurance system someone else set up.
+- 2 — Working: has contributed to an assurance system across teams with guidance.
+- 3 — Practitioner: independently verifies and validates data and analysis for their own
   team.
 - 4 — Expert: defines the quality assurance framework the whole performance analysis
   community works to, has influenced senior stakeholders on data and analysis
@@ -291,10 +282,9 @@ Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -314,11 +304,9 @@ business goals, at organisational scale, is forward-looking, expert-level judgem
 
 **Behavioural indicators**
 
-- 0 — None: has not identified an opportunity to adopt a new digital technology for
-  analysis.
-- 1 — Beginner: is aware of new digital technologies but has not proposed adopting one.
-- 2 — Intermediate: has helped assess a proposed new technology with guidance.
-- 3 — Advanced: independently identifies a new technology opportunity and proposes it
+- 1 — Awareness: is aware of new digital technologies but has not proposed adopting one.
+- 2 — Working: has helped assess a proposed new technology with guidance.
+- 3 — Practitioner: independently identifies a new technology opportunity and proposes it
   for their own team.
 - 4 — Expert: identifies and drives adoption of new digital technologies across the
   organisation's analytical capability, aligned to business goals, through business
@@ -335,10 +323,9 @@ business goals, at organisational scale, is forward-looking, expert-level judgem
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -362,12 +349,10 @@ broadest reach this skill covers.
 
 **Behavioural indicators**
 
-- 0 — None: has not led an improvement to how the organisation approaches the product
-  life cycle.
-- 1 — Beginner: has flagged a life cycle risk to someone more senior.
-- 2 — Intermediate: has raised a risk and suggested an improvement for one team, with
+- 1 — Awareness: has flagged a life cycle risk to someone more senior.
+- 2 — Working: has raised a risk and suggested an improvement for one team, with
   support.
-- 3 — Advanced: independently identifies and deals with risks and develops a support
+- 3 — Practitioner: independently identifies and deals with risks and develops a support
   model for their own team.
 - 4 — Expert: develops sustainable support models used across the organisation, deals
   with risks across all life cycle stages, coaches others, assesses other teams'
@@ -384,10 +369,9 @@ broadest reach this skill covers.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -410,11 +394,9 @@ thinking, and weighing political implications is mastery-level, judgement-heavy 
 
 **Behavioural indicators**
 
-- 0 — None: has not given direction to others on user-centred analysis tools or
-  methods.
-- 1 — Beginner: has used a tool or method someone else directed.
-- 2 — Intermediate: has recommended a tool or method to one colleague, with support.
-- 3 — Advanced: independently applies strategic thinking to how a service best serves
+- 1 — Awareness: has used a tool or method someone else directed.
+- 2 — Working: has recommended a tool or method to one colleague, with support.
+- 3 — Practitioner: independently applies strategic thinking to how a service best serves
   the end user.
 - 4 — Expert: gives direction across the community on tools and methods, tracks how
   user needs have changed over time organisation-wide, and weighs political strategy
@@ -432,10 +414,9 @@ thinking, and weighing political implications is mastery-level, judgement-heavy 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

@@ -67,26 +67,24 @@ you use it for a hiring or promotion decision.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 **proficiency** scale — it measures how well the person does the thing, on the
 evidence available, not how often they do it or how they feel about doing it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Applying user-centred insights.** At 0 (None), a person
-cannot describe how they would find out what users need for a feature. At 1
-(Beginner), they can sit in on user research someone else has organised, and
+**Worked example — Applying user-centred insights.** At 1
+(Awareness), the baseline for this level, a person can sit in on user research someone else has organised, and
 with support can say what one finding might mean for the feature they are
-working on. At 2 (Intermediate), they help identify who to talk to for a
+working on. At 2 (Working), they help identify who to talk to for a
 piece of research, and can weigh whether the team already has enough insight
 to make a small decision, though a more experienced colleague checks their
-judgement. At 3 (Advanced), they run this process independently across a
+judgement. At 3 (Practitioner), they run this process independently across a
 feature or small product, without needing anyone to check their judgement
 first. Few or no associate product managers will show evidence at 3 or above;
 that is expected at this entry level, not a concern in itself.
@@ -152,19 +150,18 @@ them intelligently, and visualise and make visible the work of the team.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording — "show an awareness" and
+Baseline: 1 — Awareness. The framework's own wording — "show an awareness" and
 "starting to use them intelligently" — describes someone who is still
 learning to apply Agile tools with support, which is exactly what this entry
 level expects.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a backlog, a sprint, or a stand-up is for.
-- 1 — Beginner: Takes part in the team's Agile ceremonies and, with support,
+- 1 — Awareness: Takes part in the team's Agile ceremonies and, with support,
   can update a task board or backlog item correctly.
-- 2 — Intermediate: Updates the team's visual tracking tools unprompted, and
+- 2 — Working: Updates the team's visual tracking tools unprompted, and
   can explain to a new team member why the team works the way it does.
-- 3 — Advanced: Adjusts how the team visualises and tracks its work when the
+- 3 — Practitioner: Adjusts how the team visualises and tracks its work when the
   current approach is not helping, without being asked to.
 - 4 — Expert: Coaches other product people on applying Agile and Lean
   practices well.
@@ -180,10 +177,9 @@ level expects.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -200,19 +196,18 @@ qualitative user insights to improve product or service outcomes.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a feature-level or supported role, and a
+Baseline: 1 — Awareness. This is a feature-level or supported role, and a
 person newly learning to work with user insight typically needs a more
 experienced colleague to sense-check when there is genuinely enough evidence
 to act on.
 
 **Behavioural indicators**
 
-- 0 — None: Has not taken part in gathering or using user insight.
-- 1 — Beginner: Sits in on user research sessions someone else has organised,
+- 1 — Awareness: Sits in on user research sessions someone else has organised,
   and with support can say what one finding might mean for their feature.
-- 2 — Intermediate: Helps identify who to research and drafts research goals
+- 2 — Working: Helps identify who to research and drafts research goals
   with guidance, and can point to a piece of insight that shaped a decision.
-- 3 — Advanced: Decides independently when a feature-level decision has
+- 3 — Practitioner: Decides independently when a feature-level decision has
   enough user evidence behind it to proceed.
 - 4 — Expert: Coaches others in the team on how to use user insight to
   improve outcomes.
@@ -228,10 +223,9 @@ to act on.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -246,19 +240,17 @@ identify opportunities for reuse, saving time and money.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. At feature or component level, describing value in
+Baseline: 1 — Awareness. At feature or component level, describing value in
 simple, concrete terms — rather than building a full benefits case — is a
 reasonable starting point for someone learning the discipline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why the feature or task they are working on
-  matters.
-- 1 — Beginner: Can describe, in plain terms and with support, why a piece of
+- 1 — Awareness: Can describe, in plain terms and with support, why a piece of
   work is worth doing.
-- 2 — Intermediate: Estimates the expected benefit of a small piece of work
+- 2 — Working: Estimates the expected benefit of a small piece of work
   with some guidance, and spots an obvious opportunity for reuse.
-- 3 — Advanced: Builds a value case for a feature or small product
+- 3 — Practitioner: Builds a value case for a feature or small product
   unsupported, and actively looks for reuse opportunities across the team.
 - 4 — Expert: Coaches others in the team on how to describe and estimate
   value for their own work.
@@ -274,10 +266,9 @@ reasonable starting point for someone learning the discipline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -293,19 +284,17 @@ them.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own bullets for this skill at this
+Baseline: 1 — Awareness. The framework's own bullets for this skill at this
 level are entirely explanatory — describing the life cycle, not yet running a
 phase of it — which matches close-supervision, knowledge-building work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the phases of the product or service life cycle used
-  by their team or organisation.
-- 1 — Beginner: Can name the phases and, with prompting, say roughly what
+- 1 — Awareness: Can name the phases and, with prompting, say roughly what
   happens in each one.
-- 2 — Intermediate: Explains unprompted why the team works differently in
+- 2 — Working: Explains unprompted why the team works differently in
   discovery than in live, using a real example from their own product.
-- 3 — Advanced: Recognises unsupported when a feature or product is ready to
+- 3 — Practitioner: Recognises unsupported when a feature or product is ready to
   move to the next phase, and can justify the call.
 - 4 — Expert: Helps others in the team understand what changes as a product
   moves through its life cycle.
@@ -322,10 +311,9 @@ phase of it — which matches close-supervision, knowledge-building work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -340,20 +328,18 @@ and explain the priority outcomes for their product or feature.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. As with life cycle management, the framework's
+Baseline: 1 — Awareness. As with life cycle management, the framework's
 bullets here describe explaining outcomes and baselines rather than setting
 or measuring them independently, which fits a beginner still learning why
 outcomes matter.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what outcome the feature or task they are working on
-  is meant to achieve.
-- 1 — Beginner: Can state, with support, why measuring an outcome matters and
+- 1 — Awareness: Can state, with support, why measuring an outcome matters and
   what "baseline data" means.
-- 2 — Intermediate: Identifies the priority outcome for their own feature
+- 2 — Working: Identifies the priority outcome for their own feature
   with some guidance, and can point to the data used to track it.
-- 3 — Advanced: Sets baseline data and defines the priority outcomes for a
+- 3 — Practitioner: Sets baseline data and defines the priority outcomes for a
   small product independently.
 - 4 — Expert: Helps others in the team understand why a particular outcome
   matters more than another, and coaches them on setting a baseline.
@@ -369,10 +355,9 @@ outcomes matter.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -388,20 +373,18 @@ management community activities.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Every bullet the framework gives for this skill at
+Baseline: 1 — Awareness. Every bullet the framework gives for this skill at
 this level is about describing or attending, not leading, which is a
 beginner's engagement with the wider discipline rather than practising it.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a product manager's role differs from a
-  delivery manager's or a designer's.
-- 1 — Beginner: Can describe, with prompting, how product management fits
+- 1 — Awareness: Can describe, with prompting, how product management fits
   alongside other roles in a multidisciplinary team, and has attended at
   least one community activity such as a guild or show-and-tell.
-- 2 — Intermediate: Explains unprompted how user and business needs are
+- 2 — Working: Explains unprompted how user and business needs are
   balanced on their own product, using a real example.
-- 3 — Advanced: Actively contributes to the wider product community, for
+- 3 — Practitioner: Actively contributes to the wider product community, for
   example by presenting their own work or helping organise an activity.
 - 4 — Expert: Is a recognised contributor to the product community beyond
   their own team, and helps others understand how the discipline works
@@ -419,10 +402,9 @@ beginner's engagement with the wider discipline rather than practising it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -440,7 +422,7 @@ high-quality product increments.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is the core, doing-focused skill in the
+Baseline: 2 — Working. This is the core, doing-focused skill in the
 block, and its bullets describe actively creating goals, recommending
 decisions, and using named methods — more than the purely explanatory
 bullets in some of this level's other skills, so a working, guided
@@ -448,13 +430,12 @@ proficiency is a fair minimum even at entry level.
 
 **Behavioural indicators**
 
-- 0 — None: Has not helped prioritise or plan a piece of product work.
-- 1 — Beginner: Follows a backlog or roadmap someone else has set, with
+- 1 — Awareness: Follows a backlog or roadmap someone else has set, with
   close supervision when priorities need to change.
-- 2 — Intermediate: Helps prioritise a small set of goals for a feature with
+- 2 — Working: Helps prioritise a small set of goals for a feature with
   guidance, uses at least one named prioritisation method, and can point to
   the evidence behind a recommendation.
-- 3 — Advanced: Creates and prioritises actionable goals for a smaller
+- 3 — Practitioner: Creates and prioritises actionable goals for a smaller
   product unsupported, and makes evidence-based recommendations that a more
   senior product manager acts on.
 - 4 — Expert: Coaches others on using product management methods well, and
@@ -471,10 +452,9 @@ proficiency is a fair minimum even at entry level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -491,7 +471,7 @@ stakeholder relationships using evidence to explain decisions.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The bullets describe actively identifying,
+Baseline: 2 — Working. The bullets describe actively identifying,
 tailoring, and building consensus with stakeholders — more doing than the
 purely explanatory skills elsewhere in this level's matrix — so a working,
 guided proficiency is a reasonable minimum, even though full independence is
@@ -499,13 +479,11 @@ not expected yet.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the stakeholders for the feature or product they are
-  working on.
-- 1 — Beginner: Attends stakeholder conversations but relies on a more
+- 1 — Awareness: Attends stakeholder conversations but relies on a more
   experienced colleague to lead them.
-- 2 — Intermediate: Identifies the important stakeholders for their own
+- 2 — Working: Identifies the important stakeholders for their own
   feature with guidance, and communicates routine updates to them clearly.
-- 3 — Advanced: Builds consensus with stakeholders on a smaller product
+- 3 — Practitioner: Builds consensus with stakeholders on a smaller product
   unsupported, and uses evidence to explain a decision a stakeholder
   disagrees with.
 - 4 — Expert: Coaches others on how to manage a difficult stakeholder
@@ -522,10 +500,9 @@ not expected yet.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -540,19 +517,17 @@ having a strategy.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. As published, both bullets for this skill at this
+Baseline: 1 — Awareness. As published, both bullets for this skill at this
 level are explanatory rather than active — this is about understanding why
 strategy matters, not yet setting or owning one, which is a beginner's grasp.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say how their day-to-day work connects to any wider
-  organisational or team strategy.
-- 1 — Beginner: Can explain, with prompting, why having a strategy matters
+- 1 — Awareness: Can explain, with prompting, why having a strategy matters
   and roughly how their work connects to it.
-- 2 — Intermediate: Explains unprompted how a specific decision they made
+- 2 — Working: Explains unprompted how a specific decision they made
   aligned with the team's or product's strategy.
-- 3 — Advanced: Weighs a real decision against the stated strategy
+- 3 — Practitioner: Weighs a real decision against the stated strategy
   unsupported, and can justify a choice that the strategy did not directly
   cover.
 - 4 — Expert: Helps others in the team understand how their own decisions
@@ -569,10 +544,9 @@ strategy matters, not yet setting or owning one, which is a beginner's grasp.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -581,15 +555,15 @@ strategy matters, not yet setting or owning one, which is a beginner's grasp.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Agile and Lean practices | 1 — Beginner | | |
-| Applying user-centred insights | 1 — Beginner | | |
-| Creating value for money | 1 — Beginner | | |
-| Life cycle management | 1 — Beginner | | |
-| Managing product outcomes | 1 — Beginner | | |
-| Product leadership | 1 — Beginner | | |
-| Product management | 2 — Intermediate | | |
-| Stakeholder relationship management | 2 — Intermediate | | |
-| Strategic ownership | 1 — Beginner | | |
+| Agile and Lean practices | 1 — Awareness | | |
+| Applying user-centred insights | 1 — Awareness | | |
+| Creating value for money | 1 — Awareness | | |
+| Life cycle management | 1 — Awareness | | |
+| Managing product outcomes | 1 — Awareness | | |
+| Product leadership | 1 — Awareness | | |
+| Product management | 2 — Working | | |
+| Stakeholder relationship management | 2 — Working | | |
+| Strategic ownership | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill above is
 rated at or above its baseline target.

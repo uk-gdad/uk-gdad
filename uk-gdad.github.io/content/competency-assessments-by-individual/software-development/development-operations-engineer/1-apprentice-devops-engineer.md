@@ -49,24 +49,23 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Service support.** At Beginner (1), someone might say
+**Worked example — Service support.** At Awareness (1), someone might say
 in interview that they have watched a colleague triage a service fault but
 have not yet worked one themselves — plausible, but unverified until you see
-it. At Intermediate (2), they can describe helping investigate and fix a real
+it. At Working (2), they can describe helping investigate and fix a real
 fault under someone else's direction, and name the specific steps they took.
-At Advanced (3) — above this level's baseline for an apprentice — they could
+At Practitioner (3) — above this level's baseline for an apprentice — they could
 describe running that investigation themselves with only light oversight,
 which is more independence than this role level expects and worth noting as a
 strength.
@@ -110,20 +109,18 @@ rather than to run them.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This level's accountabilities have the apprentice
+Baseline: 1 — Awareness. This level's accountabilities have the apprentice
 shadowing others and building knowledge, not operating live services, so the
 expectation is explanatory understanding rather than hands-on practice.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what availability or capacity management is, or
-  confuses it with an unrelated activity such as bug fixing.
-- 1 — Beginner: can explain, in their own words, what availability and
+- 1 — Awareness: can explain, in their own words, what availability and
   capacity management processes are for and give a simple example, such as
   monitoring a service so it does not run out of resources.
-- 2 — Intermediate: can describe how their team actually monitors a specific
+- 2 — Working: can describe how their team actually monitors a specific
   service's availability or capacity, having shadowed that work.
-- 3 — Advanced: has helped check or record capacity or availability figures
+- 3 — Practitioner: has helped check or record capacity or availability figures
   for a real service under supervision, and can explain what the figures
   meant.
 - 4 — Expert: not expected at this level.
@@ -137,10 +134,9 @@ expectation is explanatory understanding rather than hands-on practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -155,20 +151,18 @@ services.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The level asks for explanation, not the design or
+Baseline: 1 — Awareness. The level asks for explanation, not the design or
 application of controls, matching an apprentice's shadowing-and-learning
 accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: cannot name a basic security control, such as access permissions
-  or encryption, or explain why software needs protecting.
-- 1 — Beginner: can explain what information security means for a solution or
+- 1 — Awareness: can explain what information security means for a solution or
   service, and name one or two controls that protect it (for example,
   restricting who can deploy code).
-- 2 — Intermediate: can describe how a specific control they have seen used
+- 2 — Working: can describe how a specific control they have seen used
   actually protects a real system they have worked near.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -181,10 +175,9 @@ accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -198,19 +191,17 @@ of using modern development standards.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the lightest of the six skills at this level —
+Baseline: 1 — Awareness. This is the lightest of the six skills at this level —
 only explanation is asked for, with no expectation of applying standards yet.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say why a team would follow agreed development standards
-  rather than write code however they like.
-- 1 — Beginner: can explain, in general terms, why modern development
+- 1 — Awareness: can explain, in general terms, why modern development
   standards (such as version control discipline or code review) matter to a
   team.
-- 2 — Intermediate: can point to a specific standard their team follows and
+- 2 — Working: can point to a specific standard their team follows and
   explain the problem it prevents, having watched it applied.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -222,10 +213,9 @@ only explanation is asked for, with no expectation of applying standards yet.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -239,18 +229,16 @@ software development and have a basic knowledge of how services are built.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This matches the level's "involved in implementation
+Baseline: 1 — Awareness. This matches the level's "involved in implementation
 but not planning" accountability: understanding, not yet independent building.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe, even loosely, the steps between writing code and
-  a service running in an environment.
-- 1 — Beginner: can describe the basic stages of building a piece of software
+- 1 — Awareness: can describe the basic stages of building a piece of software
   (write, test, package, deploy) in their own words.
-- 2 — Intermediate: has written or modified a small piece of code as part of
+- 2 — Working: has written or modified a small piece of code as part of
   a team task, with close direction, and can explain what it did.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -263,10 +251,9 @@ but not planning" accountability: understanding, not yet independent building.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -281,19 +268,17 @@ collaborative environment, such as by pair working.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Two things are asked for — explaining prototyping, and
+Baseline: 1 — Awareness. Two things are asked for — explaining prototyping, and
 understanding collaborative working — both at the level of understanding
 rather than doing.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain what a prototype is or why a team would build one
-  before the finished thing.
-- 1 — Beginner: can explain what prototyping is and give a simple reason for
+- 1 — Awareness: can explain what prototyping is and give a simple reason for
   using it, such as testing an idea cheaply before committing to it.
-- 2 — Intermediate: has taken part in a pair-working or collaborative
+- 2 — Working: has taken part in a pair-working or collaborative
   prototyping session, and can describe what they contributed.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -305,10 +290,9 @@ rather than doing.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -322,21 +306,19 @@ fixing of service faults, completing defined activities under direction.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the one skill at this level with a hands-on
+Baseline: 1 — Awareness. This is the one skill at this level with a hands-on
 component ("help with... investigation and fixing"), but strictly under
 direction, so the baseline reflects supervised participation rather than
 independent troubleshooting.
 
 **Behavioural indicators**
 
-- 0 — None: has never taken part in investigating or fixing a service fault,
-  even alongside someone else.
-- 1 — Beginner: has completed a small, clearly defined task as part of
+- 1 — Awareness: has completed a small, clearly defined task as part of
   investigating or fixing a fault, working entirely under someone else's
   direction.
-- 2 — Intermediate: can describe the general steps of a fault investigation
+- 2 — Working: can describe the general steps of a fault investigation
   they took part in, and what their specific role in it was.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -349,10 +331,9 @@ independent troubleshooting.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -361,12 +342,12 @@ independent troubleshooting.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Availability and capacity management | 1 — Beginner | | |
-| Information security | 1 — Beginner | | |
-| Modern development standards | 1 — Beginner | | |
-| Programming and build (software engineering) | 1 — Beginner | | |
-| Prototyping | 1 — Beginner | | |
-| Service support | 1 — Beginner | | |
+| Availability and capacity management | 1 — Awareness | | |
+| Information security | 1 — Awareness | | |
+| Modern development standards | 1 — Awareness | | |
+| Programming and build (software engineering) | 1 — Awareness | | |
+| Prototyping | 1 — Awareness | | |
+| Service support | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

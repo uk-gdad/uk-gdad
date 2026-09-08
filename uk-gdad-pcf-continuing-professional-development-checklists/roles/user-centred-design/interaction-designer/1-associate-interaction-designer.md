@@ -2,10 +2,84 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Interaction designer** role at the **Associate interaction designer** level in the UK GDAD PCF. You are a trainee in an entry-level position working under supervision, building your understanding of the role. Interaction designers work out the best way to let users interact with services, both the overall flow and the individual design elements, so what you learn now shapes whether people can complete real tasks.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/interaction-designer/1-associate-interaction-designer.md`](../../../assessments/user-centred-design/interaction-designer/1-associate-interaction-designer.md)
+- Upskilling: [`upskills/user-centred-design/interaction-designer/1-associate-interaction-designer.md`](../../../upskills/user-centred-design/interaction-designer/1-associate-interaction-designer.md)
+
+### Role Level Focus: Associate Interaction Designer
+
+- [ ] Learn the Design System: Work with the GOV.UK Design System and read why each component works as it does.
+- [ ] Study Flows, Not Just Screens: Practise mapping the whole task before designing any single page.
+- [ ] Learn Form Design: Study how good forms reduce errors, and what causes people to abandon them.
+- [ ] Learn the Prototype Kit: Build something small and clickable with the GOV.UK Prototype Kit.
+- [ ] Observe Research: Watch usability sessions and note where people hesitated.
+- [ ] Learn Accessibility Basics: Complete an introduction to WCAG and try keyboard-only navigation.
+- [ ] Keep a Design Journal: Record what you tried, what feedback you got, and what you changed.
+
+### Skill: Design communication
+
+- [ ] Explain Why It Matters: Say why articulating design decisions to others is essential.
+- [ ] Learn the Methods: Describe several ways to explain a design decision.
+- [ ] Practise Presenting: Present a small piece of work and ask for feedback on your explanation.
+- [ ] Separate Taste from Reasoning: Justify choices with user need rather than preference.
+
+### Skill: Designing for everyone
+
+- [ ] Explain Why Inclusion Matters: Articulate why services must be inclusive, accessible, and sustainable.
+- [ ] Learn Access Needs: Describe different access needs and how interaction design can meet them.
+- [ ] Understand Privilege and Power: Describe how they influence design and delivery decisions.
+- [ ] Test With Assistive Technology: Try a screen reader and experience your own flows.
+
+### Skill: Designing strategically
+
+- [ ] Explain Strategic Alignment: Say why aligning to organisational strategy matters.
+- [ ] Connect Work to Vision: Describe how your work aligns to your team's goals.
+- [ ] Explain Patterns and Components: Say why reusing patterns beats inventing every time.
+- [ ] Read the Service Standard: Study it and note what it asks of interaction design.
+
+### Skill: Designing together
+
+- [ ] Learn Collaboration Techniques: Describe ways to bring multiple perspectives into a design.
+- [ ] Value Constructive Feedback: Explain why feedback matters and practise receiving it well.
+- [ ] Join Design Critiques: Attend regularly and contribute at least one observation.
+- [ ] Work in the Open: Share unfinished work early and often.
+
+### Skill: Evidence-based design
+
+- [ ] Explain How Evidence Informs Design: Say how research and analytics shape design decisions.
+- [ ] Frame Design Hypotheses: State your ideas as testable propositions.
+- [ ] Learn the Data Sources: Identify the common data types that inform design in your organisation.
+- [ ] Watch Real Users: Observe usability testing and note what your assumptions got wrong.
+
+### Skill: Iterative design
+
+- [ ] Learn Iterative Methods: Describe the basics of iterative design and Agile ways of working.
+- [ ] Explain Why Iteration Helps: Say how iteration supports user-centred design.
+- [ ] Learn Fidelity Levels: Describe prototyping at different fidelities and when each fits.
+- [ ] Sketch Before Building: Get comfortable with paper before opening a design tool.
+
+### Skill: Leading design
+
+- [ ] Understand Design's Role: Explain what user-centred design does in an organisation.
+- [ ] Learn Leadership Responsibilities: Describe what design leaders typically do.
+- [ ] Identify Key Leaders: Know which leaders designers need to work with.
+- [ ] Watch Leaders Work: Observe how senior designers influence decisions.
+
+### Skill Growth Plan: Toward Junior Interaction Designer
+
+- [ ] Review the Next Level: Read the Junior interaction designer skill descriptions and mark what to build next.
+- [ ] Work More Independently: Ask for a small piece of work you take from direction to delivery.
+- [ ] Learn Prototyping Tools: Build fluency in the tools your team uses.
+- [ ] Book a Progress Review: Walk your portfolio through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,77 +177,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Interaction designer** role at the **Associate interaction designer** level in the UK GDAD PCF. You are a trainee in an entry-level position working under supervision, building your understanding of the role. Interaction designers work out the best way to let users interact with services, both the overall flow and the individual design elements, so what you learn now shapes whether people can complete real tasks.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/interaction-designer/1-associate-interaction-designer.md`](../../../assessments/user-centred-design/interaction-designer/1-associate-interaction-designer.md)
-- Upskilling: [`upskills/user-centred-design/interaction-designer/1-associate-interaction-designer.md`](../../../upskills/user-centred-design/interaction-designer/1-associate-interaction-designer.md)
-
-### Role Level Focus: Associate Interaction Designer
-
-- [ ] Learn the Design System: Work with the GOV.UK Design System and read why each component works as it does.
-- [ ] Study Flows, Not Just Screens: Practise mapping the whole task before designing any single page.
-- [ ] Learn Form Design: Study how good forms reduce errors, and what causes people to abandon them.
-- [ ] Learn the Prototype Kit: Build something small and clickable with the GOV.UK Prototype Kit.
-- [ ] Observe Research: Watch usability sessions and note where people hesitated.
-- [ ] Learn Accessibility Basics: Complete an introduction to WCAG and try keyboard-only navigation.
-- [ ] Keep a Design Journal: Record what you tried, what feedback you got, and what you changed.
-
-### Skill: Design communication
-
-- [ ] Explain Why It Matters: Say why articulating design decisions to others is essential.
-- [ ] Learn the Methods: Describe several ways to explain a design decision.
-- [ ] Practise Presenting: Present a small piece of work and ask for feedback on your explanation.
-- [ ] Separate Taste from Reasoning: Justify choices with user need rather than preference.
-
-### Skill: Designing for everyone
-
-- [ ] Explain Why Inclusion Matters: Articulate why services must be inclusive, accessible, and sustainable.
-- [ ] Learn Access Needs: Describe different access needs and how interaction design can meet them.
-- [ ] Understand Privilege and Power: Describe how they influence design and delivery decisions.
-- [ ] Test With Assistive Technology: Try a screen reader and experience your own flows.
-
-### Skill: Designing strategically
-
-- [ ] Explain Strategic Alignment: Say why aligning to organisational strategy matters.
-- [ ] Connect Work to Vision: Describe how your work aligns to your team's goals.
-- [ ] Explain Patterns and Components: Say why reusing patterns beats inventing every time.
-- [ ] Read the Service Standard: Study it and note what it asks of interaction design.
-
-### Skill: Designing together
-
-- [ ] Learn Collaboration Techniques: Describe ways to bring multiple perspectives into a design.
-- [ ] Value Constructive Feedback: Explain why feedback matters and practise receiving it well.
-- [ ] Join Design Critiques: Attend regularly and contribute at least one observation.
-- [ ] Work in the Open: Share unfinished work early and often.
-
-### Skill: Evidence-based design
-
-- [ ] Explain How Evidence Informs Design: Say how research and analytics shape design decisions.
-- [ ] Frame Design Hypotheses: State your ideas as testable propositions.
-- [ ] Learn the Data Sources: Identify the common data types that inform design in your organisation.
-- [ ] Watch Real Users: Observe usability testing and note what your assumptions got wrong.
-
-### Skill: Iterative design
-
-- [ ] Learn Iterative Methods: Describe the basics of iterative design and Agile ways of working.
-- [ ] Explain Why Iteration Helps: Say how iteration supports user-centred design.
-- [ ] Learn Fidelity Levels: Describe prototyping at different fidelities and when each fits.
-- [ ] Sketch Before Building: Get comfortable with paper before opening a design tool.
-
-### Skill: Leading design
-
-- [ ] Understand Design's Role: Explain what user-centred design does in an organisation.
-- [ ] Learn Leadership Responsibilities: Describe what design leaders typically do.
-- [ ] Identify Key Leaders: Know which leaders designers need to work with.
-- [ ] Watch Leaders Work: Observe how senior designers influence decisions.
-
-### Skill Growth Plan: Toward Junior Interaction Designer
-
-- [ ] Review the Next Level: Read the Junior interaction designer skill descriptions and mark what to build next.
-- [ ] Work More Independently: Ask for a small piece of work you take from direction to delivery.
-- [ ] Learn Prototyping Tools: Build fluency in the tools your team uses.
-- [ ] Book a Progress Review: Walk your portfolio through with your mentor.

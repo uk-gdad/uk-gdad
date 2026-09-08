@@ -2,10 +2,79 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Machine learning engineer** role at the **Senior machine learning engineer** level. You develop machine learning models for use in products and services: deciding what model suits, customising, optimising, retraining, and maintaining models, deploying them into production with testing and assurance, integrating them with existing systems, and checking that live models stay safe, secure, and effective. Your development now is about engineering rigour and responsible practice.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/machine-learning-engineer/1-senior-machine-learning-engineer.md`](../../../assessments/data/machine-learning-engineer/1-senior-machine-learning-engineer.md)
+- Upskilling: [`upskills/data/machine-learning-engineer/1-senior-machine-learning-engineer.md`](../../../upskills/data/machine-learning-engineer/1-senior-machine-learning-engineer.md)
+
+### Role Level Focus: Senior Machine Learning Engineer
+
+- [ ] Choose Models Deliberately: Practise justifying model choice against simpler alternatives, including no model.
+- [ ] Own the Full Life Cycle: Take a model from selection through deployment to monitoring and retirement.
+- [ ] Build Deployment Discipline: Learn versioning, reproducibility, and rollback for models as well as code.
+- [ ] Monitor Live Models: Set up drift, performance, and fairness monitoring, and act on it.
+- [ ] Learn Model Assurance: Study how models are tested, documented, and assured in government.
+- [ ] Study Security for Machine Learning: Learn about model theft, poisoning, and prompt injection risks.
+- [ ] Keep Current: Follow credible research and engineering sources without chasing every trend.
+- [ ] Learn the Government Context: Read the guidance on algorithmic transparency and the Data Ethics Framework.
+
+### Skill: Applied maths, statistics and scientific practices
+
+- [ ] Apply Quantitative Techniques: Use techniques such as time series analysis, optimisation, and simulation appropriately.
+- [ ] Match Data to Techniques: Guide others on which technique suits which data and goal.
+- [ ] Discover and Explain Relations: Apply statistical techniques to offer insight into real problems.
+- [ ] Use Organisational Tools: Get fluent with the statistical tools available to you.
+- [ ] Quantify Uncertainty: Practise communicating confidence and its limits honestly.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Listen and Interpret: Interpret technical and non-technical needs accurately, and manage expectations.
+- [ ] Manage Active and Reactive Communication: Get ahead of issues and respond well when caught out.
+- [ ] Host Difficult Discussions: Facilitate hard conversations with diverse senior stakeholders.
+- [ ] Explain Model Limits: Practise saying clearly what a model cannot and should not be used for.
+
+### Skill: Data ethics and privacy
+
+- [ ] Address Concerns With Stakeholders: Work with stakeholders to identify and resolve ethical and privacy concerns.
+- [ ] Show the Wider Context: Explain how ethical issues fit into the organisational picture.
+- [ ] Research Developments: Track how data ethics and privacy practice is evolving.
+- [ ] Test for Bias: Build fairness assessment into your model development routine.
+
+### Skill: Data science innovation
+
+- [ ] Demonstrate Practical Knowledge: Show working command of data science tools and techniques.
+- [ ] Maximise Insight: Develop solutions that produce genuinely useful insight, not just accuracy.
+- [ ] Improve Data Practices: Identify where data science could improve how the organisation works with data.
+- [ ] Evaluate New Approaches: Trial new techniques with honest cost and benefit assessment.
+
+### Skill: Programming and build (software engineering)
+
+- [ ] Review Specifications: Collaborate on reviewing specifications before building.
+- [ ] Handle Medium-to-High Complexity: Design, code, test, and document to the right standards.
+- [ ] Apply Engineering Discipline: Treat model code with the same rigour as production software.
+- [ ] Build Reproducible Pipelines: Make training reproducible from data through to deployed artefact.
+
+### Skill: Systems integration
+
+- [ ] Define the Integration Build: Own how models come together with the systems that use them.
+- [ ] Co-ordinate Across Systems: Sequence build activities across teams you do not manage.
+- [ ] Support Integration Testing: Ensure environments, data, and contracts exist ahead of need.
+- [ ] Design Safe Fallbacks: Make sure the service still works when the model is unavailable or wrong.
+
+### Skill Growth Plan: Toward Lead Machine Learning Engineer
+
+- [ ] Review the Next Level: Read the Lead machine learning engineer skill descriptions and mark your gaps.
+- [ ] Lead Research to Production: Take responsibility for moving a model from research into live use.
+- [ ] Define Ways of Working: Propose how your team should work across the machine learning life cycle.
+- [ ] Coach Colleagues: Start mentoring engineers with agreed goals.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,72 +172,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Machine learning engineer** role at the **Senior machine learning engineer** level. You develop machine learning models for use in products and services: deciding what model suits, customising, optimising, retraining, and maintaining models, deploying them into production with testing and assurance, integrating them with existing systems, and checking that live models stay safe, secure, and effective. Your development now is about engineering rigour and responsible practice.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/machine-learning-engineer/1-senior-machine-learning-engineer.md`](../../../assessments/data/machine-learning-engineer/1-senior-machine-learning-engineer.md)
-- Upskilling: [`upskills/data/machine-learning-engineer/1-senior-machine-learning-engineer.md`](../../../upskills/data/machine-learning-engineer/1-senior-machine-learning-engineer.md)
-
-### Role Level Focus: Senior Machine Learning Engineer
-
-- [ ] Choose Models Deliberately: Practise justifying model choice against simpler alternatives, including no model.
-- [ ] Own the Full Life Cycle: Take a model from selection through deployment to monitoring and retirement.
-- [ ] Build Deployment Discipline: Learn versioning, reproducibility, and rollback for models as well as code.
-- [ ] Monitor Live Models: Set up drift, performance, and fairness monitoring, and act on it.
-- [ ] Learn Model Assurance: Study how models are tested, documented, and assured in government.
-- [ ] Study Security for Machine Learning: Learn about model theft, poisoning, and prompt injection risks.
-- [ ] Keep Current: Follow credible research and engineering sources without chasing every trend.
-- [ ] Learn the Government Context: Read the guidance on algorithmic transparency and the Data Ethics Framework.
-
-### Skill: Applied maths, statistics and scientific practices
-
-- [ ] Apply Quantitative Techniques: Use techniques such as time series analysis, optimisation, and simulation appropriately.
-- [ ] Match Data to Techniques: Guide others on which technique suits which data and goal.
-- [ ] Discover and Explain Relations: Apply statistical techniques to offer insight into real problems.
-- [ ] Use Organisational Tools: Get fluent with the statistical tools available to you.
-- [ ] Quantify Uncertainty: Practise communicating confidence and its limits honestly.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Listen and Interpret: Interpret technical and non-technical needs accurately, and manage expectations.
-- [ ] Manage Active and Reactive Communication: Get ahead of issues and respond well when caught out.
-- [ ] Host Difficult Discussions: Facilitate hard conversations with diverse senior stakeholders.
-- [ ] Explain Model Limits: Practise saying clearly what a model cannot and should not be used for.
-
-### Skill: Data ethics and privacy
-
-- [ ] Address Concerns With Stakeholders: Work with stakeholders to identify and resolve ethical and privacy concerns.
-- [ ] Show the Wider Context: Explain how ethical issues fit into the organisational picture.
-- [ ] Research Developments: Track how data ethics and privacy practice is evolving.
-- [ ] Test for Bias: Build fairness assessment into your model development routine.
-
-### Skill: Data science innovation
-
-- [ ] Demonstrate Practical Knowledge: Show working command of data science tools and techniques.
-- [ ] Maximise Insight: Develop solutions that produce genuinely useful insight, not just accuracy.
-- [ ] Improve Data Practices: Identify where data science could improve how the organisation works with data.
-- [ ] Evaluate New Approaches: Trial new techniques with honest cost and benefit assessment.
-
-### Skill: Programming and build (software engineering)
-
-- [ ] Review Specifications: Collaborate on reviewing specifications before building.
-- [ ] Handle Medium-to-High Complexity: Design, code, test, and document to the right standards.
-- [ ] Apply Engineering Discipline: Treat model code with the same rigour as production software.
-- [ ] Build Reproducible Pipelines: Make training reproducible from data through to deployed artefact.
-
-### Skill: Systems integration
-
-- [ ] Define the Integration Build: Own how models come together with the systems that use them.
-- [ ] Co-ordinate Across Systems: Sequence build activities across teams you do not manage.
-- [ ] Support Integration Testing: Ensure environments, data, and contracts exist ahead of need.
-- [ ] Design Safe Fallbacks: Make sure the service still works when the model is unavailable or wrong.
-
-### Skill Growth Plan: Toward Lead Machine Learning Engineer
-
-- [ ] Review the Next Level: Read the Lead machine learning engineer skill descriptions and mark your gaps.
-- [ ] Lead Research to Production: Take responsibility for moving a model from research into live use.
-- [ ] Define Ways of Working: Propose how your team should work across the machine learning life cycle.
-- [ ] Coach Colleagues: Start mentoring engineers with agreed goals.

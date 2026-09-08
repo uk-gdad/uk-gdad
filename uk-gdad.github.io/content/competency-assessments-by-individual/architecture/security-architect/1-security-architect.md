@@ -49,26 +49,25 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
 A worked example, using **Designing secure systems**:
 
-- Someone rated **1 — Beginner** can point to a training exercise where
+- Someone rated **1 — Awareness** can point to a training exercise where
   they applied a named security pattern to a toy system, with someone else checking the result.
-- Someone rated **2 — Intermediate** has applied an established pattern to
+- Someone rated **2 — Working** has applied an established pattern to
   a real system architecture in their current role, with a more senior
   architect reviewing the design before it was signed off.
-- Someone rated **3 — Advanced** has independently selected and applied
+- Someone rated **3 — Practitioner** has independently selected and applied
   the right pattern for several real systems, explained in a review why a
   pattern did not fit and adapted it, and had designs approved without
   material rework.
@@ -130,21 +129,19 @@ the business outcome.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. A security architect is expected to apply analysis
+Baseline: 2 — Working. A security architect is expected to apply analysis
 to real, live problems rather than exercises, but the framework's own wording
 — "apply the approach" rather than "develop" or "lead" it — signals guided
 competence, not independent mastery.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a structured approach to analysing a security
-  problem; treats every situation as new.
-- 1 — Beginner: Follows an analysis method when told which one to use, and
+- 1 — Awareness: Follows an analysis method when told which one to use, and
   needs help identifying which information is relevant.
-- 2 — Intermediate: Independently gathers relevant information for a real
+- 2 — Working: Independently gathers relevant information for a real
   system and applies a recognised analysis approach, with a more senior
   architect available to sanity-check conclusions.
-- 3 — Advanced: Analyses complex or ambiguous situations unsupported, spots
+- 3 — Practitioner: Analyses complex or ambiguous situations unsupported, spots
   when a proposed control addresses a symptom rather than the underlying
   exposure, and knows when analysis is rigorous enough to stop.
 - 4 — Expert: Sets the analytical approach for others, reuses analysis across
@@ -162,10 +159,9 @@ competence, not independent mastery.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -182,21 +178,19 @@ flexible, adapting to stakeholder reactions to reach consensus.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework asks for a "deep understanding"
+Baseline: 2 — Working. The framework asks for a "deep understanding"
 translated for two different audiences and defended under challenge — that is
 more than beginner communication, but the role does not yet own senior
 stakeholder relationships the way lead security architect does.
 
 **Behavioural indicators**
 
-- 0 — None: Has not explained a security position to a stakeholder outside
-  their immediate team.
-- 1 — Beginner: Can explain security concepts to other technical people, but
+- 1 — Awareness: Can explain security concepts to other technical people, but
   struggles to translate them for a non-technical audience.
-- 2 — Intermediate: Explains risk and security implications to both technical
+- 2 — Working: Explains risk and security implications to both technical
   and non-technical stakeholders in terms they can act on, and holds their
   position when mildly challenged, with support available for harder pushback.
-- 3 — Advanced: Reaches consensus with resistant stakeholders unsupported,
+- 3 — Practitioner: Reaches consensus with resistant stakeholders unsupported,
   adapting the message and the medium to the audience, and can describe a
   time they changed their own position when the challenge was right.
 - 4 — Expert: Is sought out to communicate the hardest security messages in
@@ -214,10 +208,9 @@ stakeholder relationships the way lead security architect does.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -231,20 +224,19 @@ and principles.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own word here is "application" —
+Baseline: 2 — Working. The framework's own word here is "application" —
 using established patterns and principles competently — which sits squarely
-at Intermediate; developing new patterns is reserved for lead security
+at Working; developing new patterns is reserved for lead security
 architect.
 
 **Behavioural indicators**
 
-- 0 — None: Has not applied a recognised security pattern to a real system.
-- 1 — Beginner: Can name common security patterns but needs help choosing
+- 1 — Awareness: Can name common security patterns but needs help choosing
   and applying the right one for a given system.
-- 2 — Intermediate: Selects and applies an established security pattern to a
+- 2 — Working: Selects and applies an established security pattern to a
   real system design, with review from a more senior architect before
   sign-off.
-- 3 — Advanced: Designs and reviews system architectures independently,
+- 3 — Practitioner: Designs and reviews system architectures independently,
   explains clearly where a standard pattern does not fit and adapts it, and
   produces designs that survive review with little rework.
 - 4 — Expert: Develops new patterns and principles rather than only applying
@@ -261,10 +253,9 @@ architect.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -279,21 +270,19 @@ how these are applied, as well as the proportionality of risk.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording separates this level from
+Baseline: 2 — Working. The framework's wording separates this level from
 lead security architect, which "applies" methodologies to higher-impact risk;
 here someone "describes" methodologies and advises — supported,
-Intermediate work.
+Working work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a risk decision gets made in their
-  organisation, or who owns it.
-- 1 — Beginner: Understands the concept of risk tolerance but needs guidance
+- 1 — Awareness: Understands the concept of risk tolerance but needs guidance
   to judge whether a specific risk sits within it.
-- 2 — Intermediate: Advises a risk owner on impact and tolerance for a real
+- 2 — Working: Advises a risk owner on impact and tolerance for a real
   decision, describes the risk methodology in use and why it applies, with a
   senior colleague available for the harder judgement calls.
-- 3 — Advanced: Advises unsupported on risk impact for moderately complex
+- 3 — Practitioner: Advises unsupported on risk impact for moderately complex
   situations, applies methodologies proportionately rather than uniformly,
   and is trusted by risk owners to give a straight answer.
 - 4 — Expert: Is the point of escalation for the most complex or contested
@@ -311,10 +300,9 @@ Intermediate work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -328,7 +316,7 @@ technologies and design their use in a business context.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Advising on developments and designing the use of
+Baseline: 2 — Working. Advising on developments and designing the use of
 new technology in a business context both require judgement beyond
 awareness-level knowledge, though this level does not yet contribute to the
 organisation's wider technology developments the way lead security architect
@@ -336,14 +324,12 @@ does.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a technology development relevant to their
-  organisation's security posture from the last year.
-- 1 — Beginner: Follows security news and developments, but has not yet
+- 1 — Awareness: Follows security news and developments, but has not yet
   designed the safe use of a new technology.
-- 2 — Intermediate: Has designed the safe use of at least one new technology
+- 2 — Working: Has designed the safe use of at least one new technology
   in a real business context, and advises colleagues on developments with
   some support.
-- 3 — Advanced: Regularly evaluates emerging technology for its security
+- 3 — Practitioner: Regularly evaluates emerging technology for its security
   properties unsupported, and can say what a new technology changes about the
   organisation's threat picture, not only what it does.
 - 4 — Expert: Contributes to the broader security community's understanding
@@ -361,10 +347,9 @@ does.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -378,7 +363,7 @@ information on a range of systems, but may specialise in one.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is the core technical hallmark of the role: a
+Baseline: 3 — Practitioner. This is the core technical hallmark of the role: a
 security architect who cannot independently reason about how a published
 vulnerability affects a real design is not yet doing the job, even at entry
 level, so the bar for this specific skill sits higher than for the level's
@@ -386,13 +371,11 @@ more advisory or emerging skills.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain, even with help, how a common vulnerability class
-  affects a system design.
-- 1 — Beginner: Can describe a vulnerability in general terms but needs
+- 1 — Awareness: Can describe a vulnerability in general terms but needs
   support to connect it to a specific design.
-- 2 — Intermediate: Explains the effect of a known vulnerability on a current
+- 2 — Working: Explains the effect of a known vulnerability on a current
   design with some guidance, and has depth in one system type.
-- 3 — Advanced: Independently assesses what a newly published vulnerability
+- 3 — Practitioner: Independently assesses what a newly published vulnerability
   means for current and planned designs, and has usable breadth across
   several system types alongside depth in at least one.
 - 4 — Expert: Is someone others in the organisation ask when a
@@ -411,10 +394,9 @@ more advisory or emerging skills.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -429,22 +411,20 @@ of technical solutions or controls.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own word is "assist" — this level
+Baseline: 1 — Awareness. The framework's own word is "assist" — this level
 supports someone else's development of solutions with this understanding,
 rather than owning it, which is a lighter bar than the role's other skills and
-sits at the boundary of Beginner and Intermediate.
+sits at the boundary of Awareness and Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a security control to the policy, legal, or
-  business-architecture reason it exists.
-- 1 — Beginner: Can name the policy or legal duty behind a control when
+- 1 — Awareness: Can name the policy or legal duty behind a control when
   asked, and assists a more senior colleague in factoring transformation
   implications into a design.
-- 2 — Intermediate: Independently identifies which of their controls exist
+- 2 — Working: Independently identifies which of their controls exist
   because of a legal or policy duty rather than a purely technical judgement,
   and can explain the difference to others.
-- 3 — Advanced: Interprets and applies this understanding across a complex
+- 3 — Practitioner: Interprets and applies this understanding across a complex
   transformation unsupported, and starts to influence the policy or process
   rather than only responding to it.
 - 4 — Expert: Is trusted to challenge and lead changes to policy and process
@@ -461,10 +441,9 @@ sits at the boundary of Beginner and Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

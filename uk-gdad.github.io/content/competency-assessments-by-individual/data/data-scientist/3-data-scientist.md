@@ -49,30 +49,29 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
 **Worked example**, using Programming and build (data science):
 
-- A rating of **1 — Beginner** looks like someone who can point to short
+- A rating of **1 — Awareness** looks like someone who can point to short
   scripts written under close guidance from a more senior data scientist, with
   no unsupervised testing or deployment experience — evidence might be a
   reference confirming they always paired on anything that reached production.
-- A rating of **2 — Intermediate** looks like someone who has written
+- A rating of **2 — Working** looks like someone who has written
   moderate-complexity programs on their own, but whose testing is inconsistent
   and who has deployed code only with someone else checking the release —
   evidence might be a work sample with partial test coverage, discussed openly
   in interview.
-- A rating of **3 — Advanced** looks like someone who can walk through a
+- A rating of **3 — Practitioner** looks like someone who can walk through a
   moderate to complex program they wrote unsupervised, explain how they tested
   it, and describe how they deployed it into a real environment without
   needing someone else to carry the risk — evidence might be a portfolio
@@ -134,22 +133,19 @@ they access and use the statistical tools available within the organisation.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework expects this level to create and embed
+Baseline: 3 — Practitioner. The framework expects this level to create and embed
 models independently and to guide others on matching techniques to data —
 guidance-giving and independent model-building are advanced, not intermediate,
 behaviours.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a statistical or mathematical technique such
-  as time series analysis or simulation would apply to a real organisational
-  question.
-- 1 — Beginner: Can name relevant techniques with supervision but needs
+- 1 — Awareness: Can name relevant techniques with supervision but needs
   step-by-step guidance to select and apply one to a real dataset.
-- 2 — Intermediate: Can apply a designated technique to a dataset when the
+- 2 — Working: Can apply a designated technique to a dataset when the
   technique has already been chosen for them, but struggles to justify why
   that technique fits the problem over an alternative.
-- 3 — Advanced: Independently selects and applies techniques such as time
+- 3 — Practitioner: Independently selects and applies techniques such as time
   series analysis, optimisation or simulation to build a working model, and
   can explain the trade-offs of the choice made.
 - 4 — Expert: Additionally advises others on matching data sources to the
@@ -167,10 +163,9 @@ behaviours.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -184,21 +179,19 @@ scientists to design and provide products for the organisation.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording for this skill at this
+Baseline: 2 — Working. The framework's own wording for this skill at this
 level is collaborative — working with data engineers, not leading or designing
 the pipeline alone — which sits below the independent, guidance-giving
 baseline set for the more central data science skills.
 
 **Behavioural indicators**
 
-- 0 — None: Has not worked with a data engineer or contributed to a data
-  product; treats data pipelines as someone else's concern entirely.
-- 1 — Beginner: Can describe, in general terms, what a data engineer does, but
+- 1 — Awareness: Can describe, in general terms, what a data engineer does, but
   has not contributed directly to designing a data product with one.
-- 2 — Intermediate: Has worked alongside data engineers and other data
+- 2 — Working: Has worked alongside data engineers and other data
   scientists on a real product, contributing requirements or feedback on data
   structure, format or quality.
-- 3 — Advanced: Has actively shaped the design of a data product in
+- 3 — Practitioner: Has actively shaped the design of a data product in
   collaboration with data engineers, for example by specifying what a
   pipeline needs to deliver for an analysis to work.
 - 4 — Expert: Is sought out by data engineers for input on product design
@@ -215,10 +208,9 @@ baseline set for the more central data science skills.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -235,22 +227,19 @@ and assesses and constructively challenges proposed data ethics policies.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework has this level actively challenging
+Baseline: 3 — Practitioner. The framework has this level actively challenging
 proposed policy and researching developments to improve organisational
 practice, not merely following rules set by others — that is independent,
 judgement-based practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify an ethical or privacy concern in a described data
-  science scenario, such as reusing data collected for one purpose in a
-  different analysis.
-- 1 — Beginner: Recognises an ethical or privacy concern when it is pointed
+- 1 — Awareness: Recognises an ethical or privacy concern when it is pointed
   out, but does not raise one unprompted.
-- 2 — Intermediate: Raises ethical or privacy concerns with stakeholders on
+- 2 — Working: Raises ethical or privacy concerns with stakeholders on
   their own work, but does not yet research wider developments or comment on
   organisational policy.
-- 3 — Advanced: Works with stakeholders to identify and address ethical and
+- 3 — Practitioner: Works with stakeholders to identify and address ethical and
   privacy concerns across a piece of work, and can explain how a specific
   issue connects to the organisation's wider context.
 - 4 — Expert: Additionally researches developments in data ethics and privacy
@@ -270,10 +259,9 @@ judgement-based practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -289,19 +277,17 @@ practices.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Developing solutions that maximise insight, and
+Baseline: 3 — Practitioner. Developing solutions that maximise insight, and
 proactively identifying opportunities to improve practice, are independent
 contributions expected of a fully capable practitioner at this level.
 
 **Behavioural indicators**
 
-- 0 — None: Uses only the exact tool or technique specified by someone else,
-  with no view on whether it is the best fit.
-- 1 — Beginner: Has practical knowledge of a small set of standard data
+- 1 — Awareness: Has practical knowledge of a small set of standard data
   science tools, applied under guidance.
-- 2 — Intermediate: Applies a range of tools and techniques competently to
+- 2 — Working: Applies a range of tools and techniques competently to
   build a solution, but rarely proposes a new way of working.
-- 3 — Advanced: Develops data science solutions that go beyond the immediate
+- 3 — Practitioner: Develops data science solutions that go beyond the immediate
   request to maximise the insight delivered, and has identified at least one
   real opportunity for data science to improve how the organisation works
   with data.
@@ -322,10 +308,9 @@ contributions expected of a fully capable practitioner at this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -341,21 +326,19 @@ presenting analysis and visualisations tailored to their audience.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This level is expected to deliver products end to end
+Baseline: 3 — Practitioner. This level is expected to deliver products end to end
 and tailor communication to different audiences unsupervised, which is
 independent practice rather than intermediate, guided work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their work connects to an organisational goal
-  or benefit.
-- 1 — Beginner: Can explain, when asked, how data science generally benefits
+- 1 — Awareness: Can explain, when asked, how data science generally benefits
   the organisation, but has not identified user needs or delivered a product
   themselves.
-- 2 — Intermediate: Has contributed to identifying user needs and delivering a
+- 2 — Working: Has contributed to identifying user needs and delivering a
   data science product as part of a team, with support shaping the final
   output.
-- 3 — Advanced: Independently collaborates with stakeholders to identify user
+- 3 — Practitioner: Independently collaborates with stakeholders to identify user
   needs, helps deliver the resulting product, and tailors a presentation of
   analysis or visualisations to suit a specific, named audience.
 - 4 — Expert: Has repeatedly delivered data science products that
@@ -374,10 +357,9 @@ independent practice rather than intermediate, guided work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -397,7 +379,7 @@ reports, models and dashboards.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording says this level
+Baseline: 2 — Working. The framework's own wording says this level
 "supports" capability building rather than leads or owns it, which the
 framework reserves for more senior levels in this ladder — that places the
 baseline for the capability-building half of this skill at intermediate, even
@@ -405,16 +387,14 @@ though the technique-building half sits higher.
 
 **Behavioural indicators**
 
-- 0 — None: Has no development plan and cannot describe how any recent
-  learning connects to their work or the organisation's goals.
-- 1 — Beginner: Has a development plan but cannot yet build a data science
+- 1 — Awareness: Has a development plan but cannot yet build a data science
   solution — a report, model or dashboard — using a technique like machine
   learning or natural language processing without close support.
-- 2 — Intermediate: Manages their own CPD with a clear link to organisational
+- 2 — Working: Manages their own CPD with a clear link to organisational
   goals, has helped a colleague with a specific data science technique when
   asked, and can build solutions using a range of techniques with occasional
   guidance.
-- 3 — Advanced: Actively supports capability building across the team — for
+- 3 — Practitioner: Actively supports capability building across the team — for
   example by running a short internal session or pairing regularly with less
   experienced colleagues — and builds data science solutions independently
   using a range of techniques.
@@ -433,10 +413,9 @@ though the technique-building half sits higher.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -451,19 +430,17 @@ deploy code.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Writing moderate to complex programs unsupervised,
+Baseline: 3 — Practitioner. Writing moderate to complex programs unsupervised,
 with a good understanding of testing and deployment, is independent
 practitioner-level work rather than guided, intermediate work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot write a working script to extract, clean or analyse data
-  without step-by-step direction.
-- 1 — Beginner: Writes short, simple scripts under close supervision, with
+- 1 — Awareness: Writes short, simple scripts under close supervision, with
   little or no independent testing.
-- 2 — Intermediate: Writes moderately complex programs with some guidance, and
+- 2 — Working: Writes moderately complex programs with some guidance, and
   applies basic tests but relies on someone else to review before deployment.
-- 3 — Advanced: Independently writes moderate to complex programs and scripts,
+- 3 — Practitioner: Independently writes moderate to complex programs and scripts,
   applies an appropriate testing approach, and understands how their code
   gets deployed into a working environment.
 - 4 — Expert: Additionally reviews or improves others' code and testing
@@ -482,10 +459,9 @@ practitioner-level work rather than guided, intermediate work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -503,7 +479,7 @@ organisation.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework has this level choosing a delivery
+Baseline: 2 — Working. The framework has this level choosing a delivery
 method and supporting prioritisation decisions, which is solid working
 knowledge applied with some organisational context, but stops short of owning
 delivery strategy or leading multidisciplinary teams — that fuller ownership
@@ -511,14 +487,12 @@ sits at the levels above.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the difference between an Agile and a waterfall
-  approach to delivery, or what an MVP is.
-- 1 — Beginner: Can describe delivery methods and the concept of an MVP in
+- 1 — Awareness: Can describe delivery methods and the concept of an MVP in
   general terms, but has not chosen a method or defined an MVP for real work.
-- 2 — Intermediate: Has chosen an appropriate delivery method for a piece of
+- 2 — Working: Has chosen an appropriate delivery method for a piece of
   data science work, defined an MVP for it, and worked with other specialists
   in a multidisciplinary team to deliver it.
-- 3 — Advanced: Regularly advises others on which delivery method fits a
+- 3 — Practitioner: Regularly advises others on which delivery method fits a
   product, and has influenced prioritisation decisions with a clear
   rationale grounded in delivering value early.
 - 4 — Expert: Is trusted to set delivery approach across multiple data science
@@ -537,10 +511,9 @@ sits at the levels above.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -549,14 +522,14 @@ sits at the levels above.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Applied maths, statistics and scientific practices | 3 — Advanced | | |
-| Data engineering | 2 — Intermediate | | |
-| Data ethics and privacy | 3 — Advanced | | |
-| Data science innovation | 3 — Advanced | | |
-| Delivering business impact | 3 — Advanced | | |
-| Developing data science capability | 2 — Intermediate | | |
-| Programming and build (data science) | 3 — Advanced | | |
-| Understanding product delivery | 2 — Intermediate | | |
+| Applied maths, statistics and scientific practices | 3 — Practitioner | | |
+| Data engineering | 2 — Working | | |
+| Data ethics and privacy | 3 — Practitioner | | |
+| Data science innovation | 3 — Practitioner | | |
+| Delivering business impact | 3 — Practitioner | | |
+| Developing data science capability | 2 — Working | | |
+| Programming and build (data science) | 3 — Practitioner | | |
+| Understanding product delivery | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

@@ -11,7 +11,7 @@ addresses the reader is rewritten here for someone rating themselves.
 
 The same competency matrix as the by-assessor sibling, completed by the
 reader about themselves: a skill-by-skill self-rating against the framework's
-own description of a role level, 0–4 against observable behaviour, with no
+own description of a role level, 1–4 against observable behaviour, with no
 assessor in the room.
 
 It is **not** a validated assessment instrument, and it carries less weight
@@ -43,7 +43,7 @@ The same nine `##` sections as the by-assessor sibling, in the same order —
 1. `## Introduction` — an invitation to rate yourself honestly, not a brief to an assessor
 2. `## Advisory` — the standing caution, verbatim (see [its own wording](../uk-gdad-pcf-competency-assessments-by-individual/spec/index.md#the-advisory) — it is not the same text as the sibling's)
 3. `## How to use this assessment` — preparing, rating on your own evidence, staying consistent, staying kind to yourself
-4. `## Rating scale` — the same 0–4 proficiency scale, with the worked example reworded to "if you…"
+4. `## Rating scale` — the same 1–4 proficiency scale, with the worked example reworded to "if you…"
 5. `## About this role level` — carried over unchanged from the sibling
 6. `## Competency matrix` — the sibling's blocks, with evidence-to-gather prompts turned into self-reflection prompts
 7. `## Overall determination` — the same skill table, with guidance on reading your own pattern of ratings

@@ -49,21 +49,20 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Ownership and initiative.** At 1 — Beginner, someone
+**Worked example — Ownership and initiative.** At 1 — Awareness, someone
 might describe closing a ticket the moment it was reassigned, with no
-follow-up to check the new owner actually picked it up. At 2 — Intermediate,
+follow-up to check the new owner actually picked it up. At 2 — Working,
 they might describe chasing a reassigned ticket once, but only when prompted
 by their manager. At 4 — Expert, they would describe a case where they tracked
 an issue across two teams and several days without being asked, kept the user
@@ -113,22 +112,20 @@ information to protect assets and components.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a frontline, procedural task at this level —
+Baseline: 1 — Awareness. This is a frontline, procedural task at this level —
 recording and correcting data in an existing system — rather than owning the
 configuration process, so close supervision and a developing grasp of the
 tooling are expected rather than independent judgement.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot locate or update an asset record in the configuration
-  management system without step-by-step help.
-- 1 — Beginner: Logs and corrects straightforward asset records under
+- 1 — Awareness: Logs and corrects straightforward asset records under
   supervision, but needs a colleague to check entries before they are relied
   on.
-- 2 — Intermediate: Logs and corrects asset records unsupervised for common
+- 2 — Working: Logs and corrects asset records unsupervised for common
   cases, and flags anomalies (a serial number that does not match, a device
   marked in two locations) to a senior colleague.
-- 3 — Advanced: Maintains accurate records across a varied caseload without
+- 3 — Practitioner: Maintains accurate records across a varied caseload without
   prompting, and can explain why accurate configuration data matters for
   incident diagnosis.
 - 4 — Expert: Spots and corrects systemic data quality problems in the asset
@@ -145,10 +142,9 @@ tooling are expected rather than independent judgement.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -162,19 +158,17 @@ opportunities in existing processes, and contribute to recommending solutions.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Contribute to recommending solutions" is a supporting
+Baseline: 1 — Awareness. "Contribute to recommending solutions" is a supporting
 role, not a leading one — the analyst is expected to notice and describe
 process problems, not yet to own an investigation end to end.
 
 **Behavioural indicators**
 
-- 0 — None: Reports a recurring process problem as a one-off, without noticing
-  the pattern.
-- 1 — Beginner: Notices a recurring process problem and mentions it to a
+- 1 — Awareness: Notices a recurring process problem and mentions it to a
   colleague or manager, without structuring the observation.
-- 2 — Intermediate: Writes up a short, clear account of a process problem —
+- 2 — Working: Writes up a short, clear account of a process problem —
   what happens, how often, who it affects — and suggests it be looked at.
-- 3 — Advanced: Investigates a process problem independently, gathers examples
+- 3 — Practitioner: Investigates a process problem independently, gathers examples
   and puts forward a concrete, workable suggestion for fixing it.
 - 4 — Expert: Leads a small investigation, involving colleagues where useful,
   and produces a recommendation that is adopted.
@@ -190,10 +184,9 @@ process problems, not yet to own an investigation end to end.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -209,20 +202,18 @@ this to others.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The summary gives this skill the full three-part
+Baseline: 2 — Working. The summary gives this skill the full three-part
 description at this level — producing, discussing changes to, and
 interpreting reports — so more is expected here than of some other skills at
 this level, even though the analyst is still junior.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot produce a basic ticket volume or SLA report without
-  detailed instructions.
-- 1 — Beginner: Produces a standard report to a template, but needs help
+- 1 — Awareness: Produces a standard report to a template, but needs help
   interpreting what the numbers mean.
-- 2 — Intermediate: Produces reports to deadline in the agreed format, and can
+- 2 — Working: Produces reports to deadline in the agreed format, and can
   explain in plain terms what a report shows a stakeholder.
-- 3 — Advanced: Adapts a report's format on request, spots something unusual
+- 3 — Practitioner: Adapts a report's format on request, spots something unusual
   in the data before being asked, and raises it.
 - 4 — Expert: Proposes and implements a change to what is reported or how,
   because they have identified it will better serve stakeholders.
@@ -237,10 +228,9 @@ this level, even though the analyst is still junior.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -254,19 +244,17 @@ has been found or the problem has been mitigated or resolved.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is one of the accountabilities the level
+Baseline: 2 — Working. This is one of the accountabilities the level
 explicitly repeats in its own text ("work independently ... assist others"),
 so a working, independent grasp of following an issue through is expected even
 at entry level.
 
 **Behavioural indicators**
 
-- 0 — None: Closes tickets as soon as they are reassigned, without checking
-  the new owner has picked them up.
-- 1 — Beginner: Follows up on a reassigned ticket, but only when prompted.
-- 2 — Intermediate: Tracks their open tickets and follows up on reassignments
+- 1 — Awareness: Follows up on a reassigned ticket, but only when prompted.
+- 2 — Working: Tracks their open tickets and follows up on reassignments
   unprompted, most of the time.
-- 3 — Advanced: Reliably owns every issue through to resolution or confirmed
+- 3 — Practitioner: Reliably owns every issue through to resolution or confirmed
   handover, including chasing other teams.
 - 4 — Expert: Is known for never letting an issue drop, and coaches junior
   colleagues on how to track their own caseload.
@@ -280,10 +268,9 @@ at entry level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -297,18 +284,17 @@ products and services.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" is the lightest wording the
+Baseline: 1 — Awareness. "Show an awareness" is the lightest wording the
 framework uses for this skill anywhere in the role — it asks for exposure, not
 judgement about how services fit together.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the main services or products they support.
-- 1 — Beginner: Can name and briefly describe the main services or products
+- 1 — Awareness: Can name and briefly describe the main services or products
   they support.
-- 2 — Intermediate: Understands how the services they support relate to each
+- 2 — Working: Understands how the services they support relate to each
   other and to the wider service catalogue.
-- 3 — Advanced: Uses that awareness to spot when an issue with one service is
+- 3 — Practitioner: Uses that awareness to spot when an issue with one service is
   likely to affect another.
 - 4 — Expert: Proactively flags service dependencies to more senior colleagues
   before they become a problem.
@@ -322,10 +308,9 @@ judgement about how services fit together.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -339,19 +324,17 @@ service management framework qualification.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This skill is stated as a qualification threshold
+Baseline: 1 — Awareness. This skill is stated as a qualification threshold
 rather than a depth of practice, so the baseline reflects holding, or being
 close to holding, that qualification rather than applying it with judgement.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification and shows no
-  working knowledge of one (for example ITIL foundation-level concepts).
-- 1 — Beginner: Holds, or is actively working towards, a Level 3 service
+- 1 — Awareness: Holds, or is actively working towards, a Level 3 service
   management framework qualification, and can describe its basic terms.
-- 2 — Intermediate: Holds the qualification and applies its terminology
+- 2 — Working: Holds the qualification and applies its terminology
   correctly and consistently in day-to-day ticket handling.
-- 3 — Advanced: Uses the framework's concepts to explain to a user or
+- 3 — Practitioner: Uses the framework's concepts to explain to a user or
   colleague why a process works the way it does.
 - 4 — Expert: Helps induct new starters into the framework's terms and
   processes.
@@ -365,10 +348,9 @@ close to holding, that qualification rather than applying it with judgement.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -386,7 +368,7 @@ made.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The bullets describe a fuller set of behaviours than
+Baseline: 1 — Awareness. The bullets describe a fuller set of behaviours than
 most other skills at this level, but for a frontline analyst these are
 expressed as developing habits — identifying and communicating with
 stakeholders — rather than the independent relationship management expected
@@ -394,13 +376,11 @@ further up the role's ladder.
 
 **Behavioural indicators**
 
-- 0 — None: Does not distinguish between different stakeholders' needs when
-  communicating about a ticket.
-- 1 — Beginner: Identifies who is affected by an issue and communicates with
+- 1 — Awareness: Identifies who is affected by an issue and communicates with
   them, with some coaching on tone or timing.
-- 2 — Intermediate: Tailors updates to who is receiving them (a frustrated
+- 2 — Working: Tailors updates to who is receiving them (a frustrated
   end user versus a technical colleague) without prompting.
-- 3 — Advanced: Builds working relationships with regular stakeholders and can
+- 3 — Practitioner: Builds working relationships with regular stakeholders and can
   explain a decision using evidence rather than just asserting it.
 - 4 — Expert: Is sought out by stakeholders directly because they trust the
   analyst's communication and judgement.
@@ -416,10 +396,9 @@ further up the role's ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -434,19 +413,17 @@ contribute to the development of strategy and policies.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Strategic thinking is a small, contributory part of
+Baseline: 1 — Awareness. Strategic thinking is a small, contributory part of
 this level's remit — "contribute to" — not a leading one, so the baseline sits
 at the lower end even though the framework mentions strategy explicitly.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect their day-to-day work to any wider organisational
-  goal.
-- 1 — Beginner: Can describe, in general terms, how their ticket-handling work
+- 1 — Awareness: Can describe, in general terms, how their ticket-handling work
   supports the wider service or organisation.
-- 2 — Intermediate: Occasionally suggests a small policy or process change
+- 2 — Working: Occasionally suggests a small policy or process change
   based on patterns they notice.
-- 3 — Advanced: Regularly connects specific incidents to wider service goals
+- 3 — Practitioner: Regularly connects specific incidents to wider service goals
   when reporting or escalating.
 - 4 — Expert: Their suggestions have shaped a team policy or procedure.
 
@@ -458,10 +435,9 @@ at the lower end even though the framework mentions strategy explicitly.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -477,19 +453,17 @@ about users to turn user focus into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The bullets ask for active engagement with users
+Baseline: 2 — Working. The bullets ask for active engagement with users
 and use of data to improve outcomes, which is a working level of this skill
 even for an entry-level analyst whose whole job is direct user contact.
 
 **Behavioural indicators**
 
-- 0 — None: Handles tickets without noticing patterns in what users actually
-  need.
-- 1 — Beginner: Responds to what a user explicitly asks for, without probing
+- 1 — Awareness: Responds to what a user explicitly asks for, without probing
   further.
-- 2 — Intermediate: Asks clarifying questions to understand the real need
+- 2 — Working: Asks clarifying questions to understand the real need
   behind a request, and notices simple patterns across tickets.
-- 3 — Advanced: Uses evidence from several tickets to suggest an improvement
+- 3 — Practitioner: Uses evidence from several tickets to suggest an improvement
   that would help users more broadly.
 - 4 — Expert: Is a go-to source of insight on what users actually experience,
   and their input changes how the team prioritises work.
@@ -504,10 +478,9 @@ even for an entry-level analyst whose whole job is direct user contact.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -516,15 +489,15 @@ even for an entry-level analyst whose whole job is direct user contact.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 1 — Beginner | | |
-| Business analysis (IT operations) | 1 — Beginner | | |
-| IT service reporting | 2 — Intermediate | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Service focus | 1 — Beginner | | |
-| Service management framework knowledge | 1 — Beginner | | |
-| Stakeholder relationship management (IT operations) | 1 — Beginner | | |
-| Strategic thinking | 1 — Beginner | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 1 — Awareness | | |
+| Business analysis (IT operations) | 1 — Awareness | | |
+| IT service reporting | 2 — Working | | |
+| Ownership and initiative | 2 — Working | | |
+| Service focus | 1 — Awareness | | |
+| Service management framework knowledge | 1 — Awareness | | |
+| Stakeholder relationship management (IT operations) | 1 — Awareness | | |
+| Strategic thinking | 1 — Awareness | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

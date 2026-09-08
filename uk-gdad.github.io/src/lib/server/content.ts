@@ -448,6 +448,29 @@ function wrapAssessmentAnswers(html: string): string {
   return out;
 }
 
+/**
+ * The start-here page opens with `## Explore the framework`: a paragraph and
+ * nine links to the sibling documents for this role level. It is a signpost,
+ * not the page's own content, so it collapses into a `<details>` — reusing
+ * the Lily Details component's own `.details` styling, the same way an
+ * assessment's worked answer does — rather than pushing the page's actual
+ * purpose and learning pathway further down.
+ */
+function wrapExploreFramework(html: string): string {
+  const heading = /<h2 id="([^"]*)">Explore the framework<\/h2>\n/.exec(html);
+  if (!heading) return html;
+
+  const bodyStart = heading.index + heading[0].length;
+  const nextHeading = html.indexOf('<h2', bodyStart);
+  const bodyEnd = nextHeading === -1 ? html.length : nextHeading;
+
+  return (
+    html.slice(0, heading.index) +
+    `<details class="details" id="${heading[1]}">\n<summary>Explore the framework</summary>\n${html.slice(bodyStart, bodyEnd)}</details>\n` +
+    html.slice(bodyEnd)
+  );
+}
+
 /** Render markdown to HTML, lifting the leading heading out as the title. */
 export function renderMarkdown(
   markdown: string,
@@ -482,9 +505,11 @@ export function renderMarkdown(
   const form =
     from.kind === 'skillGapForm'
       ? createFormWriter()
-      : from.kind === 'development'
-        ? createChecklistWriter()
-        : null;
+      : from.kind === 'competencyAssessmentByAssessor' || from.kind === 'competencyAssessmentByIndividual'
+        ? createFormWriter({ ratingsOnly: true })
+        : from.kind === 'development'
+          ? createChecklistWriter()
+          : null;
 
   const renderer = new marked.Renderer();
   renderer.heading = function ({ tokens: headingTokens, depth }) {
@@ -519,6 +544,8 @@ export function renderMarkdown(
   let html = marked.parser(tokens, { renderer, gfm: true });
   if (from.kind === 'psychometricAssessmentByAssessor' || from.kind === 'psychometricAssessmentByIndividual') {
     html = wrapAssessmentAnswers(html);
+  } else if (from.kind === 'startHere') {
+    html = wrapExploreFramework(html);
   }
   return { title, html, toc };
 }

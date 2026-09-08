@@ -2,10 +2,92 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Solution architect** role at the **Principal solution architect** level. You lead teams of architects and multiple architecture projects or programmes, you can be responsible for a very complex or critical business area, you build relationships with senior stakeholders across the organisation and its partners, you work with technology partners to inform their roadmaps, and you take a leading role in the overall direction of business and digital capabilities. Your development is now about strategy, foresight, and stewardship.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/solution-architect/5-principal-solution-architect.md`](../../../assessments/architecture/solution-architect/5-principal-solution-architect.md)
+- Upskilling: [`upskills/architecture/solution-architect/5-principal-solution-architect.md`](../../../upskills/architecture/solution-architect/5-principal-solution-architect.md)
+
+### Role Level Focus: Principal Solution Architect
+
+- [ ] Lead Multiple Programmes: Hold several programmes coherent without becoming a bottleneck.
+- [ ] Lead Architect Teams: Develop the skill of leading experts and setting direction they will follow.
+- [ ] Build Partner Relationships: Work with technology partners closely enough to influence their roadmaps.
+- [ ] Direct Capability Development: Take a leading role in the direction of business and digital capabilities.
+- [ ] Improve the Organisation and Its Partners: Bring forward improvements across organisational boundaries.
+- [ ] Inspire Other Architects: Help architects understand how their work meets organisational goals.
+- [ ] Learn Government Finance and Policy: Understand funding, spend controls, and policy at the level you influence.
+- [ ] Grow Successors: Develop architects who could take your role, and give them real exposure.
+
+### Skill: Architect for the whole context
+
+- [ ] Assess Societal and Industry Trends: Analyse how wider trends will affect your organisation.
+- [ ] Work Outside the Organisation: Inform policies, strategies, and standards beyond your department.
+- [ ] Anticipate Policy Change: Build architectural resilience against foreseeable policy shifts.
+- [ ] Coach Trend Identification: Develop horizon-scanning capability across the community.
+
+### Skill: Architecture communication
+
+- [ ] Communicate Across Organisations: Use architecture communication techniques with any audience.
+- [ ] Mediate Difficult Discussions: Use mediation skill where architectural disputes have become personal.
+- [ ] Gain Support for High-Risk Topics: Win backing for decisions with high risk, impact, and complexity.
+- [ ] Coach and Support Others: Build communication capability across the community.
+
+### Skill: Commercial perspective
+
+- [ ] Identify Contractual Frameworks: Choose frameworks and approaches that keep future options open.
+- [ ] Evaluate and Select Suppliers: Assess suppliers on evidence and long-term fit.
+- [ ] Shape Commercial Strategy: Influence sourcing strategy before requirements are locked down.
+- [ ] Understand Market Dynamics: Learn how the supplier market for your technologies actually works.
+
+### Skill: Community collaboration
+
+- [ ] Unblock at the Highest Level: Resolve issues between teams or departments that nobody else can.
+- [ ] Coach on Team Dynamics: Teach conflict resolution across the organisation.
+- [ ] Build and Grow the Community: Treat the architecture community as something you are accountable for.
+- [ ] Connect Beyond Government: Maintain relationships with industry and partner communities.
+
+### Skill: Making architectural decisions
+
+- [ ] Make High-Risk Decisions: Make and guide decisions with high levels of risk and complexity.
+- [ ] Address Organisation-Wide Risks: Identify and act on risks across the organisation or wider government.
+- [ ] Lead and Evolve Governance: Own architectural governance and assurance, and improve it.
+- [ ] Represent Architecture in Wider Governance: Take architecture into legal, commercial, and corporate governance.
+
+### Skill: Problem definition and shaping
+
+- [ ] Lead High-Complexity Framing: Lead framing of the organisation's hardest problems.
+- [ ] Coach Others: Develop framing and options skill across the community.
+- [ ] Help Others Challenge Assumptions: Make questioning requirements a normal, safe activity.
+- [ ] Learn Advanced Technique: Study complexity and systems approaches, and use them where they fit.
+
+### Skill: Strategy design
+
+- [ ] Define and Connect Strategies: Connect strategies across the organisation and wider government.
+- [ ] Enable Implementation: Advocate for resources and remove blockers so strategy becomes real.
+- [ ] Evaluate Strategy Honestly: Establish evaluation that can conclude a strategy is not working.
+- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a board will act on.
+
+### Skill: Technical design throughout the life cycle
+
+- [ ] Create High-Risk Designs: Produce designs with high risk, impact, and complexity.
+- [ ] Lead and Guide Others: Help others create designs that achieve organisational objectives.
+- [ ] Refine Design Standards: Use feedback to improve the standards designs are held to.
+- [ ] Assure Across Programmes: Establish how design quality is assured at programme scale.
+
+### Skill Growth Plan: Beyond Principal Solution Architect
+
+- [ ] Review Adjacent Roles: Read the enterprise architect, chief technology officer, and head of profession descriptions.
+- [ ] Broaden Beyond Architecture: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment or assurance boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,85 +185,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Solution architect** role at the **Principal solution architect** level. You lead teams of architects and multiple architecture projects or programmes, you can be responsible for a very complex or critical business area, you build relationships with senior stakeholders across the organisation and its partners, you work with technology partners to inform their roadmaps, and you take a leading role in the overall direction of business and digital capabilities. Your development is now about strategy, foresight, and stewardship.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/solution-architect/5-principal-solution-architect.md`](../../../assessments/architecture/solution-architect/5-principal-solution-architect.md)
-- Upskilling: [`upskills/architecture/solution-architect/5-principal-solution-architect.md`](../../../upskills/architecture/solution-architect/5-principal-solution-architect.md)
-
-### Role Level Focus: Principal Solution Architect
-
-- [ ] Lead Multiple Programmes: Hold several programmes coherent without becoming a bottleneck.
-- [ ] Lead Architect Teams: Develop the skill of leading experts and setting direction they will follow.
-- [ ] Build Partner Relationships: Work with technology partners closely enough to influence their roadmaps.
-- [ ] Direct Capability Development: Take a leading role in the direction of business and digital capabilities.
-- [ ] Improve the Organisation and Its Partners: Bring forward improvements across organisational boundaries.
-- [ ] Inspire Other Architects: Help architects understand how their work meets organisational goals.
-- [ ] Learn Government Finance and Policy: Understand funding, spend controls, and policy at the level you influence.
-- [ ] Grow Successors: Develop architects who could take your role, and give them real exposure.
-
-### Skill: Architect for the whole context
-
-- [ ] Assess Societal and Industry Trends: Analyse how wider trends will affect your organisation.
-- [ ] Work Outside the Organisation: Inform policies, strategies, and standards beyond your department.
-- [ ] Anticipate Policy Change: Build architectural resilience against foreseeable policy shifts.
-- [ ] Coach Trend Identification: Develop horizon-scanning capability across the community.
-
-### Skill: Architecture communication
-
-- [ ] Communicate Across Organisations: Use architecture communication techniques with any audience.
-- [ ] Mediate Difficult Discussions: Use mediation skill where architectural disputes have become personal.
-- [ ] Gain Support for High-Risk Topics: Win backing for decisions with high risk, impact, and complexity.
-- [ ] Coach and Support Others: Build communication capability across the community.
-
-### Skill: Commercial perspective
-
-- [ ] Identify Contractual Frameworks: Choose frameworks and approaches that keep future options open.
-- [ ] Evaluate and Select Suppliers: Assess suppliers on evidence and long-term fit.
-- [ ] Shape Commercial Strategy: Influence sourcing strategy before requirements are locked down.
-- [ ] Understand Market Dynamics: Learn how the supplier market for your technologies actually works.
-
-### Skill: Community collaboration
-
-- [ ] Unblock at the Highest Level: Resolve issues between teams or departments that nobody else can.
-- [ ] Coach on Team Dynamics: Teach conflict resolution across the organisation.
-- [ ] Build and Grow the Community: Treat the architecture community as something you are accountable for.
-- [ ] Connect Beyond Government: Maintain relationships with industry and partner communities.
-
-### Skill: Making architectural decisions
-
-- [ ] Make High-Risk Decisions: Make and guide decisions with high levels of risk and complexity.
-- [ ] Address Organisation-Wide Risks: Identify and act on risks across the organisation or wider government.
-- [ ] Lead and Evolve Governance: Own architectural governance and assurance, and improve it.
-- [ ] Represent Architecture in Wider Governance: Take architecture into legal, commercial, and corporate governance.
-
-### Skill: Problem definition and shaping
-
-- [ ] Lead High-Complexity Framing: Lead framing of the organisation's hardest problems.
-- [ ] Coach Others: Develop framing and options skill across the community.
-- [ ] Help Others Challenge Assumptions: Make questioning requirements a normal, safe activity.
-- [ ] Learn Advanced Technique: Study complexity and systems approaches, and use them where they fit.
-
-### Skill: Strategy design
-
-- [ ] Define and Connect Strategies: Connect strategies across the organisation and wider government.
-- [ ] Enable Implementation: Advocate for resources and remove blockers so strategy becomes real.
-- [ ] Evaluate Strategy Honestly: Establish evaluation that can conclude a strategy is not working.
-- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a board will act on.
-
-### Skill: Technical design throughout the life cycle
-
-- [ ] Create High-Risk Designs: Produce designs with high risk, impact, and complexity.
-- [ ] Lead and Guide Others: Help others create designs that achieve organisational objectives.
-- [ ] Refine Design Standards: Use feedback to improve the standards designs are held to.
-- [ ] Assure Across Programmes: Establish how design quality is assured at programme scale.
-
-### Skill Growth Plan: Beyond Principal Solution Architect
-
-- [ ] Review Adjacent Roles: Read the enterprise architect, chief technology officer, and head of profession descriptions.
-- [ ] Broaden Beyond Architecture: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment or assurance boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

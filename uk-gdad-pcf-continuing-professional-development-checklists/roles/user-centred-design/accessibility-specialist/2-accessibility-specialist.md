@@ -2,10 +2,86 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Accessibility specialist** role at the **Accessibility specialist** level. You support teams in creating accessible services, coach more junior colleagues, help provide training materials and learning content, perform accessibility audits, and contribute to the cross-government accessibility community. Your development now is about expertise, teaching, and influence.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/accessibility-specialist/2-accessibility-specialist.md`](../../../assessments/user-centred-design/accessibility-specialist/2-accessibility-specialist.md)
+- Upskilling: [`upskills/user-centred-design/accessibility-specialist/2-accessibility-specialist.md`](../../../upskills/user-centred-design/accessibility-specialist/2-accessibility-specialist.md)
+
+### Role Level Focus: Accessibility Specialist
+
+- [ ] Perform Full Audits: Take responsibility for auditing a service end to end, and write findings others can act on.
+- [ ] Coach Junior Colleagues: Mentor with agreed goals, cadence, and review points.
+- [ ] Build Training Materials: Create learning content that teams actually use.
+- [ ] Deepen Assistive Technology Skill: Get confident with more than one assistive technology.
+- [ ] Contribute to the Community: Share audits, patterns, or techniques across government.
+- [ ] Learn Beyond the Web: Build competence in document, native application, and hardware accessibility.
+- [ ] Follow the Standards Closely: Track changes to WCAG, EN 301 549, and relevant legislation.
+
+### Skill: Communicating information
+
+- [ ] Listen and Interpret: Interpret design and business stakeholder needs accurately.
+- [ ] Advocate Externally: Represent your team's accessibility position to other parts of the organisation.
+- [ ] Manage Differing Perspectives: Hold competing views in play without taking sides too early.
+- [ ] Shape for the Audience: Produce the same finding for a developer, a designer, and a director.
+
+### Skill: Consultancy
+
+- [ ] Advise From Your Own Knowledge: Give advice grounded in your experience, not only in precedent.
+- [ ] Propose Methodologies: Recommend the approach as well as the fix.
+- [ ] Frame Problems Well: Reframe until the problem is understood and solvable.
+- [ ] Troubleshoot Effectively: Help teams operate more effectively, not just pass an audit.
+
+### Skill: Governance and assurance (accessibility)
+
+- [ ] Review Governance Documents: Analyse project and governance documents against accessibility standards.
+- [ ] Feed Back to Boards: Give governance boards clear, actionable accessibility feedback.
+- [ ] Learn the Framework: Understand the predefined assessment framework your organisation uses.
+- [ ] Track Compliance: Keep a current picture of which services meet their obligations.
+
+### Skill: Leadership and guidance
+
+- [ ] Contribute to Best Practice: Help write the guidelines other teams work to.
+- [ ] Make Managed-Risk Decisions: Own decisions of managed risk, understanding their consequences.
+- [ ] Resolve Technical Disputes: Mediate disagreements between peers and indirect stakeholders.
+- [ ] Think About Sustainability: Consider whether a fix will still work in a year.
+
+### Skill: Technical understanding (accessibility)
+
+- [ ] Communicate Standards Requirements: Explain what standards and legislation actually require.
+- [ ] Advocate Technical Solutions: Recommend appropriate fixes for a range of accessibility issues.
+- [ ] Perform Detailed Audits: Audit websites, services, and documents, documenting findings clearly.
+- [ ] Advocate Across the Department: Be a visible voice for people affected by barriers.
+- [ ] Provide Awareness Training: Deliver introductory accessibility training confidently.
+- [ ] Use Assistive Technology Confidently: Be strong in one or more, with working knowledge of others.
+
+### Skill: Testing
+
+- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
+- [ ] Identify Issues and Risks: Surface risks associated with the work, not just defects.
+- [ ] Analyse and Report: Report test activities and results so people can act on them.
+- [ ] Prioritise by Impact: Order findings by user harm rather than by criterion number.
+
+### Skill: User focus
+
+- [ ] Collate User Needs Evidence: Engage with users and stakeholders to gather real evidence.
+- [ ] Define Fitting Research: Understand enough about research methods to define what would answer your question.
+- [ ] Use Both Kinds of Data: Combine quantitative and qualitative data to turn user focus into outcomes.
+- [ ] Include Excluded Users: Push for research that reaches people usually left out.
+
+### Skill Growth Plan: Toward Senior Accessibility Specialist
+
+- [ ] Review the Next Level: Read the Senior accessibility specialist skill descriptions and mark your gaps.
+- [ ] Input to Strategy: Contribute to accessibility strategy for a business area.
+- [ ] Design a Training Course: Build and deliver a full training course, not just awareness sessions.
+- [ ] Lead a Small Team: Seek an opportunity to lead individuals or a sub-team.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,79 +179,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Accessibility specialist** role at the **Accessibility specialist** level. You support teams in creating accessible services, coach more junior colleagues, help provide training materials and learning content, perform accessibility audits, and contribute to the cross-government accessibility community. Your development now is about expertise, teaching, and influence.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/accessibility-specialist/2-accessibility-specialist.md`](../../../assessments/user-centred-design/accessibility-specialist/2-accessibility-specialist.md)
-- Upskilling: [`upskills/user-centred-design/accessibility-specialist/2-accessibility-specialist.md`](../../../upskills/user-centred-design/accessibility-specialist/2-accessibility-specialist.md)
-
-### Role Level Focus: Accessibility Specialist
-
-- [ ] Perform Full Audits: Take responsibility for auditing a service end to end, and write findings others can act on.
-- [ ] Coach Junior Colleagues: Mentor with agreed goals, cadence, and review points.
-- [ ] Build Training Materials: Create learning content that teams actually use.
-- [ ] Deepen Assistive Technology Skill: Get confident with more than one assistive technology.
-- [ ] Contribute to the Community: Share audits, patterns, or techniques across government.
-- [ ] Learn Beyond the Web: Build competence in document, native application, and hardware accessibility.
-- [ ] Follow the Standards Closely: Track changes to WCAG, EN 301 549, and relevant legislation.
-
-### Skill: Communicating information
-
-- [ ] Listen and Interpret: Interpret design and business stakeholder needs accurately.
-- [ ] Advocate Externally: Represent your team's accessibility position to other parts of the organisation.
-- [ ] Manage Differing Perspectives: Hold competing views in play without taking sides too early.
-- [ ] Shape for the Audience: Produce the same finding for a developer, a designer, and a director.
-
-### Skill: Consultancy
-
-- [ ] Advise From Your Own Knowledge: Give advice grounded in your experience, not only in precedent.
-- [ ] Propose Methodologies: Recommend the approach as well as the fix.
-- [ ] Frame Problems Well: Reframe until the problem is understood and solvable.
-- [ ] Troubleshoot Effectively: Help teams operate more effectively, not just pass an audit.
-
-### Skill: Governance and assurance (accessibility)
-
-- [ ] Review Governance Documents: Analyse project and governance documents against accessibility standards.
-- [ ] Feed Back to Boards: Give governance boards clear, actionable accessibility feedback.
-- [ ] Learn the Framework: Understand the predefined assessment framework your organisation uses.
-- [ ] Track Compliance: Keep a current picture of which services meet their obligations.
-
-### Skill: Leadership and guidance
-
-- [ ] Contribute to Best Practice: Help write the guidelines other teams work to.
-- [ ] Make Managed-Risk Decisions: Own decisions of managed risk, understanding their consequences.
-- [ ] Resolve Technical Disputes: Mediate disagreements between peers and indirect stakeholders.
-- [ ] Think About Sustainability: Consider whether a fix will still work in a year.
-
-### Skill: Technical understanding (accessibility)
-
-- [ ] Communicate Standards Requirements: Explain what standards and legislation actually require.
-- [ ] Advocate Technical Solutions: Recommend appropriate fixes for a range of accessibility issues.
-- [ ] Perform Detailed Audits: Audit websites, services, and documents, documenting findings clearly.
-- [ ] Advocate Across the Department: Be a visible voice for people affected by barriers.
-- [ ] Provide Awareness Training: Deliver introductory accessibility training confidently.
-- [ ] Use Assistive Technology Confidently: Be strong in one or more, with working knowledge of others.
-
-### Skill: Testing
-
-- [ ] Review Requirements: Analyse requirements and specifications and define test conditions.
-- [ ] Identify Issues and Risks: Surface risks associated with the work, not just defects.
-- [ ] Analyse and Report: Report test activities and results so people can act on them.
-- [ ] Prioritise by Impact: Order findings by user harm rather than by criterion number.
-
-### Skill: User focus
-
-- [ ] Collate User Needs Evidence: Engage with users and stakeholders to gather real evidence.
-- [ ] Define Fitting Research: Understand enough about research methods to define what would answer your question.
-- [ ] Use Both Kinds of Data: Combine quantitative and qualitative data to turn user focus into outcomes.
-- [ ] Include Excluded Users: Push for research that reaches people usually left out.
-
-### Skill Growth Plan: Toward Senior Accessibility Specialist
-
-- [ ] Review the Next Level: Read the Senior accessibility specialist skill descriptions and mark your gaps.
-- [ ] Input to Strategy: Contribute to accessibility strategy for a business area.
-- [ ] Design a Training Course: Build and deliver a full training course, not just awareness sessions.
-- [ ] Lead a Small Team: Seek an opportunity to lead individuals or a sub-team.

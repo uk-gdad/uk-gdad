@@ -2,10 +2,78 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Quality assurance test analyst** role at the **Lead quality assurance test analyst** level. You set the strategy for test analysis, influence practice across a broad area, develop and evaluate standards and methods, lead and guide teams across the organisation, mentor other analysts, and negotiate and escalate major risks, issues, and defects. Your development now is about strategy, standards, and community leadership.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md`](../../../assessments/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md)
+- Upskilling: [`upskills/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md`](../../../upskills/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md)
+
+### Role Level Focus: Lead Quality Assurance Test Analyst
+
+- [ ] Set Community Standards: Own the standards and good practice for the test analysis community.
+- [ ] Guide Teams Organisation-Wide: Lead and guide teams across the organisation in test analysis.
+- [ ] Define and Implement Strategy: Write test strategies and see them actually adopted.
+- [ ] Mentor Deliberately: Coach other analysts with agreed goals and review points.
+- [ ] Negotiate Major Risks: Build the skill to escalate and negotiate serious risks, issues, and defects.
+- [ ] Evaluate Methods: Monitor and evaluate whether your standards and methods are working.
+- [ ] Grow Successors: Develop analysts who could take your role.
+- [ ] Build External Presence: Contribute to testing communities beyond your organisation.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
+- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
+- [ ] Represent the Community: Speak for the community to large audiences inside and outside the organisation.
+- [ ] Communicate Quality to Boards: Practise the version of a quality argument a board will act on.
+
+### Skill: Designing and executing tests
+
+- [ ] Set Organisational Standards: Define standards and influence decisions on test types, techniques, design, and execution.
+- [ ] Coach Others: Develop technique and design skill across teams.
+- [ ] Advocate Continuous Improvement: Keep the practice moving rather than settling.
+- [ ] Make Strategic Technique Decisions: Decide on new or improved test types for your area.
+
+### Skill: Managing, reporting and resolving defects
+
+- [ ] Lead Process Improvement: Coach others in improving test and defect management processes.
+- [ ] Support Complex Assessment: Help others assess genuinely difficult defects across the organisation.
+- [ ] Coach on Patterns and Trends: Teach others to turn defect data into tactical and strategic recommendations.
+- [ ] Influence Quality Processes: Use defect evidence to change how the organisation works.
+
+### Skill: Test analysis
+
+- [ ] Lead Multiple Teams: Guide several teams in test analysis, implemented early in the life cycle.
+- [ ] Advocate Risk-Based Analysis: Drive risk-based improvement across many teams.
+- [ ] Set Principles and Standards: Own the test analysis principles for the organisation.
+- [ ] Keep Analytical Depth: Retain enough hands-on analysis skill to stay credible.
+
+### Skill: Test and quality planning
+
+- [ ] Manage Multiple Strategies: Create and manage several plans, approaches, and strategies at once.
+- [ ] Lead Strategy Adoption: Guide multiple teams into genuinely adopting the strategy.
+- [ ] Advocate Early Involvement: Get quality engaged at the start of delivery processes.
+- [ ] Optimise With Data: Guide teams in using data to optimise approaches and plans.
+
+### Skill: Test engineering
+
+- [ ] Explain Why Tooling Matters: Articulate why processes, environments, and tools matter.
+- [ ] Follow Practices and Standards: Keep working to test engineering standards.
+- [ ] Support Automation Maintenance: Help keep automated tests and tools reliable.
+- [ ] Partner With Engineering Leads: Align analysis standards with test engineering direction.
+
+### Skill Growth Plan: Beyond Lead Quality Assurance Test Analyst
+
+- [ ] Review Adjacent Roles: Read the test manager and head of test descriptions.
+- [ ] Learn Supplier Management: Understand how testing suppliers are selected and managed.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
+- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,71 +171,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Quality assurance test analyst** role at the **Lead quality assurance test analyst** level. You set the strategy for test analysis, influence practice across a broad area, develop and evaluate standards and methods, lead and guide teams across the organisation, mentor other analysts, and negotiate and escalate major risks, issues, and defects. Your development now is about strategy, standards, and community leadership.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md`](../../../assessments/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md)
-- Upskilling: [`upskills/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md`](../../../upskills/quality-assurance-testing/quality-assurance-test-analyst/4-lead-quality-assurance-test-analyst.md)
-
-### Role Level Focus: Lead Quality Assurance Test Analyst
-
-- [ ] Set Community Standards: Own the standards and good practice for the test analysis community.
-- [ ] Guide Teams Organisation-Wide: Lead and guide teams across the organisation in test analysis.
-- [ ] Define and Implement Strategy: Write test strategies and see them actually adopted.
-- [ ] Mentor Deliberately: Coach other analysts with agreed goals and review points.
-- [ ] Negotiate Major Risks: Build the skill to escalate and negotiate serious risks, issues, and defects.
-- [ ] Evaluate Methods: Monitor and evaluate whether your standards and methods are working.
-- [ ] Grow Successors: Develop analysts who could take your role.
-- [ ] Build External Presence: Contribute to testing communities beyond your organisation.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
-- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
-- [ ] Represent the Community: Speak for the community to large audiences inside and outside the organisation.
-- [ ] Communicate Quality to Boards: Practise the version of a quality argument a board will act on.
-
-### Skill: Designing and executing tests
-
-- [ ] Set Organisational Standards: Define standards and influence decisions on test types, techniques, design, and execution.
-- [ ] Coach Others: Develop technique and design skill across teams.
-- [ ] Advocate Continuous Improvement: Keep the practice moving rather than settling.
-- [ ] Make Strategic Technique Decisions: Decide on new or improved test types for your area.
-
-### Skill: Managing, reporting and resolving defects
-
-- [ ] Lead Process Improvement: Coach others in improving test and defect management processes.
-- [ ] Support Complex Assessment: Help others assess genuinely difficult defects across the organisation.
-- [ ] Coach on Patterns and Trends: Teach others to turn defect data into tactical and strategic recommendations.
-- [ ] Influence Quality Processes: Use defect evidence to change how the organisation works.
-
-### Skill: Test analysis
-
-- [ ] Lead Multiple Teams: Guide several teams in test analysis, implemented early in the life cycle.
-- [ ] Advocate Risk-Based Analysis: Drive risk-based improvement across many teams.
-- [ ] Set Principles and Standards: Own the test analysis principles for the organisation.
-- [ ] Keep Analytical Depth: Retain enough hands-on analysis skill to stay credible.
-
-### Skill: Test and quality planning
-
-- [ ] Manage Multiple Strategies: Create and manage several plans, approaches, and strategies at once.
-- [ ] Lead Strategy Adoption: Guide multiple teams into genuinely adopting the strategy.
-- [ ] Advocate Early Involvement: Get quality engaged at the start of delivery processes.
-- [ ] Optimise With Data: Guide teams in using data to optimise approaches and plans.
-
-### Skill: Test engineering
-
-- [ ] Explain Why Tooling Matters: Articulate why processes, environments, and tools matter.
-- [ ] Follow Practices and Standards: Keep working to test engineering standards.
-- [ ] Support Automation Maintenance: Help keep automated tests and tools reliable.
-- [ ] Partner With Engineering Leads: Align analysis standards with test engineering direction.
-
-### Skill Growth Plan: Beyond Lead Quality Assurance Test Analyst
-
-- [ ] Review Adjacent Roles: Read the test manager and head of test descriptions.
-- [ ] Learn Supplier Management: Understand how testing suppliers are selected and managed.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
-- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.

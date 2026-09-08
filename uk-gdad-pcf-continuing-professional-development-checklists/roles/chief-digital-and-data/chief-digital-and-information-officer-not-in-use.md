@@ -2,10 +2,96 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Chief digital and information officer** role. You shape and enable delivery of the organisation's strategy through digital, data, and technology, and you develop partnerships across the organisation to design and deliver better outcomes.
+
+A note on levels: the framework lists the skills for this role but marks the role level descriptors as not in use, so this checklist works from the role responsibilities and the named skills rather than from graded level statements. Treat it as a starting point and calibrate it with your board and your profession leads.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md`](../../assessments/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md)
+- Upskilling: [`upskills/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md`](../../upskills/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md)
+
+### Role Focus: Chief Digital and Information Officer
+
+- [ ] Lead Innovative Strategy: Own a digital strategy that genuinely delivers organisational objectives.
+- [ ] Read the Changing Landscape: Maintain a structured scan of digital, data, and technology change, and act on it.
+- [ ] Enable Innovation Safely: Make space for emerging technology while holding inclusivity, security, and ethics.
+- [ ] Oversee Sustainable Delivery: Ensure digital solutions are delivered, managed, and maintained, not just launched.
+- [ ] Ensure Architectural Interoperability: Hold architecture decisions to scalability, reusability, and interoperability across government.
+- [ ] Ensure Cyber Resilience: Make sure the organisation is safe, secure, and resilient to attack.
+- [ ] Secure Investment: Learn to negotiate and win funding for digital, data, and technology.
+- [ ] Advise on Investment Priorities: Help the board choose between competing demands on evidence.
+- [ ] Anticipate Capability Needs: Ensure the organisation adapts before capability gaps bite.
+- [ ] Be a Trusted Board Adviser: Build the credibility that makes the board bring you in early.
+
+### Skill: Capability building for digital, data and technology
+
+- [ ] Assess Current Capability: Run an honest capability assessment across the organisation.
+- [ ] Plan the Workforce: Forecast capability need against your portfolio, including supplier mix.
+- [ ] Build Career Paths: Ensure digital and data roles have credible progression routes.
+- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
+
+### Skill: Ensuring resilience of digital, data and technology
+
+- [ ] Understand Your Estate: Maintain an honest view of what is fragile and what it would cost to fix.
+- [ ] Test Resilience: Ensure recovery is rehearsed rather than assumed.
+- [ ] Manage Legacy Deliberately: Own a credible plan for legacy technology, including its funding.
+- [ ] Prepare for Crisis: Make sure crisis management arrangements are exercised and effective.
+
+### Skill: Financial management for digital, data and technology
+
+- [ ] Learn Government Finance Deeply: Master business cases, spend controls, funding cycles, and capital versus resource.
+- [ ] Know Your Cost Base: Understand what your estate costs and where the money actually goes.
+- [ ] Make the Investment Case: Practise arguing for digital investment in the language finance colleagues accept.
+- [ ] Manage Benefits: Ensure benefits are tracked after funding, not just claimed before it.
+
+### Skill: Innovation in digital, data and technology
+
+- [ ] Create Space to Experiment: Fund experimentation, and make stopping an experiment respectable.
+- [ ] Judge Adoption Timing: Recognise when a technology is ready for your organisation, and when it is not.
+- [ ] Manage Innovation Risk: Balance innovation against security, ethics, and public trust.
+- [ ] Learn From Others: Study what other departments have tried and what it cost them.
+
+### Skill: Leading digital products and services
+
+- [ ] Hold Services to the Standard: Ensure services meet the Service Standard, and mean it.
+- [ ] Keep User Needs Central: Insist on user evidence in investment and prioritisation decisions.
+- [ ] Fund the Whole Life Cycle: Move funding away from projects toward sustained product ownership.
+- [ ] Measure Real Outcomes: Establish performance measurement that shows whether services actually help.
+
+### Skill: Making strategic performance-led change
+
+- [ ] Define What Good Looks Like: Set measurable outcomes for change, agreed with the board.
+- [ ] Lead Change Honestly: Study change leadership, including how to handle resistance fairly.
+- [ ] Report Progress Truthfully: Build a culture where bad news travels fast and safely.
+- [ ] Stop Things: Practise the discipline of ending work that is not delivering.
+
+### Skill: Optimising technology and data architecture
+
+- [ ] Set Architectural Direction: Ensure coherent architecture with named ownership and real authority.
+- [ ] Champion Cross-Government Reuse: Push for reuse and interoperability beyond your own boundary.
+- [ ] Assure Major Decisions: Establish proportionate assurance for significant architectural choices.
+- [ ] Stay Technically Credible: Retain enough depth to test the advice you are given.
+
+### Skill: Shaping the direction of organisational strategy through digital, data and technology
+
+- [ ] Influence Beyond Technology: Take a seat in strategy conversations that are not about technology.
+- [ ] Build Partnerships: Develop relationships across the organisation, not only with delivery teams.
+- [ ] Connect Policy and Delivery: Learn enough about policy making to shape it before it is fixed.
+- [ ] Advocate Publicly: Represent your organisation's digital direction externally.
+
+### Leadership Development
+
+- [ ] Invest in Your Own Leadership: Undertake senior leadership development, and get an external coach.
+- [ ] Build Peer Networks: Meet counterparts in other departments and outside government regularly.
+- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
+- [ ] Look After Yourself: Protect thinking time and recovery time deliberately.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,89 +189,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Chief digital and information officer** role. You shape and enable delivery of the organisation's strategy through digital, data, and technology, and you develop partnerships across the organisation to design and deliver better outcomes.
-
-A note on levels: the framework lists the skills for this role but marks the role level descriptors as not in use, so this checklist works from the role responsibilities and the named skills rather than from graded level statements. Treat it as a starting point and calibrate it with your board and your profession leads.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md`](../../assessments/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md)
-- Upskilling: [`upskills/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md`](../../upskills/chief-digital-and-data/chief-digital-and-information-officer-not-in-use.md)
-
-### Role Focus: Chief Digital and Information Officer
-
-- [ ] Lead Innovative Strategy: Own a digital strategy that genuinely delivers organisational objectives.
-- [ ] Read the Changing Landscape: Maintain a structured scan of digital, data, and technology change, and act on it.
-- [ ] Enable Innovation Safely: Make space for emerging technology while holding inclusivity, security, and ethics.
-- [ ] Oversee Sustainable Delivery: Ensure digital solutions are delivered, managed, and maintained, not just launched.
-- [ ] Ensure Architectural Interoperability: Hold architecture decisions to scalability, reusability, and interoperability across government.
-- [ ] Ensure Cyber Resilience: Make sure the organisation is safe, secure, and resilient to attack.
-- [ ] Secure Investment: Learn to negotiate and win funding for digital, data, and technology.
-- [ ] Advise on Investment Priorities: Help the board choose between competing demands on evidence.
-- [ ] Anticipate Capability Needs: Ensure the organisation adapts before capability gaps bite.
-- [ ] Be a Trusted Board Adviser: Build the credibility that makes the board bring you in early.
-
-### Skill: Capability building for digital, data and technology
-
-- [ ] Assess Current Capability: Run an honest capability assessment across the organisation.
-- [ ] Plan the Workforce: Forecast capability need against your portfolio, including supplier mix.
-- [ ] Build Career Paths: Ensure digital and data roles have credible progression routes.
-- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
-
-### Skill: Ensuring resilience of digital, data and technology
-
-- [ ] Understand Your Estate: Maintain an honest view of what is fragile and what it would cost to fix.
-- [ ] Test Resilience: Ensure recovery is rehearsed rather than assumed.
-- [ ] Manage Legacy Deliberately: Own a credible plan for legacy technology, including its funding.
-- [ ] Prepare for Crisis: Make sure crisis management arrangements are exercised and effective.
-
-### Skill: Financial management for digital, data and technology
-
-- [ ] Learn Government Finance Deeply: Master business cases, spend controls, funding cycles, and capital versus resource.
-- [ ] Know Your Cost Base: Understand what your estate costs and where the money actually goes.
-- [ ] Make the Investment Case: Practise arguing for digital investment in the language finance colleagues accept.
-- [ ] Manage Benefits: Ensure benefits are tracked after funding, not just claimed before it.
-
-### Skill: Innovation in digital, data and technology
-
-- [ ] Create Space to Experiment: Fund experimentation, and make stopping an experiment respectable.
-- [ ] Judge Adoption Timing: Recognise when a technology is ready for your organisation, and when it is not.
-- [ ] Manage Innovation Risk: Balance innovation against security, ethics, and public trust.
-- [ ] Learn From Others: Study what other departments have tried and what it cost them.
-
-### Skill: Leading digital products and services
-
-- [ ] Hold Services to the Standard: Ensure services meet the Service Standard, and mean it.
-- [ ] Keep User Needs Central: Insist on user evidence in investment and prioritisation decisions.
-- [ ] Fund the Whole Life Cycle: Move funding away from projects toward sustained product ownership.
-- [ ] Measure Real Outcomes: Establish performance measurement that shows whether services actually help.
-
-### Skill: Making strategic performance-led change
-
-- [ ] Define What Good Looks Like: Set measurable outcomes for change, agreed with the board.
-- [ ] Lead Change Honestly: Study change leadership, including how to handle resistance fairly.
-- [ ] Report Progress Truthfully: Build a culture where bad news travels fast and safely.
-- [ ] Stop Things: Practise the discipline of ending work that is not delivering.
-
-### Skill: Optimising technology and data architecture
-
-- [ ] Set Architectural Direction: Ensure coherent architecture with named ownership and real authority.
-- [ ] Champion Cross-Government Reuse: Push for reuse and interoperability beyond your own boundary.
-- [ ] Assure Major Decisions: Establish proportionate assurance for significant architectural choices.
-- [ ] Stay Technically Credible: Retain enough depth to test the advice you are given.
-
-### Skill: Shaping the direction of organisational strategy through digital, data and technology
-
-- [ ] Influence Beyond Technology: Take a seat in strategy conversations that are not about technology.
-- [ ] Build Partnerships: Develop relationships across the organisation, not only with delivery teams.
-- [ ] Connect Policy and Delivery: Learn enough about policy making to shape it before it is fixed.
-- [ ] Advocate Publicly: Represent your organisation's digital direction externally.
-
-### Leadership Development
-
-- [ ] Invest in Your Own Leadership: Undertake senior leadership development, and get an external coach.
-- [ ] Build Peer Networks: Meet counterparts in other departments and outside government regularly.
-- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
-- [ ] Look After Yourself: Protect thinking time and recovery time deliberately.

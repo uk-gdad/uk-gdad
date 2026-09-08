@@ -2,10 +2,91 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Analytics engineer** role at the **Analytics engineer** level. You develop and test data models assigned by more senior colleagues, draft documentation to standard, work with others to resolve issues and risks, support trainees, and provide training and support for data set users. Your development now is about technical competence and reliability.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/analytics-engineer/2-analytics-engineer.md`](../../../assessments/data/analytics-engineer/2-analytics-engineer.md)
+- Upskilling: [`upskills/data/analytics-engineer/2-analytics-engineer.md`](../../../upskills/data/analytics-engineer/2-analytics-engineer.md)
+
+### Role Level Focus: Analytics Engineer
+
+- [ ] Develop and Test Models: Own the models you are assigned, including their tests.
+- [ ] Document to Standard: Write documentation that genuinely meets your organisation's standards.
+- [ ] Resolve Issues With Others: Work through issues and risks collaboratively rather than escalating early.
+- [ ] Support Trainees: Help newer colleagues learn, and notice which parts are hard to explain.
+- [ ] Train Data Users: Deliver training and support that reduces the questions you get asked.
+- [ ] Deepen SQL and Transformation: Move beyond basics into performance and maintainability.
+- [ ] Learn Data Governance Basics: Understand the classification and protection rules for your data.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Communicate Both Ways: Explain data work to technical and non-technical stakeholders equally well.
+- [ ] Host Difficult Discussions: Support or host discussions where dynamics are hard.
+- [ ] Advocate for the Team: Represent your team's position externally.
+- [ ] Manage Differing Perspectives: Hold competing views without taking sides too early.
+
+### Skill: Data analysis and synthesis
+
+- [ ] Profile Real Data: Build routine skill in data profiling and source system analysis.
+- [ ] Present Clear Insights: Turn findings into insight colleagues can act on.
+- [ ] Learn Quality Dimensions: Measure completeness, accuracy, timeliness, and consistency.
+- [ ] Trace Lineage: Follow a data item from origin to consumption and document it.
+
+### Skill: Data innovation
+
+- [ ] Track New Tools: Keep a watchlist and note what problem each tool would solve.
+- [ ] Trial Something: Evaluate one new tool properly, including its operational cost.
+- [ ] Learn From Others: Study what other departments have adopted and what it cost them.
+- [ ] Share What You Learn: Write up one evaluation for your team.
+
+### Skill: Data modelling, cleansing and enrichment
+
+- [ ] Produce Data Models: Build models and know where each type is appropriate.
+- [ ] Compare Tools and Models: Understand different tools and be able to compare models honestly.
+- [ ] Reverse-Engineer From Live Systems: Derive accurate models from undocumented systems.
+- [ ] Apply Industry Patterns: Use recognised modelling patterns and standards deliberately.
+
+### Skill: Metadata management
+
+- [ ] Use the Repository Well: Use metadata for real tasks such as integration impact analysis.
+- [ ] Keep It Accurate: Take responsibility for metadata being current, not just present.
+- [ ] Learn the Tooling: Understand the range of metadata tools available.
+- [ ] Automate Capture: Reduce manual entry wherever the pipeline can produce it instead.
+
+### Skill: Problem management
+
+- [ ] Investigate Problems: Look into problems in systems, processes, and services.
+- [ ] Understand Problem Levels: Distinguish strategic, tactical, and operational problems.
+- [ ] Contribute to Remedies: Help implement fixes and preventative measures.
+- [ ] Prevent Recurrence: Turn a recurring problem into a permanent fix.
+
+### Skill: Programming and build (data engineering)
+
+- [ ] Deliver Simple Programs: Design, code, test, correct, and document simple scripts under direction.
+- [ ] Deepen One Language: Complete an intermediate course covering error handling, testing, and packaging.
+- [ ] Test Your Code: Apply testing discipline to transformation code, not just to data.
+- [ ] Learn the Pipeline: Understand how your code runs in orchestration and continuous integration.
+
+### Skill: Testing
+
+- [ ] Execute Test Scripts: Run test scripts correctly under supervision.
+- [ ] Understand the Role of Testing: Explain how testing fits into data delivery.
+- [ ] Write Data Tests: Add tests for freshness, uniqueness, and referential integrity.
+- [ ] Report Results Clearly: Make findings reproducible and actionable.
+
+### Skill Growth Plan: Toward Senior Analytics Engineer
+
+- [ ] Review the Next Level: Read the Senior analytics engineer skill descriptions and mark your gaps.
+- [ ] Oversee Someone's Work: Start reviewing colleagues' models and giving structured feedback.
+- [ ] Build Stakeholder Relationships: Take ownership of a relationship in your defined area.
+- [ ] Book a Progress Review: Walk your evidence through with your line manager.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,84 +184,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Analytics engineer** role at the **Analytics engineer** level. You develop and test data models assigned by more senior colleagues, draft documentation to standard, work with others to resolve issues and risks, support trainees, and provide training and support for data set users. Your development now is about technical competence and reliability.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/analytics-engineer/2-analytics-engineer.md`](../../../assessments/data/analytics-engineer/2-analytics-engineer.md)
-- Upskilling: [`upskills/data/analytics-engineer/2-analytics-engineer.md`](../../../upskills/data/analytics-engineer/2-analytics-engineer.md)
-
-### Role Level Focus: Analytics Engineer
-
-- [ ] Develop and Test Models: Own the models you are assigned, including their tests.
-- [ ] Document to Standard: Write documentation that genuinely meets your organisation's standards.
-- [ ] Resolve Issues With Others: Work through issues and risks collaboratively rather than escalating early.
-- [ ] Support Trainees: Help newer colleagues learn, and notice which parts are hard to explain.
-- [ ] Train Data Users: Deliver training and support that reduces the questions you get asked.
-- [ ] Deepen SQL and Transformation: Move beyond basics into performance and maintainability.
-- [ ] Learn Data Governance Basics: Understand the classification and protection rules for your data.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Communicate Both Ways: Explain data work to technical and non-technical stakeholders equally well.
-- [ ] Host Difficult Discussions: Support or host discussions where dynamics are hard.
-- [ ] Advocate for the Team: Represent your team's position externally.
-- [ ] Manage Differing Perspectives: Hold competing views without taking sides too early.
-
-### Skill: Data analysis and synthesis
-
-- [ ] Profile Real Data: Build routine skill in data profiling and source system analysis.
-- [ ] Present Clear Insights: Turn findings into insight colleagues can act on.
-- [ ] Learn Quality Dimensions: Measure completeness, accuracy, timeliness, and consistency.
-- [ ] Trace Lineage: Follow a data item from origin to consumption and document it.
-
-### Skill: Data innovation
-
-- [ ] Track New Tools: Keep a watchlist and note what problem each tool would solve.
-- [ ] Trial Something: Evaluate one new tool properly, including its operational cost.
-- [ ] Learn From Others: Study what other departments have adopted and what it cost them.
-- [ ] Share What You Learn: Write up one evaluation for your team.
-
-### Skill: Data modelling, cleansing and enrichment
-
-- [ ] Produce Data Models: Build models and know where each type is appropriate.
-- [ ] Compare Tools and Models: Understand different tools and be able to compare models honestly.
-- [ ] Reverse-Engineer From Live Systems: Derive accurate models from undocumented systems.
-- [ ] Apply Industry Patterns: Use recognised modelling patterns and standards deliberately.
-
-### Skill: Metadata management
-
-- [ ] Use the Repository Well: Use metadata for real tasks such as integration impact analysis.
-- [ ] Keep It Accurate: Take responsibility for metadata being current, not just present.
-- [ ] Learn the Tooling: Understand the range of metadata tools available.
-- [ ] Automate Capture: Reduce manual entry wherever the pipeline can produce it instead.
-
-### Skill: Problem management
-
-- [ ] Investigate Problems: Look into problems in systems, processes, and services.
-- [ ] Understand Problem Levels: Distinguish strategic, tactical, and operational problems.
-- [ ] Contribute to Remedies: Help implement fixes and preventative measures.
-- [ ] Prevent Recurrence: Turn a recurring problem into a permanent fix.
-
-### Skill: Programming and build (data engineering)
-
-- [ ] Deliver Simple Programs: Design, code, test, correct, and document simple scripts under direction.
-- [ ] Deepen One Language: Complete an intermediate course covering error handling, testing, and packaging.
-- [ ] Test Your Code: Apply testing discipline to transformation code, not just to data.
-- [ ] Learn the Pipeline: Understand how your code runs in orchestration and continuous integration.
-
-### Skill: Testing
-
-- [ ] Execute Test Scripts: Run test scripts correctly under supervision.
-- [ ] Understand the Role of Testing: Explain how testing fits into data delivery.
-- [ ] Write Data Tests: Add tests for freshness, uniqueness, and referential integrity.
-- [ ] Report Results Clearly: Make findings reproducible and actionable.
-
-### Skill Growth Plan: Toward Senior Analytics Engineer
-
-- [ ] Review the Next Level: Read the Senior analytics engineer skill descriptions and mark your gaps.
-- [ ] Oversee Someone's Work: Start reviewing colleagues' models and giving structured feedback.
-- [ ] Build Stakeholder Relationships: Take ownership of a relationship in your defined area.
-- [ ] Book a Progress Review: Walk your evidence through with your line manager.

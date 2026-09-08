@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -52,14 +51,13 @@ The framework expects an associate end user computing engineer to collate data f
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Basic reporting" and explaining what a KPI is are knowledge-and-support-level expectations, matching close-supervision Beginner rather than independent reporting practice.
+Baseline: 1 — Awareness. "Basic reporting" and explaining what a KPI is are knowledge-and-support-level expectations, matching close-supervision Awareness rather than independent reporting practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a KPI is or has never pulled data from a repository.
-- 1 — Beginner: Collates data from a repository and produces a basic report when shown how, and can explain what a KPI is in general terms.
-- 2 — Intermediate: Produces basic reports unprompted and connects specific KPIs to their own day-to-day work.
-- 3 — Advanced: Produces more complex reports independently and explains why a specific KPI matters to the service it measures.
+- 1 — Awareness: Collates data from a repository and produces a basic report when shown how, and can explain what a KPI is in general terms.
+- 2 — Working: Produces basic reports unprompted and connects specific KPIs to their own day-to-day work.
+- 3 — Practitioner: Produces more complex reports independently and explains why a specific KPI matters to the service it measures.
 - 4 — Expert: Designs reports and KPIs that others rely on.
 
 **Evidence to gather**
@@ -69,10 +67,9 @@ Baseline: 1 — Beginner. "Basic reporting" and explaining what a KPI is are kno
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -85,14 +82,13 @@ The framework expects an associate end user computing engineer to identify and r
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the entry level of the role, working under direction, so the expectation is that someone can log a straightforward incident correctly with support, not that they can triage or resolve one unsupervised.
+Baseline: 1 — Awareness. This is the entry level of the role, working under direction, so the expectation is that someone can log a straightforward incident correctly with support, not that they can triage or resolve one unsupervised.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what an incident record needs, or has never logged one, even with guidance.
-- 1 — Beginner: Can log a straightforward incident correctly when shown what fields to capture, and asks for help routing anything unfamiliar.
-- 2 — Intermediate: Logs routine incidents accurately and unprompted, capturing the right detail and routing them to a sensible queue most of the time.
-- 3 — Advanced: Logs and routes incidents of varying complexity correctly and consistently, and can explain the reasoning behind an unusual routing decision.
+- 1 — Awareness: Can log a straightforward incident correctly when shown what fields to capture, and asks for help routing anything unfamiliar.
+- 2 — Working: Logs routine incidents accurately and unprompted, capturing the right detail and routing them to a sensible queue most of the time.
+- 3 — Practitioner: Logs and routes incidents of varying complexity correctly and consistently, and can explain the reasoning behind an unusual routing decision.
 - 4 — Expert: Sets the standard other engineers follow for what a well-logged incident looks like.
 
 **Evidence to gather**
@@ -103,10 +99,9 @@ Baseline: 1 — Beginner. This is the entry level of the role, working under dir
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -119,14 +114,13 @@ The framework expects an associate end user computing engineer to show an awaren
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. At this level, initiative means recognising a problem and escalating it promptly and to the right place, not owning it through to resolution.
+Baseline: 1 — Awareness. At this level, initiative means recognising a problem and escalating it promptly and to the right place, not owning it through to resolution.
 
 **Behavioural indicators**
 
-- 0 — None: Does not recognise when something needs escalating, or sits on an issue without telling anyone.
-- 1 — Beginner: Recognises a problem and passes it on, though sometimes to the wrong person or after some delay.
-- 2 — Intermediate: Recognises problems promptly and routes them to the right person or team most of the time, checking in when unsure.
-- 3 — Advanced: Consistently escalates the right issue to the right place quickly, and follows up to make sure it has landed with someone who can act.
+- 1 — Awareness: Recognises a problem and passes it on, though sometimes to the wrong person or after some delay.
+- 2 — Working: Recognises problems promptly and routes them to the right person or team most of the time, checking in when unsure.
+- 3 — Practitioner: Consistently escalates the right issue to the right place quickly, and follows up to make sure it has landed with someone who can act.
 - 4 — Expert: Others in the team come to this person to ask who should own an ambiguous issue.
 
 **Evidence to gather**
@@ -137,10 +131,9 @@ Baseline: 1 — Beginner. At this level, initiative means recognising a problem 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -153,14 +146,13 @@ The framework expects an associate end user computing engineer to investigate pr
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The verb here is "contribute", not "lead" or "determine" — the expectation is participation in problem investigation under guidance, and a growing sense of the difference between an operational glitch and a bigger pattern.
+Baseline: 1 — Awareness. The verb here is "contribute", not "lead" or "determine" — the expectation is participation in problem investigation under guidance, and a growing sense of the difference between an operational glitch and a bigger pattern.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the difference between an incident and a problem.
-- 1 — Beginner: Can describe what an operational-level problem looks like, and has contributed a small piece of investigation (gathering device logs, reproducing a fault) when directed.
-- 2 — Intermediate: Contributes useful investigation unprompted, and can distinguish an operational problem from one that looks tactical or strategic, asking the right person when unsure.
-- 3 — Advanced: Runs a problem investigation independently, from initial evidence to a proposed remedy, for problems of moderate complexity.
+- 1 — Awareness: Can describe what an operational-level problem looks like, and has contributed a small piece of investigation (gathering device logs, reproducing a fault) when directed.
+- 2 — Working: Contributes useful investigation unprompted, and can distinguish an operational problem from one that looks tactical or strategic, asking the right person when unsure.
+- 3 — Practitioner: Runs a problem investigation independently, from initial evidence to a proposed remedy, for problems of moderate complexity.
 - 4 — Expert: Leads problem investigations and is trusted to judge, without checking, whether a problem needs escalating beyond the team.
 
 **Evidence to gather**
@@ -171,10 +163,9 @@ Baseline: 1 — Beginner. The verb here is "contribute", not "lead" or "determin
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -187,14 +178,13 @@ The framework expects an associate end user computing engineer to show an awaren
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a knowledge-level expectation — awareness and explanation — rather than a practice-level one, which fits a trainee who has not yet had much direct exposure to user research or user story writing.
+Baseline: 1 — Awareness. This is a knowledge-level expectation — awareness and explanation — rather than a practice-level one, which fits a trainee who has not yet had much direct exposure to user research or user story writing.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a user story is or why user needs matter to end user computing.
-- 1 — Beginner: Can explain, in general terms, what user experience analysis is for and what a user story captures.
-- 2 — Intermediate: Connects the idea of user needs to their own day-to-day work — for example, noticing that a user's request hints at a wider usability issue with a device or piece of software.
-- 3 — Advanced: Actively brings a user perspective into incident and request work, flagging usability patterns to the team unprompted.
+- 1 — Awareness: Can explain, in general terms, what user experience analysis is for and what a user story captures.
+- 2 — Working: Connects the idea of user needs to their own day-to-day work — for example, noticing that a user's request hints at a wider usability issue with a device or piece of software.
+- 3 — Practitioner: Actively brings a user perspective into incident and request work, flagging usability patterns to the team unprompted.
 - 4 — Expert: Coaches others on why user focus matters in end user computing and how to spot it in the work.
 
 **Evidence to gather**
@@ -204,10 +194,9 @@ Baseline: 1 — Beginner. This is a knowledge-level expectation — awareness an
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -216,11 +205,11 @@ Baseline: 1 — Beginner. This is a knowledge-level expectation — awareness an
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| IT service reporting | 1 — Beginner | | |
-| Incident management | 1 — Beginner | | |
-| Ownership and initiative | 1 — Beginner | | |
-| Problem management | 1 — Beginner | | |
-| User focus | 1 — Beginner | | |
+| IT service reporting | 1 — Awareness | | |
+| Incident management | 1 — Awareness | | |
+| Ownership and initiative | 1 — Awareness | | |
+| Problem management | 1 — Awareness | | |
+| User focus | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill above is rated at or above its baseline target.
 

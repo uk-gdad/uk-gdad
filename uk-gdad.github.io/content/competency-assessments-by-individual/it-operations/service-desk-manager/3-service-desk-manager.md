@@ -49,19 +49,18 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Customer service management.** At 3 — Advanced, someone might describe personally resolving the most complex complaints
+**Worked example — Customer service management.** At 3 — Practitioner, someone might describe personally resolving the most complex complaints
 that reach them. At 4 — Expert, someone for service desk manager should
 be able to describe translating lessons learnt from complaints into a
 continual service improvement that reduced how often similar complaints
@@ -105,18 +104,17 @@ information to protect assets and components.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged across every level of
+Baseline: 2 — Working. The wording is unchanged across every level of
 this role, but a service desk manager's accountability for resourcing and
 service transition activities means they should ensure this discipline is
 maintained across the whole team, not just their own records.
 
 **Behavioural indicators**
 
-- 0 — None: Has no oversight of the team's asset recording accuracy.
-- 1 — Beginner: Checks asset records occasionally, when an issue arises.
-- 2 — Intermediate: Ensures the team's asset records are accurate as a matter
+- 1 — Awareness: Checks asset records occasionally, when an issue arises.
+- 2 — Working: Ensures the team's asset records are accurate as a matter
   of routine.
-- 3 — Advanced: Identifies and closes systemic gaps in the team's recording
+- 3 — Practitioner: Identifies and closes systemic gaps in the team's recording
   practice.
 - 4 — Expert: Sets asset recording standards other service desk managers
   adopt.
@@ -128,10 +126,9 @@ maintained across the whole team, not just their own records.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -154,13 +151,11 @@ case handling, matching the level's knowledge-expert accountability.
 
 **Behavioural indicators**
 
-- 0 — None: Handles satisfaction data and complaints without connecting them
-  to process change.
-- 1 — Beginner: Reviews satisfaction data but needs support translating it
+- 1 — Awareness: Reviews satisfaction data but needs support translating it
   into improvement.
-- 2 — Intermediate: Runs straightforward continual service improvement
+- 2 — Working: Runs straightforward continual service improvement
   activity from lessons learnt.
-- 3 — Advanced: Oversees the full range of customer service functions,
+- 3 — Practitioner: Oversees the full range of customer service functions,
   including satisfaction reviews, and identifies automation opportunities.
 - 4 — Expert: Has delivered a continual service improvement or automation
   change that measurably improved customer satisfaction.
@@ -175,10 +170,9 @@ case handling, matching the level's knowledge-expert accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -192,18 +186,17 @@ make decisions that enhance business performance.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a change in kind from producing and
+Baseline: 3 — Practitioner. This is a change in kind from producing and
 interpreting reports at the levels below — it asks for analytics to drive a
 business decision, matching the manager's responsibility for the team's
 resourcing and development.
 
 **Behavioural indicators**
 
-- 0 — None: Reads reports without drawing decisions from them.
-- 1 — Beginner: Uses basic analysis to inform a decision, with support.
-- 2 — Intermediate: Independently uses data analysis for straightforward
+- 1 — Awareness: Uses basic analysis to inform a decision, with support.
+- 2 — Working: Independently uses data analysis for straightforward
   resourcing or scheduling decisions.
-- 3 — Advanced: Uses data analytics to justify a decision that measurably
+- 3 — Practitioner: Uses data analytics to justify a decision that measurably
   improves service performance.
 - 4 — Expert: Builds an analytics practice that shapes resourcing and
   investment decisions beyond their own team.
@@ -216,10 +209,9 @@ resourcing and development.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -234,18 +226,17 @@ to achieve excellent user outcomes.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The shift from "own an issue" at the levels below to
+Baseline: 3 — Practitioner. The shift from "own an issue" at the levels below to
 "proactive in searching for potential problems" marks active risk-seeking,
 appropriate to a manager accountable for the whole desk's performance.
 
 **Behavioural indicators**
 
-- 0 — None: Only responds once an issue is escalated to them.
-- 1 — Beginner: Follows through reliably on escalated issues, but rarely
+- 1 — Awareness: Follows through reliably on escalated issues, but rarely
   searches proactively.
-- 2 — Intermediate: Occasionally identifies a potential problem before it is
+- 2 — Working: Occasionally identifies a potential problem before it is
   escalated.
-- 3 — Advanced: Regularly and systematically searches for potential problems
+- 3 — Practitioner: Regularly and systematically searches for potential problems
   across the desk, and takes accountability for outcomes.
 - 4 — Expert: Has a track record of catching serious problems before they
   affected customers, and models this for the team.
@@ -258,10 +249,9 @@ appropriate to a manager accountable for the whole desk's performance.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -277,17 +267,16 @@ with its implementation, and determine preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a fuller description than "investigate
+Baseline: 3 — Practitioner. This is a fuller description than "investigate
 problems ... contribute to remedies" at the level below, and fits this
 level's accountability as a knowledge expert who identifies emerging issues.
 
 **Behavioural indicators**
 
-- 0 — None: Reacts to individual problems without looking for patterns.
-- 1 — Beginner: Investigates a pattern when pointed to it, with support.
-- 2 — Intermediate: Initiates and monitors straightforward pattern
+- 1 — Awareness: Investigates a pattern when pointed to it, with support.
+- 2 — Working: Initiates and monitors straightforward pattern
   investigations independently.
-- 3 — Advanced: Consults specialists effectively, determines resolutions and
+- 3 — Practitioner: Consults specialists effectively, determines resolutions and
   preventative measures, across a varied caseload.
 - 4 — Expert: Their preventative measures have measurably reduced recurring
   problems across the desk.
@@ -300,10 +289,9 @@ level's accountability as a knowledge expert who identifies emerging issues.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -317,17 +305,16 @@ coherent frameworks that work.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the senior service desk
+Baseline: 3 — Practitioner. The wording is unchanged from the senior service desk
 analyst level, but here it is applied to whole-desk resourcing and service
 transition activity, which needs a strong, independent grasp.
 
 **Behavioural indicators**
 
-- 0 — None: Manages resourcing and services as unconnected concerns.
-- 1 — Beginner: Establishes a coherent approach with guidance.
-- 2 — Intermediate: Establishes coherent frameworks for straightforward
+- 1 — Awareness: Establishes a coherent approach with guidance.
+- 2 — Working: Establishes coherent frameworks for straightforward
   situations independently.
-- 3 — Advanced: Reliably establishes coherent, working frameworks for complex
+- 3 — Practitioner: Reliably establishes coherent, working frameworks for complex
   resourcing and service transition situations.
 - 4 — Expert: Their frameworks are adopted across the wider service function.
 
@@ -338,10 +325,9 @@ transition activity, which needs a strong, independent grasp.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -357,19 +343,17 @@ Infrastructure Library).
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The addition of ITIL life cycle or capability
+Baseline: 3 — Practitioner. The addition of ITIL life cycle or capability
 knowledge, beyond the qualification alone, is new at this level, matching the
 manager's accountability for service transition activities.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no relevant qualification and cannot describe ITIL's life
-  cycle stages.
-- 1 — Beginner: Holds the qualification but describes ITIL concepts
+- 1 — Awareness: Holds the qualification but describes ITIL concepts
   imprecisely.
-- 2 — Intermediate: Applies ITIL life cycle or capability concepts to explain
+- 2 — Working: Applies ITIL life cycle or capability concepts to explain
   the team's processes.
-- 3 — Advanced: Uses ITIL concepts to diagnose why a process is underdelivering
+- 3 — Practitioner: Uses ITIL concepts to diagnose why a process is underdelivering
   and to propose a fix.
 - 4 — Expert: Is a reference point colleagues turn to for how ITIL should be
   applied locally.
@@ -382,10 +366,9 @@ manager's accountability for service transition activities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -403,18 +386,17 @@ to use.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a substantially fuller description than the
+Baseline: 3 — Practitioner. This is a substantially fuller description than the
 levels below — championing research, guiding others, recommending methods —
 matching a leading role in how user focus is practised across the desk.
 
 **Behavioural indicators**
 
-- 0 — None: Treats user needs and user requests as the same thing.
-- 1 — Beginner: Understands the difference in theory, but does not apply it
+- 1 — Awareness: Understands the difference in theory, but does not apply it
   consistently.
-- 2 — Intermediate: Applies the distinction and represents users internally
+- 2 — Working: Applies the distinction and represents users internally
   with support.
-- 3 — Advanced: Champions user research across the desk, guides others in
+- 3 — Practitioner: Champions user research across the desk, guides others in
   approach, and recommends tools and methods.
 - 4 — Expert: Their advocacy has changed how the wider organisation treats
   user research as part of service management.
@@ -427,10 +409,9 @@ matching a leading role in how user focus is practised across the desk.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -439,14 +420,14 @@ matching a leading role in how user focus is practised across the desk.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
+| Asset and configuration management | 2 — Working | | |
 | Customer service management | 4 — Expert | | |
-| IT service reporting | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
-| Problem management | 3 — Advanced | | |
-| Service focus | 3 — Advanced | | |
-| Service management framework knowledge | 3 — Advanced | | |
-| User focus | 3 — Advanced | | |
+| IT service reporting | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
+| Problem management | 3 — Practitioner | | |
+| Service focus | 3 — Practitioner | | |
+| Service management framework knowledge | 3 — Practitioner | | |
+| User focus | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

@@ -2,10 +2,83 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Content designer** role at the **Head of content design** level. You are an expert practitioner with broad industry experience who defines and assures best practice while influencing, leading, and mentoring. You develop a content strategy that meets organisational objectives, lead a team capable of executing it, work with senior stakeholders to influence organisational strategy, collaborate with counterparts across government, and champion good content design in government and industry. Your development is now about leadership and stewardship.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/content-designer/6-head-of-content-design.md`](../../../assessments/user-centred-design/content-designer/6-head-of-content-design.md)
+- Upskilling: [`upskills/user-centred-design/content-designer/6-head-of-content-design.md`](../../../upskills/user-centred-design/content-designer/6-head-of-content-design.md)
+
+### Role Level Focus: Head of Content Design
+
+- [ ] Develop the Content Strategy: Write a strategy that meets organisational objectives and can be executed.
+- [ ] Build the Team to Execute It: Ensure you have the capability the strategy requires.
+- [ ] Influence Organisational Strategy: Take a seat where priorities and funding are decided.
+- [ ] Collaborate Across Government: Maintain standing relationships with counterparts in other departments.
+- [ ] Champion the Discipline: Advocate for content design within government and industry.
+- [ ] Define and Assure Best Practice: Own what good looks like and how it is checked.
+- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
+- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
+
+### Skill: Agile working (content design)
+
+- [ ] Coach and Lead Teams: Coach in Agile and Lean practice across the organisation.
+- [ ] Evaluate and Pivot: Review approaches through the project life and change them when needed.
+- [ ] Innovate on Ways of Working: Find new approaches that achieve better outcomes.
+- [ ] Be a Recognised Expert: Advocate approaches and constructively challenge teams to improve.
+- [ ] Review Capability Regularly: Assess whether individuals have the skills needed, and act on gaps.
+
+### Skill: Content concepts and prototyping
+
+- [ ] Understand Prototyping: Explain why and when prototyping content is worthwhile.
+- [ ] Work Collaboratively: Champion open, collaborative working such as pairing.
+- [ ] Ensure Prototyping Happens: Make sure teams have time and permission to prototype.
+- [ ] Use Prototypes to Persuade: Bring prototypes into senior conversations instead of documents.
+
+### Skill: Stakeholder relationship management (content design)
+
+- [ ] Manage Long-Term Relationships: Nurture existing connections and build new ones.
+- [ ] Direct the Strategic Approach: Establish stakeholder objectives and ensure they are represented.
+- [ ] Act as Escalation Point: Step in when relationships break down for your teams.
+- [ ] Influence and Arbitrate: Influence senior stakeholders and arbitrate escalated blockers.
+- [ ] Facilitate Under Pressure: Handle high risk, complex discussions within constrained timelines.
+
+### Skill: Strategic thinking (content design)
+
+- [ ] Help Lead Strategy: Design and implement strategies, evaluating impact and progress.
+- [ ] Direct Improvement Projects: Focus effort where priority is greatest and ensure goals are met.
+- [ ] Measure Strategic Progress: Establish how you will know the strategy is working.
+- [ ] Learn Strategy Craft: Study strategy seriously and practise the version a board will act on.
+
+### Skill: User focus (content design)
+
+- [ ] Direct Tools and Methods: Give direction on what teams should use.
+- [ ] Bring Multi-Channel Experience: Draw on extensive experience of meeting needs across channels.
+- [ ] Direct Complex Journey Solutions: Understand complex journeys and direct solutions within them.
+- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
+- [ ] Apply Strategic Thinking: Balance user need, business need, and the cross-government context.
+
+### Skill: User-centred content design
+
+- [ ] Direct Content Life Cycle Management: Ensure content is regularly reviewed and evaluated.
+- [ ] Oversee Team Output: Make sure the right content is produced to meet user needs.
+- [ ] Bring Multi-Channel Experience: Draw on extensive experience across channels.
+- [ ] Encourage Process Evaluation: Support teams to review and iterate processes and systems.
+- [ ] Be Accountable for Quality: Own the production of high quality, user-focused content.
+- [ ] Identify Capability Gaps: Spot skills gaps and help teams grow and develop.
+
+### Skill Growth Plan: Beyond Head of Content Design
+
+- [ ] Review Adjacent Roles: Read the content strategist, service owner, and head of profession descriptions.
+- [ ] Broaden Beyond Content: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,76 +176,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Content designer** role at the **Head of content design** level. You are an expert practitioner with broad industry experience who defines and assures best practice while influencing, leading, and mentoring. You develop a content strategy that meets organisational objectives, lead a team capable of executing it, work with senior stakeholders to influence organisational strategy, collaborate with counterparts across government, and champion good content design in government and industry. Your development is now about leadership and stewardship.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/content-designer/6-head-of-content-design.md`](../../../assessments/user-centred-design/content-designer/6-head-of-content-design.md)
-- Upskilling: [`upskills/user-centred-design/content-designer/6-head-of-content-design.md`](../../../upskills/user-centred-design/content-designer/6-head-of-content-design.md)
-
-### Role Level Focus: Head of Content Design
-
-- [ ] Develop the Content Strategy: Write a strategy that meets organisational objectives and can be executed.
-- [ ] Build the Team to Execute It: Ensure you have the capability the strategy requires.
-- [ ] Influence Organisational Strategy: Take a seat where priorities and funding are decided.
-- [ ] Collaborate Across Government: Maintain standing relationships with counterparts in other departments.
-- [ ] Champion the Discipline: Advocate for content design within government and industry.
-- [ ] Define and Assure Best Practice: Own what good looks like and how it is checked.
-- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
-- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
-
-### Skill: Agile working (content design)
-
-- [ ] Coach and Lead Teams: Coach in Agile and Lean practice across the organisation.
-- [ ] Evaluate and Pivot: Review approaches through the project life and change them when needed.
-- [ ] Innovate on Ways of Working: Find new approaches that achieve better outcomes.
-- [ ] Be a Recognised Expert: Advocate approaches and constructively challenge teams to improve.
-- [ ] Review Capability Regularly: Assess whether individuals have the skills needed, and act on gaps.
-
-### Skill: Content concepts and prototyping
-
-- [ ] Understand Prototyping: Explain why and when prototyping content is worthwhile.
-- [ ] Work Collaboratively: Champion open, collaborative working such as pairing.
-- [ ] Ensure Prototyping Happens: Make sure teams have time and permission to prototype.
-- [ ] Use Prototypes to Persuade: Bring prototypes into senior conversations instead of documents.
-
-### Skill: Stakeholder relationship management (content design)
-
-- [ ] Manage Long-Term Relationships: Nurture existing connections and build new ones.
-- [ ] Direct the Strategic Approach: Establish stakeholder objectives and ensure they are represented.
-- [ ] Act as Escalation Point: Step in when relationships break down for your teams.
-- [ ] Influence and Arbitrate: Influence senior stakeholders and arbitrate escalated blockers.
-- [ ] Facilitate Under Pressure: Handle high risk, complex discussions within constrained timelines.
-
-### Skill: Strategic thinking (content design)
-
-- [ ] Help Lead Strategy: Design and implement strategies, evaluating impact and progress.
-- [ ] Direct Improvement Projects: Focus effort where priority is greatest and ensure goals are met.
-- [ ] Measure Strategic Progress: Establish how you will know the strategy is working.
-- [ ] Learn Strategy Craft: Study strategy seriously and practise the version a board will act on.
-
-### Skill: User focus (content design)
-
-- [ ] Direct Tools and Methods: Give direction on what teams should use.
-- [ ] Bring Multi-Channel Experience: Draw on extensive experience of meeting needs across channels.
-- [ ] Direct Complex Journey Solutions: Understand complex journeys and direct solutions within them.
-- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
-- [ ] Apply Strategic Thinking: Balance user need, business need, and the cross-government context.
-
-### Skill: User-centred content design
-
-- [ ] Direct Content Life Cycle Management: Ensure content is regularly reviewed and evaluated.
-- [ ] Oversee Team Output: Make sure the right content is produced to meet user needs.
-- [ ] Bring Multi-Channel Experience: Draw on extensive experience across channels.
-- [ ] Encourage Process Evaluation: Support teams to review and iterate processes and systems.
-- [ ] Be Accountable for Quality: Own the production of high quality, user-focused content.
-- [ ] Identify Capability Gaps: Spot skills gaps and help teams grow and develop.
-
-### Skill Growth Plan: Beyond Head of Content Design
-
-- [ ] Review Adjacent Roles: Read the content strategist, service owner, and head of profession descriptions.
-- [ ] Broaden Beyond Content: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

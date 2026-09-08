@@ -11,7 +11,7 @@ about themselves rather than for an assessor judging someone else.
 
 A formal evaluation an assessor uses to judge whether a candidate or employee
 possesses the baseline abilities a role level requires — a competency matrix,
-one block per skill, rated 0–4 against observable behaviour.
+one block per skill, rated 1–4 against observable behaviour.
 
 It is **not** a validated assessment instrument. It is not piloted, not
 normed, and not checked for adverse impact, and a rating from it must never be
@@ -33,7 +33,7 @@ Nine `##` sections in order:
 1. `## Introduction` — who this is for and what it measures
 2. `## Advisory` — the standing caution, verbatim
 3. `## How to use this assessment` — preparing, gathering evidence, scoring, fairness
-4. `## Rating scale` — the 0–4 proficiency scale, with a worked example
+4. `## Rating scale` — the 1–4 proficiency scale, with a worked example
 5. `## About this role level`
 6. `## Competency matrix` — one `### Skill:` block per skill the summary names
 7. `## Overall determination` — a scoring summary and guidance on combining ratings
@@ -42,15 +42,17 @@ Nine `##` sections in order:
 
 ## The rating scale
 
-Every skill is rated 0–4, on proficiency rather than frequency:
+Every skill is rated 1–4, on proficiency rather than frequency. This is the UK
+GDAD framework's own scale — see
+<https://ddat-capability-framework.service.gov.uk/> — not one invented for this
+project:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 ## Read first
 
@@ -66,10 +68,10 @@ Draw the baseline and the behavioural indicators from the accountabilities the
 summary lists, so the matrix is about this job at this level rather than a
 generic ladder copied across skills:
 
-- **Baseline** — the single point on the 0–4 scale a person should meet for
+- **Baseline** — the single point on the 1–4 scale a person should meet for
   this skill at this level, justified from the level's place in its role's
   ladder. Different skills at the same level can have different baselines.
-- **Behavioural indicators** — five rows, each specific to this skill. A
+- **Behavioural indicators** — four rows, each specific to this skill. A
   reader should not be able to swap an indicator into a different skill's
   block unnoticed.
 - **Evidence to gather** — concrete, role-specific ways to gather evidence: a

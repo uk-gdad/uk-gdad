@@ -56,21 +56,20 @@ material, live vulnerability detail, or specific security configuration.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale — how well the person does the thing, on the evidence
 available, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example.** Take Skill: Systems design. At 2 — Intermediate, a
+**Worked example.** Take Skill: Systems design. At 2 — Working, a
 candidate can produce a competent design for a well understood system when
-someone more senior reviews it before it proceeds. At 3 — Advanced, the
+someone more senior reviews it before it proceeds. At 3 — Practitioner, the
 baseline for this level, they independently design systems of medium risk,
 impact and business or technical complexity, select the design standards and
 tools to use without being told which ones, and can review another person's
@@ -123,17 +122,16 @@ following or applying them.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The verbs move from following, at associate level, to
+Baseline: 3 — Practitioner. The verbs move from following, at associate level, to
 developing and improving, plus supporting others — that is independent
-ownership of governance, which sits at Advanced rather than Intermediate.
+ownership of governance, which sits at Practitioner rather than Working.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what a governance or assurance process is for.
-- 1 — Beginner: follows an existing governance process when directed to.
-- 2 — Intermediate: applies an existing governance process correctly and
+- 1 — Awareness: follows an existing governance process when directed to.
+- 2 — Working: applies an existing governance process correctly and
   without prompting, and can explain it to someone newer.
-- 3 — Advanced: develops or improves a governance or assurance process for
+- 3 — Practitioner: develops or improves a governance or assurance process for
   their own area, and helps colleagues follow it correctly.
 - 4 — Expert: sets governance and assurance processes across a wider
   programme or organisation, and is the person others check a difficult
@@ -150,10 +148,9 @@ ownership of governance, which sits at Advanced rather than Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -169,19 +166,18 @@ or virtual and cloud computing.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Designing infrastructure, not only building or
+Baseline: 3 — Practitioner. Designing infrastructure, not only building or
 supporting it, is independent architectural work, consistent with the
-Advanced description of working independently with a strong grasp of the
+Practitioner description of working independently with a strong grasp of the
 skill.
 
 **Behavioural indicators**
 
-- 0 — None: has not designed an infrastructure solution.
-- 1 — Beginner: has helped implement an infrastructure design someone else
+- 1 — Awareness: has helped implement an infrastructure design someone else
   produced, with close review.
-- 2 — Intermediate: designs straightforward infrastructure components with a
+- 2 — Working: designs straightforward infrastructure components with a
   senior colleague checking the approach before it is built.
-- 3 — Advanced: independently designs and implements infrastructure
+- 3 — Practitioner: independently designs and implements infrastructure
   solutions and services, and takes responsibility for how well they perform
   once live.
 - 4 — Expert: sets infrastructure design standards for others to follow and
@@ -198,10 +194,9 @@ skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -219,18 +214,17 @@ and technology.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Reviewing other people's designs, on top of producing
+Baseline: 3 — Practitioner. Reviewing other people's designs, on top of producing
 their own for medium-risk, medium-complexity systems, is the clearest sign in
 the whole matrix that this level works independently and is trusted with
-judgement calls the associate level is not — a textbook Advanced description.
+judgement calls the associate level is not — a textbook Practitioner description.
 
 **Behavioural indicators**
 
-- 0 — None: cannot judge whether a systems design is fit for purpose.
-- 1 — Beginner: produces a systems design for review at every stage.
-- 2 — Intermediate: designs a system of managed risk and complexity largely
+- 1 — Awareness: produces a systems design for review at every stage.
+- 2 — Working: designs a system of managed risk and complexity largely
   unassisted, but has not yet reviewed another person's design.
-- 3 — Advanced: independently designs systems of medium risk, impact and
+- 3 — Practitioner: independently designs systems of medium risk, impact and
   complexity, selects the right standards and tools without being told which,
   and reviews colleagues' designs for technology choice, resource efficiency
   and integration.
@@ -249,10 +243,9 @@ judgement calls the associate level is not — a textbook Advanced description.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -267,20 +260,18 @@ integration testing activities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Defining and coordinating a build across systems is
+Baseline: 3 — Practitioner. Defining and coordinating a build across systems is
 active ownership, a clear step up from the associate level's ability to
-explain and describe integration in the abstract, and matches the Advanced
+explain and describe integration in the abstract, and matches the Practitioner
 description of working independently.
 
 **Behavioural indicators**
 
-- 0 — None: has not taken responsibility for any part of an integration
-  build.
-- 1 — Beginner: contributes to one part of an integration build under
+- 1 — Awareness: contributes to one part of an integration build under
   direction.
-- 2 — Intermediate: coordinates a small integration build with a senior
+- 2 — Working: coordinates a small integration build with a senior
   colleague available to check progress.
-- 3 — Advanced: defines an integration build and coordinates activities
+- 3 — Practitioner: defines an integration build and coordinates activities
   across systems independently, and supports the integration testing that
   follows.
 - 4 — Expert: is trusted to define integration builds across complex,
@@ -297,10 +288,9 @@ description of working independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -315,19 +305,18 @@ across different technology capabilities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework adds root-cause decomposition to the
+Baseline: 3 — Practitioner. The framework adds root-cause decomposition to the
 associate level's troubleshooting, and expects it applied across several
 technology capabilities without direction — independent, strong-grasp work
-that matches Advanced rather than Intermediate.
+that matches Practitioner rather than Working.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe a structured approach to diagnosing a fault.
-- 1 — Beginner: diagnoses a familiar fault type when guided through it.
-- 2 — Intermediate: diagnoses faults in a familiar technology area
+- 1 — Awareness: diagnoses a familiar fault type when guided through it.
+- 2 — Working: diagnoses faults in a familiar technology area
   unassisted, but needs help breaking down a fault that spans several
   capabilities.
-- 3 — Advanced: independently breaks a cross-capability problem into its
+- 3 — Practitioner: independently breaks a cross-capability problem into its
   component parts, diagnoses the root cause, and resolves it or hands it on
   with a clear diagnosis.
 - 4 — Expert: is the escalation point for faults that have resisted
@@ -344,10 +333,9 @@ that matches Advanced rather than Intermediate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -356,11 +344,11 @@ that matches Advanced rather than Intermediate.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Governance and assurance | 3 — Advanced | | |
-| IT infrastructure | 3 — Advanced | | |
-| Systems design | 3 — Advanced | | |
-| Systems integration | 3 — Advanced | | |
-| Troubleshooting and problem resolution | 3 — Advanced | | |
+| Governance and assurance | 3 — Practitioner | | |
+| IT infrastructure | 3 — Practitioner | | |
+| Systems design | 3 — Practitioner | | |
+| Systems integration | 3 — Practitioner | | |
+| Troubleshooting and problem resolution | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when every skill above is
 rated at or above its baseline target.

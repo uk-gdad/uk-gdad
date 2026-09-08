@@ -49,25 +49,24 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Analysis and insight:
 
-- **1 — Beginner**: with a colleague's help, they applied a technique they had been
+- **1 — Awareness**: with a colleague's help, they applied a technique they had been
   shown to a dataset and produced a chart, but could not say why that technique was the
   right one.
-- **2 — Intermediate**: given a technique to use, they applied it correctly to a
+- **2 — Working**: given a technique to use, they applied it correctly to a
   dataset and presented a clear insight a colleague could act on.
-- **3 — Advanced**: they chose an appropriate technique themselves, applied it, and
+- **3 — Practitioner**: they chose an appropriate technique themselves, applied it, and
   presented a compelling finding that informed a wider decision.
 
 An associate performance analyst's baseline for this skill, below, is 1.
@@ -109,17 +108,16 @@ insights that colleagues can understand and use.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Work with colleagues to apply" core techniques matches
+Baseline: 1 — Awareness. "Work with colleagues to apply" core techniques matches
 close-supervision practice — the starting point for this entry-level role.
 
 **Behavioural indicators**
 
-- 0 — None: has not applied a core analysis technique, even with help.
-- 1 — Beginner: with a colleague's help, has applied a core technique to a dataset and
+- 1 — Awareness: with a colleague's help, has applied a core technique to a dataset and
   presented a simple, clear insight.
-- 2 — Intermediate: applies a named core technique with some guidance and presents an
+- 2 — Working: applies a named core technique with some guidance and presents an
   insight a colleague can act on without further explanation.
-- 3 — Advanced: independently chooses and applies an appropriate technique and
+- 3 — Practitioner: independently chooses and applies an appropriate technique and
   presents a compelling insight.
 - 4 — Expert: is trusted to develop others' grasp of core analysis techniques.
 
@@ -133,10 +131,9 @@ close-supervision practice — the starting point for this entry-level role.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -153,19 +150,18 @@ insight to inform decision making.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Three of the four bullets are active, guided doing, with
+Baseline: 2 — Working. Three of the four bullets are active, guided doing, with
 only the presenting-visualisations bullet keeping "with support" — matching "can perform
 tasks with some guidance."
 
 **Behavioural indicators**
 
-- 0 — None: has not chosen a communication medium or shaped a message for an audience.
-- 1 — Beginner: with close direction, has helped format a findings report someone else
+- 1 — Awareness: with close direction, has helped format a findings report someone else
   designed.
-- 2 — Intermediate: has chosen a format for findings, shaped the message for a named
+- 2 — Working: has chosen a format for findings, shaped the message for a named
   audience, and given a tactical recommendation, with some support presenting
   visualisations.
-- 3 — Advanced: independently chooses medium, shapes communications and gives tactical
+- 3 — Practitioner: independently chooses medium, shapes communications and gives tactical
   recommendations, without needing support on visualisations.
 - 4 — Expert: coaches others on communicating analysis clearly.
 
@@ -179,10 +175,9 @@ tasks with some guidance."
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -196,17 +191,16 @@ importance of performance measurement and business objectives.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. A single, purely explanatory bullet — understanding, not yet
+Baseline: 1 — Awareness. A single, purely explanatory bullet — understanding, not yet
 practice.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say why performance measurement matters to business objectives.
-- 1 — Beginner: can explain, in their own words, why performance measurement matters
+- 1 — Awareness: can explain, in their own words, why performance measurement matters
   and how it relates to business objectives.
-- 2 — Intermediate: has helped populate a performance measure under guidance and can
+- 2 — Working: has helped populate a performance measure under guidance and can
   say what business objective it relates to.
-- 3 — Advanced: has proposed a performance measure for a real project, tied to a stated
+- 3 — Practitioner: has proposed a performance measure for a real project, tied to a stated
   objective.
 - 4 — Expert: leads the development of performance measures for a project.
 
@@ -221,10 +215,9 @@ practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -240,17 +233,16 @@ for analysis, and describe quality assurance processes.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Consistently explanatory wording — understanding what quality
+Baseline: 1 — Awareness. Consistently explanatory wording — understanding what quality
 assurance involves, not yet running it.
 
 **Behavioural indicators**
 
-- 0 — None: cannot name a basic data quality issue or describe a quality check.
-- 1 — Beginner: can describe a basic data issue (missing values, duplicates,
+- 1 — Awareness: can describe a basic data issue (missing values, duplicates,
   inconsistent formats) and explain, in outline, what "fit for purpose" means for data.
-- 2 — Intermediate: has checked a small dataset for an obvious quality issue under
+- 2 — Working: has checked a small dataset for an obvious quality issue under
   guidance and flagged what they found.
-- 3 — Advanced: independently spots and documents data quality issues before analysis
+- 3 — Practitioner: independently spots and documents data quality issues before analysis
   begins.
 - 4 — Expert: designs a quality assurance process for others to follow.
 
@@ -264,10 +256,9 @@ assurance involves, not yet running it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -282,17 +273,16 @@ technology and have an understanding of what it involves and its impact.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" and "use some" of them matches an early,
+Baseline: 1 — Awareness. "Show an awareness" and "use some" of them matches an early,
 close-supervision starting point.
 
 **Behavioural indicators**
 
-- 0 — None: cannot name an analytical tool or describe what digital technology involves.
-- 1 — Beginner: is aware of and has used at least one analytical tool, and can describe
+- 1 — Awareness: is aware of and has used at least one analytical tool, and can describe
   in general terms what digital technology involves and its impact.
-- 2 — Intermediate: can use more than one analytical tool for a task with some
+- 2 — Working: can use more than one analytical tool for a task with some
   guidance.
-- 3 — Advanced: independently chooses and uses the right analytical tool for a given
+- 3 — Practitioner: independently chooses and uses the right analytical tool for a given
   task.
 - 4 — Expert: keeps the team current on new analytical tools and technologies.
 
@@ -306,10 +296,9 @@ close-supervision starting point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -324,18 +313,16 @@ vary at different stages of the product life cycle.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. A single, explanatory bullet — description-level understanding
+Baseline: 1 — Awareness. A single, explanatory bullet — description-level understanding
 is what this level asks for.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say how performance measures might differ across product life cycle
-  stages.
-- 1 — Beginner: can describe, at a general level, why performance measures vary across
+- 1 — Awareness: can describe, at a general level, why performance measures vary across
   the product life cycle.
-- 2 — Intermediate: can describe what measure would suit a specific named stage, with
+- 2 — Working: can describe what measure would suit a specific named stage, with
   some prompting.
-- 3 — Advanced: has contributed a performance measure appropriate to a real product's
+- 3 — Practitioner: has contributed a performance measure appropriate to a real product's
   current life cycle stage.
 - 4 — Expert: advises a team on which measures fit their current stage.
 
@@ -349,10 +336,9 @@ is what this level asks for.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -367,16 +353,15 @@ service.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. A single awareness-level bullet — the framework asks for
+Baseline: 1 — Awareness. A single awareness-level bullet — the framework asks for
 recognition of the principle, not yet its application.
 
 **Behavioural indicators**
 
-- 0 — None: shows no awareness that analysis should be focused on the user.
-- 1 — Beginner: can explain, in their own words, why analysis work should be focused on
+- 1 — Awareness: can explain, in their own words, why analysis work should be focused on
   the user of the product or service.
-- 2 — Intermediate: has framed a piece of analysis around a user need, with guidance.
-- 3 — Advanced: independently frames analysis work around user needs for a real
+- 2 — Working: has framed a piece of analysis around a user need, with guidance.
+- 3 — Practitioner: independently frames analysis work around user needs for a real
   project.
 - 4 — Expert: guides others on approaches to understanding user needs through analysis.
 
@@ -390,10 +375,9 @@ recognition of the principle, not yet its application.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

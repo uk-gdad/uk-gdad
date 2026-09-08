@@ -63,23 +63,22 @@ every rating tied to demonstrated, job-related behaviour and nothing else.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale.
+Every skill in the competency matrix is rated on the same four-point scale.
 This is a **proficiency** scale — it measures how well the person does the
 thing, on the evidence available, not how often they do it or how confident
 they say they feel about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Programming and build (data science).** At 1 (Beginner),
+**Worked example — Programming and build (data science).** At 1 (Awareness),
 the person can follow a written pattern to adapt an existing script, but
 writing a new script from a blank file, or explaining why a particular test
-failed, needs someone alongside them. At 2 (Intermediate), the baseline for
+failed, needs someone alongside them. At 2 (Working), the baseline for
 this role level, the person writes and tests a small script or a basic model
 themselves, asks sensible questions about the parts they have not met before,
 and can make a small, reviewed change to a shared codebase without breaking
@@ -143,21 +142,19 @@ statistical and scientific tools available within the organisation.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The summary asks the person to apply and compare
+Baseline: 2 — Working. The summary asks the person to apply and compare
 methods and to use validation metrics correctly, which is more than reciting
 theory but does not yet require choosing a method independently for a novel
 problem — that judgement belongs to a data scientist proper.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a p-value, a confusion matrix or a train/test
-  split is for, or has never run an analysis on a real data set.
-- 1 — Beginner: Can run a statistical test someone else has chosen and report
+- 1 — Awareness: Can run a statistical test someone else has chosen and report
   the result, but cannot say why that test was the right one for the data.
-- 2 — Intermediate: Chooses and runs an appropriate exploratory analysis or
+- 2 — Working: Chooses and runs an appropriate exploratory analysis or
   statistical test on a given data set, reports an accuracy or validation
   metric correctly, and can explain in plain terms what the metric means.
-- 3 — Advanced: Compares two or three candidate statistical or mathematical
+- 3 — Practitioner: Compares two or three candidate statistical or mathematical
   methods for a problem, picks one, and defends the choice against a
   colleague's challenge without needing a second opinion.
 - 4 — Expert: Reviews another person's choice of statistical method or metric,
@@ -177,10 +174,9 @@ problem — that judgement belongs to a data scientist proper.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -197,7 +193,7 @@ and they use data manipulation and transformation tools.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording is about recognising
+Baseline: 1 — Awareness. The framework's own wording is about recognising
 processes and knowing who to ask for engineering support, not designing
 pipelines or architecture unassisted — an associate is expected to use the
 tools that exist, under some guidance, rather than build engineering solutions
@@ -205,16 +201,14 @@ independently.
 
 **Behavioural indicators**
 
-- 0 — None: Has not cleaned, transformed or moved a data set as part of any
-  piece of work.
-- 1 — Beginner: Follows a documented process to clean or transform a data set,
+- 1 — Awareness: Follows a documented process to clean or transform a data set,
   and can name the tool being used, but would not know who to escalate a data
   quality problem to without being told.
-- 2 — Intermediate: Recognises a common data quality problem (missing values,
+- 2 — Working: Recognises a common data quality problem (missing values,
   duplicate records, inconsistent formats) unprompted, applies an existing
   cleansing check, and correctly identifies which team or person to ask for
   engineering support.
-- 3 — Advanced: Sets up a reusable data cleansing or preparation process for a
+- 3 — Practitioner: Sets up a reusable data cleansing or preparation process for a
   team to use again, and can explain the trade-off between a cloud and an
   on-premise approach for a given piece of work.
 - 4 — Expert: Designs the engineering approach for a new data product and is
@@ -232,10 +226,9 @@ independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -250,23 +243,20 @@ appropriate channels.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework says this explicitly — "under
+Baseline: 1 — Awareness. The framework says this explicitly — "under
 supervision" — so the baseline for an associate is that the person applies the
 basics with support close by, not that they judge ethics and privacy risk
 alone.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what data ethics or data privacy means for their own
-  work, or has never considered whether a data set they used needed special
-  handling.
-- 1 — Beginner: Follows the organisation's data handling rules when told which
+- 1 — Awareness: Follows the organisation's data handling rules when told which
   ones apply, and asks a supervisor before doing something involving personal
   or sensitive data that they are unsure about.
-- 2 — Intermediate: Spots, unprompted, that a piece of work involves personal
+- 2 — Working: Spots, unprompted, that a piece of work involves personal
   or sensitive data, applies the relevant handling rule correctly, and raises
   a concern through the right channel without being reminded to.
-- 3 — Advanced: Advises a colleague on a data ethics or privacy question
+- 3 — Practitioner: Advises a colleague on a data ethics or privacy question
   without needing to check with a supervisor first, and documents the
   reasoning so someone else can follow it later.
 - 4 — Expert: Shapes how the team handles data ethics and privacy risk, and is
@@ -285,10 +275,9 @@ alone.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -304,21 +293,19 @@ notice possibilities for improvement and innovation.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Curiosity and active research are exactly what the
+Baseline: 2 — Working. Curiosity and active research are exactly what the
 framework asks of this level by name — an associate is expected to be
 genuinely inquisitive and to bring back what they find, not merely to be
 willing to learn if asked.
 
 **Behavioural indicators**
 
-- 0 — None: Shows no evidence of having looked into a new technique or tool
-  beyond what a task required.
-- 1 — Beginner: Reads or watches material on a new technique when it is
+- 1 — Awareness: Reads or watches material on a new technique when it is
   recommended to them, but does not go looking on their own.
-- 2 — Intermediate: Researches a technique they have not used before,
+- 2 — Working: Researches a technique they have not used before,
   unprompted, and brings a specific idea for improving a piece of work back to
   the team.
-- 3 — Advanced: Trials a new technique or tool on a real piece of work, shares
+- 3 — Practitioner: Trials a new technique or tool on a real piece of work, shares
   what they learned with the team, and can say honestly where it did not help.
 - 4 — Expert: Is the person the team turns to when they need to know what is
   changing in the field, and has introduced a technique that changed how the
@@ -336,10 +323,9 @@ willing to learn if asked.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -355,21 +341,19 @@ presenting analysis and visualisations tailored to their audience.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is about showing understanding and
+Baseline: 1 — Awareness. The wording is about showing understanding and
 helping — a supporting contribution to identifying needs and delivering
 products — rather than owning the link between a piece of analysis and an
 organisational outcome, which the framework reserves for the level above.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain, in their own words, why the organisation they work
-  for uses data science or what any of their recent work was for.
-- 1 — Beginner: Can explain what a piece of their own work was for when asked,
+- 1 — Awareness: Can explain what a piece of their own work was for when asked,
   and helps a more senior colleague gather user needs when directed to.
-- 2 — Intermediate: Tailors how they present a finding to who is in the room —
+- 2 — Working: Tailors how they present a finding to who is in the room —
   a chart for a technical colleague, a plain summary for a non-technical one —
   without being told to.
-- 3 — Advanced: Identifies a user need directly from a conversation with a
+- 3 — Practitioner: Identifies a user need directly from a conversation with a
   stakeholder, without a more senior colleague framing it first, and shapes a
   piece of work around it.
 - 4 — Expert: Is trusted to represent the value of the team's data science
@@ -389,10 +373,9 @@ organisational outcome, which the framework reserves for the level above.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -410,22 +393,20 @@ solutions including reports, models and dashboards.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This mirrors the level's headline accountability
+Baseline: 2 — Working. This mirrors the level's headline accountability
 to "understand and be able to implement a range of data science techniques" —
 the person is expected to actually build things with the techniques they
 know, with guidance, not merely to be aware that the techniques exist.
 
 **Behavioural indicators**
 
-- 0 — None: Has no development plan or record of recent learning, and cannot
-  point to a report, model or dashboard they built themselves.
-- 1 — Beginner: Follows a development plan set by someone else, and has built
+- 1 — Awareness: Follows a development plan set by someone else, and has built
   a report, model or dashboard with substantial help from a colleague.
-- 2 — Intermediate: Sets and reviews their own short-term learning goals
+- 2 — Working: Sets and reviews their own short-term learning goals
   linked to real pieces of work, and independently builds a working report,
   model or dashboard using a technique such as a basic machine learning
   model.
-- 3 — Advanced: Talks confidently and accurately about the benefits of a data
+- 3 — Practitioner: Talks confidently and accurately about the benefits of a data
   science approach to someone outside the data team, and links their own
   development plan explicitly to the organisation's goals.
 - 4 — Expert: Coaches other associates on building their own solutions and
@@ -442,10 +423,9 @@ know, with guidance, not merely to be aware that the techniques exist.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -460,21 +440,19 @@ methodologies.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This maps directly onto the level's headline
+Baseline: 2 — Working. This maps directly onto the level's headline
 accountability to "develop basic models" — writing and testing working code
 with some guidance is exactly what an associate, as distinct from a trainee,
 is expected to do.
 
 **Behavioural indicators**
 
-- 0 — None: Has never written a script that ran successfully, or has only
-  ever run code someone else wrote unchanged.
-- 1 — Beginner: Adapts an existing script or notebook to a new but similar
+- 1 — Awareness: Adapts an existing script or notebook to a new but similar
   task, with help nearby, but struggles to write new code from a blank file.
-- 2 — Intermediate: Writes and tests a script or a basic model from scratch
+- 2 — Working: Writes and tests a script or a basic model from scratch
   for a defined task, and makes a small change to a shared codebase that
   passes review.
-- 3 — Advanced: Builds a more substantial model or tool unassisted, structures
+- 3 — Practitioner: Builds a more substantial model or tool unassisted, structures
   the code so someone else can follow and reuse it, and works comfortably
   across more than one methodology the team uses.
 - 4 — Expert: Sets the coding standard the team follows and reviews other
@@ -491,10 +469,9 @@ is expected to do.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -510,22 +487,20 @@ it fits in with the work of their wider team.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The summary's own word is "aware" — an associate is
+Baseline: 1 — Awareness. The summary's own word is "aware" — an associate is
 expected to know the delivery methods exist and to fit their own contribution
 around the team's way of working, not to choose a delivery method for a
 product unsupervised.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a delivery method the organisation uses, or regularly
-  misses how their work fits into the team's plan.
-- 1 — Beginner: Names the delivery method their team uses when asked, and
+- 1 — Awareness: Names the delivery method their team uses when asked, and
   completes their own tasks broadly in step with the rest of the team, with
   reminders about deadlines or dependencies.
-- 2 — Intermediate: Explains, unprompted, why their team uses the delivery
+- 2 — Working: Explains, unprompted, why their team uses the delivery
   method it does, and adjusts their own work plan without being told when a
   team priority changes.
-- 3 — Advanced: Recommends which delivery method suits a specific piece of
+- 3 — Practitioner: Recommends which delivery method suits a specific piece of
   work, with reasons, and coordinates their contribution with more than one
   other person's without needing a manager to do it for them.
 - 4 — Expert: Sets or changes how a team delivers, and coaches others in
@@ -544,10 +519,9 @@ product unsupervised.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -556,14 +530,14 @@ product unsupervised.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Applied maths, statistics and scientific practices | 2 — Intermediate | | |
-| Data engineering | 1 — Beginner | | |
-| Data ethics and privacy | 1 — Beginner | | |
-| Data science innovation | 2 — Intermediate | | |
-| Delivering business impact | 1 — Beginner | | |
-| Developing data science capability | 2 — Intermediate | | |
-| Programming and build (data science) | 2 — Intermediate | | |
-| Understanding product delivery | 1 — Beginner | | |
+| Applied maths, statistics and scientific practices | 2 — Working | | |
+| Data engineering | 1 — Awareness | | |
+| Data ethics and privacy | 1 — Awareness | | |
+| Data science innovation | 2 — Working | | |
+| Delivering business impact | 1 — Awareness | | |
+| Developing data science capability | 2 — Working | | |
+| Programming and build (data science) | 2 — Working | | |
+| Understanding product delivery | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill above is
 rated at or above its baseline target.

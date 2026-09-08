@@ -49,20 +49,19 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Leading design:
 
-- **3 — Advanced**: they led and coordinated design work in their own team without
+- **3 — Practitioner**: they led and coordinated design work in their own team without
   needing support, and mentored one other designer informally.
 - **4 — Expert**: they created an inclusive, productive working environment across a
   team of designers, formally mentored and coached several colleagues, advocated for
@@ -114,12 +113,11 @@ teach-and-guide-others, mastery-level work.
 
 **Behavioural indicators**
 
-- 0 — None: has not gained support for a design decision from a senior leader.
-- 1 — Beginner: has presented a design decision to a senior leader with someone else
+- 1 — Awareness: has presented a design decision to a senior leader with someone else
   leading the conversation.
-- 2 — Intermediate: has gained a senior leader's support for one design decision, with
+- 2 — Working: has gained a senior leader's support for one design decision, with
   guidance preparing the case.
-- 3 — Advanced: independently gains senior leader support for design decisions and
+- 3 — Practitioner: independently gains senior leader support for design decisions and
   communicates design strategy across an organisational boundary.
 - 4 — Expert: coaches other designers in how to communicate design effectively, and has
   introduced a new method of communicating design or working in the open that others
@@ -136,10 +134,9 @@ teach-and-guide-others, mastery-level work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -161,11 +158,10 @@ team.
 
 **Behavioural indicators**
 
-- 0 — None: has not improved inclusive design practice beyond their own work.
-- 1 — Beginner: has raised an accessibility issue in their own team.
-- 2 — Intermediate: has helped one team improve one aspect of inclusive design
+- 1 — Awareness: has raised an accessibility issue in their own team.
+- 2 — Working: has helped one team improve one aspect of inclusive design
   practice, with support.
-- 3 — Advanced: independently advises multiple teams on inclusive, accessible and
+- 3 — Practitioner: independently advises multiple teams on inclusive, accessible and
   sustainable design.
 - 4 — Expert: has measurably improved inclusive, accessible or sustainable design
   practice across multiple teams or the organisation, and has helped others understand
@@ -182,10 +178,9 @@ team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -202,7 +197,7 @@ This wording is identical to the senior service designer level below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Because the framework repeats the senior level's text word for
+Baseline: 3 — Practitioner. Because the framework repeats the senior level's text word for
 word here, the honest baseline for this specific skill stays the same as the level
 below — this level's real step up shows in the other six skills and in this level's own
 accountability to set direction and assure design delivery across teams, not in a claim
@@ -210,11 +205,10 @@ this text does not make.
 
 **Behavioural indicators**
 
-- 0 — None: has not connected a design decision to an organisational goal.
-- 1 — Beginner: has followed a strategic direction someone else set.
-- 2 — Intermediate: has helped align one piece of design work to a team's goals, with
+- 1 — Awareness: has followed a strategic direction someone else set.
+- 2 — Working: has helped align one piece of design work to a team's goals, with
   guidance.
-- 3 — Advanced: independently helps teams understand how their design work supports
+- 3 — Practitioner: independently helps teams understand how their design work supports
   organisational goals, weighs technology, systems and policy constraints to shape
   design, and creates a new design pattern or component when an existing one does not
   fit.
@@ -230,10 +224,9 @@ this text does not make.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -256,12 +249,11 @@ facilitation.
 
 **Behavioural indicators**
 
-- 0 — None: has not run a design session that included a senior leader.
-- 1 — Beginner: has attended a design session with senior leaders present, without
+- 1 — Awareness: has attended a design session with senior leaders present, without
   running any part of it.
-- 2 — Intermediate: has co-run a design session with senior leaders present, with
+- 2 — Working: has co-run a design session with senior leaders present, with
   support.
-- 3 — Advanced: independently plans and runs design sessions that include senior
+- 3 — Practitioner: independently plans and runs design sessions that include senior
   leaders or stakeholders, and helps teams connect across organisational boundaries.
 - 4 — Expert: coaches other designers in how to involve stakeholders of any level in
   the design process, and has introduced a new way of designing together that other
@@ -278,10 +270,9 @@ facilitation.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -304,10 +295,9 @@ evidence practice.
 
 **Behavioural indicators**
 
-- 0 — None: has not embedded a hypothesis-driven design practice in a team.
-- 1 — Beginner: has used a design hypothesis in their own work.
-- 2 — Intermediate: has helped one team adopt hypothesis-driven design, with support.
-- 3 — Advanced: independently embeds hypothesis-driven design in a team, and uses
+- 1 — Awareness: has used a design hypothesis in their own work.
+- 2 — Working: has helped one team adopt hypothesis-driven design, with support.
+- 3 — Practitioner: independently embeds hypothesis-driven design in a team, and uses
   evidence to improve how a team works.
 - 4 — Expert: guides the wider organisation in how to use evidence to improve services,
   and ensures user insights are shared with and used by the wider organisation and
@@ -324,10 +314,9 @@ evidence practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -350,10 +339,9 @@ ownership.
 
 **Behavioural indicators**
 
-- 0 — None: has not embedded an iterative design practice beyond their own work.
-- 1 — Beginner: has followed an iterative design practice someone else set up.
-- 2 — Intermediate: has helped one team adopt iterative practice, with support.
-- 3 — Advanced: independently leads on prototyping complex ideas at any fidelity, and
+- 1 — Awareness: has followed an iterative design practice someone else set up.
+- 2 — Working: has helped one team adopt iterative practice, with support.
+- 3 — Practitioner: independently leads on prototyping complex ideas at any fidelity, and
   helps teams adapt quickly to changing requirements.
 - 4 — Expert: embeds iterative design and agile working across teams or the wider
   organisation, and has iterated a delivery process or team structure to make teams
@@ -370,10 +358,9 @@ ownership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -397,12 +384,11 @@ this specific skill.
 
 **Behavioural indicators**
 
-- 0 — None: has not coordinated design work across a team without support.
-- 1 — Beginner: has coordinated design work with close support from a more senior
+- 1 — Awareness: has coordinated design work with close support from a more senior
   colleague.
-- 2 — Intermediate: has led design work in a team with occasional support, and
+- 2 — Working: has led design work in a team with occasional support, and
   informally supported one other designer.
-- 3 — Advanced: independently leads and coordinates design work in a team, and
+- 3 — Practitioner: independently leads and coordinates design work in a team, and
   mentors other designers.
 - 4 — Expert: creates an inclusive, productive environment for designers, formally
   mentors and coaches several colleagues, advocates for user-centred design directly
@@ -420,10 +406,9 @@ this specific skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

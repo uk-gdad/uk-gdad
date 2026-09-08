@@ -49,22 +49,21 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using Leadership and guidance, a skill this level names:
 
 - Someone who can only make and justify decisions with medium levels of
   risk, and needs support for genuinely high-impact decisions, sits at
-  **3 — Advanced**, below this assessment's baseline.
+  **3 — Practitioner**, below this assessment's baseline.
 - Someone who makes and justifies decisions with high levels of risk,
   impact and complexity, builds consensus between whole organisations, and
   solves issues between departments at the highest level sits at
@@ -146,13 +145,11 @@ assessment's Expert point describes.
 
 **Behavioural indicators**
 
-- 0 — None: Has never represented the accessibility community to an audience
-  outside their own team.
-- 1 — Beginner: Manages stakeholder expectations for familiar, lower-risk
+- 1 — Awareness: Manages stakeholder expectations for familiar, lower-risk
   situations only.
-- 2 — Intermediate: Hosts moderately difficult discussions with support, and
+- 2 — Working: Hosts moderately difficult discussions with support, and
   has represented the team, not yet the wider community, externally.
-- 3 — Advanced: Hosts high-risk, time-constrained discussions unsupported,
+- 3 — Practitioner: Hosts high-risk, time-constrained discussions unsupported,
   but has not yet mediated a genuinely broken relationship between senior
   parties — one step below this level's baseline.
 - 4 — Expert: Mediates and mends a relationship between people who had
@@ -170,10 +167,9 @@ assessment's Expert point describes.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -195,13 +191,11 @@ clearest possible marker of this assessment's Expert point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how accessibility is built into the
-  organisation's governance system, only how it is checked within one team.
-- 1 — Beginner: Understands the organisation's governance system but has not
+- 1 — Awareness: Understands the organisation's governance system but has not
   added measures to it.
-- 2 — Intermediate: Proposes an improvement to a governance process with
+- 2 — Working: Proposes an improvement to a governance process with
   support from others.
-- 3 — Advanced: Adds a measure to a project or programme governance process
+- 3 — Practitioner: Adds a measure to a project or programme governance process
   that improves accessibility assurance — one step below this level's
   baseline.
 - 4 — Expert: Analyses the whole governance and assurance system and adds
@@ -219,10 +213,9 @@ clearest possible marker of this assessment's Expert point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -249,13 +242,11 @@ assessment's Expert point by definition.
 
 **Behavioural indicators**
 
-- 0 — None: Has never led or justified a decision with genuinely high risk,
-  impact and complexity.
-- 1 — Beginner: Makes decisions with high impact only with close support
+- 1 — Awareness: Makes decisions with high impact only with close support
   from more senior colleagues.
-- 2 — Intermediate: Makes and justifies some high-impact decisions, with
+- 2 — Working: Makes and justifies some high-impact decisions, with
   review from a peer or senior colleague.
-- 3 — Advanced: Makes and justifies high-risk, high-impact decisions
+- 3 — Practitioner: Makes and justifies high-risk, high-impact decisions
   unsupported, but has not yet changed an organisational structure or settled
   a dispute between departments — one step below this level's baseline.
 - 4 — Expert: Changes an organisational structure to something more
@@ -273,10 +264,9 @@ assessment's Expert point by definition.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -296,7 +286,7 @@ technologies with knowledge of others.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As explained in `## About this role level`, the
+Baseline: 3 — Practitioner. As explained in `## About this role level`, the
 framework's published wording for this skill at head of accessibility
 matches accessibility specialist's wording rather than a level above senior
 accessibility specialist's more advanced description — this assessment sets
@@ -306,13 +296,11 @@ heavily than this floor suggests.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot perform a detailed audit or explain a standard's
-  requirement without help.
-- 1 — Beginner: Explains standards with help, and performs only basic checks
+- 1 — Awareness: Explains standards with help, and performs only basic checks
   unsupported.
-- 2 — Intermediate: Performs basic checks confidently but is not yet
+- 2 — Working: Performs basic checks confidently but is not yet
   independent on a full, detailed audit.
-- 3 — Advanced: Performs a detailed audit unsupported, documents findings
+- 3 — Practitioner: Performs a detailed audit unsupported, documents findings
   clearly for others to work from, and is confident using at least one
   assistive technology — this level's published baseline.
 - 4 — Expert: Demonstrates excellent knowledge including edge cases, and
@@ -333,10 +321,9 @@ heavily than this floor suggests.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -360,11 +347,9 @@ Expert point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how functional and non-functional test
-  specifications are co-ordinated for a system, only how one script is run.
-- 1 — Beginner: Contributes to test planning under someone else's authority.
-- 2 — Intermediate: Plans testing for a defined piece of work with support.
-- 3 — Advanced: Manages the planning of system and acceptance tests for a
+- 1 — Awareness: Contributes to test planning under someone else's authority.
+- 2 — Working: Plans testing for a defined piece of work with support.
+- 3 — Practitioner: Manages the planning of system and acceptance tests for a
   piece of work unsupported, co-ordinating functional and non-functional
   specifications — one step below this level's baseline.
 - 4 — Expert: Provides authoritative advice and guidance on test planning
@@ -381,10 +366,9 @@ Expert point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -408,12 +392,10 @@ it, which is this assessment's Expert point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how user needs have changed over time for the
-  organisation's services, only for one piece of work.
-- 1 — Beginner: Meets user needs on one channel with support.
-- 2 — Intermediate: Meets user needs across more than one channel, with some
+- 1 — Awareness: Meets user needs on one channel with support.
+- 2 — Working: Meets user needs across more than one channel, with some
   support choosing the right tools or methods.
-- 3 — Advanced: Gives direction on tools and methods for a team, and brings
+- 3 — Practitioner: Gives direction on tools and methods for a team, and brings
   insight into how needs have changed for that team's users — one step
   below this level's baseline.
 - 4 — Expert: Applies strategic thinking to how the whole organisation meets
@@ -432,10 +414,9 @@ it, which is this assessment's Expert point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -447,7 +428,7 @@ it, which is this assessment's Expert point.
 | Communicating information | 4 — Expert | | |
 | Governance and assurance (accessibility) | 4 — Expert | | |
 | Leadership and guidance | 4 — Expert | | |
-| Technical understanding (accessibility) | 3 — Advanced | | |
+| Technical understanding (accessibility) | 3 — Practitioner | | |
 | Testing | 4 — Expert | | |
 | User focus | 4 — Expert | | |
 

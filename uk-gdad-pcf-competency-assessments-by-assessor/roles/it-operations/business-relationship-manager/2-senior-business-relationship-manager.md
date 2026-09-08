@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -52,14 +51,13 @@ The framework expects a senior business relationship manager to lead investigati
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Lead investigative work" and "lead the collection of information" are independent leadership of the analysis itself, a clear step up from contributing to someone else's recommendation, which matches Advanced.
+Baseline: 3 — Practitioner. "Lead investigative work" and "lead the collection of information" are independent leadership of the analysis itself, a clear step up from contributing to someone else's recommendation, which matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how to structure a business analysis investigation.
-- 1 — Beginner: Contributes findings to an investigation someone else leads.
-- 2 — Intermediate: Leads a straightforward investigation with support shaping the final recommendation.
-- 3 — Advanced: Leads investigative work independently, produces recommendations for improvement, and can absorb conflicting information from multiple sources into a coherent solution.
+- 1 — Awareness: Contributes findings to an investigation someone else leads.
+- 2 — Working: Leads a straightforward investigation with support shaping the final recommendation.
+- 3 — Practitioner: Leads investigative work independently, produces recommendations for improvement, and can absorb conflicting information from multiple sources into a coherent solution.
 - 4 — Expert: Is brought in specifically to untangle the organisation's most conflicting or contested analysis problems.
 
 **Evidence to gather**
@@ -70,10 +68,9 @@ Baseline: 3 — Advanced. "Lead investigative work" and "lead the collection of 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -86,14 +83,13 @@ The framework expects a senior business relationship manager to take accountabil
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Proactively searching for problems, rather than reacting once they surface, is independent, forward-looking practice that matches Advanced.
+Baseline: 3 — Practitioner. Proactively searching for problems, rather than reacting once they surface, is independent, forward-looking practice that matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Only responds to issues once someone else raises them.
-- 1 — Beginner: Takes accountability for an issue when told to.
-- 2 — Intermediate: Takes accountability for issues in their own relationships, occasionally spotting problems early.
-- 3 — Advanced: Actively searches for potential problems across their relationships ahead of time, and consistently produces excellent outcomes for users.
+- 1 — Awareness: Takes accountability for an issue when told to.
+- 2 — Working: Takes accountability for issues in their own relationships, occasionally spotting problems early.
+- 3 — Practitioner: Actively searches for potential problems across their relationships ahead of time, and consistently produces excellent outcomes for users.
 - 4 — Expert: Builds proactive problem-spotting into how the wider function operates.
 
 **Evidence to gather**
@@ -103,10 +99,9 @@ Baseline: 3 — Advanced. Proactively searching for problems, rather than reacti
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -119,14 +114,13 @@ The framework expects a senior business relationship manager to take inputs and 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. At this level, the frameworks a candidate establishes need to work across the relationships they manage, not just for a single engagement, which fits Advanced.
+Baseline: 3 — Practitioner. At this level, the frameworks a candidate establishes need to work across the relationships they manage, not just for a single engagement, which fits Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their engagement work fits into a wider service.
-- 1 — Beginner: Follows a given engagement framework without adapting it.
-- 2 — Intermediate: Builds a working framework for a single relationship or engagement area.
-- 3 — Advanced: Establishes coherent frameworks that other business relationship managers adopt.
+- 1 — Awareness: Follows a given engagement framework without adapting it.
+- 2 — Working: Builds a working framework for a single relationship or engagement area.
+- 3 — Practitioner: Establishes coherent frameworks that other business relationship managers adopt.
 - 4 — Expert: Designs frameworks that shape how the whole function engages with the business.
 
 **Evidence to gather**
@@ -136,10 +130,9 @@ Baseline: 3 — Advanced. At this level, the frameworks a candidate establishes 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -152,14 +145,13 @@ The framework expects a senior business relationship manager to show they have a
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This level adds ITIL life cycle knowledge on top of the Level 3 qualification named at the level below, a broader and more applied grasp of the framework that matches Advanced.
+Baseline: 3 — Practitioner. This level adds ITIL life cycle knowledge on top of the Level 3 qualification named at the level below, a broader and more applied grasp of the framework that matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management qualification and cannot describe ITIL's life cycle.
-- 1 — Beginner: Holds a Level 3 qualification but cannot describe how ITIL life cycle elements connect to their own work.
-- 2 — Intermediate: Holds Level 3 and can describe ITIL life cycle elements in general terms.
-- 3 — Advanced: Holds Level 3 and applies ITIL life cycle or capability knowledge directly to how they manage relationships.
+- 1 — Awareness: Holds a Level 3 qualification but cannot describe how ITIL life cycle elements connect to their own work.
+- 2 — Working: Holds Level 3 and can describe ITIL life cycle elements in general terms.
+- 3 — Practitioner: Holds Level 3 and applies ITIL life cycle or capability knowledge directly to how they manage relationships.
 - 4 — Expert: Holds expert-level certification and teaches ITIL concepts to others.
 
 **Evidence to gather**
@@ -169,10 +161,9 @@ Baseline: 3 — Advanced. This level adds ITIL life cycle knowledge on top of th
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -185,14 +176,13 @@ The framework expects a senior business relationship manager to negotiate with a
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, but at senior level this is expected to be demonstrated consistently and independently across strategic, not just operational, relationships, which fits Advanced.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, but at senior level this is expected to be demonstrated consistently and independently across strategic, not just operational, relationships, which fits Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Has never negotiated with or influenced a stakeholder.
-- 1 — Beginner: Manages a straightforward stakeholder relationship with support.
-- 2 — Intermediate: Negotiates with and influences stakeholders effectively on operational matters, with occasional guidance on strategic ones.
-- 3 — Advanced: Independently builds and sustains long-term strategic relationships, negotiating and influencing decisions and removing blockers without support.
+- 1 — Awareness: Manages a straightforward stakeholder relationship with support.
+- 2 — Working: Negotiates with and influences stakeholders effectively on operational matters, with occasional guidance on strategic ones.
+- 3 — Practitioner: Independently builds and sustains long-term strategic relationships, negotiating and influencing decisions and removing blockers without support.
 - 4 — Expert: Is trusted with the organisation's most difficult stakeholder relationships and coaches others in how to manage them.
 
 **Evidence to gather**
@@ -202,10 +192,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, but at 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -218,14 +207,13 @@ The framework expects a senior business relationship manager to define strategie
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Define strategies and policies" and guide others is independent strategic leadership, a clear step above contributing to strategy at the level below, which matches Advanced.
+Baseline: 3 — Practitioner. "Define strategies and policies" and guide others is independent strategic leadership, a clear step above contributing to strategy at the level below, which matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect their work to the organisation's wider strategic goals.
-- 1 — Beginner: Repeats a stated strategic goal but cannot explain how their own work supports it.
-- 2 — Intermediate: Contributes useful input into strategy or policy development when asked.
-- 3 — Advanced: Defines strategies and policies independently, guides others in working within the strategic context, and evaluates existing strategy against business requirements.
+- 1 — Awareness: Repeats a stated strategic goal but cannot explain how their own work supports it.
+- 2 — Working: Contributes useful input into strategy or policy development when asked.
+- 3 — Practitioner: Defines strategies and policies independently, guides others in working within the strategic context, and evaluates existing strategy against business requirements.
 - 4 — Expert: Sets the strategic direction other senior colleagues follow.
 
 **Evidence to gather**
@@ -235,10 +223,9 @@ Baseline: 3 — Advanced. "Define strategies and policies" and guide others is i
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -251,14 +238,13 @@ The framework expects a senior business relationship manager to collaborate with
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Championing user research and guiding others in prioritising the user story is independent leadership of this skill, which matches Advanced; a candidate whose recommendations are already sought out organisation-wide should be rated 4.
+Baseline: 3 — Practitioner. Championing user research and guiding others in prioritising the user story is independent leadership of this skill, which matches Practitioner; a candidate whose recommendations are already sought out organisation-wide should be rated 4.
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with user research or represent users internally.
-- 1 — Beginner: Engages with user research when asked, but does not yet represent users to others.
-- 2 — Intermediate: Represents users internally on straightforward matters, with support distinguishing needs from desires.
-- 3 — Advanced: Champions user research, clearly distinguishes user needs from desires, and guides others in prioritising the user story.
+- 1 — Awareness: Engages with user research when asked, but does not yet represent users to others.
+- 2 — Working: Represents users internally on straightforward matters, with support distinguishing needs from desires.
+- 3 — Practitioner: Champions user research, clearly distinguishes user needs from desires, and guides others in prioritising the user story.
 - 4 — Expert: Is the go-to recommender of tools and methods across the function, and actively coaches others in user-focused practice.
 
 **Evidence to gather**
@@ -269,10 +255,9 @@ Baseline: 3 — Advanced. Championing user research and guiding others in priori
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -281,13 +266,13 @@ Baseline: 3 — Advanced. Championing user research and guiding others in priori
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Business analysis (IT operations) | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
-| Service focus | 3 — Advanced | | |
-| Service management framework knowledge | 3 — Advanced | | |
-| Stakeholder relationship management (IT operations) | 3 — Advanced | | |
-| Strategic thinking | 3 — Advanced | | |
-| User focus | 3 — Advanced | | |
+| Business analysis (IT operations) | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
+| Service focus | 3 — Practitioner | | |
+| Service management framework knowledge | 3 — Practitioner | | |
+| Stakeholder relationship management (IT operations) | 3 — Practitioner | | |
+| Strategic thinking | 3 — Practitioner | | |
+| User focus | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when every skill above is rated at or above its baseline target.
 

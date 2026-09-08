@@ -2,10 +2,80 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Content strategist** role. You are an expert practitioner in content strategy and taxonomy design. You develop governance, processes, and workflows that deliver strategy and policy intent, manage relationships and interdependencies with other content roles, shape and structure content architecture using user-centred design principles, and work with lead content designers to organise teams to deliver outcomes. Your development now is about systems thinking applied to content.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/content-strategist/1-content-strategist.md`](../../../assessments/user-centred-design/content-strategist/1-content-strategist.md)
+- Upskilling: [`upskills/user-centred-design/content-strategist/1-content-strategist.md`](../../../upskills/user-centred-design/content-strategist/1-content-strategist.md)
+
+### Role Level Focus: Content Strategist
+
+- [ ] Design Governance and Workflows: Build governance that delivers strategy and policy intent without strangling teams.
+- [ ] Master Taxonomy Design: Study information architecture and taxonomy seriously, including how they fail.
+- [ ] Shape Content Architecture: Structure content around user needs and journeys, not organisational shape.
+- [ ] Manage Content Role Interdependencies: Keep relationships between content roles clear and productive.
+- [ ] Work With Lead Content Designers: Organise teams together to deliver outcomes.
+- [ ] Learn Content Operations: Study how content is produced, reviewed, published, and retired at scale.
+- [ ] Measure Content Performance: Establish how content effectiveness is actually measured.
+- [ ] Contribute to the Community: Take a visible role in the cross-government content community.
+
+### Skill: Agile working
+
+- [ ] Compare Delivery Methods: Identify the best processes and how to evaluate outcomes.
+- [ ] Help Teams Decide: Support teams in choosing the right approach rather than imposing one.
+- [ ] Visualise Outcomes: Help teams manage and visualise outcomes and prioritise work.
+- [ ] Hold Scope Honestly: Help teams stick to agreed minimum viable product, priorities, and scope.
+
+### Skill: Prototyping
+
+- [ ] Choose the Method: Know when to use a specific prototyping technique.
+- [ ] Show the Value: Demonstrate what prototyping content structures reveals.
+- [ ] Prototype Taxonomies: Test navigation and labelling with users before committing to it.
+- [ ] Test With Real Users: Use card sorting and tree testing to validate structure.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
+- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
+- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
+- [ ] Manage Policy Relationships: Build the relationships with policy colleagues that content depends on.
+
+### Skill: Strategic thinking
+
+- [ ] Lead Strategy Design and Implementation: Own content strategy from drafting through adoption to review.
+- [ ] Direct Strategy Evaluation: Establish how strategies and policies get evaluated against requirements.
+- [ ] Connect to Organisational Direction: Align content strategy with wider organisational strategy.
+- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a director will read.
+
+### Skill: User focus
+
+- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
+- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
+- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
+- [ ] Apply Strategic Thinking: Shape the best content experience for end users.
+
+### Skill: User-centred content design
+
+- [ ] Understand End-to-End Journeys: Show deep understanding of how content works within whole journeys.
+- [ ] Identify Journey Fixes: Spot where journey or content improvements are needed.
+- [ ] Assure Others' Quality: Take responsibility for the quality of junior colleagues' content, and coach them.
+- [ ] Review and Evaluate Regularly: Ensure content is reviewed, evaluated, and iterated.
+- [ ] Encourage Continuous Improvement: Build that mindset in teams and junior colleagues.
+- [ ] Deliver Through Others: Direct and critique others' work rather than doing it all yourself.
+
+### Skill Growth Plan: Beyond Content Strategist
+
+- [ ] Review Adjacent Roles: Read the head of content design, service designer, and head of profession descriptions.
+- [ ] Broaden Beyond Content: Deepen your knowledge of service design and product management.
+- [ ] Build Capability: Take on responsibility for growing content strategy skills in others.
+- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,73 +173,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Content strategist** role. You are an expert practitioner in content strategy and taxonomy design. You develop governance, processes, and workflows that deliver strategy and policy intent, manage relationships and interdependencies with other content roles, shape and structure content architecture using user-centred design principles, and work with lead content designers to organise teams to deliver outcomes. Your development now is about systems thinking applied to content.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/content-strategist/1-content-strategist.md`](../../../assessments/user-centred-design/content-strategist/1-content-strategist.md)
-- Upskilling: [`upskills/user-centred-design/content-strategist/1-content-strategist.md`](../../../upskills/user-centred-design/content-strategist/1-content-strategist.md)
-
-### Role Level Focus: Content Strategist
-
-- [ ] Design Governance and Workflows: Build governance that delivers strategy and policy intent without strangling teams.
-- [ ] Master Taxonomy Design: Study information architecture and taxonomy seriously, including how they fail.
-- [ ] Shape Content Architecture: Structure content around user needs and journeys, not organisational shape.
-- [ ] Manage Content Role Interdependencies: Keep relationships between content roles clear and productive.
-- [ ] Work With Lead Content Designers: Organise teams together to deliver outcomes.
-- [ ] Learn Content Operations: Study how content is produced, reviewed, published, and retired at scale.
-- [ ] Measure Content Performance: Establish how content effectiveness is actually measured.
-- [ ] Contribute to the Community: Take a visible role in the cross-government content community.
-
-### Skill: Agile working
-
-- [ ] Compare Delivery Methods: Identify the best processes and how to evaluate outcomes.
-- [ ] Help Teams Decide: Support teams in choosing the right approach rather than imposing one.
-- [ ] Visualise Outcomes: Help teams manage and visualise outcomes and prioritise work.
-- [ ] Hold Scope Honestly: Help teams stick to agreed minimum viable product, priorities, and scope.
-
-### Skill: Prototyping
-
-- [ ] Choose the Method: Know when to use a specific prototyping technique.
-- [ ] Show the Value: Demonstrate what prototyping content structures reveals.
-- [ ] Prototype Taxonomies: Test navigation and labelling with users before committing to it.
-- [ ] Test With Real Users: Use card sorting and tree testing to validate structure.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
-- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
-- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
-- [ ] Manage Policy Relationships: Build the relationships with policy colleagues that content depends on.
-
-### Skill: Strategic thinking
-
-- [ ] Lead Strategy Design and Implementation: Own content strategy from drafting through adoption to review.
-- [ ] Direct Strategy Evaluation: Establish how strategies and policies get evaluated against requirements.
-- [ ] Connect to Organisational Direction: Align content strategy with wider organisational strategy.
-- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a director will read.
-
-### Skill: User focus
-
-- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
-- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
-- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
-- [ ] Apply Strategic Thinking: Shape the best content experience for end users.
-
-### Skill: User-centred content design
-
-- [ ] Understand End-to-End Journeys: Show deep understanding of how content works within whole journeys.
-- [ ] Identify Journey Fixes: Spot where journey or content improvements are needed.
-- [ ] Assure Others' Quality: Take responsibility for the quality of junior colleagues' content, and coach them.
-- [ ] Review and Evaluate Regularly: Ensure content is reviewed, evaluated, and iterated.
-- [ ] Encourage Continuous Improvement: Build that mindset in teams and junior colleagues.
-- [ ] Deliver Through Others: Direct and critique others' work rather than doing it all yourself.
-
-### Skill Growth Plan: Beyond Content Strategist
-
-- [ ] Review Adjacent Roles: Read the head of content design, service designer, and head of profession descriptions.
-- [ ] Broaden Beyond Content: Deepen your knowledge of service design and product management.
-- [ ] Build Capability: Take on responsibility for growing content strategy skills in others.
-- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.

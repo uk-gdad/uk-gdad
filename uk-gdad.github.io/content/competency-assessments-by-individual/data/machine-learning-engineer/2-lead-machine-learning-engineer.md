@@ -49,20 +49,19 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Data science innovation:
 
-- **3 — Advanced**: they developed a data science solution to a problem the team had
+- **3 — Practitioner**: they developed a data science solution to a problem the team had
   not solved before, using in-depth knowledge of a specific technique.
 - **4 — Expert**: they are recognised as a leader in the organisation's data science
   space, coach engineers to be more curious and creative in their approach, and
@@ -117,18 +116,17 @@ learning engineer level below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Because the framework repeats the senior level's text word for
+Baseline: 3 — Practitioner. Because the framework repeats the senior level's text word for
 word here, the honest baseline for this specific skill is the same as at the level
 below — this level's real step up shows in the other five skills and in the level's own
 accountability bullets, not in a claim this text does not make.
 
 **Behavioural indicators**
 
-- 0 — None: has not applied a quantitative technique to create or embed a model.
-- 1 — Beginner: has followed a technique someone else chose, with close direction.
-- 2 — Intermediate: has applied a named technique such as time series analysis or
+- 1 — Awareness: has followed a technique someone else chose, with close direction.
+- 2 — Working: has applied a named technique such as time series analysis or
   optimisation with some guidance.
-- 3 — Advanced: independently applies techniques such as time series analysis,
+- 3 — Practitioner: independently applies techniques such as time series analysis,
   optimisation or simulation to create and embed models, and advises colleagues on
   matching data sources and techniques to analysis goals.
 - 4 — Expert: is the organisation's point of reference for an unusually difficult
@@ -144,10 +142,9 @@ accountability bullets, not in a claim this text does not make.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -171,11 +168,10 @@ Expert-level, organisation-facing communication.
 
 **Behavioural indicators**
 
-- 0 — None: has not moderated a high-risk or complex stakeholder discussion.
-- 1 — Beginner: has attended a high-risk discussion without leading any part of it.
-- 2 — Intermediate: has managed stakeholder expectations for a moderately complex topic
+- 1 — Awareness: has attended a high-risk discussion without leading any part of it.
+- 2 — Working: has managed stakeholder expectations for a moderately complex topic
   with some support.
-- 3 — Advanced: independently mediates between people and moderates difficult
+- 3 — Practitioner: independently mediates between people and moderates difficult
   discussions about high-risk or complex topics.
 - 4 — Expert: is trusted to speak on behalf of, and represent, the machine learning
   engineering community to large audiences inside and outside the organisation, and to
@@ -192,10 +188,9 @@ Expert-level, organisation-facing communication.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -213,7 +208,7 @@ learning engineer level below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As with Applied maths, statistics and scientific practices, the
+Baseline: 3 — Practitioner. As with Applied maths, statistics and scientific practices, the
 text repeats the level below's, so the honest baseline stays the same rather than
 implying a higher figure the wording does not claim — though this level's own
 accountability to "define and communicate software standards and guidelines related to
@@ -221,12 +216,10 @@ ethics, risk and security" is where the real seniority in this area shows.
 
 **Behavioural indicators**
 
-- 0 — None: has not identified or addressed a data ethics or privacy concern
-  independently.
-- 1 — Beginner: has flagged a concern to someone more senior but not led the response.
-- 2 — Intermediate: has worked with a stakeholder to address a specific ethics concern,
+- 1 — Awareness: has flagged a concern to someone more senior but not led the response.
+- 2 — Working: has worked with a stakeholder to address a specific ethics concern,
   with some guidance.
-- 3 — Advanced: independently identifies and addresses ethics and privacy concerns in
+- 3 — Practitioner: independently identifies and addresses ethics and privacy concerns in
   model work, keeps current with developments, and has constructively challenged a
   proposed data ethics policy.
 - 4 — Expert: defines and communicates the software standards and guidelines the wider
@@ -242,10 +235,9 @@ ethics, risk and security" is where the real seniority in this area shows.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -268,12 +260,11 @@ explicit teach-and-guide-others, mastery-level expectations.
 
 **Behavioural indicators**
 
-- 0 — None: cannot demonstrate in-depth knowledge of data science tools or techniques.
-- 1 — Beginner: has practical, not in-depth, knowledge of data science tools and
+- 1 — Awareness: has practical, not in-depth, knowledge of data science tools and
   techniques.
-- 2 — Intermediate: has applied in-depth knowledge to solve one problem creatively,
+- 2 — Working: has applied in-depth knowledge to solve one problem creatively,
   with some support.
-- 3 — Advanced: independently applies in-depth knowledge to solve problems creatively
+- 3 — Practitioner: independently applies in-depth knowledge to solve problems creatively
   and create opportunities for the team.
 - 4 — Expert: is recognised as a leader in the data science space, coaches others to be
   more curious and creative, keeps up to date with the wider industry, and actively
@@ -290,10 +281,9 @@ explicit teach-and-guide-others, mastery-level expectations.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -316,12 +306,11 @@ teach-and-guide-others, mastery-level ownership.
 
 **Behavioural indicators**
 
-- 0 — None: has not held technical responsibility across a project's stages.
-- 1 — Beginner: has delivered one stage of a project under someone else's technical
+- 1 — Awareness: has delivered one stage of a project under someone else's technical
   responsibility.
-- 2 — Intermediate: has held technical responsibility for a defined part of a project,
+- 2 — Working: has held technical responsibility for a defined part of a project,
   with support.
-- 3 — Advanced: independently maintains technical responsibility for a project's stages
+- 3 — Practitioner: independently maintains technical responsibility for a project's stages
   and iterations, and advises on applying standards.
 - 4 — Expert: sets the team-based standards for programming tools and techniques and
   provides technical advice directly to stakeholders on compliance.
@@ -336,10 +325,9 @@ teach-and-guide-others, mastery-level ownership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -361,11 +349,10 @@ ownership.
 
 **Behavioural indicators**
 
-- 0 — None: has not established a systems integration standard or procedure for others.
-- 1 — Beginner: has followed a systems integration procedure someone else set.
-- 2 — Intermediate: has contributed to a procedure and helped check adherence, with
+- 1 — Awareness: has followed a systems integration procedure someone else set.
+- 2 — Working: has contributed to a procedure and helped check adherence, with
   guidance.
-- 3 — Advanced: independently establishes standards and procedures for a project and
+- 3 — Practitioner: independently establishes standards and procedures for a project and
   checks adherence.
 - 4 — Expert: establishes standards and procedures across the service and development
   product life cycles, ensures practitioners adhere to them, and manages the resources
@@ -381,10 +368,9 @@ ownership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

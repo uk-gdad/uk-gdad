@@ -2,10 +2,85 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **User researcher** role at the **Senior user researcher** level. You are an experienced practitioner who plans and leads research in larger teams and on more complex services, builds user-centred practices in new teams, aligns research with wider plans to inform a service proposition, and supervises and develops other researchers. Your development now is about leadership, assurance, and strategic framing.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/user-researcher/4-senior-user-researcher.md`](../../../assessments/user-centred-design/user-researcher/4-senior-user-researcher.md)
+- Upskilling: [`upskills/user-centred-design/user-researcher/4-senior-user-researcher.md`](../../../upskills/user-centred-design/user-researcher/4-senior-user-researcher.md)
+
+### Role Level Focus: Senior User Researcher
+
+- [ ] Lead Complex Research: Plan and lead research on services with genuinely complex journeys.
+- [ ] Build Practices in New Teams: Take a team new to research and establish good practice with them.
+- [ ] Align to the Proposition: Connect research plans to the wider service proposition and roadmap.
+- [ ] Supervise Researchers: Develop others with agreed goals, cadence, and review points.
+- [ ] Assure Research Quality: Establish how research quality is checked and improved.
+- [ ] Convince the Sceptical: Build the skill of winning over colleagues who doubt research.
+- [ ] Contribute to the Community: Take a visible role in the cross-government research community.
+
+### Skill: Agile research practices
+
+- [ ] Advocate for Agile Working: Make the case for iterative, evidence-led delivery.
+- [ ] Adapt to Complexity: Design and conduct research that responds to a complex product environment.
+- [ ] Understand Strategic Decisions: Know what decisions the team faces so you can design useful research.
+- [ ] Influence Priorities: Shape decisions about priorities and Agile processes in the team.
+
+### Skill: Analysis and synthesis
+
+- [ ] Apply a Range of Methods: Help teams use varied analysis and synthesis techniques.
+- [ ] Engage Sceptical Colleagues: Get doubters into analysis, where their scepticism helps.
+- [ ] Advise on Technique: Recommend the right approach and explain why.
+- [ ] Critique Findings: Review colleagues' findings to assure good practice.
+
+### Skill: Inclusive research
+
+- [ ] Help Teams Understand Diversity: Build the team's understanding of who uses government services.
+- [ ] Include All Kinds of Users: Ensure research activities genuinely reach diverse participants.
+- [ ] Advocate Inclusive Practice: Help teams design and deliver accessible services for everyone.
+- [ ] Remove Participation Barriers: Design research that people can actually take part in.
+
+### Skill: Research management, leadership and assurance
+
+- [ ] Evaluate Research Quality: Assess research against accepted professional standards.
+- [ ] Explain Good Practice: Articulate what good user research involves and why.
+- [ ] Give Constructive Feedback: Help other researchers meet good practice standards.
+- [ ] Own Ethics and Safeguarding: Take responsibility for ethical practice in the research you lead.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Develop Team Understanding: Build a shared view of stakeholders with the team.
+- [ ] Implement Communication Strategies: Develop and run stakeholder communication strategies.
+- [ ] Resolve Issues and Influence: Identify and resolve issues before they become blockers.
+- [ ] Build Long-Term Relationships: Invest in relationships that outlast individual projects.
+
+### Skill: User research methods
+
+- [ ] Use a Wide Range of Methods: Build genuine breadth and help teams adopt new methods.
+- [ ] Plan for Complex Journeys: Design research for services with challenging needs and complex journeys.
+- [ ] Advise on Method Choice: Guide colleagues on choosing and applying methods well.
+- [ ] Learn Quantitative Techniques: Add survey design and behavioural analytics to your repertoire.
+
+### Skill: User-centred practice and advocacy
+
+- [ ] Choose Understanding-Building Approaches: Evaluate and pick approaches that build the team's user understanding.
+- [ ] Advocate With Sceptics: Win over doubtful colleagues and stakeholders with evidence.
+- [ ] Help Inexperienced Teams: Support teams new to user-centred practice.
+- [ ] Identify Key Challenges: Name the most important challenges and opportunities for your service.
+- [ ] Align Plans to Priorities: Make research plans serve team priorities.
+
+### Skill Growth Plan: Toward Lead User Researcher
+
+- [ ] Review the Next Level: Read the Lead user researcher skill descriptions and mark your gaps.
+- [ ] Align Across Teams: Take responsibility for research across several teams.
+- [ ] Set Standards: Own a research standard, including ethics and safeguarding.
+- [ ] Produce Strategic Insight: Synthesise across studies to inform the organisation's roadmap.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,78 +178,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **User researcher** role at the **Senior user researcher** level. You are an experienced practitioner who plans and leads research in larger teams and on more complex services, builds user-centred practices in new teams, aligns research with wider plans to inform a service proposition, and supervises and develops other researchers. Your development now is about leadership, assurance, and strategic framing.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/user-researcher/4-senior-user-researcher.md`](../../../assessments/user-centred-design/user-researcher/4-senior-user-researcher.md)
-- Upskilling: [`upskills/user-centred-design/user-researcher/4-senior-user-researcher.md`](../../../upskills/user-centred-design/user-researcher/4-senior-user-researcher.md)
-
-### Role Level Focus: Senior User Researcher
-
-- [ ] Lead Complex Research: Plan and lead research on services with genuinely complex journeys.
-- [ ] Build Practices in New Teams: Take a team new to research and establish good practice with them.
-- [ ] Align to the Proposition: Connect research plans to the wider service proposition and roadmap.
-- [ ] Supervise Researchers: Develop others with agreed goals, cadence, and review points.
-- [ ] Assure Research Quality: Establish how research quality is checked and improved.
-- [ ] Convince the Sceptical: Build the skill of winning over colleagues who doubt research.
-- [ ] Contribute to the Community: Take a visible role in the cross-government research community.
-
-### Skill: Agile research practices
-
-- [ ] Advocate for Agile Working: Make the case for iterative, evidence-led delivery.
-- [ ] Adapt to Complexity: Design and conduct research that responds to a complex product environment.
-- [ ] Understand Strategic Decisions: Know what decisions the team faces so you can design useful research.
-- [ ] Influence Priorities: Shape decisions about priorities and Agile processes in the team.
-
-### Skill: Analysis and synthesis
-
-- [ ] Apply a Range of Methods: Help teams use varied analysis and synthesis techniques.
-- [ ] Engage Sceptical Colleagues: Get doubters into analysis, where their scepticism helps.
-- [ ] Advise on Technique: Recommend the right approach and explain why.
-- [ ] Critique Findings: Review colleagues' findings to assure good practice.
-
-### Skill: Inclusive research
-
-- [ ] Help Teams Understand Diversity: Build the team's understanding of who uses government services.
-- [ ] Include All Kinds of Users: Ensure research activities genuinely reach diverse participants.
-- [ ] Advocate Inclusive Practice: Help teams design and deliver accessible services for everyone.
-- [ ] Remove Participation Barriers: Design research that people can actually take part in.
-
-### Skill: Research management, leadership and assurance
-
-- [ ] Evaluate Research Quality: Assess research against accepted professional standards.
-- [ ] Explain Good Practice: Articulate what good user research involves and why.
-- [ ] Give Constructive Feedback: Help other researchers meet good practice standards.
-- [ ] Own Ethics and Safeguarding: Take responsibility for ethical practice in the research you lead.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Develop Team Understanding: Build a shared view of stakeholders with the team.
-- [ ] Implement Communication Strategies: Develop and run stakeholder communication strategies.
-- [ ] Resolve Issues and Influence: Identify and resolve issues before they become blockers.
-- [ ] Build Long-Term Relationships: Invest in relationships that outlast individual projects.
-
-### Skill: User research methods
-
-- [ ] Use a Wide Range of Methods: Build genuine breadth and help teams adopt new methods.
-- [ ] Plan for Complex Journeys: Design research for services with challenging needs and complex journeys.
-- [ ] Advise on Method Choice: Guide colleagues on choosing and applying methods well.
-- [ ] Learn Quantitative Techniques: Add survey design and behavioural analytics to your repertoire.
-
-### Skill: User-centred practice and advocacy
-
-- [ ] Choose Understanding-Building Approaches: Evaluate and pick approaches that build the team's user understanding.
-- [ ] Advocate With Sceptics: Win over doubtful colleagues and stakeholders with evidence.
-- [ ] Help Inexperienced Teams: Support teams new to user-centred practice.
-- [ ] Identify Key Challenges: Name the most important challenges and opportunities for your service.
-- [ ] Align Plans to Priorities: Make research plans serve team priorities.
-
-### Skill Growth Plan: Toward Lead User Researcher
-
-- [ ] Review the Next Level: Read the Lead user researcher skill descriptions and mark your gaps.
-- [ ] Align Across Teams: Take responsibility for research across several teams.
-- [ ] Set Standards: Own a research standard, including ethics and safeguarding.
-- [ ] Produce Strategic Insight: Synthesise across studies to inform the organisation's roadmap.

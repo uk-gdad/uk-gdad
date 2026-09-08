@@ -51,22 +51,21 @@ still building.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone performs the skill, on the evidence available, not how often they do
 it or how they feel about it.
 
 **Worked example — Data governance.**
 
-- At **1 — Beginner**, someone can describe what a data governance framework
+- At **1 — Awareness**, someone can describe what a data governance framework
   is and why an organisation needs one, but has not designed or run one
   themselves; they might explain the idea of a RACI matrix in the abstract
   without having assigned data ownership on it.
-- At **3 — Advanced**, someone has designed and implemented a data governance
+- At **3 — Practitioner**, someone has designed and implemented a data governance
   framework for a team or directorate, working largely independently, and can
   point to policies, standards or compliance processes they put in place and
   maintained.
@@ -139,14 +138,12 @@ own wording sets the bar at mastery rather than competence.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot put together a coherent narrative from a data set or an
-  analysis; presents raw findings without a story or a recommendation.
-- 1 — Beginner: Can summarise a straightforward analysis for a familiar
+- 1 — Awareness: Can summarise a straightforward analysis for a familiar
   audience, but the story is unclear or the chosen medium does not suit the
   audience, and needs help from someone more senior to make it land.
-- 2 — Intermediate: Produces a clear, accurate summary of an analysis for one
+- 2 — Working: Produces a clear, accurate summary of an analysis for one
   audience, such as their own team, with some coaching on framing and medium.
-- 3 — Advanced: Independently builds a compelling narrative from complex
+- 3 — Practitioner: Independently builds a compelling narrative from complex
   analysis, chooses the right medium for a directorate-level audience, and
   makes a tactical recommendation that stakeholders act on.
 - 4 — Expert: Turns complex, ambiguous analysis into a compelling strategic
@@ -168,10 +165,9 @@ own wording sets the bar at mastery rather than competence.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -196,16 +192,13 @@ not asked to do.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to translate a technical governance issue for a
-  non-technical audience, or the reverse; discussions stall or escalate
-  rather than resolve.
-- 1 — Beginner: Can explain a simple technical point to a non-technical
+- 1 — Awareness: Can explain a simple technical point to a non-technical
   colleague one-to-one, with preparation, but avoids high-stakes or
   contested conversations.
-- 2 — Intermediate: Mediates routine disagreements between technical and
+- 2 — Working: Mediates routine disagreements between technical and
   non-technical colleagues on their own team, adjusting language for the
   audience with some support.
-- 3 — Advanced: Moderates a difficult discussion about a high-risk or complex
+- 3 — Practitioner: Moderates a difficult discussion about a high-risk or complex
   governance topic between stakeholders at different levels, and reaches a
   workable outcome unsupervised.
 - 4 — Expert: Is sought out to defuse a genuinely difficult, time-constrained,
@@ -225,10 +218,9 @@ not asked to do.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -252,14 +244,12 @@ are organisation-wide leadership accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify a data ethics or privacy risk in a scenario, or
-  applies ethics and legislation inconsistently.
-- 1 — Beginner: Recognises an obvious data ethics or privacy issue, such as
+- 1 — Awareness: Recognises an obvious data ethics or privacy issue, such as
   using data outside its stated purpose, once pointed to it, but needs
   guidance on what to do about it.
-- 2 — Intermediate: Applies an existing data ethics framework correctly to a
+- 2 — Working: Applies an existing data ethics framework correctly to a
   routine piece of work, with some support on edge cases.
-- 3 — Advanced: Reviews and improves a data ethics framework for their own
+- 3 — Practitioner: Reviews and improves a data ethics framework for their own
   area, and can explain to a policy team where a proposed programme falls
   short of it.
 - 4 — Expert: Owns compliance with data ethics standards and relevant
@@ -278,10 +268,9 @@ are organisation-wide leadership accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -307,15 +296,13 @@ throughout the organisation as this level's defining accountability.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a data governance strategy is, or why an
-  organisation needs one distinct from individual policies.
-- 1 — Beginner: Understands individual governance policies but has not
+- 1 — Awareness: Understands individual governance policies but has not
   connected them into a coherent strategy, or has worked only within a
   strategy someone else designed.
-- 2 — Intermediate: Implements and monitors an existing data governance
+- 2 — Working: Implements and monitors an existing data governance
   framework for a team or system, with guidance on how it fits the wider
   strategy.
-- 3 — Advanced: Designs and runs data governance for a large part of the
+- 3 — Practitioner: Designs and runs data governance for a large part of the
   organisation across the data life cycle, largely independently.
 - 4 — Expert: Has defined a data governance strategy for a whole
   organisation, connected it explicitly to the organisation's wider
@@ -333,10 +320,9 @@ throughout the organisation as this level's defining accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -351,20 +337,18 @@ innovative ways of working.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework asks this level to scan and introduce
+Baseline: 3 — Practitioner. The framework asks this level to scan and introduce
 new approaches, not to have already made the organisation a recognised
-innovator, so Advanced — independent, credible horizon-scanning that leads to
+innovator, so Practitioner — independent, credible horizon-scanning that leads to
 real change — is the fair baseline rather than Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Unaware of emerging trends in data governance or data management
-  approaches relevant to their organisation.
-- 1 — Beginner: Can name a trend or emerging approach they have read about,
+- 1 — Awareness: Can name a trend or emerging approach they have read about,
   but has not assessed its relevance or tried it.
-- 2 — Intermediate: Investigates an emerging approach and reports on its
+- 2 — Working: Investigates an emerging approach and reports on its
   relevance to the organisation, with support in judging priority.
-- 3 — Advanced: Independently horizon-scans, identifies which emerging
+- 3 — Practitioner: Independently horizon-scans, identifies which emerging
   approaches matter for the organisation, and introduces at least one new way
   of working as a result.
 - 4 — Expert: Is a recognised source of horizon-scanning insight beyond their
@@ -382,10 +366,9 @@ real change — is the fair baseline rather than Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -408,14 +391,12 @@ one system.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the stages of a data life cycle or where
-  governance applies at each stage.
-- 1 — Beginner: Can describe the data life cycle in general terms, but has
+- 1 — Awareness: Can describe the data life cycle in general terms, but has
   not applied governance consistently across its stages.
-- 2 — Intermediate: Applies governance structures at specific stages of a
+- 2 — Working: Applies governance structures at specific stages of a
   data life cycle for a system or team, with guidance on the stages they have
   not covered.
-- 3 — Advanced: Ensures governance structures and best practice are applied
+- 3 — Practitioner: Ensures governance structures and best practice are applied
   consistently across the whole data life cycle for a significant part of
   the organisation.
 - 4 — Expert: Owns the organisation's data governance structures and
@@ -436,10 +417,9 @@ one system.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -463,13 +443,11 @@ single team.
 
 **Behavioural indicators**
 
-- 0 — None: Has not engaged with data literacy as an organisational issue, or
-  treats it as someone else's responsibility.
-- 1 — Beginner: Runs or supports a data literacy activity, such as a training
+- 1 — Awareness: Runs or supports a data literacy activity, such as a training
   session or a lunchtime talk, when asked, without a wider plan.
-- 2 — Intermediate: Plans and delivers data literacy improvement for their
+- 2 — Working: Plans and delivers data literacy improvement for their
   own team, with support in scaling it further.
-- 3 — Advanced: Owns a data literacy improvement plan for a significant part
+- 3 — Practitioner: Owns a data literacy improvement plan for a significant part
   of the organisation, and has visibly moved the needle for a group of
   employees beyond their own team.
 - 4 — Expert: Takes responsibility for improving data literacy across the
@@ -488,10 +466,9 @@ single team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -515,13 +492,11 @@ expert-level ownership accountability.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how data management responsibilities should be
-  assigned, or what tools or training a data management process needs.
-- 1 — Beginner: Follows data management processes someone else defined,
+- 1 — Awareness: Follows data management processes someone else defined,
   without leading or improving them.
-- 2 — Intermediate: Leads data management processes for their own team, with
+- 2 — Working: Leads data management processes for their own team, with
   guidance on scaling to the wider organisation.
-- 3 — Advanced: Champions and leads data management and governance processes
+- 3 — Practitioner: Champions and leads data management and governance processes
   across a significant part of the organisation, largely independently.
 - 4 — Expert: Defines data management responsibilities, tools and training
   requirements at organisational scale, and can point to a continuous
@@ -540,10 +515,9 @@ expert-level ownership accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -559,21 +533,19 @@ maturity improvement plans.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Overseeing implementation, assuring, and reporting is
+Baseline: 3 — Practitioner. Overseeing implementation, assuring, and reporting is
 significant senior responsibility, but it is delivery and reporting against a
-model rather than defining organisational strategy from scratch, so Advanced
+model rather than defining organisational strategy from scratch, so Practitioner
 is the fairer baseline; someone who has also designed the maturity model
 itself should be rated higher.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a data maturity model measures or why an
-  organisation would use one.
-- 1 — Beginner: Understands the concept of a data maturity model, but has not
+- 1 — Awareness: Understands the concept of a data maturity model, but has not
   overseen an assessment or reported findings.
-- 2 — Intermediate: Runs a data maturity assessment for part of the
+- 2 — Working: Runs a data maturity assessment for part of the
   organisation, with support in reporting findings upward.
-- 3 — Advanced: Oversees implementation of the organisation's data maturity
+- 3 — Practitioner: Oversees implementation of the organisation's data maturity
   model, works with senior stakeholders to provide assurance, and reports
   findings to a board or committee independently.
 - 4 — Expert: Does all of the above, and has shaped the maturity model itself
@@ -591,10 +563,9 @@ itself should be rated higher.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -616,13 +587,11 @@ the most senior framing any skill in this level carries.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why an organisation needs data standards, or
-  point to any it follows.
-- 1 — Beginner: Follows data standards someone else created, without input
+- 1 — Awareness: Follows data standards someone else created, without input
   into what they should cover.
-- 2 — Intermediate: Drafts a data standard for a specific system or process,
+- 2 — Working: Drafts a data standard for a specific system or process,
   with guidance on organisation-wide fit.
-- 3 — Advanced: Creates data standards for a significant part of the
+- 3 — Practitioner: Creates data standards for a significant part of the
   organisation, and oversees compliance with them, largely independently.
 - 4 — Expert: Creates organisation-wide data standards, decides where new
   standards are needed, and judges how to position them in the wider context
@@ -640,10 +609,9 @@ the most senior framing any skill in this level carries.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -664,13 +632,11 @@ wording.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot apply a risk methodology to a data governance scenario, or
-  defers every risk judgement upward.
-- 1 — Beginner: Applies a simple, well-defined risk methodology to a routine
+- 1 — Awareness: Applies a simple, well-defined risk methodology to a routine
   scenario, with supervision.
-- 2 — Intermediate: Assesses moderate-complexity data risks and proposes a
+- 2 — Working: Assesses moderate-complexity data risks and proposes a
   course of action, with some guidance from a more senior colleague.
-- 3 — Advanced: Is trusted to assess and act on genuinely difficult data risk
+- 3 — Practitioner: Is trusted to assess and act on genuinely difficult data risk
   scenarios independently, without needing to escalate.
 - 4 — Expert: Is the named escalation point when others cannot resolve a
   risk, is trusted by senior risk owners as the expert, and applies risk
@@ -688,10 +654,9 @@ wording.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -715,13 +680,11 @@ influencers".
 
 **Behavioural indicators**
 
-- 0 — None: Has no consistent approach to managing stakeholder relationships;
-  reacts to stakeholder issues as they arise rather than managing them.
-- 1 — Beginner: Maintains a working relationship with a small number of
+- 1 — Awareness: Maintains a working relationship with a small number of
   familiar stakeholders, with support on anything contentious.
-- 2 — Intermediate: Manages a set of stakeholder relationships for their own
+- 2 — Working: Manages a set of stakeholder relationships for their own
   team and helps set stakeholders' objectives, with some guidance.
-- 3 — Advanced: Directs a stakeholder relationship strategy for their teams
+- 3 — Practitioner: Directs a stakeholder relationship strategy for their teams
   and negotiates with stakeholders to resolve issues, mostly unsupervised.
 - 4 — Expert: Maintains effective long-term relationships with senior
   decision-makers and influencers, and can point to a specific negotiation
@@ -739,10 +702,9 @@ influencers".
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -763,14 +725,12 @@ this skill can carry.
 
 **Behavioural indicators**
 
-- 0 — None: Thinks only in terms of immediate tasks; cannot connect a piece
-  of work to organisational strategy.
-- 1 — Beginner: Understands the organisation's strategy when it is
+- 1 — Awareness: Understands the organisation's strategy when it is
   explained, but has not contributed to shaping it.
-- 2 — Intermediate: Contributes ideas to strategy or policy discussions, and
+- 2 — Working: Contributes ideas to strategy or policy discussions, and
   evaluates whether a specific initiative meets business requirements, with
   guidance.
-- 3 — Advanced: Leads the design of strategy or policy for a significant part
+- 3 — Practitioner: Leads the design of strategy or policy for a significant part
   of the organisation, largely independently.
 - 4 — Expert: Leads the design and implementation of strategy at
   organisational scale, and directs the evaluation of strategies and
@@ -789,10 +749,9 @@ this skill can carry.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -805,11 +764,11 @@ this skill can carry.
 | Communicating between the technical and non-technical | 4 — Expert | | |
 | Data ethics and privacy | 4 — Expert | | |
 | Data governance | 4 — Expert | | |
-| Data innovation | 3 — Advanced | | |
+| Data innovation | 3 — Practitioner | | |
 | Data life cycle | 4 — Expert | | |
 | Data literacy improvement | 4 — Expert | | |
 | Data management | 4 — Expert | | |
-| Data maturity | 3 — Advanced | | |
+| Data maturity | 3 — Practitioner | | |
 | Data standards | 4 — Expert | | |
 | Enabling and informing risk-based decisions | 4 — Expert | | |
 | Stakeholder relationship management | 4 — Expert | | |

@@ -2,7 +2,7 @@
 
 A self-rating competency assessment per role level: the same skill-by-skill
 matrix as [`uk-gdad-pcf-competency-assessments-by-assessor`](../uk-gdad-pcf-competency-assessments-by-assessor),
-rated 0–4 against observable behaviour, but completed by the reader about
+rated 1–4 against observable behaviour, but completed by the reader about
 themselves rather than by a manager, panel or reviewer about someone else.
 Not a validated assessment instrument — see the advisory in every file.
 

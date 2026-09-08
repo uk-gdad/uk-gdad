@@ -49,29 +49,27 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — it rates how well someone does the
 thing, on the evidence available, not how often they do it or how they feel
 about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Data visualisation.** The framework expects an associate
 data analyst to "develop and use an appropriate data visualisation under
-supervision to tell a meaningful story that is relevant to set goals". Someone who, given a simple data set and a chart type, cannot produce a
-readable chart even with help is showing **0 — None**. Someone who, with
+supervision to tell a meaningful story that is relevant to set goals". Someone who, with
 guidance, builds a simple bar or line chart that correctly shows the data and
-can say what story it tells is showing **1 — Beginner** — the baseline this
+can say what story it tells is showing **1 — Awareness** — the baseline this
 level expects. Someone who, unprompted, chooses the right chart type for
 the message and checks it is accessible (for example, that colour is not the
 only way information is conveyed) is showing evidence closer to
-**2 — Intermediate**, above this level's own baseline.
+**2 — Working**, above this level's own baseline.
 
 ## About this role level
 
@@ -119,19 +117,17 @@ independent analysis.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Support... under supervision" and "explain the
+Baseline: 1 — Awareness. "Support... under supervision" and "explain the
 benefits" describe knowledge plus first attempts rather than independent
-analytical work, so the baseline sits at the first rung above None.
+analytical work, so the baseline sits at the scale’s first rung.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a basic statistical technique, such as an average
-  or a simple trend line, might be useful.
-- 1 — Beginner: Explains, when asked, why a basic technique is useful and
+- 1 — Awareness: Explains, when asked, why a basic technique is useful and
   contributes to a statistical report under close supervision.
-- 2 — Intermediate: Applies a basic statistical technique with only light
+- 2 — Working: Applies a basic statistical technique with only light
   guidance and checks the result makes sense.
-- 3 — Advanced: Independently selects and applies appropriate statistical
+- 3 — Practitioner: Independently selects and applies appropriate statistical
   techniques to answer a research question.
 - 4 — Expert: Develops and teaches others a range of statistical techniques.
 
@@ -145,10 +141,9 @@ analytical work, so the baseline sits at the first rung above None.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -164,20 +159,18 @@ stakeholders, and their impact.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. As with the other "explain" bullets at this level,
+Baseline: 1 — Awareness. As with the other "explain" bullets at this level,
 this is knowledge of the idea rather than demonstrated communication skill
-under real conditions, so the baseline sits at Beginner.
+under real conditions, so the baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a technical explanation might confuse a
-  non-technical colleague.
-- 1 — Beginner: Explains why jargon should be avoided with a non-technical
+- 1 — Awareness: Explains why jargon should be avoided with a non-technical
   audience, and names a couple of communication channels and roughly how they
   differ.
-- 2 — Intermediate: Adapts a short explanation for a specific non-technical
+- 2 — Working: Adapts a short explanation for a specific non-technical
   audience with some coaching.
-- 3 — Advanced: Independently tailors technical explanations to different
+- 3 — Practitioner: Independently tailors technical explanations to different
   stakeholders.
 - 4 — Expert: Coaches others in adapting technical communication.
 
@@ -190,10 +183,9 @@ under real conditions, so the baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -208,17 +200,16 @@ discuss ethical issues, with support.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Explaining importance and identifying channels with
-support is awareness plus a first practical step, which fits Beginner.
+Baseline: 1 — Awareness. Explaining importance and identifying channels with
+support is awareness plus a first practical step, which fits Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why data ethics or privacy matters in their work.
-- 1 — Beginner: Explains why data ethics and privacy matter, and, with
+- 1 — Awareness: Explains why data ethics and privacy matter, and, with
   support, can say who they would raise a concern with.
-- 2 — Intermediate: Independently identifies the right channel to raise an
+- 2 — Working: Independently identifies the right channel to raise an
   ethical or privacy concern.
-- 3 — Advanced: Proactively spots and raises ethical or privacy risks in their
+- 3 — Practitioner: Proactively spots and raises ethical or privacy risks in their
   own work before being asked.
 - 4 — Expert: Advises others on data ethics and privacy risk.
 
@@ -233,10 +224,9 @@ support is awareness plus a first practical step, which fits Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -251,17 +241,16 @@ methods relate to a specific project.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Both bullets ask for explanation rather than applying
-governance independently, so the baseline sits at Beginner.
+Baseline: 1 — Awareness. Both bullets ask for explanation rather than applying
+governance independently, so the baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why data governance policies exist.
-- 1 — Beginner: Explains, in general terms, why data governance matters and
+- 1 — Awareness: Explains, in general terms, why data governance matters and
   how a specific tool or method relates to a project they have worked on.
-- 2 — Intermediate: Follows data governance policy in their own work with
+- 2 — Working: Follows data governance policy in their own work with
   only light supervision.
-- 3 — Advanced: Applies data governance policy independently and spots when a
+- 3 — Practitioner: Applies data governance policy independently and spots when a
   project's data management approach does not fit the policy.
 - 4 — Expert: Champions and improves data governance practice for others.
 
@@ -274,10 +263,9 @@ governance independently, so the baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -294,19 +282,17 @@ supervision, contributing to making it fit for purpose.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Under supervision" and "identify appropriate
+Baseline: 1 — Awareness. "Under supervision" and "identify appropriate
 channels... to learn" describe a guided first step into real data preparation
-work, so the baseline sits at Beginner.
+work, so the baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify an obvious data quality issue, such as a missing
-  or duplicated value, even when pointed at it.
-- 1 — Beginner: With supervision, prepares and cleanses a simple data set,
+- 1 — Awareness: With supervision, prepares and cleanses a simple data set,
   identifies an obvious data quality issue, and suggests a plausible fix.
-- 2 — Intermediate: Prepares and cleanses moderately complex data with only
+- 2 — Working: Prepares and cleanses moderately complex data with only
   light supervision.
-- 3 — Advanced: Independently plans and prepares data for a data model.
+- 3 — Practitioner: Independently plans and prepares data for a data model.
 - 4 — Expert: Develops analytical data models and mentors others in data
   quality practice.
 
@@ -320,10 +306,9 @@ work, so the baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -340,20 +325,18 @@ recognise different user needs.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Under supervision" caps the practical expectation,
+Baseline: 1 — Awareness. "Under supervision" caps the practical expectation,
 while the accessibility point is still at "explain why it's important" rather
-than demonstrated practice, so the baseline sits at Beginner.
+than demonstrated practice, so the baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot produce a readable chart from a simple data set, even with
-  help.
-- 1 — Beginner: With guidance, builds a simple, correct chart from a small
+- 1 — Awareness: With guidance, builds a simple, correct chart from a small
   data set and explains what story it tells; can say why accessible design
   matters.
-- 2 — Intermediate: Chooses an appropriate chart type unprompted and applies
+- 2 — Working: Chooses an appropriate chart type unprompted and applies
   basic accessible design principles, such as not relying on colour alone.
-- 3 — Advanced: Independently develops a range of visualisations tailored to
+- 3 — Practitioner: Independently develops a range of visualisations tailored to
   different audiences.
 - 4 — Expert: Sets visualisation standards and mentors others in accessible
   design.
@@ -368,10 +351,9 @@ than demonstrated practice, so the baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -387,19 +369,17 @@ analysis to meet business requirements.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Contribute to" and "explain" describe supporting
+Baseline: 1 — Awareness. "Contribute to" and "explain" describe supporting
 work and understanding rather than independently delivering a data product,
-so the baseline sits at Beginner.
+so the baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why understanding the organisation's priorities
-  matters for their work.
-- 1 — Beginner: Explains why organisational priorities matter and describes a
+- 1 — Awareness: Explains why organisational priorities matter and describes a
   small contribution they made to a data product.
-- 2 — Intermediate: Identifies, with some support, how a piece of analysis
+- 2 — Working: Identifies, with some support, how a piece of analysis
   aligns to a specific business requirement.
-- 3 — Advanced: Independently develops and delivers a data product that aligns
+- 3 — Practitioner: Independently develops and delivers a data product that aligns
   to organisational priorities.
 - 4 — Expert: Champions the role of data in delivering business impact across
   the organisation.
@@ -413,10 +393,9 @@ so the baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -432,17 +411,16 @@ code.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Writing simple code "with support" is a first,
-guided step, so the baseline sits at Beginner.
+Baseline: 1 — Awareness. Writing simple code "with support" is a first,
+guided step, so the baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot write even a simple line of analytical code with support.
-- 1 — Beginner: Writes simple code with support to carry out a basic
+- 1 — Awareness: Writes simple code with support to carry out a basic
   analytical task, and explains why documenting the approach matters.
-- 2 — Intermediate: Writes simple code with only light support and documents
+- 2 — Working: Writes simple code with only light support and documents
   it adequately.
-- 3 — Advanced: Independently designs an analytical approach and the code to
+- 3 — Practitioner: Independently designs an analytical approach and the code to
   implement it.
 - 4 — Expert: Sets coding standards and reviews others' analytical code.
 
@@ -456,10 +434,9 @@ guided step, so the baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -477,18 +454,17 @@ identical wording each time; the bullets are merged here into one block.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Every bullet asks for understanding and explanation,
+Baseline: 1 — Awareness. Every bullet asks for understanding and explanation,
 not for running or contributing structured activity to a project, so the
-baseline sits at Beginner.
+baseline sits at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a given data project is trying to achieve.
-- 1 — Beginner: Explains, in their own words, what a data project's problem
+- 1 — Awareness: Explains, in their own words, what a data project's problem
   statement means and why data matters to solving it.
-- 2 — Intermediate: Contributes to defining a problem statement or gathering
+- 2 — Working: Contributes to defining a problem statement or gathering
   requirements for a data project, with support.
-- 3 — Advanced: Independently plans and implements stages of a data project's
+- 3 — Practitioner: Independently plans and implements stages of a data project's
   life cycle.
 - 4 — Expert: Advises on problem statement development and project life cycle
   planning for others.
@@ -502,10 +478,9 @@ baseline sits at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -514,15 +489,15 @@ baseline sits at Beginner.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Applying statistical and analytical tools and techniques | 1 — Beginner | | |
-| Communicating between the technical and non-technical | 1 — Beginner | | |
-| Data ethics and privacy | 1 — Beginner | | |
-| Data management | 1 — Beginner | | |
-| Data preparation and linkage | 1 — Beginner | | |
-| Data visualisation | 1 — Beginner | | |
-| Delivering business impact through data | 1 — Beginner | | |
-| Developing code for analysis | 1 — Beginner | | |
-| Managing a data project | 1 — Beginner | | |
+| Applying statistical and analytical tools and techniques | 1 — Awareness | | |
+| Communicating between the technical and non-technical | 1 — Awareness | | |
+| Data ethics and privacy | 1 — Awareness | | |
+| Data management | 1 — Awareness | | |
+| Data preparation and linkage | 1 — Awareness | | |
+| Data visualisation | 1 — Awareness | | |
+| Delivering business impact through data | 1 — Awareness | | |
+| Developing code for analysis | 1 — Awareness | | |
+| Managing a data project | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

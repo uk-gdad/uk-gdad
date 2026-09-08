@@ -52,15 +52,14 @@ risk.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it or
@@ -136,7 +135,7 @@ role would work within them.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Setting and iterating standards, and running
+Baseline: 3 — Practitioner. Setting and iterating standards, and running
 experiments to enhance delivery outcomes, describe strong independent
 ownership of how the service delivers; the framework's wording for this
 skill is about shaping standards within the service rather than teaching
@@ -145,12 +144,10 @@ baseline stops short of Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why one delivery methodology might suit a
-  service better than another.
-- 1 — Beginner: Follows a delivery methodology set up by someone else.
-- 2 — Intermediate: Applies an established methodology to their own team
+- 1 — Awareness: Follows a delivery methodology set up by someone else.
+- 2 — Working: Applies an established methodology to their own team
   with some support.
-- 3 — Advanced: Sets and iterates standards for how their service works
+- 3 — Practitioner: Sets and iterates standards for how their service works
   within a delivery methodology, promotes agreement across the team so value
   lands at the right time, and experiments with new ways of working.
 - 4 — Expert: Not distinctly expected at this role level by the framework's
@@ -167,10 +164,9 @@ baseline stops short of Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -194,12 +190,10 @@ definition of Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how user insight has shaped a decision they were
-  involved in.
-- 1 — Beginner: Reads user research findings prepared by someone else.
-- 2 — Intermediate: Uses user insight to inform a decision within their own
+- 1 — Awareness: Reads user research findings prepared by someone else.
+- 2 — Working: Uses user insight to inform a decision within their own
   team.
-- 3 — Advanced: Advocates for continuous use of user insight in their own
+- 3 — Practitioner: Advocates for continuous use of user insight in their own
   team, and makes decisions across channels that visibly reflect it.
 - 4 — Expert: Advocates for effective research approaches across the
   organisation, coaches others in using insight to meet user needs, and uses
@@ -215,10 +209,9 @@ definition of Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -243,12 +236,10 @@ exercised on behalf of the whole team rather than one workstream.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a service's funding is secured or how it is
-  spent.
-- 1 — Beginner: Tracks spend against a budget set by someone else.
-- 2 — Intermediate: Contributes financial input into a business case with
+- 1 — Awareness: Tracks spend against a budget set by someone else.
+- 2 — Working: Contributes financial input into a business case with
   support.
-- 3 — Advanced: Independently identifies measurable benefits and makes
+- 3 — Practitioner: Independently identifies measurable benefits and makes
   spending decisions within an agreed budget.
 - 4 — Expert: Ensures a business case is in place that secures sustainable
   funding, allocates money across competing priorities, owns supplier
@@ -266,10 +257,9 @@ exercised on behalf of the whole team rather than one workstream.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -295,12 +285,10 @@ other people's behalf.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why a service assessment or assurance process
-  exists.
-- 1 — Beginner: Prepares material for a governance process at someone else's
+- 1 — Awareness: Prepares material for a governance process at someone else's
   direction.
-- 2 — Intermediate: Follows an established governance process independently.
-- 3 — Advanced: Guides their own team through a governance or assurance
+- 2 — Working: Follows an established governance process independently.
+- 3 — Practitioner: Guides their own team through a governance or assurance
   process, and can explain why it is proportionate to the service.
 - 4 — Expert: Ensures proportionate governance and assurance is in place and
   keeps improving it, guides teams through processes such as service
@@ -319,10 +307,9 @@ other people's behalf.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -340,7 +327,7 @@ shared.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Ensuring measures and metrics are in place and used
+Baseline: 3 — Practitioner. Ensuring measures and metrics are in place and used
 to prioritise delivery describes strong independent ownership of the
 service's performance story; the framework's wording is about running this
 well for the candidate's own service rather than teaching other services how
@@ -348,10 +335,9 @@ to measure benefits, so the baseline stops short of Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what metrics their service is measured against.
-- 1 — Beginner: Reports a metric someone else defined.
-- 2 — Intermediate: Uses an existing metric to inform a delivery decision.
-- 3 — Advanced: Puts appropriate measures in place for user outcomes and
+- 1 — Awareness: Reports a metric someone else defined.
+- 2 — Working: Uses an existing metric to inform a delivery decision.
+- 3 — Practitioner: Puts appropriate measures in place for user outcomes and
   business benefits, uses metrics to prioritise delivery, and demonstrates
   the service's value to stakeholders with data.
 - 4 — Expert: Not distinctly expected at this role level by the framework's
@@ -367,10 +353,9 @@ to measure benefits, so the baseline stops short of Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -388,7 +373,7 @@ cycle.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Using evidence to decide whether a team should
+Baseline: 3 — Practitioner. Using evidence to decide whether a team should
 continue, change direction or stop is a significant, independent judgement
 call; the framework describes guiding colleagues and stakeholders through
 this rather than coaching other services in life cycle practice more
@@ -396,12 +381,10 @@ broadly, so the baseline stops short of Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a decision to stop or change direction on a
-  service would be made.
-- 1 — Beginner: Follows a life cycle plan set by someone else.
-- 2 — Intermediate: Moves their own service through a phase with some
+- 1 — Awareness: Follows a life cycle plan set by someone else.
+- 2 — Working: Moves their own service through a phase with some
   support.
-- 3 — Advanced: Uses evidence to decide whether a service should continue,
+- 3 — Practitioner: Uses evidence to decide whether a service should continue,
   change direction or stop, consults the right people at the right time, and
   guides colleagues and stakeholders through unfamiliar phases.
 - 4 — Expert: Not distinctly expected at this role level by the framework's
@@ -418,10 +401,9 @@ broadly, so the baseline stops short of Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -446,12 +428,10 @@ only the candidate's own delivery team.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a scalable operating model for their
-  service looks like.
-- 1 — Beginner: Follows an operational process set by someone else.
-- 2 — Intermediate: Identifies an operational constraint within their own
+- 1 — Awareness: Follows an operational process set by someone else.
+- 2 — Working: Identifies an operational constraint within their own
   team.
-- 3 — Advanced: Coordinates with one other function to overcome an
+- 3 — Practitioner: Coordinates with one other function to overcome an
   operational constraint affecting the service.
 - 4 — Expert: Ensures a scalable, resilient operating model is in place,
   coordinates operations, policy, digital and delivery teams together to
@@ -468,10 +448,9 @@ only the candidate's own delivery team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -494,12 +473,10 @@ own relationships.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the service's key stakeholders or what each one
-  needs.
-- 1 — Beginner: Attends a stakeholder meeting arranged by someone else.
-- 2 — Intermediate: Manages a straightforward stakeholder relationship
+- 1 — Awareness: Attends a stakeholder meeting arranged by someone else.
+- 2 — Working: Manages a straightforward stakeholder relationship
   independently.
-- 3 — Advanced: Sets objectives with a stakeholder and manages a relationship
+- 3 — Practitioner: Sets objectives with a stakeholder and manages a relationship
   through disagreement to a workable outcome.
 - 4 — Expert: Directs the stakeholder relationship strategy for the whole
   team, ensures stakeholders' objectives are set and supported, and
@@ -516,10 +493,9 @@ own relationships.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -542,11 +518,9 @@ well beyond the candidate's own service.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe their service's long-term strategy or how it was
-  set.
-- 1 — Beginner: Delivers against a strategy set by someone else.
-- 2 — Intermediate: Contributes ideas to a strategy discussion when asked.
-- 3 — Advanced: Shapes their own service's tactical approach and persuades a
+- 1 — Awareness: Delivers against a strategy set by someone else.
+- 2 — Working: Contributes ideas to a strategy discussion when asked.
+- 3 — Practitioner: Shapes their own service's tactical approach and persuades a
   stakeholder to support part of it.
 - 4 — Expert: Coaches others in creating and implementing a long-term
   strategy that stakeholders agree with, persuades senior stakeholders to
@@ -564,10 +538,9 @@ well beyond the candidate's own service.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -576,12 +549,12 @@ well beyond the candidate's own service.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Adapting to delivery methodologies | 3 — Advanced | | |
+| Adapting to delivery methodologies | 3 — Practitioner | | |
 | Applying user-centred insights | 4 — Expert | | |
 | Financial ownership | 4 — Expert | | |
 | Governance and assurance | 4 — Expert | | |
-| Leading performance and benefits | 3 — Advanced | | |
-| Life cycle management | 3 — Advanced | | |
+| Leading performance and benefits | 3 — Practitioner | | |
+| Life cycle management | 3 — Practitioner | | |
 | Operational management | 4 — Expert | | |
 | Stakeholder relationship management | 4 — Expert | | |
 | Strategic ownership | 4 — Expert | | |

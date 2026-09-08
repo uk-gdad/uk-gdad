@@ -49,25 +49,24 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Customer service management.** At 1 — Beginner, someone might describe resolving a routine request but struggling to stay
-calm when a caller became frustrated. At 2 — Intermediate, someone for
+**Worked example — Customer service management.** At 1 — Awareness, someone might describe resolving a routine request but struggling to stay
+calm when a caller became frustrated. At 2 — Working, someone for
 service desk analyst should be able to describe resolving a request to the
 agreed SLA while staying empathetic under mild pressure, using
 customer-focused language rather than technical jargon. That combination —
 meeting the SLA and managing the human side of the call — is what
-"Intermediate" evidence looks like at this level.
+"Working" evidence looks like at this level.
 
 ## About this role level
 
@@ -106,18 +105,16 @@ information to protect assets and components.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a procedural, supporting task alongside the
+Baseline: 1 — Awareness. This is a procedural, supporting task alongside the
 level's main work of taking calls, so a developing, closely-supervised grasp
 is the appropriate baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot locate or update an asset record without step-by-step
-  help.
-- 1 — Beginner: Logs and corrects straightforward asset records under
+- 1 — Awareness: Logs and corrects straightforward asset records under
   supervision.
-- 2 — Intermediate: Logs and corrects records unsupervised for common cases.
-- 3 — Advanced: Maintains accurate records across a varied call caseload
+- 2 — Working: Logs and corrects records unsupervised for common cases.
+- 3 — Practitioner: Maintains accurate records across a varied call caseload
   without prompting.
 - 4 — Expert: Spots and corrects systemic data quality problems in the asset
   register.
@@ -131,10 +128,9 @@ is the appropriate baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -149,20 +145,18 @@ and use customer-focused metrics to achieve the desired outcome.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is the core, defining skill of the level —
+Baseline: 2 — Working. This is the core, defining skill of the level —
 the whole job is direct customer interaction — so a working, largely
 independent grasp of resolving requests within SLA while showing empathy is
 the appropriate baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Resolves requests without reference to SLA targets or the
-  caller's experience.
-- 1 — Beginner: Resolves straightforward requests to SLA with support, and
+- 1 — Awareness: Resolves straightforward requests to SLA with support, and
   needs coaching to stay empathetic under pressure.
-- 2 — Intermediate: Reliably resolves requests to SLA and empathises with
+- 2 — Working: Reliably resolves requests to SLA and empathises with
   callers, including when they are frustrated.
-- 3 — Advanced: Manages a full range of requests to SLA, and de-escalates a
+- 3 — Practitioner: Manages a full range of requests to SLA, and de-escalates a
   difficult caller without help.
 - 4 — Expert: Is the analyst others bring the hardest calls to, and
   consistently exceeds SLA while maintaining a strong customer experience.
@@ -177,10 +171,9 @@ the appropriate baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -196,20 +189,18 @@ communicate this to others.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Reporting is a secondary part of this level's remit
+Baseline: 1 — Awareness. Reporting is a secondary part of this level's remit
 compared with direct call handling, so a developing grasp — producing a
 report to a template, needing help with interpretation — is the appropriate
 baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot produce a basic call volume report without detailed
-  instructions.
-- 1 — Beginner: Produces a standard report to a template, with help
+- 1 — Awareness: Produces a standard report to a template, with help
   interpreting it.
-- 2 — Intermediate: Produces reports to deadline and can explain in plain
+- 2 — Working: Produces reports to deadline and can explain in plain
   terms what they show.
-- 3 — Advanced: Spots something unusual in call data before being asked, and
+- 3 — Practitioner: Spots something unusual in call data before being asked, and
   raises it.
 - 4 — Expert: Proposes a change to what is reported because they have
   identified it will better serve the team.
@@ -221,10 +212,9 @@ baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -238,17 +228,16 @@ owner has been found or the problem has been mitigated or resolved.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This matches the level's explicit accountability
+Baseline: 2 — Working. This matches the level's explicit accountability
 to "know when to escalate" — following an issue through, or handing it off
 properly, is a core working habit expected even at entry level.
 
 **Behavioural indicators**
 
-- 0 — None: Closes calls without checking an escalated issue was picked up.
-- 1 — Beginner: Follows up on escalated issues, but only when prompted.
-- 2 — Intermediate: Tracks escalated issues and follows up unprompted, most
+- 1 — Awareness: Follows up on escalated issues, but only when prompted.
+- 2 — Working: Tracks escalated issues and follows up unprompted, most
   of the time.
-- 3 — Advanced: Reliably owns every call through to resolution or confirmed
+- 3 — Practitioner: Reliably owns every call through to resolution or confirmed
   escalation.
 - 4 — Expert: Is known for never letting a caller's issue drop.
 
@@ -260,10 +249,9 @@ properly, is a core working habit expected even at entry level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -277,18 +265,17 @@ different products and services.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Show an awareness" is the lightest wording the
+Baseline: 1 — Awareness. "Show an awareness" is the lightest wording the
 framework uses for this skill, matching a level whose main job is direct
 interaction rather than service design.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the main services or products they support.
-- 1 — Beginner: Can name and briefly describe the main services or products
+- 1 — Awareness: Can name and briefly describe the main services or products
   they support.
-- 2 — Intermediate: Understands how the services they support relate to each
+- 2 — Working: Understands how the services they support relate to each
   other.
-- 3 — Advanced: Uses that awareness to spot when an issue with one service is
+- 3 — Practitioner: Uses that awareness to spot when an issue with one service is
   likely to affect another.
 - 4 — Expert: Proactively flags service dependencies to more senior
   colleagues.
@@ -302,10 +289,9 @@ interaction rather than service design.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -320,18 +306,17 @@ purpose of user stories and the focus on user needs.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a lighter, awareness-level description than
+Baseline: 1 — Awareness. This is a lighter, awareness-level description than
 the "User focus" wording used elsewhere in the profession, so the baseline
-sits at Beginner even though this level's whole job is direct user contact.
+sits at Awareness even though this level's whole job is direct user contact.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a user story is or why user needs matter.
-- 1 — Beginner: Shows a basic awareness of user experience principles and can
+- 1 — Awareness: Shows a basic awareness of user experience principles and can
   explain what a user story is for.
-- 2 — Intermediate: Applies that awareness to notice when a caller's stated
+- 2 — Working: Applies that awareness to notice when a caller's stated
   request differs from their real need.
-- 3 — Advanced: Uses user experience thinking to improve how they handle
+- 3 — Practitioner: Uses user experience thinking to improve how they handle
   calls.
 - 4 — Expert: Coaches colleagues on applying user focus principles to call
   handling.
@@ -345,10 +330,9 @@ sits at Beginner even though this level's whole job is direct user contact.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -357,12 +341,12 @@ sits at Beginner even though this level's whole job is direct user contact.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 1 — Beginner | | |
-| Customer service management | 2 — Intermediate | | |
-| IT service reporting | 1 — Beginner | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Service focus | 1 — Beginner | | |
-| User focus | 1 — Beginner | | |
+| Asset and configuration management | 1 — Awareness | | |
+| Customer service management | 2 — Working | | |
+| IT service reporting | 1 — Awareness | | |
+| Ownership and initiative | 2 — Working | | |
+| Service focus | 1 — Awareness | | |
+| User focus | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

@@ -49,20 +49,19 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale — how well someone does the thing, on the evidence
 available, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example.** Take Skill: Incident management. At 2 — Intermediate, someone diagnoses a familiar incident and finds a resolution with some
-guidance from a colleague. At 3 — Advanced, the baseline for this level, they
+**Worked example.** Take Skill: Incident management. At 2 — Working, someone diagnoses a familiar incident and finds a resolution with some
+guidance from a colleague. At 3 — Practitioner, the baseline for this level, they
 diagnose and prioritise an incident against other open work unassisted,
 investigate its cause and find the resolution themselves — matching the
 framework's own wording for this level. At 4 — Expert, they are someone
@@ -116,19 +115,18 @@ the location and state of IT assets.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is
-unchanged from the level below, so the baseline stays at Intermediate too —
+Baseline: 2 — Working. The framework's wording for this skill is
+unchanged from the level below, so the baseline stays at Working too —
 this level's step up shows in Incident management and team co-ordination, not
 here.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say where the asset register is or what it is for.
-- 1 — Beginner: updates the asset register when told exactly what to change.
-- 2 — Intermediate: keeps configuration and asset records accurate for their
+- 1 — Awareness: updates the asset register when told exactly what to change.
+- 2 — Working: keeps configuration and asset records accurate for their
   own area day to day, and can verify an asset's location and state without
   prompting.
-- 3 — Advanced: spots and corrects a discrepancy in the asset register before
+- 3 — Practitioner: spots and corrects a discrepancy in the asset register before
   it causes a problem, and improves how their team keeps records.
 - 4 — Expert: owns asset and configuration accuracy across a whole service and
   is someone others check a difficult record against.
@@ -144,10 +142,9 @@ here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -161,18 +158,17 @@ change, documents change requests, and actions changes from change requests.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a clear step up from implementing change
+Baseline: 3 — Practitioner. This is a clear step up from implementing change
 requests under supervision at level 2: assessing impact and actioning changes
 independently is exactly the strong grasp and independent working the scale
-describes as Advanced.
+describes as Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what assessing the impact of a change involves.
-- 1 — Beginner: documents a change request when given the details to record.
-- 2 — Intermediate: assesses the impact of a straightforward change with a
+- 1 — Awareness: documents a change request when given the details to record.
+- 2 — Working: assesses the impact of a straightforward change with a
   colleague checking the assessment.
-- 3 — Advanced: independently analyses and assesses the impact of a change,
+- 3 — Practitioner: independently analyses and assesses the impact of a change,
   documents the request properly, and actions it.
 - 4 — Expert: is consulted on the impact assessment for the highest-risk
   changes in the service.
@@ -187,10 +183,9 @@ describes as Advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -206,18 +201,17 @@ communicates this to others.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Interpreting a data set for stakeholders and shaping
+Baseline: 3 — Practitioner. Interpreting a data set for stakeholders and shaping
 the reporting process itself, rather than only collating basic reports, is
 independent, judgement-based work.
 
 **Behavioural indicators**
 
-- 0 — None: cannot produce a report to an agreed format.
-- 1 — Beginner: produces a report to a template someone else has set, with
+- 1 — Awareness: produces a report to a template someone else has set, with
   the content checked before it is sent.
-- 2 — Intermediate: produces reports to the agreed format and timeframe
+- 2 — Working: produces reports to the agreed format and timeframe
   unassisted, but relies on others to interpret what the numbers mean.
-- 3 — Advanced: produces reports to format and timeframe, interprets the data
+- 3 — Practitioner: produces reports to format and timeframe, interprets the data
   for stakeholders in plain terms, and discusses process changes with them.
 - 4 — Expert: redesigns the reporting process for a service and gets
   stakeholder buy-in for it.
@@ -232,10 +226,9 @@ independent, judgement-based work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -249,18 +242,17 @@ investigates their causes and finds resolutions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is the clearest step up in the whole matrix from
+Baseline: 3 — Practitioner. This is the clearest step up in the whole matrix from
 level 2's register-and-route work: diagnosing, prioritising and resolving
 unassisted is independent, strong-grasp work by the scale's own definition.
 
 **Behavioural indicators**
 
-- 0 — None: cannot diagnose a fault beyond following a runbook.
-- 1 — Beginner: diagnoses a familiar incident with a colleague checking the
+- 1 — Awareness: diagnoses a familiar incident with a colleague checking the
   reasoning.
-- 2 — Intermediate: diagnoses and resolves familiar incidents unassisted, but
+- 2 — Working: diagnoses and resolves familiar incidents unassisted, but
   needs help prioritising against a busy queue.
-- 3 — Advanced: independently diagnoses and prioritises incidents against
+- 3 — Practitioner: independently diagnoses and prioritises incidents against
   competing work, investigates the cause and finds the resolution.
 - 4 — Expert: is the escalation point for incidents that have resisted
   diagnosis by others, and teaches the diagnostic approach to the team.
@@ -275,10 +267,9 @@ unassisted is independent, strong-grasp work by the scale's own definition.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -292,19 +283,18 @@ found or the problem has been mitigated or resolved.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is
+Baseline: 2 — Working. The framework's wording for this skill is
 unchanged from level 2, so the baseline holds; this level's accountability
 growth shows in team co-ordination and incident management, not in a wider
 definition of ownership.
 
 **Behavioural indicators**
 
-- 0 — None: drops an issue once it is out of their hands.
-- 1 — Beginner: keeps an issue open on their own list but needs reminding to
+- 1 — Awareness: keeps an issue open on their own list but needs reminding to
   chase it.
-- 2 — Intermediate: tracks an issue through to a confirmed handover or
+- 2 — Working: tracks an issue through to a confirmed handover or
   resolution without being chased.
-- 3 — Advanced: proactively checks that a handed-over issue actually landed
+- 3 — Practitioner: proactively checks that a handed-over issue actually landed
   with its new owner and was picked up.
 - 4 — Expert: is someone others rely on to never let an issue slip, across
   a whole shift or team.
@@ -320,10 +310,9 @@ definition of ownership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -339,18 +328,17 @@ with its implementation, and determines preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Determining the resolution and preventative measures,
+Baseline: 3 — Practitioner. Determining the resolution and preventative measures,
 rather than only investigating and contributing as at level 2, is
 independent, judgement-driven ownership of the whole problem, matching
-Advanced.
+Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: cannot distinguish a problem from an incident.
-- 1 — Beginner: investigates a problem when told exactly what to look at.
-- 2 — Intermediate: investigates a problem and contributes ideas to a remedy,
+- 1 — Awareness: investigates a problem when told exactly what to look at.
+- 2 — Working: investigates a problem and contributes ideas to a remedy,
   but relies on a colleague to decide the resolution.
-- 3 — Advanced: initiates and monitors an investigation into a pattern or
+- 3 — Practitioner: initiates and monitors an investigation into a pattern or
   trend, consults specialists appropriately, determines the resolution and
   the preventative measure, and assists with implementing it.
 - 4 — Expert: spots a pattern across problems that others have missed and
@@ -367,10 +355,9 @@ Advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -384,19 +371,18 @@ frameworks that work.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill is
+Baseline: 2 — Working. The framework's wording for this skill is
 unchanged from level 2; this level's growth in scope is expressed through
 Incident management, Problem management and team co-ordination duties rather
 than through a wider Service focus expectation.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe how their daily tasks fit into the wider service.
-- 1 — Beginner: follows a service framework someone else has set up.
-- 2 — Intermediate: takes several inputs — tickets, requests, escalations —
+- 1 — Awareness: follows a service framework someone else has set up.
+- 2 — Working: takes several inputs — tickets, requests, escalations —
   and organises their own and their team's work into a coherent, working
   routine.
-- 3 — Advanced: improves a service framework so it works better for the
+- 3 — Practitioner: improves a service framework so it works better for the
   wider team.
 - 4 — Expert: designs a service framework that a whole team adopts.
 
@@ -411,10 +397,9 @@ than through a wider Service focus expectation.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -428,19 +413,17 @@ management framework qualification.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording is unchanged from level 2:
+Baseline: 2 — Working. The framework's wording is unchanged from level 2:
 the same qualification is expected, applied with working knowledge rather than
 taught to others.
 
 **Behavioural indicators**
 
-- 0 — None: holds no service management framework qualification and cannot
-  describe the framework's basic concepts.
-- 1 — Beginner: is working towards a Level 3 service management framework
+- 1 — Awareness: is working towards a Level 3 service management framework
   qualification.
-- 2 — Intermediate: holds a Level 3 service management framework
+- 2 — Working: holds a Level 3 service management framework
   qualification and applies its concepts correctly in day-to-day work.
-- 3 — Advanced: applies the framework's concepts to improve how their team
+- 3 — Practitioner: applies the framework's concepts to improve how their team
   works, beyond what the qualification alone requires.
 - 4 — Expert: holds a higher-level qualification or is asked to explain the
   framework to others.
@@ -455,10 +438,9 @@ taught to others.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -475,19 +457,17 @@ optimises performance and forecasts resource needs.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a marked step up from "assisting" and
+Baseline: 3 — Practitioner. This is a marked step up from "assisting" and
 "routine maintenance" at level 2: using management tools, optimising
 performance and forecasting resource needs is independent specialist work.
 
 **Behavioural indicators**
 
-- 0 — None: cannot use the team's management system software beyond basic
-  tasks.
-- 1 — Beginner: uses management system software for routine tasks with
+- 1 — Awareness: uses management system software for routine tasks with
   guidance.
-- 2 — Intermediate: uses management system software and logical schemata to
+- 2 — Working: uses management system software and logical schemata to
   investigate a familiar problem, with a colleague checking the outcome.
-- 3 — Advanced: independently uses management tools and schemata to
+- 3 — Practitioner: independently uses management tools and schemata to
   investigate problems, configures and reconfigures database and related
   products, and forecasts resource needs.
 - 4 — Expert: is consulted on the hardest performance and capacity forecasts
@@ -503,10 +483,9 @@ performance and forecasting resource needs is independent specialist work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -521,17 +500,16 @@ work, and analyses and reports test activities and results.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Defining test conditions from requirements and
+Baseline: 3 — Practitioner. Defining test conditions from requirements and
 analysing results, rather than only executing a script someone else wrote, is
 independent test-design work.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say what a test condition is.
-- 1 — Beginner: executes a test condition someone else has defined.
-- 2 — Intermediate: defines a straightforward test condition from a
+- 1 — Awareness: executes a test condition someone else has defined.
+- 2 — Working: defines a straightforward test condition from a
   requirement with a colleague checking it.
-- 3 — Advanced: independently reviews requirements, defines test conditions,
+- 3 — Practitioner: independently reviews requirements, defines test conditions,
   identifies risks in the work, and analyses and reports the results.
 - 4 — Expert: sets the test approach for a wider piece of work and reviews
   others' test conditions.
@@ -547,10 +525,9 @@ independent test-design work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -566,19 +543,17 @@ to turn user focus into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording is unchanged from level 2;
+Baseline: 2 — Working. The framework's wording is unchanged from level 2;
 this level's growth is expressed through team co-ordination and incident
 ownership rather than a wider User focus expectation.
 
 **Behavioural indicators**
 
-- 0 — None: fixes the reported fault without asking the user anything about
-  their wider need.
-- 1 — Beginner: asks the user basic clarifying questions when prompted to.
-- 2 — Intermediate: engages the user directly to understand what they
+- 1 — Awareness: asks the user basic clarifying questions when prompted to.
+- 2 — Working: engages the user directly to understand what they
   actually need, not just what they reported, and uses that to resolve the
   issue in a way that works for them.
-- 3 — Advanced: spots a pattern in what several users need and feeds it back
+- 3 — Practitioner: spots a pattern in what several users need and feeds it back
   so the service improves for everyone.
 - 4 — Expert: shapes how the wider team engages with users.
 
@@ -593,10 +568,9 @@ ownership rather than a wider User focus expectation.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -605,17 +579,17 @@ ownership rather than a wider User focus expectation.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Change management | 3 — Advanced | | |
-| IT service reporting | 3 — Advanced | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 3 — Advanced | | |
-| Service focus | 2 — Intermediate | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| Technical specialism | 3 — Advanced | | |
-| Testing | 3 — Advanced | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 2 — Working | | |
+| Change management | 3 — Practitioner | | |
+| IT service reporting | 3 — Practitioner | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 3 — Practitioner | | |
+| Service focus | 2 — Working | | |
+| Service management framework knowledge | 2 — Working | | |
+| Technical specialism | 3 — Practitioner | | |
+| Testing | 3 — Practitioner | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

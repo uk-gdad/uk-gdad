@@ -63,19 +63,18 @@ in the project specification for what this rules out.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale.
+Every skill in the competency matrix is rated on the same four-point scale.
 This is a **proficiency** scale — how well the person does the thing, on the
 evidence available — not a frequency scale of how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Test and quality planning.** At 3 (Advanced), a candidate
+**Worked example — Test and quality planning.** At 3 (Practitioner), a candidate
 develops and implements a quality testing approach for a defined area with a
 team and contributes a genuine idea to the wider organisational strategy — but
 someone else still owns that organisational strategy. At 4 (Expert), the level
@@ -149,13 +148,11 @@ at scale.
 
 **Behavioural indicators**
 
-- 0 — None: Avoids representing the team or community beyond their immediate
-  colleagues.
-- 1 — Beginner: Can present testing outcomes to a familiar audience with
+- 1 — Awareness: Can present testing outcomes to a familiar audience with
   preparation and support.
-- 2 — Intermediate: Manages routine communication with senior stakeholders
+- 2 — Working: Manages routine communication with senior stakeholders
   independently, but relies on others for genuinely high-stakes moments.
-- 3 — Advanced: Moderates a difficult discussion about a high-risk defect
+- 3 — Practitioner: Moderates a difficult discussion about a high-risk defect
   with senior stakeholders under time pressure, and reaches a resolution.
 - 4 — Expert: Represents the test analysis community at an organisation-wide
   or external forum, and is the person colleagues ask to mediate the most
@@ -173,10 +170,9 @@ at scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -201,12 +197,11 @@ execute tests.
 
 **Behavioural indicators**
 
-- 0 — None: Has no influence over testing standards beyond their own work.
-- 1 — Beginner: Suggests a technique informally but does not set or change
+- 1 — Awareness: Suggests a technique informally but does not set or change
   standards.
-- 2 — Intermediate: Contributes to a team's testing standard when asked, and
+- 2 — Working: Contributes to a team's testing standard when asked, and
   applies it consistently themselves.
-- 3 — Advanced: Leads test design and technique choices for a defined area
+- 3 — Practitioner: Leads test design and technique choices for a defined area
   and coaches individual testers within it.
 - 4 — Expert: Sets an organisation-wide standard for test design or
   technique, gets it adopted across multiple teams that do not report to
@@ -223,10 +218,9 @@ execute tests.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -251,11 +245,10 @@ scale.
 
 **Behavioural indicators**
 
-- 0 — None: Manages only the defects directly assigned to them.
-- 1 — Beginner: Helps a colleague think through a complex defect when asked.
-- 2 — Intermediate: Manages complex, cross-team defects independently within
+- 1 — Awareness: Helps a colleague think through a complex defect when asked.
+- 2 — Working: Manages complex, cross-team defects independently within
   a defined area.
-- 3 — Advanced: Coaches another senior tester through assessing a complex,
+- 3 — Practitioner: Coaches another senior tester through assessing a complex,
   organisation-spanning defect.
 - 4 — Expert: Uses defect trend data to influence an organisation-wide
   quality process change, and coaches multiple teams' testers in applying the
@@ -273,10 +266,9 @@ scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -299,12 +291,11 @@ others, rather than practising it well themselves.
 
 **Behavioural indicators**
 
-- 0 — None: Analyses only work directly assigned to them.
-- 1 — Beginner: Applies test analysis principles someone else set, without
+- 1 — Awareness: Applies test analysis principles someone else set, without
   question.
-- 2 — Intermediate: Leads test analysis within a single defined area,
+- 2 — Working: Leads test analysis within a single defined area,
   applying an existing organisational standard.
-- 3 — Advanced: Guides more than one team in test analysis and coaches
+- 3 — Practitioner: Guides more than one team in test analysis and coaches
   senior colleagues through complex analysis.
 - 4 — Expert: Sets the organisation's principles for test analysis, gets
   early involvement embedded across multiple teams' ways of working, and can
@@ -322,10 +313,9 @@ others, rather than practising it well themselves.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -349,11 +339,10 @@ independent working — this is setting direction others follow.
 
 **Behavioural indicators**
 
-- 0 — None: Has no involvement in strategy beyond their own team's plan.
-- 1 — Beginner: Contributes an idea to a strategy owned by someone senior.
-- 2 — Intermediate: Implements an organisational testing strategy within
+- 1 — Awareness: Contributes an idea to a strategy owned by someone senior.
+- 2 — Working: Implements an organisational testing strategy within
   their own defined area.
-- 3 — Advanced: Develops a quality testing strategy for a defined area and
+- 3 — Practitioner: Develops a quality testing strategy for a defined area and
   influences the wider organisational one.
 - 4 — Expert: Owns and manages several quality testing strategies at once
   across the organisation, and uses data to guide multiple teams in
@@ -371,10 +360,9 @@ independent working — this is setting direction others follow.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -391,9 +379,9 @@ for testing.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework has not differentiated this specific
+Baseline: 3 — Practitioner. The framework has not differentiated this specific
 skill's wording anywhere in this role's ladder, so the text on its own gives
-no basis for an Expert baseline. This assessment sets the baseline at Advanced
+no basis for an Expert baseline. This assessment sets the baseline at Practitioner
 rather than higher, reflecting that a lead is accountable for setting
 standards and leading teams across the organisation — which requires a
 strong, largely independent grasp of the engineering underneath testing to
@@ -402,12 +390,11 @@ mastery it has never described for this role.
 
 **Behavioural indicators**
 
-- 0 — None: Has no working knowledge of test environments or tooling.
-- 1 — Beginner: Explains why testing tools and environments matter, but has
+- 1 — Awareness: Explains why testing tools and environments matter, but has
   limited hands-on experience.
-- 2 — Intermediate: Sets up and troubleshoots routine test environment or
+- 2 — Working: Sets up and troubleshoots routine test environment or
   tooling problems independently.
-- 3 — Advanced: Diagnoses non-obvious engineering problems across more than
+- 3 — Practitioner: Diagnoses non-obvious engineering problems across more than
   one team's testing setup, and advises other teams on fixing them.
 - 4 — Expert: Is the organisation's go-to authority for the hardest test
   engineering problems, and actively builds or redesigns the tooling other
@@ -424,10 +411,9 @@ mastery it has never described for this role.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

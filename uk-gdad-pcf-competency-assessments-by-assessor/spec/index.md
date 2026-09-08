@@ -45,12 +45,12 @@ says so in its `## Advisory` section, and that section is required.
 | A whole-catalogue self-rating | 189 skills, no role context, nothing saved | `uk-gdad-pcf-skills-self-assessment` |
 | Legal advice | Named duties, not interpreted ones | See [Fair and lawful use](#fair-and-lawful-use) |
 
-The skills gap form and this assessment share the same 0–4 scale points
+The skills gap form and this assessment share the same 1–4 scale points
 deliberately — the words differ (this project's scale describes proficiency
-directly: Beginner, Intermediate, Advanced, Expert; the gap form's describes
-frequency of independent practice) because the two documents measure different
-things for different readers, but a person familiar with one recognises the
-shape of the other.
+directly, using the UK GDAD framework's own scale: Awareness, Working,
+Practitioner, Expert; the gap form's describes frequency of independent
+practice) because the two documents measure different things for different
+readers, but a person familiar with one recognises the shape of the other.
 
 ## Input
 
@@ -87,7 +87,7 @@ In this order:
 | `## Introduction` | Who this is for, what it measures, and how it fits an assessment process |
 | `## Advisory` | The standing caution, below |
 | `## How to use this assessment` | Preparing, gathering evidence, scoring, staying fair |
-| `## Rating scale` | The 0–4 scale, with a worked example |
+| `## Rating scale` | The 1–4 scale, with a worked example |
 | `## About this role level` | The role, the level, its duties, its accountabilities and the skills it names |
 | `## Competency matrix` | One block per skill in the summary — the heart of the document |
 | `## Overall determination` | A scoring summary table and guidance on combining skill ratings into a result |
@@ -114,15 +114,17 @@ older advisory paragraph carried in some other projects — see
 
 ## The rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale —
+the UK GDAD framework's own proficiency scale, at
+<https://ddat-capability-framework.service.gov.uk/>, not one invented for this
+project:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it or
@@ -179,7 +181,7 @@ Each block has these parts, in this order, all required:
 
 1. **What the framework expects at this level** — the summary's bullets for
    this skill, restated plainly and truly.
-2. **Baseline for this role level** — which single point on the 0–4 scale is
+2. **Baseline for this role level** — which single point on the 1–4 scale is
    the baseline an assessor should expect a person to meet at this role level,
    for this skill, and one sentence on why — grounded in the level's
    accountabilities and its place in the role's ladder. A trainee's baseline
@@ -187,7 +189,7 @@ Each block has these parts, in this order, all required:
    different skills at the same level can have different baselines where the
    framework's own wording supports it — say so rather than flattening every
    skill in a block to the same number.
-3. **Behavioural indicators** — a five-row list, 0 through 4, each one to two
+3. **Behavioural indicators** — a four-row list, 1 through 4, each one to two
    sentences of concrete, observable behaviour **for this specific skill**,
    not a generic proficiency ladder copied across skills. Someone reading only
    this list should be able to place a real observation at the right point.
@@ -196,7 +198,7 @@ Each block has these parts, in this order, all required:
    structured interview question, something to ask a referee, a document to
    review, a scenario to observe. Specific to this role's actual work, not
    generic ("ask about the skill").
-5. **Rate this skill** — the five-row rating checklist, always all five,
+5. **Rate this skill** — the four-row rating checklist, always all four,
    always in order, followed by a single free-text `*Assessor notes:*` prompt
    for the evidence and reasoning behind the rating given.
 
@@ -209,14 +211,13 @@ Each block has these parts, in this order, all required:
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. ...
+Baseline: 2 — Working. ...
 
 **Behavioural indicators**
 
-- 0 — None: ...
-- 1 — Beginner: ...
-- 2 — Intermediate: ...
-- 3 — Advanced: ...
+- 1 — Awareness: ...
+- 2 — Working: ...
+- 3 — Practitioner: ...
 - 4 — Expert: ...
 
 **Evidence to gather**
@@ -225,10 +226,9 @@ Baseline: 2 — Intermediate. ...
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -336,7 +336,7 @@ baseline from.
 1. Read `uk-gdad-pcf-role-summaries/roles/<slug>.md`. List the duties, the
    accountabilities and the skills in the summary's order, merging any skill
    named twice.
-2. Judge each skill's baseline point on the 0–4 scale from the level's place in
+2. Judge each skill's baseline point on the 1–4 scale from the level's place in
    its role's ladder and from the accountability bullets — not from habit; two
    role families at "the same" seniority word their accountabilities
    differently, and the baseline should say what this level's own text

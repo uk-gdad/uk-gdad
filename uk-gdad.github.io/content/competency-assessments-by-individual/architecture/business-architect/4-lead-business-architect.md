@@ -49,15 +49,14 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
@@ -134,13 +133,11 @@ practice — mastery applied on behalf of the whole practice, not just someone's
 
 **Behavioural indicators**
 
-- 0 — None: cannot identify a case of strategic misalignment within the
-  organisation.
-- 1 — Beginner: identifies misalignment when it is pointed out, but needs
+- 1 — Awareness: identifies misalignment when it is pointed out, but needs
   support to simplify or act on it.
-- 2 — Intermediate: simplifies a moderately complex framework for a
+- 2 — Working: simplifies a moderately complex framework for a
   colleague, with guidance on developing organisational maturity.
-- 3 — Advanced: simplifies complex frameworks into clear actions and guides
+- 3 — Practitioner: simplifies complex frameworks into clear actions and guides
   individual colleagues in best practice.
 - 4 — Expert: develops business architecture maturity across the
   organisation — for example through a community of practice — leads
@@ -160,10 +157,9 @@ practice — mastery applied on behalf of the whole practice, not just someone's
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -181,7 +177,7 @@ government.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework describes this skill in identical
+Baseline: 3 — Practitioner. The framework describes this skill in identical
 words to the business architect level below — an anomaly worth naming rather
 than smoothing over. The framework's own text does not by itself raise the
 bar for this specific skill at lead level, so the baseline stays where the
@@ -191,13 +187,11 @@ unchanged.
 
 **Behavioural indicators**
 
-- 0 — None: cannot mediate between people in conflict or manage stakeholder
-  expectations under pressure.
-- 1 — Beginner: manages stakeholder expectations in routine cases but needs
+- 1 — Awareness: manages stakeholder expectations in routine cases but needs
   support to mediate a serious disagreement.
-- 2 — Intermediate: mediates straightforward disagreements and manages
+- 2 — Working: mediates straightforward disagreements and manages
   expectations for moderately complex stakeholder situations.
-- 3 — Advanced: mediates and mends relationships involving high risk or
+- 3 — Practitioner: mediates and mends relationships involving high risk or
   complexity, including under time pressure, and represents the community
   competently to audiences beyond the immediate organisation, across more
   than one significant occasion.
@@ -219,10 +213,9 @@ unchanged.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -238,7 +231,7 @@ approaches delivery or uses digital and data skills more effectively.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As with Communicating information, the framework
+Baseline: 3 — Practitioner. As with Communicating information, the framework
 repeats this skill's wording from the business architect level below without
 change. The baseline stays at 3 for that reason; what you should look
 for at lead level is the same advice and guidance work exercised across the
@@ -247,12 +240,11 @@ number the framework's own text does not support.
 
 **Behavioural indicators**
 
-- 0 — None: gives advice with no clear grounding in specialist experience.
-- 1 — Beginner: gives advice on straightforward matters but needs support for
+- 1 — Awareness: gives advice on straightforward matters but needs support for
   anything organisation-wide.
-- 2 — Intermediate: gives sound advice on moderately complex matters and
+- 2 — Working: gives sound advice on moderately complex matters and
   contributes to guidance documents with oversight.
-- 3 — Advanced: gives advice and recommendations grounded in significant
+- 3 — Practitioner: gives advice and recommendations grounded in significant
   specialist knowledge, and leads the definition of guidance across the
   team's whole area of work, changing how the organisation approaches
   delivery.
@@ -271,10 +263,9 @@ number the framework's own text does not support.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -289,7 +280,7 @@ further, and builds consensus between services or independent stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats this skill's wording exactly
+Baseline: 3 — Practitioner. The framework repeats this skill's wording exactly
 from the business architect level below, with no increase in the stated
 level of risk or complexity — another anomaly worth naming rather than
 inflating. The baseline stays at 3; what should genuinely differ at lead
@@ -298,12 +289,11 @@ describe, given this level's accountability for the whole team's outputs.
 
 **Behavioural indicators**
 
-- 0 — None: avoids owning decisions of any real risk or complexity.
-- 1 — Beginner: makes decisions with support once risk or complexity rises
+- 1 — Awareness: makes decisions with support once risk or complexity rises
   above the routine.
-- 2 — Intermediate: makes decisions of moderate risk and complexity with
+- 2 — Working: makes decisions of moderate risk and complexity with
   occasional guidance.
-- 3 — Advanced: makes decisions characterised by medium risk and complexity
+- 3 — Practitioner: makes decisions characterised by medium risk and complexity
   unsupported, recommending rather than deciding as it rises further, and
   builds consensus between services or independent stakeholders across the
   team's full remit.
@@ -322,10 +312,9 @@ describe, given this level's accountability for the whole team's outputs.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -349,13 +338,11 @@ the framework's own definition of the top of this scale.
 
 **Behavioural indicators**
 
-- 0 — None: has no involvement in setting the organisation's direction on
-  methods and tools.
-- 1 — Beginner: contributes an opinion on methods and tools when asked, but
+- 1 — Awareness: contributes an opinion on methods and tools when asked, but
   does not set direction or delegate authority.
-- 2 — Intermediate: recommends a method or tool for a specific piece of work
+- 2 — Working: recommends a method or tool for a specific piece of work
   with support.
-- 3 — Advanced: assesses the effectiveness of different approaches and
+- 3 — Practitioner: assesses the effectiveness of different approaches and
   recommends tools for a team, without yet setting direction more widely.
 - 4 — Expert: sets direction on methods and tools for the practice, gives
   others the means and authority to advise on them, and ensures consistent
@@ -374,10 +361,9 @@ the framework's own definition of the top of this scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -400,14 +386,12 @@ senior stakeholders — ownership and influence at the top of the scale.
 
 **Behavioural indicators**
 
-- 0 — None: has no involvement in directing how the team manages
-  stakeholders.
-- 1 — Beginner: manages their own stakeholder relationships but does not
+- 1 — Awareness: manages their own stakeholder relationships but does not
   direct a strategy for others.
-- 2 — Intermediate: contributes to a team's stakeholder strategy with
+- 2 — Working: contributes to a team's stakeholder strategy with
   support, and negotiates with senior stakeholders on straightforward
   matters.
-- 3 — Advanced: directs part of a team's stakeholder relationship strategy
+- 3 — Practitioner: directs part of a team's stakeholder relationship strategy
   and negotiates with senior stakeholders on most issues.
 - 4 — Expert: directs the stakeholder relationship strategy for their teams,
   ensures stakeholders' objectives are set and met, and personally
@@ -426,10 +410,9 @@ senior stakeholders — ownership and influence at the top of the scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -454,13 +437,11 @@ rather than supporting someone else who does — full ownership of the work.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe the short to long term impact of a business
-  issue with any confidence.
-- 1 — Beginner: describes impact when prompted but needs significant support
+- 1 — Awareness: describes impact when prompted but needs significant support
   to define a principle or standard.
-- 2 — Intermediate: contributes to defining principles, patterns, standards
+- 2 — Working: contributes to defining principles, patterns, standards
   or roadmaps with oversight.
-- 3 — Advanced: defines principles, patterns, standards, policies, roadmaps
+- 3 — Practitioner: defines principles, patterns, standards, policies, roadmaps
   or vision statements for a defined area with little support.
 - 4 — Expert: defines principles, patterns, standards, policies, roadmaps and
   vision statements for the organisation outright, focuses consistently on
@@ -479,10 +460,9 @@ rather than supporting someone else who does — full ownership of the work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -498,7 +478,7 @@ exceeded where possible.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats this skill's wording exactly
+Baseline: 3 — Practitioner. The framework repeats this skill's wording exactly
 from the business architect level below — a third instance of the same
 anomaly seen in Communicating information, Consultancy and Making and
 guiding decisions at this level. The baseline stays at 3 for consistency with
@@ -508,13 +488,11 @@ the indicators below describe.
 
 **Behavioural indicators**
 
-- 0 — None: cannot evaluate whether a current strategy is meeting business
-  requirements.
-- 1 — Beginner: contributes an opinion on a strategy's fit when asked, but
+- 1 — Awareness: contributes an opinion on a strategy's fit when asked, but
   needs support to define strategy or guide others.
-- 2 — Intermediate: evaluates a strategy against business requirements with
+- 2 — Working: evaluates a strategy against business requirements with
   guidance, and drafts strategy or policy content for others to review.
-- 3 — Advanced: defines strategies and policies across the team's full
+- 3 — Practitioner: defines strategies and policies across the team's full
   remit, guides others in working strategically, and evaluates current
   strategies unsupported, identifying where they fall short and where they
   exceed requirements.
@@ -534,10 +512,9 @@ the indicators below describe.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -547,13 +524,13 @@ the indicators below describe.
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
 | Business architecture | 4 — Expert | | |
-| Communicating information | 3 — Advanced | | |
-| Consultancy | 3 — Advanced | | |
-| Making and guiding decisions | 3 — Advanced | | |
+| Communicating information | 3 — Practitioner | | |
+| Consultancy | 3 — Practitioner | | |
+| Making and guiding decisions | 3 — Practitioner | | |
 | Methods and tools | 4 — Expert | | |
 | Stakeholder relationship management | 4 — Expert | | |
 | Strategic design and business change | 4 — Expert | | |
-| Strategic thinking | 3 — Advanced | | |
+| Strategic thinking | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

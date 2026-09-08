@@ -49,19 +49,18 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale. It measures how well someone does the thing, on the
 evidence available, not how often they do it or how they feel about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Enterprise architecture.** A person rated 3 (Advanced)
+**Worked example — Enterprise architecture.** A person rated 3 (Practitioner)
 independently designs an architecture defining technology, people and process
 elements, and works with others across the organisation to see it used. A
 person rated 4 (Expert) — the baseline for this role level — leads other
@@ -124,13 +123,11 @@ so the baseline holds at the ceiling of the scale.
 
 **Behavioural indicators**
 
-- 0 — None: Has not considered how a societal or industry trend might affect
-  the organisation.
-- 1 — Beginner: Can describe a trend when asked, but has not connected it to
+- 1 — Awareness: Can describe a trend when asked, but has not connected it to
   organisational impact or policy.
-- 2 — Intermediate: Notices an emerging trend and raises it, relying on
+- 2 — Working: Notices an emerging trend and raises it, relying on
   someone else to act.
-- 3 — Advanced: Independently assesses how a trend might affect the
+- 3 — Practitioner: Independently assesses how a trend might affect the
   organisation and anticipates a coming policy change.
 - 4 — Expert: Works with people outside the organisation to inform policy or
   standards at a national or cross-government level, anticipates policy
@@ -150,10 +147,9 @@ so the baseline holds at the ceiling of the scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -177,12 +173,11 @@ its whole architecture community.
 
 **Behavioural indicators**
 
-- 0 — None: Communicates only within their immediate team.
-- 1 — Beginner: Communicates a straightforward topic to a single audience,
+- 1 — Awareness: Communicates a straightforward topic to a single audience,
   with support.
-- 2 — Intermediate: Adapts a message across audiences unaided for topics of
+- 2 — Working: Adapts a message across audiences unaided for topics of
   moderate risk or complexity.
-- 3 — Advanced: Gains support from stakeholders for a topic of high risk,
+- 3 — Practitioner: Gains support from stakeholders for a topic of high risk,
   impact or complexity, and mediates a difficult architectural discussion.
 - 4 — Expert: Is someone the organisation turns to for its most contested,
   highest-stakes architecture conversations, and has built the architecture
@@ -197,10 +192,9 @@ its whole architecture community.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -214,21 +208,19 @@ evaluate and select appropriate suppliers.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording is identical to the level
+Baseline: 3 — Practitioner. The framework's wording is identical to the level
 below and, unlike several other skills in this matrix, is not framed as a
 coaching or organisation-wide capability at this level — it remains a
 supporting skill a principal enterprise architect applies directly, so the
-baseline holds at Advanced rather than rising to Expert.
+baseline holds at Practitioner rather than rising to Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Has no working knowledge of contractual frameworks or supplier
-  selection.
-- 1 — Beginner: Can describe a contractual framework in general terms but has
+- 1 — Awareness: Can describe a contractual framework in general terms but has
   not applied one.
-- 2 — Intermediate: Identifies an appropriate contractual approach with
+- 2 — Working: Identifies an appropriate contractual approach with
   guidance from a commercial colleague.
-- 3 — Advanced: Independently identifies an appropriate contractual framework
+- 3 — Practitioner: Independently identifies an appropriate contractual framework
   and evaluates and selects a suitable supplier for significant, high-value
   work.
 - 4 — Expert: Shapes the organisation's overall contractual and supplier
@@ -243,10 +235,9 @@ baseline holds at Advanced rather than rising to Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -267,13 +258,11 @@ team or community.
 
 **Behavioural indicators**
 
-- 0 — None: Has not been involved in resolving an issue between teams or
-  departments.
-- 1 — Beginner: Helps resolve a dynamic issue within a single team, with
+- 1 — Awareness: Helps resolve a dynamic issue within a single team, with
   support.
-- 2 — Intermediate: Resolves a dynamic issue within a single team or
+- 2 — Working: Resolves a dynamic issue within a single team or
   community independently.
-- 3 — Advanced: Solves and unblocks an issue between two teams or
+- 3 — Practitioner: Solves and unblocks an issue between two teams or
   departments.
 - 4 — Expert: Solves and unblocks issues between teams or departments at the
   highest level, coaches the organisation on team dynamics and conflict
@@ -291,10 +280,9 @@ team or community.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -317,12 +305,10 @@ mastery-level acts.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot design an architecture that connects technology, people
-  and process to an organisational objective.
-- 1 — Beginner: Designs a narrow part of an architecture with direction.
-- 2 — Intermediate: Designs a straightforward architecture element with some
+- 1 — Awareness: Designs a narrow part of an architecture with direction.
+- 2 — Working: Designs a straightforward architecture element with some
   guidance.
-- 3 — Advanced: Independently designs an architecture and works with others
+- 3 — Practitioner: Independently designs an architecture and works with others
   across the organisation to see it used.
 - 4 — Expert: Leads other architects' design work, works with people beyond
   the organisation to influence structures, technology and process
@@ -340,10 +326,9 @@ mastery-level acts.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -367,11 +352,10 @@ and evolving it.
 
 **Behavioural indicators**
 
-- 0 — None: Has not taken part in an architectural decision-making process.
-- 1 — Beginner: Contributes to a decision made mainly by others.
-- 2 — Intermediate: Makes a decision of managed risk affecting a single team
+- 1 — Awareness: Contributes to a decision made mainly by others.
+- 2 — Working: Makes a decision of managed risk affecting a single team
   or domain.
-- 3 — Advanced: Makes and guides decisions of medium risk and complexity
+- 3 — Practitioner: Makes and guides decisions of medium risk and complexity
   affecting multiple teams or domains.
 - 4 — Expert: Makes and guides decisions of high risk and complexity across
   the organisation or wider government, leads and evolves the governance and
@@ -389,10 +373,9 @@ and evolving it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -415,12 +398,10 @@ reaches the whole architecture community.
 
 **Behavioural indicators**
 
-- 0 — None: Takes a problem statement as given and does not question or
-  reframe it.
-- 1 — Beginner: Frames a simple problem with close support.
-- 2 — Intermediate: Frames a problem of managed complexity with some
+- 1 — Awareness: Frames a simple problem with close support.
+- 2 — Working: Frames a problem of managed complexity with some
   guidance.
-- 3 — Advanced: Independently leads the framing of a problem of high
+- 3 — Practitioner: Independently leads the framing of a problem of high
   complexity, complication or risk.
 - 4 — Expert: Leads the framing of the organisation's hardest problems, and
   has built a habit across the architecture community of coaching others in
@@ -436,10 +417,9 @@ reaches the whole architecture community.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -462,11 +442,10 @@ that same organisation-wide or cross-government scale.
 
 **Behavioural indicators**
 
-- 0 — None: Has not contributed to defining a strategy or vision.
-- 1 — Beginner: Contributes a defined piece to someone else's strategy.
-- 2 — Intermediate: Challenges an assumption in a strategy discussion and
+- 1 — Awareness: Contributes a defined piece to someone else's strategy.
+- 2 — Working: Challenges an assumption in a strategy discussion and
   supports its implementation.
-- 3 — Advanced: Defines a strategy or vision across teams and directs its
+- 3 — Practitioner: Defines a strategy or vision across teams and directs its
   implementation.
 - 4 — Expert: Defines and connects strategies or visions across the
   organisation or wider government, and personally removes blockers or
@@ -484,10 +463,9 @@ that same organisation-wide or cross-government scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -498,7 +476,7 @@ that same organisation-wide or cross-government scale.
 | --- | ---: | --- | --- |
 | Architect for the whole context | 4 — Expert | | |
 | Architecture communication | 4 — Expert | | |
-| Commercial perspective | 3 — Advanced | | |
+| Commercial perspective | 3 — Practitioner | | |
 | Community collaboration | 4 — Expert | | |
 | Enterprise architecture | 4 — Expert | | |
 | Making architectural decisions | 4 — Expert | | |

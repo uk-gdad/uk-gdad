@@ -49,26 +49,25 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Problem management.** At 2 — Intermediate, someone
+**Worked example — Problem management.** At 2 — Working, someone
 might describe investigating a single problem on request and proposing a fix.
-At 3 — Advanced, someone for service transition manager should be able to
+At 3 — Practitioner, someone for service transition manager should be able to
 describe initiating and monitoring an investigation into a pattern across
 several products going through transition, consulting the right specialists,
 and determining both the resolution and the preventative measure that stopped
 it recurring at the next transition. That initiating-and-determining role,
-not just investigating on request, is what "Advanced" evidence looks like at
+not just investigating on request, is what "Practitioner" evidence looks like at
 this level.
 
 ## About this role level
@@ -112,19 +111,18 @@ areas, and verify the location and state of IT assets.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The move from "track, log and correct" at the
+Baseline: 2 — Working. The move from "track, log and correct" at the
 levels below to "maintain" and "control" is a step up to owning accuracy
 across an area, appropriate to a manager who makes go-live recommendations
 that depend on that accuracy.
 
 **Behavioural indicators**
 
-- 0 — None: Relies entirely on the team to keep configuration data accurate.
-- 1 — Beginner: Checks configuration accuracy occasionally, when prompted.
-- 2 — Intermediate: Owns the accuracy of configuration data relevant to
+- 1 — Awareness: Checks configuration accuracy occasionally, when prompted.
+- 2 — Working: Owns the accuracy of configuration data relevant to
   products going through transition, and can verify asset location and state
   on request.
-- 3 — Advanced: Proactively audits configuration data before a go-live
+- 3 — Practitioner: Proactively audits configuration data before a go-live
   decision and closes gaps that would otherwise be missed.
 - 4 — Expert: Sets configuration standards other transition managers adopt.
 
@@ -137,10 +135,9 @@ that depend on that accuracy.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -155,19 +152,17 @@ components to ensure they meet business needs and key performance indicators
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the service
+Baseline: 2 — Working. The wording is unchanged from the service
 readiness analyst level, and this level's accountability is to decide whether
 a product is fit for purpose based partly on that KPI evidence, so a working,
 independent grasp is expected.
 
 **Behavioural indicators**
 
-- 0 — None: Makes go-live recommendations without reference to availability
-  or capacity KPIs.
-- 1 — Beginner: Checks components against KPIs when reminded.
-- 2 — Intermediate: Routinely checks components against KPIs as part of a
+- 1 — Awareness: Checks components against KPIs when reminded.
+- 2 — Working: Routinely checks components against KPIs as part of a
   go-live recommendation.
-- 3 — Advanced: Weighs marginal KPI results against business risk when
+- 3 — Practitioner: Weighs marginal KPI results against business risk when
   deciding whether to recommend go-live.
 - 4 — Expert: Their KPI-based judgement has prevented a product going live
   before it was genuinely ready.
@@ -181,10 +176,9 @@ independent grasp is expected.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -199,17 +193,16 @@ requests.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the service
+Baseline: 2 — Working. The wording is unchanged from the service
 readiness analyst level, applied here to the manager's accountability for
 recommending go-live and early-life support decisions.
 
 **Behavioural indicators**
 
-- 0 — None: Actions changes without assessing their likely impact.
-- 1 — Beginner: Assesses impact with support.
-- 2 — Intermediate: Independently assesses impact, documents requests
+- 1 — Awareness: Assesses impact with support.
+- 2 — Working: Independently assesses impact, documents requests
   clearly, and actions changes correctly ahead of a go-live decision.
-- 3 — Advanced: Anticipates second-order effects of a change on early-life
+- 3 — Practitioner: Anticipates second-order effects of a change on early-life
   support before it is actioned.
 - 4 — Expert: Is trusted to assess the impact of the most complex,
   highest-risk changes ahead of go-live.
@@ -222,10 +215,9 @@ recommending go-live and early-life support decisions.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -241,19 +233,17 @@ recognise and deal with issues.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the service
+Baseline: 2 — Working. The wording is unchanged from the service
 readiness analyst level, applied here to ensuring the acceptance criteria are
 understood by the wider IT operations — a task that depends on good
 collaboration across teams.
 
 **Behavioural indicators**
 
-- 0 — None: Communicates acceptance criteria to teams without checking they
-  are understood.
-- 1 — Beginner: Contributes to cross-team communication with support.
-- 2 — Intermediate: Proactively works with other teams to ensure acceptance
+- 1 — Awareness: Contributes to cross-team communication with support.
+- 2 — Working: Proactively works with other teams to ensure acceptance
   criteria are understood, and deals with issues that arise.
-- 3 — Advanced: Motivates teams around a shared transition goal, including
+- 3 — Practitioner: Motivates teams around a shared transition goal, including
   under time pressure.
 - 4 — Expert: Is known across IT operations for building strong collaborative
   relationships during transitions.
@@ -267,10 +257,9 @@ collaboration across teams.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -284,18 +273,17 @@ principles of IT standard continuity management processes and procedures.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's wording for this skill is unchanged
+Baseline: 1 — Awareness. The framework's wording for this skill is unchanged
 across every level of this role — even at manager level, it asks only for an
 explanation of basic principles, not for active management of continuity.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a continuity plan is for.
-- 1 — Beginner: Can explain the basic principles of continuity management
+- 1 — Awareness: Can explain the basic principles of continuity management
   when asked.
-- 2 — Intermediate: Factors continuity considerations into a go-live
+- 2 — Working: Factors continuity considerations into a go-live
   recommendation.
-- 3 — Advanced: Contributes usefully to a continuity plan for a product going
+- 3 — Practitioner: Contributes usefully to a continuity plan for a product going
   live.
 - 4 — Expert: Helps other managers understand continuity principles as
   applied to transition decisions.
@@ -309,10 +297,9 @@ explanation of basic principles, not for active management of continuity.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -326,18 +313,17 @@ prioritise incidents, investigate their causes and find resolutions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a marked step up from "identify and register"
+Baseline: 3 — Practitioner. This is a marked step up from "identify and register"
 at the levels below — full diagnosis, prioritisation and resolution — fitting
 this level's accountability for early-life support, where incidents in a
 newly live product are this manager's direct responsibility.
 
 **Behavioural indicators**
 
-- 0 — None: Registers incidents without diagnosing or prioritising them.
-- 1 — Beginner: Diagnoses simple incidents with support.
-- 2 — Intermediate: Diagnoses and prioritises routine early-life-support
+- 1 — Awareness: Diagnoses simple incidents with support.
+- 2 — Working: Diagnoses and prioritises routine early-life-support
   incidents independently.
-- 3 — Advanced: Handles a varied caseload of early-life-support incidents,
+- 3 — Practitioner: Handles a varied caseload of early-life-support incidents,
   including complex ones, with minimal support.
 - 4 — Expert: Diagnoses unusual early-life incidents quickly and is a
   reference point for colleagues doing the same.
@@ -351,10 +337,9 @@ newly live product are this manager's direct responsibility.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -368,18 +353,16 @@ new owner has been found or the problem has been mitigated or resolved.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the service
+Baseline: 2 — Working. The wording is unchanged from the service
 readiness analyst level — a foundational, unqualified expectation that
 applies consistently across this role's ladder.
 
 **Behavioural indicators**
 
-- 0 — None: Closes an issue once reassigned, without checking it has been
-  picked up.
-- 1 — Beginner: Follows up on reassigned issues, but only when prompted.
-- 2 — Intermediate: Tracks their open issues and follows up on reassignments
+- 1 — Awareness: Follows up on reassigned issues, but only when prompted.
+- 2 — Working: Tracks their open issues and follows up on reassignments
   unprompted, most of the time.
-- 3 — Advanced: Reliably owns every issue through to resolution or confirmed
+- 3 — Practitioner: Reliably owns every issue through to resolution or confirmed
   handover, including chasing other teams.
 - 4 — Expert: Is known for never letting an issue drop.
 
@@ -391,10 +374,9 @@ applies consistently across this role's ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -410,17 +392,16 @@ assist with its implementation, and determine preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a marked step up from "contribute to the
+Baseline: 3 — Practitioner. This is a marked step up from "contribute to the
 implementation of remedies" at the levels below — initiating investigations
 and determining resolutions independently — fitting this level's decision-
 making authority over acceptance and go-live.
 
 **Behavioural indicators**
 
-- 0 — None: Waits to be told a problem needs investigating.
-- 1 — Beginner: Investigates a pattern when pointed to it, with support.
-- 2 — Intermediate: Initiates straightforward investigations independently.
-- 3 — Advanced: Initiates and monitors investigations across a varied
+- 1 — Awareness: Investigates a pattern when pointed to it, with support.
+- 2 — Working: Initiates straightforward investigations independently.
+- 3 — Practitioner: Initiates and monitors investigations across a varied
   caseload, consults specialists effectively, and determines both resolution
   and preventative measures.
 - 4 — Expert: Their preventative measures have measurably reduced recurring
@@ -434,10 +415,9 @@ making authority over acceptance and go-live.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -452,19 +432,17 @@ underlying services.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is a clear step up from "take inputs and
+Baseline: 3 — Practitioner. This is a clear step up from "take inputs and
 establish coherent frameworks" at the levels below, matching this level's
 accountability to assess readiness for the wider service, not just a single
 product.
 
 **Behavioural indicators**
 
-- 0 — None: Assesses each product in isolation, with no view of how it fits
-  the wider service.
-- 1 — Beginner: Recognises services are related but needs help investigating
+- 1 — Awareness: Recognises services are related but needs help investigating
   how to improve them together.
-- 2 — Intermediate: Investigates related services together with guidance.
-- 3 — Advanced: Independently investigates a group of related services and
+- 2 — Working: Investigates related services together with guidance.
+- 3 — Practitioner: Independently investigates a group of related services and
   identifies concrete ways to get better outcomes from the underlying
   services when making acceptance decisions.
 - 4 — Expert: Has reshaped how a group of services is accepted for
@@ -479,10 +457,9 @@ product.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -498,20 +475,18 @@ Technology Infrastructure Library).
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The addition of ITIL life cycle or capability
+Baseline: 2 — Working. The addition of ITIL life cycle or capability
 knowledge, beyond the qualification alone required at the levels below, is
 new here, so the baseline reflects a working grasp of the wider framework
 rather than just holding a certificate.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no relevant qualification and cannot describe ITIL's life
-  cycle stages.
-- 1 — Beginner: Holds the Level 3 qualification but describes ITIL concepts
+- 1 — Awareness: Holds the Level 3 qualification but describes ITIL concepts
   imprecisely.
-- 2 — Intermediate: Holds the qualification and correctly applies ITIL life
+- 2 — Working: Holds the qualification and correctly applies ITIL life
   cycle or capability concepts to explain transition decisions.
-- 3 — Advanced: Uses ITIL concepts to diagnose why a transition process is
+- 3 — Practitioner: Uses ITIL concepts to diagnose why a transition process is
   underdelivering and proposes a fix.
 - 4 — Expert: Is a reference point colleagues turn to for how ITIL should be
   applied to transition decisions.
@@ -525,10 +500,9 @@ rather than just holding a certificate.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -544,18 +518,16 @@ data about users to turn user focus into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the levels below,
+Baseline: 2 — Working. The wording is unchanged from the levels below,
 but at this level user needs evidence should directly inform go-live
 recommendations, not just individual test cases.
 
 **Behavioural indicators**
 
-- 0 — None: Makes go-live recommendations without reference to user needs
-  evidence.
-- 1 — Beginner: Considers user impact when it is pointed out.
-- 2 — Intermediate: Routinely factors user needs evidence into acceptance and
+- 1 — Awareness: Considers user impact when it is pointed out.
+- 2 — Working: Routinely factors user needs evidence into acceptance and
   go-live recommendations.
-- 3 — Advanced: Uses combined quantitative and qualitative evidence to argue
+- 3 — Practitioner: Uses combined quantitative and qualitative evidence to argue
   for delaying or accelerating a go-live decision.
 - 4 — Expert: Their user-focused judgement has changed how go-live decisions
   are made across the function.
@@ -569,10 +541,9 @@ recommendations, not just individual test cases.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -581,17 +552,17 @@ recommendations, not just individual test cases.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Availability and capacity management | 2 — Intermediate | | |
-| Change management | 2 — Intermediate | | |
-| Community collaboration | 2 — Intermediate | | |
-| Continuity management | 1 — Beginner | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 3 — Advanced | | |
-| Service focus | 3 — Advanced | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 2 — Working | | |
+| Availability and capacity management | 2 — Working | | |
+| Change management | 2 — Working | | |
+| Community collaboration | 2 — Working | | |
+| Continuity management | 1 — Awareness | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 3 — Practitioner | | |
+| Service focus | 3 — Practitioner | | |
+| Service management framework knowledge | 2 — Working | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

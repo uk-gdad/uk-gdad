@@ -2,10 +2,86 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Business relationship manager** role at the **Lead business relationship manager** level. You lead engagement with internal and external stakeholders so complex needs and challenges are understood, prioritised, and communicated, and you may lead a team. You ensure strategic demands such as spending reviews and services strategy commitments are met, promote ways of working that create meaningful connections, set the conditions for a culture of positive impact, and enable others to improve relationship maturity. Your development is now about leadership and culture.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md`](../../../assessments/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md)
+- Upskilling: [`upskills/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md`](../../../upskills/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md)
+
+### Role Level Focus: Lead Business Relationship Manager
+
+- [ ] Lead Engagement: Own how the organisation engages with internal and external stakeholders.
+- [ ] Meet Strategic Commitments: Ensure spending review and strategy commitments are met and communicated.
+- [ ] Promote Meaningful Ways of Working: Establish practices that create genuine connection and outcomes.
+- [ ] Set the Cultural Conditions: Build a culture of value, better user experience, and efficiency.
+- [ ] Enable Others: Help colleagues improve relationship maturity rather than doing it yourself.
+- [ ] Lead a Team: Complete line manager training if you manage anyone.
+- [ ] Learn Government Finance Deeply: Master business cases, spend controls, and funding cycles.
+- [ ] Grow Successors: Develop people who could take your role.
+
+### Skill: Business analysis (IT operations)
+
+- [ ] Direct Business Analysis: Own the collection of evidence and identification of problems and opportunities.
+- [ ] Align to Strategic Objectives: Ensure recommendations fit business strategy.
+- [ ] Communicate Persuasively: Present recommendations so important stakeholders act on them.
+- [ ] Find the Simplest Approach: Practise identifying the simplest option that would work.
+
+### Skill: Ownership and topic
+
+- [ ] Take Accountability: Own the issues that occur across your area.
+- [ ] Be Proactive: Search for potential problems before they surface.
+- [ ] Achieve Excellent User Outcomes: Judge success by what users experience.
+- [ ] Build an Ownership Culture: Make ownership expected rather than exceptional.
+
+### Skill: Service focus
+
+- [ ] See the Bigger Picture: Look across groups of services to get the best from underlying components.
+- [ ] Optimise the Whole: Improve end-to-end outcomes rather than local ones.
+- [ ] Champion Reuse: Push for shared and central solutions where they genuinely fit.
+- [ ] Measure Value: Show what relationship management delivers in business terms.
+
+### Skill: Service management framework knowledge
+
+- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
+- [ ] Know ITIL Elements: Demonstrate knowledge of the life cycle or capability elements.
+- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
+- [ ] Coach Others: Develop framework understanding across your team.
+
+### Skill: Stakeholder relationship management (IT operations)
+
+- [ ] Manage Long-Term Relationships: Nurture existing connections and identify where new ones are needed.
+- [ ] Direct the Strategic Approach: Establish stakeholder objectives and ensure they are represented.
+- [ ] Act as Escalation Point: Step in when relationships break down for junior colleagues.
+- [ ] Influence and Arbitrate: Influence senior stakeholders and arbitrate escalated blockers.
+- [ ] Facilitate Under Pressure: Handle high risk, complex discussions within constrained timelines.
+
+### Skill: Strategic thinking
+
+- [ ] Define Strategies and Policies: Own strategy and policy, and guide others on working within it.
+- [ ] Evaluate Current Strategies: Assess honestly whether strategies meet and exceed business requirements.
+- [ ] Learn Strategy Craft: Study strategy seriously and practise the version a director will read.
+- [ ] Track the Wider Landscape: Follow cross-government direction and its implications.
+
+### Skill: User focus
+
+- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
+- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
+- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
+- [ ] Apply Strategic Thinking: Shape the best service for the end user.
+
+### Skill Growth Plan: Beyond Lead Business Relationship Manager
+
+- [ ] Review Adjacent Roles: Read the head of IT service management, service owner, and deputy director descriptions.
+- [ ] Broaden Beyond Relationships: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,79 +179,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Business relationship manager** role at the **Lead business relationship manager** level. You lead engagement with internal and external stakeholders so complex needs and challenges are understood, prioritised, and communicated, and you may lead a team. You ensure strategic demands such as spending reviews and services strategy commitments are met, promote ways of working that create meaningful connections, set the conditions for a culture of positive impact, and enable others to improve relationship maturity. Your development is now about leadership and culture.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md`](../../../assessments/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md)
-- Upskilling: [`upskills/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md`](../../../upskills/it-operations/business-relationship-manager/3-lead-business-relationship-manager.md)
-
-### Role Level Focus: Lead Business Relationship Manager
-
-- [ ] Lead Engagement: Own how the organisation engages with internal and external stakeholders.
-- [ ] Meet Strategic Commitments: Ensure spending review and strategy commitments are met and communicated.
-- [ ] Promote Meaningful Ways of Working: Establish practices that create genuine connection and outcomes.
-- [ ] Set the Cultural Conditions: Build a culture of value, better user experience, and efficiency.
-- [ ] Enable Others: Help colleagues improve relationship maturity rather than doing it yourself.
-- [ ] Lead a Team: Complete line manager training if you manage anyone.
-- [ ] Learn Government Finance Deeply: Master business cases, spend controls, and funding cycles.
-- [ ] Grow Successors: Develop people who could take your role.
-
-### Skill: Business analysis (IT operations)
-
-- [ ] Direct Business Analysis: Own the collection of evidence and identification of problems and opportunities.
-- [ ] Align to Strategic Objectives: Ensure recommendations fit business strategy.
-- [ ] Communicate Persuasively: Present recommendations so important stakeholders act on them.
-- [ ] Find the Simplest Approach: Practise identifying the simplest option that would work.
-
-### Skill: Ownership and topic
-
-- [ ] Take Accountability: Own the issues that occur across your area.
-- [ ] Be Proactive: Search for potential problems before they surface.
-- [ ] Achieve Excellent User Outcomes: Judge success by what users experience.
-- [ ] Build an Ownership Culture: Make ownership expected rather than exceptional.
-
-### Skill: Service focus
-
-- [ ] See the Bigger Picture: Look across groups of services to get the best from underlying components.
-- [ ] Optimise the Whole: Improve end-to-end outcomes rather than local ones.
-- [ ] Champion Reuse: Push for shared and central solutions where they genuinely fit.
-- [ ] Measure Value: Show what relationship management delivers in business terms.
-
-### Skill: Service management framework knowledge
-
-- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
-- [ ] Know ITIL Elements: Demonstrate knowledge of the life cycle or capability elements.
-- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
-- [ ] Coach Others: Develop framework understanding across your team.
-
-### Skill: Stakeholder relationship management (IT operations)
-
-- [ ] Manage Long-Term Relationships: Nurture existing connections and identify where new ones are needed.
-- [ ] Direct the Strategic Approach: Establish stakeholder objectives and ensure they are represented.
-- [ ] Act as Escalation Point: Step in when relationships break down for junior colleagues.
-- [ ] Influence and Arbitrate: Influence senior stakeholders and arbitrate escalated blockers.
-- [ ] Facilitate Under Pressure: Handle high risk, complex discussions within constrained timelines.
-
-### Skill: Strategic thinking
-
-- [ ] Define Strategies and Policies: Own strategy and policy, and guide others on working within it.
-- [ ] Evaluate Current Strategies: Assess honestly whether strategies meet and exceed business requirements.
-- [ ] Learn Strategy Craft: Study strategy seriously and practise the version a director will read.
-- [ ] Track the Wider Landscape: Follow cross-government direction and its implications.
-
-### Skill: User focus
-
-- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
-- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
-- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
-- [ ] Apply Strategic Thinking: Shape the best service for the end user.
-
-### Skill Growth Plan: Beyond Lead Business Relationship Manager
-
-- [ ] Review Adjacent Roles: Read the head of IT service management, service owner, and deputy director descriptions.
-- [ ] Broaden Beyond Relationships: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

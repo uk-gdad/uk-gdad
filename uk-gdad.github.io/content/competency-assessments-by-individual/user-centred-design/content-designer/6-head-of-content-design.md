@@ -49,22 +49,21 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using User-centred content design, a skill this level
 names:
 
 - Someone who takes responsibility for one team's content quality sits
-  at **3 — Advanced**, below this assessment's baseline.
+  at **3 — Practitioner**, below this assessment's baseline.
 - Someone who directs content life cycle management across multiple
   teams, is accountable for the quality of what they produce, and identifies
   capability gaps to grow those teams sits at **4 — Expert** — the baseline
@@ -153,11 +152,10 @@ assessment's Expert point directly.
 
 **Behavioural indicators**
 
-- 0 — None: Has never coached anyone in Agile or Lean practice.
-- 1 — Beginner: Suggests an Agile improvement when asked.
-- 2 — Intermediate: Applies an Agile mindset well individually but has not
+- 1 — Awareness: Suggests an Agile improvement when asked.
+- 2 — Working: Applies an Agile mindset well individually but has not
   led a team's approach.
-- 3 — Advanced: Determines the right approach for one project and reviews it
+- 3 — Practitioner: Determines the right approach for one project and reviews it
   through its life — one step below this level's baseline.
 - 4 — Expert: Coaches and leads more than one team, or a whole discipline,
   in Agile and Lean practice, regularly assessing and closing capability
@@ -174,10 +172,9 @@ assessment's Expert point directly.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -192,7 +189,7 @@ collaborative environment, for example by pair working.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. As explained in `## About this role level`, this
+Baseline: 1 — Awareness. As explained in `## About this role level`, this
 skill's published text at head of content design matches associate and
 junior content designer, not the more advanced text published for every
 level in between. This assessment sets the baseline to what the framework
@@ -203,13 +200,11 @@ suggests.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a content prototype is or why a team might
-  make one.
-- 1 — Beginner: Explains what prototyping is and gives a plausible reason to
+- 1 — Awareness: Explains what prototyping is and gives a plausible reason to
   use it, and has taken part in pair working — this level's published
   baseline.
-- 2 — Intermediate: Has helped build a simple prototype as part of a team.
-- 3 — Advanced: Builds prototypes across a range of techniques
+- 2 — Working: Has helped build a simple prototype as part of a team.
+- 3 — Practitioner: Builds prototypes across a range of techniques
   independently, establishes content patterns from them, and coaches others
   to do the same — the description published for content designer through
   lead content designer, which many real head of content design people
@@ -229,10 +224,9 @@ suggests.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -259,13 +253,11 @@ strategy.
 
 **Behavioural indicators**
 
-- 0 — None: Has never been the escalation point for a broken stakeholder
-  relationship.
-- 1 — Beginner: Manages their own strategic stakeholder relationships
+- 1 — Awareness: Manages their own strategic stakeholder relationships
   competently.
-- 2 — Intermediate: Occasionally supports a colleague with a difficult
+- 2 — Working: Occasionally supports a colleague with a difficult
   stakeholder, with guidance.
-- 3 — Advanced: Manages long-term strategic relationships independently —
+- 3 — Practitioner: Manages long-term strategic relationships independently —
   one step below this level's baseline.
 - 4 — Expert: Acts as the organisation's escalation point for stakeholder
   relationships, arbitrates escalated blockers, and directs the strategic
@@ -282,10 +274,9 @@ strategy.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -302,7 +293,7 @@ greatest priority and ensuring goals and objectives are met.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This text is identical to senior and lead content
+Baseline: 3 — Practitioner. This text is identical to senior and lead content
 designer's, and this assessment keeps the same baseline for the skill's own
 text rather than inventing a higher one, while noting that this level's own
 accountability to develop content strategy for the whole organisation is
@@ -311,11 +302,10 @@ log even where this specific skill's baseline has not moved further.
 
 **Behavioural indicators**
 
-- 0 — None: Contributes to strategy only when told exactly what to write.
-- 1 — Beginner: Contributes meaningfully to a strategy someone else leads.
-- 2 — Intermediate: Leads a small, contained strategic improvement with
+- 1 — Awareness: Contributes meaningfully to a strategy someone else leads.
+- 2 — Working: Leads a small, contained strategic improvement with
   support.
-- 3 — Advanced: Helps lead the design and implementation of a strategy that
+- 3 — Practitioner: Helps lead the design and implementation of a strategy that
   spans the organisation, evaluates its impact against business objectives
   and user needs, and directs strategic content improvement projects by
   prioritising where effort matters most.
@@ -333,10 +323,9 @@ log even where this specific skill's baseline has not moved further.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -362,12 +351,10 @@ assessment's Expert point.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how user needs have changed over time for a
-  service they have worked on.
-- 1 — Beginner: Meets user needs for one channel with support.
-- 2 — Intermediate: Meets user needs across more than one channel, with some
+- 1 — Awareness: Meets user needs for one channel with support.
+- 2 — Working: Meets user needs across more than one channel, with some
   support directing a solution for a complex journey.
-- 3 — Advanced: Meets user needs across a variety of channels with extensive
+- 3 — Practitioner: Meets user needs across a variety of channels with extensive
   experience, but has not yet directed a whole discipline's approach — one
   step below this level's baseline.
 - 4 — Expert: Directs the whole discipline's approach to complex user
@@ -386,10 +373,9 @@ assessment's Expert point.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -417,10 +403,9 @@ content strategy.
 
 **Behavioural indicators**
 
-- 0 — None: Has never overseen another content designer's output.
-- 1 — Beginner: Reviews a colleague's content when asked.
-- 2 — Intermediate: Oversees a small piece of a team's work with support.
-- 3 — Advanced: Takes responsibility for one team's content quality and
+- 1 — Awareness: Reviews a colleague's content when asked.
+- 2 — Working: Oversees a small piece of a team's work with support.
+- 3 — Practitioner: Takes responsibility for one team's content quality and
   coaches individuals directly — one step below this level's baseline.
 - 4 — Expert: Directs content life cycle management across the
   organisation's teams, is accountable for the quality of what they
@@ -437,10 +422,9 @@ content strategy.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -450,9 +434,9 @@ content strategy.
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
 | Agile working (content design) | 4 — Expert | | |
-| Content concepts and prototyping | 1 — Beginner | | |
+| Content concepts and prototyping | 1 — Awareness | | |
 | Stakeholder relationship management (content design) | 4 — Expert | | |
-| Strategic thinking (content design) | 3 — Advanced | | |
+| Strategic thinking (content design) | 3 — Practitioner | | |
 | User focus (content design) | 4 — Expert | | |
 | User-centred content design | 4 — Expert | | |
 

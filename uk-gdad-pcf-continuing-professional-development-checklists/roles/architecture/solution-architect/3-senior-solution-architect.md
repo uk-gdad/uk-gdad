@@ -2,10 +2,92 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Solution architect** role at the **Senior solution architect** level. You are responsible for a single, more complex solution at moderate risk, you may lead and coach other solution architects, you build relationships with senior stakeholders, you support multiple architecture projects, and you help others follow best practice. Your development now is about complexity, coaching, and cross-team influence.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/solution-architect/3-senior-solution-architect.md`](../../../assessments/architecture/solution-architect/3-senior-solution-architect.md)
+- Upskilling: [`upskills/architecture/solution-architect/3-senior-solution-architect.md`](../../../upskills/architecture/solution-architect/3-senior-solution-architect.md)
+
+### Role Level Focus: Senior Solution Architect
+
+- [ ] Own a Complex Solution: Take responsibility for a solution with genuine complexity and moderate risk.
+- [ ] Coach Other Architects: Mentor colleagues with agreed goals, cadence, and review points.
+- [ ] Build Senior Relationships: Establish standing relationships with senior business and technical stakeholders.
+- [ ] Support Multiple Projects: Learn to hold several architecture projects in view without dropping any.
+- [ ] Support Best Practice: Help others follow good practice by explanation and example.
+- [ ] Find Emerging Approaches: Evaluate new technology with honest cost, risk, and exit analysis.
+- [ ] Deepen Your Craft: Work toward an advanced architecture certification if it helps your credibility.
+
+### Skill: Architect for the whole context
+
+- [ ] Align With Other Architects: Keep your work coherent with other architects and technical professionals.
+- [ ] Track Trends Over Time: Maintain a structured log of emerging issues, patterns, and technologies.
+- [ ] Identify Other Teams' Contributions: Understand how other teams deliver outcomes through change.
+- [ ] Apply Systems Thinking: Use systems thinking on genuinely messy cross-boundary problems.
+
+### Skill: Architecture communication
+
+- [ ] Lead Complex Communication: Own the explanation of complicated, complex, or risky topics.
+- [ ] Communicate With Senior Stakeholders: Build credibility with senior people across the organisation.
+- [ ] Adapt to the Audience: Move between technical and executive registers without losing accuracy.
+- [ ] Advocate for Teams: Represent teams' positions credibly to other stakeholders.
+- [ ] Manage Expectations: Be early and honest about what is realistic.
+
+### Skill: Commercial perspective
+
+- [ ] Learn Commercial Processes: Know the commercial routes and the people who run them.
+- [ ] Learn Sourcing Strategies: Understand sourcing options and when each applies.
+- [ ] Assess Supplier Dependence: Evaluate honestly what a technology choice commits you to.
+- [ ] Understand Spend Controls: Know what evidence approvals require, and prepare it early.
+
+### Skill: Community collaboration
+
+- [ ] Network Actively: Contribute regularly to communities inside and outside your organisation.
+- [ ] Adapt Your Feedback: Shape feedback so it is effective and lasting for the individual.
+- [ ] Rectify Team Dynamics: Use your perspective to identify friction and help resolve it.
+- [ ] Stimulate the Right Responses: Turn health check findings into concrete commitments.
+
+### Skill: Making architectural decisions
+
+- [ ] Make Medium-Risk Decisions: Own and guide decisions of medium risk and complexity.
+- [ ] Address Cross-Team Risks: Identify and act on risks affecting multiple teams or domains.
+- [ ] Use Governance Proportionately: Apply assurance at the right level rather than uniformly.
+- [ ] Improve Governance: Contribute to developing architectural governance and assurance.
+
+### Skill: Problem definition and shaping
+
+- [ ] Frame Medium-Complexity Problems: Frame problems clearly enough that solutions can be created.
+- [ ] Produce Shared Representations: Create representations teams share throughout the life cycle.
+- [ ] Describe Options: Set out options so delivery methods can be chosen appropriately.
+- [ ] Coach Framing: Start teaching others how to define problems well.
+
+### Skill: Strategy design
+
+- [ ] Support Strategy Development: Contribute to strategy and vision aligned with organisational objectives.
+- [ ] Challenge Assumptions: Question requirements persistently and constructively.
+- [ ] Support Implementation: Help turn strategy into roadmaps and plans.
+- [ ] Use Principles and Patterns: Apply architectural principles, patterns, and constraints deliberately.
+
+### Skill: Technical design throughout the life cycle
+
+- [ ] Create Medium-Risk Designs: Produce designs with medium risk, impact, and complexity.
+- [ ] Maintain Architectural Coherence: Keep design quality and coherence intact as change arrives.
+- [ ] Use Feedback to Refine: Optimise designs from real delivery feedback throughout the life cycle.
+- [ ] Design for Change: Practise designing so the likely changes are cheap.
+
+### Skill Growth Plan: Toward Lead Solution Architect
+
+- [ ] Review the Next Level: Read the Lead solution architect skill descriptions and mark your gaps.
+- [ ] Take On a Group of Projects: Ask for responsibility across several solutions rather than one.
+- [ ] Develop Best Practice: Write guidance that other architects adopt.
+- [ ] Build Supplier Skills: Get involved in evaluating and selecting suppliers.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,85 +185,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Solution architect** role at the **Senior solution architect** level. You are responsible for a single, more complex solution at moderate risk, you may lead and coach other solution architects, you build relationships with senior stakeholders, you support multiple architecture projects, and you help others follow best practice. Your development now is about complexity, coaching, and cross-team influence.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/solution-architect/3-senior-solution-architect.md`](../../../assessments/architecture/solution-architect/3-senior-solution-architect.md)
-- Upskilling: [`upskills/architecture/solution-architect/3-senior-solution-architect.md`](../../../upskills/architecture/solution-architect/3-senior-solution-architect.md)
-
-### Role Level Focus: Senior Solution Architect
-
-- [ ] Own a Complex Solution: Take responsibility for a solution with genuine complexity and moderate risk.
-- [ ] Coach Other Architects: Mentor colleagues with agreed goals, cadence, and review points.
-- [ ] Build Senior Relationships: Establish standing relationships with senior business and technical stakeholders.
-- [ ] Support Multiple Projects: Learn to hold several architecture projects in view without dropping any.
-- [ ] Support Best Practice: Help others follow good practice by explanation and example.
-- [ ] Find Emerging Approaches: Evaluate new technology with honest cost, risk, and exit analysis.
-- [ ] Deepen Your Craft: Work toward an advanced architecture certification if it helps your credibility.
-
-### Skill: Architect for the whole context
-
-- [ ] Align With Other Architects: Keep your work coherent with other architects and technical professionals.
-- [ ] Track Trends Over Time: Maintain a structured log of emerging issues, patterns, and technologies.
-- [ ] Identify Other Teams' Contributions: Understand how other teams deliver outcomes through change.
-- [ ] Apply Systems Thinking: Use systems thinking on genuinely messy cross-boundary problems.
-
-### Skill: Architecture communication
-
-- [ ] Lead Complex Communication: Own the explanation of complicated, complex, or risky topics.
-- [ ] Communicate With Senior Stakeholders: Build credibility with senior people across the organisation.
-- [ ] Adapt to the Audience: Move between technical and executive registers without losing accuracy.
-- [ ] Advocate for Teams: Represent teams' positions credibly to other stakeholders.
-- [ ] Manage Expectations: Be early and honest about what is realistic.
-
-### Skill: Commercial perspective
-
-- [ ] Learn Commercial Processes: Know the commercial routes and the people who run them.
-- [ ] Learn Sourcing Strategies: Understand sourcing options and when each applies.
-- [ ] Assess Supplier Dependence: Evaluate honestly what a technology choice commits you to.
-- [ ] Understand Spend Controls: Know what evidence approvals require, and prepare it early.
-
-### Skill: Community collaboration
-
-- [ ] Network Actively: Contribute regularly to communities inside and outside your organisation.
-- [ ] Adapt Your Feedback: Shape feedback so it is effective and lasting for the individual.
-- [ ] Rectify Team Dynamics: Use your perspective to identify friction and help resolve it.
-- [ ] Stimulate the Right Responses: Turn health check findings into concrete commitments.
-
-### Skill: Making architectural decisions
-
-- [ ] Make Medium-Risk Decisions: Own and guide decisions of medium risk and complexity.
-- [ ] Address Cross-Team Risks: Identify and act on risks affecting multiple teams or domains.
-- [ ] Use Governance Proportionately: Apply assurance at the right level rather than uniformly.
-- [ ] Improve Governance: Contribute to developing architectural governance and assurance.
-
-### Skill: Problem definition and shaping
-
-- [ ] Frame Medium-Complexity Problems: Frame problems clearly enough that solutions can be created.
-- [ ] Produce Shared Representations: Create representations teams share throughout the life cycle.
-- [ ] Describe Options: Set out options so delivery methods can be chosen appropriately.
-- [ ] Coach Framing: Start teaching others how to define problems well.
-
-### Skill: Strategy design
-
-- [ ] Support Strategy Development: Contribute to strategy and vision aligned with organisational objectives.
-- [ ] Challenge Assumptions: Question requirements persistently and constructively.
-- [ ] Support Implementation: Help turn strategy into roadmaps and plans.
-- [ ] Use Principles and Patterns: Apply architectural principles, patterns, and constraints deliberately.
-
-### Skill: Technical design throughout the life cycle
-
-- [ ] Create Medium-Risk Designs: Produce designs with medium risk, impact, and complexity.
-- [ ] Maintain Architectural Coherence: Keep design quality and coherence intact as change arrives.
-- [ ] Use Feedback to Refine: Optimise designs from real delivery feedback throughout the life cycle.
-- [ ] Design for Change: Practise designing so the likely changes are cheap.
-
-### Skill Growth Plan: Toward Lead Solution Architect
-
-- [ ] Review the Next Level: Read the Lead solution architect skill descriptions and mark your gaps.
-- [ ] Take On a Group of Projects: Ask for responsibility across several solutions rather than one.
-- [ ] Develop Best Practice: Write guidance that other architects adopt.
-- [ ] Build Supplier Skills: Get involved in evaluating and selecting suppliers.

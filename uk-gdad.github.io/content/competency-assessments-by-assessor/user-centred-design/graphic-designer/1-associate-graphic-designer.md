@@ -55,28 +55,25 @@ other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using Designing for everyone, a skill this level names:
 
-- A candidate who cannot name an access need a user might have sits at
-  **0 — None**.
 - A candidate who explains why inclusive, accessible and environmentally
   sustainable design matters, and can name a couple of access needs and
-  plausible ways to meet them, sits at **1 — Beginner** — the baseline this
+  plausible ways to meet them, sits at **1 — Awareness** — the baseline this
   assessment sets for this skill.
 - A candidate who independently spots and fixes an accessibility problem in
   their own design work is already working above this level, at
-  **2 — Intermediate**.
+  **2 — Working**.
 
 ## About this role level
 
@@ -122,20 +119,18 @@ design decisions.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Both bullets are "explain" and "describe" —
+Baseline: 1 — Awareness. Both bullets are "explain" and "describe" —
 understanding-level, matching a trainee who has not yet been asked to
 communicate design decisions independently.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a designer would need to explain a design
-  decision to someone else.
-- 1 — Beginner: Explains, in general terms, why articulating design
+- 1 — Awareness: Explains, in general terms, why articulating design
   decisions matters, and names a method — such as a rationale document or a
   walkthrough — for doing it.
-- 2 — Intermediate: Chooses an appropriate method to explain a specific
+- 2 — Working: Chooses an appropriate method to explain a specific
   design decision to a named audience, with support.
-- 3 — Advanced: Explains a design decision clearly to a non-designer
+- 3 — Practitioner: Explains a design decision clearly to a non-designer
   stakeholder without support — already working towards junior graphic
   designer.
 - 4 — Expert: Coaches others in how to communicate design decisions — well
@@ -152,10 +147,9 @@ communicate design decisions independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -172,21 +166,19 @@ delivery of content and services.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. All three bullets are explain or describe, matching
+Baseline: 1 — Awareness. All three bullets are explain or describe, matching
 a trainee who understands the principles but has not yet been asked to
 apply them unsupervised.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name an access need a user might have, or say why
-  inclusive design matters.
-- 1 — Beginner: Explains why inclusive, accessible and environmentally
+- 1 — Awareness: Explains why inclusive, accessible and environmentally
   sustainable design matters, names some access needs and plausible ways to
   meet them, and describes, in general terms, how privilege and power can
   shape a design.
-- 2 — Intermediate: Points out a specific accessibility problem in a piece
+- 2 — Working: Points out a specific accessibility problem in a piece
   of design work, with support fixing it.
-- 3 — Advanced: Designs a straightforward piece of content or service that
+- 3 — Practitioner: Designs a straightforward piece of content or service that
   meets basic accessibility standards without prompting — already working
   towards junior graphic designer.
 - 4 — Expert: Leads inclusive design practice across a team — well above
@@ -204,10 +196,9 @@ apply them unsupervised.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -223,20 +214,18 @@ patterns and components in design.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Explain and describe throughout — the trainee is
+Baseline: 1 — Awareness. Explain and describe throughout — the trainee is
 expected to understand why strategy and patterns matter, not yet to shape
 either.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a design should align with an organisation's
-  strategy.
-- 1 — Beginner: Explains why aligning to organisational strategy matters,
+- 1 — Awareness: Explains why aligning to organisational strategy matters,
   describes in general terms how their own work connects to the team's
   goals, and explains why using patterns and components is valuable.
-- 2 — Intermediate: Connects a specific piece of their own work to a stated
+- 2 — Working: Connects a specific piece of their own work to a stated
   team goal without being told to.
-- 3 — Advanced: Chooses an existing pattern or component for a piece of
+- 3 — Practitioner: Chooses an existing pattern or component for a piece of
   work and explains why it fits the team's strategy — already working
   towards junior graphic designer.
 - 4 — Expert: Shapes design strategy for a team or organisation — well
@@ -253,10 +242,9 @@ either.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -271,19 +259,17 @@ to explain the importance of constructive feedback in the design process.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Explain-only bullets, matching a trainee who has not
+Baseline: 1 — Awareness. Explain-only bullets, matching a trainee who has not
 yet run a collaborative design activity themselves.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a technique for bringing multiple people's
-  perspectives into a design.
-- 1 — Beginner: Names and explains a technique for gathering multiple
+- 1 — Awareness: Names and explains a technique for gathering multiple
   perspectives, such as a design crit or a workshop, and explains why
   constructive feedback matters.
-- 2 — Intermediate: Takes part constructively in a design crit or workshop
+- 2 — Working: Takes part constructively in a design crit or workshop
   and applies feedback received.
-- 3 — Advanced: Helps facilitate a small collaborative design session —
+- 3 — Practitioner: Helps facilitate a small collaborative design session —
   already working towards junior graphic designer.
 - 4 — Expert: Runs collaborative design practice across a team — well above
   this level.
@@ -300,10 +286,9 @@ yet run a collaborative design activity themselves.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -319,21 +304,19 @@ user-centred design.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Two of the three bullets are explain and identify;
+Baseline: 1 — Awareness. Two of the three bullets are explain and identify;
 "frame your ideas as design hypotheses" is a small step towards
 application, but the block as a whole still describes conceptual grounding
-rather than independently testing a hypothesis, so it stays at Beginner.
+rather than independently testing a hypothesis, so it stays at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what a design hypothesis is, or why data might
-  inform a design.
-- 1 — Beginner: Explains how research and analytics inform user-centred
+- 1 — Awareness: Explains how research and analytics inform user-centred
   design, names common sources and types of data, and can frame a simple
   idea as a hypothesis when prompted.
-- 2 — Intermediate: Frames their own design idea as a testable hypothesis
+- 2 — Working: Frames their own design idea as a testable hypothesis
   without prompting.
-- 3 — Advanced: Uses a specific piece of research or analytics to change a
+- 3 — Practitioner: Uses a specific piece of research or analytics to change a
   design decision — already working towards junior graphic designer.
 - 4 — Expert: Designs and runs evidence-gathering activity to test design
   hypotheses independently — well above this level.
@@ -349,10 +332,9 @@ rather than independently testing a hypothesis, so it stays at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -368,19 +350,18 @@ realism, or 'fidelities', and when to use them.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Describe and explain throughout, matching a trainee
+Baseline: 1 — Awareness. Describe and explain throughout, matching a trainee
 who understands the idea of iteration but has not yet been asked to run an
 iterative cycle themselves.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what an iterative design methodology is.
-- 1 — Beginner: Describes the basics of an iterative methodology such as
+- 1 — Awareness: Describes the basics of an iterative methodology such as
   agile, explains why iteration supports user-centred design, and describes
   a couple of prototyping fidelities and roughly when each is used.
-- 2 — Intermediate: Takes part in one round of iteration on a piece of
+- 2 — Working: Takes part in one round of iteration on a piece of
   design work, with support.
-- 3 — Advanced: Runs a full cycle of prototyping, testing and iterating a
+- 3 — Practitioner: Runs a full cycle of prototyping, testing and iterating a
   design independently — already working towards junior graphic designer.
 - 4 — Expert: Coaches a team in iterative practice — well above this level.
 
@@ -395,10 +376,9 @@ iterative cycle themselves.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -414,20 +394,18 @@ with.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Explain, describe and identify — orientation-level
+Baseline: 1 — Awareness. Explain, describe and identify — orientation-level
 bullets appropriate to someone new to the discipline, not yet in any
 leadership capacity.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what user-centred design contributes to an
-  organisation.
-- 1 — Beginner: Explains the role user-centred design plays in an
+- 1 — Awareness: Explains the role user-centred design plays in an
   organisation, describes what a design leader typically does, and
   identifies at least one leader their own team would need to work with.
-- 2 — Intermediate: Explains how a specific design leadership decision
+- 2 — Working: Explains how a specific design leadership decision
   affected a piece of work they were part of.
-- 3 — Advanced: Takes on a small piece of informal leadership, such as
+- 3 — Practitioner: Takes on a small piece of informal leadership, such as
   coordinating a task within a team — already working towards junior
   graphic designer.
 - 4 — Expert: Leads design for a team or organisation — well above this
@@ -444,10 +422,9 @@ leadership capacity.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -456,13 +433,13 @@ leadership capacity.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Design communication | 1 — Beginner | | |
-| Designing for everyone | 1 — Beginner | | |
-| Designing strategically | 1 — Beginner | | |
-| Designing together | 1 — Beginner | | |
-| Evidence-based design | 1 — Beginner | | |
-| Iterative design | 1 — Beginner | | |
-| Leading design | 1 — Beginner | | |
+| Design communication | 1 — Awareness | | |
+| Designing for everyone | 1 — Awareness | | |
+| Designing strategically | 1 — Awareness | | |
+| Designing together | 1 — Awareness | | |
+| Evidence-based design | 1 — Awareness | | |
+| Iterative design | 1 — Awareness | | |
+| Leading design | 1 — Awareness | | |
 
 **Scoring guidance.** The baseline for this role level is normally met when
 every skill above is rated at or above its baseline target. At this trainee

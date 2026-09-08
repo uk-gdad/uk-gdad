@@ -57,17 +57,16 @@ describe the person's approach and judgement instead.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale — how well the person does the thing, on the evidence
 available, not how often they do it or how they feel about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using the skill Data standards, which this role level
 names: a person who can create a data standard for a single subject and get
@@ -124,7 +123,7 @@ stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats the same wording as the level
+Baseline: 3 — Practitioner. The framework repeats the same wording as the level
 below unchanged, so the baseline stays at the same point on the scale — what
 grows at this level is the scale of the stakeholders involved, which the
 evidence gathered below should probe for, even though the skill's own
@@ -132,12 +131,11 @@ description has not.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot manage a stakeholder's expectations once a plan changes.
-- 1 — Beginner: Communicates plainly one-to-one but needs support in a group
+- 1 — Awareness: Communicates plainly one-to-one but needs support in a group
   setting with mixed technical and senior stakeholders.
-- 2 — Intermediate: Manages expectations for a familiar stakeholder group,
+- 2 — Working: Manages expectations for a familiar stakeholder group,
   and handles reactive communication with some support.
-- 3 — Advanced: Independently hosts a difficult discussion with diverse
+- 3 — Practitioner: Independently hosts a difficult discussion with diverse
   senior stakeholders across government, manages their differing
   expectations, and handles both planned and reactive communication without
   help.
@@ -154,10 +152,9 @@ description has not.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -180,13 +177,11 @@ this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Presents data in a way that cannot be acted on without further
-  translation by someone else.
-- 1 — Beginner: Can present a straightforward finding clearly, but struggles
+- 1 — Awareness: Can present a straightforward finding clearly, but struggles
   to convey risk or uncertainty.
-- 2 — Intermediate: Communicates a finding clearly enough to be acted on, and
+- 2 — Working: Communicates a finding clearly enough to be acted on, and
   names the main risk, with some support.
-- 3 — Advanced: Independently turns complex, uncertain data into a decision an
+- 3 — Practitioner: Independently turns complex, uncertain data into a decision an
   audience can act on, and correctly frames the options and their risks.
 - 4 — Expert: Does all of the above unaided and at organisational scale, and
   has visibly built this capability in others across the organisation, not
@@ -202,10 +197,9 @@ this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -219,7 +213,7 @@ colleagues to support the end use of the data.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is the third level in a row where the
+Baseline: 2 — Working. This is the third level in a row where the
 framework repeats this skill's wording unchanged. It is worth noting rather
 than smoothing over: the framework does not raise its own bar for this
 specific skill even at the top of the ladder, so the baseline holds where it
@@ -227,13 +221,11 @@ started, even though most of this level's other skills rise sharply.
 
 **Behavioural indicators**
 
-- 0 — None: Has not profiled a data source or identified data quality issues
-  in one.
-- 1 — Beginner: Can run a profiling task with a template or checklist and
+- 1 — Awareness: Can run a profiling task with a template or checklist and
   needs help interpreting the results.
-- 2 — Intermediate: Profiles a source system, identifies obvious quality or
+- 2 — Working: Profiles a source system, identifies obvious quality or
   structural issues, and writes up findings with some review.
-- 3 — Advanced: Independently profiles unfamiliar source systems and turns
+- 3 — Practitioner: Independently profiles unfamiliar source systems and turns
   findings into insight colleagues can act on, without prompting.
 - 4 — Expert: Designs the profiling approach for a new or unusual source, and
   is the person others check their findings against.
@@ -247,10 +239,9 @@ started, even though most of this level's other skills rise sharply.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -272,13 +263,11 @@ risk, is organisation-wide, accountable work with no level above to check it.
 
 **Behavioural indicators**
 
-- 0 — None: Treats data governance as separate from the organisation's wider
-  governance and strategy.
-- 1 — Beginner: Can describe how data governance should connect to wider
+- 1 — Awareness: Can describe how data governance should connect to wider
   governance, but has not made that connection happen.
-- 2 — Intermediate: Aligns data governance with one area of wider governance,
+- 2 — Working: Aligns data governance with one area of wider governance,
   such as budget, with support.
-- 3 — Advanced: Independently aligns data governance with the organisation's
+- 3 — Practitioner: Independently aligns data governance with the organisation's
   wider governance and strategy, and assures corporate services against
   understood risks.
 - 4 — Expert: Does all of the above at the whole-organisation level, is
@@ -295,10 +284,9 @@ risk, is organisation-wide, accountable work with no level above to check it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -312,20 +300,18 @@ appropriate timing for adoption.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Deciding when it is the right time to adopt something
+Baseline: 3 — Practitioner. Deciding when it is the right time to adopt something
 new is a judgement call with organisational consequences, a genuine step up
 from understanding impact at the level below, though it is a narrower part of
 this level's overall remit than, say, Data governance or Strategic thinking.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify an area of genuine innovation relevant to the
-  organisation's data practice.
-- 1 — Beginner: Can identify an area of innovation but not judge whether now
+- 1 — Awareness: Can identify an area of innovation but not judge whether now
   is the right time to adopt it.
-- 2 — Intermediate: Identifies relevant innovation and offers a view on
+- 2 — Working: Identifies relevant innovation and offers a view on
   timing, with some support in weighing the trade-offs.
-- 3 — Advanced: Independently identifies areas of innovation and makes a
+- 3 — Practitioner: Independently identifies areas of innovation and makes a
   sound, well-reasoned judgement on the right time to adopt them.
 - 4 — Expert: Their timing judgements are trusted across the organisation and
   beyond, and other organisations look to their adoption decisions.
@@ -339,10 +325,9 @@ this level's overall remit than, say, Data governance or Strategic thinking.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -365,13 +350,11 @@ is the framework's most senior expression of this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain how the organisation's data models relate to one
-  another.
-- 1 — Beginner: Understands core modelling concepts but has not designed a
+- 1 — Awareness: Understands core modelling concepts but has not designed a
   categorisation method.
-- 2 — Intermediate: Contributes to a categorisation method with support, and
+- 2 — Working: Contributes to a categorisation method with support, and
   spots reuse opportunities within their own organisation.
-- 3 — Advanced: Independently designs a sound method to categorise data
+- 3 — Practitioner: Independently designs a sound method to categorise data
   models within the organisation.
 - 4 — Expert: Does the above and also recognises and acts on reuse and
   alignment opportunities across government and industry, not only within
@@ -386,10 +369,9 @@ is the framework's most senior expression of this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -411,12 +393,10 @@ framework's own ladder for this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Applies organisation-wide standards without judging whether new
-  ones are needed.
-- 1 — Beginner: Can create a standard when told one is needed, with support.
-- 2 — Intermediate: Creates organisation-wide standards and oversees
+- 1 — Awareness: Can create a standard when told one is needed, with support.
+- 2 — Working: Creates organisation-wide standards and oversees
   compliance in a defined area, with some guidance.
-- 3 — Advanced: Independently creates and advocates for organisation-wide
+- 3 — Practitioner: Independently creates and advocates for organisation-wide
   standards and oversees compliance across the organisation.
 - 4 — Expert: Judges where standards need to be set across the organisation in
   the first place, and does so with a clear view of the wider government
@@ -431,10 +411,9 @@ framework's own ladder for this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -449,19 +428,17 @@ governance processes to keep repositories up to date.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Setting up governance processes across the
+Baseline: 3 — Practitioner. Setting up governance processes across the
 organisation, rather than designing a single repository, is a step up in
 scope from the level below, though the framework's wording here stops short
 of the government-wide reach it gives some of this level's other skills.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say how metadata repositories serve different areas of the
-  organisation.
-- 1 — Beginner: Can identify one area a repository could support, with help.
-- 2 — Intermediate: Identifies how repositories support several areas of the
+- 1 — Awareness: Can identify one area a repository could support, with help.
+- 2 — Working: Identifies how repositories support several areas of the
   organisation, and communicates their value, with some support.
-- 3 — Advanced: Independently identifies opportunities across the
+- 3 — Practitioner: Independently identifies opportunities across the
   organisation, communicates the value convincingly, and sets up governance
   processes that keep repositories accurate over time.
 - 4 — Expert: The governance processes they set up are the organisation's
@@ -477,10 +454,9 @@ of the government-wide reach it gives some of this level's other skills.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -501,12 +477,11 @@ the top of the framework's ladder for this skill.
 
 **Behavioural indicators**
 
-- 0 — None: Reacts to problems only once a team has already surfaced them.
-- 1 — Beginner: Can anticipate a familiar type of problem when prompted to
+- 1 — Awareness: Can anticipate a familiar type of problem when prompted to
   look for it.
-- 2 — Intermediate: Anticipates some organisational-level problems and helps
+- 2 — Working: Anticipates some organisational-level problems and helps
   a team describe an unclear one, with support.
-- 3 — Advanced: Independently anticipates problems, understands how they fit
+- 3 — Practitioner: Independently anticipates problems, understands how they fit
   the bigger picture, and helps others describe problems clearly.
 - 4 — Expert: Does all of the above and has visibly built other people's
   problem-solving capability, so the organisation anticipates problems better
@@ -521,10 +496,9 @@ the top of the framework's ladder for this skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -546,12 +520,11 @@ accountability for the organisation's whole data strategy.
 
 **Behavioural indicators**
 
-- 0 — None: Works to a strategy without evaluating whether it still fits.
-- 1 — Beginner: Can evaluate a strategy against requirements when given a
+- 1 — Awareness: Can evaluate a strategy against requirements when given a
   clear framework to use.
-- 2 — Intermediate: Contributes to defining strategy and evaluates it against
+- 2 — Working: Contributes to defining strategy and evaluates it against
   requirements, with support.
-- 3 — Advanced: Independently defines strategy and policy, and evaluates it
+- 3 — Practitioner: Independently defines strategy and policy, and evaluates it
   rigorously against business requirements.
 - 4 — Expert: Does all of the above and actively guides others in how to work
   within the strategic context, so the organisation's strategic thinking
@@ -566,10 +539,9 @@ accountability for the organisation's whole data strategy.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

@@ -51,7 +51,7 @@ derived projects mirror its index exactly, one document per role level each.
   work through alone.
 - [uk-gdad-pcf-competency-assessments-by-assessor](uk-gdad-pcf-competency-assessments-by-assessor/README.md):
   A skill-by-skill competency matrix, per role level, for an assessor to
-  rate a candidate or employee against a 0–4 proficiency scale.
+  rate a candidate or employee against a 1–4 proficiency scale.
 - [uk-gdad-pcf-competency-assessments-by-individual](uk-gdad-pcf-competency-assessments-by-individual/README.md):
   The same matrix, generated from its sibling, for the reader to rate
   themselves against.

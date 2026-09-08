@@ -63,7 +63,7 @@
     </li>
     <li>
       <strong>Competency assessment, by assessor</strong> — a skill-by-skill matrix an assessor
-      rates a candidate or employee against, on a 0–4 proficiency scale.
+      rates a candidate or employee against, on a 1–4 proficiency scale.
     </li>
     <li>
       <strong>Competency assessment, by individual</strong> — the same matrix, generated from its

@@ -2,10 +2,77 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Development operations (DevOps) engineer** role at the **Apprentice DevOps engineer** level in the UK GDAD PCF. You are learning on the job while attending certified training, spending a lot of time shadowing others, and helping with implementation rather than planning. That is exactly right for now, and this checklist will help you turn that time into evidence of real progress.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/software-development/development-operations-engineer/1-apprentice-devops-engineer.md`](../../../assessments/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
+- Upskilling: [`upskills/software-development/development-operations-engineer/1-apprentice-devops-engineer.md`](../../../upskills/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
+
+### Role Level Focus: Apprentice DevOps Engineer
+
+- [ ] Track Your Certified Training: Keep a list of every module, exam, and portfolio task, with dates and outcomes.
+- [ ] Log Your Shadowing: Note who you shadowed, what they did, and one thing you learned each time.
+- [ ] Learn the Toolchain Map: Draw your team's path from a code commit to a running service, naming every tool it passes through.
+- [ ] Get Comfortable in the Terminal: Practise shell basics daily until navigating, searching, and scripting feels natural.
+- [ ] Learn Version Control Well: Get confident with branching, merging, resolving conflicts, and recovering from mistakes.
+- [ ] Ask About the Rules: Find out which government standards apply to your service, such as the Technology Code of Practice.
+- [ ] Keep a Question Journal: Write down what puzzled you each day and bring it to your mentor.
+
+### Skill: Availability and capacity management
+
+- [ ] Learn the Words: Write plain-English definitions of availability, capacity, uptime, and service level.
+- [ ] Find the Dashboards: Ask to be shown your service's monitoring dashboards, and bookmark the important ones.
+- [ ] Watch an Alert Land: Sit with a colleague when an alert fires and note what they checked and in what order.
+- [ ] Explain It Back: Describe your service's availability target to someone non-technical and check they understood.
+
+### Skill: Information security
+
+- [ ] Complete Mandatory Training: Finish your department's security and data protection e-learning, and keep the certificates.
+- [ ] Learn Secrets Handling: Understand why credentials must never sit in code, and how your team stores them instead.
+- [ ] Learn Least Privilege: Find out what access you have, why you have it, and who reviews it.
+- [ ] Read the Basics: Work through an introduction to the OWASP Top Ten and note what each risk means in your own words.
+
+### Skill: Modern development standards
+
+- [ ] Learn Why Standards Exist: List three concrete problems that automation, linting, and review prevent.
+- [ ] Set Up Your Tooling: Get the team's formatter, linter, and pre-commit checks running on your machine.
+- [ ] Practise Small Changes: Make small, well-described changes rather than large ones, and notice how much easier review becomes.
+- [ ] Learn Infrastructure as Code Basics: Understand why infrastructure is defined in files rather than clicked into a console.
+
+### Skill: Programming and build (software engineering)
+
+- [ ] Understand the Build Process: Trace one change from commit to deployed environment and write down every stage.
+- [ ] Learn a Scripting Language: Work through a structured beginner course in your team's automation language.
+- [ ] Read a Pipeline Definition: Take a pipeline configuration file apart line by line until you can explain it.
+- [ ] Practise Safely: Build a tiny project of your own with a pipeline, so you can break things without consequence.
+
+### Skill: Prototyping
+
+- [ ] Define Prototyping: Write down what a prototype is and two situations where one saves time.
+- [ ] Try a Throwaway Build: Prototype a small automation idea, then delete it and reflect on what you learned.
+- [ ] Work in the Open: Share unfinished work early and practise receiving feedback comfortably.
+- [ ] Pair Regularly: Book at least one pairing session a week and take a turn driving.
+
+### Skill: Service support
+
+- [ ] Learn the Runbook: Read your service's support documentation and flag anything unclear or out of date.
+- [ ] Shadow Support Duty: Spend a half day alongside whoever is on support and watch how faults get triaged.
+- [ ] Complete Defined Activities: Take on small, well-defined support tasks under direction, and write up each one.
+- [ ] Learn the Escalation Path: Know who to tell, and how fast, when something looks seriously wrong.
+
+### Skill Growth Plan: Toward Junior DevOps Engineer
+
+- [ ] Review the Next Level: Read the Junior DevOps engineer skill descriptions and mark what you want to build next.
+- [ ] Pick Two Stretch Goals: Choose two skills to grow this quarter, agreed with your line manager.
+- [ ] Build a Portfolio: Collect scripts, pipeline changes, write-ups, and feedback that evidence your skills.
+- [ ] Book a Progress Review: Agree a date to walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,70 +170,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Development operations (DevOps) engineer** role at the **Apprentice DevOps engineer** level in the UK GDAD PCF. You are learning on the job while attending certified training, spending a lot of time shadowing others, and helping with implementation rather than planning. That is exactly right for now, and this checklist will help you turn that time into evidence of real progress.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/software-development/development-operations-engineer/1-apprentice-devops-engineer.md`](../../../assessments/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
-- Upskilling: [`upskills/software-development/development-operations-engineer/1-apprentice-devops-engineer.md`](../../../upskills/software-development/development-operations-engineer/1-apprentice-devops-engineer.md)
-
-### Role Level Focus: Apprentice DevOps Engineer
-
-- [ ] Track Your Certified Training: Keep a list of every module, exam, and portfolio task, with dates and outcomes.
-- [ ] Log Your Shadowing: Note who you shadowed, what they did, and one thing you learned each time.
-- [ ] Learn the Toolchain Map: Draw your team's path from a code commit to a running service, naming every tool it passes through.
-- [ ] Get Comfortable in the Terminal: Practise shell basics daily until navigating, searching, and scripting feels natural.
-- [ ] Learn Version Control Well: Get confident with branching, merging, resolving conflicts, and recovering from mistakes.
-- [ ] Ask About the Rules: Find out which government standards apply to your service, such as the Technology Code of Practice.
-- [ ] Keep a Question Journal: Write down what puzzled you each day and bring it to your mentor.
-
-### Skill: Availability and capacity management
-
-- [ ] Learn the Words: Write plain-English definitions of availability, capacity, uptime, and service level.
-- [ ] Find the Dashboards: Ask to be shown your service's monitoring dashboards, and bookmark the important ones.
-- [ ] Watch an Alert Land: Sit with a colleague when an alert fires and note what they checked and in what order.
-- [ ] Explain It Back: Describe your service's availability target to someone non-technical and check they understood.
-
-### Skill: Information security
-
-- [ ] Complete Mandatory Training: Finish your department's security and data protection e-learning, and keep the certificates.
-- [ ] Learn Secrets Handling: Understand why credentials must never sit in code, and how your team stores them instead.
-- [ ] Learn Least Privilege: Find out what access you have, why you have it, and who reviews it.
-- [ ] Read the Basics: Work through an introduction to the OWASP Top Ten and note what each risk means in your own words.
-
-### Skill: Modern development standards
-
-- [ ] Learn Why Standards Exist: List three concrete problems that automation, linting, and review prevent.
-- [ ] Set Up Your Tooling: Get the team's formatter, linter, and pre-commit checks running on your machine.
-- [ ] Practise Small Changes: Make small, well-described changes rather than large ones, and notice how much easier review becomes.
-- [ ] Learn Infrastructure as Code Basics: Understand why infrastructure is defined in files rather than clicked into a console.
-
-### Skill: Programming and build (software engineering)
-
-- [ ] Understand the Build Process: Trace one change from commit to deployed environment and write down every stage.
-- [ ] Learn a Scripting Language: Work through a structured beginner course in your team's automation language.
-- [ ] Read a Pipeline Definition: Take a pipeline configuration file apart line by line until you can explain it.
-- [ ] Practise Safely: Build a tiny project of your own with a pipeline, so you can break things without consequence.
-
-### Skill: Prototyping
-
-- [ ] Define Prototyping: Write down what a prototype is and two situations where one saves time.
-- [ ] Try a Throwaway Build: Prototype a small automation idea, then delete it and reflect on what you learned.
-- [ ] Work in the Open: Share unfinished work early and practise receiving feedback comfortably.
-- [ ] Pair Regularly: Book at least one pairing session a week and take a turn driving.
-
-### Skill: Service support
-
-- [ ] Learn the Runbook: Read your service's support documentation and flag anything unclear or out of date.
-- [ ] Shadow Support Duty: Spend a half day alongside whoever is on support and watch how faults get triaged.
-- [ ] Complete Defined Activities: Take on small, well-defined support tasks under direction, and write up each one.
-- [ ] Learn the Escalation Path: Know who to tell, and how fast, when something looks seriously wrong.
-
-### Skill Growth Plan: Toward Junior DevOps Engineer
-
-- [ ] Review the Next Level: Read the Junior DevOps engineer skill descriptions and mark what you want to build next.
-- [ ] Pick Two Stretch Goals: Choose two skills to grow this quarter, agreed with your line manager.
-- [ ] Build a Portfolio: Collect scripts, pipeline changes, write-ups, and feedback that evidence your skills.
-- [ ] Book a Progress Review: Agree a date to walk your evidence through with your mentor.

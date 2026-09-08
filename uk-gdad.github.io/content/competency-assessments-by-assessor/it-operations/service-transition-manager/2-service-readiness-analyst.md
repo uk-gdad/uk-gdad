@@ -66,27 +66,26 @@ anything other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Ownership and initiative.** At 1 — Beginner, a candidate
+**Worked example — Ownership and initiative.** At 1 — Awareness, a candidate
 might describe flagging a risk to the service transition manager and then
 moving on to the next task without checking it was picked up. At
-2 — Intermediate, a candidate for service readiness analyst should be able to
+2 — Working, a candidate for service readiness analyst should be able to
 describe flagging a risk, then following up unprompted a few days later to
 confirm it had been actioned. That follow-through — not just raising the
 flag, but owning it until someone else has clearly taken it — is what
-"Intermediate" evidence looks like at this level.
+"Working" evidence looks like at this level.
 
 ## About this role level
 
@@ -123,17 +122,15 @@ information to protect assets and components.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the service acceptance
+Baseline: 1 — Awareness. The wording is unchanged from the service acceptance
 analyst level and remains a procedural, supporting task alongside this
 level's main work of testing and application acceptance.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot locate or correct an asset record without step-by-step
-  help.
-- 1 — Beginner: Logs and corrects straightforward records under supervision.
-- 2 — Intermediate: Logs and corrects records unsupervised for common cases.
-- 3 — Advanced: Maintains accurate records across a varied testing caseload
+- 1 — Awareness: Logs and corrects straightforward records under supervision.
+- 2 — Working: Logs and corrects records unsupervised for common cases.
+- 3 — Practitioner: Maintains accurate records across a varied testing caseload
   without prompting.
 - 4 — Expert: Spots systemic data quality issues affecting acceptance
   testing.
@@ -147,10 +144,9 @@ level's main work of testing and application acceptance.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -165,19 +161,17 @@ components to ensure they meet business needs and key performance indicators
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a step up from the service acceptance
+Baseline: 2 — Working. This is a step up from the service acceptance
 analyst's "explain" wording, to actively managing components against
 business needs and KPIs — fitting this level's accountability for testing
 whether a product is genuinely ready.
 
 **Behavioural indicators**
 
-- 0 — None: Tests functional criteria only, without reference to
-  availability or capacity KPIs.
-- 1 — Beginner: Checks a component against its KPIs when asked.
-- 2 — Intermediate: Independently checks components against relevant KPIs as
+- 1 — Awareness: Checks a component against its KPIs when asked.
+- 2 — Working: Independently checks components against relevant KPIs as
   part of readiness testing.
-- 3 — Advanced: Investigates why a component might fail its KPIs after
+- 3 — Practitioner: Investigates why a component might fail its KPIs after
   go-live and flags it as a risk.
 - 4 — Expert: Anticipates capacity or availability risk before formal testing
   begins.
@@ -191,10 +185,9 @@ whether a product is genuinely ready.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -209,19 +202,18 @@ requests.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Moving from "implement ... under supervision" at
+Baseline: 2 — Working. Moving from "implement ... under supervision" at
 the level below to "analyse and assess the impact of change" is a step into
 independent judgement, matching this level's accountability for testing and
 accepting products.
 
 **Behavioural indicators**
 
-- 0 — None: Actions changes without assessing their likely impact.
-- 1 — Beginner: Assesses impact with support, and needs help documenting
+- 1 — Awareness: Assesses impact with support, and needs help documenting
   requests fully.
-- 2 — Intermediate: Independently assesses impact, documents requests
+- 2 — Working: Independently assesses impact, documents requests
   clearly, and actions changes correctly.
-- 3 — Advanced: Anticipates second-order effects of a change before it is
+- 3 — Practitioner: Anticipates second-order effects of a change before it is
   actioned.
 - 4 — Expert: Is trusted to assess the impact of the most complex changes
   arising from readiness testing.
@@ -234,10 +226,9 @@ accepting products.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -253,19 +244,17 @@ recognise and deal with issues.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a fuller, more active description than
+Baseline: 2 — Working. This is a fuller, more active description than
 the service acceptance analyst's "understand the work of others" — it asks
 for contribution and issue-handling, matching this level's accountability to
 escalate risk to the service transition manager on behalf of a wider group.
 
 **Behavioural indicators**
 
-- 0 — None: Works in isolation, without contributing to others' testing work
-  or noticing team issues.
-- 1 — Beginner: Contributes to others' testing work when asked.
-- 2 — Intermediate: Proactively contributes to colleagues' readiness testing
+- 1 — Awareness: Contributes to others' testing work when asked.
+- 2 — Working: Proactively contributes to colleagues' readiness testing
   and raises team issues they notice.
-- 3 — Advanced: Helps create a positive working environment for a testing
+- 3 — Practitioner: Helps create a positive working environment for a testing
   group and deals with minor issues directly.
 - 4 — Expert: Is sought out by colleagues for how they strengthen team
   working during readiness testing.
@@ -278,10 +267,9 @@ escalate risk to the service transition manager on behalf of a wider group.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -295,18 +283,17 @@ principles of IT standard continuity management processes and procedures.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below and
+Baseline: 1 — Awareness. The wording is unchanged from the level below and
 remains the lightest the framework uses for this skill — an explanatory
 grasp, not an applied one.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a continuity plan is for.
-- 1 — Beginner: Can explain the basic principles of continuity management
+- 1 — Awareness: Can explain the basic principles of continuity management
   when asked.
-- 2 — Intermediate: Recognises when a product under test has continuity
+- 2 — Working: Recognises when a product under test has continuity
   implications.
-- 3 — Advanced: Contributes usefully to a continuity-related acceptance
+- 3 — Practitioner: Contributes usefully to a continuity-related acceptance
   criterion.
 - 4 — Expert: Helps others understand continuity principles as part of
   induction.
@@ -320,10 +307,9 @@ grasp, not an applied one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -338,18 +324,17 @@ appropriate channel.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the service acceptance
+Baseline: 1 — Awareness. The wording is unchanged from the service acceptance
 analyst level — this level's incident-handling role remains procedural
 rather than diagnostic, since its focus is testing and acceptance.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot correctly identify or register an incident.
-- 1 — Beginner: Identifies and registers straightforward incidents with
+- 1 — Awareness: Identifies and registers straightforward incidents with
   support.
-- 2 — Intermediate: Identifies, registers and correctly allocates incidents
+- 2 — Working: Identifies, registers and correctly allocates incidents
   to the right channel unsupervised.
-- 3 — Advanced: Gathers thorough, well-organised information that speeds up
+- 3 — Practitioner: Gathers thorough, well-organised information that speeds up
   resolution by whoever picks the incident up.
 - 4 — Expert: Their incident registrations are used as the model for others.
 
@@ -361,10 +346,9 @@ rather than diagnostic, since its focus is testing and acceptance.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -378,7 +362,7 @@ new owner has been found or the problem has been mitigated or resolved.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is the full "own an issue" wording used
+Baseline: 2 — Working. This is the full "own an issue" wording used
 across most of the profession, a step up from the service acceptance
 analyst's lighter "show an awareness ... pass problems on", matching this
 level's explicit accountability to flag risks and escalate them — which
@@ -386,11 +370,10 @@ implies following through, not just raising a flag.
 
 **Behavioural indicators**
 
-- 0 — None: Flags a risk and moves on without checking it was picked up.
-- 1 — Beginner: Follows up on flagged risks, but only when prompted.
-- 2 — Intermediate: Tracks flagged risks and follows up unprompted, most of
+- 1 — Awareness: Follows up on flagged risks, but only when prompted.
+- 2 — Working: Tracks flagged risks and follows up unprompted, most of
   the time.
-- 3 — Advanced: Reliably owns every flagged risk through to confirmed
+- 3 — Practitioner: Reliably owns every flagged risk through to confirmed
   action or resolution.
 - 4 — Expert: Is known for never letting a flagged risk drop.
 
@@ -402,10 +385,9 @@ implies following through, not just raising a flag.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -421,19 +403,18 @@ the implementation of remedies and preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below —
+Baseline: 1 — Awareness. The wording is unchanged from the level below —
 "contribute to" remains a supporting role, appropriate to a level whose
 accountability is testing and readiness rather than problem resolution
 leadership.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot distinguish a strategic, tactical or operational problem.
-- 1 — Beginner: Investigates a problem with support, and can distinguish the
+- 1 — Awareness: Investigates a problem with support, and can distinguish the
   three levels when prompted.
-- 2 — Intermediate: Investigates straightforward problems independently and
+- 2 — Working: Investigates straightforward problems independently and
   contributes usefully to a remedy.
-- 3 — Advanced: Correctly classifies problems by level and contributes to
+- 3 — Practitioner: Correctly classifies problems by level and contributes to
   preventative measures unprompted.
 - 4 — Expert: Their contributions to remedies are consistently adopted.
 
@@ -446,10 +427,9 @@ leadership.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -463,19 +443,17 @@ establish coherent frameworks that work.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This wording is abstract and light compared with the
+Baseline: 1 — Awareness. This wording is abstract and light compared with the
 role's other skills, matching a supporting rather than leading part in this
 level's testing-focused work.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot pull together inputs from different sources into a
-  coherent picture.
-- 1 — Beginner: Pulls together straightforward inputs into a workable
+- 1 — Awareness: Pulls together straightforward inputs into a workable
   approach, with guidance.
-- 2 — Intermediate: Independently establishes a coherent approach from
+- 2 — Working: Independently establishes a coherent approach from
   varied inputs for routine readiness testing.
-- 3 — Advanced: Does this reliably for complex testing scenarios with
+- 3 — Practitioner: Does this reliably for complex testing scenarios with
   several competing inputs.
 - 4 — Expert: Their frameworks are adopted by others facing similar cases.
 
@@ -486,10 +464,9 @@ level's testing-focused work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -503,18 +480,17 @@ Level 3 service management framework qualification.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is a qualification threshold rather than a depth
+Baseline: 1 — Awareness. This is a qualification threshold rather than a depth
 of practice, so the baseline reflects holding, or being close to holding, the
 qualification.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Holds, or is working towards, a Level 3 qualification, and
+- 1 — Awareness: Holds, or is working towards, a Level 3 qualification, and
   can describe its basic terms.
-- 2 — Intermediate: Holds the qualification and applies its terminology
+- 2 — Working: Holds the qualification and applies its terminology
   correctly in day-to-day readiness testing.
-- 3 — Advanced: Uses framework concepts to explain to a colleague why a
+- 3 — Practitioner: Uses framework concepts to explain to a colleague why a
   process works the way it does.
 - 4 — Expert: Helps induct new starters into the framework's terms and
   processes.
@@ -527,10 +503,9 @@ qualification.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -546,17 +521,15 @@ data about users to turn user focus into outcomes.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the level below —
+Baseline: 2 — Working. The wording is unchanged from the level below —
 a working level of this skill, since testing readiness for go-live directly
 affects what users will experience.
 
 **Behavioural indicators**
 
-- 0 — None: Tests products purely against technical criteria, without
-  reference to user impact.
-- 1 — Beginner: Notes user impact when it is pointed out.
-- 2 — Intermediate: Considers user impact unprompted when testing readiness.
-- 3 — Advanced: Uses evidence from several test cases to argue that a
+- 1 — Awareness: Notes user impact when it is pointed out.
+- 2 — Working: Considers user impact unprompted when testing readiness.
+- 3 — Practitioner: Uses evidence from several test cases to argue that a
   readiness criterion should account for user impact.
 - 4 — Expert: Their user-impact evidence has changed how readiness criteria
   are set.
@@ -570,10 +543,9 @@ affects what users will experience.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -582,17 +554,17 @@ affects what users will experience.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 1 — Beginner | | |
-| Availability and capacity management | 2 — Intermediate | | |
-| Change management | 2 — Intermediate | | |
-| Community collaboration | 2 — Intermediate | | |
-| Continuity management | 1 — Beginner | | |
-| Incident management | 1 — Beginner | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 1 — Beginner | | |
-| Service focus | 1 — Beginner | | |
-| Service management framework knowledge | 1 — Beginner | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 1 — Awareness | | |
+| Availability and capacity management | 2 — Working | | |
+| Change management | 2 — Working | | |
+| Community collaboration | 2 — Working | | |
+| Continuity management | 1 — Awareness | | |
+| Incident management | 1 — Awareness | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 1 — Awareness | | |
+| Service focus | 1 — Awareness | | |
+| Service management framework knowledge | 1 — Awareness | | |
+| User focus | 2 — Working | | |
 
 The baseline is normally met when every skill is rated at or above its
 baseline target. One or two skills below target is not automatically a fail:

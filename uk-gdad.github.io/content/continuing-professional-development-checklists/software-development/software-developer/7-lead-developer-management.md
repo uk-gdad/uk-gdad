@@ -2,10 +2,108 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Software developer** role at the **Lead developer** level, management track. You lead development across one or a small number of related teams and you carry line management responsibility for the people in them. Your development now spans technical leadership, people leadership, and the process and policy work that makes both possible.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/software-development/software-developer/7-lead-developer-management.md`](../../../assessments/software-development/software-developer/7-lead-developer-management.md)
+- Upskilling: [`upskills/software-development/software-developer/7-lead-developer-management.md`](../../../upskills/software-development/software-developer/7-lead-developer-management.md)
+
+### Role Level Focus: Lead Developer (Management)
+
+- [ ] Guide Ways of Working: Own how your teams work, and review those ways of working with them regularly rather than imposing them.
+- [ ] Build a Management Rhythm: Run reliable one-to-ones, objective setting, and performance conversations for every report.
+- [ ] Develop Your Coaching Practice: Train formally in coaching or mentoring, and use it deliberately rather than instinctively.
+- [ ] Learn Resourcing and Budgets: Understand headcount, contracts, licences, and cloud spend for the teams you lead.
+- [ ] Recruit Well: Train in Success Profiles and inclusive recruitment, and take an active role in hiring panels.
+- [ ] Handle Performance Fairly: Learn your department's performance management process before you need it.
+- [ ] Contribute to the Developer Community: Support your people to speak, write, and share, and do so yourself.
+- [ ] Protect Technical Credibility: Reserve regular time for hands-on work so your judgement stays current.
+
+### Skill: Availability and capacity management
+
+- [ ] Ensure Correct Implementation: Make sure availability and capacity standards and procedures are followed across your teams.
+- [ ] Identify Capacity Issues: Read trend data early enough to act, and make capacity a standing agenda item.
+- [ ] Initiate Remedial Action: Own the decision to divert effort when capacity risk demands it, and explain that trade-off upward.
+- [ ] Connect Capacity to Budget: Learn how capacity choices show up in cost, and make the economics visible to stakeholders.
+
+### Skill: Development process optimisation
+
+- [ ] Analyse Current Processes: Map your teams' delivery processes properly, using evidence rather than assumption.
+- [ ] Implement Optimisation Opportunities: Lead improvements through to measured, sustained adoption.
+- [ ] Develop a Team of Experts: Grow the people who will deliver service improvements, and give them room to lead.
+- [ ] Set Policy and Standards: Help evaluate and establish requirements for change by setting clear, proportionate policy.
+- [ ] Learn Improvement Frameworks: Study lean, flow, and continuous improvement methods, and borrow what genuinely fits.
+
+### Skill: Information security
+
+- [ ] Engineer Against Named Threats: Ensure your teams' designs carry security controls traceable to specific threats.
+- [ ] Create Security Culture: Make raising a security concern easy, expected, and never punished.
+- [ ] Build Assurance Relationships: Work with security and assurance colleagues so reviews strengthen rather than delay delivery.
+- [ ] Keep Your Skills Current: Complete advanced secure development training so you can judge your teams' decisions.
+
+### Skill: Modern development standards
+
+- [ ] Apply Standards to Complex Programmes: Identify the standards that genuinely help multi-team, complex delivery.
+- [ ] Lead Others in Applying Them: Treat adoption as a leadership and communication task, not an enforcement task.
+- [ ] Make Standards Sustainable: Keep the standard set small, current, and owned by named people.
+- [ ] Support Cross-Government Alignment: Track relevant cross-government standards and align where it adds value.
+
+### Skill: Programming and build (software engineering)
+
+- [ ] Review Specifications Collaboratively: Model early challenge of unclear specifications so your teams do the same.
+- [ ] Deliver Real Complexity: Keep delivering medium-to-high complexity work yourself, documented to standard.
+- [ ] Coach Through Review: Use code and design review as your main teaching channel, and check how your feedback lands.
+- [ ] Set Tooling Direction: Make deliberate, explained choices about the tools your teams share.
+
+### Skill: Prototyping
+
+- [ ] Make It a Team Activity: Create psychological safety for rough work to be shared and tested openly.
+- [ ] Establish and Iterate Patterns: Ensure recurring problems get a shared, documented, evolving answer.
+- [ ] Vary the Methods: Encourage the cheapest method that answers the question, and coach the choice.
+- [ ] Fund Discovery: Protect prototyping time in plans and budgets, and defend it when pressure rises.
+
+### Skill: Service support
+
+- [ ] Identify, Locate, and Fix: Stay technically able to lead from the front on hard faults.
+- [ ] Design a Humane Support Model: Own on-call arrangements, compensation, and recovery time for your people.
+- [ ] Run Blameless Reviews: Facilitate post-incident reviews that get to causes and produce completed actions.
+- [ ] Reduce Operational Toil: Set a measurable goal for reducing repetitive support work.
+
+### Skill: Systems design
+
+- [ ] Design at Medium Risk and Complexity: Own designs with meaningful risk, impact, and complexity.
+- [ ] Select Standards and Ensure Application: Choose design standards, methods, and tools, and check they are genuinely used.
+- [ ] Review Others' Designs: Review for technology fit, resource efficiency, and integration across multiple systems.
+- [ ] Develop Designers: Give reports design ownership with you as safety net, and debrief afterwards.
+
+### Skill: Systems integration
+
+- [ ] Define the Integration Build: Own how components across teams come together into a working service.
+- [ ] Co-ordinate Build Activities: Practise orchestrating work across teams and suppliers you do not manage.
+- [ ] Support Integration Testing: Ensure environments, data, and contracts exist ahead of need.
+- [ ] Manage Supplier Interfaces: Learn how contracts and supplier relationships shape what integration is possible.
+
+### Skill: User focus
+
+- [ ] Represent Users Internally: Bring user evidence into governance, planning, and budget conversations.
+- [ ] Distinguish Needs from Desires: Coach your teams and stakeholders to make this distinction with confidence.
+- [ ] Champion Inclusive Research: Secure the time and money for research that reaches under-served users.
+- [ ] Guide Story Definition: Set expectations for how user needs are framed, prioritised, and evidenced.
+- [ ] Recommend Tools and Methods: Advise on the right research and analysis approach for each question.
+
+### Skill Growth Plan: Toward Principal Developer (Management)
+
+- [ ] Review the Next Level: Read the Principal developer skill descriptions and mark your gaps honestly.
+- [ ] Lead Beyond Your Teams: Take on a capability, community, or profession role that reaches across the organisation.
+- [ ] Shape Career Paths: Contribute to how developer career paths, internal mobility, and progression work.
+- [ ] Find Senior Sponsorship: Secure a mentor at deputy director level or equivalent, and meet them regularly.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,101 +201,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Software developer** role at the **Lead developer** level, management track. You lead development across one or a small number of related teams and you carry line management responsibility for the people in them. Your development now spans technical leadership, people leadership, and the process and policy work that makes both possible.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/software-development/software-developer/7-lead-developer-management.md`](../../../assessments/software-development/software-developer/7-lead-developer-management.md)
-- Upskilling: [`upskills/software-development/software-developer/7-lead-developer-management.md`](../../../upskills/software-development/software-developer/7-lead-developer-management.md)
-
-### Role Level Focus: Lead Developer (Management)
-
-- [ ] Guide Ways of Working: Own how your teams work, and review those ways of working with them regularly rather than imposing them.
-- [ ] Build a Management Rhythm: Run reliable one-to-ones, objective setting, and performance conversations for every report.
-- [ ] Develop Your Coaching Practice: Train formally in coaching or mentoring, and use it deliberately rather than instinctively.
-- [ ] Learn Resourcing and Budgets: Understand headcount, contracts, licences, and cloud spend for the teams you lead.
-- [ ] Recruit Well: Train in Success Profiles and inclusive recruitment, and take an active role in hiring panels.
-- [ ] Handle Performance Fairly: Learn your department's performance management process before you need it.
-- [ ] Contribute to the Developer Community: Support your people to speak, write, and share, and do so yourself.
-- [ ] Protect Technical Credibility: Reserve regular time for hands-on work so your judgement stays current.
-
-### Skill: Availability and capacity management
-
-- [ ] Ensure Correct Implementation: Make sure availability and capacity standards and procedures are followed across your teams.
-- [ ] Identify Capacity Issues: Read trend data early enough to act, and make capacity a standing agenda item.
-- [ ] Initiate Remedial Action: Own the decision to divert effort when capacity risk demands it, and explain that trade-off upward.
-- [ ] Connect Capacity to Budget: Learn how capacity choices show up in cost, and make the economics visible to stakeholders.
-
-### Skill: Development process optimisation
-
-- [ ] Analyse Current Processes: Map your teams' delivery processes properly, using evidence rather than assumption.
-- [ ] Implement Optimisation Opportunities: Lead improvements through to measured, sustained adoption.
-- [ ] Develop a Team of Experts: Grow the people who will deliver service improvements, and give them room to lead.
-- [ ] Set Policy and Standards: Help evaluate and establish requirements for change by setting clear, proportionate policy.
-- [ ] Learn Improvement Frameworks: Study lean, flow, and continuous improvement methods, and borrow what genuinely fits.
-
-### Skill: Information security
-
-- [ ] Engineer Against Named Threats: Ensure your teams' designs carry security controls traceable to specific threats.
-- [ ] Create Security Culture: Make raising a security concern easy, expected, and never punished.
-- [ ] Build Assurance Relationships: Work with security and assurance colleagues so reviews strengthen rather than delay delivery.
-- [ ] Keep Your Skills Current: Complete advanced secure development training so you can judge your teams' decisions.
-
-### Skill: Modern development standards
-
-- [ ] Apply Standards to Complex Programmes: Identify the standards that genuinely help multi-team, complex delivery.
-- [ ] Lead Others in Applying Them: Treat adoption as a leadership and communication task, not an enforcement task.
-- [ ] Make Standards Sustainable: Keep the standard set small, current, and owned by named people.
-- [ ] Support Cross-Government Alignment: Track relevant cross-government standards and align where it adds value.
-
-### Skill: Programming and build (software engineering)
-
-- [ ] Review Specifications Collaboratively: Model early challenge of unclear specifications so your teams do the same.
-- [ ] Deliver Real Complexity: Keep delivering medium-to-high complexity work yourself, documented to standard.
-- [ ] Coach Through Review: Use code and design review as your main teaching channel, and check how your feedback lands.
-- [ ] Set Tooling Direction: Make deliberate, explained choices about the tools your teams share.
-
-### Skill: Prototyping
-
-- [ ] Make It a Team Activity: Create psychological safety for rough work to be shared and tested openly.
-- [ ] Establish and Iterate Patterns: Ensure recurring problems get a shared, documented, evolving answer.
-- [ ] Vary the Methods: Encourage the cheapest method that answers the question, and coach the choice.
-- [ ] Fund Discovery: Protect prototyping time in plans and budgets, and defend it when pressure rises.
-
-### Skill: Service support
-
-- [ ] Identify, Locate, and Fix: Stay technically able to lead from the front on hard faults.
-- [ ] Design a Humane Support Model: Own on-call arrangements, compensation, and recovery time for your people.
-- [ ] Run Blameless Reviews: Facilitate post-incident reviews that get to causes and produce completed actions.
-- [ ] Reduce Operational Toil: Set a measurable goal for reducing repetitive support work.
-
-### Skill: Systems design
-
-- [ ] Design at Medium Risk and Complexity: Own designs with meaningful risk, impact, and complexity.
-- [ ] Select Standards and Ensure Application: Choose design standards, methods, and tools, and check they are genuinely used.
-- [ ] Review Others' Designs: Review for technology fit, resource efficiency, and integration across multiple systems.
-- [ ] Develop Designers: Give reports design ownership with you as safety net, and debrief afterwards.
-
-### Skill: Systems integration
-
-- [ ] Define the Integration Build: Own how components across teams come together into a working service.
-- [ ] Co-ordinate Build Activities: Practise orchestrating work across teams and suppliers you do not manage.
-- [ ] Support Integration Testing: Ensure environments, data, and contracts exist ahead of need.
-- [ ] Manage Supplier Interfaces: Learn how contracts and supplier relationships shape what integration is possible.
-
-### Skill: User focus
-
-- [ ] Represent Users Internally: Bring user evidence into governance, planning, and budget conversations.
-- [ ] Distinguish Needs from Desires: Coach your teams and stakeholders to make this distinction with confidence.
-- [ ] Champion Inclusive Research: Secure the time and money for research that reaches under-served users.
-- [ ] Guide Story Definition: Set expectations for how user needs are framed, prioritised, and evidenced.
-- [ ] Recommend Tools and Methods: Advise on the right research and analysis approach for each question.
-
-### Skill Growth Plan: Toward Principal Developer (Management)
-
-- [ ] Review the Next Level: Read the Principal developer skill descriptions and mark your gaps honestly.
-- [ ] Lead Beyond Your Teams: Take on a capability, community, or profession role that reaches across the organisation.
-- [ ] Shape Career Paths: Contribute to how developer career paths, internal mobility, and progression work.
-- [ ] Find Senior Sponsorship: Secure a mentor at deputy director level or equivalent, and meet them regularly.

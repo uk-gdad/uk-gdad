@@ -2,10 +2,87 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Technical writer** role at the **Lead technical writer** level. You are an expert practitioner who directs a team of technical writers, assures the quality of technical writing across teams and its alignment to strategy, standardises tools, processes, and ways of communicating, works with service managers, technology leaders, and senior stakeholders to resource teams and resolve problems, promotes the discipline, and keeps up to date with industry changes. Your development is now about leadership, standards, and advocacy.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/technical-writer/2-lead-technical-writer.md`](../../../assessments/user-centred-design/technical-writer/2-lead-technical-writer.md)
+- Upskilling: [`upskills/user-centred-design/technical-writer/2-lead-technical-writer.md`](../../../upskills/user-centred-design/technical-writer/2-lead-technical-writer.md)
+
+### Role Level Focus: Lead Technical Writer
+
+- [ ] Direct a Team: Develop the skill of leading writers, including through line management training.
+- [ ] Assure Quality Across Teams: Establish how technical writing quality is checked, and check it.
+- [ ] Standardise Tools and Processes: Choose and land shared tooling and ways of working.
+- [ ] Resource Teams: Work with service managers and technology leaders to get the right people in place.
+- [ ] Promote the Discipline: Make the case for technical writing to people who have not budgeted for it.
+- [ ] Engage Cross-Government: Take a visible role in the cross-government community.
+- [ ] Keep Up With Industry: Track how documentation practice is changing and adopt what fits.
+- [ ] Grow Successors: Develop writers who could take your role.
+
+### Skill: Agile working
+
+- [ ] Compare Delivery Methods: Identify the best processes and how to evaluate outcomes.
+- [ ] Help Teams Decide: Support teams in choosing the right approach.
+- [ ] Visualise Outcomes: Help teams manage and visualise outcomes and prioritise work.
+- [ ] Hold Scope Honestly: Help teams stick to agreed minimum viable product, priorities, and scope.
+
+### Skill: Prototyping
+
+- [ ] Choose the Method: Know when to use a specific prototyping technique.
+- [ ] Show the Value: Demonstrate what prototyping documentation reveals.
+- [ ] Prototype Early: Encourage documentation drafts before features are built.
+- [ ] Test With Real Readers: Ensure draft docs get tested with technical users.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
+- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
+- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
+- [ ] Build Engineering Partnerships: Maintain strong relationships with the teams your writers depend on.
+
+### Skill: Strategic thinking
+
+- [ ] Lead Strategy Design and Implementation: Own strategy from drafting through adoption to review.
+- [ ] Direct Strategy Evaluation: Establish how strategies and policies get evaluated against requirements.
+- [ ] Connect to Organisational Direction: Align documentation strategy with wider organisational strategy.
+- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a director will read.
+
+### Skill: Technical understanding (user-centred design)
+
+- [ ] Know the Technologies: Maintain knowledge of the technologies used to build and operate services.
+- [ ] Collaborate Across Disciplines: Work closely with developers, architects, and operations colleagues.
+- [ ] Keep Learning Technically: Set a structured technical learning goal each year.
+- [ ] Stay Hands-On Enough: Keep writing so your standards stay grounded in reality.
+
+### Skill: User focus
+
+- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
+- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
+- [ ] Track How Needs Change: Bring insight into how technical user needs have shifted.
+- [ ] Apply Strategic Thinking: Shape the best documentation experience across services.
+
+### Skill: User-centred content design
+
+- [ ] Direct Content Life Cycle Management: Ensure content is regularly reviewed and evaluated by teams.
+- [ ] Oversee Team Output: Make sure the right content is produced to meet user needs.
+- [ ] Bring Multi-Channel Experience: Draw on extensive experience of managing content across channels.
+- [ ] Encourage Process Evaluation: Support teams to review and iterate their processes and systems.
+- [ ] Be Accountable for Quality: Own the production of high quality, user-focused content.
+- [ ] Identify Capability Gaps: Spot skills gaps and help teams grow and develop.
+
+### Skill Growth Plan: Beyond Lead Technical Writer
+
+- [ ] Review Adjacent Roles: Read the content strategist, head of content design, and head of profession descriptions.
+- [ ] Broaden Beyond Documentation: Deepen your knowledge of service design and product management.
+- [ ] Build External Standing: Speak, write, or contribute to industry documentation communities.
+- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,80 +180,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Technical writer** role at the **Lead technical writer** level. You are an expert practitioner who directs a team of technical writers, assures the quality of technical writing across teams and its alignment to strategy, standardises tools, processes, and ways of communicating, works with service managers, technology leaders, and senior stakeholders to resource teams and resolve problems, promotes the discipline, and keeps up to date with industry changes. Your development is now about leadership, standards, and advocacy.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/technical-writer/2-lead-technical-writer.md`](../../../assessments/user-centred-design/technical-writer/2-lead-technical-writer.md)
-- Upskilling: [`upskills/user-centred-design/technical-writer/2-lead-technical-writer.md`](../../../upskills/user-centred-design/technical-writer/2-lead-technical-writer.md)
-
-### Role Level Focus: Lead Technical Writer
-
-- [ ] Direct a Team: Develop the skill of leading writers, including through line management training.
-- [ ] Assure Quality Across Teams: Establish how technical writing quality is checked, and check it.
-- [ ] Standardise Tools and Processes: Choose and land shared tooling and ways of working.
-- [ ] Resource Teams: Work with service managers and technology leaders to get the right people in place.
-- [ ] Promote the Discipline: Make the case for technical writing to people who have not budgeted for it.
-- [ ] Engage Cross-Government: Take a visible role in the cross-government community.
-- [ ] Keep Up With Industry: Track how documentation practice is changing and adopt what fits.
-- [ ] Grow Successors: Develop writers who could take your role.
-
-### Skill: Agile working
-
-- [ ] Compare Delivery Methods: Identify the best processes and how to evaluate outcomes.
-- [ ] Help Teams Decide: Support teams in choosing the right approach.
-- [ ] Visualise Outcomes: Help teams manage and visualise outcomes and prioritise work.
-- [ ] Hold Scope Honestly: Help teams stick to agreed minimum viable product, priorities, and scope.
-
-### Skill: Prototyping
-
-- [ ] Choose the Method: Know when to use a specific prototyping technique.
-- [ ] Show the Value: Demonstrate what prototyping documentation reveals.
-- [ ] Prototype Early: Encourage documentation drafts before features are built.
-- [ ] Test With Real Readers: Ensure draft docs get tested with technical users.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
-- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
-- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
-- [ ] Build Engineering Partnerships: Maintain strong relationships with the teams your writers depend on.
-
-### Skill: Strategic thinking
-
-- [ ] Lead Strategy Design and Implementation: Own strategy from drafting through adoption to review.
-- [ ] Direct Strategy Evaluation: Establish how strategies and policies get evaluated against requirements.
-- [ ] Connect to Organisational Direction: Align documentation strategy with wider organisational strategy.
-- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a director will read.
-
-### Skill: Technical understanding (user-centred design)
-
-- [ ] Know the Technologies: Maintain knowledge of the technologies used to build and operate services.
-- [ ] Collaborate Across Disciplines: Work closely with developers, architects, and operations colleagues.
-- [ ] Keep Learning Technically: Set a structured technical learning goal each year.
-- [ ] Stay Hands-On Enough: Keep writing so your standards stay grounded in reality.
-
-### Skill: User focus
-
-- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
-- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
-- [ ] Track How Needs Change: Bring insight into how technical user needs have shifted.
-- [ ] Apply Strategic Thinking: Shape the best documentation experience across services.
-
-### Skill: User-centred content design
-
-- [ ] Direct Content Life Cycle Management: Ensure content is regularly reviewed and evaluated by teams.
-- [ ] Oversee Team Output: Make sure the right content is produced to meet user needs.
-- [ ] Bring Multi-Channel Experience: Draw on extensive experience of managing content across channels.
-- [ ] Encourage Process Evaluation: Support teams to review and iterate their processes and systems.
-- [ ] Be Accountable for Quality: Own the production of high quality, user-focused content.
-- [ ] Identify Capability Gaps: Spot skills gaps and help teams grow and develop.
-
-### Skill Growth Plan: Beyond Lead Technical Writer
-
-- [ ] Review Adjacent Roles: Read the content strategist, head of content design, and head of profession descriptions.
-- [ ] Broaden Beyond Documentation: Deepen your knowledge of service design and product management.
-- [ ] Build External Standing: Speak, write, or contribute to industry documentation communities.
-- [ ] Invest in Leadership: Undertake formal leadership development and get a mentor or coach.

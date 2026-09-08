@@ -2,10 +2,77 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Content designer** role at the **Associate content designer** level in the UK GDAD PCF. You are in an entry-level position working under supervision, performing standard checks and copy edits while you build aptitude and understanding of the role. This is a great time to build the habits of clear writing and evidence-based decisions.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/content-designer/1-associate-content-designer.md`](../../../assessments/user-centred-design/content-designer/1-associate-content-designer.md)
+- Upskilling: [`upskills/user-centred-design/content-designer/1-associate-content-designer.md`](../../../upskills/user-centred-design/content-designer/1-associate-content-designer.md)
+
+### Role Level Focus: Associate Content Designer
+
+- [ ] Learn the Style Guide: Work through the GOV.UK style guide and content design guidance thoroughly.
+- [ ] Practise Plain English: Complete a plain English course and apply it to real content daily.
+- [ ] Learn Readability: Understand reading age, and check your content against it.
+- [ ] Master Copy Editing: Build accuracy and consistency in the standard checks you are asked to do.
+- [ ] Observe Research: Watch user research sessions and note what confused people.
+- [ ] Learn Accessibility Basics: Complete an introduction to WCAG and understand what it means for content.
+- [ ] Track Your Training: Keep a record of courses, exercises, and feedback with dates and outcomes.
+
+### Skill: Agile working (content design)
+
+- [ ] Work in Agile Teams: Build real experience of Agile ways of working and the tools used.
+- [ ] Explain Agile Methods: Be able to say why Agile methods are used and what they give teams.
+- [ ] Adapt and Reflect: Practise responding to feedback without defensiveness.
+- [ ] See Outside the Process: Notice when process is getting in the way of the outcome.
+
+### Skill: Content concepts and prototyping
+
+- [ ] Understand Prototyping: Explain what prototyping is and why and when to use it.
+- [ ] Work Collaboratively: Practise pair working and sharing unfinished content early.
+- [ ] Try the Prototype Kit: Build something small with the GOV.UK Prototype Kit.
+- [ ] Sketch Content in Context: Practise showing content within a page rather than as a document.
+
+### Skill: Stakeholder relationship management (content design)
+
+- [ ] Identify Your Stakeholders: Understand who they are and why relationships matter.
+- [ ] Learn What Evidence Convinces: Find out what evidence each stakeholder finds persuasive.
+- [ ] Practise Explaining Changes: Learn to explain a content edit in terms of user benefit.
+- [ ] Build a Stakeholder Map: Keep a simple map of interest and influence.
+
+### Skill: Strategic thinking (content design)
+
+- [ ] Understand the Strategic Context: Say why your work matters to the organisation's goals.
+- [ ] Support Strategic Planning: Help prepare planning materials and learn how priorities get set.
+- [ ] Read the Strategy: Study your organisation's digital and content strategy.
+- [ ] Connect Work to Goals: For each task, name the goal it serves.
+
+### Skill: User focus (content design)
+
+- [ ] Understand User Experience Principles: Complete an introduction to user experience analysis.
+- [ ] See the Purpose of User Stories: Rewrite three stories in your own words, including the need.
+- [ ] Meet Real Users: Attend research sessions and note what surprised you.
+- [ ] Ask About the User: For every edit, be able to say who it helps.
+
+### Skill: User-centred content design
+
+- [ ] Build Editorial Standards: Demonstrate decent, consistent editorial quality.
+- [ ] Learn Style Standards: Show awareness of the style standards your organisation uses.
+- [ ] Work Well Under Supervision: Take direction gracefully and act on feedback quickly.
+- [ ] Learn the Publishing Process: Understand how content actually gets published in your organisation.
+
+### Skill Growth Plan: Toward Junior Content Designer
+
+- [ ] Review the Next Level: Read the Junior content designer skill descriptions and mark what to build next.
+- [ ] Explain Your Decisions: Practise justifying content decisions with evidence.
+- [ ] Identify User Issues: Start spotting content problems before anyone reports them.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,70 +170,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Content designer** role at the **Associate content designer** level in the UK GDAD PCF. You are in an entry-level position working under supervision, performing standard checks and copy edits while you build aptitude and understanding of the role. This is a great time to build the habits of clear writing and evidence-based decisions.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/content-designer/1-associate-content-designer.md`](../../../assessments/user-centred-design/content-designer/1-associate-content-designer.md)
-- Upskilling: [`upskills/user-centred-design/content-designer/1-associate-content-designer.md`](../../../upskills/user-centred-design/content-designer/1-associate-content-designer.md)
-
-### Role Level Focus: Associate Content Designer
-
-- [ ] Learn the Style Guide: Work through the GOV.UK style guide and content design guidance thoroughly.
-- [ ] Practise Plain English: Complete a plain English course and apply it to real content daily.
-- [ ] Learn Readability: Understand reading age, and check your content against it.
-- [ ] Master Copy Editing: Build accuracy and consistency in the standard checks you are asked to do.
-- [ ] Observe Research: Watch user research sessions and note what confused people.
-- [ ] Learn Accessibility Basics: Complete an introduction to WCAG and understand what it means for content.
-- [ ] Track Your Training: Keep a record of courses, exercises, and feedback with dates and outcomes.
-
-### Skill: Agile working (content design)
-
-- [ ] Work in Agile Teams: Build real experience of Agile ways of working and the tools used.
-- [ ] Explain Agile Methods: Be able to say why Agile methods are used and what they give teams.
-- [ ] Adapt and Reflect: Practise responding to feedback without defensiveness.
-- [ ] See Outside the Process: Notice when process is getting in the way of the outcome.
-
-### Skill: Content concepts and prototyping
-
-- [ ] Understand Prototyping: Explain what prototyping is and why and when to use it.
-- [ ] Work Collaboratively: Practise pair working and sharing unfinished content early.
-- [ ] Try the Prototype Kit: Build something small with the GOV.UK Prototype Kit.
-- [ ] Sketch Content in Context: Practise showing content within a page rather than as a document.
-
-### Skill: Stakeholder relationship management (content design)
-
-- [ ] Identify Your Stakeholders: Understand who they are and why relationships matter.
-- [ ] Learn What Evidence Convinces: Find out what evidence each stakeholder finds persuasive.
-- [ ] Practise Explaining Changes: Learn to explain a content edit in terms of user benefit.
-- [ ] Build a Stakeholder Map: Keep a simple map of interest and influence.
-
-### Skill: Strategic thinking (content design)
-
-- [ ] Understand the Strategic Context: Say why your work matters to the organisation's goals.
-- [ ] Support Strategic Planning: Help prepare planning materials and learn how priorities get set.
-- [ ] Read the Strategy: Study your organisation's digital and content strategy.
-- [ ] Connect Work to Goals: For each task, name the goal it serves.
-
-### Skill: User focus (content design)
-
-- [ ] Understand User Experience Principles: Complete an introduction to user experience analysis.
-- [ ] See the Purpose of User Stories: Rewrite three stories in your own words, including the need.
-- [ ] Meet Real Users: Attend research sessions and note what surprised you.
-- [ ] Ask About the User: For every edit, be able to say who it helps.
-
-### Skill: User-centred content design
-
-- [ ] Build Editorial Standards: Demonstrate decent, consistent editorial quality.
-- [ ] Learn Style Standards: Show awareness of the style standards your organisation uses.
-- [ ] Work Well Under Supervision: Take direction gracefully and act on feedback quickly.
-- [ ] Learn the Publishing Process: Understand how content actually gets published in your organisation.
-
-### Skill Growth Plan: Toward Junior Content Designer
-
-- [ ] Review the Next Level: Read the Junior content designer skill descriptions and mark what to build next.
-- [ ] Explain Your Decisions: Practise justifying content decisions with evidence.
-- [ ] Identify User Issues: Start spotting content problems before anyone reports them.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

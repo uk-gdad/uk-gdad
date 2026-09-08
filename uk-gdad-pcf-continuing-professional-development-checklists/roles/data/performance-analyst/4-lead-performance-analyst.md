@@ -2,10 +2,86 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Performance analyst** role at the **Lead performance analyst** level. You manage performance analysts at any level, co-ordinating teams or groups of related analysts. You take forward and influence the strategy set by the head of performance analysis, including data implementation and architecture, remove blockers, act as escalation point, act as an ambassador for analytics, promote a data-driven culture, and coach analysts at every level. Your development now is about leadership, influence, and culture.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/performance-analyst/4-lead-performance-analyst.md`](../../../assessments/data/performance-analyst/4-lead-performance-analyst.md)
+- Upskilling: [`upskills/data/performance-analyst/4-lead-performance-analyst.md`](../../../upskills/data/performance-analyst/4-lead-performance-analyst.md)
+
+### Role Level Focus: Lead Performance Analyst
+
+- [ ] Co-ordinate Analyst Teams: Develop the skill of leading analysts across teams.
+- [ ] Influence the Strategy: Shape the performance analysis strategy, including data architecture.
+- [ ] Be a Dependable Escalation Point: Remove blockers rather than passing them on.
+- [ ] Act as an Ambassador: Represent analytics across communities, departments, and government.
+- [ ] Own Data Quality: Take responsibility for accuracy and for how analysis is used.
+- [ ] Promote a Data-Driven Culture: Share knowledge deliberately and make evidence normal.
+- [ ] Coach at Every Level: Mentor senior, mid-level, and associate analysts with agreed goals.
+- [ ] Grow Successors: Develop analysts who could take your role.
+
+### Skill: Analysis and insight
+
+- [ ] Teach and Supervise: Understand, teach, and supervise a wide range of analysis techniques.
+- [ ] Create Strategic Insight: Help the organisation create and learn from strategic insight.
+- [ ] Apply Innovative Approaches: Try new ways to resolve analytical problems.
+- [ ] Stay Technically Credible: Keep enough hands-on analysis to judge what you are shown.
+
+### Skill: Communicating analysis and insight
+
+- [ ] Communicate Compelling Stories: Use the most appropriate medium for the audience and message.
+- [ ] Make Complex Recommendations: Advise at both tactical and strategic level.
+- [ ] Report Honestly: Deliver uncomfortable findings clearly and early.
+- [ ] Develop Communication Capability: Grow this skill across your teams.
+
+### Skill: Performance measurement
+
+- [ ] Oversee Framework Consistency: Ensure frameworks are consistent across multiple projects.
+- [ ] Align to Business Strategy: Make sure frameworks serve business needs and strategy.
+- [ ] Prevent Measurement Sprawl: Keep the number of measures small enough to be meaningful.
+- [ ] Review Frameworks Regularly: Retire what no longer informs decisions.
+
+### Skill: Quality assurance of data and analysis
+
+- [ ] Set Up Assurance Systems: Build tools and systems for assuring data and analysis across teams.
+- [ ] Verify and Validate: Use appropriate approaches for checking data and analysis.
+- [ ] Influence Senior Stakeholders: Shape how the organisation approaches data and analysis.
+- [ ] Coach and Mentor: Develop others' skill in assuring data and analysis.
+
+### Skill: Technical understanding (performance analyst)
+
+- [ ] Identify Technology Opportunities: Spot where new digital technology could enhance analytical capability.
+- [ ] Align to Business Goals: Make sure technology choices serve organisational objectives.
+- [ ] Understand Data Architecture: Learn how your analytics data is stored, moved, and governed.
+- [ ] Evaluate Honestly: Include cost, privacy, and operational burden in every tooling assessment.
+
+### Skill: Understanding analysis across the product life cycle
+
+- [ ] Develop Sustainable Support Models: Ensure analysis keeps working after a project ends.
+- [ ] Manage Life Cycle Risks: Identify and deal with risks across and between phases.
+- [ ] Coach Others: Develop life cycle understanding in your analysts.
+- [ ] Support Other Teams: Contribute to assessments and guide teams through phases.
+- [ ] Champion Best Practice: Lead improvement of current approaches.
+
+### Skill: User-centred analysis
+
+- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
+- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
+- [ ] Apply Strategic Thinking: Shape the best service for the end user.
+- [ ] Consider Political Implications: Think through how analysis and insight will be received and used.
+
+### Skill Growth Plan: Toward Head of Performance Analysis
+
+- [ ] Review the Next Level: Read the Head of performance analysis skill descriptions and mark your gaps.
+- [ ] Draft the Strategy: Write a performance analysis strategy for the organisation.
+- [ ] Define Quality Assurance: Own the quality assurance framework for the discipline.
+- [ ] Learn Business Planning: Understand how capability is planned, funded, and recruited.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,79 +179,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Performance analyst** role at the **Lead performance analyst** level. You manage performance analysts at any level, co-ordinating teams or groups of related analysts. You take forward and influence the strategy set by the head of performance analysis, including data implementation and architecture, remove blockers, act as escalation point, act as an ambassador for analytics, promote a data-driven culture, and coach analysts at every level. Your development now is about leadership, influence, and culture.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/performance-analyst/4-lead-performance-analyst.md`](../../../assessments/data/performance-analyst/4-lead-performance-analyst.md)
-- Upskilling: [`upskills/data/performance-analyst/4-lead-performance-analyst.md`](../../../upskills/data/performance-analyst/4-lead-performance-analyst.md)
-
-### Role Level Focus: Lead Performance Analyst
-
-- [ ] Co-ordinate Analyst Teams: Develop the skill of leading analysts across teams.
-- [ ] Influence the Strategy: Shape the performance analysis strategy, including data architecture.
-- [ ] Be a Dependable Escalation Point: Remove blockers rather than passing them on.
-- [ ] Act as an Ambassador: Represent analytics across communities, departments, and government.
-- [ ] Own Data Quality: Take responsibility for accuracy and for how analysis is used.
-- [ ] Promote a Data-Driven Culture: Share knowledge deliberately and make evidence normal.
-- [ ] Coach at Every Level: Mentor senior, mid-level, and associate analysts with agreed goals.
-- [ ] Grow Successors: Develop analysts who could take your role.
-
-### Skill: Analysis and insight
-
-- [ ] Teach and Supervise: Understand, teach, and supervise a wide range of analysis techniques.
-- [ ] Create Strategic Insight: Help the organisation create and learn from strategic insight.
-- [ ] Apply Innovative Approaches: Try new ways to resolve analytical problems.
-- [ ] Stay Technically Credible: Keep enough hands-on analysis to judge what you are shown.
-
-### Skill: Communicating analysis and insight
-
-- [ ] Communicate Compelling Stories: Use the most appropriate medium for the audience and message.
-- [ ] Make Complex Recommendations: Advise at both tactical and strategic level.
-- [ ] Report Honestly: Deliver uncomfortable findings clearly and early.
-- [ ] Develop Communication Capability: Grow this skill across your teams.
-
-### Skill: Performance measurement
-
-- [ ] Oversee Framework Consistency: Ensure frameworks are consistent across multiple projects.
-- [ ] Align to Business Strategy: Make sure frameworks serve business needs and strategy.
-- [ ] Prevent Measurement Sprawl: Keep the number of measures small enough to be meaningful.
-- [ ] Review Frameworks Regularly: Retire what no longer informs decisions.
-
-### Skill: Quality assurance of data and analysis
-
-- [ ] Set Up Assurance Systems: Build tools and systems for assuring data and analysis across teams.
-- [ ] Verify and Validate: Use appropriate approaches for checking data and analysis.
-- [ ] Influence Senior Stakeholders: Shape how the organisation approaches data and analysis.
-- [ ] Coach and Mentor: Develop others' skill in assuring data and analysis.
-
-### Skill: Technical understanding (performance analyst)
-
-- [ ] Identify Technology Opportunities: Spot where new digital technology could enhance analytical capability.
-- [ ] Align to Business Goals: Make sure technology choices serve organisational objectives.
-- [ ] Understand Data Architecture: Learn how your analytics data is stored, moved, and governed.
-- [ ] Evaluate Honestly: Include cost, privacy, and operational burden in every tooling assessment.
-
-### Skill: Understanding analysis across the product life cycle
-
-- [ ] Develop Sustainable Support Models: Ensure analysis keeps working after a project ends.
-- [ ] Manage Life Cycle Risks: Identify and deal with risks across and between phases.
-- [ ] Coach Others: Develop life cycle understanding in your analysts.
-- [ ] Support Other Teams: Contribute to assessments and guide teams through phases.
-- [ ] Champion Best Practice: Lead improvement of current approaches.
-
-### Skill: User-centred analysis
-
-- [ ] Direct Tools and Methods: Give direction on which tools and methods teams should use.
-- [ ] Track How Needs Change: Bring insight into how user needs have shifted over time.
-- [ ] Apply Strategic Thinking: Shape the best service for the end user.
-- [ ] Consider Political Implications: Think through how analysis and insight will be received and used.
-
-### Skill Growth Plan: Toward Head of Performance Analysis
-
-- [ ] Review the Next Level: Read the Head of performance analysis skill descriptions and mark your gaps.
-- [ ] Draft the Strategy: Write a performance analysis strategy for the organisation.
-- [ ] Define Quality Assurance: Own the quality assurance framework for the discipline.
-- [ ] Learn Business Planning: Understand how capability is planned, funded, and recruited.

@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -52,14 +51,13 @@ The framework expects a lead application operations engineer to maintain secure 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's wording for this skill does not change from the base level, but a lead is expected to hold this accurately and independently across one or more areas as a matter of course, without the checking-in that a more junior colleague would still receive, so the baseline moves to Advanced on the strength of the level's overall seniority and its liaison accountabilities.
+Baseline: 3 — Practitioner. The framework's wording for this skill does not change from the base level, but a lead is expected to hold this accurately and independently across one or more areas as a matter of course, without the checking-in that a more junior colleague would still receive, so the baseline moves to Practitioner on the strength of the level's overall seniority and its liaison accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a configuration record is for or has never checked one against reality.
-- 1 — Beginner: Updates a configuration record correctly only when told exactly what to change.
-- 2 — Intermediate: Maintains accurate configuration and asset records for one area unprompted, with occasional oversight.
-- 3 — Advanced: Maintains configuration and asset accuracy across one or more areas without oversight, catches discrepancies before they cause an incident, and is the person other engineers check with when a record looks wrong.
+- 1 — Awareness: Updates a configuration record correctly only when told exactly what to change.
+- 2 — Working: Maintains accurate configuration and asset records for one area unprompted, with occasional oversight.
+- 3 — Practitioner: Maintains configuration and asset accuracy across one or more areas without oversight, catches discrepancies before they cause an incident, and is the person other engineers check with when a record looks wrong.
 - 4 — Expert: Sets the configuration and asset management standard for the wider service and is asked to review other teams' practice against it.
 
 **Evidence to gather**
@@ -70,10 +68,9 @@ Baseline: 3 — Advanced. The framework's wording for this skill does not change
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -86,14 +83,13 @@ The framework expects a lead application operations engineer to manage service c
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Managing components to KPIs is stated plainly, but at this level it sits alongside strategy-setting and cross-team liaison, so an assessor should expect this to be done independently and proactively rather than reactively.
+Baseline: 3 — Practitioner. Managing components to KPIs is stated plainly, but at this level it sits alongside strategy-setting and cross-team liaison, so an assessor should expect this to be done independently and proactively rather than reactively.
 
 **Behavioural indicators**
 
-- 0 — None: Does not know what availability or capacity KPIs apply to the applications they support.
-- 1 — Beginner: Reads the relevant availability or capacity figures, with help interpreting them.
-- 2 — Intermediate: Monitors service components against agreed KPIs and takes routine action to keep them within target.
-- 3 — Advanced: Spots capacity and availability trends before they breach KPIs, adjusts service components proactively, and explains the trade-offs to the leads they liaise with.
+- 1 — Awareness: Reads the relevant availability or capacity figures, with help interpreting them.
+- 2 — Working: Monitors service components against agreed KPIs and takes routine action to keep them within target.
+- 3 — Practitioner: Spots capacity and availability trends before they breach KPIs, adjusts service components proactively, and explains the trade-offs to the leads they liaise with.
 - 4 — Expert: Sets availability and capacity targets for a suite of applications and is consulted by other leads on how to reach theirs.
 
 **Evidence to gather**
@@ -104,10 +100,9 @@ Baseline: 3 — Advanced. Managing components to KPIs is stated plainly, but at 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -120,14 +115,13 @@ The framework expects a lead application operations engineer to manage high impa
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Manage high impact, complex change requests" and "ensure … are applied" describe independent ownership of the hardest changes and oversight of process, which is a clear step above applying procedure under supervision, and matches Advanced.
+Baseline: 3 — Practitioner. "Manage high impact, complex change requests" and "ensure … are applied" describe independent ownership of the hardest changes and oversight of process, which is a clear step above applying procedure under supervision, and matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Has never managed a change request beyond following a documented procedure.
-- 1 — Beginner: Manages a straightforward change request with close oversight.
-- 2 — Intermediate: Manages routine change requests independently, following release policy without deviation.
-- 3 — Advanced: Manages high impact, complex change requests independently, and checks that release policies and procedures are actually being applied by others, not just by themselves.
+- 1 — Awareness: Manages a straightforward change request with close oversight.
+- 2 — Working: Manages routine change requests independently, following release policy without deviation.
+- 3 — Practitioner: Manages high impact, complex change requests independently, and checks that release policies and procedures are actually being applied by others, not just by themselves.
 - 4 — Expert: Owns or shapes the release policy itself, and is brought in to manage the organisation's most business-critical changes.
 
 **Evidence to gather**
@@ -138,10 +132,9 @@ Baseline: 3 — Advanced. "Manage high impact, complex change requests" and "ens
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -154,14 +147,13 @@ The framework expects a lead application operations engineer to lead the investi
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Lead the investigation and resolution" is explicit leadership language, describing someone who runs an incident rather than works a step of it, which matches independent, Advanced practice.
+Baseline: 3 — Practitioner. "Lead the investigation and resolution" is explicit leadership language, describing someone who runs an incident rather than works a step of it, which matches independent, Practitioner practice.
 
 **Behavioural indicators**
 
-- 0 — None: Has never run an incident investigation, only followed instructions during one.
-- 1 — Beginner: Contributes to an investigation someone else is leading, with direction.
-- 2 — Intermediate: Leads the investigation of straightforward incidents, with a more senior colleague available if needed.
-- 3 — Advanced: Leads the investigation and resolution of incidents, including moderately complex ones with more than one plausible cause, coordinating other engineers and communicating clearly with affected stakeholders throughout.
+- 1 — Awareness: Contributes to an investigation someone else is leading, with direction.
+- 2 — Working: Leads the investigation of straightforward incidents, with a more senior colleague available if needed.
+- 3 — Practitioner: Leads the investigation and resolution of incidents, including moderately complex ones with more than one plausible cause, coordinating other engineers and communicating clearly with affected stakeholders throughout.
 - 4 — Expert: Is called on to lead the organisation's most difficult or highest-impact incidents, and has changed how their team runs a major incident based on what they learned.
 
 **Evidence to gather**
@@ -172,10 +164,9 @@ Baseline: 3 — Advanced. "Lead the investigation and resolution" is explicit le
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -188,14 +179,13 @@ The framework expects a lead application operations engineer to take accountabil
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Proactively searching for problems before they are reported, rather than only owning what lands on their desk, describes independent, self-directed practice, which matches Advanced.
+Baseline: 3 — Practitioner. Proactively searching for problems before they are reported, rather than only owning what lands on their desk, describes independent, self-directed practice, which matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Only acts on issues once someone else has raised them.
-- 1 — Beginner: Takes accountability for an issue once assigned it, but does not look for problems unprompted.
-- 2 — Intermediate: Takes accountability for issues in their own area and occasionally spots a potential problem before it is reported.
-- 3 — Advanced: Regularly searches out potential problems before they surface, takes accountability for the outcome even when the cause sits outside their own area, and can point to user outcomes that improved because of it.
+- 1 — Awareness: Takes accountability for an issue once assigned it, but does not look for problems unprompted.
+- 2 — Working: Takes accountability for issues in their own area and occasionally spots a potential problem before it is reported.
+- 3 — Practitioner: Regularly searches out potential problems before they surface, takes accountability for the outcome even when the cause sits outside their own area, and can point to user outcomes that improved because of it.
 - 4 — Expert: Is the person other leads expect to have already spotted a coming problem, and sets the standard for proactive ownership that others in the team are measured against.
 
 **Evidence to gather**
@@ -206,10 +196,9 @@ Baseline: 3 — Advanced. Proactively searching for problems before they are rep
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -222,14 +211,13 @@ The framework expects a lead application operations engineer to initiate and mon
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Initiating and monitoring investigations, choosing the resolution, and setting preventative measures describes independent judgement across the whole problem management cycle, which matches Advanced; "assist with" implementation, rather than own it outright, is why this stops short of Expert.
+Baseline: 3 — Practitioner. Initiating and monitoring investigations, choosing the resolution, and setting preventative measures describes independent judgement across the whole problem management cycle, which matches Practitioner; "assist with" implementation, rather than own it outright, is why this stops short of Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot distinguish an incident from a problem.
-- 1 — Beginner: Investigates a pattern or trend when told to, with direction on what to look for.
-- 2 — Intermediate: Investigates problems unprompted and proposes a workable remedy for straightforward cases.
-- 3 — Advanced: Initiates and monitors investigation of patterns and trends across systems, consults the right specialists at the right time, determines the appropriate resolution, and defines preventative measures that stop the problem recurring.
+- 1 — Awareness: Investigates a pattern or trend when told to, with direction on what to look for.
+- 2 — Working: Investigates problems unprompted and proposes a workable remedy for straightforward cases.
+- 3 — Practitioner: Initiates and monitors investigation of patterns and trends across systems, consults the right specialists at the right time, determines the appropriate resolution, and defines preventative measures that stop the problem recurring.
 - 4 — Expert: Runs problem management across a suite of applications, teaches others how to distinguish a symptom from a root cause, and their preventative measures are adopted beyond their own team.
 
 **Evidence to gather**
@@ -240,10 +228,9 @@ Baseline: 3 — Advanced. Initiating and monitoring investigations, choosing the
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -256,14 +243,13 @@ The framework expects a lead application operations engineer to take inputs and 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. At this level, "coherent frameworks that work" sit alongside cross-team liaison and strategy-setting duties, so an assessor should expect frameworks that other people actually adopt, not just ones that work for the author, which matches Advanced.
+Baseline: 3 — Practitioner. At this level, "coherent frameworks that work" sit alongside cross-team liaison and strategy-setting duties, so an assessor should expect frameworks that other people actually adopt, not just ones that work for the author, which matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their work fits into the wider service.
-- 1 — Beginner: Follows an existing framework without adapting it, even when it does not fit.
-- 2 — Intermediate: Puts together a working approach from a set of inputs for their own area.
-- 3 — Advanced: Builds coherent frameworks from varied inputs — requirements, constraints, existing tools — that other engineers and teams adopt, and revises them as circumstances change.
+- 1 — Awareness: Follows an existing framework without adapting it, even when it does not fit.
+- 2 — Working: Puts together a working approach from a set of inputs for their own area.
+- 3 — Practitioner: Builds coherent frameworks from varied inputs — requirements, constraints, existing tools — that other engineers and teams adopt, and revises them as circumstances change.
 - 4 — Expert: Designs frameworks that span multiple services and are adopted as the reference approach across IT operations.
 
 **Evidence to gather**
@@ -274,10 +260,9 @@ Baseline: 3 — Advanced. At this level, "coherent frameworks that work" sit alo
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -290,14 +275,13 @@ The framework expects a lead application operations engineer to show they have a
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This level names the same Level 3 qualification as the base level but adds demonstrated knowledge of ITIL's life cycle or capability elements, a materially deeper expectation, which moves the baseline up to Advanced.
+Baseline: 3 — Practitioner. This level names the same Level 3 qualification as the base level but adds demonstrated knowledge of ITIL's life cycle or capability elements, a materially deeper expectation, which moves the baseline up to Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification and cannot explain basic service management terms.
-- 1 — Beginner: Holds a Level 3 qualification but cannot explain how the ITIL life cycle or capability elements relate to their own work.
-- 2 — Intermediate: Holds a Level 3 qualification and can describe the ITIL life cycle or capability elements in general terms.
-- 3 — Advanced: Holds a Level 3 qualification and demonstrates working knowledge of the ITIL life cycle or capability elements by applying them to real decisions in their own applications.
+- 1 — Awareness: Holds a Level 3 qualification but cannot explain how the ITIL life cycle or capability elements relate to their own work.
+- 2 — Working: Holds a Level 3 qualification and can describe the ITIL life cycle or capability elements in general terms.
+- 3 — Practitioner: Holds a Level 3 qualification and demonstrates working knowledge of the ITIL life cycle or capability elements by applying them to real decisions in their own applications.
 - 4 — Expert: Holds an expert-level service management qualification and is asked to explain ITIL life cycle or capability concepts to other leads or teams.
 
 **Evidence to gather**
@@ -308,10 +292,9 @@ Baseline: 3 — Advanced. This level names the same Level 3 qualification as the
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -324,14 +307,13 @@ The framework expects a lead application operations engineer to draft and mainta
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Set standards … and ensure conformity" describes someone who defines the rules others follow and checks they are followed, which is independent, authoritative practice and matches Advanced.
+Baseline: 3 — Practitioner. "Set standards … and ensure conformity" describes someone who defines the rules others follow and checks they are followed, which is independent, authoritative practice and matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot draft a procedure or documentation without close guidance.
-- 1 — Beginner: Drafts or updates a procedure correctly when given a template and clear instructions.
-- 2 — Intermediate: Drafts and maintains procedures and documentation for their own area unprompted.
-- 3 — Advanced: Sets standards for the definition, security and integrity of objects across their area, and actively checks that others' work conforms to those standards.
+- 1 — Awareness: Drafts or updates a procedure correctly when given a template and clear instructions.
+- 2 — Working: Drafts and maintains procedures and documentation for their own area unprompted.
+- 3 — Practitioner: Sets standards for the definition, security and integrity of objects across their area, and actively checks that others' work conforms to those standards.
 - 4 — Expert: Sets technical standards that are adopted beyond their own team and is the escalation point when a standard itself needs to change.
 
 **Evidence to gather**
@@ -342,10 +324,9 @@ Baseline: 3 — Advanced. "Set standards … and ensure conformity" describes so
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -362,10 +343,9 @@ Baseline: 4 — Expert. "Authoritative advice and guidance" and "contribute to t
 
 **Behavioural indicators**
 
-- 0 — None: Cannot plan a test or explain what functional and non-functional specifications are.
-- 1 — Beginner: Executes a test plan someone else wrote, with checking.
-- 2 — Intermediate: Plans and runs system and acceptance tests for their own application unprompted.
-- 3 — Advanced: Manages the planning of system and acceptance tests independently, co-ordinating functional and non-functional specifications across more than one component.
+- 1 — Awareness: Executes a test plan someone else wrote, with checking.
+- 2 — Working: Plans and runs system and acceptance tests for their own application unprompted.
+- 3 — Practitioner: Manages the planning of system and acceptance tests independently, co-ordinating functional and non-functional specifications across more than one component.
 - 4 — Expert: Is sought out for authoritative advice on test planning beyond their own application, and has contributed a process improvement or a piece of best practice that other teams have adopted.
 
 **Evidence to gather**
@@ -376,10 +356,9 @@ Baseline: 4 — Expert. "Authoritative advice and guidance" and "contribute to t
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -396,10 +375,9 @@ Baseline: 4 — Expert. "Guiding others in doing so" is an explicit statement th
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with users or user research in their work.
-- 1 — Beginner: Uses user research findings someone else produced, without contributing to how research is done.
-- 2 — Intermediate: Collaborates with user researchers, represents users internally, and can explain the difference between a user need and a user desire.
-- 3 — Advanced: Champions user research so that it covers all relevant users, not just the loudest or most convenient ones, and prioritises and defines an approach to understanding a user story independently.
+- 1 — Awareness: Uses user research findings someone else produced, without contributing to how research is done.
+- 2 — Working: Collaborates with user researchers, represents users internally, and can explain the difference between a user need and a user desire.
+- 3 — Practitioner: Champions user research so that it covers all relevant users, not just the loudest or most convenient ones, and prioritises and defines an approach to understanding a user story independently.
 - 4 — Expert: Guides other engineers in how to define an approach to understanding a user story, and is asked to recommend which tools and methods a team should use.
 
 **Evidence to gather**
@@ -410,10 +388,9 @@ Baseline: 4 — Expert. "Guiding others in doing so" is an explicit statement th
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -422,15 +399,15 @@ Baseline: 4 — Expert. "Guiding others in doing so" is an explicit statement th
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 3 — Advanced | | |
-| Availability and capacity management | 3 — Advanced | | |
-| Change management | 3 — Advanced | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
-| Problem management | 3 — Advanced | | |
-| Service focus | 3 — Advanced | | |
-| Service management framework knowledge | 3 — Advanced | | |
-| Technical specialism | 3 — Advanced | | |
+| Asset and configuration management | 3 — Practitioner | | |
+| Availability and capacity management | 3 — Practitioner | | |
+| Change management | 3 — Practitioner | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
+| Problem management | 3 — Practitioner | | |
+| Service focus | 3 — Practitioner | | |
+| Service management framework knowledge | 3 — Practitioner | | |
+| Technical specialism | 3 — Practitioner | | |
 | Testing | 4 — Expert | | |
 | User focus | 4 — Expert | | |
 

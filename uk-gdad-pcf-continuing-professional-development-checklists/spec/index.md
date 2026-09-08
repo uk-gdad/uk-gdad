@@ -37,17 +37,20 @@ Identical in all 205 files:
 
 The level is identified by the file path and by the website page around it, not
 by the title. This is deliberate: the general checklists are the same for
-everyone, and only the last section is level-specific.
+everyone, and only the first section is level-specific.
 
 ### Required sections
 
+In this order — the level-specific section first, since it is the whole
+reason a reader opened this file rather than anyone else's:
+
 | Section | Level-specific? | What it holds |
 | --- | --- | --- |
+| `## UK GDAD PCF Role Skill Specifics` | **Yes** | The checklist for this level |
 | `## Types` | No | Structured, reflective and self-directed CPD |
 | `## Phases` | No | Reflect and plan · select and execute · track and apply |
 | `## Events` | No | Conferences, meetups, courses, communities |
 | `## Teamwork` | No | Learning with and from colleagues |
-| `## UK GDAD PCF Role Skill Specifics` | **Yes** | The checklist for this level |
 
 The four general sections come from `spec/template.md` and are copied verbatim.
 Change the template, and every file changes with it.

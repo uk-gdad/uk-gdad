@@ -45,22 +45,21 @@ in the project specification for what this rules out.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well the person does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Systems integration:
 
-- **2 — Intermediate**: with a colleague's steer, they helped coordinate one part of a
+- **2 — Working**: with a colleague's steer, they helped coordinate one part of a
   model's integration into an existing system.
-- **3 — Advanced**: they independently defined the integration build for a model going
+- **3 — Practitioner**: they independently defined the integration build for a model going
   into production, coordinated build activities across the systems it touched, and ran
   the integration testing themselves.
 - **4 — Expert**: they set the integration standards the wider engineering team now
@@ -111,18 +110,17 @@ available within the organisation.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Creating and embedding models, and providing guidance on
+Baseline: 3 — Practitioner. Creating and embedding models, and providing guidance on
 matching data sources to technique, is independent, strong-grasp work — this text is
 also used unchanged at the lead level above, so it describes a baseline that both levels
 share rather than one this level alone is expected to exceed.
 
 **Behavioural indicators**
 
-- 0 — None: has not applied a quantitative technique to create or embed a model.
-- 1 — Beginner: has followed a technique someone else chose, with close direction.
-- 2 — Intermediate: has applied a named technique such as time series analysis or
+- 1 — Awareness: has followed a technique someone else chose, with close direction.
+- 2 — Working: has applied a named technique such as time series analysis or
   optimisation with some guidance.
-- 3 — Advanced: independently applies techniques such as time series analysis,
+- 3 — Practitioner: independently applies techniques such as time series analysis,
   optimisation or simulation to create and embed models, and can advise a colleague on
   which data source and technique fits a given analysis goal.
 - 4 — Expert: is the person the wider team asks which statistical technique to use for
@@ -138,10 +136,9 @@ share rather than one this level alone is expected to exceed.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -157,17 +154,15 @@ team or with diverse senior stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Hosting difficult discussions with senior stakeholders, not
+Baseline: 3 — Practitioner. Hosting difficult discussions with senior stakeholders, not
 just attending them, is independent, strong-grasp communication work.
 
 **Behavioural indicators**
 
-- 0 — None: has not managed a technical-to-non-technical stakeholder conversation
-  unsupported.
-- 1 — Beginner: has taken notes or contributed to a discussion someone else led.
-- 2 — Intermediate: has managed stakeholder expectations for a routine update with some
+- 1 — Awareness: has taken notes or contributed to a discussion someone else led.
+- 2 — Working: has managed stakeholder expectations for a routine update with some
   support.
-- 3 — Advanced: independently interprets and manages the needs of technical and
+- 3 — Practitioner: independently interprets and manages the needs of technical and
   non-technical stakeholders, and has supported or hosted a difficult discussion with a
   senior stakeholder.
 - 4 — Expert: is trusted to lead the most difficult stakeholder conversations in the
@@ -184,10 +179,9 @@ just attending them, is independent, strong-grasp communication work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -204,19 +198,17 @@ challenge proposed data ethics policies.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Assess and constructively challenge proposed... policies" is
+Baseline: 3 — Practitioner. "Assess and constructively challenge proposed... policies" is
 independent, judgement-based work — this text is also used unchanged at the lead level
 above, so both levels share this baseline rather than the lead level alone being held
 to it.
 
 **Behavioural indicators**
 
-- 0 — None: has not identified or addressed a data ethics or privacy concern
-  independently.
-- 1 — Beginner: has flagged a concern to someone more senior but not led the response.
-- 2 — Intermediate: has worked with a stakeholder to address a specific ethics concern,
+- 1 — Awareness: has flagged a concern to someone more senior but not led the response.
+- 2 — Working: has worked with a stakeholder to address a specific ethics concern,
   with some guidance.
-- 3 — Advanced: independently identifies and addresses ethics and privacy concerns in
+- 3 — Practitioner: independently identifies and addresses ethics and privacy concerns in
   their model work, keeps current with developments in the field, and has
   constructively challenged a proposed data ethics policy.
 - 4 — Expert: shapes the organisation's data ethics policy or framework for machine
@@ -233,10 +225,9 @@ to it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -252,17 +243,16 @@ practices.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Developing solutions that maximise insight, and identifying
+Baseline: 3 — Practitioner. Developing solutions that maximise insight, and identifying
 improvement opportunities unprompted, is independent, strong-grasp work, though not yet
 the "leader in the data science space" language the lead level above uses.
 
 **Behavioural indicators**
 
-- 0 — None: cannot demonstrate practical knowledge of data science tools or techniques.
-- 1 — Beginner: knows the names of common data science tools and techniques but has not
+- 1 — Awareness: knows the names of common data science tools and techniques but has not
   applied them independently.
-- 2 — Intermediate: has applied a data science tool or technique with some guidance.
-- 3 — Advanced: independently develops data science solutions that maximise insight,
+- 2 — Working: has applied a data science tool or technique with some guidance.
+- 3 — Practitioner: independently develops data science solutions that maximise insight,
   and has identified an opportunity to improve a data practice that was then adopted.
 - 4 — Expert: is recognised as a leader in the data science space, coaches others, and
   actively challenges the status quo to improve practice.
@@ -279,10 +269,9 @@ the "leader in the data science space" language the lead level above uses.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -298,17 +287,16 @@ right standards and tools.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Designing, coding, testing and documenting medium-to-high
+Baseline: 3 — Practitioner. Designing, coding, testing and documenting medium-to-high
 complexity work unsupervised, to agreed standards, is a strong, independent grasp of
 programming and build.
 
 **Behavioural indicators**
 
-- 0 — None: has not independently delivered a program or script from a specification.
-- 1 — Beginner: has coded to a specification with close review at every step.
-- 2 — Intermediate: has designed, coded and tested a piece of medium complexity work
+- 1 — Awareness: has coded to a specification with close review at every step.
+- 2 — Working: has designed, coded and tested a piece of medium complexity work
   with some guidance on standards.
-- 3 — Advanced: independently designs, codes, tests and documents programs or scripts
+- 3 — Practitioner: independently designs, codes, tests and documents programs or scripts
   of medium-to-high complexity, using the right standards and tools, and reviews
   specifications collaboratively when needed.
 - 4 — Expert: sets the standards and tools other engineers use for programming and
@@ -324,10 +312,9 @@ programming and build.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -342,15 +329,14 @@ support integration testing activities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Defining the integration build and coordinating it across
+Baseline: 3 — Practitioner. Defining the integration build and coordinating it across
 systems, rather than following someone else's plan, is independent, strong-grasp work.
 
 **Behavioural indicators**
 
-- 0 — None: has not defined or coordinated a systems integration build.
-- 1 — Beginner: has carried out an integration task someone else defined.
-- 2 — Intermediate: has coordinated part of an integration build with some guidance.
-- 3 — Advanced: independently defines the integration build for a model going into an
+- 1 — Awareness: has carried out an integration task someone else defined.
+- 2 — Working: has coordinated part of an integration build with some guidance.
+- 3 — Practitioner: independently defines the integration build for a model going into an
   existing system, coordinates build activities across the systems involved, and
   undertakes or supports the integration testing.
 - 4 — Expert: establishes the integration standards and procedures other engineers
@@ -366,10 +352,9 @@ systems, rather than following someone else's plan, is independent, strong-grasp
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

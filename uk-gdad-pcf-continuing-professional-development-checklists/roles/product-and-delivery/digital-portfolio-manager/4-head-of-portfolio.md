@@ -2,10 +2,79 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Digital portfolio manager** role at the **Head of portfolio** level. You lead a team of digital portfolio managers and ensure the portfolio delivers the best possible outcomes: leading tracking and governance, ensuring the right controls, addressing risks and escalating issues, giving leaders forward-looking insight, building and leading a diverse and motivated team, and supporting the professional development of the portfolio community. Your development is now about leadership, foresight, and capability.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md`](../../../assessments/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md)
+- Upskilling: [`upskills/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md`](../../../upskills/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md)
+
+### Role Level Focus: Head of Portfolio
+
+- [ ] Lead Tracking and Governance: Own how digital projects are tracked and governed.
+- [ ] Ensure the Right Controls: Make controls proportionate, so they protect without slowing everything.
+- [ ] Address and Escalate Risk: Take responsibility for portfolio risk, including the escalations nobody wants.
+- [ ] Give Forward Insight: Tell leaders what is coming, not just what has happened.
+- [ ] Build a Diverse Team: Learn what genuinely improves diversity and retention, and measure it.
+- [ ] Meet Organisational Needs: Check regularly that the portfolio team is serving the organisation well.
+- [ ] Support Community Development: Own line management, coaching, and professional development.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
+
+### Skill: Agile working
+
+- [ ] Understand Agile in Practice: Know how Agile principles apply at portfolio scale.
+- [ ] Take an Open-Minded Approach: Hold your assumptions lightly and test them.
+- [ ] Explain Why Iteration Matters: Make the case for iterating and realising benefits early.
+- [ ] Iterate Your Own Function: Apply iteration to how the portfolio function itself works.
+
+### Skill: Communicating analysis and insight
+
+- [ ] Communicate Compelling Stories: Use the most appropriate medium for the audience and message.
+- [ ] Make Complex Recommendations: Advise at both tactical and strategic level.
+- [ ] Report Honestly: Build a culture where bad news reaches leaders early.
+- [ ] Develop Communication Capability: Grow this skill across your team rather than doing it all yourself.
+
+### Skill: Governance and assurance
+
+- [ ] Develop Processes: Design governance and assurance proportionate to risk.
+- [ ] Recommend Improvements: Remove governance that adds friction without adding safety.
+- [ ] Support Others: Help teams navigate governance rather than policing them.
+- [ ] Connect to Wider Governance: Align portfolio governance with corporate and financial governance.
+
+### Skill: Planning
+
+- [ ] Prioritise by Value: Understand the environment and focus on the highest value work.
+- [ ] Use Data to Plan: Base plans on evidence rather than optimism.
+- [ ] Manage Complex Dependencies: Handle internal and external dependencies actively.
+- [ ] Provide Delivery Confidence: Give honest confidence statements, including uncomfortable ones.
+- [ ] Plan for Capacity: Ensure teams plan within their real capacity.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
+- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
+- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
+- [ ] Manage Political Complexity: Work effectively where interests are genuinely opposed.
+
+### Skill: Strategic thinking
+
+- [ ] Define Strategies and Policies: Own portfolio strategy and policy, and guide others on working within it.
+- [ ] Evaluate Current Strategies: Assess honestly whether strategies meet business requirements.
+- [ ] Align to Organisational Direction: Keep the portfolio connected to wider strategy.
+- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a board will act on.
+
+### Skill Growth Plan: Beyond Head of Portfolio
+
+- [ ] Review Adjacent Roles: Read the service owner, programme delivery manager, and deputy director descriptions.
+- [ ] Broaden Beyond Portfolio: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,72 +172,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Digital portfolio manager** role at the **Head of portfolio** level. You lead a team of digital portfolio managers and ensure the portfolio delivers the best possible outcomes: leading tracking and governance, ensuring the right controls, addressing risks and escalating issues, giving leaders forward-looking insight, building and leading a diverse and motivated team, and supporting the professional development of the portfolio community. Your development is now about leadership, foresight, and capability.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md`](../../../assessments/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md)
-- Upskilling: [`upskills/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md`](../../../upskills/product-and-delivery/digital-portfolio-manager/4-head-of-portfolio.md)
-
-### Role Level Focus: Head of Portfolio
-
-- [ ] Lead Tracking and Governance: Own how digital projects are tracked and governed.
-- [ ] Ensure the Right Controls: Make controls proportionate, so they protect without slowing everything.
-- [ ] Address and Escalate Risk: Take responsibility for portfolio risk, including the escalations nobody wants.
-- [ ] Give Forward Insight: Tell leaders what is coming, not just what has happened.
-- [ ] Build a Diverse Team: Learn what genuinely improves diversity and retention, and measure it.
-- [ ] Meet Organisational Needs: Check regularly that the portfolio team is serving the organisation well.
-- [ ] Support Community Development: Own line management, coaching, and professional development.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles.
-
-### Skill: Agile working
-
-- [ ] Understand Agile in Practice: Know how Agile principles apply at portfolio scale.
-- [ ] Take an Open-Minded Approach: Hold your assumptions lightly and test them.
-- [ ] Explain Why Iteration Matters: Make the case for iterating and realising benefits early.
-- [ ] Iterate Your Own Function: Apply iteration to how the portfolio function itself works.
-
-### Skill: Communicating analysis and insight
-
-- [ ] Communicate Compelling Stories: Use the most appropriate medium for the audience and message.
-- [ ] Make Complex Recommendations: Advise at both tactical and strategic level.
-- [ ] Report Honestly: Build a culture where bad news reaches leaders early.
-- [ ] Develop Communication Capability: Grow this skill across your team rather than doing it all yourself.
-
-### Skill: Governance and assurance
-
-- [ ] Develop Processes: Design governance and assurance proportionate to risk.
-- [ ] Recommend Improvements: Remove governance that adds friction without adding safety.
-- [ ] Support Others: Help teams navigate governance rather than policing them.
-- [ ] Connect to Wider Governance: Align portfolio governance with corporate and financial governance.
-
-### Skill: Planning
-
-- [ ] Prioritise by Value: Understand the environment and focus on the highest value work.
-- [ ] Use Data to Plan: Base plans on evidence rather than optimism.
-- [ ] Manage Complex Dependencies: Handle internal and external dependencies actively.
-- [ ] Provide Delivery Confidence: Give honest confidence statements, including uncomfortable ones.
-- [ ] Plan for Capacity: Ensure teams plan within their real capacity.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
-- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
-- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
-- [ ] Manage Political Complexity: Work effectively where interests are genuinely opposed.
-
-### Skill: Strategic thinking
-
-- [ ] Define Strategies and Policies: Own portfolio strategy and policy, and guide others on working within it.
-- [ ] Evaluate Current Strategies: Assess honestly whether strategies meet business requirements.
-- [ ] Align to Organisational Direction: Keep the portfolio connected to wider strategy.
-- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version a board will act on.
-
-### Skill Growth Plan: Beyond Head of Portfolio
-
-- [ ] Review Adjacent Roles: Read the service owner, programme delivery manager, and deputy director descriptions.
-- [ ] Broaden Beyond Portfolio: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

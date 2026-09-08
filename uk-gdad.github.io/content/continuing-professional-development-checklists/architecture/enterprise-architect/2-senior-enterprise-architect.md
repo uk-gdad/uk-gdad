@@ -2,10 +2,92 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Enterprise architect** role at the **Senior enterprise architect** level. You support lead architects in ensuring the strategy is developed, agreed, and followed, you network across domains and enterprises, you support a community or team, and you play an active part in delivering long-term strategy. Your development is now about cross-team influence and the quality of your architectural judgement.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/enterprise-architect/2-senior-enterprise-architect.md`](../../../assessments/architecture/enterprise-architect/2-senior-enterprise-architect.md)
+- Upskilling: [`upskills/architecture/enterprise-architect/2-senior-enterprise-architect.md`](../../../upskills/architecture/enterprise-architect/2-senior-enterprise-architect.md)
+
+### Role Level Focus: Senior Enterprise Architect
+
+- [ ] Support the Strategy Cycle: Take a defined role in how strategy gets developed, agreed, and followed.
+- [ ] Network Deliberately: Maintain relationships across domains and enterprises, not just when you need something.
+- [ ] Support a Community: Contribute to running an architecture community or team.
+- [ ] Identify Influences and Risks: Keep a horizon-scanning log and bring findings into planning.
+- [ ] Use Emerging Technology Sensibly: Evaluate new approaches with honest cost, risk, and exit analysis.
+- [ ] Connect Objectives to Goals: Be able to explain how team objectives serve organisational goals.
+- [ ] Advance Your Credentials: Work toward an advanced architecture certification if it helps your credibility.
+
+### Skill: Architect for the whole context
+
+- [ ] Support Wider Objectives: Work beyond your immediate goals toward organisational outcomes.
+- [ ] Track Emerging Issues: Maintain a structured scan of internal and external issues over time.
+- [ ] Influence Across the Organisation: Solve or mitigate problems by persuading colleagues you do not manage.
+- [ ] Learn Systems Thinking: Apply systems thinking to a genuinely messy organisational problem.
+
+### Skill: Architecture communication
+
+- [ ] Lead Complex Communication: Own the explanation of complicated, complex, or risky topics.
+- [ ] Communicate With Senior Stakeholders: Build standing credibility with senior people across the organisation.
+- [ ] Adapt to the Audience: Move between technical and executive registers without losing accuracy.
+- [ ] Advocate for Teams: Represent teams' positions credibly to other stakeholders.
+- [ ] Manage Expectations: Be early and honest about what is realistic.
+
+### Skill: Commercial perspective
+
+- [ ] Learn Commercial Processes: Know the department's commercial routes and the people who run them.
+- [ ] Learn Sourcing Strategies: Understand sourcing options and when each applies.
+- [ ] Assess Supplier Lock-In: Practise evaluating how a technology choice constrains future options.
+- [ ] Understand Spend Controls: Learn what evidence a spend control approval actually requires.
+
+### Skill: Community collaboration
+
+- [ ] Network Actively: Contribute regularly to communities inside and outside your organisation.
+- [ ] Adapt Your Feedback: Shape feedback so it is effective and lasting for the individual.
+- [ ] Rectify Team Dynamics: Use your perspective to identify friction and help resolve it.
+- [ ] Stimulate the Right Responses: Turn health check findings into concrete commitments.
+
+### Skill: Enterprise architecture
+
+- [ ] Design the Architecture: Produce architectures covering technology, people, process, and more.
+- [ ] Ensure Your Design Is Used: Work across the organisation so the design actually shapes delivery.
+- [ ] Model the Enterprise: Reach fluency in a notation such as ArchiMate and use it purposefully.
+- [ ] Manage Transition States: Practise designing credible intermediate states, not just a target.
+
+### Skill: Making architectural decisions
+
+- [ ] Make Medium-Risk Decisions: Own and guide decisions of medium risk and complexity.
+- [ ] Address Cross-Team Risks: Identify and act on architectural risks affecting multiple teams or domains.
+- [ ] Use Governance Well: Use architectural governance and assurance at the right level, without over-processing.
+- [ ] Improve Governance: Contribute to developing architectural governance and assurance.
+
+### Skill: Problem definition and shaping
+
+- [ ] Frame Medium-Complexity Problems: Frame problems clearly enough that solutions can be created.
+- [ ] Produce Shared Representations: Create architectural representations teams genuinely share.
+- [ ] Describe Options: Set out options so appropriate delivery methods can be chosen.
+- [ ] Learn Options Appraisal: Study structured appraisal and apply it to a real decision.
+
+### Skill: Strategy design
+
+- [ ] Define Cross-Team Strategy: Define strategies or visions across teams, aligned to organisational objectives.
+- [ ] Direct Implementation: Create roadmaps and plans that turn strategy into work.
+- [ ] Define Principles and Patterns: Own a set of architectural principles and patterns for your area.
+- [ ] Maintain Strategy From Feedback: Update strategy in response to real findings, not just annually.
+
+### Skill Growth Plan: Toward Lead Enterprise Architect
+
+- [ ] Review the Next Level: Read the Lead enterprise architect skill descriptions and mark your gaps.
+- [ ] Lead a Team: Take responsibility for leading architects, not just working alongside them.
+- [ ] Horizon Scan Formally: Set up a structured horizon-scanning practice and share its findings.
+- [ ] Work Outside the Organisation: Contribute to standards or policy discussions beyond your department.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,85 +185,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Enterprise architect** role at the **Senior enterprise architect** level. You support lead architects in ensuring the strategy is developed, agreed, and followed, you network across domains and enterprises, you support a community or team, and you play an active part in delivering long-term strategy. Your development is now about cross-team influence and the quality of your architectural judgement.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/enterprise-architect/2-senior-enterprise-architect.md`](../../../assessments/architecture/enterprise-architect/2-senior-enterprise-architect.md)
-- Upskilling: [`upskills/architecture/enterprise-architect/2-senior-enterprise-architect.md`](../../../upskills/architecture/enterprise-architect/2-senior-enterprise-architect.md)
-
-### Role Level Focus: Senior Enterprise Architect
-
-- [ ] Support the Strategy Cycle: Take a defined role in how strategy gets developed, agreed, and followed.
-- [ ] Network Deliberately: Maintain relationships across domains and enterprises, not just when you need something.
-- [ ] Support a Community: Contribute to running an architecture community or team.
-- [ ] Identify Influences and Risks: Keep a horizon-scanning log and bring findings into planning.
-- [ ] Use Emerging Technology Sensibly: Evaluate new approaches with honest cost, risk, and exit analysis.
-- [ ] Connect Objectives to Goals: Be able to explain how team objectives serve organisational goals.
-- [ ] Advance Your Credentials: Work toward an advanced architecture certification if it helps your credibility.
-
-### Skill: Architect for the whole context
-
-- [ ] Support Wider Objectives: Work beyond your immediate goals toward organisational outcomes.
-- [ ] Track Emerging Issues: Maintain a structured scan of internal and external issues over time.
-- [ ] Influence Across the Organisation: Solve or mitigate problems by persuading colleagues you do not manage.
-- [ ] Learn Systems Thinking: Apply systems thinking to a genuinely messy organisational problem.
-
-### Skill: Architecture communication
-
-- [ ] Lead Complex Communication: Own the explanation of complicated, complex, or risky topics.
-- [ ] Communicate With Senior Stakeholders: Build standing credibility with senior people across the organisation.
-- [ ] Adapt to the Audience: Move between technical and executive registers without losing accuracy.
-- [ ] Advocate for Teams: Represent teams' positions credibly to other stakeholders.
-- [ ] Manage Expectations: Be early and honest about what is realistic.
-
-### Skill: Commercial perspective
-
-- [ ] Learn Commercial Processes: Know the department's commercial routes and the people who run them.
-- [ ] Learn Sourcing Strategies: Understand sourcing options and when each applies.
-- [ ] Assess Supplier Lock-In: Practise evaluating how a technology choice constrains future options.
-- [ ] Understand Spend Controls: Learn what evidence a spend control approval actually requires.
-
-### Skill: Community collaboration
-
-- [ ] Network Actively: Contribute regularly to communities inside and outside your organisation.
-- [ ] Adapt Your Feedback: Shape feedback so it is effective and lasting for the individual.
-- [ ] Rectify Team Dynamics: Use your perspective to identify friction and help resolve it.
-- [ ] Stimulate the Right Responses: Turn health check findings into concrete commitments.
-
-### Skill: Enterprise architecture
-
-- [ ] Design the Architecture: Produce architectures covering technology, people, process, and more.
-- [ ] Ensure Your Design Is Used: Work across the organisation so the design actually shapes delivery.
-- [ ] Model the Enterprise: Reach fluency in a notation such as ArchiMate and use it purposefully.
-- [ ] Manage Transition States: Practise designing credible intermediate states, not just a target.
-
-### Skill: Making architectural decisions
-
-- [ ] Make Medium-Risk Decisions: Own and guide decisions of medium risk and complexity.
-- [ ] Address Cross-Team Risks: Identify and act on architectural risks affecting multiple teams or domains.
-- [ ] Use Governance Well: Use architectural governance and assurance at the right level, without over-processing.
-- [ ] Improve Governance: Contribute to developing architectural governance and assurance.
-
-### Skill: Problem definition and shaping
-
-- [ ] Frame Medium-Complexity Problems: Frame problems clearly enough that solutions can be created.
-- [ ] Produce Shared Representations: Create architectural representations teams genuinely share.
-- [ ] Describe Options: Set out options so appropriate delivery methods can be chosen.
-- [ ] Learn Options Appraisal: Study structured appraisal and apply it to a real decision.
-
-### Skill: Strategy design
-
-- [ ] Define Cross-Team Strategy: Define strategies or visions across teams, aligned to organisational objectives.
-- [ ] Direct Implementation: Create roadmaps and plans that turn strategy into work.
-- [ ] Define Principles and Patterns: Own a set of architectural principles and patterns for your area.
-- [ ] Maintain Strategy From Feedback: Update strategy in response to real findings, not just annually.
-
-### Skill Growth Plan: Toward Lead Enterprise Architect
-
-- [ ] Review the Next Level: Read the Lead enterprise architect skill descriptions and mark your gaps.
-- [ ] Lead a Team: Take responsibility for leading architects, not just working alongside them.
-- [ ] Horizon Scan Formally: Set up a structured horizon-scanning practice and share its findings.
-- [ ] Work Outside the Organisation: Contribute to standards or policy discussions beyond your department.

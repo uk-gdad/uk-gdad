@@ -2,10 +2,108 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Development operations (DevOps) engineer** role at the **Principal DevOps engineer** level, management track. You champion emerging technology, ensure security, stability, and capacity are embedded in how services are built, develop capability by rewarding high performers, shape career paths, recruit talent, and set the strategy and resourcing for solution development programmes. Your development is now about organisational leadership and stewardship of the profession.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/software-development/development-operations-engineer/9-principal-devops-engineer-management.md`](../../../assessments/software-development/development-operations-engineer/9-principal-devops-engineer-management.md)
+- Upskilling: [`upskills/software-development/development-operations-engineer/9-principal-devops-engineer-management.md`](../../../upskills/software-development/development-operations-engineer/9-principal-devops-engineer-management.md)
+
+### Role Level Focus: Principal DevOps Engineer (Management)
+
+- [ ] Lead Managers, Not Just Makers: Develop the skill of managing and coaching other managers and leads.
+- [ ] Own Capability Development: Take accountability for career paths, internal mobility, and recruitment across the engineering community.
+- [ ] Run Workforce Planning: Forecast capability need against your portfolio, including contractor and supplier mix.
+- [ ] Identify Skills Gaps and Dependencies: Maintain an honest map of key-person risk and act on it before it bites.
+- [ ] Reward High Performers Fairly: Learn what recognition works, and apply it consistently and transparently.
+- [ ] Build Inclusive Teams: Learn what actually improves diversity and retention, and hold yourself to measurable outcomes.
+- [ ] Learn Government Finance: Understand business cases, spend controls, funding cycles, and commercial routes.
+- [ ] Grow Successors: Identify and develop people who could take your role, and give them real exposure.
+
+### Skill: Availability and capacity management
+
+- [ ] Lead Policy and Strategy: Own the policy and strategy for service and capacity management across your estate.
+- [ ] Lead Required Changes: Identify and drive the changes capacity and availability strategy demands.
+- [ ] Build the Reporting: Ensure capacity risk reaches decision makers with enough time to act.
+- [ ] Fund Reliability: Make the investment case for reliability and capacity work in financial terms.
+
+### Skill: Development process optimisation
+
+- [ ] Set the Strategy: Own strategy and resource allocation for solution development programmes.
+- [ ] Establish Business Requirements: Work with client functions to establish requirements and identify needed programmes.
+- [ ] Initiate and Lead Programmes: Propose, initiate, and lead programmes through to measurable outcome.
+- [ ] Learn Portfolio Techniques: Study portfolio prioritisation, benefits management, and programme assurance.
+- [ ] Report Honestly: Compare performance across teams and externally, and share the bad news early.
+
+### Skill: Information security
+
+- [ ] Quality Assure Solutions: Design, review, and assure services engineered against articulated security threats.
+- [ ] Lead Security Practice: Lead others in appropriate information security practice as a leadership expectation.
+- [ ] Own Risk Conversations: Hold risk appetite and residual risk discussions with senior responsible owners.
+- [ ] Resource Security Properly: Ensure security capability is funded rather than assumed.
+
+### Skill: Modern development standards
+
+- [ ] Apply Standards to Complex Programmes: Choose the standards that survive real programme complexity.
+- [ ] Lead Others in Applying Them: Achieve adoption through influence, tooling, and incentives.
+- [ ] Govern the Standards Lifecycle: Ensure standards have owners, review dates, and honest retirement.
+- [ ] Influence Externally: Contribute to cross-government standards and share your practice openly.
+
+### Skill: Programming and build (software engineering)
+
+- [ ] Review Specifications Collaboratively: Stay close enough to delivery to challenge specifications meaningfully.
+- [ ] Stay Technically Grounded: Retain enough hands-on practice to test the advice you are given.
+- [ ] Set Tooling Direction: Make explicit, explained decisions about shared tools and techniques.
+- [ ] Document to Standard: Hold your own written work to the standard you expect from others.
+
+### Skill: Prototyping
+
+- [ ] Use a Variety of Methods: Keep a broad repertoire and choose by risk rather than habit.
+- [ ] Share Best Practice and Coach: Teach prototyping across teams and communities of practice.
+- [ ] Look at Strategic Service Design: Sponsor prototyping of whole services and cross-organisational journeys.
+- [ ] Fund Discovery Properly: Make discovery a funded activity, not borrowed time.
+
+### Skill: Service support
+
+- [ ] Identify, Locate, and Fix: Retain enough depth to judge incident response quality.
+- [ ] Set the Support Strategy: Own how operational responsibility is distributed and resourced.
+- [ ] Drive Systemic Learning: Ensure incident learning changes standards, design, and investment.
+- [ ] Protect People: Make on-call sustainable, compensated, and humane, and verify that it really is.
+
+### Skill: Systems design
+
+- [ ] Design at Medium Risk and Complexity: Own or assure designs with meaningful risk, impact, and complexity.
+- [ ] Select Standards and Ensure Application: Choose design standards and methods, and make sure they are used.
+- [ ] Review Others' Designs: Review for technology fit, resource efficiency, and integration across systems.
+- [ ] Set Architectural Direction: Define the platform and deployment patterns your teams build on.
+
+### Skill: Systems integration
+
+- [ ] Define the Integration Build: Own the integration approach across large or multiple teams and suppliers.
+- [ ] Co-ordinate Build Activities: Orchestrate build activity across departmental and supplier boundaries.
+- [ ] Support Integration Testing: Ensure integration testing exists as a funded, maintained capability.
+- [ ] Manage Cross-Organisation Dependencies: Build governance that makes cross-boundary dependencies visible early.
+
+### Skill: User focus
+
+- [ ] Represent Users at Senior Level: Carry user evidence into investment, governance, and policy conversations.
+- [ ] Distinguish Needs from Desires: Hold the line on evidenced need when preference is pushed from above.
+- [ ] Champion Inclusive Research: Fund and require research that reaches under-served users.
+- [ ] Guide Story Definition: Set organisational expectations for how user needs are framed and evidenced.
+- [ ] Recommend Tools and Methods: Advise across disciplines on the right research and analysis approach.
+
+### Skill Growth Plan: Beyond Principal DevOps Engineer (Management)
+
+- [ ] Review Adjacent Roles: Read the head of profession, deputy director, and chief technology officer descriptions.
+- [ ] Broaden Beyond Technology: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance panels or capability boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,101 +201,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Development operations (DevOps) engineer** role at the **Principal DevOps engineer** level, management track. You champion emerging technology, ensure security, stability, and capacity are embedded in how services are built, develop capability by rewarding high performers, shape career paths, recruit talent, and set the strategy and resourcing for solution development programmes. Your development is now about organisational leadership and stewardship of the profession.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/software-development/development-operations-engineer/9-principal-devops-engineer-management.md`](../../../assessments/software-development/development-operations-engineer/9-principal-devops-engineer-management.md)
-- Upskilling: [`upskills/software-development/development-operations-engineer/9-principal-devops-engineer-management.md`](../../../upskills/software-development/development-operations-engineer/9-principal-devops-engineer-management.md)
-
-### Role Level Focus: Principal DevOps Engineer (Management)
-
-- [ ] Lead Managers, Not Just Makers: Develop the skill of managing and coaching other managers and leads.
-- [ ] Own Capability Development: Take accountability for career paths, internal mobility, and recruitment across the engineering community.
-- [ ] Run Workforce Planning: Forecast capability need against your portfolio, including contractor and supplier mix.
-- [ ] Identify Skills Gaps and Dependencies: Maintain an honest map of key-person risk and act on it before it bites.
-- [ ] Reward High Performers Fairly: Learn what recognition works, and apply it consistently and transparently.
-- [ ] Build Inclusive Teams: Learn what actually improves diversity and retention, and hold yourself to measurable outcomes.
-- [ ] Learn Government Finance: Understand business cases, spend controls, funding cycles, and commercial routes.
-- [ ] Grow Successors: Identify and develop people who could take your role, and give them real exposure.
-
-### Skill: Availability and capacity management
-
-- [ ] Lead Policy and Strategy: Own the policy and strategy for service and capacity management across your estate.
-- [ ] Lead Required Changes: Identify and drive the changes capacity and availability strategy demands.
-- [ ] Build the Reporting: Ensure capacity risk reaches decision makers with enough time to act.
-- [ ] Fund Reliability: Make the investment case for reliability and capacity work in financial terms.
-
-### Skill: Development process optimisation
-
-- [ ] Set the Strategy: Own strategy and resource allocation for solution development programmes.
-- [ ] Establish Business Requirements: Work with client functions to establish requirements and identify needed programmes.
-- [ ] Initiate and Lead Programmes: Propose, initiate, and lead programmes through to measurable outcome.
-- [ ] Learn Portfolio Techniques: Study portfolio prioritisation, benefits management, and programme assurance.
-- [ ] Report Honestly: Compare performance across teams and externally, and share the bad news early.
-
-### Skill: Information security
-
-- [ ] Quality Assure Solutions: Design, review, and assure services engineered against articulated security threats.
-- [ ] Lead Security Practice: Lead others in appropriate information security practice as a leadership expectation.
-- [ ] Own Risk Conversations: Hold risk appetite and residual risk discussions with senior responsible owners.
-- [ ] Resource Security Properly: Ensure security capability is funded rather than assumed.
-
-### Skill: Modern development standards
-
-- [ ] Apply Standards to Complex Programmes: Choose the standards that survive real programme complexity.
-- [ ] Lead Others in Applying Them: Achieve adoption through influence, tooling, and incentives.
-- [ ] Govern the Standards Lifecycle: Ensure standards have owners, review dates, and honest retirement.
-- [ ] Influence Externally: Contribute to cross-government standards and share your practice openly.
-
-### Skill: Programming and build (software engineering)
-
-- [ ] Review Specifications Collaboratively: Stay close enough to delivery to challenge specifications meaningfully.
-- [ ] Stay Technically Grounded: Retain enough hands-on practice to test the advice you are given.
-- [ ] Set Tooling Direction: Make explicit, explained decisions about shared tools and techniques.
-- [ ] Document to Standard: Hold your own written work to the standard you expect from others.
-
-### Skill: Prototyping
-
-- [ ] Use a Variety of Methods: Keep a broad repertoire and choose by risk rather than habit.
-- [ ] Share Best Practice and Coach: Teach prototyping across teams and communities of practice.
-- [ ] Look at Strategic Service Design: Sponsor prototyping of whole services and cross-organisational journeys.
-- [ ] Fund Discovery Properly: Make discovery a funded activity, not borrowed time.
-
-### Skill: Service support
-
-- [ ] Identify, Locate, and Fix: Retain enough depth to judge incident response quality.
-- [ ] Set the Support Strategy: Own how operational responsibility is distributed and resourced.
-- [ ] Drive Systemic Learning: Ensure incident learning changes standards, design, and investment.
-- [ ] Protect People: Make on-call sustainable, compensated, and humane, and verify that it really is.
-
-### Skill: Systems design
-
-- [ ] Design at Medium Risk and Complexity: Own or assure designs with meaningful risk, impact, and complexity.
-- [ ] Select Standards and Ensure Application: Choose design standards and methods, and make sure they are used.
-- [ ] Review Others' Designs: Review for technology fit, resource efficiency, and integration across systems.
-- [ ] Set Architectural Direction: Define the platform and deployment patterns your teams build on.
-
-### Skill: Systems integration
-
-- [ ] Define the Integration Build: Own the integration approach across large or multiple teams and suppliers.
-- [ ] Co-ordinate Build Activities: Orchestrate build activity across departmental and supplier boundaries.
-- [ ] Support Integration Testing: Ensure integration testing exists as a funded, maintained capability.
-- [ ] Manage Cross-Organisation Dependencies: Build governance that makes cross-boundary dependencies visible early.
-
-### Skill: User focus
-
-- [ ] Represent Users at Senior Level: Carry user evidence into investment, governance, and policy conversations.
-- [ ] Distinguish Needs from Desires: Hold the line on evidenced need when preference is pushed from above.
-- [ ] Champion Inclusive Research: Fund and require research that reaches under-served users.
-- [ ] Guide Story Definition: Set organisational expectations for how user needs are framed and evidenced.
-- [ ] Recommend Tools and Methods: Advise across disciplines on the right research and analysis approach.
-
-### Skill Growth Plan: Beyond Principal DevOps Engineer (Management)
-
-- [ ] Review Adjacent Roles: Read the head of profession, deputy director, and chief technology officer descriptions.
-- [ ] Broaden Beyond Technology: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance panels or capability boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

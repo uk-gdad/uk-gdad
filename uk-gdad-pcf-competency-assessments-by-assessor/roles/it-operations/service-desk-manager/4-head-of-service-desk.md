@@ -62,20 +62,19 @@ anything other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
-**Worked example — IT service reporting.** At 3 — Advanced, a candidate might
+**Worked example — IT service reporting.** At 3 — Practitioner, a candidate might
 describe using data analytics to justify a resourcing decision for their
 team. At 4 — Expert, a candidate for head of service desk should be able to
 describe using prediction methodologies to produce and maintain a holistic
@@ -126,18 +125,17 @@ information to protect assets and components.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged across the role, but this
+Baseline: 3 — Practitioner. The wording is unchanged across the role, but this
 level's accountability for managing and monitoring SLAs and performance means
 configuration accuracy should be assured across the whole function with
 independent judgement, not just checked.
 
 **Behavioural indicators**
 
-- 0 — None: Has no visibility into the function's asset recording accuracy.
-- 1 — Beginner: Reviews asset accuracy occasionally, when an issue is raised.
-- 2 — Intermediate: Ensures accuracy across a defined part of the function
+- 1 — Awareness: Reviews asset accuracy occasionally, when an issue is raised.
+- 2 — Working: Ensures accuracy across a defined part of the function
   with some support.
-- 3 — Advanced: Independently assures asset and configuration accuracy across
+- 3 — Practitioner: Independently assures asset and configuration accuracy across
   the whole service desk function.
 - 4 — Expert: Sets configuration standards that other functions in the
   organisation adopt.
@@ -151,10 +149,9 @@ independent judgement, not just checked.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -176,13 +173,11 @@ performance outcomes across the whole desk, matching an expert baseline.
 
 **Behavioural indicators**
 
-- 0 — None: Reviews satisfaction data without connecting it to structural
-  change.
-- 1 — Beginner: Runs improvement activity for a defined part of the function,
+- 1 — Awareness: Runs improvement activity for a defined part of the function,
   with support.
-- 2 — Intermediate: Runs continual service improvement activity across the
+- 2 — Working: Runs continual service improvement activity across the
   function.
-- 3 — Advanced: Oversees customer service functions and identifies automation
+- 3 — Practitioner: Oversees customer service functions and identifies automation
   opportunities with measurable results.
 - 4 — Expert: Has delivered structural change — a continual service
   improvement programme, a significant automation — that measurably improved
@@ -198,10 +193,9 @@ performance outcomes across the whole desk, matching an expert baseline.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -224,10 +218,9 @@ capability here.
 
 **Behavioural indicators**
 
-- 0 — None: Reports past performance without any forward-looking view.
-- 1 — Beginner: Uses basic trend analysis, with support.
-- 2 — Intermediate: Independently identifies trends within a single process.
-- 3 — Advanced: Identifies trends across several processes and uses them to
+- 1 — Awareness: Uses basic trend analysis, with support.
+- 2 — Working: Independently identifies trends within a single process.
+- 3 — Practitioner: Identifies trends across several processes and uses them to
   inform decisions.
 - 4 — Expert: Maintains a holistic, predictive view across multiple processes
   that has demonstrably anticipated and helped prevent a performance problem
@@ -241,10 +234,9 @@ capability here.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -266,13 +258,11 @@ accountability should be demonstrated at organisational scale.
 
 **Behavioural indicators**
 
-- 0 — None: Passes escalations back down without taking personal
-  accountability.
-- 1 — Beginner: Accepts escalations but relies heavily on managers below them
+- 1 — Awareness: Accepts escalations but relies heavily on managers below them
   to resolve them.
-- 2 — Intermediate: Takes accountability for escalated issues of moderate
+- 2 — Working: Takes accountability for escalated issues of moderate
   complexity.
-- 3 — Advanced: Reliably takes accountability for the most serious
+- 3 — Practitioner: Reliably takes accountability for the most serious
   escalations and proactively searches for systemic risk across the function.
 - 4 — Expert: Is the final point of accountability the organisation trusts
   when nothing else has worked, and their proactive risk-searching has
@@ -287,10 +277,9 @@ accountability should be demonstrated at organisational scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -313,12 +302,11 @@ function.
 
 **Behavioural indicators**
 
-- 0 — None: Leaves problem investigation entirely to managers below them.
-- 1 — Beginner: Reviews problem investigations after the fact, with limited
+- 1 — Awareness: Reviews problem investigations after the fact, with limited
   input.
-- 2 — Intermediate: Directs problem investigation for a defined part of the
+- 2 — Working: Directs problem investigation for a defined part of the
   function.
-- 3 — Advanced: Ensures the right investigative and preventive actions are
+- 3 — Practitioner: Ensures the right investigative and preventive actions are
   taken across the whole function, most of the time.
 - 4 — Expert: Has built a problem management practice across the function
   that reliably anticipates and prevents recurring issues, and is recognised
@@ -333,10 +321,9 @@ function.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -358,12 +345,11 @@ emerging services.
 
 **Behavioural indicators**
 
-- 0 — None: Manages services in isolation from one another.
-- 1 — Beginner: Sees some connections between grouped services but needs
+- 1 — Awareness: Sees some connections between grouped services but needs
   support acting on them.
-- 2 — Intermediate: Investigates connections between grouped services with
+- 2 — Working: Investigates connections between grouped services with
   some independence.
-- 3 — Advanced: Independently improves how groups of services work together.
+- 3 — Practitioner: Independently improves how groups of services work together.
 - 4 — Expert: Has reshaped how a whole service area is organised, with a
   measurable improvement, and advises project teams on service design as a
   result.
@@ -377,10 +363,9 @@ emerging services.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -402,13 +387,11 @@ applied with full independent authority across the whole function.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no relevant qualification and cannot describe ITIL's life
-  cycle stages.
-- 1 — Beginner: Holds the qualification but applies ITIL concepts
+- 1 — Awareness: Holds the qualification but applies ITIL concepts
   imprecisely.
-- 2 — Intermediate: Applies ITIL life cycle or capability concepts to a
+- 2 — Working: Applies ITIL life cycle or capability concepts to a
   defined part of the function.
-- 3 — Advanced: Uses ITIL concepts to diagnose and fix underdelivery across
+- 3 — Practitioner: Uses ITIL concepts to diagnose and fix underdelivery across
   the function.
 - 4 — Expert: Is the recognised authority colleagues and project teams turn
   to for how the framework should be applied.
@@ -422,10 +405,9 @@ applied with full independent authority across the whole function.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -449,13 +431,11 @@ on future projects.
 
 **Behavioural indicators**
 
-- 0 — None: Sets service direction without reference to how user needs have
-  changed.
-- 1 — Beginner: Understands user needs have changed over time, but does not
+- 1 — Awareness: Understands user needs have changed over time, but does not
   yet act on that insight strategically.
-- 2 — Intermediate: Directs tool or method choices for a defined part of the
+- 2 — Working: Directs tool or method choices for a defined part of the
   function.
-- 3 — Advanced: Directs tool and method choices across the function, informed
+- 3 — Practitioner: Directs tool and method choices across the function, informed
   by longitudinal insight.
 - 4 — Expert: Has used insight into changing user needs to shape strategic
   direction for the function, with a demonstrable effect on outcomes across
@@ -470,10 +450,9 @@ on future projects.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -482,7 +461,7 @@ on future projects.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 3 — Advanced | | |
+| Asset and configuration management | 3 — Practitioner | | |
 | Customer service management | 4 — Expert | | |
 | IT service reporting | 4 — Expert | | |
 | Ownership and initiative | 4 — Expert | | |
@@ -493,7 +472,7 @@ on future projects.
 
 The baseline is normally met when every skill is rated at or above its
 baseline target. At this most senior level of the role, one or two skills
-rated Advanced rather than Expert is not automatically a fail: weigh how
+rated Practitioner rather than Expert is not automatically a fail: weigh how
 central the skill is to this level's accountabilities (Customer service
 management and IT service reporting sit at the very heart of the job),
 consider whether the shortfall is coachable quickly after appointment, and

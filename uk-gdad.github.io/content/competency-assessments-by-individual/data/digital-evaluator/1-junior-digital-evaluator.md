@@ -49,26 +49,25 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Evaluation delivery:
 
-- **1 — Beginner**: with close direction from a colleague, they collected survey
+- **1 — Awareness**: with close direction from a colleague, they collected survey
   responses for one evaluation and could say, when asked, which technique was being
   used and why.
-- **2 — Intermediate**: given a template and a steer on which technique applied, they
+- **2 — Working**: given a template and a steer on which technique applied, they
   collected and did a first pass of analysis on both quantitative and qualitative data
   for a small evaluation, checking in at each stage.
-- **3 — Advanced**: they planned and ran the data collection and analysis for an
+- **3 — Practitioner**: they planned and ran the data collection and analysis for an
   evaluation with only occasional review, and could explain why they chose one
   analytical approach over another.
 
@@ -112,20 +111,18 @@ bullets are about understanding, not yet about doing the communicating unsupervi
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The published wording is entirely explanatory ("explain why",
+Baseline: 1 — Awareness. The published wording is entirely explanatory ("explain why",
 "explain some methods"), which matches close-supervision understanding rather than
 independent practice — the expected starting point for the entry level of this role.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say why clear communication of findings matters, or name any method
-  for doing it.
-- 1 — Beginner: can explain, in their own words, why a stakeholder needs findings put
+- 1 — Awareness: can explain, in their own words, why a stakeholder needs findings put
   clearly, and can name at least one method (a chart, a plain-language summary, a short
   briefing) for doing so.
-- 2 — Intermediate: has drafted part of a findings summary under guidance and can say
+- 2 — Working: has drafted part of a findings summary under guidance and can say
   why they chose the format they used.
-- 3 — Advanced: has independently drafted a findings summary for a real stakeholder and
+- 3 — Practitioner: has independently drafted a findings summary for a real stakeholder and
   adjusted it after feedback.
 - 4 — Expert: coaches a colleague on how to communicate a finding clearly.
 
@@ -140,10 +137,9 @@ independent practice — the expected starting point for the entry level of this
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -158,20 +154,18 @@ ethical issues, with support.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Both bullets are about awareness and identifying where to raise
+Baseline: 1 — Awareness. Both bullets are about awareness and identifying where to raise
 a concern, with support explicitly named — this is a starting point, not independent
 ethical judgement.
 
 **Behavioural indicators**
 
-- 0 — None: shows no awareness that data ethics or privacy is relevant to evaluation
-  work.
-- 1 — Beginner: can explain, in general terms, why data ethics and privacy matter to
+- 1 — Awareness: can explain, in general terms, why data ethics and privacy matter to
   evaluation, and knows there is a route (a manager, a data protection officer) to raise
   a concern, even if they have not used it unsupported.
-- 2 — Intermediate: has raised, or role-played raising, a specific ethical or privacy
+- 2 — Working: has raised, or role-played raising, a specific ethical or privacy
   concern through the right channel, with some prompting on who to tell.
-- 3 — Advanced: has identified and escalated a real ethics or privacy issue in their
+- 3 — Practitioner: has identified and escalated a real ethics or privacy issue in their
   work without being prompted.
 - 4 — Expert: is trusted to advise colleagues on which channel a concern should go
   through.
@@ -188,10 +182,9 @@ ethical judgement.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -209,20 +202,19 @@ inferential analysis. "With support" appears three times in four bullets.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The repeated "with support" language is a close match for the
-Beginner definition — just starting to learn, requiring close supervision — and this is
+Baseline: 1 — Awareness. The repeated "with support" language is a close match for the
+Awareness definition — just starting to learn, requiring close supervision — and this is
 the core delivery skill of the role, so it is worth naming precisely rather than
 rounding it up.
 
 **Behavioural indicators**
 
-- 0 — None: has not collected or analysed evaluation data, even under close direction.
-- 1 — Beginner: with a colleague setting the task, has collected some quantitative or
+- 1 — Awareness: with a colleague setting the task, has collected some quantitative or
   qualitative data for an evaluation and produced a simple, guided first pass of
   analysis.
-- 2 — Intermediate: given a template and a named technique, collects and analyses data
+- 2 — Working: given a template and a named technique, collects and analyses data
   for a small evaluation with periodic check-ins rather than step-by-step direction.
-- 3 — Advanced: independently runs data collection and analysis for a straightforward
+- 3 — Practitioner: independently runs data collection and analysis for a straightforward
   evaluation, choosing an appropriate technique and explaining the choice.
 - 4 — Expert: is trusted to design and run evaluation delivery for a complex
   intervention and to teach the techniques to others.
@@ -238,10 +230,9 @@ rounding it up.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -258,19 +249,18 @@ service. All three bullets are framed as description, not delivery.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Purely explanatory wording again places this at the starting
+Baseline: 1 — Awareness. Purely explanatory wording again places this at the starting
 point of the scale — someone is expected to be able to talk through the process, not
 yet run it.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe how stakeholder needs turn into an evaluation approach.
-- 1 — Beginner: can describe, in outline, how they would find out what a stakeholder
+- 1 — Awareness: can describe, in outline, how they would find out what a stakeholder
   needs to evaluate and why, and can name a method for monitoring or evaluating a
   product.
-- 2 — Intermediate: has taken part in a real stakeholder conversation about evaluation
+- 2 — Working: has taken part in a real stakeholder conversation about evaluation
   needs, alongside a more senior colleague, and helped draft a research question.
-- 3 — Advanced: has independently turned a stakeholder's need into a research question
+- 3 — Practitioner: has independently turned a stakeholder's need into a research question
   and a proposed evaluation approach.
 - 4 — Expert: is trusted to agree an evaluation approach directly with a stakeholder.
 
@@ -285,10 +275,9 @@ yet run it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -302,20 +291,18 @@ evaluation needs and activities vary at different phases of the product life cyc
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. A single, explanatory bullet, with nothing about doing the work
+Baseline: 1 — Awareness. A single, explanatory bullet, with nothing about doing the work
 across phases — a description-level understanding is the whole of what this level asks
 for.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say why evaluation needs would differ between an early discovery
-  phase and a live service.
-- 1 — Beginner: can describe, at a general level, how evaluation needs change across the
+- 1 — Awareness: can describe, at a general level, how evaluation needs change across the
   product life cycle — for example, that early-stage evaluation looks different from
   live-service evaluation.
-- 2 — Intermediate: can describe what evaluation activity would suit a specific
+- 2 — Working: can describe what evaluation activity would suit a specific
   named phase, with some prompting.
-- 3 — Advanced: has contributed evaluation input at more than one life cycle phase on a
+- 3 — Practitioner: has contributed evaluation input at more than one life cycle phase on a
   real product or service.
 - 4 — Expert: advises a team on what evaluation activity fits their current phase.
 
@@ -330,10 +317,9 @@ for.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -350,19 +336,18 @@ against strategic objectives.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Four bullets, all "describe", "identify" or "explain" — concept-
+Baseline: 1 — Awareness. Four bullets, all "describe", "identify" or "explain" — concept-
 level understanding, matching the close-supervision definition rather than independent
 practice.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what a theory of change is.
-- 1 — Beginner: can describe what a theory of change is in their own words, name a
+- 1 — Awareness: can describe what a theory of change is in their own words, name a
   stakeholder who might be involved in one, and name a common issue with measuring
   performance indicators.
-- 2 — Intermediate: has helped populate part of a theory of change or a set of
+- 2 — Working: has helped populate part of a theory of change or a set of
   indicators under guidance.
-- 3 — Advanced: has drafted a section of a theory of change, or a set of indicators, for
+- 3 — Practitioner: has drafted a section of a theory of change, or a set of indicators, for
   review by a more senior colleague.
 - 4 — Expert: leads stakeholders through developing a theory of change unsupported.
 
@@ -378,10 +363,9 @@ practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -398,17 +382,16 @@ description rather than doing.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Consistently explanatory wording — someone is expected to
+Baseline: 1 — Awareness. Consistently explanatory wording — someone is expected to
 understand what quality assurance involves, not yet to run it independently.
 
 **Behavioural indicators**
 
-- 0 — None: cannot name a basic data quality issue or describe a quality check.
-- 1 — Beginner: can describe a basic data issue (missing values, duplicate rows,
+- 1 — Awareness: can describe a basic data issue (missing values, duplicate rows,
   inconsistent formats) and explain, in outline, what "fit for purpose" means for data.
-- 2 — Intermediate: has checked a small dataset for an obvious quality issue under
+- 2 — Working: has checked a small dataset for an obvious quality issue under
   guidance and flagged what they found.
-- 3 — Advanced: independently spots and documents data quality issues in a real
+- 3 — Practitioner: independently spots and documents data quality issues in a real
   dataset before analysis begins.
 - 4 — Expert: designs a quality assurance process for others to follow.
 
@@ -423,10 +406,9 @@ understand what quality assurance involves, not yet to run it independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

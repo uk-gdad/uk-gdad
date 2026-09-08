@@ -2,10 +2,87 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Performance analyst** role at the **Senior performance analyst** level. You delegate, automate, or upskill others where appropriate, provide leadership in your team, and use analysis proactively to improve services. You may manage other analysts, you are proficient across a wide range of tools, you carry out increasingly complex analysis, and you contribute to the community while forging links with other analytical disciplines. Your development now is about leadership, complexity, and multiplying your effect.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/performance-analyst/3-senior-performance-analyst.md`](../../../assessments/data/performance-analyst/3-senior-performance-analyst.md)
+- Upskilling: [`upskills/data/performance-analyst/3-senior-performance-analyst.md`](../../../upskills/data/performance-analyst/3-senior-performance-analyst.md)
+
+### Role Level Focus: Senior Performance Analyst
+
+- [ ] Delegate and Automate: Practise handing work on or automating it rather than doing it again.
+- [ ] Upskill Others: Teach analytical technique so capability grows beyond you.
+- [ ] Manage People Well: If you manage anyone, complete line manager training.
+- [ ] Broaden Your Toolset: Become proficient in a wide range of analytical tools.
+- [ ] Take On Complexity: Carry out increasingly complex analysis, working across teams.
+- [ ] Build Cross-Discipline Links: Forge connections with other analytical professions.
+- [ ] Improve Services Proactively: Use analysis to propose service improvements before being asked.
+- [ ] Consider the Specialist Route: If you are a technical specialist, build tools that help others analyse.
+
+### Skill: Analysis and insight
+
+- [ ] Help Teams Apply Techniques: Support colleagues in using a range of analysis techniques.
+- [ ] Be Proactive: Bring compelling findings before anyone asks for them.
+- [ ] Apply Innovative Approaches: Try new ways to resolve analytical problems.
+- [ ] Check the Effect: Track whether your insight changed decisions.
+
+### Skill: Communicating analysis and insight
+
+- [ ] Turn Data Into Stories: Make complex data compelling, clear, and actionable.
+- [ ] Share the Skill: Develop communication capability in your team and across government.
+- [ ] Present Complex Messages: Use visualisation to make complexity understandable.
+- [ ] Communicate Bad News: Give negative information as clearly and early as positive information.
+- [ ] Give Strategic Recommendations: Offer both tactical and strategic advice.
+
+### Skill: Performance measurement
+
+- [ ] Lead Framework Development: Own the creation of measurement frameworks and key performance indicators.
+- [ ] Understand Business Goals Deeply: Turn organisational goals into measures that genuinely reflect them.
+- [ ] Guard Against Gaming: Design measures that resist perverse incentives.
+- [ ] Review and Retire: Remove measures that no longer inform decisions.
+
+### Skill: Quality assurance of data and analysis
+
+- [ ] Set Up Data Systems: Establish a system to get data ready for use.
+- [ ] Specify Preparation: Define how data should be cleansed and prepared.
+- [ ] Combine Sources: Bring data together from different sources reliably.
+- [ ] Communicate Limitations: Say clearly where the data cannot support a conclusion.
+
+### Skill: Technical understanding (performance analyst)
+
+- [ ] Show Deep Understanding: Command the technical concepts and see how they fit the wider landscape.
+- [ ] Understand Technology Limits: Know what digital technology cannot tell you about users.
+- [ ] Debug Measurement Problems: Diagnose tracking and data collection issues yourself.
+- [ ] Keep Current: Track how analytics technology and privacy expectations are changing.
+
+### Skill: Understanding analysis across the product life cycle
+
+- [ ] Apply Across Phases: Bring experience from multiple parts of the product life cycle.
+- [ ] Recognise When to Stop: Use evidence to advise whether work should continue.
+- [ ] Match Deliverables to Phase: Identify the right outputs and involve the right people.
+- [ ] Work With Agile Disciplines: Collaborate throughout the life cycle.
+- [ ] Choose the Right Tools: Identify which tools and techniques suit each stage.
+
+### Skill: User-centred analysis
+
+- [ ] Distinguish Needs from Desires: Know the difference and explain it to others.
+- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
+- [ ] Integrate Qualitative and Quantitative: Combine analytics with research to form testable hypotheses.
+- [ ] Recommend Tools and Methods: Advise on the right approach for the question at hand.
+
+### Skill Growth Plan: Toward Lead Performance Analyst
+
+- [ ] Review the Next Level: Read the Lead performance analyst skill descriptions and mark your gaps.
+- [ ] Co-ordinate Analysts: Take responsibility for a group of related analysts.
+- [ ] Influence Strategy: Contribute to the performance analysis strategy for the organisation.
+- [ ] Represent Analytics: Act as an ambassador for analytics beyond your team.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,80 +180,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Performance analyst** role at the **Senior performance analyst** level. You delegate, automate, or upskill others where appropriate, provide leadership in your team, and use analysis proactively to improve services. You may manage other analysts, you are proficient across a wide range of tools, you carry out increasingly complex analysis, and you contribute to the community while forging links with other analytical disciplines. Your development now is about leadership, complexity, and multiplying your effect.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/performance-analyst/3-senior-performance-analyst.md`](../../../assessments/data/performance-analyst/3-senior-performance-analyst.md)
-- Upskilling: [`upskills/data/performance-analyst/3-senior-performance-analyst.md`](../../../upskills/data/performance-analyst/3-senior-performance-analyst.md)
-
-### Role Level Focus: Senior Performance Analyst
-
-- [ ] Delegate and Automate: Practise handing work on or automating it rather than doing it again.
-- [ ] Upskill Others: Teach analytical technique so capability grows beyond you.
-- [ ] Manage People Well: If you manage anyone, complete line manager training.
-- [ ] Broaden Your Toolset: Become proficient in a wide range of analytical tools.
-- [ ] Take On Complexity: Carry out increasingly complex analysis, working across teams.
-- [ ] Build Cross-Discipline Links: Forge connections with other analytical professions.
-- [ ] Improve Services Proactively: Use analysis to propose service improvements before being asked.
-- [ ] Consider the Specialist Route: If you are a technical specialist, build tools that help others analyse.
-
-### Skill: Analysis and insight
-
-- [ ] Help Teams Apply Techniques: Support colleagues in using a range of analysis techniques.
-- [ ] Be Proactive: Bring compelling findings before anyone asks for them.
-- [ ] Apply Innovative Approaches: Try new ways to resolve analytical problems.
-- [ ] Check the Effect: Track whether your insight changed decisions.
-
-### Skill: Communicating analysis and insight
-
-- [ ] Turn Data Into Stories: Make complex data compelling, clear, and actionable.
-- [ ] Share the Skill: Develop communication capability in your team and across government.
-- [ ] Present Complex Messages: Use visualisation to make complexity understandable.
-- [ ] Communicate Bad News: Give negative information as clearly and early as positive information.
-- [ ] Give Strategic Recommendations: Offer both tactical and strategic advice.
-
-### Skill: Performance measurement
-
-- [ ] Lead Framework Development: Own the creation of measurement frameworks and key performance indicators.
-- [ ] Understand Business Goals Deeply: Turn organisational goals into measures that genuinely reflect them.
-- [ ] Guard Against Gaming: Design measures that resist perverse incentives.
-- [ ] Review and Retire: Remove measures that no longer inform decisions.
-
-### Skill: Quality assurance of data and analysis
-
-- [ ] Set Up Data Systems: Establish a system to get data ready for use.
-- [ ] Specify Preparation: Define how data should be cleansed and prepared.
-- [ ] Combine Sources: Bring data together from different sources reliably.
-- [ ] Communicate Limitations: Say clearly where the data cannot support a conclusion.
-
-### Skill: Technical understanding (performance analyst)
-
-- [ ] Show Deep Understanding: Command the technical concepts and see how they fit the wider landscape.
-- [ ] Understand Technology Limits: Know what digital technology cannot tell you about users.
-- [ ] Debug Measurement Problems: Diagnose tracking and data collection issues yourself.
-- [ ] Keep Current: Track how analytics technology and privacy expectations are changing.
-
-### Skill: Understanding analysis across the product life cycle
-
-- [ ] Apply Across Phases: Bring experience from multiple parts of the product life cycle.
-- [ ] Recognise When to Stop: Use evidence to advise whether work should continue.
-- [ ] Match Deliverables to Phase: Identify the right outputs and involve the right people.
-- [ ] Work With Agile Disciplines: Collaborate throughout the life cycle.
-- [ ] Choose the Right Tools: Identify which tools and techniques suit each stage.
-
-### Skill: User-centred analysis
-
-- [ ] Distinguish Needs from Desires: Know the difference and explain it to others.
-- [ ] Meet Needs Across Channels: Bring experience of serving users across many channels.
-- [ ] Integrate Qualitative and Quantitative: Combine analytics with research to form testable hypotheses.
-- [ ] Recommend Tools and Methods: Advise on the right approach for the question at hand.
-
-### Skill Growth Plan: Toward Lead Performance Analyst
-
-- [ ] Review the Next Level: Read the Lead performance analyst skill descriptions and mark your gaps.
-- [ ] Co-ordinate Analysts: Take responsibility for a group of related analysts.
-- [ ] Influence Strategy: Contribute to the performance analysis strategy for the organisation.
-- [ ] Represent Analytics: Act as an ambassador for analytics beyond your team.

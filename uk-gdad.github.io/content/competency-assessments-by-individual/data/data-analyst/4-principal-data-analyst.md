@@ -49,18 +49,17 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — it rates how well someone does the
 thing, on the evidence available, not how often they do it or how they feel
 about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Data management.** The framework expects a principal data
 analyst to "champion and lead data management and governance processes within
@@ -68,7 +67,7 @@ your team and across your organisation" and to "define data management tools
 and develop training requirements to implement data governance processes
 effectively". Someone who advocates for good data management within their
 own team, but has never defined tools or training for the wider organisation,
-is showing evidence closer to **3 — Advanced** — strong practice, but not yet
+is showing evidence closer to **3 — Practitioner** — strong practice, but not yet
 this level's baseline. Someone who has led the definition of data
 management tooling and training that other teams across the organisation now
 use is showing **4 — Expert**, the baseline this level expects.
@@ -127,13 +126,11 @@ decisions — the top of this skill's progression.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify an organisational opportunity for statistical
-  insight or influence a decision with analytical output.
-- 1 — Beginner: Applies technique competently themselves but does not
+- 1 — Awareness: Applies technique competently themselves but does not
   influence organisational decisions with it.
-- 2 — Intermediate: Contributes analytical insight to a decision, with
+- 2 — Working: Contributes analytical insight to a decision, with
   support.
-- 3 — Advanced: Independently leads insight development and quality assures a
+- 3 — Practitioner: Independently leads insight development and quality assures a
   team's outputs.
 - 4 — Expert: Identifies organisation-wide opportunities for statistical
   insight, develops and guides others in a range of technique, oversees
@@ -152,10 +149,9 @@ decisions — the top of this skill's progression.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -181,12 +177,10 @@ profession itself.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot represent the data analyst function to senior stakeholders
-  or defend its position under pressure.
-- 1 — Beginner: Communicates competently one to one but struggles in
+- 1 — Awareness: Communicates competently one to one but struggles in
   high-stakes group settings.
-- 2 — Intermediate: Manages moderately difficult discussions with support.
-- 3 — Advanced: Independently manages difficult discussions and represents
+- 2 — Working: Manages moderately difficult discussions with support.
+- 3 — Practitioner: Independently manages difficult discussions and represents
   the team externally.
 - 4 — Expert: Is trusted to mediate the organisation's hardest, highest-risk
   discussions about data work, and represents the data analyst community
@@ -201,10 +195,9 @@ profession itself.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -223,9 +216,9 @@ below.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Although this is the most senior level in the role's
+Baseline: 3 — Practitioner. Although this is the most senior level in the role's
 ladder, the framework's own wording for this specific skill does not move
-beyond the senior level, so the baseline is held at Advanced rather than
+beyond the senior level, so the baseline is held at Practitioner rather than
 inflated to Expert on the strength of the job title alone — this level's
 real step up in ethical influence shows through the organisation-wide scope
 of the surrounding accountabilities, not through a change in this skill's own
@@ -233,13 +226,11 @@ wording.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a data ethics issue in their own work to the
-  wider organisational picture.
-- 1 — Beginner: Applies ethical principles in routine work but does not yet
+- 1 — Awareness: Applies ethical principles in routine work but does not yet
   research or challenge policy.
-- 2 — Intermediate: Works with stakeholders on straightforward ethical or
+- 2 — Working: Works with stakeholders on straightforward ethical or
   privacy concerns with support.
-- 3 — Advanced: Independently works with stakeholders to identify and address
+- 3 — Practitioner: Independently works with stakeholders to identify and address
   ethical and privacy concerns, explains how they fit the wider organisational
   context, researches developments to improve compliance, and constructively
   challenges a proposed policy where it does not hold up.
@@ -256,10 +247,9 @@ wording.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -284,13 +274,11 @@ policy within a team.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how data management responsibilities are defined
-  or implemented in the organisation.
-- 1 — Beginner: Follows data management responsibilities but has not defined
+- 1 — Awareness: Follows data management responsibilities but has not defined
   or led their implementation.
-- 2 — Intermediate: Contributes to defining data management responsibilities
+- 2 — Working: Contributes to defining data management responsibilities
   for their own team.
-- 3 — Advanced: Advocates for and monitors data management practice across a
+- 3 — Practitioner: Advocates for and monitors data management practice across a
   team.
 - 4 — Expert: Champions and leads data management and governance across the
   organisation, defines tools and training requirements for it, and enables
@@ -305,10 +293,9 @@ policy within a team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -331,11 +318,9 @@ beyond planning a single data model's framework.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the organisation's data quality standards or how
-  they came about.
-- 1 — Beginner: Follows data quality standards but has not set them.
-- 2 — Intermediate: Contributes to data quality standards for their own team.
-- 3 — Advanced: Plans and implements analytical data model frameworks
+- 1 — Awareness: Follows data quality standards but has not set them.
+- 2 — Working: Contributes to data quality standards for their own team.
+- 3 — Practitioner: Plans and implements analytical data model frameworks
   independently.
 - 4 — Expert: Develops analytical data models using deep source knowledge,
   ensures implementation aligns with modelling standards, sets data quality
@@ -350,10 +335,9 @@ beyond planning a single data model's framework.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -378,13 +362,11 @@ level below is baselined.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot identify a visualisation capability gap in the
-  organisation.
-- 1 — Beginner: Produces good visualisations personally but has not set
+- 1 — Awareness: Produces good visualisations personally but has not set
   standards for others.
-- 2 — Intermediate: Suggests improvements to visualisation practice within
+- 2 — Working: Suggests improvements to visualisation practice within
   their own team.
-- 3 — Advanced: Advises others on accessible design and suggests process
+- 3 — Practitioner: Advises others on accessible design and suggests process
   improvements.
 - 4 — Expert: Translates business requirements into visualisation goals, sets
   and advocates for organisation-wide standards, identifies capability gaps
@@ -400,10 +382,9 @@ level below is baselined.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -429,12 +410,10 @@ influence — the top of this skill's progression.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how data delivers business impact beyond their
-  own team's work.
-- 1 — Beginner: Delivers a data product and can describe its own impact.
-- 2 — Intermediate: Identifies opportunities to deliver business impact
+- 1 — Awareness: Delivers a data product and can describe its own impact.
+- 2 — Working: Identifies opportunities to deliver business impact
   within their own area.
-- 3 — Advanced: Leads others in delivering scalable data products aligned to
+- 3 — Practitioner: Leads others in delivering scalable data products aligned to
   organisational priorities.
 - 4 — Expert: Champions the role of data across the organisation,
   strategically communicates its business impact, leads others in
@@ -450,10 +429,9 @@ influence — the top of this skill's progression.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -477,10 +455,9 @@ analytical approach.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the organisation's coding standards for analysis.
-- 1 — Beginner: Follows coding standards but has not shaped or promoted them.
-- 2 — Intermediate: Contributes to coding standards within their own team.
-- 3 — Advanced: Designs and implements analytical approaches to standard,
+- 1 — Awareness: Follows coding standards but has not shaped or promoted them.
+- 2 — Working: Contributes to coding standards within their own team.
+- 3 — Practitioner: Designs and implements analytical approaches to standard,
   including tests, and leads review of shared code.
 - 4 — Expert: Oversees and promotes coding standards across existing and new
   outcomes, contributes to organisation-wide coding standards, and ensures
@@ -495,10 +472,9 @@ analytical approach.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -525,13 +501,11 @@ progression, beyond independently managing one project.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot advise another team on problem statement development or
-  project planning.
-- 1 — Beginner: Manages their own project's problem statement but has not
+- 1 — Awareness: Manages their own project's problem statement but has not
   advised others.
-- 2 — Intermediate: Shares practice with a close colleague within the same
+- 2 — Working: Shares practice with a close colleague within the same
   team.
-- 3 — Advanced: Independently defines problem statements and plans project
+- 3 — Practitioner: Independently defines problem statements and plans project
   life cycle stages for their own work.
 - 4 — Expert: Advises on problem statement development across varied
   projects, oversees planning and implementation of the project life cycle,
@@ -547,10 +521,9 @@ progression, beyond independently managing one project.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -561,7 +534,7 @@ progression, beyond independently managing one project.
 | --- | --- | --- | --- |
 | Applying statistical and analytical tools and techniques | 4 — Expert | | |
 | Communicating between the technical and non-technical | 4 — Expert | | |
-| Data ethics and privacy | 3 — Advanced | | |
+| Data ethics and privacy | 3 — Practitioner | | |
 | Data management | 4 — Expert | | |
 | Data preparation and linkage | 4 — Expert | | |
 | Data visualisation | 4 — Expert | | |

@@ -52,22 +52,21 @@ in the project specification for what this rules out.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well the person does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of User research methods:
 
-- **1 — Beginner**: they could explain a basic user research method, such as an
+- **1 — Awareness**: they could explain a basic user research method, such as an
   interview or a usability test, but had not yet applied one to a real project.
-- **2 — Intermediate**: with support from a more senior researcher, they planned and
+- **2 — Working**: with support from a more senior researcher, they planned and
   conducted part of a user research project, applied a basic method correctly, and
   involved their team in the research activity.
 
@@ -110,7 +109,7 @@ researcher level below.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Because the text repeats the associate level's wording word for
+Baseline: 1 — Awareness. Because the text repeats the associate level's wording word for
 word, the honest baseline stays the same as that level — this level's real step up
 shows in Analysis and synthesis and User research methods, and in this level's own
 accountability to work in combination with a more senior researcher, not in a claim
@@ -118,13 +117,11 @@ this text does not make.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what agile working means or name any roles in a
-  multidisciplinary digital team.
-- 1 — Beginner: describes agile working in general terms, and can name some roles in
+- 1 — Awareness: describes agile working in general terms, and can name some roles in
   a multidisciplinary digital team, such as a delivery manager or a developer.
-- 2 — Intermediate: describes agile working accurately and explains how at least one
+- 2 — Working: describes agile working accurately and explains how at least one
   named role, such as a user researcher, fits into it, with some prompting.
-- 3 — Advanced: independently explains how agile working and the roles in a
+- 3 — Practitioner: independently explains how agile working and the roles in a
   multidisciplinary team affect how user research gets planned and used.
 - 4 — Expert: is not expected at this level.
 
@@ -139,10 +136,9 @@ this text does not make.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -158,20 +154,18 @@ colleagues can understand and use.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This level's text is a genuine step up from the associate
+Baseline: 2 — Working. This level's text is a genuine step up from the associate
 level's mere "awareness" wording — it now asks for applying basic techniques and
 presenting findings, with the framing "with support" implicit in a level that "needs
 regular guidance and training".
 
 **Behavioural indicators**
 
-- 0 — None: cannot apply a basic analysis technique to research data, even with
-  support.
-- 1 — Beginner: has watched a more senior researcher analyse data and synthesise
+- 1 — Awareness: has watched a more senior researcher analyse data and synthesise
   findings, without applying a technique themselves.
-- 2 — Intermediate: applies a basic analysis technique to research data with support,
+- 2 — Working: applies a basic analysis technique to research data with support,
   involves their team in the analysis, and presents findings colleagues can understand.
-- 3 — Advanced: independently applies a range of analysis techniques and produces
+- 3 — Practitioner: independently applies a range of analysis techniques and produces
   clear findings without close support.
 - 4 — Expert: is not expected at this level.
 
@@ -185,10 +179,9 @@ regular guidance and training".
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -204,17 +197,16 @@ researcher level below.
 
 **Baseline for this role level**
 
-Baseline: 0 — None. The text repeats the associate level's wording word for word, so
+Baseline: 1 — Awareness. The text repeats the associate level's wording word for word, so
 the honest baseline stays the same — an awareness expectation, not yet an applied one.
 
 **Behavioural indicators**
 
-- 0 — None: shows no awareness of the diversity of users of government services.
-- 1 — Beginner: can name, when asked, some ways users of government services differ
+- 1 — Awareness: can name, when asked, some ways users of government services differ
   from each other and why accessibility matters.
-- 2 — Intermediate: has taken part in a research session that included a user with an
+- 2 — Working: has taken part in a research session that included a user with an
   access need or a diverse background, with support from a more senior researcher.
-- 3 — Advanced: is not expected at this level.
+- 3 — Practitioner: is not expected at this level.
 - 4 — Expert: is not expected at this level.
 
 **Evidence to gather**
@@ -228,10 +220,9 @@ the honest baseline stays the same — an awareness expectation, not yet an appl
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -246,18 +237,17 @@ identical to the associate user researcher level below.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The text repeats the associate level's wording word for word,
+Baseline: 1 — Awareness. The text repeats the associate level's wording word for word,
 so the honest baseline stays the same — explaining why a plan and standards matter,
 not yet leading or assuring one.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why a user research plan or research standards matter.
-- 1 — Beginner: explains, in general terms, why working to a user research plan
+- 1 — Awareness: explains, in general terms, why working to a user research plan
   matters, and why following standards for user research is important.
-- 2 — Intermediate: explains the importance of a plan and standards with a specific
+- 2 — Working: explains the importance of a plan and standards with a specific
   example from a project they were part of.
-- 3 — Advanced: is not expected at this level.
+- 3 — Practitioner: is not expected at this level.
 - 4 — Expert: is not expected at this level.
 
 **Evidence to gather**
@@ -271,10 +261,9 @@ not yet leading or assuring one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -290,18 +279,17 @@ researcher level below.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The text repeats the associate level's wording word for word,
+Baseline: 1 — Awareness. The text repeats the associate level's wording word for word,
 so the honest baseline stays the same — describing and explaining, not yet managing a
 relationship independently.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe who a stakeholder in a research project might be.
-- 1 — Beginner: describes who stakeholders typically are on a research project, and
+- 1 — Awareness: describes who stakeholders typically are on a research project, and
   explains in general terms why managing relationships with them matters.
-- 2 — Intermediate: explains what one type of stakeholder finds important and why,
+- 2 — Working: explains what one type of stakeholder finds important and why,
   drawing on a specific example from a project they were embedded in.
-- 3 — Advanced: is not expected at this level.
+- 3 — Practitioner: is not expected at this level.
 - 4 — Expert: is not expected at this level.
 
 **Evidence to gather**
@@ -315,10 +303,9 @@ relationship independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -333,19 +320,18 @@ apply them correctly; and effectively involve their team in research activities.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This level's text is a genuine step up from the associate
+Baseline: 2 — Working. This level's text is a genuine step up from the associate
 level's "explain some basic methods" — it now asks for planning and conducting a
 project, applying methods correctly, with the framework's own wording making explicit
 that this is done "with support".
 
 **Behavioural indicators**
 
-- 0 — None: cannot apply a basic user research method, even with support.
-- 1 — Beginner: has observed a research session run by a more senior researcher,
+- 1 — Awareness: has observed a research session run by a more senior researcher,
   without planning or conducting one themselves.
-- 2 — Intermediate: plans and conducts a user research project with support, applies a
+- 2 — Working: plans and conducts a user research project with support, applies a
   basic method correctly, and involves their team in research activities.
-- 3 — Advanced: independently plans and conducts a research project using a range of
+- 3 — Practitioner: independently plans and conducts a research project using a range of
   basic methods, without needing close support.
 - 4 — Expert: is not expected at this level.
 
@@ -359,10 +345,9 @@ that this is done "with support".
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -378,19 +363,17 @@ is identical to the associate user researcher level below.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The text repeats the associate level's wording word for word,
+Baseline: 1 — Awareness. The text repeats the associate level's wording word for word,
 so the honest baseline stays the same — describing and explaining, not yet advocating
 independently.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe how a government service or technology affects how people
-  behave.
-- 1 — Beginner: describes, in general terms, how a government service or technology
+- 1 — Awareness: describes, in general terms, how a government service or technology
   can affect how people behave, and explains why user-centred practices matter.
-- 2 — Intermediate: gives a specific example, from a project they were part of, of a
+- 2 — Working: gives a specific example, from a project they were part of, of a
   service that changed because of user-centred practice.
-- 3 — Advanced: is not expected at this level.
+- 3 — Practitioner: is not expected at this level.
 - 4 — Expert: is not expected at this level.
 
 **Evidence to gather**
@@ -403,10 +386,9 @@ independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -417,7 +399,7 @@ independently.
 | --- | ---: | --- | --- |
 | Agile research practices | 1 | | |
 | Analysis and synthesis | 2 | | |
-| Inclusive research | 0 | | |
+| Inclusive research | 1 | | |
 | Research management, leadership and assurance | 1 | | |
 | Stakeholder relationship management | 1 | | |
 | User research methods | 2 | | |

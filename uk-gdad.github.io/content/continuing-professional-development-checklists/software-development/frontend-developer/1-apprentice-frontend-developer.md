@@ -2,10 +2,100 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Frontend developer** role at the **Apprentice frontend developer** level in the UK GDAD PCF. You are learning on the job while attending certified training, shadowing experienced people, and starting to write code that follows web standards. Government frontend work matters enormously, because the interfaces you build have to work for everyone, including people in difficult circumstances.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/software-development/frontend-developer/1-apprentice-frontend-developer.md`](../../../assessments/software-development/frontend-developer/1-apprentice-frontend-developer.md)
+- Upskilling: [`upskills/software-development/frontend-developer/1-apprentice-frontend-developer.md`](../../../upskills/software-development/frontend-developer/1-apprentice-frontend-developer.md)
+
+### Role Level Focus: Apprentice Frontend Developer
+
+- [ ] Track Your Certified Training: Keep a list of every module, exam, and portfolio task, with dates and outcomes.
+- [ ] Log Your Shadowing: Note who you shadowed, what they did, and one thing you learned each time.
+- [ ] Master Semantic HTML First: Learn to reach for the right element before reaching for a framework.
+- [ ] Learn CSS Properly: Work through layout, cascade, specificity, and responsive design in a structured course.
+- [ ] Build JavaScript Foundations: Learn the language basics, including the document object model and events.
+- [ ] Learn Progressive Enhancement: Understand why government services must work without JavaScript, and test that they do.
+- [ ] Use the GOV.UK Design System: Build something with the Design System components and read why they are designed that way.
+- [ ] Keep a Question Journal: Write down what puzzled you each day and bring it to your mentor.
+
+### Skill: Accessibility
+
+- [ ] Understand Different Needs: Learn about visual, motor, cognitive, and hearing access needs, and what each means for your code.
+- [ ] Try Assistive Technology: Spend time using a screen reader on a real page, and note what surprised you.
+- [ ] Fix Issues Under Direction: Take assigned accessibility fixes, complete them, and record what caused the issue.
+- [ ] Learn the Standard: Read an introduction to WCAG 2.2 AA and note the criteria your work touches most.
+- [ ] Learn the Legal Duty: Understand that public sector accessibility regulations make this a requirement, not a preference.
+
+### Skill: Communicating information
+
+- [ ] Listen and Interpret: Practise repeating back what a designer or stakeholder asked for, and check you got it right.
+- [ ] Join Team Discussions: Contribute at least one question or observation in every team session.
+- [ ] Learn Plain English: Practise explaining a technical point without jargon, and ask if it landed.
+- [ ] Write Clear Updates: Practise short written updates that say what you did, what is next, and what is blocking you.
+
+### Skill: Community collaboration
+
+- [ ] Understand Others' Work: Learn what each discipline in your team actually does day to day.
+- [ ] Value Team Dynamics: Notice what helps your team work well, and say so out loud when you see it.
+- [ ] Give and Take Feedback: Practise receiving code review comments as help rather than criticism.
+- [ ] Join a Community: Attend the cross-government frontend community and just listen at first.
+
+### Skill: Leadership and guidance (frontend developer)
+
+- [ ] Follow Agreed Practice: Learn your team's agreed good practice and apply it consistently.
+- [ ] Notice Team Dynamics: Pay attention to how decisions get made, and ask about anything you do not follow.
+- [ ] Act on Feedback: Choose one piece of feedback each month and show what you changed.
+- [ ] Ask Before Deviating: Practise checking in when you are tempted to do something differently.
+
+### Skill: Modern development standards
+
+- [ ] Explain Why Standards Matter: List three concrete problems that web standards and coding standards prevent.
+- [ ] Set Up Your Tooling: Get the team's formatter, linter, and accessibility checks running in your editor.
+- [ ] Validate Your Markup: Run a markup validator on your work and fix what it finds.
+- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
+
+### Skill: Programming and build (frontend developer)
+
+- [ ] Build Simple Interfaces: Design, code, test, correct, and document simple interfaces under direction.
+- [ ] Test in Real Browsers: Learn which browsers and devices your service supports, and test on them.
+- [ ] Learn the Build Step: Understand what turns your source files into the assets a browser downloads.
+- [ ] Document Your Components: Write a short note for each component you build, saying how and when to use it.
+
+### Skill: Prototyping
+
+- [ ] Define Prototyping: Write down what a prototype is and two situations where one saves time.
+- [ ] Try the Prototype Kit: Build something small with the GOV.UK Prototype Kit.
+- [ ] Work in the Open: Share unfinished work early and practise receiving feedback comfortably.
+- [ ] Pair Regularly: Book at least one pairing session a week and take a turn at the keyboard.
+
+### Skill: User focus (frontend developer)
+
+- [ ] Understand User Experience Principles: Complete an introduction to user experience analysis.
+- [ ] Observe Research: Watch a user research session and write down one thing that surprised you.
+- [ ] Explain User Stories: Rewrite three backlog items in your own words, including the user need.
+- [ ] Connect Code to Need: For every task you finish, write one sentence naming the user need it serves.
+
+### Skill: Web performance optimisation
+
+- [ ] Describe the Basics: Write plain-English definitions of page weight, render blocking, and caching.
+- [ ] Explain Why It Matters: Learn how slow pages affect users on old devices and poor connections.
+- [ ] Measure a Real Page: Run a performance audit on your service and note the top three findings.
+- [ ] Improve Under Supervision: Make one supervised performance improvement and measure the difference.
+
+### Skill Growth Plan: Toward Junior Frontend Developer
+
+- [ ] Review the Next Level: Read the Junior frontend developer skill descriptions and mark what to build next.
+- [ ] Pick Two Stretch Goals: Choose two skills to grow this quarter, agreed with your line manager.
+- [ ] Build a Portfolio: Collect components, before-and-after accessibility fixes, and feedback as evidence.
+- [ ] Book a Progress Review: Agree a date to walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,93 +193,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Frontend developer** role at the **Apprentice frontend developer** level in the UK GDAD PCF. You are learning on the job while attending certified training, shadowing experienced people, and starting to write code that follows web standards. Government frontend work matters enormously, because the interfaces you build have to work for everyone, including people in difficult circumstances.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/software-development/frontend-developer/1-apprentice-frontend-developer.md`](../../../assessments/software-development/frontend-developer/1-apprentice-frontend-developer.md)
-- Upskilling: [`upskills/software-development/frontend-developer/1-apprentice-frontend-developer.md`](../../../upskills/software-development/frontend-developer/1-apprentice-frontend-developer.md)
-
-### Role Level Focus: Apprentice Frontend Developer
-
-- [ ] Track Your Certified Training: Keep a list of every module, exam, and portfolio task, with dates and outcomes.
-- [ ] Log Your Shadowing: Note who you shadowed, what they did, and one thing you learned each time.
-- [ ] Master Semantic HTML First: Learn to reach for the right element before reaching for a framework.
-- [ ] Learn CSS Properly: Work through layout, cascade, specificity, and responsive design in a structured course.
-- [ ] Build JavaScript Foundations: Learn the language basics, including the document object model and events.
-- [ ] Learn Progressive Enhancement: Understand why government services must work without JavaScript, and test that they do.
-- [ ] Use the GOV.UK Design System: Build something with the Design System components and read why they are designed that way.
-- [ ] Keep a Question Journal: Write down what puzzled you each day and bring it to your mentor.
-
-### Skill: Accessibility
-
-- [ ] Understand Different Needs: Learn about visual, motor, cognitive, and hearing access needs, and what each means for your code.
-- [ ] Try Assistive Technology: Spend time using a screen reader on a real page, and note what surprised you.
-- [ ] Fix Issues Under Direction: Take assigned accessibility fixes, complete them, and record what caused the issue.
-- [ ] Learn the Standard: Read an introduction to WCAG 2.2 AA and note the criteria your work touches most.
-- [ ] Learn the Legal Duty: Understand that public sector accessibility regulations make this a requirement, not a preference.
-
-### Skill: Communicating information
-
-- [ ] Listen and Interpret: Practise repeating back what a designer or stakeholder asked for, and check you got it right.
-- [ ] Join Team Discussions: Contribute at least one question or observation in every team session.
-- [ ] Learn Plain English: Practise explaining a technical point without jargon, and ask if it landed.
-- [ ] Write Clear Updates: Practise short written updates that say what you did, what is next, and what is blocking you.
-
-### Skill: Community collaboration
-
-- [ ] Understand Others' Work: Learn what each discipline in your team actually does day to day.
-- [ ] Value Team Dynamics: Notice what helps your team work well, and say so out loud when you see it.
-- [ ] Give and Take Feedback: Practise receiving code review comments as help rather than criticism.
-- [ ] Join a Community: Attend the cross-government frontend community and just listen at first.
-
-### Skill: Leadership and guidance (frontend developer)
-
-- [ ] Follow Agreed Practice: Learn your team's agreed good practice and apply it consistently.
-- [ ] Notice Team Dynamics: Pay attention to how decisions get made, and ask about anything you do not follow.
-- [ ] Act on Feedback: Choose one piece of feedback each month and show what you changed.
-- [ ] Ask Before Deviating: Practise checking in when you are tempted to do something differently.
-
-### Skill: Modern development standards
-
-- [ ] Explain Why Standards Matter: List three concrete problems that web standards and coding standards prevent.
-- [ ] Set Up Your Tooling: Get the team's formatter, linter, and accessibility checks running in your editor.
-- [ ] Validate Your Markup: Run a markup validator on your work and fix what it finds.
-- [ ] Learn Version Control: Get comfortable with branching, merging, and recovering from mistakes.
-
-### Skill: Programming and build (frontend developer)
-
-- [ ] Build Simple Interfaces: Design, code, test, correct, and document simple interfaces under direction.
-- [ ] Test in Real Browsers: Learn which browsers and devices your service supports, and test on them.
-- [ ] Learn the Build Step: Understand what turns your source files into the assets a browser downloads.
-- [ ] Document Your Components: Write a short note for each component you build, saying how and when to use it.
-
-### Skill: Prototyping
-
-- [ ] Define Prototyping: Write down what a prototype is and two situations where one saves time.
-- [ ] Try the Prototype Kit: Build something small with the GOV.UK Prototype Kit.
-- [ ] Work in the Open: Share unfinished work early and practise receiving feedback comfortably.
-- [ ] Pair Regularly: Book at least one pairing session a week and take a turn at the keyboard.
-
-### Skill: User focus (frontend developer)
-
-- [ ] Understand User Experience Principles: Complete an introduction to user experience analysis.
-- [ ] Observe Research: Watch a user research session and write down one thing that surprised you.
-- [ ] Explain User Stories: Rewrite three backlog items in your own words, including the user need.
-- [ ] Connect Code to Need: For every task you finish, write one sentence naming the user need it serves.
-
-### Skill: Web performance optimisation
-
-- [ ] Describe the Basics: Write plain-English definitions of page weight, render blocking, and caching.
-- [ ] Explain Why It Matters: Learn how slow pages affect users on old devices and poor connections.
-- [ ] Measure a Real Page: Run a performance audit on your service and note the top three findings.
-- [ ] Improve Under Supervision: Make one supervised performance improvement and measure the difference.
-
-### Skill Growth Plan: Toward Junior Frontend Developer
-
-- [ ] Review the Next Level: Read the Junior frontend developer skill descriptions and mark what to build next.
-- [ ] Pick Two Stretch Goals: Choose two skills to grow this quarter, agreed with your line manager.
-- [ ] Build a Portfolio: Collect components, before-and-after accessibility fixes, and feedback as evidence.
-- [ ] Book a Progress Review: Agree a date to walk your evidence through with your mentor.

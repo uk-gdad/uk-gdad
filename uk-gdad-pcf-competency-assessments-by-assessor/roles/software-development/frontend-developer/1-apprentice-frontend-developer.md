@@ -50,25 +50,24 @@ anything other than demonstrated, job-related evidence.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Accessibility.** At Beginner (1), a candidate could
+**Worked example — Accessibility.** At Awareness (1), a candidate could
 explain, in general terms, that different users have different accessibility
-needs, without yet having fixed an issue. At Intermediate (2) — this level's
+needs, without yet having fixed an issue. At Working (2) — this level's
 baseline — they have helped fix an accessibility issue on a real interface
 under someone else's direction, and can describe what the issue was and how
-it was fixed. At Advanced (3), above this level's baseline, they would fix
+it was fixed. At Practitioner (3), above this level's baseline, they would fix
 accessibility issues independently against a set of standards, which is more
 independence than an apprentice is expected to show.
 
@@ -116,19 +115,17 @@ issues under the direction of others.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Understanding is asked for first, with helping to
+Baseline: 1 — Awareness. Understanding is asked for first, with helping to
 fix issues only under direction, matching this level's shadowing-and-learning
 accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why different users might need a website to work
-  differently for them.
-- 1 — Beginner: can explain that users have different accessibility needs,
+- 1 — Awareness: can explain that users have different accessibility needs,
   and give a simple example, such as needing to navigate by keyboard.
-- 2 — Intermediate: has helped fix a specific accessibility issue on a real
+- 2 — Working: has helped fix a specific accessibility issue on a real
   interface, under someone else's direction.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -140,10 +137,9 @@ accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -158,18 +154,16 @@ in discussions within a multidisciplinary team.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Listening and taking part are receptive, supported
+Baseline: 1 — Awareness. Listening and taking part are receptive, supported
 activities, matching this level's shadowing-and-learning accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: does not engage in team discussions or struggles to follow what
-  stakeholders are asking for.
-- 1 — Beginner: listens to stakeholder needs and can restate them accurately
+- 1 — Awareness: listens to stakeholder needs and can restate them accurately
   in simple terms.
-- 2 — Intermediate: takes part actively in a multidisciplinary team
+- 2 — Working: takes part actively in a multidisciplinary team
   discussion, contributing a relevant point.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -181,10 +175,9 @@ activities, matching this level's shadowing-and-learning accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -198,17 +191,16 @@ others and the importance of team dynamics, collaboration and feedback.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Understanding is asked for, not yet actively shaping
+Baseline: 1 — Awareness. Understanding is asked for, not yet actively shaping
 team dynamics, matching this level's learning accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why collaboration or feedback matters to a team.
-- 1 — Beginner: can explain, in simple terms, why understanding others' work
+- 1 — Awareness: can explain, in simple terms, why understanding others' work
   and giving or receiving feedback matters to a team.
-- 2 — Intermediate: describes a specific example of collaborating with or
+- 2 — Working: describes a specific example of collaborating with or
   giving feedback to someone on their team.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -219,10 +211,9 @@ team dynamics, matching this level's learning accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -237,19 +228,17 @@ collaboration, and understand the importance of feedback.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Following practice and showing awareness are
+Baseline: 1 — Awareness. Following practice and showing awareness are
 supported, receptive activities, appropriate to someone still shadowing
 others.
 
 **Behavioural indicators**
 
-- 0 — None: does not follow the team's agreed good practice even when told
-  what it is.
-- 1 — Beginner: follows the team's agreed good practice when reminded, and
+- 1 — Awareness: follows the team's agreed good practice when reminded, and
   can explain why feedback matters.
-- 2 — Intermediate: follows agreed good practice consistently without being
+- 2 — Working: follows agreed good practice consistently without being
   reminded.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -261,10 +250,9 @@ others.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -278,18 +266,17 @@ using modern development standards.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Only explanation is asked for, the lightest form of
+Baseline: 1 — Awareness. Only explanation is asked for, the lightest form of
 this skill in the ladder.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say why a team would follow agreed development standards.
-- 1 — Beginner: can explain, in general terms, why modern development
+- 1 — Awareness: can explain, in general terms, why modern development
   standards matter, such as consistent code style or version control
   discipline.
-- 2 — Intermediate: points to a specific standard their team follows and
+- 2 — Working: points to a specific standard their team follows and
   explains the problem it prevents, having watched it applied.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -301,10 +288,9 @@ this skill in the ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -319,18 +305,17 @@ under the direction of others.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is hands-on, but strictly under direction on
+Baseline: 1 — Awareness. This is hands-on, but strictly under direction on
 simple interfaces, matching this level's shadowing accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: cannot build a simple user interface even with direction.
-- 1 — Beginner: builds a simple user interface with close direction,
+- 1 — Awareness: builds a simple user interface with close direction,
   covering design, code, test, correction and documentation at a basic
   level.
-- 2 — Intermediate: does this with only occasional check-ins rather than
+- 2 — Working: does this with only occasional check-ins rather than
   step-by-step direction.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -341,10 +326,9 @@ simple interfaces, matching this level's shadowing accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -359,17 +343,16 @@ collaborative environment, such as by pair working.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Explaining and understanding are asked for, not
+Baseline: 1 — Awareness. Explaining and understanding are asked for, not
 running prototyping activities.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain what a prototype is or why a team would build one.
-- 1 — Beginner: can explain what prototyping is and give a simple reason for
+- 1 — Awareness: can explain what prototyping is and give a simple reason for
   using it.
-- 2 — Intermediate: has taken part in a pair-working or collaborative
+- 2 — Working: has taken part in a pair-working or collaborative
   prototyping session and can describe what they contributed.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -381,10 +364,9 @@ running prototyping activities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -399,18 +381,16 @@ stories and the focus on user needs.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Understanding and explanation are asked for, not
+Baseline: 1 — Awareness. Understanding and explanation are asked for, not
 conducting user research or writing user stories independently.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why a team writes user stories or considers user
-  needs before building something.
-- 1 — Beginner: can explain, in simple terms, what a user story is for and
+- 1 — Awareness: can explain, in simple terms, what a user story is for and
   why user needs matter to the work.
-- 2 — Intermediate: can point to a specific user need that shaped a piece of
+- 2 — Working: can point to a specific user need that shaped a piece of
   interface work they were involved in.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -422,10 +402,9 @@ conducting user research or writing user stories independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -440,17 +419,16 @@ improve web performance under supervision.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Description and explanation come first, with helping
+Baseline: 1 — Awareness. Description and explanation come first, with helping
 to improve performance only under supervision.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why a slow-loading page is a problem for users.
-- 1 — Beginner: can describe a basic principle of web performance (for
+- 1 — Awareness: can describe a basic principle of web performance (for
   example, image size affecting load time) and explain why it matters.
-- 2 — Intermediate: has helped improve the performance of a real page under
+- 2 — Working: has helped improve the performance of a real page under
   supervision, and can describe what was changed.
-- 3 — Advanced: not expected at this level.
+- 3 — Practitioner: not expected at this level.
 - 4 — Expert: not expected at this level.
 
 **Evidence to gather**
@@ -462,10 +440,9 @@ to improve performance only under supervision.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -474,15 +451,15 @@ to improve performance only under supervision.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Accessibility | 1 — Beginner | | |
-| Communicating information | 1 — Beginner | | |
-| Community collaboration | 1 — Beginner | | |
-| Leadership and guidance (frontend developer) | 1 — Beginner | | |
-| Modern development standards | 1 — Beginner | | |
-| Programming and build (frontend developer) | 1 — Beginner | | |
-| Prototyping | 1 — Beginner | | |
-| User focus (frontend developer) | 1 — Beginner | | |
-| Web performance optimisation | 1 — Beginner | | |
+| Accessibility | 1 — Awareness | | |
+| Communicating information | 1 — Awareness | | |
+| Community collaboration | 1 — Awareness | | |
+| Leadership and guidance (frontend developer) | 1 — Awareness | | |
+| Modern development standards | 1 — Awareness | | |
+| Programming and build (frontend developer) | 1 — Awareness | | |
+| Prototyping | 1 — Awareness | | |
+| User focus (frontend developer) | 1 — Awareness | | |
+| Web performance optimisation | 1 — Awareness | | |
 
 The baseline for this role level is normally met when every skill is rated at
 or above its baseline target. One or two skills below target is not

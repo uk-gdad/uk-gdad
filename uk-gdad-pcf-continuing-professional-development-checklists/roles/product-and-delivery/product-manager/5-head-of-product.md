@@ -2,10 +2,102 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Product manager** role at the **Head of product** level. You support all product managers in the organisation and the product community across government, you lead on product strategy with lead product managers and their business units, you set and raise standards for product management, you oversee every member of the community including development, pay, and performance, and you manage recruitment, development, moves, and exits. Your development is now about function leadership and stewardship.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/product-and-delivery/product-manager/5-head-of-product.md`](../../../assessments/product-and-delivery/product-manager/5-head-of-product.md)
+- Upskilling: [`upskills/product-and-delivery/product-manager/5-head-of-product.md`](../../../upskills/product-and-delivery/product-manager/5-head-of-product.md)
+
+### Role Level Focus: Head of Product
+
+- [ ] Set and Raise Standards: Own what good product management means in your organisation.
+- [ ] Lead Product Strategy: Work with lead product managers and business units on strategy.
+- [ ] Oversee the Community: Take responsibility for roles, assignments, development, pay, and performance.
+- [ ] Manage the Whole Employment Cycle: Own recruitment, development, moves, and exits, for civil servants and contractors.
+- [ ] Line Manage Senior Leaders: Develop the skill of managing senior and lead product managers.
+- [ ] Represent the Community: Speak for product interests with organisation management and other communities.
+- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
+- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
+
+### Skill: Agile and Lean practices
+
+- [ ] Coach and Lead Teams: Coach in Agile and Lean good practice across the organisation.
+- [ ] Tailor Approaches: Create, challenge, evaluate, and iterate approaches through the life cycle.
+- [ ] Experiment Organisationally: Trial innovative ways of working to improve delivery.
+- [ ] Be a Recognised Expert: Maintain external credibility as an advocate.
+
+### Skill: Applying user-centred insights
+
+- [ ] Advocate Research Approaches: Champion effective research methods across the organisation.
+- [ ] Coach Decision Making: Help others make decisions that meet user needs across channels.
+- [ ] Advocate Continuous Insight: Push for user insight to be continuous and funded.
+- [ ] Use Insight Strategically: Make strategic decisions from user evidence.
+
+### Skill: Creating value for money
+
+- [ ] Own a Business Case: Develop and iterate a business case throughout the life cycle.
+- [ ] Coach on Benefits: Help others identify benefits while balancing user and business needs.
+- [ ] Communicate Incremental Value: Show value delivered along the way, not just at the end.
+- [ ] Build the Organisational Case: Make the case for a product-led approach to value.
+- [ ] Empower Value-Conscious Teams: Coach teams to take a value for money approach themselves.
+
+### Skill: Life cycle management
+
+- [ ] Lead and Coach Through Phases: Take teams through life cycle phases with confidence.
+- [ ] Ensure Effective Support: Make sure products and users are properly supported.
+- [ ] Manage Phase Risks: Predict, prevent, mitigate, and manage risks at each phase.
+- [ ] Assess Other Teams: Contribute to service assessments, providing guidance and support.
+
+### Skill: Managing product outcomes
+
+- [ ] Prioritise With Data: Use data to make prioritisation decisions across multiple complex products.
+- [ ] Influence Senior Priorities: Use data to shift what senior stakeholders prioritise.
+- [ ] Guide and Challenge Teams: Push teams to use data better and demonstrate outcomes.
+- [ ] Connect Data Across Government: Find opportunities to share and join up product data widely.
+
+### Skill: Product leadership
+
+- [ ] Seek Reuse Across Government: Look for reuse and learning beyond your organisation.
+- [ ] Co-ordinate the Community: Own how the product management community runs.
+- [ ] Lead Coaching and Mentoring: Make development a structured, funded expectation.
+- [ ] Lead Cross-Government Activity: Establish and maintain relationships across the profession.
+- [ ] Represent Product Management: Speak for the discipline with senior stakeholders.
+
+### Skill: Product management
+
+- [ ] Set Strategy and Vision: Own strategy and vision for products, collaboratively.
+- [ ] Create a Prioritised Roadmap: Use it to discuss strategy at all levels.
+- [ ] Plan Across Teams: Plan prioritised work across teams, minimising dependencies and risks.
+- [ ] Support Multiple Teams: Help several teams deliver quality outcomes well.
+- [ ] Coach and Mentor: Develop product management skill across the organisation.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
+- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
+- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
+- [ ] Represent the Function: Speak for product management at board and cross-government level.
+
+### Skill: Strategic ownership
+
+- [ ] Coach Others on Strategy: Support others in creating and implementing long-term strategy.
+- [ ] Influence and Persuade: Win stakeholder support for delivering the strategy.
+- [ ] Support Strategic Decisions: Contribute to decisions across the organisation.
+- [ ] Ensure Strategic Alignment: Keep product direction aligned organisation-wide.
+
+### Skill Growth Plan: Beyond Head of Product
+
+- [ ] Review Adjacent Roles: Read the service owner, chief digital and information officer, and deputy director descriptions.
+- [ ] Broaden Beyond Product: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,95 +195,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Product manager** role at the **Head of product** level. You support all product managers in the organisation and the product community across government, you lead on product strategy with lead product managers and their business units, you set and raise standards for product management, you oversee every member of the community including development, pay, and performance, and you manage recruitment, development, moves, and exits. Your development is now about function leadership and stewardship.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/product-and-delivery/product-manager/5-head-of-product.md`](../../../assessments/product-and-delivery/product-manager/5-head-of-product.md)
-- Upskilling: [`upskills/product-and-delivery/product-manager/5-head-of-product.md`](../../../upskills/product-and-delivery/product-manager/5-head-of-product.md)
-
-### Role Level Focus: Head of Product
-
-- [ ] Set and Raise Standards: Own what good product management means in your organisation.
-- [ ] Lead Product Strategy: Work with lead product managers and business units on strategy.
-- [ ] Oversee the Community: Take responsibility for roles, assignments, development, pay, and performance.
-- [ ] Manage the Whole Employment Cycle: Own recruitment, development, moves, and exits, for civil servants and contractors.
-- [ ] Line Manage Senior Leaders: Develop the skill of managing senior and lead product managers.
-- [ ] Represent the Community: Speak for product interests with organisation management and other communities.
-- [ ] Build Inclusive Teams: Learn what genuinely improves diversity and retention, and measure it.
-- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
-
-### Skill: Agile and Lean practices
-
-- [ ] Coach and Lead Teams: Coach in Agile and Lean good practice across the organisation.
-- [ ] Tailor Approaches: Create, challenge, evaluate, and iterate approaches through the life cycle.
-- [ ] Experiment Organisationally: Trial innovative ways of working to improve delivery.
-- [ ] Be a Recognised Expert: Maintain external credibility as an advocate.
-
-### Skill: Applying user-centred insights
-
-- [ ] Advocate Research Approaches: Champion effective research methods across the organisation.
-- [ ] Coach Decision Making: Help others make decisions that meet user needs across channels.
-- [ ] Advocate Continuous Insight: Push for user insight to be continuous and funded.
-- [ ] Use Insight Strategically: Make strategic decisions from user evidence.
-
-### Skill: Creating value for money
-
-- [ ] Own a Business Case: Develop and iterate a business case throughout the life cycle.
-- [ ] Coach on Benefits: Help others identify benefits while balancing user and business needs.
-- [ ] Communicate Incremental Value: Show value delivered along the way, not just at the end.
-- [ ] Build the Organisational Case: Make the case for a product-led approach to value.
-- [ ] Empower Value-Conscious Teams: Coach teams to take a value for money approach themselves.
-
-### Skill: Life cycle management
-
-- [ ] Lead and Coach Through Phases: Take teams through life cycle phases with confidence.
-- [ ] Ensure Effective Support: Make sure products and users are properly supported.
-- [ ] Manage Phase Risks: Predict, prevent, mitigate, and manage risks at each phase.
-- [ ] Assess Other Teams: Contribute to service assessments, providing guidance and support.
-
-### Skill: Managing product outcomes
-
-- [ ] Prioritise With Data: Use data to make prioritisation decisions across multiple complex products.
-- [ ] Influence Senior Priorities: Use data to shift what senior stakeholders prioritise.
-- [ ] Guide and Challenge Teams: Push teams to use data better and demonstrate outcomes.
-- [ ] Connect Data Across Government: Find opportunities to share and join up product data widely.
-
-### Skill: Product leadership
-
-- [ ] Seek Reuse Across Government: Look for reuse and learning beyond your organisation.
-- [ ] Co-ordinate the Community: Own how the product management community runs.
-- [ ] Lead Coaching and Mentoring: Make development a structured, funded expectation.
-- [ ] Lead Cross-Government Activity: Establish and maintain relationships across the profession.
-- [ ] Represent Product Management: Speak for the discipline with senior stakeholders.
-
-### Skill: Product management
-
-- [ ] Set Strategy and Vision: Own strategy and vision for products, collaboratively.
-- [ ] Create a Prioritised Roadmap: Use it to discuss strategy at all levels.
-- [ ] Plan Across Teams: Plan prioritised work across teams, minimising dependencies and risks.
-- [ ] Support Multiple Teams: Help several teams deliver quality outcomes well.
-- [ ] Coach and Mentor: Develop product management skill across the organisation.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
-- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
-- [ ] Influence Senior Stakeholders: Negotiate at senior level to resolve issues and enable progress.
-- [ ] Represent the Function: Speak for product management at board and cross-government level.
-
-### Skill: Strategic ownership
-
-- [ ] Coach Others on Strategy: Support others in creating and implementing long-term strategy.
-- [ ] Influence and Persuade: Win stakeholder support for delivering the strategy.
-- [ ] Support Strategic Decisions: Contribute to decisions across the organisation.
-- [ ] Ensure Strategic Alignment: Keep product direction aligned organisation-wide.
-
-### Skill Growth Plan: Beyond Head of Product
-
-- [ ] Review Adjacent Roles: Read the service owner, chief digital and information officer, and deputy director descriptions.
-- [ ] Broaden Beyond Product: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as investment boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

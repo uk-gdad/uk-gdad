@@ -49,23 +49,22 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Design communication:
 
-- **2 — Intermediate**: they explained a moderately complex design problem to a
+- **2 — Working**: they explained a moderately complex design problem to a
   stakeholder outside design, with some help from a more senior colleague preparing the
   explanation.
-- **3 — Advanced**: they independently explained a genuinely complex problem to
+- **3 — Practitioner**: they independently explained a genuinely complex problem to
   stakeholders outside design, documented the decision and its risks clearly, and built
   consensus on the approach by asking difficult questions that surfaced an unstated
   assumption.
@@ -108,18 +107,17 @@ design approach, for example by asking difficult questions and challenging assum
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Explaining complex problems to non-design stakeholders and
+Baseline: 3 — Practitioner. Explaining complex problems to non-design stakeholders and
 building consensus by challenging assumptions is independent, unsupported communication
 work, consistent with a level the framework says "works with minimal support".
 
 **Behavioural indicators**
 
-- 0 — None: has not explained a design problem to a stakeholder outside design.
-- 1 — Beginner: has helped prepare an explanation of a design problem, led by someone
+- 1 — Awareness: has helped prepare an explanation of a design problem, led by someone
   more senior.
-- 2 — Intermediate: has explained a moderately complex design problem to non-design
+- 2 — Working: has explained a moderately complex design problem to non-design
   stakeholders, with some support.
-- 3 — Advanced: independently explains complex problems to teams or stakeholders
+- 3 — Practitioner: independently explains complex problems to teams or stakeholders
   outside design, documents decisions and unresolved risks clearly, and builds
   consensus by asking difficult questions.
 - 4 — Expert: is sought out to resolve entrenched disagreement about a design approach
@@ -135,10 +133,9 @@ work, consistent with a level the framework says "works with minimal support".
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -155,17 +152,16 @@ regulations.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Advising other teams on inclusive and accessible design, rather
+Baseline: 3 — Practitioner. Advising other teams on inclusive and accessible design, rather
 than only applying it to your own work, is independent, standards-facing practice.
 
 **Behavioural indicators**
 
-- 0 — None: has not advised a team on inclusive, accessible or sustainable design.
-- 1 — Beginner: has applied an accessibility standard to their own work under
+- 1 — Awareness: has applied an accessibility standard to their own work under
   supervision.
-- 2 — Intermediate: has advised a colleague on one inclusive design consideration, with
+- 2 — Working: has advised a colleague on one inclusive design consideration, with
   guidance from someone more senior.
-- 3 — Advanced: independently advises teams on inclusive, accessible and
+- 3 — Practitioner: independently advises teams on inclusive, accessible and
   environmentally sustainable design, and ensures designs meet standards such as
   accessibility regulations.
 - 4 — Expert: sets or measurably improves how multiple teams practise inclusive,
@@ -182,10 +178,9 @@ than only applying it to your own work, is independent, standards-facing practic
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -202,17 +197,16 @@ patterns and components.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Aligning a team's design work to organisational goals, and
+Baseline: 3 — Practitioner. Aligning a team's design work to organisational goals, and
 creating new patterns rather than only reusing existing ones, is independent,
 judgement-driven work.
 
 **Behavioural indicators**
 
-- 0 — None: has not connected a design decision to an organisational goal.
-- 1 — Beginner: has followed a strategic direction someone else set.
-- 2 — Intermediate: has helped align one piece of design work to a team's goals, with
+- 1 — Awareness: has followed a strategic direction someone else set.
+- 2 — Working: has helped align one piece of design work to a team's goals, with
   guidance.
-- 3 — Advanced: independently helps teams understand how their design work supports
+- 3 — Practitioner: independently helps teams understand how their design work supports
   organisational goals, weighs technology, systems and policy constraints to shape
   design, and creates a new design pattern or component when an existing one does not
   fit.
@@ -229,10 +223,9 @@ judgement-driven work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -248,17 +241,16 @@ process; and work across team or profession boundaries, for example with policy 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Advising others on running design sessions, and working across
+Baseline: 3 — Practitioner. Advising others on running design sessions, and working across
 profession boundaries such as with policy teams, is independent facilitation beyond
 running your own sessions.
 
 **Behavioural indicators**
 
-- 0 — None: has not advised another designer on planning or running a design session.
-- 1 — Beginner: has co-run a design session under someone else's lead.
-- 2 — Intermediate: has run a design session independently, with support choosing who
+- 1 — Awareness: has co-run a design session under someone else's lead.
+- 2 — Working: has run a design session independently, with support choosing who
   to involve.
-- 3 — Advanced: independently advises others on planning and running design sessions,
+- 3 — Practitioner: independently advises others on planning and running design sessions,
   adapts a session in the moment to reach a useful outcome, and works across a
   profession boundary such as with a policy team.
 - 4 — Expert: is someone other designers ask when a design session with senior
@@ -275,10 +267,9 @@ running your own sessions.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -294,16 +285,15 @@ develop and test design ideas.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Analysing and explaining complex evidence, including large data
+Baseline: 3 — Practitioner. Analysing and explaining complex evidence, including large data
 sets, and using it to develop and test design ideas, is independent analytical work.
 
 **Behavioural indicators**
 
-- 0 — None: has not analysed complex evidence to inform a design decision.
-- 1 — Beginner: has read a research summary someone else produced.
-- 2 — Intermediate: has analysed a moderately complex data set with support, and used
+- 1 — Awareness: has read a research summary someone else produced.
+- 2 — Working: has analysed a moderately complex data set with support, and used
   it to inform one design decision.
-- 3 — Advanced: independently analyses and clearly explains complex evidence, such as a
+- 3 — Practitioner: independently analyses and clearly explains complex evidence, such as a
   large data set, and uses it to develop and test design ideas; helps the team use
   hypotheses effectively.
 - 4 — Expert: is the point of reference when a team's evidence about users is
@@ -319,10 +309,9 @@ sets, and using it to develop and test design ideas, is independent analytical w
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -339,18 +328,17 @@ priorities or user needs.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Helping other designers apply iterative principles, and
+Baseline: 3 — Practitioner. Helping other designers apply iterative principles, and
 independently prototyping complex ideas, sits above delivering your own iterations
 alone.
 
 **Behavioural indicators**
 
-- 0 — None: has not iterated a design based on a round of research.
-- 1 — Beginner: has made a change to a design following direction from someone more
+- 1 — Awareness: has made a change to a design following direction from someone more
   senior.
-- 2 — Intermediate: has iterated a design across successive rounds of research, with
+- 2 — Working: has iterated a design across successive rounds of research, with
   some support choosing prototype fidelity.
-- 3 — Advanced: independently prototypes complex ideas at the right fidelity, iterates
+- 3 — Practitioner: independently prototypes complex ideas at the right fidelity, iterates
   designs across research rounds, adapts quickly to changing requirements, and helps
   other designers apply iterative principles to their own work.
 - 4 — Expert: coaches a team through a fundamental change of direction under real time
@@ -366,10 +354,9 @@ alone.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -385,19 +372,18 @@ when needed.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework itself qualifies leading and coordinating
+Baseline: 2 — Working. The framework itself qualifies leading and coordinating
 design work here as done "with support" — a lighter expectation than this level's other
 six skills, which is why this one baseline sits below the rest of this block.
 
 **Behavioural indicators**
 
-- 0 — None: has not coordinated design work across more than one person.
-- 1 — Beginner: has supported one other designer informally, without a coordinating
+- 1 — Awareness: has supported one other designer informally, without a coordinating
   role.
-- 2 — Intermediate: has led and coordinated design work in a team with support from a
+- 2 — Working: has led and coordinated design work in a team with support from a
   more senior designer or manager, communicated the value of user-centred design to the
   team, and supported at least one other designer.
-- 3 — Advanced: independently leads and coordinates design work in a team, without
+- 3 — Practitioner: independently leads and coordinates design work in a team, without
   needing support to do so, and engages digital and data leaders directly when needed.
 - 4 — Expert: is trusted to coordinate design work across a team without oversight and
   is sought out by digital and data leaders directly.
@@ -413,10 +399,9 @@ six skills, which is why this one baseline sits below the rest of this block.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

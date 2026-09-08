@@ -2,10 +2,84 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **User researcher** role at the **Associate user researcher** level in the UK GDAD PCF. You are a trainee working with more experienced researchers, showing potential while you get the guidance and training you need. Your work will eventually shape policy, propositions, services, content, and interaction design, so learn the craft carefully and treat participants with real care.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/user-researcher/1-associate-user-researcher.md`](../../../assessments/user-centred-design/user-researcher/1-associate-user-researcher.md)
+- Upskilling: [`upskills/user-centred-design/user-researcher/1-associate-user-researcher.md`](../../../upskills/user-centred-design/user-researcher/1-associate-user-researcher.md)
+
+### Role Level Focus: Associate User Researcher
+
+- [ ] Learn Research Ethics First: Study informed consent, safeguarding, and data protection before you run anything.
+- [ ] Observe Many Sessions: Watch experienced researchers and note the questions they did not ask.
+- [ ] Learn Note-Taking Craft: Practise capturing what participants actually said, not your interpretation.
+- [ ] Learn the Service Manual: Read the GOV.UK guidance on user research thoroughly.
+- [ ] Practise Recruitment Basics: Understand how participants are found, screened, and looked after.
+- [ ] Learn About Accessibility: Understand how to run research with participants who use assistive technology.
+- [ ] Track Your Training: Keep a record of courses, observations, and feedback with dates and outcomes.
+
+### Skill: Agile research practices
+
+- [ ] Describe Agile Working: Explain Agile working and the roles in a multidisciplinary digital team.
+- [ ] Learn the Rhythm: Understand how research fits into sprints and delivery cycles.
+- [ ] Attend Team Ceremonies: Join planning and retrospectives and contribute an observation.
+- [ ] Learn Who Needs What: Find out which team roles rely on research findings and in what form.
+
+### Skill: Analysis and synthesis
+
+- [ ] Value Careful Analysis: Show awareness of why careful analysis produces trustworthy findings.
+- [ ] Learn Basic Techniques: Study affinity mapping and thematic analysis.
+- [ ] Practise on Real Data: Analyse session notes under supervision and get your work reviewed.
+- [ ] Separate Observation From Inference: Practise writing what happened before writing what it means.
+
+### Skill: Inclusive research
+
+- [ ] Learn User Diversity: Show awareness of the diversity of people who use government services.
+- [ ] Understand Why Inclusion Matters: Explain why services must be usable and accessible for everyone.
+- [ ] Learn Accessible Research Practice: Understand what makes a session accessible to participate in.
+- [ ] Notice Who Is Missing: Practise asking who is not represented in a research sample.
+
+### Skill: Research management, leadership and assurance
+
+- [ ] Understand Research Plans: Explain why working to a research plan matters.
+- [ ] Learn the Standards: Understand the professional standards for user research and why they exist.
+- [ ] Follow Ethical Process: Learn your organisation's consent, data handling, and safeguarding process.
+- [ ] Reflect After Sessions: Write a short reflection after each session you support.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Identify Your Stakeholders: Describe who they are and why relationships matter.
+- [ ] Learn What They Value: Explain what each stakeholder finds important, and why.
+- [ ] Invite Observers: Practise bringing colleagues to watch research sessions.
+- [ ] Share Findings Simply: Practise a short, clear verbal summary of what you saw.
+
+### Skill: User research methods
+
+- [ ] Learn Basic Methods: Explain several core user research methods and what each is for.
+- [ ] Practise Interviewing: Learn to ask open questions and to stay quiet afterwards.
+- [ ] Learn Usability Testing: Understand how to run a usability session without leading the participant.
+- [ ] Build a Method Library: Keep your own notes on when each method fits.
+
+### Skill: User-centred practice and advocacy
+
+- [ ] Understand Behaviour: Describe how government services and technology affect how people behave.
+- [ ] Explain User-Centred Practice: Say how these practices help services adapt to changing needs.
+- [ ] Share What You Learn: Bring one insight to your team every week.
+- [ ] Learn Your Service: Understand what your service does and who depends on it.
+
+### Skill Growth Plan: Toward Junior User Researcher
+
+- [ ] Review the Next Level: Read the Junior user researcher skill descriptions and mark what to build next.
+- [ ] Run a Session With Support: Facilitate a research session with a senior colleague present.
+- [ ] Involve Your Team: Bring colleagues into analysis and synthesis.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,77 +177,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **User researcher** role at the **Associate user researcher** level in the UK GDAD PCF. You are a trainee working with more experienced researchers, showing potential while you get the guidance and training you need. Your work will eventually shape policy, propositions, services, content, and interaction design, so learn the craft carefully and treat participants with real care.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/user-researcher/1-associate-user-researcher.md`](../../../assessments/user-centred-design/user-researcher/1-associate-user-researcher.md)
-- Upskilling: [`upskills/user-centred-design/user-researcher/1-associate-user-researcher.md`](../../../upskills/user-centred-design/user-researcher/1-associate-user-researcher.md)
-
-### Role Level Focus: Associate User Researcher
-
-- [ ] Learn Research Ethics First: Study informed consent, safeguarding, and data protection before you run anything.
-- [ ] Observe Many Sessions: Watch experienced researchers and note the questions they did not ask.
-- [ ] Learn Note-Taking Craft: Practise capturing what participants actually said, not your interpretation.
-- [ ] Learn the Service Manual: Read the GOV.UK guidance on user research thoroughly.
-- [ ] Practise Recruitment Basics: Understand how participants are found, screened, and looked after.
-- [ ] Learn About Accessibility: Understand how to run research with participants who use assistive technology.
-- [ ] Track Your Training: Keep a record of courses, observations, and feedback with dates and outcomes.
-
-### Skill: Agile research practices
-
-- [ ] Describe Agile Working: Explain Agile working and the roles in a multidisciplinary digital team.
-- [ ] Learn the Rhythm: Understand how research fits into sprints and delivery cycles.
-- [ ] Attend Team Ceremonies: Join planning and retrospectives and contribute an observation.
-- [ ] Learn Who Needs What: Find out which team roles rely on research findings and in what form.
-
-### Skill: Analysis and synthesis
-
-- [ ] Value Careful Analysis: Show awareness of why careful analysis produces trustworthy findings.
-- [ ] Learn Basic Techniques: Study affinity mapping and thematic analysis.
-- [ ] Practise on Real Data: Analyse session notes under supervision and get your work reviewed.
-- [ ] Separate Observation From Inference: Practise writing what happened before writing what it means.
-
-### Skill: Inclusive research
-
-- [ ] Learn User Diversity: Show awareness of the diversity of people who use government services.
-- [ ] Understand Why Inclusion Matters: Explain why services must be usable and accessible for everyone.
-- [ ] Learn Accessible Research Practice: Understand what makes a session accessible to participate in.
-- [ ] Notice Who Is Missing: Practise asking who is not represented in a research sample.
-
-### Skill: Research management, leadership and assurance
-
-- [ ] Understand Research Plans: Explain why working to a research plan matters.
-- [ ] Learn the Standards: Understand the professional standards for user research and why they exist.
-- [ ] Follow Ethical Process: Learn your organisation's consent, data handling, and safeguarding process.
-- [ ] Reflect After Sessions: Write a short reflection after each session you support.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Identify Your Stakeholders: Describe who they are and why relationships matter.
-- [ ] Learn What They Value: Explain what each stakeholder finds important, and why.
-- [ ] Invite Observers: Practise bringing colleagues to watch research sessions.
-- [ ] Share Findings Simply: Practise a short, clear verbal summary of what you saw.
-
-### Skill: User research methods
-
-- [ ] Learn Basic Methods: Explain several core user research methods and what each is for.
-- [ ] Practise Interviewing: Learn to ask open questions and to stay quiet afterwards.
-- [ ] Learn Usability Testing: Understand how to run a usability session without leading the participant.
-- [ ] Build a Method Library: Keep your own notes on when each method fits.
-
-### Skill: User-centred practice and advocacy
-
-- [ ] Understand Behaviour: Describe how government services and technology affect how people behave.
-- [ ] Explain User-Centred Practice: Say how these practices help services adapt to changing needs.
-- [ ] Share What You Learn: Bring one insight to your team every week.
-- [ ] Learn Your Service: Understand what your service does and who depends on it.
-
-### Skill Growth Plan: Toward Junior User Researcher
-
-- [ ] Review the Next Level: Read the Junior user researcher skill descriptions and mark what to build next.
-- [ ] Run a Session With Support: Facilitate a research session with a senior colleague present.
-- [ ] Involve Your Team: Bring colleagues into analysis and synthesis.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

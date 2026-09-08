@@ -49,17 +49,16 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale — how well someone does the thing, on the evidence
 available, not how often they do it or how they feel about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using the skill Data modelling, which this role level
 names: a person who can describe what an entity-relationship diagram is but
@@ -110,7 +109,7 @@ differing stakeholder perspectives.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The role already asks for hosting difficult
+Baseline: 2 — Working. The role already asks for hosting difficult
 discussions and managing differing views, which is more than a beginner can
 do unaided, but this level works within direction set by chief data
 architects, so full independent management of senior, conflicting stakeholders
@@ -118,14 +117,12 @@ is not yet the expectation.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain a data concept to a non-technical colleague without
-  a technical specialist translating for them.
-- 1 — Beginner: Can explain a straightforward data concept one-to-one, with
+- 1 — Awareness: Can explain a straightforward data concept one-to-one, with
   preparation, but struggles in a live multidisciplinary discussion.
-- 2 — Intermediate: Holds their own in a multidisciplinary meeting, adjusts
+- 2 — Working: Holds their own in a multidisciplinary meeting, adjusts
   language for the audience, and can summarise a technical decision for a
   non-technical stakeholder with some support from a colleague.
-- 3 — Advanced: Hosts a discussion between technical and non-technical
+- 3 — Practitioner: Hosts a discussion between technical and non-technical
   stakeholders unaided, including one with some tension in the room, and
   represents the team's position to an external audience.
 - 4 — Expert: Is sought out to mediate the hardest stakeholder conversations
@@ -143,10 +140,9 @@ is not yet the expectation.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -160,19 +156,17 @@ Create basic visuals and presentations.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording is "show an awareness" and
+Baseline: 1 — Awareness. The framework's own wording is "show an awareness" and
 "create basic visuals" — this is a starting point, not independent mastery, at
 this level.
 
 **Behavioural indicators**
 
-- 0 — None: Presents raw data or a query result with no framing for the
-  audience.
-- 1 — Beginner: Produces a basic chart or table and can explain what it shows,
+- 1 — Awareness: Produces a basic chart or table and can explain what it shows,
   when asked, with some prompting.
-- 2 — Intermediate: Chooses a chart type that fits the data and the point
+- 2 — Working: Chooses a chart type that fits the data and the point
   being made, and builds a short presentation around it with some guidance.
-- 3 — Advanced: Independently turns a data set into a clear presentation for a
+- 3 — Practitioner: Independently turns a data set into a clear presentation for a
   named audience, checking the framing lands before presenting it.
 - 4 — Expert: Is asked by colleagues to review or improve how they are
   presenting data, and sets a visible standard for it.
@@ -186,10 +180,9 @@ this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -203,19 +196,17 @@ colleagues to support the end use of the data.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is core, hands-on work for a data architect,
+Baseline: 2 — Working. This is core, hands-on work for a data architect,
 so a person should be able to do it with some guidance from day one, even
 though full independence is not yet expected.
 
 **Behavioural indicators**
 
-- 0 — None: Has not profiled a data source or identified data quality issues
-  in one.
-- 1 — Beginner: Can run a profiling task with a template or checklist and
+- 1 — Awareness: Can run a profiling task with a template or checklist and
   needs help interpreting the results.
-- 2 — Intermediate: Profiles a source system, identifies obvious quality or
+- 2 — Working: Profiles a source system, identifies obvious quality or
   structural issues, and writes up findings with some review.
-- 3 — Advanced: Independently profiles unfamiliar source systems and turns the
+- 3 — Practitioner: Independently profiles unfamiliar source systems and turns the
   findings into insight colleagues can act on, without prompting.
 - 4 — Expert: Designs the profiling approach for a new or unusual source, and
   is someone others check their findings against.
@@ -231,10 +222,9 @@ though full independence is not yet expected.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -248,20 +238,18 @@ assurance of data solutions and make recommendations to ensure compliance.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework asks this level to take
+Baseline: 2 — Working. The framework asks this level to take
 responsibility for assurance and recommend action, which needs more than
 awareness, but the wider governance framework itself is set above this level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what data governance requirements apply to a solution
-  they have worked on.
-- 1 — Beginner: Can name the governance requirements that apply, with
+- 1 — Awareness: Can name the governance requirements that apply, with
   prompting, but does not yet check a solution against them unaided.
-- 2 — Intermediate: Checks a data solution against known governance
+- 2 — Working: Checks a data solution against known governance
   requirements and raises a compliance concern, with some support in deciding
   what to recommend.
-- 3 — Advanced: Independently assures a data solution against governance
+- 3 — Practitioner: Independently assures a data solution against governance
   requirements and makes a clear, actionable recommendation when it falls
   short.
 - 4 — Expert: Shapes what the governance requirements should be for a new kind
@@ -276,10 +264,9 @@ awareness, but the wider governance framework itself is set above this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -293,17 +280,16 @@ data.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks only for awareness at this level,
+Baseline: 1 — Awareness. The framework asks only for awareness at this level,
 not for driving adoption.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a new data tool or technique relevant to their work.
-- 1 — Beginner: Can name a recent development in data tools or techniques and
+- 1 — Awareness: Can name a recent development in data tools or techniques and
   say, in general terms, why it might matter.
-- 2 — Intermediate: Connects a specific new tool or technique to a real
+- 2 — Working: Connects a specific new tool or technique to a real
   problem the team has, with some support in working out the fit.
-- 3 — Advanced: Brings a genuinely useful new tool or technique to the team's
+- 3 — Practitioner: Brings a genuinely useful new tool or technique to the team's
   attention, unprompted, with a clear case for trying it.
 - 4 — Expert: Is someone the team relies on to scan for relevant
   innovation and to judge when it is worth adopting.
@@ -316,10 +302,9 @@ not for driving adoption.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -334,18 +319,17 @@ Reverse-engineer data models from a live system.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This is the core technical work of the role at this
+Baseline: 3 — Practitioner. This is the core technical work of the role at this
 level, and the framework specifically names reverse-engineering a model from a
 live system unaided — that is independent, applied work, not guided practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot produce a data model from a set of requirements.
-- 1 — Beginner: Can build a simple data model from clear requirements with
+- 1 — Awareness: Can build a simple data model from clear requirements with
   close supervision.
-- 2 — Intermediate: Produces and maintains a data model for a defined need
+- 2 — Working: Produces and maintains a data model for a defined need
   with some review, and can explain basic modelling concepts correctly.
-- 3 — Advanced: Independently produces, maintains and updates data models for
+- 3 — Practitioner: Independently produces, maintains and updates data models for
   real organisational needs, and can reverse-engineer a model from a live
   system with no supporting documentation.
 - 4 — Expert: Is someone others bring their hardest modelling problems to,
@@ -361,10 +345,9 @@ live system unaided — that is independent, applied work, not guided practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -380,19 +363,18 @@ needed. Analyse the impact if a standard is breached.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The level applies existing standards and
+Baseline: 2 — Working. The level applies existing standards and
 contributes to developing them alongside subject matter experts, rather than
 setting organisation-wide standards, which sits higher up the role's ladder.
 
 **Behavioural indicators**
 
-- 0 — None: Is not aware of the data standards that apply to their work.
-- 1 — Beginner: Follows a named standard when told which one applies, with
+- 1 — Awareness: Follows a named standard when told which one applies, with
   supervision.
-- 2 — Intermediate: Applies the right standards to their own work
+- 2 — Working: Applies the right standards to their own work
   unprompted, and monitors a team's compliance with some guidance on what
   action to take when it slips.
-- 3 — Advanced: Works with subject matter experts to develop a new standard
+- 3 — Practitioner: Works with subject matter experts to develop a new standard
   or refine an existing one, and independently analyses the impact of a
   breach.
 - 4 — Expert: Is someone the team turns to when a standard is ambiguous or
@@ -408,10 +390,9 @@ setting organisation-wide standards, which sits higher up the role's ladder.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -426,19 +407,18 @@ information remains accurate and up to date.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Using a repository for complex analysis, and
+Baseline: 2 — Working. Using a repository for complex analysis, and
 keeping it accurate, is applied day-to-day work at this level rather than the
 design of a repository, which belongs to the level above.
 
 **Behavioural indicators**
 
-- 0 — None: Has not used a metadata repository as part of their work.
-- 1 — Beginner: Can look up an entry in a metadata repository but needs help
+- 1 — Awareness: Can look up an entry in a metadata repository but needs help
   using it for anything more than a simple lookup.
-- 2 — Intermediate: Uses a metadata repository to support an integration
+- 2 — Working: Uses a metadata repository to support an integration
   impact analysis, and keeps entries they are responsible for accurate, with
   some review.
-- 3 — Advanced: Independently uses metadata repositories for complex,
+- 3 — Practitioner: Independently uses metadata repositories for complex,
   multi-system impact analysis, and proactively corrects stale entries.
 - 4 — Expert: Is relied on to judge whether a metadata repository is fit for
   purpose, and trains others in using it well.
@@ -453,10 +433,9 @@ design of a repository, which belongs to the level above.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -472,21 +451,19 @@ preventative measures.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The level owns investigating and resolving
+Baseline: 2 — Working. The level owns investigating and resolving
 problems it encounters, and knows when to bring in a specialist, but does not
 yet co-ordinate a wider team's problem-solving, which is a senior data
 architect accountability.
 
 **Behavioural indicators**
 
-- 0 — None: Does not investigate a recurring data problem beyond fixing the
-  immediate symptom.
-- 1 — Beginner: Investigates a problem when directed to, and needs help
+- 1 — Awareness: Investigates a problem when directed to, and needs help
   identifying the root cause.
-- 2 — Intermediate: Spots a pattern behind a set of related issues, consults a
+- 2 — Working: Spots a pattern behind a set of related issues, consults a
   specialist appropriately, and helps implement a resolution with some
   oversight.
-- 3 — Advanced: Independently drives a problem from pattern-spotting through
+- 3 — Practitioner: Independently drives a problem from pattern-spotting through
   resolution to a preventative measure, without needing to be told to.
 - 4 — Expert: Is brought in on the hardest, longest-running data problems, and
   their preventative measures reliably stop the problem recurring.
@@ -501,10 +478,9 @@ architect accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -518,21 +494,19 @@ strategic planning in an administrative capacity.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording — "support... in an
+Baseline: 1 — Awareness. The framework's own wording — "support... in an
 administrative capacity" — sets a supporting, not a leading, expectation at
 this level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect their day-to-day work to the organisation's wider
-  data strategy.
-- 1 — Beginner: Can explain, when asked, how their work fits the strategic
+- 1 — Awareness: Can explain, when asked, how their work fits the strategic
   context, and can support a strategic planning task when given clear
   instructions.
-- 2 — Intermediate: Proactively frames their own work in terms of the
+- 2 — Working: Proactively frames their own work in terms of the
   strategy, and contributes useful input to a strategic planning exercise
   without being asked.
-- 3 — Advanced: Identifies where their work should shift to better serve the
+- 3 — Practitioner: Identifies where their work should shift to better serve the
   strategy, and raises it before being asked.
 - 4 — Expert: Shapes strategic planning discussions directly and is trusted
   to represent the strategic context to others.
@@ -547,10 +521,9 @@ this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

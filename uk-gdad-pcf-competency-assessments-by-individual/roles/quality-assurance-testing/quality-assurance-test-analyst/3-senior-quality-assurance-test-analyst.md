@@ -49,22 +49,21 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale.
+Every skill in the competency matrix is rated on the same four-point scale.
 This is a **proficiency** scale — how well someone does the thing, on the
 evidence available — not a frequency scale of how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Managing, reporting and resolving defects.** At 2
-(Intermediate), someone can explain the business impact of a set of open
+(Working), someone can explain the business impact of a set of open
 defects to a stakeholder clearly, but manages that mostly within their own
-piece of work. At 3 (Advanced), the level expected here, they manage and
+piece of work. At 3 (Practitioner), the level expected here, they manage and
 escalate dependencies, defects and risks across more than one team, contribute
 to mitigation and contingency plans that span teams, and manage stakeholder
 expectations through a difficult resolution without a manager stepping in. At
@@ -129,20 +128,18 @@ discussions within the team or with diverse senior stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Every bullet is unqualified and describes independent
+Baseline: 3 — Practitioner. Every bullet is unqualified and describes independent
 ownership of communication with senior stakeholders under difficult
 conditions, consistent with working independently rather than needing
 guidance.
 
 **Behavioural indicators**
 
-- 0 — None: Avoids or defers conversations with senior or difficult
-  stakeholders.
-- 1 — Beginner: Can update a stakeholder on progress, but needs support
+- 1 — Awareness: Can update a stakeholder on progress, but needs support
   preparing for a conversation that might be contested.
-- 2 — Intermediate: Manages routine stakeholder communication independently,
+- 2 — Working: Manages routine stakeholder communication independently,
   but escalates as soon as a discussion turns difficult.
-- 3 — Advanced: Hosts a genuinely difficult discussion with a senior
+- 3 — Practitioner: Hosts a genuinely difficult discussion with a senior
   stakeholder — for example, pushing back on a release date given known
   quality risk — and reaches a workable outcome without escalating.
 - 4 — Expert: Is sought out by other teams to help manage a particularly
@@ -160,10 +157,9 @@ guidance.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -181,19 +177,17 @@ improve test types and techniques through a structured process.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The defining new accountability is leading and
+Baseline: 3 — Practitioner. The defining new accountability is leading and
 influencing others' test design, not just their own, and contributing to
 team-wide standards — squarely independent, applied capability.
 
 **Behavioural indicators**
 
-- 0 — None: Designs tests for their own work only, with no influence over how
-  others test.
-- 1 — Beginner: Suggests a technique to a colleague informally, but does not
+- 1 — Awareness: Suggests a technique to a colleague informally, but does not
   yet shape how the team designs tests.
-- 2 — Intermediate: Reviews another tester's test design and gives useful
+- 2 — Working: Reviews another tester's test design and gives useful
   feedback when asked.
-- 3 — Advanced: Leads the test design for a defined area of work across more
+- 3 — Practitioner: Leads the test design for a defined area of work across more
   than one person, and contributes a standard or convention the team adopts.
 - 4 — Expert: Runs a structured improvement of the team's test types or
   techniques — trialling an approach, measuring whether it worked, and
@@ -209,10 +203,9 @@ team-wide standards — squarely independent, applied capability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -230,20 +223,19 @@ communications during defect resolution.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Managing and escalating across teams, and
+Baseline: 3 — Practitioner. Managing and escalating across teams, and
 contributing across-team mitigation plans, are unqualified and clearly
 cross-team accountabilities; only the pattern-and-trend recommendation work
-still carries "with support", which is why the ceiling here is Advanced
+still carries "with support", which is why the ceiling here is Practitioner
 rather than Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Manages defects only within their own immediate task.
-- 1 — Beginner: Flags a cross-team dependency issue to a manager rather than
+- 1 — Awareness: Flags a cross-team dependency issue to a manager rather than
   handling it directly.
-- 2 — Intermediate: Manages a defect that touches more than one team, with a
+- 2 — Working: Manages a defect that touches more than one team, with a
   senior colleague checking the escalation plan.
-- 3 — Advanced: Independently manages and escalates a set of interdependent
+- 3 — Practitioner: Independently manages and escalates a set of interdependent
   defects across teams, and keeps stakeholders informed through resolution
   without prompting.
 - 4 — Expert: Uses defect trend data on their own initiative to recommend a
@@ -260,10 +252,9 @@ rather than Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -281,18 +272,17 @@ others in test analysis.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Leading cross-team work and coaching others are both
+Baseline: 3 — Practitioner. Leading cross-team work and coaching others are both
 unqualified accountabilities that go beyond a single person's own analysis —
-independent and applied, consistent with Advanced.
+independent and applied, consistent with Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Analyses only the artefacts directly assigned to them.
-- 1 — Beginner: Contributes an opinion when asked in a cross-team analysis
+- 1 — Awareness: Contributes an opinion when asked in a cross-team analysis
   discussion, but does not lead it.
-- 2 — Intermediate: Analyses complex information using more than one
+- 2 — Working: Analyses complex information using more than one
   technique, with a senior colleague reviewing the conclusions.
-- 3 — Advanced: Leads a cross-team conversation to agree which quality
+- 3 — Practitioner: Leads a cross-team conversation to agree which quality
   characteristics matter, and coaches a junior tester through analysing a
   real artefact.
 - 4 — Expert: Changes an agreed test approach mid-stream, on their own
@@ -310,10 +300,9 @@ independent and applied, consistent with Advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -330,19 +319,17 @@ ownership of quality testing activities, encouraging early engagement.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Developing and implementing plans with teams, and
+Baseline: 3 — Practitioner. Developing and implementing plans with teams, and
 contributing to organisational strategy, are unqualified — this is
 independent, applied planning work that reaches beyond someone's own
 immediate work.
 
 **Behavioural indicators**
 
-- 0 — None: Has no involvement in shaping a testing plan beyond their own
-  tasks.
-- 1 — Beginner: Suggests an idea for the team's testing approach when asked.
-- 2 — Intermediate: Helps implement a testing approach a more senior colleague
+- 1 — Awareness: Suggests an idea for the team's testing approach when asked.
+- 2 — Working: Helps implement a testing approach a more senior colleague
   designed, adapting it as work progresses.
-- 3 — Advanced: Develops and implements a quality testing approach for a
+- 3 — Practitioner: Develops and implements a quality testing approach for a
   defined area with a team, and contributes a genuine idea to the
   organisation's wider testing strategy.
 - 4 — Expert: Sets up a way of capturing data that drives a measurable
@@ -358,10 +345,9 @@ immediate work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -378,7 +364,7 @@ required for testing.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording for this specific
+Baseline: 2 — Working. The framework's own wording for this specific
 skill has still not been differentiated from the associate level, so the text
 alone would suggest no change. This assessment nudges the baseline up one
 point from the level below on the strength of the level's broader
@@ -390,13 +376,12 @@ skill.
 
 **Behavioural indicators**
 
-- 0 — None: Has no involvement with test environments or automated tests.
-- 1 — Beginner: Explains why testing tools and environments matter, but needs
+- 1 — Awareness: Explains why testing tools and environments matter, but needs
   help applying that in practice.
-- 2 — Intermediate: Sets up or troubleshoots a test environment independently
+- 2 — Working: Sets up or troubleshoots a test environment independently
   for routine cases, and helps maintain automated tests without close
   supervision.
-- 3 — Advanced: Diagnoses a non-obvious problem with a test environment or
+- 3 — Practitioner: Diagnoses a non-obvious problem with a test environment or
   tool and fixes it, or guides someone else through doing so.
 - 4 — Expert: Is someone others go to when an automated test or
   environment problem cannot be worked out any other way.
@@ -412,10 +397,9 @@ skill.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

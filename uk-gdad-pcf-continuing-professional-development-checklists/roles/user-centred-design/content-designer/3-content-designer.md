@@ -2,10 +2,83 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Content designer** role at the **Content designer** level. You create, evaluate, update, and review content at all stages of the end-to-end user journey, you use evidence, data, and research to make content decisions, you build relationships across government to focus on user needs and influence stakeholders, and you contribute to style guides, content patterns, and the cross-government content community. Your development now is about autonomy, evidence, and journey thinking.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/content-designer/3-content-designer.md`](../../../assessments/user-centred-design/content-designer/3-content-designer.md)
+- Upskilling: [`upskills/user-centred-design/content-designer/3-content-designer.md`](../../../upskills/user-centred-design/content-designer/3-content-designer.md)
+
+### Role Level Focus: Content Designer
+
+- [ ] Own the End-to-End Journey: Work across the whole journey, not just individual pages.
+- [ ] Decide From Evidence: Make content decisions from data and research, and show your working.
+- [ ] Build Cross-Government Relationships: Connect with content designers working on adjacent journeys.
+- [ ] Contribute to Patterns: Add to or improve the style guides and content patterns.
+- [ ] Work Autonomously: Take responsibility for your own quality and prioritisation.
+- [ ] Deepen Accessibility Practice: Test content with assistive technology, not just automated tools.
+- [ ] Learn Content Life Cycle Management: Understand how content is reviewed, updated, and retired.
+
+### Skill: Agile working (content design)
+
+- [ ] Apply an Agile Mindset: Work iteratively and flexibly to enable rapid delivery.
+- [ ] Work in a Fast-Paced Environment: Stay effective when priorities shift.
+- [ ] Take Sensible Risks: Be willing to try things and learn from mistakes.
+- [ ] Build Situational Awareness: Ensure the team knows how each other's work relates to objectives and user needs.
+- [ ] Use Tools Well: Get fluent with a range of tools and platforms for planning and managing work.
+
+### Skill: Content concepts and prototyping
+
+- [ ] Know the Techniques: Understand prototyping from paper sketches to coded prototypes.
+- [ ] Visualise Content in Context: Show content within the real interface and journey.
+- [ ] Choose the Best Option: Pick the technique that makes content understandable for that audience.
+- [ ] Show the Value: Demonstrate to your team what prototyping content reveals.
+
+### Skill: Stakeholder relationship management (content design)
+
+- [ ] Identify Important Stakeholders: Keep a current map and communicate clearly and regularly.
+- [ ] Tailor Your Communication: Adapt content and format to each stakeholder's needs.
+- [ ] Build Consensus: Move a group from disagreement to a workable shared position.
+- [ ] Use Evidence to Explain Decisions: Improve relationships by showing your reasoning.
+
+### Skill: Strategic thinking (content design)
+
+- [ ] Contribute to Strategy: Feed into content strategies and policies.
+- [ ] Create Patterns or Standards: Write a content pattern or standard others adopt.
+- [ ] Support Improvement Projects: Contribute to content improvement work beyond your own area.
+- [ ] Focus on Outcomes: Resist solution-first thinking, including your own.
+
+### Skill: User focus (content design)
+
+- [ ] Identify Insightful Tasks: Choose tasks that will genuinely reveal something about the problem.
+- [ ] Form and Test Hypotheses: Gain insight from data and research, and decide on findings.
+- [ ] Understand Your User Range: Identify the different users who access your content, from evidence.
+- [ ] Translate Stories Into Content: Turn user stories into content that meets the need.
+- [ ] Use Both Kinds of Data: Combine quantitative and qualitative insight into outcomes.
+
+### Skill: User-centred content design
+
+- [ ] Make Complexity Understandable: Design content that makes complex language and processes clear.
+- [ ] Choose the Right Format: Present the right information in the format users need.
+- [ ] Write, Edit, and Publish: Show robust experience with content management systems and production processes.
+- [ ] Write in Plain Language: Make information accessible to everyone.
+- [ ] Meet Accessibility Requirements: Design content that works with common assistive technologies.
+- [ ] Review With Evidence: Use data and research to evaluate content and improve it.
+- [ ] Apply Standards Consistently: Use content standards and style guidelines reliably.
+- [ ] Manage the Content Life Cycle: Keep improving content and understand why life cycle management matters.
+
+### Skill Growth Plan: Toward Senior Content Designer
+
+- [ ] Review the Next Level: Read the Senior content designer skill descriptions and mark your gaps.
+- [ ] Take On Scale: Seek work on a large-scale problem or high-profile event.
+- [ ] Review Others' Work: Start assuring quality for colleagues, with feedback that develops them.
+- [ ] Lead Something Cross-Government: Contribute to a project spanning more than one organisation.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,76 +176,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Content designer** role at the **Content designer** level. You create, evaluate, update, and review content at all stages of the end-to-end user journey, you use evidence, data, and research to make content decisions, you build relationships across government to focus on user needs and influence stakeholders, and you contribute to style guides, content patterns, and the cross-government content community. Your development now is about autonomy, evidence, and journey thinking.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/content-designer/3-content-designer.md`](../../../assessments/user-centred-design/content-designer/3-content-designer.md)
-- Upskilling: [`upskills/user-centred-design/content-designer/3-content-designer.md`](../../../upskills/user-centred-design/content-designer/3-content-designer.md)
-
-### Role Level Focus: Content Designer
-
-- [ ] Own the End-to-End Journey: Work across the whole journey, not just individual pages.
-- [ ] Decide From Evidence: Make content decisions from data and research, and show your working.
-- [ ] Build Cross-Government Relationships: Connect with content designers working on adjacent journeys.
-- [ ] Contribute to Patterns: Add to or improve the style guides and content patterns.
-- [ ] Work Autonomously: Take responsibility for your own quality and prioritisation.
-- [ ] Deepen Accessibility Practice: Test content with assistive technology, not just automated tools.
-- [ ] Learn Content Life Cycle Management: Understand how content is reviewed, updated, and retired.
-
-### Skill: Agile working (content design)
-
-- [ ] Apply an Agile Mindset: Work iteratively and flexibly to enable rapid delivery.
-- [ ] Work in a Fast-Paced Environment: Stay effective when priorities shift.
-- [ ] Take Sensible Risks: Be willing to try things and learn from mistakes.
-- [ ] Build Situational Awareness: Ensure the team knows how each other's work relates to objectives and user needs.
-- [ ] Use Tools Well: Get fluent with a range of tools and platforms for planning and managing work.
-
-### Skill: Content concepts and prototyping
-
-- [ ] Know the Techniques: Understand prototyping from paper sketches to coded prototypes.
-- [ ] Visualise Content in Context: Show content within the real interface and journey.
-- [ ] Choose the Best Option: Pick the technique that makes content understandable for that audience.
-- [ ] Show the Value: Demonstrate to your team what prototyping content reveals.
-
-### Skill: Stakeholder relationship management (content design)
-
-- [ ] Identify Important Stakeholders: Keep a current map and communicate clearly and regularly.
-- [ ] Tailor Your Communication: Adapt content and format to each stakeholder's needs.
-- [ ] Build Consensus: Move a group from disagreement to a workable shared position.
-- [ ] Use Evidence to Explain Decisions: Improve relationships by showing your reasoning.
-
-### Skill: Strategic thinking (content design)
-
-- [ ] Contribute to Strategy: Feed into content strategies and policies.
-- [ ] Create Patterns or Standards: Write a content pattern or standard others adopt.
-- [ ] Support Improvement Projects: Contribute to content improvement work beyond your own area.
-- [ ] Focus on Outcomes: Resist solution-first thinking, including your own.
-
-### Skill: User focus (content design)
-
-- [ ] Identify Insightful Tasks: Choose tasks that will genuinely reveal something about the problem.
-- [ ] Form and Test Hypotheses: Gain insight from data and research, and decide on findings.
-- [ ] Understand Your User Range: Identify the different users who access your content, from evidence.
-- [ ] Translate Stories Into Content: Turn user stories into content that meets the need.
-- [ ] Use Both Kinds of Data: Combine quantitative and qualitative insight into outcomes.
-
-### Skill: User-centred content design
-
-- [ ] Make Complexity Understandable: Design content that makes complex language and processes clear.
-- [ ] Choose the Right Format: Present the right information in the format users need.
-- [ ] Write, Edit, and Publish: Show robust experience with content management systems and production processes.
-- [ ] Write in Plain Language: Make information accessible to everyone.
-- [ ] Meet Accessibility Requirements: Design content that works with common assistive technologies.
-- [ ] Review With Evidence: Use data and research to evaluate content and improve it.
-- [ ] Apply Standards Consistently: Use content standards and style guidelines reliably.
-- [ ] Manage the Content Life Cycle: Keep improving content and understand why life cycle management matters.
-
-### Skill Growth Plan: Toward Senior Content Designer
-
-- [ ] Review the Next Level: Read the Senior content designer skill descriptions and mark your gaps.
-- [ ] Take On Scale: Seek work on a large-scale problem or high-profile event.
-- [ ] Review Others' Work: Start assuring quality for colleagues, with feedback that develops them.
-- [ ] Lead Something Cross-Government: Contribute to a project spanning more than one organisation.

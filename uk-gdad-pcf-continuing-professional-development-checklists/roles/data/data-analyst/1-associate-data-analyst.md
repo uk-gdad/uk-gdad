@@ -2,10 +2,98 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Data analyst** role at the **Associate data analyst** level in the UK GDAD PCF. You support data analysis activities and projects, develop analytical approaches and visualisations under supervision, and learn how data analysts work within a multidisciplinary team. This is a great time to build technique and good habits around ethics and quality.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/data/data-analyst/1-associate-data-analyst.md`](../../../assessments/data/data-analyst/1-associate-data-analyst.md)
+- Upskilling: [`upskills/data/data-analyst/1-associate-data-analyst.md`](../../../upskills/data/data-analyst/1-associate-data-analyst.md)
+
+### Role Level Focus: Associate Data Analyst
+
+- [ ] Learn SQL Properly: Work through a structured course until joins and aggregation feel natural.
+- [ ] Learn One Analysis Language: Build foundations in Python or R for analysis.
+- [ ] Learn Statistics Basics: Study descriptive statistics, distributions, and uncertainty.
+- [ ] Learn Your Organisation's Data: Map the main sources, who owns them, and what they mean.
+- [ ] Understand Team Roles: Learn how analysts work with engineers, researchers, and policy colleagues.
+- [ ] Read Government Guidance: Study the Analysis Function guidance and the Data Ethics Framework.
+- [ ] Track Your Training: Keep a record of courses, exercises, and feedback with dates and outcomes.
+
+### Skill: Applying statistical and analytical tools and techniques
+
+- [ ] Support Insight Development: Contribute to statistical and analytical reports under supervision.
+- [ ] Explain Basic Techniques: Say what each basic technique is for and when it applies.
+- [ ] Explain Quality Assurance: Articulate why quality assurance matters in analytical outputs.
+- [ ] Learn Common Pitfalls: Study how analysis goes wrong, including sampling and correlation errors.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Explain Why It Matters: Write down why technical concepts need non-technical language.
+- [ ] Learn Communication Types: Understand which channels suit internal and external stakeholders.
+- [ ] Practise Plain English: Explain a finding to someone non-technical and check they understood.
+- [ ] Lead With the Answer: Practise saying what it means before saying how you did it.
+
+### Skill: Data ethics and privacy
+
+- [ ] Explain Why Ethics Matter: Articulate why data ethics and privacy belong in your work.
+- [ ] Learn the Framework: Read the Data Ethics Framework and note what it asks of you.
+- [ ] Know the Channels: Identify where to raise ethical concerns, with support.
+- [ ] Learn Data Protection: Complete your organisation's data protection training.
+
+### Skill: Data management
+
+- [ ] Explain Governance Policies: Say why data governance policies exist and what they protect.
+- [ ] Connect Tools to Projects: Explain how data management tools and methods relate to a project.
+- [ ] Learn Classification: Understand how your organisation classifies and protects information.
+- [ ] Handle Data Carefully: Practise safe storage, access, and disposal from day one.
+
+### Skill: Data preparation and linkage
+
+- [ ] Explain Data Models: Say why data models matter and what they are used for.
+- [ ] Find the Learning Channels: Identify where to learn about modelling and quality standards.
+- [ ] Identify Quality Issues: Spot data quality problems and suggest possible fixes.
+- [ ] Prepare and Cleanse: Practise cleansing data under supervision until it is fit for purpose.
+
+### Skill: Data visualisation
+
+- [ ] Build Visualisations With Support: Create visualisations that tell a meaningful, goal-relevant story.
+- [ ] Explain Why Story Matters: Articulate the value of sharing a finding effectively.
+- [ ] Learn Accessible Visualisation: Understand why inclusive, accessible charts matter and how to make them.
+- [ ] Study Good Examples: Collect visualisations that work and note why.
+
+### Skill: Delivering business impact through data
+
+- [ ] Understand Organisational Priorities: Explain why knowing them matters to your work.
+- [ ] Contribute to Data Products: Help build products that deliver real impact.
+- [ ] Align Analysis to Requirements: Explain how analysis is matched to business requirements.
+- [ ] Ask the Decision Question: For every task, find out what decision it informs.
+
+### Skill: Developing code for analysis
+
+- [ ] Explain Why Coding Matters: Say why coded analysis beats manual analysis.
+- [ ] Value Documentation: Explain why analytical approach documentation matters.
+- [ ] Design With Support: Write simple analysis code with guidance.
+- [ ] Learn Reproducible Analysis: Study the reproducible analytical pipeline approach.
+
+### Skill: Managing a data project
+
+- [ ] Understand Problem Statements: Explain what a data project is intended to achieve.
+- [ ] Explain Data's Role: Say why data helps solve the problem at hand.
+- [ ] Adapt Your Ways of Working: Understand why different projects need different approaches.
+- [ ] Learn the Life Cycle: Study the stages of a data project from question to delivered insight.
+
+### Skill Growth Plan: Toward Data Analyst
+
+- [ ] Review the Next Level: Read the Data analyst skill descriptions and mark what to build next.
+- [ ] Work More Independently: Ask for a small analysis you run yourself.
+- [ ] Own a Visualisation: Take a visualisation from requirement to delivery.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,91 +191,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Data analyst** role at the **Associate data analyst** level in the UK GDAD PCF. You support data analysis activities and projects, develop analytical approaches and visualisations under supervision, and learn how data analysts work within a multidisciplinary team. This is a great time to build technique and good habits around ethics and quality.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/data/data-analyst/1-associate-data-analyst.md`](../../../assessments/data/data-analyst/1-associate-data-analyst.md)
-- Upskilling: [`upskills/data/data-analyst/1-associate-data-analyst.md`](../../../upskills/data/data-analyst/1-associate-data-analyst.md)
-
-### Role Level Focus: Associate Data Analyst
-
-- [ ] Learn SQL Properly: Work through a structured course until joins and aggregation feel natural.
-- [ ] Learn One Analysis Language: Build foundations in Python or R for analysis.
-- [ ] Learn Statistics Basics: Study descriptive statistics, distributions, and uncertainty.
-- [ ] Learn Your Organisation's Data: Map the main sources, who owns them, and what they mean.
-- [ ] Understand Team Roles: Learn how analysts work with engineers, researchers, and policy colleagues.
-- [ ] Read Government Guidance: Study the Analysis Function guidance and the Data Ethics Framework.
-- [ ] Track Your Training: Keep a record of courses, exercises, and feedback with dates and outcomes.
-
-### Skill: Applying statistical and analytical tools and techniques
-
-- [ ] Support Insight Development: Contribute to statistical and analytical reports under supervision.
-- [ ] Explain Basic Techniques: Say what each basic technique is for and when it applies.
-- [ ] Explain Quality Assurance: Articulate why quality assurance matters in analytical outputs.
-- [ ] Learn Common Pitfalls: Study how analysis goes wrong, including sampling and correlation errors.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Explain Why It Matters: Write down why technical concepts need non-technical language.
-- [ ] Learn Communication Types: Understand which channels suit internal and external stakeholders.
-- [ ] Practise Plain English: Explain a finding to someone non-technical and check they understood.
-- [ ] Lead With the Answer: Practise saying what it means before saying how you did it.
-
-### Skill: Data ethics and privacy
-
-- [ ] Explain Why Ethics Matter: Articulate why data ethics and privacy belong in your work.
-- [ ] Learn the Framework: Read the Data Ethics Framework and note what it asks of you.
-- [ ] Know the Channels: Identify where to raise ethical concerns, with support.
-- [ ] Learn Data Protection: Complete your organisation's data protection training.
-
-### Skill: Data management
-
-- [ ] Explain Governance Policies: Say why data governance policies exist and what they protect.
-- [ ] Connect Tools to Projects: Explain how data management tools and methods relate to a project.
-- [ ] Learn Classification: Understand how your organisation classifies and protects information.
-- [ ] Handle Data Carefully: Practise safe storage, access, and disposal from day one.
-
-### Skill: Data preparation and linkage
-
-- [ ] Explain Data Models: Say why data models matter and what they are used for.
-- [ ] Find the Learning Channels: Identify where to learn about modelling and quality standards.
-- [ ] Identify Quality Issues: Spot data quality problems and suggest possible fixes.
-- [ ] Prepare and Cleanse: Practise cleansing data under supervision until it is fit for purpose.
-
-### Skill: Data visualisation
-
-- [ ] Build Visualisations With Support: Create visualisations that tell a meaningful, goal-relevant story.
-- [ ] Explain Why Story Matters: Articulate the value of sharing a finding effectively.
-- [ ] Learn Accessible Visualisation: Understand why inclusive, accessible charts matter and how to make them.
-- [ ] Study Good Examples: Collect visualisations that work and note why.
-
-### Skill: Delivering business impact through data
-
-- [ ] Understand Organisational Priorities: Explain why knowing them matters to your work.
-- [ ] Contribute to Data Products: Help build products that deliver real impact.
-- [ ] Align Analysis to Requirements: Explain how analysis is matched to business requirements.
-- [ ] Ask the Decision Question: For every task, find out what decision it informs.
-
-### Skill: Developing code for analysis
-
-- [ ] Explain Why Coding Matters: Say why coded analysis beats manual analysis.
-- [ ] Value Documentation: Explain why analytical approach documentation matters.
-- [ ] Design With Support: Write simple analysis code with guidance.
-- [ ] Learn Reproducible Analysis: Study the reproducible analytical pipeline approach.
-
-### Skill: Managing a data project
-
-- [ ] Understand Problem Statements: Explain what a data project is intended to achieve.
-- [ ] Explain Data's Role: Say why data helps solve the problem at hand.
-- [ ] Adapt Your Ways of Working: Understand why different projects need different approaches.
-- [ ] Learn the Life Cycle: Study the stages of a data project from question to delivered insight.
-
-### Skill Growth Plan: Toward Data Analyst
-
-- [ ] Review the Next Level: Read the Data analyst skill descriptions and mark what to build next.
-- [ ] Work More Independently: Ask for a small analysis you run yourself.
-- [ ] Own a Visualisation: Take a visualisation from requirement to delivery.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

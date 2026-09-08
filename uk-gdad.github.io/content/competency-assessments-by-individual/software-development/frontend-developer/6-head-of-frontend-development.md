@@ -49,26 +49,25 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. It is a **proficiency** scale, not a frequency scale — it rates how
 well someone does the thing, on the evidence available, not how often they
 do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example**, using the skill *Community collaboration*, which this role
 level names:
 
-- **Intermediate (2)** evidence would look like a person who has helped
+- **Working (2)** evidence would look like a person who has helped
   resolve a disagreement between two developers on their own team, with a
   manager's support, but has not yet been asked to intervene between teams.
-- **Advanced (3)** evidence would look like a person who, unprompted,
+- **Practitioner (3)** evidence would look like a person who, unprompted,
   identified and resolved a recurring source of friction between two teams
   sharing a codebase, and whose intervention held once they stepped back.
 - **Expert (4)** evidence would look like a person a director calls in
@@ -147,23 +146,19 @@ demonstrated full mastery of the underlying practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their organisation's accessibility standard
-  applies to frontend work, and has no record of raising an accessibility
-  issue.
-- 1 — Beginner: Can name common accessibility issues in an interface when
+- 1 — Awareness: Can name common accessibility issues in an interface when
   shown one, but needs someone else to identify the fix and needs close
   support to apply it.
-- 2 — Intermediate: Runs standard accessibility checks against a predefined
+- 2 — Working: Runs standard accessibility checks against a predefined
   standard on their own work, and fixes what they find, but has not yet
   advised anyone else's team on accessibility.
-- 3 — Advanced: Reviews another team's interface against the organisation's
+- 3 — Practitioner: Reviews another team's interface against the organisation's
   accessibility standard unprompted, proposes a design fix rather than only
   flagging the failure, and the fix is adopted.
 - 4 — Expert: Is someone internal and external stakeholders are brought in
   to speak to when accessibility risk threatens a programme's timeline or
   reputation, and has changed which tools or methods the organisation uses for
   accessibility testing based on their recommendation.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -179,10 +174,9 @@ demonstrated full mastery of the underlying practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -206,21 +200,18 @@ under conditions where a lesser grasp would be visible immediately.
 
 **Behavioural indicators**
 
-- 0 — None: Struggles to summarise a technical position clearly even to their
-  own team, and has no record of communicating outside it.
-- 1 — Beginner: Can present prepared material to a small, familiar audience,
+- 1 — Awareness: Can present prepared material to a small, familiar audience,
   but needs support to handle questions or disagreement in the room.
-- 2 — Intermediate: Explains a technical decision to a non-technical
+- 2 — Working: Explains a technical decision to a non-technical
   stakeholder clearly, one-to-one or in a small meeting, with some coaching
   beforehand.
-- 3 — Advanced: Runs a stakeholder meeting on a contested topic unaided,
+- 3 — Practitioner: Runs a stakeholder meeting on a contested topic unaided,
   manages the disagreement in the room, and the meeting ends with a shared
   understanding of next steps.
 - 4 — Expert: Is asked to moderate a discussion between senior stakeholders in
   active disagreement, under a tight deadline, and has represented the
   frontend developer community to an audience outside their own department or
   outside government.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -234,10 +225,9 @@ under conditions where a lesser grasp would be visible immediately.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -260,20 +250,16 @@ Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Has not been involved in resolving a disagreement beyond their
-  immediate team, and cannot describe what a healthy frontend developer
-  community looks like in their organisation.
-- 1 — Beginner: Takes part in a team-level conflict resolution conversation
+- 1 — Awareness: Takes part in a team-level conflict resolution conversation
   when asked, but does not lead it.
-- 2 — Intermediate: Helps resolve friction within their own team without
+- 2 — Working: Helps resolve friction within their own team without
   escalation, with some support from their manager.
-- 3 — Advanced: Resolves a standing disagreement between two teams sharing
+- 3 — Practitioner: Resolves a standing disagreement between two teams sharing
   work, unprompted, and it stays resolved once they step back.
 - 4 — Expert: Is brought in specifically to unblock a standoff between
   departments, and has run sessions coaching other leaders on team dynamics or
   conflict resolution, growing the organisation's own capability rather than
   just fixing the one problem.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -287,10 +273,9 @@ Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -318,14 +303,11 @@ of this wording that sits below full mastery.
 
 **Behavioural indicators**
 
-- 0 — None: Has never led a change to how a team or organisation is
-  structured, and cannot describe a time they influenced strategy beyond their
-  own work.
-- 1 — Beginner: Contributes ideas to a strategy discussion when invited, but
+- 1 — Awareness: Contributes ideas to a strategy discussion when invited, but
   does not yet own a strategic recommendation.
-- 2 — Intermediate: Leads a small, contained change — restructuring one team's
+- 2 — Working: Leads a small, contained change — restructuring one team's
   working practices, for example — with guidance from a more senior leader.
-- 3 — Advanced: Proposes and delivers a structural change affecting more than
+- 3 — Practitioner: Proposes and delivers a structural change affecting more than
   one team, working independently, and can justify a high-risk decision they
   made with clear reasoning.
 - 4 — Expert: Has led strategy that reshaped how frontend development works
@@ -333,7 +315,6 @@ of this wording that sits below full mastery.
   highly independent stakeholders who started from different positions, and
   can point to a specific instance of coaching the organisation on team
   dynamics or conflict.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -346,10 +327,9 @@ of this wording that sits below full mastery.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -364,33 +344,30 @@ applying modern development standards.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The skill's own wording is bounded to applying
+Baseline: 3 — Practitioner. The skill's own wording is bounded to applying
 standards to programmes and directing others in applying them, which is
 narrower and more delivery-focused than the organisation-wide strategic remit
 that anchors most of this role level's other skills. A head of frontend
 development is expected to have a strong, independent grasp of this and to
 direct others in it, but the wording stops short of the explicit
 organisation-wide teaching or strategy-setting language that justifies an
-Expert baseline elsewhere in this matrix — Advanced is the more defensible
+Expert baseline elsewhere in this matrix — Practitioner is the more defensible
 baseline, even though many people at this level will in practice operate
 above it.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the modern development standards their organisation
-  currently expects frontend work to follow.
-- 1 — Beginner: Follows modern development standards on their own work when
+- 1 — Awareness: Follows modern development standards on their own work when
   told which ones apply, but does not yet judge which standard fits a new
   situation.
-- 2 — Intermediate: Chooses the right standard for a piece of work themselves,
+- 2 — Working: Chooses the right standard for a piece of work themselves,
   with occasional checking-in from a more senior colleague.
-- 3 — Advanced: Applies modern development standards independently across a
+- 3 — Practitioner: Applies modern development standards independently across a
   complex project or programme, and has directed another developer or team in
   adopting a standard correctly.
 - 4 — Expert: Has set which modern development standards a programme or the
   organisation adopts, and taught other senior developers to apply and lead
   the same standards themselves.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -404,10 +381,9 @@ above it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -433,20 +409,17 @@ and standard-setting, which together sit at full mastery.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot build a working user interface from a specification
-  without significant help.
-- 1 — Beginner: Builds a simple user interface from a clear specification
+- 1 — Awareness: Builds a simple user interface from a clear specification
   with close supervision, and needs help interpreting anything ambiguous.
-- 2 — Intermediate: Builds, tests, and documents a moderately complex
+- 2 — Working: Builds, tests, and documents a moderately complex
   interface from a specification independently, with review from a more
   senior colleague.
-- 3 — Advanced: Builds, tests, and documents a high-complexity user interface
+- 3 — Practitioner: Builds, tests, and documents a high-complexity user interface
   unaided, and reviews specifications with others before build starts.
 - 4 — Expert: Sets the team-based standards for programming tools and
   techniques that other developers are expected to follow, and is someone
   stakeholders come to for technical advice on whether a proposed approach
   will actually work.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -460,10 +433,9 @@ and standard-setting, which together sit at full mastery.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -484,18 +456,15 @@ prototype into organisation-wide practice — both are Expert-level framing.
 
 **Behavioural indicators**
 
-- 0 — None: Has not used a prototyping method to test a design idea before
-  building it.
-- 1 — Beginner: Builds a simple prototype using one method, with guidance on
+- 1 — Awareness: Builds a simple prototype using one method, with guidance on
   which method to choose.
-- 2 — Intermediate: Chooses and builds a prototype independently for a
+- 2 — Working: Chooses and builds a prototype independently for a
   contained piece of work, using more than one method as the situation needs.
-- 3 — Advanced: Uses prototyping to test a service end to end, not just one
+- 3 — Practitioner: Uses prototyping to test a service end to end, not just one
   screen or interaction, and the findings change what gets built.
 - 4 — Expert: Coaches other developers or designers in prototyping method and
   practice, and has set how prototyping is used strategically across a whole
   service or programme rather than one team's slice of it.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -508,10 +477,9 @@ prototype into organisation-wide practice — both are Expert-level framing.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -533,19 +501,16 @@ wording available at this level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their team's work connects to any wider
-  organisational strategy.
-- 1 — Beginner: Understands the organisation's stated strategy, but has not
+- 1 — Awareness: Understands the organisation's stated strategy, but has not
   contributed to shaping it.
-- 2 — Intermediate: Contributes analysis or recommendations that feed into a
+- 2 — Working: Contributes analysis or recommendations that feed into a
   strategy someone more senior owns.
-- 3 — Advanced: Owns and delivers a strategy for a defined area, and can show
+- 3 — Practitioner: Owns and delivers a strategy for a defined area, and can show
   how it was evaluated against business requirements.
 - 4 — Expert: Leads the design of strategy for the whole organisation's
   frontend development practice, and directs how strategies and policies get
   evaluated for whether they meet business requirements, adjusting them when
   they do not.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -558,10 +523,9 @@ wording available at this level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -577,29 +541,26 @@ network and tests that it works as expected.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This skill's wording stays bounded to a specific
+Baseline: 3 — Practitioner. This skill's wording stays bounded to a specific
 technical deliverable — defining a build, coordinating an integration,
 configuring and testing a network-facing component — without the explicit
 teaching, coaching, or organisation-wide strategy language that justifies an
 Expert baseline elsewhere in this matrix. A head of frontend development is
 expected to be able to do this independently and to take full responsibility
-for the outcome, which is Advanced; nothing in the wording itself demands
+for the outcome, which is Practitioner; nothing in the wording itself demands
 that they also teach it to others.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how the frontend build integrates with the rest
-  of the system.
-- 1 — Beginner: Follows an existing integration setup, with support, without
+- 1 — Awareness: Follows an existing integration setup, with support, without
   yet being able to change it.
-- 2 — Intermediate: Makes a contained change to the static assets build or
+- 2 — Working: Makes a contained change to the static assets build or
   network configuration, with review from a more senior colleague.
-- 3 — Advanced: Defines the static assets build for a piece of work
+- 3 — Practitioner: Defines the static assets build for a piece of work
   unaided, coordinates the integration end to end, and takes responsibility
   when the tests around it fail.
 - 4 — Expert: Has set how systems integration is done across more than one
   team or programme, and other developers are taught the approach someone designed.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -611,10 +572,9 @@ that they also teach it to others.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -638,20 +598,17 @@ work, and that is what this scale defines as Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain the difference between what a user asked for and
-  what a user needs.
-- 1 — Beginner: Can repeat back user needs described by a researcher, but
+- 1 — Awareness: Can repeat back user needs described by a researcher, but
   does not yet apply the distinction between need and desire unaided.
-- 2 — Intermediate: Represents user needs in their own team's decisions,
+- 2 — Working: Represents user needs in their own team's decisions,
   drawing on research a user researcher has already done.
-- 3 — Advanced: Prioritises and defines an approach to understand a user
+- 3 — Practitioner: Prioritises and defines an approach to understand a user
   story independently, including for users the team has not previously
   considered.
 - 4 — Expert: Champions user research across the organisation so that it
   covers all users rather than the easiest to reach, guides other developers
   in how to prioritise and approach the user story, and their recommendations
   have changed which tools or methods the organisation uses.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -664,10 +621,9 @@ work, and that is what this scale defines as Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -689,18 +645,16 @@ hands-on, data-led monitoring element.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their organisation measures web performance.
-- 1 — Beginner: Runs a performance check when told to, but needs help
+- 1 — Awareness: Runs a performance check when told to, but needs help
   interpreting the result.
-- 2 — Intermediate: Monitors and improves the performance of their own team's
+- 2 — Working: Monitors and improves the performance of their own team's
   work using one tool, with some guidance.
-- 3 — Advanced: Uses multiple tools to monitor performance across more than
+- 3 — Practitioner: Uses multiple tools to monitor performance across more than
   one team's work, diagnoses the cause of a regression unaided, and resolves
   it.
 - 4 — Expert: Coaches and guides other developers in web performance
   optimisation, and has changed organisational practice — a build gate, a
   budget, a standard — based on data they collected and advocated for.
-- 5 — Expert-plus: N/A — this scale has five points, 0 through 4.
 
 **Evidence to gather**
 
@@ -714,10 +668,9 @@ hands-on, data-led monitoring element.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -730,11 +683,11 @@ hands-on, data-led monitoring element.
 | Communicating information | 4 — Expert | | |
 | Community collaboration | 4 — Expert | | |
 | Leadership and guidance (frontend developer) | 4 — Expert | | |
-| Modern development standards | 3 — Advanced | | |
+| Modern development standards | 3 — Practitioner | | |
 | Programming and build (frontend developer) | 4 — Expert | | |
 | Prototyping | 4 — Expert | | |
 | Strategic thinking | 4 — Expert | | |
-| Systems integration (frontend developer) | 3 — Advanced | | |
+| Systems integration (frontend developer) | 3 — Practitioner | | |
 | User focus (frontend developer) | 4 — Expert | | |
 | Web performance optimisation | 4 — Expert | | |
 

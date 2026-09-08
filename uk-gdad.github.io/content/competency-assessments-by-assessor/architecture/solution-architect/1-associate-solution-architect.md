@@ -51,28 +51,27 @@ in the project specification.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
 
 A worked example, using **Technical design throughout the life cycle**:
 
-- A candidate rated **1 — Beginner** has produced a technical design for a
+- A candidate rated **1 — Awareness** has produced a technical design for a
   training exercise or a small, well-understood real task, with a supervisor
   checking the result before it was used.
-- A candidate rated **2 — Intermediate** has created a technical design of
+- A candidate rated **2 — Working** has created a technical design of
   managed risk and complexity for a real piece of work, and adapted it during
   delivery when circumstances changed, with support available.
-- A candidate rated **3 — Advanced** independently produces technical designs
+- A candidate rated **3 — Practitioner** independently produces technical designs
   for real work and supports other people in using them throughout delivery
   — a bar this level is not yet expected to meet.
 
@@ -140,20 +139,18 @@ work supports the team in enabling change.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework asks the person to identify relevant
+Baseline: 1 — Awareness. The framework asks the person to identify relevant
 information and understand their place in the team's wider change — awareness
 and connection, not yet independent judgement about what matters.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what information — a strategy, a roadmap, a policy —
-  would be relevant to a piece of architectural work.
-- 1 — Beginner: Identifies relevant strategies, roadmaps or policies when
+- 1 — Awareness: Identifies relevant strategies, roadmaps or policies when
   pointed toward them, and can explain in general terms how their work
   supports the team's change.
-- 2 — Intermediate: Finds relevant information independently for
+- 2 — Working: Finds relevant information independently for
   straightforward work, with some guidance on less obvious sources.
-- 3 — Advanced: Independently identifies the full range of context that
+- 3 — Practitioner: Independently identifies the full range of context that
   bears on a piece of work, including material that is not the obvious
   first place to look.
 - 4 — Expert: Not expected at this level.
@@ -168,10 +165,9 @@ and connection, not yet independent judgement about what matters.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -187,20 +183,18 @@ discussions about architectural topics within a multidisciplinary team.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. "Provide support in discussions" is a supporting,
+Baseline: 1 — Awareness. "Provide support in discussions" is a supporting,
 close-supervision bar; the framework does not yet expect this level to lead
 or own a stakeholder conversation.
 
 **Behavioural indicators**
 
-- 0 — None: Has not created or used an architecture diagram or similar
-  representation.
-- 1 — Beginner: Listens to stakeholder needs and can create a simple
+- 1 — Awareness: Listens to stakeholder needs and can create a simple
   architecture representation with guidance, and contributes to team
   discussions when supported.
-- 2 — Intermediate: Creates representations that achieve agreement with a
+- 2 — Working: Creates representations that achieve agreement with a
   stakeholder on a straightforward topic, with occasional support.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -213,10 +207,9 @@ or own a stakeholder conversation.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -230,17 +223,15 @@ legal and compliance rules.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own word is "awareness" — knowing the
+Baseline: 1 — Awareness. The framework's own word is "awareness" — knowing the
 processes exist and roughly what they cover, not yet applying them.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a government commercial process or a relevant legal
-  or compliance rule.
-- 1 — Beginner: Can describe, in general terms, what government commercial
+- 1 — Awareness: Can describe, in general terms, what government commercial
   process and legal or compliance rules apply to their work.
-- 2 — Intermediate: Not expected at this level.
-- 3 — Advanced: Not expected at this level.
+- 2 — Working: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -252,10 +243,9 @@ processes exist and roughly what they cover, not yet applying them.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -269,18 +259,16 @@ collaboration and feedback.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Understanding the importance of collaboration and
+Baseline: 1 — Awareness. Understanding the importance of collaboration and
 feedback is a foundational, awareness-level bar.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe why team dynamics or feedback matter to
-  architectural work.
-- 1 — Beginner: Understands and can describe the work of colleagues on their
+- 1 — Awareness: Understands and can describe the work of colleagues on their
   team, and why collaboration and feedback matter.
-- 2 — Intermediate: Actively seeks out and acts on feedback with some
+- 2 — Working: Actively seeks out and acts on feedback with some
   support.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -292,10 +280,9 @@ feedback is a foundational, awareness-level bar.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -310,20 +297,18 @@ assurance relevant to your work.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This level describes and gathers rather than makes
+Baseline: 1 — Awareness. This level describes and gathers rather than makes
 decisions — a supporting, close-supervision role in the decision, not an
 independent one.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why a design decision was made on a piece of work
-  they were involved in.
-- 1 — Beginner: Describes the reasoning behind a decision made by someone
+- 1 — Awareness: Describes the reasoning behind a decision made by someone
   else, and gathers information for a decision when asked.
-- 2 — Intermediate: Gathers information and contributes reasoning to a
+- 2 — Working: Gathers information and contributes reasoning to a
   decision with some independence, and understands the governance process
   relevant to their work.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -336,10 +321,9 @@ independent one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -354,18 +338,16 @@ options for solving problems at an appropriate level of detail.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own word is "help" — supporting
+Baseline: 1 — Awareness. The framework's own word is "help" — supporting
 someone else's framing and option-creation, not owning it.
 
 **Behavioural indicators**
 
-- 0 — None: Has not contributed to framing a problem or creating solution
-  options.
-- 1 — Beginner: Helps frame a straightforward problem and helps generate
+- 1 — Awareness: Helps frame a straightforward problem and helps generate
   options, under supervision.
-- 2 — Intermediate: Contributes independently to framing a managed-
+- 2 — Working: Contributes independently to framing a managed-
   complexity problem, with a supervisor reviewing the result.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -377,10 +359,9 @@ someone else's framing and option-creation, not owning it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -395,17 +376,16 @@ roadmaps, vision, and mission statements.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Explaining and describing these concepts is
+Baseline: 1 — Awareness. Explaining and describing these concepts is
 knowledge-level; this level is not yet expected to contribute to designing a
 strategy.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain what a strategy, roadmap or policy is for.
-- 1 — Beginner: Explains, in general terms, how organisational objectives
+- 1 — Awareness: Explains, in general terms, how organisational objectives
   link to strategy, and can describe what a roadmap or policy is for.
-- 2 — Intermediate: Not expected at this level.
-- 3 — Advanced: Not expected at this level.
+- 2 — Working: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -416,10 +396,9 @@ strategy.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -436,20 +415,19 @@ patterns.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This bullet uses stronger, doing verbs than the
+Baseline: 2 — Working. This bullet uses stronger, doing verbs than the
 rest of this level's skill set — "create", "provide guidance", "adapt" — on
 work that is already scoped to managed risk and well-understood technology,
-which is a genuine Intermediate bar even at associate level.
+which is a genuine Working bar even at associate level.
 
 **Behavioural indicators**
 
-- 0 — None: Has not produced a technical design used in real delivery.
-- 1 — Beginner: Produces a technical design for managed-risk work with close
+- 1 — Awareness: Produces a technical design for managed-risk work with close
   supervision, and needs help adapting it when circumstances change.
-- 2 — Intermediate: Independently creates a technical design for
+- 2 — Working: Independently creates a technical design for
   well-understood technology and managed risk, provides basic guidance to
   the team using it, and adapts it during delivery with occasional support.
-- 3 — Advanced: Not expected at this level.
+- 3 — Practitioner: Not expected at this level.
 - 4 — Expert: Not expected at this level.
 
 **Evidence to gather**
@@ -464,10 +442,9 @@ which is a genuine Intermediate bar even at associate level.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -487,7 +464,7 @@ which is a genuine Intermediate bar even at associate level.
 
 **Scoring guidance.** The baseline is normally met when every skill is rated
 at or above its baseline target. At this entry level, most baselines sit at
-Beginner by design — this is a supervised role, and a candidate does not need
+Awareness by design — this is a supervised role, and a candidate does not need
 to work independently to meet the bar. One or two skills below target is not
 automatically a fail: weigh how central the skill is to this level's
 accountabilities, consider whether the shortfall is coachable quickly after

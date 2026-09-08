@@ -49,15 +49,14 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
@@ -117,21 +116,19 @@ frameworks to business change in the organisation, under guidance.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. This is the level's core skill, but the framework's
+Baseline: 1 — Awareness. This is the level's core skill, but the framework's
 own wording — "show an awareness", "support... under guidance" — describes
 someone learning the discipline, not yet applying it unsupported.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what a business architecture framework is or why
-  an organisation uses one.
-- 1 — Beginner: can name a business architecture framework, principle or
+- 1 — Awareness: can name a business architecture framework, principle or
   technique, and, with guidance, can describe how it might apply to a piece
   of business change.
-- 2 — Intermediate: applies a business architecture technique to a small,
+- 2 — Working: applies a business architecture technique to a small,
   defined piece of work with occasional guidance, and can explain what it
   produced.
-- 3 — Advanced: applies business architecture frameworks to business change
+- 3 — Practitioner: applies business architecture frameworks to business change
   independently, and adapts the technique to the situation.
 - 4 — Expert: develops or extends business architecture practice for the
   organisation and coaches others in applying it.
@@ -149,10 +146,9 @@ someone learning the discipline, not yet applying it unsupported.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -167,21 +163,19 @@ a multidisciplinary team.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Listening to stakeholders and taking part in team
+Baseline: 2 — Working. Listening to stakeholders and taking part in team
 discussions is expected from day one in this role, even though someone is
 new to the discipline — it is a foundation the rest of the role is built on,
 so the bar sits a point higher than the more specialist skills below.
 
 **Behavioural indicators**
 
-- 0 — None: struggles to follow or contribute to a discussion involving
-  business or design stakeholders.
-- 1 — Beginner: listens attentively but needs prompting to interpret what a
+- 1 — Awareness: listens attentively but needs prompting to interpret what a
   stakeholder has said or to contribute to a discussion.
-- 2 — Intermediate: listens to stakeholders, interprets what they need with
+- 2 — Working: listens to stakeholders, interprets what they need with
   some accuracy, and takes part in multidisciplinary team discussions without
   prompting.
-- 3 — Advanced: interprets stakeholder needs reliably, including where they
+- 3 — Practitioner: interprets stakeholder needs reliably, including where they
   are unclear or conflicting, and contributes useful points to discussions
   unprompted.
 - 4 — Expert: shapes how a team communicates with stakeholders and coaches
@@ -200,10 +194,9 @@ so the bar sits a point higher than the more specialist skills below.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -220,21 +213,19 @@ frame problems that need to be solved.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Every part of the framework's own wording is guided:
+Baseline: 1 — Awareness. Every part of the framework's own wording is guided:
 "show an understanding", "work under guidance". This is someone learning what
 consultancy means in a business architecture context, not yet giving advice
 unsupported.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why a business architect gives advice or
-  recommendations, or what that advice might be for.
-- 1 — Beginner: explains, in general terms, why consultancy matters in the
+- 1 — Awareness: explains, in general terms, why consultancy matters in the
   role, and, with guidance and reference to previous work, can suggest what
   advice might apply to a simple problem.
-- 2 — Intermediate: identifies relevant precedent unprompted and drafts a
+- 2 — Working: identifies relevant precedent unprompted and drafts a
   first attempt at advice for a colleague to check.
-- 3 — Advanced: gives sound, well-framed advice on business problems with
+- 3 — Practitioner: gives sound, well-framed advice on business problems with
   minimal guidance.
 - 4 — Expert: is sought out for advice on complex or ambiguous business
   problems and mentors others in framing them.
@@ -251,10 +242,9 @@ unsupported.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -269,20 +259,18 @@ peers and local stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework has this level recommending decisions
+Baseline: 1 — Awareness. The framework has this level recommending decisions
 rather than making them, which fits someone still building the judgement a
 more independent decision requires.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain the reasoning behind a recommendation they have
-  made, or gives no reasoning at all.
-- 1 — Beginner: makes a simple recommendation and explains the reasoning
+- 1 — Awareness: makes a simple recommendation and explains the reasoning
   behind it when asked, and can point out when two colleagues disagree on a
   straightforward point.
-- 2 — Intermediate: makes recommendations with clear, unprompted reasoning,
+- 2 — Working: makes recommendations with clear, unprompted reasoning,
   and articulates the substance of a dispute between peers accurately.
-- 3 — Advanced: makes sound recommendations on moderately complex questions
+- 3 — Practitioner: makes sound recommendations on moderately complex questions
   without support, and helps peers see each other's position in a dispute.
 - 4 — Expert: is trusted to make decisions directly on complex questions and
   helps resolve disputes between others.
@@ -299,10 +287,9 @@ more independent decision requires.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -317,19 +304,17 @@ implementation and improvement of systems and services.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's wording — "follow advice to apply" —
+Baseline: 1 — Awareness. The framework's wording — "follow advice to apply" —
 is explicitly guided: someone using a method or tool because a more senior
 colleague has told them to, not yet choosing it themselves.
 
 **Behavioural indicators**
 
-- 0 — None: does not use, or cannot name, any business architecture method or
-  tool relevant to the role.
-- 1 — Beginner: uses a method or tool correctly once shown how, and follows
+- 1 — Awareness: uses a method or tool correctly once shown how, and follows
   advice on which to apply to a given piece of work.
-- 2 — Intermediate: selects a familiar method or tool for a routine task
+- 2 — Working: selects a familiar method or tool for a routine task
   without being told, checking with a colleague when unsure.
-- 3 — Advanced: selects and applies the right method or tool for most
+- 3 — Practitioner: selects and applies the right method or tool for most
   situations independently.
 - 4 — Expert: builds the organisation's capability in methods and tools, and
   advises others on which to use and why.
@@ -345,10 +330,9 @@ colleague has told them to, not yet choosing it themselves.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -363,22 +347,20 @@ capacity.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework limits this level to explaining
+Baseline: 1 — Awareness. The framework limits this level to explaining
 strategic context and supporting strategic planning administratively, not
 shaping strategy — appropriate for someone still learning what "strategic"
 means in this organisation's terms.
 
 **Behavioural indicators**
 
-- 0 — None: cannot connect their day-to-day work to the organisation's wider
-  strategy or goals.
-- 1 — Beginner: explains, when asked, how a piece of work they are doing
+- 1 — Awareness: explains, when asked, how a piece of work they are doing
   relates to the organisation's strategy, and helps with administrative tasks
   supporting strategic planning.
-- 2 — Intermediate: makes the strategic connection unprompted in most cases,
+- 2 — Working: makes the strategic connection unprompted in most cases,
   and takes on a defined piece of strategic planning support without close
   oversight.
-- 3 — Advanced: consistently frames their own work, and that of others, in
+- 3 — Practitioner: consistently frames their own work, and that of others, in
   terms of strategic goals.
 - 4 — Expert: shapes strategic thinking across the organisation and develops
   others' ability to do the same.
@@ -395,10 +377,9 @@ means in this organisation's terms.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -407,12 +388,12 @@ means in this organisation's terms.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Business architecture | 1 — Beginner | | |
-| Communicating information | 2 — Intermediate | | |
-| Consultancy | 1 — Beginner | | |
-| Making and guiding decisions | 1 — Beginner | | |
-| Methods and tools | 1 — Beginner | | |
-| Strategic thinking | 1 — Beginner | | |
+| Business architecture | 1 — Awareness | | |
+| Communicating information | 2 — Working | | |
+| Consultancy | 1 — Awareness | | |
+| Making and guiding decisions | 1 — Awareness | | |
+| Methods and tools | 1 — Awareness | | |
+| Strategic thinking | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

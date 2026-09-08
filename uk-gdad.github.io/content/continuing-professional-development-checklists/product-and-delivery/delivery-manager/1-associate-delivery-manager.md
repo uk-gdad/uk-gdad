@@ -2,10 +2,99 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Delivery manager** role at the **Associate delivery manager** level in the UK GDAD PCF. You work on a small or mature Agile team, learn on the job, and may work alongside a delivery manager on a larger team, shadowing and supporting or delivering an element under guidance. This is a great time to learn how teams really work.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/product-and-delivery/delivery-manager/1-associate-delivery-manager.md`](../../../assessments/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
+- Upskilling: [`upskills/product-and-delivery/delivery-manager/1-associate-delivery-manager.md`](../../../upskills/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
+
+### Role Level Focus: Associate Delivery Manager
+
+- [ ] Learn Agile Properly: Complete a structured course in Agile and Lean delivery, then read the original sources.
+- [ ] Shadow a Delivery Manager: Note the interventions they make and the ones they deliberately do not.
+- [ ] Facilitate a Ceremony: Run a stand-up or retrospective, then ask the team how it went.
+- [ ] Learn Your Team's Craft: Understand enough about what each discipline does to be genuinely useful.
+- [ ] Read the Service Manual: Work through the GOV.UK Service Manual and Service Standard.
+- [ ] Keep a Learning Log: Note what you tried, what happened, and what you would change.
+- [ ] Find a Mentor: Ask an experienced delivery manager to meet you regularly.
+
+### Skill: Agile and Lean practices
+
+- [ ] Apply Agile Principles: Show you can apply the principles, not just recite the ceremonies.
+- [ ] Create Transparency: Provide a clear, open framework in which the team can deliver.
+- [ ] Use Agile Tools Intelligently: Learn your team's tools well enough to shape them, not just fill them in.
+- [ ] Make Work Visible: Visualise the team's work so anyone can see the state of play.
+
+### Skill: Commercial management
+
+- [ ] Be the Supplier Contact: Act as the point of contact for contracted suppliers.
+- [ ] Learn Internal Processes: Know the commercial contacts and processes in your department.
+- [ ] Understand Third Party Use: Learn how and when third parties should join digital projects.
+- [ ] Read a Real Contract: Ask to see a live contract and learn how it shapes delivery.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Communicate Both Ways: Explain technical work to non-technical people and vice versa.
+- [ ] Host Difficult Discussions: Support or host discussions where dynamics are hard.
+- [ ] Advocate for the Team: Represent your team's position externally.
+- [ ] Manage Differing Perspectives: Hold competing views without taking sides too early.
+
+### Skill: Financial management
+
+- [ ] Understand Financial Impact: Learn how your team's work translates into cost.
+- [ ] Learn Budget Creation: Understand how costs and budgets are actually built in government.
+- [ ] Learn the Vocabulary: Know the difference between capital and resource spend.
+- [ ] Track Your Team's Spend: Practise keeping a simple, accurate picture of what the team costs.
+
+### Skill: Life cycle management
+
+- [ ] Learn the Phases: Explain what discovery, alpha, beta, and live are each for.
+- [ ] Understand Phase Needs: Say how a team's needs change across the life cycle.
+- [ ] Attend an Assessment: Observe a service assessment and note what assessors look for.
+- [ ] Map Your Service: Work out where your product sits in its life cycle and why.
+
+### Skill: Maintaining delivery momentum
+
+- [ ] Address Risks and Issues: Actively work internal risks and issues, and know when to escalate.
+- [ ] Set a Sustainable Cadence: Establish a tempo the team can maintain without burning out.
+- [ ] Track Dependencies: Manage, escalate, and communicate dependencies clearly.
+- [ ] Remove Blockers: Minimise risks and dependencies where you can, rather than just reporting them.
+- [ ] Understand the Impact: Explain how each risk or dependency affects the team's work.
+
+### Skill: Making a process work
+
+- [ ] Focus on Output: Guide the team toward outcomes rather than process compliance.
+- [ ] Help the Team Find Their Process: Support the team in choosing what works for them.
+- [ ] Support Process Establishment: Help teams set up a process and stick with it long enough to judge it.
+- [ ] Notice Process Waste: Keep a list of ceremonies and artefacts nobody uses.
+
+### Skill: Planning
+
+- [ ] Understand Why Planning Matters: Explain the value of planning and forecasting honestly.
+- [ ] Learn Planning Approaches: Build awareness of different ways to develop a plan.
+- [ ] Practise Forecasting: Learn simple forecasting from throughput data.
+- [ ] Learn to Show Uncertainty: Practise presenting a plan with its uncertainty visible.
+
+### Skill: Team dynamics and collaboration
+
+- [ ] Explain Why Dynamics Matter: Articulate the importance of collaboration and empowerment.
+- [ ] Value Feedback: Understand why feedback matters and practise giving it well.
+- [ ] Learn Facilitation: Study facilitation technique and practise it in small sessions.
+- [ ] Notice Team Health: Learn the signs that a team is struggling before anyone says so.
+
+### Skill Growth Plan: Toward Delivery Manager
+
+- [ ] Review the Next Level: Read the Delivery manager skill descriptions and mark what to build next.
+- [ ] Own a Delivery: Ask to be accountable for a small delivery yourself.
+- [ ] Learn Coaching: Study a coaching model and practise it with a colleague.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,92 +192,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Delivery manager** role at the **Associate delivery manager** level in the UK GDAD PCF. You work on a small or mature Agile team, learn on the job, and may work alongside a delivery manager on a larger team, shadowing and supporting or delivering an element under guidance. This is a great time to learn how teams really work.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/product-and-delivery/delivery-manager/1-associate-delivery-manager.md`](../../../assessments/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
-- Upskilling: [`upskills/product-and-delivery/delivery-manager/1-associate-delivery-manager.md`](../../../upskills/product-and-delivery/delivery-manager/1-associate-delivery-manager.md)
-
-### Role Level Focus: Associate Delivery Manager
-
-- [ ] Learn Agile Properly: Complete a structured course in Agile and Lean delivery, then read the original sources.
-- [ ] Shadow a Delivery Manager: Note the interventions they make and the ones they deliberately do not.
-- [ ] Facilitate a Ceremony: Run a stand-up or retrospective, then ask the team how it went.
-- [ ] Learn Your Team's Craft: Understand enough about what each discipline does to be genuinely useful.
-- [ ] Read the Service Manual: Work through the GOV.UK Service Manual and Service Standard.
-- [ ] Keep a Learning Log: Note what you tried, what happened, and what you would change.
-- [ ] Find a Mentor: Ask an experienced delivery manager to meet you regularly.
-
-### Skill: Agile and Lean practices
-
-- [ ] Apply Agile Principles: Show you can apply the principles, not just recite the ceremonies.
-- [ ] Create Transparency: Provide a clear, open framework in which the team can deliver.
-- [ ] Use Agile Tools Intelligently: Learn your team's tools well enough to shape them, not just fill them in.
-- [ ] Make Work Visible: Visualise the team's work so anyone can see the state of play.
-
-### Skill: Commercial management
-
-- [ ] Be the Supplier Contact: Act as the point of contact for contracted suppliers.
-- [ ] Learn Internal Processes: Know the commercial contacts and processes in your department.
-- [ ] Understand Third Party Use: Learn how and when third parties should join digital projects.
-- [ ] Read a Real Contract: Ask to see a live contract and learn how it shapes delivery.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Communicate Both Ways: Explain technical work to non-technical people and vice versa.
-- [ ] Host Difficult Discussions: Support or host discussions where dynamics are hard.
-- [ ] Advocate for the Team: Represent your team's position externally.
-- [ ] Manage Differing Perspectives: Hold competing views without taking sides too early.
-
-### Skill: Financial management
-
-- [ ] Understand Financial Impact: Learn how your team's work translates into cost.
-- [ ] Learn Budget Creation: Understand how costs and budgets are actually built in government.
-- [ ] Learn the Vocabulary: Know the difference between capital and resource spend.
-- [ ] Track Your Team's Spend: Practise keeping a simple, accurate picture of what the team costs.
-
-### Skill: Life cycle management
-
-- [ ] Learn the Phases: Explain what discovery, alpha, beta, and live are each for.
-- [ ] Understand Phase Needs: Say how a team's needs change across the life cycle.
-- [ ] Attend an Assessment: Observe a service assessment and note what assessors look for.
-- [ ] Map Your Service: Work out where your product sits in its life cycle and why.
-
-### Skill: Maintaining delivery momentum
-
-- [ ] Address Risks and Issues: Actively work internal risks and issues, and know when to escalate.
-- [ ] Set a Sustainable Cadence: Establish a tempo the team can maintain without burning out.
-- [ ] Track Dependencies: Manage, escalate, and communicate dependencies clearly.
-- [ ] Remove Blockers: Minimise risks and dependencies where you can, rather than just reporting them.
-- [ ] Understand the Impact: Explain how each risk or dependency affects the team's work.
-
-### Skill: Making a process work
-
-- [ ] Focus on Output: Guide the team toward outcomes rather than process compliance.
-- [ ] Help the Team Find Their Process: Support the team in choosing what works for them.
-- [ ] Support Process Establishment: Help teams set up a process and stick with it long enough to judge it.
-- [ ] Notice Process Waste: Keep a list of ceremonies and artefacts nobody uses.
-
-### Skill: Planning
-
-- [ ] Understand Why Planning Matters: Explain the value of planning and forecasting honestly.
-- [ ] Learn Planning Approaches: Build awareness of different ways to develop a plan.
-- [ ] Practise Forecasting: Learn simple forecasting from throughput data.
-- [ ] Learn to Show Uncertainty: Practise presenting a plan with its uncertainty visible.
-
-### Skill: Team dynamics and collaboration
-
-- [ ] Explain Why Dynamics Matter: Articulate the importance of collaboration and empowerment.
-- [ ] Value Feedback: Understand why feedback matters and practise giving it well.
-- [ ] Learn Facilitation: Study facilitation technique and practise it in small sessions.
-- [ ] Notice Team Health: Learn the signs that a team is struggling before anyone says so.
-
-### Skill Growth Plan: Toward Delivery Manager
-
-- [ ] Review the Next Level: Read the Delivery manager skill descriptions and mark what to build next.
-- [ ] Own a Delivery: Ask to be accountable for a small delivery yourself.
-- [ ] Learn Coaching: Study a coaching model and practise it with a colleague.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

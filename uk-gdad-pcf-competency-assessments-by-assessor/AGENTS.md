@@ -1,7 +1,7 @@
 # Competency assessments
 
 An assessor-administered competency assessment per role level: a matrix of the
-skills the framework names, each rated 0–4 against observable behaviour, used
+skills the framework names, each rated 1–4 against observable behaviour, used
 to judge whether a candidate or employee has the baseline abilities the role
 level requires.
 

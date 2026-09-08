@@ -59,19 +59,18 @@ live vulnerability detail or specific security configuration itself.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale — how well the person does the thing, on the evidence
 available, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example.** Take Skill: Governance and assurance. At 3 — Advanced, a
+**Worked example.** Take Skill: Governance and assurance. At 3 — Practitioner, a
 candidate runs governance and assurance processes for their own area
 competently and improves them when they find a gap. At 4 — Expert, the
 baseline for this level, they ensure governance and assurance across a
@@ -141,13 +140,11 @@ of Expert.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what proportionate governance looks like for a
-  business area.
-- 1 — Beginner: follows governance processes someone else has set, with
+- 1 — Awareness: follows governance processes someone else has set, with
   direction.
-- 2 — Intermediate: applies governance processes correctly across their own
+- 2 — Working: applies governance processes correctly across their own
   work without prompting.
-- 3 — Advanced: develops and improves governance processes for their own
+- 3 — Practitioner: develops and improves governance processes for their own
   area, and supports individual colleagues through them.
 - 4 — Expert: ensures governance across a business area is proportionate and
   kept current, guides whole teams through processes such as service
@@ -167,10 +164,9 @@ of Expert.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -192,11 +188,10 @@ exercising your own, which is Expert by definition.
 
 **Behavioural indicators**
 
-- 0 — None: has not led others in infrastructure work.
-- 1 — Beginner: contributes to infrastructure work under someone else's lead.
-- 2 — Intermediate: leads a small piece of infrastructure work with close
+- 1 — Awareness: contributes to infrastructure work under someone else's lead.
+- 2 — Working: leads a small piece of infrastructure work with close
   support from a more senior colleague.
-- 3 — Advanced: independently designs and implements infrastructure and
+- 3 — Practitioner: independently designs and implements infrastructure and
   occasionally directs a colleague's work on it.
 - 4 — Expert: leads a team, or more than one team, through the design,
   implementation, administration and support of infrastructure, and is
@@ -214,10 +209,9 @@ exercising your own, which is Expert by definition.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -244,13 +238,11 @@ shapes practice beyond the person's own work.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe how design practice is controlled across an
-  enterprise or industry.
-- 1 — Beginner: applies design standards someone else has set, for
+- 1 — Awareness: applies design standards someone else has set, for
   medium-complexity work.
-- 2 — Intermediate: designs medium-risk systems competently and understands
+- 2 — Working: designs medium-risk systems competently and understands
   why enterprise-level design controls exist.
-- 3 — Advanced: designs high-risk, high-complexity systems independently, but
+- 3 — Practitioner: designs high-risk, high-complexity systems independently, but
   has not yet shaped design practice or procurement strategy beyond their own
   work.
 - 4 — Expert: designs for high risk, impact and complexity; controls design
@@ -271,10 +263,9 @@ shapes practice beyond the person's own work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -289,7 +280,7 @@ integration testing activities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework repeats this skill's wording verbatim
+Baseline: 3 — Practitioner. The framework repeats this skill's wording verbatim
 from the network architect level below — it does not ask for more here — so
 the baseline stays at the same point the text supports rather than being
 raised by habit. A lead is not expected to exceed this skill beyond what the
@@ -299,13 +290,11 @@ level, exercised with the wider judgement this level's other skills require.
 
 **Behavioural indicators**
 
-- 0 — None: has not taken responsibility for any part of an integration
-  build.
-- 1 — Beginner: contributes to one part of an integration build under
+- 1 — Awareness: contributes to one part of an integration build under
   direction.
-- 2 — Intermediate: coordinates a small integration build with a senior
+- 2 — Working: coordinates a small integration build with a senior
   colleague available to check progress.
-- 3 — Advanced: defines an integration build and coordinates activities
+- 3 — Practitioner: defines an integration build and coordinates activities
   across systems independently, and supports the integration testing that
   follows, even where that means coordinating across teams the person does
   not directly manage.
@@ -324,10 +313,9 @@ level, exercised with the wider judgement this level's other skills require.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -342,7 +330,7 @@ across different technology capabilities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As with Systems integration, the framework repeats
+Baseline: 3 — Practitioner. As with Systems integration, the framework repeats
 this skill's wording verbatim from the level below, so the baseline holds at
 the point the text itself supports. A lead's escalation-point accountability
 means they will exercise this skill on harder, more visible problems, but the
@@ -350,12 +338,11 @@ framework does not ask for a different or higher standard of the skill itself.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe a structured approach to diagnosing a fault.
-- 1 — Beginner: diagnoses a familiar fault type when guided through it.
-- 2 — Intermediate: diagnoses faults in a familiar technology area
+- 1 — Awareness: diagnoses a familiar fault type when guided through it.
+- 2 — Working: diagnoses faults in a familiar technology area
   unassisted, but needs help breaking down a fault that spans several
   capabilities.
-- 3 — Advanced: independently breaks a cross-capability problem into its
+- 3 — Practitioner: independently breaks a cross-capability problem into its
   component parts, diagnoses the root cause, and resolves it or hands it on
   with a clear diagnosis — including when the problem has already defeated
   other people's attempts and has been escalated to them.
@@ -375,10 +362,9 @@ framework does not ask for a different or higher standard of the skill itself.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -390,8 +376,8 @@ framework does not ask for a different or higher standard of the skill itself.
 | Governance and assurance | 4 — Expert | | |
 | IT infrastructure | 4 — Expert | | |
 | Systems design | 4 — Expert | | |
-| Systems integration | 3 — Advanced | | |
-| Troubleshooting and problem resolution | 3 — Advanced | | |
+| Systems integration | 3 — Practitioner | | |
+| Troubleshooting and problem resolution | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when every skill above is
 rated at or above its baseline target.
@@ -400,7 +386,7 @@ One or two skills below target is not automatically a fail. Weigh how central
 the skill is to this level's accountabilities — Governance and assurance,
 IT infrastructure and Systems design sit at Expert because they define what
 "lead" means in this role, so a shortfall there deserves close attention;
-whereas Systems integration or Troubleshooting sitting a point below Advanced
+whereas Systems integration or Troubleshooting sitting a point below Practitioner
 may be coachable quickly given a strong track record elsewhere. Record your
 reasoning, not just the numbers: a panel or manager reading this later needs
 to know why a below-target rating was, or was not, treated as a concern.

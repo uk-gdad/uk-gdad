@@ -2,10 +2,93 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Service desk manager** role at the **Service desk manager** level. You identify emerging issues, act as a knowledge expert, and are responsible for the resourcing and development of the team, including preparing and co-ordinating service transition activities. Your development now is about foresight, improvement, and team development.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/it-operations/service-desk-manager/3-service-desk-manager.md`](../../../assessments/it-operations/service-desk-manager/3-service-desk-manager.md)
+- Upskilling: [`upskills/it-operations/service-desk-manager/3-service-desk-manager.md`](../../../upskills/it-operations/service-desk-manager/3-service-desk-manager.md)
+
+### Role Level Focus: Service Desk Manager
+
+- [ ] Identify Emerging Issues: Build the reporting and instinct to spot problems before they spread.
+- [ ] Be a Knowledge Expert: Know the services well enough that colleagues bring you the hard cases.
+- [ ] Own Resourcing and Development: Take responsibility for having the right people with the right skills.
+- [ ] Co-ordinate Service Transition: Prepare the desk properly before new services go live.
+- [ ] Automate What Repeats: Investigate which processes can be automated, and act on it.
+- [ ] Learn ITIL Depth: Build knowledge of the life cycle or capability elements of ITIL.
+- [ ] Lead People Well: Complete line manager training and run reliable one-to-ones.
+- [ ] Look After Wellbeing: Watch the toll that front-line work takes, and act on it.
+
+### Skill: Asset and configuration management
+
+- [ ] Track and Log Accurately: Keep asset and component information correct.
+- [ ] Correct What Is Wrong: Fix inaccurate records when you find them.
+- [ ] Protect Assets: Understand how accurate records support support work.
+- [ ] Coach on Record Quality: Help your team keep records useful.
+
+### Skill: Customer service management
+
+- [ ] Turn Lessons Into Improvement: Translate what you learn into continual service improvement.
+- [ ] Oversee Customer Service: Take responsibility for the full range of customer service functions.
+- [ ] Review Satisfaction: Measure customer satisfaction honestly and act on it.
+- [ ] Investigate Automation: Find which processes can be automated and how.
+
+### Skill: IT service reporting
+
+- [ ] Use Analytics for Decisions: Apply data analytics skills to enhance business performance.
+- [ ] Report Honestly: Give an accurate picture, including the uncomfortable parts.
+- [ ] Measure What Matters: Focus on user outcomes rather than ticket volumes.
+- [ ] Build Reporting Capability: Develop analytical skill across your team.
+
+### Skill: Ownership and topic
+
+- [ ] Take Accountability: Own the issues that occur in your area.
+- [ ] Be Proactive: Search for potential problems before they surface.
+- [ ] Achieve Excellent User Outcomes: Judge success by what users experience.
+- [ ] Model Ownership: Show the behaviour you want your team to copy.
+
+### Skill: Problem management
+
+- [ ] Investigate Patterns: Initiate and monitor investigation into recurring problems.
+- [ ] Consult Specialists: Bring in the right expertise early.
+- [ ] Determine Resolutions: Decide the right fix and support its implementation.
+- [ ] Prevent Recurrence: Remove the causes of avoidable contact.
+
+### Skill: Service focus
+
+- [ ] Build Coherent Frameworks: Take inputs and establish frameworks that genuinely work.
+- [ ] Understand the Whole Service: Know how the service desk fits the wider service.
+- [ ] Set Service Standards: Define what good support looks like.
+- [ ] Reduce Repeat Contacts: Set a measurable goal for removing avoidable demand.
+
+### Skill: Service management framework knowledge
+
+- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
+- [ ] Know ITIL Elements: Demonstrate knowledge of the life cycle or capability elements.
+- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
+- [ ] Coach Others: Develop framework understanding across your team.
+
+### Skill: User focus
+
+- [ ] Represent Users Internally: Speak for users with evidence in service discussions.
+- [ ] Distinguish Needs from Desires: Coach others to separate requests from underlying needs.
+- [ ] Champion Inclusive Research: Push for research that reaches colleagues with access needs.
+- [ ] Guide Story Definition: Help teams frame improvement work around genuine needs.
+- [ ] Recommend Tools and Methods: Advise on the right research and analysis approach.
+
+### Skill Growth Plan: Toward Head of Service Desk
+
+- [ ] Review the Next Level: Read the Head of service desk skill descriptions and mark your gaps.
+- [ ] Advise Project Teams: Get involved in providing technical advice to projects.
+- [ ] Learn Prediction Methods: Build the skill to forecast trends across processes.
+- [ ] Own Service Level Performance: Take responsibility for managing and monitoring agreements.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,86 +186,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Service desk manager** role at the **Service desk manager** level. You identify emerging issues, act as a knowledge expert, and are responsible for the resourcing and development of the team, including preparing and co-ordinating service transition activities. Your development now is about foresight, improvement, and team development.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/it-operations/service-desk-manager/3-service-desk-manager.md`](../../../assessments/it-operations/service-desk-manager/3-service-desk-manager.md)
-- Upskilling: [`upskills/it-operations/service-desk-manager/3-service-desk-manager.md`](../../../upskills/it-operations/service-desk-manager/3-service-desk-manager.md)
-
-### Role Level Focus: Service Desk Manager
-
-- [ ] Identify Emerging Issues: Build the reporting and instinct to spot problems before they spread.
-- [ ] Be a Knowledge Expert: Know the services well enough that colleagues bring you the hard cases.
-- [ ] Own Resourcing and Development: Take responsibility for having the right people with the right skills.
-- [ ] Co-ordinate Service Transition: Prepare the desk properly before new services go live.
-- [ ] Automate What Repeats: Investigate which processes can be automated, and act on it.
-- [ ] Learn ITIL Depth: Build knowledge of the life cycle or capability elements of ITIL.
-- [ ] Lead People Well: Complete line manager training and run reliable one-to-ones.
-- [ ] Look After Wellbeing: Watch the toll that front-line work takes, and act on it.
-
-### Skill: Asset and configuration management
-
-- [ ] Track and Log Accurately: Keep asset and component information correct.
-- [ ] Correct What Is Wrong: Fix inaccurate records when you find them.
-- [ ] Protect Assets: Understand how accurate records support support work.
-- [ ] Coach on Record Quality: Help your team keep records useful.
-
-### Skill: Customer service management
-
-- [ ] Turn Lessons Into Improvement: Translate what you learn into continual service improvement.
-- [ ] Oversee Customer Service: Take responsibility for the full range of customer service functions.
-- [ ] Review Satisfaction: Measure customer satisfaction honestly and act on it.
-- [ ] Investigate Automation: Find which processes can be automated and how.
-
-### Skill: IT service reporting
-
-- [ ] Use Analytics for Decisions: Apply data analytics skills to enhance business performance.
-- [ ] Report Honestly: Give an accurate picture, including the uncomfortable parts.
-- [ ] Measure What Matters: Focus on user outcomes rather than ticket volumes.
-- [ ] Build Reporting Capability: Develop analytical skill across your team.
-
-### Skill: Ownership and topic
-
-- [ ] Take Accountability: Own the issues that occur in your area.
-- [ ] Be Proactive: Search for potential problems before they surface.
-- [ ] Achieve Excellent User Outcomes: Judge success by what users experience.
-- [ ] Model Ownership: Show the behaviour you want your team to copy.
-
-### Skill: Problem management
-
-- [ ] Investigate Patterns: Initiate and monitor investigation into recurring problems.
-- [ ] Consult Specialists: Bring in the right expertise early.
-- [ ] Determine Resolutions: Decide the right fix and support its implementation.
-- [ ] Prevent Recurrence: Remove the causes of avoidable contact.
-
-### Skill: Service focus
-
-- [ ] Build Coherent Frameworks: Take inputs and establish frameworks that genuinely work.
-- [ ] Understand the Whole Service: Know how the service desk fits the wider service.
-- [ ] Set Service Standards: Define what good support looks like.
-- [ ] Reduce Repeat Contacts: Set a measurable goal for removing avoidable demand.
-
-### Skill: Service management framework knowledge
-
-- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
-- [ ] Know ITIL Elements: Demonstrate knowledge of the life cycle or capability elements.
-- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
-- [ ] Coach Others: Develop framework understanding across your team.
-
-### Skill: User focus
-
-- [ ] Represent Users Internally: Speak for users with evidence in service discussions.
-- [ ] Distinguish Needs from Desires: Coach others to separate requests from underlying needs.
-- [ ] Champion Inclusive Research: Push for research that reaches colleagues with access needs.
-- [ ] Guide Story Definition: Help teams frame improvement work around genuine needs.
-- [ ] Recommend Tools and Methods: Advise on the right research and analysis approach.
-
-### Skill Growth Plan: Toward Head of Service Desk
-
-- [ ] Review the Next Level: Read the Head of service desk skill descriptions and mark your gaps.
-- [ ] Advise Project Teams: Get involved in providing technical advice to projects.
-- [ ] Learn Prediction Methods: Build the skill to forecast trends across processes.
-- [ ] Own Service Level Performance: Take responsibility for managing and monitoring agreements.

@@ -2,10 +2,99 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **IT service manager** role at the **IT service manager** level. You define service level and operational level agreements across business functions, manage a multi-sourced support team across locations focused on availability and performance, keep the service catalogue and knowledge library maintained, ensure reporting and service standards are met, ensure technical change is communicated and governed, and put continual service improvement in place. Your development now is about service ownership and improvement.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/it-operations/it-service-manager/2-it-service-manager.md`](../../../assessments/it-operations/it-service-manager/2-it-service-manager.md)
+- Upskilling: [`upskills/it-operations/it-service-manager/2-it-service-manager.md`](../../../upskills/it-operations/it-service-manager/2-it-service-manager.md)
+
+### Role Level Focus: IT Service Manager
+
+- [ ] Define Meaningful Agreements: Write service and operational level agreements that reflect what users need.
+- [ ] Manage Multi-Sourced Support: Learn to co-ordinate internal teams and suppliers as one service.
+- [ ] Keep the Catalogue Current: Own the service catalogue and knowledge library.
+- [ ] Meet Reporting Standards: Ensure reporting is accurate, timely, and useful.
+- [ ] Govern Technical Change: Make sure change is communicated and controlled properly.
+- [ ] Run Continual Improvement: Put a real improvement programme in place, with measures.
+- [ ] Learn ITIL Depth: Build knowledge of the life cycle or capability elements of ITIL.
+- [ ] Lead People Well: Complete line manager training if you manage anyone.
+
+### Skill: Asset and configuration management
+
+- [ ] Maintain Secure Configuration: Keep configuration accurate and secure.
+- [ ] Control IT Assets: Take responsibility for assets in one or more areas.
+- [ ] Verify Location and State: Check that records match reality.
+- [ ] Automate Verification: Reduce manual auditing where tooling can do it.
+
+### Skill: Business analysis (IT operations)
+
+- [ ] Investigate Problems and Opportunities: Look into existing processes and recommend solutions.
+- [ ] Identify Objectives and Benefits: Work with stakeholders to name what success looks like.
+- [ ] Learn Analysis Technique: Study structured investigation and options appraisal.
+- [ ] Evidence Your Improvements: Show before and after data for changes you make.
+
+### Skill: IT service reporting
+
+- [ ] Produce Relevant Reports: Deliver reports in the right format and agreed timeframe.
+- [ ] Work With Stakeholders: Discuss and agree changes to reporting processes.
+- [ ] Interpret Data Sets: Explain what the data means, not just what it says.
+- [ ] Report Honestly: Include the uncomfortable numbers as well as the good ones.
+
+### Skill: Ownership and topic
+
+- [ ] Own Until Handover: Keep an issue until it is resolved or properly handed on.
+- [ ] Follow Through: Check what happened after you escalated something.
+- [ ] Be Proactive: Look for problems before users report them.
+- [ ] Make Ownership Visible: Ensure everyone knows who holds each issue.
+
+### Skill: Service focus
+
+- [ ] See the Bigger Picture: Look across groups of services to get the best from underlying components.
+- [ ] Understand Dependencies: Know which services depend on which components.
+- [ ] Set Service Standards: Define what good service looks like for your area.
+- [ ] Measure What Matters: Focus measurement on user outcomes rather than activity.
+
+### Skill: Service management framework knowledge
+
+- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
+- [ ] Know ITIL Elements: Demonstrate knowledge of the life cycle or capability elements.
+- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
+- [ ] Coach Others: Develop framework understanding across your team.
+
+### Skill: Stakeholder relationship management (IT operations)
+
+- [ ] Identify Important Stakeholders: Keep a current map and communicate clearly and regularly.
+- [ ] Tailor Your Communication: Adapt content and format to each stakeholder's needs.
+- [ ] Build Consensus: Move a group from disagreement to a workable shared position.
+- [ ] Use Evidence to Explain Decisions: Improve relationships by showing your reasoning.
+
+### Skill: Strategic thinking
+
+- [ ] Work Within Strategic Context: Explain how service activities meet strategic goals.
+- [ ] Contribute to Strategy: Offer real input into strategy and policy development.
+- [ ] Connect Service to Outcomes: Frame service performance in terms of business outcomes.
+- [ ] Track the Wider Landscape: Follow how service management is changing across government.
+
+### Skill: User focus
+
+- [ ] Collate User Needs Evidence: Engage with users and stakeholders to gather real evidence.
+- [ ] Define Fitting Research: Understand enough about research to define what would answer your question.
+- [ ] Use Both Kinds of Data: Combine service data with what users tell you.
+- [ ] Include Everyone: Make sure colleagues with access needs get equal service.
+
+### Skill Growth Plan: Toward Senior IT Service Manager
+
+- [ ] Review the Next Level: Read the Senior IT service manager skill descriptions and mark your gaps.
+- [ ] Work Across Platforms: Seek responsibility spanning multiple services and channels.
+- [ ] Build Analytics Skill: Learn to use data analytics to improve business performance.
+- [ ] Get Expert Certification: Work toward an expert certificate in a service management framework.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,92 +192,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **IT service manager** role at the **IT service manager** level. You define service level and operational level agreements across business functions, manage a multi-sourced support team across locations focused on availability and performance, keep the service catalogue and knowledge library maintained, ensure reporting and service standards are met, ensure technical change is communicated and governed, and put continual service improvement in place. Your development now is about service ownership and improvement.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/it-operations/it-service-manager/2-it-service-manager.md`](../../../assessments/it-operations/it-service-manager/2-it-service-manager.md)
-- Upskilling: [`upskills/it-operations/it-service-manager/2-it-service-manager.md`](../../../upskills/it-operations/it-service-manager/2-it-service-manager.md)
-
-### Role Level Focus: IT Service Manager
-
-- [ ] Define Meaningful Agreements: Write service and operational level agreements that reflect what users need.
-- [ ] Manage Multi-Sourced Support: Learn to co-ordinate internal teams and suppliers as one service.
-- [ ] Keep the Catalogue Current: Own the service catalogue and knowledge library.
-- [ ] Meet Reporting Standards: Ensure reporting is accurate, timely, and useful.
-- [ ] Govern Technical Change: Make sure change is communicated and controlled properly.
-- [ ] Run Continual Improvement: Put a real improvement programme in place, with measures.
-- [ ] Learn ITIL Depth: Build knowledge of the life cycle or capability elements of ITIL.
-- [ ] Lead People Well: Complete line manager training if you manage anyone.
-
-### Skill: Asset and configuration management
-
-- [ ] Maintain Secure Configuration: Keep configuration accurate and secure.
-- [ ] Control IT Assets: Take responsibility for assets in one or more areas.
-- [ ] Verify Location and State: Check that records match reality.
-- [ ] Automate Verification: Reduce manual auditing where tooling can do it.
-
-### Skill: Business analysis (IT operations)
-
-- [ ] Investigate Problems and Opportunities: Look into existing processes and recommend solutions.
-- [ ] Identify Objectives and Benefits: Work with stakeholders to name what success looks like.
-- [ ] Learn Analysis Technique: Study structured investigation and options appraisal.
-- [ ] Evidence Your Improvements: Show before and after data for changes you make.
-
-### Skill: IT service reporting
-
-- [ ] Produce Relevant Reports: Deliver reports in the right format and agreed timeframe.
-- [ ] Work With Stakeholders: Discuss and agree changes to reporting processes.
-- [ ] Interpret Data Sets: Explain what the data means, not just what it says.
-- [ ] Report Honestly: Include the uncomfortable numbers as well as the good ones.
-
-### Skill: Ownership and topic
-
-- [ ] Own Until Handover: Keep an issue until it is resolved or properly handed on.
-- [ ] Follow Through: Check what happened after you escalated something.
-- [ ] Be Proactive: Look for problems before users report them.
-- [ ] Make Ownership Visible: Ensure everyone knows who holds each issue.
-
-### Skill: Service focus
-
-- [ ] See the Bigger Picture: Look across groups of services to get the best from underlying components.
-- [ ] Understand Dependencies: Know which services depend on which components.
-- [ ] Set Service Standards: Define what good service looks like for your area.
-- [ ] Measure What Matters: Focus measurement on user outcomes rather than activity.
-
-### Skill: Service management framework knowledge
-
-- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
-- [ ] Know ITIL Elements: Demonstrate knowledge of the life cycle or capability elements.
-- [ ] Apply Proportionately: Use the framework where it helps and adapt where it does not.
-- [ ] Coach Others: Develop framework understanding across your team.
-
-### Skill: Stakeholder relationship management (IT operations)
-
-- [ ] Identify Important Stakeholders: Keep a current map and communicate clearly and regularly.
-- [ ] Tailor Your Communication: Adapt content and format to each stakeholder's needs.
-- [ ] Build Consensus: Move a group from disagreement to a workable shared position.
-- [ ] Use Evidence to Explain Decisions: Improve relationships by showing your reasoning.
-
-### Skill: Strategic thinking
-
-- [ ] Work Within Strategic Context: Explain how service activities meet strategic goals.
-- [ ] Contribute to Strategy: Offer real input into strategy and policy development.
-- [ ] Connect Service to Outcomes: Frame service performance in terms of business outcomes.
-- [ ] Track the Wider Landscape: Follow how service management is changing across government.
-
-### Skill: User focus
-
-- [ ] Collate User Needs Evidence: Engage with users and stakeholders to gather real evidence.
-- [ ] Define Fitting Research: Understand enough about research to define what would answer your question.
-- [ ] Use Both Kinds of Data: Combine service data with what users tell you.
-- [ ] Include Everyone: Make sure colleagues with access needs get equal service.
-
-### Skill Growth Plan: Toward Senior IT Service Manager
-
-- [ ] Review the Next Level: Read the Senior IT service manager skill descriptions and mark your gaps.
-- [ ] Work Across Platforms: Seek responsibility spanning multiple services and channels.
-- [ ] Build Analytics Skill: Learn to use data analytics to improve business performance.
-- [ ] Get Expert Certification: Work toward an expert certificate in a service management framework.

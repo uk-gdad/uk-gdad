@@ -2,10 +2,96 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Chief information security officer** role. You create an environment and culture that ensures the security of the organisation's information and technology, so it can deliver services safely. This role sits in both the Government Digital and Data profession and the Government Security profession, so your development plan should draw on both.
+
+A note on levels: the framework lists the skills for this role but marks the role level descriptors as not in use, so this checklist works from the role responsibilities and the named skills rather than from graded level statements. Treat it as a starting point and calibrate it with your board and your profession leads.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/chief-digital-and-data/chief-information-security-officer-not-in-use.md`](../../assessments/chief-digital-and-data/chief-information-security-officer-not-in-use.md)
+- Upskilling: [`upskills/chief-digital-and-data/chief-information-security-officer-not-in-use.md`](../../upskills/chief-digital-and-data/chief-information-security-officer-not-in-use.md)
+
+### Role Focus: Chief Information Security Officer
+
+- [ ] Create the Security Strategy: Write a strategy that supports both organisational and wider government security strategy.
+- [ ] Lead Implementation: Own delivery of the strategy, with visible milestones and honest reporting.
+- [ ] Evaluate Current Maturity: Assess information and cyber security maturity using a recognised framework.
+- [ ] Define the Target State: Determine the maturity the organisation actually needs, and the route to it.
+- [ ] Advise the Board on Risk: Give leaders a clear view of risk in their areas and in future plans.
+- [ ] Enable Safe Innovation: Make security an enabler of new work rather than a gate on it.
+- [ ] Prepare for Attack: Ensure the organisation can detect, respond to, and recover from cyber attack.
+- [ ] Make Crisis Management Effective: Exercise the security aspects of crisis management regularly.
+- [ ] Build Security Culture: Encourage awareness and good practice without relying on fear or blame.
+- [ ] Increase Maturity Continuously: Put in place practices that raise maturity year on year.
+
+### Skill: Capability building for digital, data and technology
+
+- [ ] Assess Security Capability: Run an honest assessment of security skills and key-person dependencies.
+- [ ] Plan the Workforce: Forecast security capability need, including supplier and contractor mix.
+- [ ] Build Career Paths: Ensure security roles have credible progression, including technical routes.
+- [ ] Grow Security Skills Broadly: Build security capability in delivery teams, not just in your own function.
+
+### Skill: Changing security culture
+
+- [ ] Measure Culture Honestly: Find ways to assess security culture that go beyond training completion rates.
+- [ ] Remove Blame: Make reporting a mistake safe, because hidden mistakes are the dangerous ones.
+- [ ] Make the Secure Path Easy: Invest in removing friction rather than adding rules.
+- [ ] Study Behaviour Change: Learn behavioural science and apply it to security awareness.
+
+### Skill: Cyber incident management
+
+- [ ] Own the Response Plan: Ensure the incident response plan exists, is current, and is understood.
+- [ ] Exercise Regularly: Run realistic exercises, including at board level.
+- [ ] Learn From Incidents: Ensure post-incident learning changes systems and standards, not just documents.
+- [ ] Build External Links: Establish working relationships with the NCSC and cross-government response colleagues.
+
+### Skill: Cyber risk management
+
+- [ ] Maintain the Risk Picture: Keep a current, honest view of cyber risk across the organisation.
+- [ ] Agree Risk Appetite: Work with the board to set explicit, usable risk appetite.
+- [ ] Apply Frameworks Proportionately: Use the Cyber Assessment Framework and similar tools without ritual.
+- [ ] Communicate Risk Well: Practise explaining cyber risk to non-technical leaders without exaggeration.
+
+### Skill: Cyber security governance
+
+- [ ] Establish Proportionate Governance: Put in place governance that improves security rather than paperwork.
+- [ ] Connect to Wider Governance: Align security governance with corporate, risk, and commercial governance.
+- [ ] Assure Third Parties: Ensure supplier and supply chain security is genuinely assessed.
+- [ ] Report to the Board: Give the board a clear, honest view of security posture.
+
+### Skill: Innovation in digital, data and technology
+
+- [ ] Enable Safe Experimentation: Create routes for teams to try new things securely.
+- [ ] Track Emerging Threats: Follow how attacker capability is changing, including in artificial intelligence.
+- [ ] Evaluate Security Technology: Assess new security tooling on evidence, including its operational cost.
+- [ ] Learn From Others: Study what other organisations have adopted and what it cost them.
+
+### Skill: Security architecture
+
+- [ ] Set Architectural Direction: Ensure coherent security architecture with named ownership.
+- [ ] Assure Major Designs: Establish how significant designs get security assurance.
+- [ ] Stay Technically Credible: Retain enough depth to test the advice you are given.
+- [ ] Champion Secure Patterns: Make secure-by-default patterns the easiest route for delivery teams.
+
+### Skill: Strategic cyber security planning
+
+- [ ] Plan Beyond the Funding Cycle: Build a plan that survives budget and leadership change.
+- [ ] Prioritise Honestly: Choose what not to do, and say so explicitly.
+- [ ] Make the Investment Case: Argue for security funding in the language finance colleagues accept.
+- [ ] Measure Progress: Define how you will know security is actually improving.
+
+### Leadership Development
+
+- [ ] Invest in Your Own Leadership: Undertake senior leadership development, and get an external coach.
+- [ ] Build Peer Networks: Meet chief information security officers in other departments and sectors.
+- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
+- [ ] Look After Yourself: This role carries sustained pressure, so protect recovery time deliberately.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,89 +189,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Chief information security officer** role. You create an environment and culture that ensures the security of the organisation's information and technology, so it can deliver services safely. This role sits in both the Government Digital and Data profession and the Government Security profession, so your development plan should draw on both.
-
-A note on levels: the framework lists the skills for this role but marks the role level descriptors as not in use, so this checklist works from the role responsibilities and the named skills rather than from graded level statements. Treat it as a starting point and calibrate it with your board and your profession leads.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/chief-digital-and-data/chief-information-security-officer-not-in-use.md`](../../assessments/chief-digital-and-data/chief-information-security-officer-not-in-use.md)
-- Upskilling: [`upskills/chief-digital-and-data/chief-information-security-officer-not-in-use.md`](../../upskills/chief-digital-and-data/chief-information-security-officer-not-in-use.md)
-
-### Role Focus: Chief Information Security Officer
-
-- [ ] Create the Security Strategy: Write a strategy that supports both organisational and wider government security strategy.
-- [ ] Lead Implementation: Own delivery of the strategy, with visible milestones and honest reporting.
-- [ ] Evaluate Current Maturity: Assess information and cyber security maturity using a recognised framework.
-- [ ] Define the Target State: Determine the maturity the organisation actually needs, and the route to it.
-- [ ] Advise the Board on Risk: Give leaders a clear view of risk in their areas and in future plans.
-- [ ] Enable Safe Innovation: Make security an enabler of new work rather than a gate on it.
-- [ ] Prepare for Attack: Ensure the organisation can detect, respond to, and recover from cyber attack.
-- [ ] Make Crisis Management Effective: Exercise the security aspects of crisis management regularly.
-- [ ] Build Security Culture: Encourage awareness and good practice without relying on fear or blame.
-- [ ] Increase Maturity Continuously: Put in place practices that raise maturity year on year.
-
-### Skill: Capability building for digital, data and technology
-
-- [ ] Assess Security Capability: Run an honest assessment of security skills and key-person dependencies.
-- [ ] Plan the Workforce: Forecast security capability need, including supplier and contractor mix.
-- [ ] Build Career Paths: Ensure security roles have credible progression, including technical routes.
-- [ ] Grow Security Skills Broadly: Build security capability in delivery teams, not just in your own function.
-
-### Skill: Changing security culture
-
-- [ ] Measure Culture Honestly: Find ways to assess security culture that go beyond training completion rates.
-- [ ] Remove Blame: Make reporting a mistake safe, because hidden mistakes are the dangerous ones.
-- [ ] Make the Secure Path Easy: Invest in removing friction rather than adding rules.
-- [ ] Study Behaviour Change: Learn behavioural science and apply it to security awareness.
-
-### Skill: Cyber incident management
-
-- [ ] Own the Response Plan: Ensure the incident response plan exists, is current, and is understood.
-- [ ] Exercise Regularly: Run realistic exercises, including at board level.
-- [ ] Learn From Incidents: Ensure post-incident learning changes systems and standards, not just documents.
-- [ ] Build External Links: Establish working relationships with the NCSC and cross-government response colleagues.
-
-### Skill: Cyber risk management
-
-- [ ] Maintain the Risk Picture: Keep a current, honest view of cyber risk across the organisation.
-- [ ] Agree Risk Appetite: Work with the board to set explicit, usable risk appetite.
-- [ ] Apply Frameworks Proportionately: Use the Cyber Assessment Framework and similar tools without ritual.
-- [ ] Communicate Risk Well: Practise explaining cyber risk to non-technical leaders without exaggeration.
-
-### Skill: Cyber security governance
-
-- [ ] Establish Proportionate Governance: Put in place governance that improves security rather than paperwork.
-- [ ] Connect to Wider Governance: Align security governance with corporate, risk, and commercial governance.
-- [ ] Assure Third Parties: Ensure supplier and supply chain security is genuinely assessed.
-- [ ] Report to the Board: Give the board a clear, honest view of security posture.
-
-### Skill: Innovation in digital, data and technology
-
-- [ ] Enable Safe Experimentation: Create routes for teams to try new things securely.
-- [ ] Track Emerging Threats: Follow how attacker capability is changing, including in artificial intelligence.
-- [ ] Evaluate Security Technology: Assess new security tooling on evidence, including its operational cost.
-- [ ] Learn From Others: Study what other organisations have adopted and what it cost them.
-
-### Skill: Security architecture
-
-- [ ] Set Architectural Direction: Ensure coherent security architecture with named ownership.
-- [ ] Assure Major Designs: Establish how significant designs get security assurance.
-- [ ] Stay Technically Credible: Retain enough depth to test the advice you are given.
-- [ ] Champion Secure Patterns: Make secure-by-default patterns the easiest route for delivery teams.
-
-### Skill: Strategic cyber security planning
-
-- [ ] Plan Beyond the Funding Cycle: Build a plan that survives budget and leadership change.
-- [ ] Prioritise Honestly: Choose what not to do, and say so explicitly.
-- [ ] Make the Investment Case: Argue for security funding in the language finance colleagues accept.
-- [ ] Measure Progress: Define how you will know security is actually improving.
-
-### Leadership Development
-
-- [ ] Invest in Your Own Leadership: Undertake senior leadership development, and get an external coach.
-- [ ] Build Peer Networks: Meet chief information security officers in other departments and sectors.
-- [ ] Grow Successors: Develop people who could take your role, and give them real exposure.
-- [ ] Look After Yourself: This role carries sustained pressure, so protect recovery time deliberately.

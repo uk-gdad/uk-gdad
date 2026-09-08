@@ -2,10 +2,77 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+Welcome! This part of the checklist is written just for you: the **Service desk manager** role at the **Service desk analyst** level in the UK GDAD PCF. You interact with customers, take calls, try to resolve queries, and know when to escalate. You are the face of IT for a lot of colleagues, so patience and clarity matter as much as technical knowledge.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/it-operations/service-desk-manager/1-service-desk-analyst.md`](../../../assessments/it-operations/service-desk-manager/1-service-desk-analyst.md)
+- Upskilling: [`upskills/it-operations/service-desk-manager/1-service-desk-analyst.md`](../../../upskills/it-operations/service-desk-manager/1-service-desk-analyst.md)
+
+### Role Level Focus: Service Desk Analyst
+
+- [ ] Learn Your Service Levels: Know what you have committed to and what breaching it means.
+- [ ] Build Question Technique: Practise the questions that get to the real problem quickly.
+- [ ] Learn the Knowledge Base: Read the articles and note what is missing or wrong.
+- [ ] Know When to Escalate: Recognise early when something is beyond your reach.
+- [ ] Practise Empathy: Learn to hear the frustration behind the request without taking it personally.
+- [ ] Learn Accessibility Support: Understand the assistive technology colleagues rely on.
+- [ ] Track Your Training: Keep a record of courses, exercises, and feedback with dates and outcomes.
+
+### Skill: Asset and configuration management
+
+- [ ] Track and Log Accurately: Keep asset and component information correct.
+- [ ] Correct What Is Wrong: Fix inaccurate records when you find them.
+- [ ] Protect Assets: Understand how accurate records support support work.
+- [ ] Learn the Tooling: Get fluent with your service management system.
+
+### Skill: Customer service management
+
+- [ ] Meet Service Levels: Resolve requests at least to the agreed service level.
+- [ ] Empathise Genuinely: Practise understanding the user's situation, not just their ticket.
+- [ ] Use Customer Metrics: Learn what your customer-focused measures actually show.
+- [ ] Handle Difficult Calls: Build the skill of staying calm when someone is upset.
+
+### Skill: IT service reporting
+
+- [ ] Produce Relevant Reports: Deliver reports in the right format and agreed timeframe.
+- [ ] Work With Stakeholders: Discuss and agree changes to reporting processes.
+- [ ] Interpret Data Sets: Explain what the data means, not just what it says.
+- [ ] Check Your Numbers: Verify reports before they go out.
+
+### Skill: Ownership and topic
+
+- [ ] Own Until Handover: Keep an issue until it is resolved or properly handed on.
+- [ ] Follow Through: Check what happened after you escalated something.
+- [ ] Be Proactive: Look for problems before users report them.
+- [ ] Close the Loop With Users: Tell people what happened, even when the answer disappoints.
+
+### Skill: Service focus
+
+- [ ] Learn the Products and Services: Show awareness of what your organisation offers.
+- [ ] Understand Dependencies: Know which services depend on which components.
+- [ ] Reduce Repeat Contacts: Notice what keeps bringing users back.
+- [ ] Measure User Experience: Find out what getting support actually feels like.
+
+### Skill: User focus
+
+- [ ] Understand User Experience Principles: Complete an introduction to user experience analysis.
+- [ ] Explain User Stories: Rewrite three in your own words, including the user need.
+- [ ] Learn What Users Need: Find out what actually stops colleagues doing their work.
+- [ ] Include Everyone: Make sure colleagues with access needs get equal support.
+
+### Skill Growth Plan: Toward Senior Service Desk Analyst
+
+- [ ] Review the Next Level: Read the Senior service desk analyst skill descriptions and mark what to build next.
+- [ ] Handle Complex Complaints: Learn to take on the difficult conversations.
+- [ ] Get Qualified: Work toward a level 3 service management framework qualification.
+- [ ] Book a Progress Review: Walk your evidence through with your mentor.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,70 +170,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-Welcome! This last part of the checklist is written just for you: the **Service desk manager** role at the **Service desk analyst** level in the UK GDAD PCF. You interact with customers, take calls, try to resolve queries, and know when to escalate. You are the face of IT for a lot of colleagues, so patience and clarity matter as much as technical knowledge.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/it-operations/service-desk-manager/1-service-desk-analyst.md`](../../../assessments/it-operations/service-desk-manager/1-service-desk-analyst.md)
-- Upskilling: [`upskills/it-operations/service-desk-manager/1-service-desk-analyst.md`](../../../upskills/it-operations/service-desk-manager/1-service-desk-analyst.md)
-
-### Role Level Focus: Service Desk Analyst
-
-- [ ] Learn Your Service Levels: Know what you have committed to and what breaching it means.
-- [ ] Build Question Technique: Practise the questions that get to the real problem quickly.
-- [ ] Learn the Knowledge Base: Read the articles and note what is missing or wrong.
-- [ ] Know When to Escalate: Recognise early when something is beyond your reach.
-- [ ] Practise Empathy: Learn to hear the frustration behind the request without taking it personally.
-- [ ] Learn Accessibility Support: Understand the assistive technology colleagues rely on.
-- [ ] Track Your Training: Keep a record of courses, exercises, and feedback with dates and outcomes.
-
-### Skill: Asset and configuration management
-
-- [ ] Track and Log Accurately: Keep asset and component information correct.
-- [ ] Correct What Is Wrong: Fix inaccurate records when you find them.
-- [ ] Protect Assets: Understand how accurate records support support work.
-- [ ] Learn the Tooling: Get fluent with your service management system.
-
-### Skill: Customer service management
-
-- [ ] Meet Service Levels: Resolve requests at least to the agreed service level.
-- [ ] Empathise Genuinely: Practise understanding the user's situation, not just their ticket.
-- [ ] Use Customer Metrics: Learn what your customer-focused measures actually show.
-- [ ] Handle Difficult Calls: Build the skill of staying calm when someone is upset.
-
-### Skill: IT service reporting
-
-- [ ] Produce Relevant Reports: Deliver reports in the right format and agreed timeframe.
-- [ ] Work With Stakeholders: Discuss and agree changes to reporting processes.
-- [ ] Interpret Data Sets: Explain what the data means, not just what it says.
-- [ ] Check Your Numbers: Verify reports before they go out.
-
-### Skill: Ownership and topic
-
-- [ ] Own Until Handover: Keep an issue until it is resolved or properly handed on.
-- [ ] Follow Through: Check what happened after you escalated something.
-- [ ] Be Proactive: Look for problems before users report them.
-- [ ] Close the Loop With Users: Tell people what happened, even when the answer disappoints.
-
-### Skill: Service focus
-
-- [ ] Learn the Products and Services: Show awareness of what your organisation offers.
-- [ ] Understand Dependencies: Know which services depend on which components.
-- [ ] Reduce Repeat Contacts: Notice what keeps bringing users back.
-- [ ] Measure User Experience: Find out what getting support actually feels like.
-
-### Skill: User focus
-
-- [ ] Understand User Experience Principles: Complete an introduction to user experience analysis.
-- [ ] Explain User Stories: Rewrite three in your own words, including the user need.
-- [ ] Learn What Users Need: Find out what actually stops colleagues doing their work.
-- [ ] Include Everyone: Make sure colleagues with access needs get equal support.
-
-### Skill Growth Plan: Toward Senior Service Desk Analyst
-
-- [ ] Review the Next Level: Read the Senior service desk analyst skill descriptions and mark what to build next.
-- [ ] Handle Complex Complaints: Learn to take on the difficult conversations.
-- [ ] Get Qualified: Work toward a level 3 service management framework qualification.
-- [ ] Book a Progress Review: Walk your evidence through with your mentor.

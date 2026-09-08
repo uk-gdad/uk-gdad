@@ -45,21 +45,20 @@ in the project specification for what this rules out.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well the person does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Evaluation planning and
 strategy:
 
-- **3 — Advanced**: they set the evaluation strategy for a single, complex product
+- **3 — Practitioner**: they set the evaluation strategy for a single, complex product
   group unsupported.
 - **4 — Expert**: they influenced the organisation's most senior stakeholders to secure
   resources for evaluation across several products at once, coached lead and senior
@@ -121,11 +120,10 @@ altitude, for the most senior audiences the organisation has, is the essence of 
 
 **Behavioural indicators**
 
-- 0 — None: has not made a strategic recommendation from evaluation evidence.
-- 1 — Beginner: has drafted part of a strategic communication with close direction.
-- 2 — Intermediate: communicates tactical recommendations independently but needs
+- 1 — Awareness: has drafted part of a strategic communication with close direction.
+- 2 — Working: communicates tactical recommendations independently but needs
   support framing a strategic one.
-- 3 — Advanced: independently communicates compelling stories and gives both tactical
+- 3 — Practitioner: independently communicates compelling stories and gives both tactical
   and strategic recommendations for a single area.
 - 4 — Expert: is trusted to represent the whole evaluation community's findings and
   recommendations to the organisation's most senior stakeholders, and coaches lead and
@@ -142,10 +140,9 @@ altitude, for the most senior audiences the organisation has, is the essence of 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -168,10 +165,9 @@ through influence is expert, teach-and-guide-others work.
 
 **Behavioural indicators**
 
-- 0 — None: has not owned a data ethics framework or compliance area.
-- 1 — Beginner: has followed an ethical framework someone else owns.
-- 2 — Intermediate: has contributed changes to an ethical framework with guidance.
-- 3 — Advanced: independently oversees compliance with data ethics standards and
+- 1 — Awareness: has followed an ethical framework someone else owns.
+- 2 — Working: has contributed changes to an ethical framework with guidance.
+- 3 — Practitioner: independently oversees compliance with data ethics standards and
   legislation for a defined area.
 - 4 — Expert: develops, manages and improves an organisation-wide ethical framework,
   has changed how colleagues act through influence, and ensures ethics is built into
@@ -188,10 +184,9 @@ through influence is expert, teach-and-guide-others work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -217,11 +212,9 @@ all teach-and-guide-others, organisation-wide responsibilities.
 
 **Behavioural indicators**
 
-- 0 — None: has not assured another team's evaluation work or coached anyone on
-  technique.
-- 1 — Beginner: has followed evaluation guidance someone else wrote.
-- 2 — Intermediate: has provided evaluation guidance to one colleague, with support.
-- 3 — Advanced: independently assures another team's evaluation work and provides
+- 1 — Awareness: has followed evaluation guidance someone else wrote.
+- 2 — Working: has provided evaluation guidance to one colleague, with support.
+- 3 — Practitioner: independently assures another team's evaluation work and provides
   guidance on technique.
 - 4 — Expert: assures the evaluation work of digital evaluator teams across the
   organisation, defines best practice and methodologies that are shared across teams,
@@ -239,10 +232,9 @@ all teach-and-guide-others, organisation-wide responsibilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -265,10 +257,9 @@ alone, is Expert-level, organisation-wide work.
 
 **Behavioural indicators**
 
-- 0 — None: has not influenced senior stakeholders to secure evaluation resources.
-- 1 — Beginner: has helped present a resourcing case someone else built.
-- 2 — Intermediate: has secured resources for a single evaluation, with support.
-- 3 — Advanced: independently secures resources and sets strategy for a group of
+- 1 — Awareness: has helped present a resourcing case someone else built.
+- 2 — Working: has secured resources for a single evaluation, with support.
+- 3 — Practitioner: independently secures resources and sets strategy for a group of
   products or services.
 - 4 — Expert: influences the organisation's most senior stakeholders on evaluation
   resourcing, ensures evaluation plans across the organisation meet quality standards,
@@ -285,10 +276,9 @@ alone, is Expert-level, organisation-wide work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -313,12 +303,10 @@ broadest scope this skill reaches.
 
 **Behavioural indicators**
 
-- 0 — None: has not identified an improvement to how the organisation approaches
-  monitoring and evaluation across the life cycle.
-- 1 — Beginner: has flagged a life cycle risk to someone more senior.
-- 2 — Intermediate: has raised a risk and suggested an improvement for one team's
+- 1 — Awareness: has flagged a life cycle risk to someone more senior.
+- 2 — Working: has raised a risk and suggested an improvement for one team's
   approach, with support.
-- 3 — Advanced: independently identifies and raises risks, and improves the approach
+- 3 — Practitioner: independently identifies and raises risks, and improves the approach
   for their own team, across life cycle phases.
 - 4 — Expert: leads and champions best practice for monitoring and evaluation across
   the organisation, identifies risks at any stage of any product's life cycle, and
@@ -334,10 +322,9 @@ broadest scope this skill reaches.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -360,11 +347,10 @@ work.
 
 **Behavioural indicators**
 
-- 0 — None: has not defined a methodology for others to follow.
-- 1 — Beginner: has followed a theory of change methodology someone else defined.
-- 2 — Intermediate: has provided guidance on developing a theory of change to one
+- 1 — Awareness: has followed a theory of change methodology someone else defined.
+- 2 — Working: has provided guidance on developing a theory of change to one
   colleague, with support.
-- 3 — Advanced: independently provides guidance on developing theories of change and
+- 3 — Practitioner: independently provides guidance on developing theories of change and
   measurement approaches to others.
 - 4 — Expert: defines the best practice and methodology the organisation uses for
   measuring indicators, including economic outcomes, and has secured senior stakeholder
@@ -381,10 +367,9 @@ work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -406,10 +391,9 @@ others in the practice is squarely the "teach or guide others" definition of Exp
 
 **Behavioural indicators**
 
-- 0 — None: has not set up an assurance tool or system used by more than one team.
-- 1 — Beginner: has followed an assurance system someone else set up.
-- 2 — Intermediate: has contributed to an assurance system across teams with guidance.
-- 3 — Advanced: independently verifies and validates data and analysis for their own
+- 1 — Awareness: has followed an assurance system someone else set up.
+- 2 — Working: has contributed to an assurance system across teams with guidance.
+- 3 — Practitioner: independently verifies and validates data and analysis for their own
   team.
 - 4 — Expert: sets up tools and systems that assure data and analysis across multiple
   teams, influences senior stakeholders on data and analysis approaches, and defines
@@ -426,10 +410,9 @@ others in the practice is squarely the "teach or guide others" definition of Exp
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

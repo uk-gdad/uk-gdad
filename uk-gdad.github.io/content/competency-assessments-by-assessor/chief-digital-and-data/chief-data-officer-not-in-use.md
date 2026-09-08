@@ -71,15 +71,14 @@ the sensitive content itself.
 
 ## Rating scale
 
-Every skill in this record is rated on the same five-point scale:
+Every skill in this record is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
@@ -88,10 +87,10 @@ describe the person's actual, observed practice rather than to compare that
 practice against a target.
 
 **A worked example**, using Strategic data planning, one of the six skills
-this role names. Evidence at 1 — Beginner might be a candidate who can explain
+this role names. Evidence at 1 — Awareness might be a candidate who can explain
 what a data strategy is and why the organisation needs one, but has never
 written or led one — a graduate trainee's placement report, say, rather than
-anything they were accountable for. Evidence at 3 — Advanced might be a data
+anything they were accountable for. Evidence at 3 — Practitioner might be a data
 strategy document the candidate wrote and led the implementation of for a
 mid-sized organisation, with senior leaders they can name as having secured
 support from. Evidence at 4 — Expert might be a data strategy that
@@ -148,17 +147,14 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has built data or digital
-  capability in others — no coaching relationship, no capability programme,
-  no example of raising a team's or an organisation's data literacy.
-- 1 — Beginner: The person can describe what building data capability
+- 1 — Awareness: The person can describe what building data capability
   involves, but the evidence shows only informal, occasional help to
   individual colleagues rather than a deliberate capability effort.
-- 2 — Intermediate: The person has run or contributed to a capability
+- 2 — Working: The person has run or contributed to a capability
   activity — a data literacy programme, a coaching relationship with a
   specific junior colleague, a recruitment or upskilling plan — with support
   from a learning and development function or a more senior sponsor.
-- 3 — Advanced: The person has independently designed and delivered an
+- 3 — Practitioner: The person has independently designed and delivered an
   organisation-wide effort to raise data literacy or close a data skills gap,
   can describe how they measured whether it worked, and can point to people
   whose capability grew because of it.
@@ -178,10 +174,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -192,16 +187,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: The person cannot describe the organisation's data architecture,
-  and has no evidence of having made or influenced a decision about what data
-  technology an organisation needs or how it should be sourced.
-- 1 — Beginner: The person can talk about data architecture in general terms
+- 1 — Awareness: The person can talk about data architecture in general terms
   — platforms, sourcing models, interoperability — but has not been
   accountable for a real architecture decision.
-- 2 — Intermediate: The person has contributed to a decision about the data
+- 2 — Working: The person has contributed to a decision about the data
   or data technology an organisation needs, working alongside specialist data
   architects, and can explain the reasoning behind at least one such decision.
-- 3 — Advanced: The person has independently determined what data and data
+- 3 — Practitioner: The person has independently determined what data and data
   technology an organisation needs and set a sourcing strategy for it, and can
   explain how that architecture makes data easier to use, reuse and share
   across the organisation.
@@ -221,10 +213,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -235,17 +226,14 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: The person shows no evidence of having led or shaped how an
-  organisation governs its data — no policy, no board, no accountable
-  ownership structure they were responsible for.
-- 1 — Beginner: The person understands why data governance matters and can
+- 1 — Awareness: The person understands why data governance matters and can
   describe common governance structures, but has only followed governance set
   by others rather than led it.
-- 2 — Intermediate: The person has led a specific governance activity — for
+- 2 — Working: The person has led a specific governance activity — for
   example, establishing accountable ownership for a data set, or chairing a
   data governance forum — with support from legal, compliance or a data
   protection officer.
-- 3 — Advanced: The person has independently ensured, across a whole
+- 3 — Practitioner: The person has independently ensured, across a whole
   organisation, that data use is compliant with data standards and
   regulations and can point to a specific improvement in governance maturity
   they drove, from diagnosis to change.
@@ -265,10 +253,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -279,15 +266,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: The person cannot name a data risk they have owned or mitigated,
-  and shows no evidence of working with a cyber security or risk function.
-- 1 — Beginner: The person can describe data risk concepts — accessibility
+- 1 — Awareness: The person can describe data risk concepts — accessibility
   versus control, for example — but has not personally been accountable for
   managing a data risk.
-- 2 — Intermediate: The person has worked with cyber security or a risk
+- 2 — Working: The person has worked with cyber security or a risk
   function to manage a specific data risk, with support, and can describe the
   trade-off between keeping data secure and keeping it accessible.
-- 3 — Advanced: The person independently works with cyber security to ensure
+- 3 — Practitioner: The person independently works with cyber security to ensure
   data stays secure while remaining accessible and controllable, can describe
   a risk they accepted, mitigated or escalated, and the reasoning behind that
   choice.
@@ -308,10 +293,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -322,15 +306,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: The person shows no evidence of having introduced a new way of
-  working with data, and cannot describe an occasion where they balanced
-  innovation against data protection and privacy.
-- 1 — Beginner: The person can describe examples of data innovation elsewhere,
+- 1 — Awareness: The person can describe examples of data innovation elsewhere,
   but has no example of having enabled one themselves.
-- 2 — Intermediate: The person has supported a data innovation — a new
+- 2 — Working: The person has supported a data innovation — a new
   technique, tool or way of sharing data — introduced by someone else, and
   can describe what made it work or fail.
-- 3 — Advanced: The person has independently enabled a specific data
+- 3 — Practitioner: The person has independently enabled a specific data
   innovation in their organisation, and can describe how they balanced it
   against data protection, privacy and the organisation's appetite for risk.
 - 4 — Expert: The person's approach to data innovation has demonstrably
@@ -349,10 +330,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -363,15 +343,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: The person has no evidence of having written or led a data
-  strategy, and cannot describe how a data strategy should align with an
-  organisation's wider objectives.
-- 1 — Beginner: The person can explain what a data strategy is and why an
+- 1 — Awareness: The person can explain what a data strategy is and why an
   organisation needs one, but has never written or led one themselves.
-- 2 — Intermediate: The person has contributed to a data strategy, with
+- 2 — Working: The person has contributed to a data strategy, with
   support from a more senior sponsor, and can describe how it aligned with
   the organisation's objectives.
-- 3 — Advanced: The person has independently defined a vision and strategy
+- 3 — Practitioner: The person has independently defined a vision and strategy
   for data that aligns with wider government data strategy, led its
   implementation, and can name senior leaders whose support they secured for
   it.
@@ -390,10 +367,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

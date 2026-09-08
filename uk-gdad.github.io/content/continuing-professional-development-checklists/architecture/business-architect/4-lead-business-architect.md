@@ -2,10 +2,94 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Business architect** role at the **Lead business architect** level. You are accountable for the outputs of the business architecture team, you direct the application of architectural principles and methods to high level and complex scenarios, you work with executive stakeholders, and you develop the capability through coaching, mentoring, and training. Your development is now about enterprise-level judgement and the health of the profession you lead.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/architecture/business-architect/4-lead-business-architect.md`](../../../assessments/architecture/business-architect/4-lead-business-architect.md)
+- Upskilling: [`upskills/architecture/business-architect/4-lead-business-architect.md`](../../../upskills/architecture/business-architect/4-lead-business-architect.md)
+
+### Role Level Focus: Lead Business Architect
+
+- [ ] Own Team Outputs: Take genuine accountability for the quality of everything the team publishes.
+- [ ] Direct Method Application: Set how principles, methods, and tools are applied to complex scenarios.
+- [ ] Form the Whole-Enterprise View: Maintain a view of the whole enterprise that stakeholders can actually follow.
+- [ ] Work at Executive Level: Build standing relationships with executive stakeholders, not just meeting-by-meeting ones.
+- [ ] Provide Overall Direction: Publish the definition and direction of business architecture in your organisation.
+- [ ] Develop Capability: Run coaching, mentoring, and training that measurably raises team capability.
+- [ ] Grow Successors: Identify and develop people who could take your role.
+- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles well enough to shape them.
+
+### Skill: Business architecture
+
+- [ ] Simplify Frameworks Into Actions: Turn heavyweight frameworks into a small number of clear, usable actions.
+- [ ] Develop Organisational Maturity: Build maturity deliberately, such as through a community of practice.
+- [ ] Lead on Best Practice: Guide others in industry standards and where to deviate from them sensibly.
+- [ ] Identify Strategic Misalignment: Find where the organisation's structure and strategy do not match, and recommend improvement.
+- [ ] Benchmark Externally: Compare your architecture practice with peers in other organisations.
+
+### Skill: Communicating information
+
+- [ ] Mediate and Mend Relationships: Use mediation skill where relationships between areas have broken down.
+- [ ] Communicate at All Levels: Move between operational, board, and public audiences without losing accuracy.
+- [ ] Host High-Risk Discussions: Facilitate discussions of high risk and complexity within constrained timescales.
+- [ ] Represent the Community: Speak for your community to large audiences inside and outside government.
+
+### Skill: Consultancy
+
+- [ ] Advise From Significant Experience: Bring deep pattern knowledge to the organisation's hardest questions.
+- [ ] Lead Guidance Definition: Own how the organisation approaches delivery and uses digital and data skills.
+- [ ] Build Advisory Capability: Develop consulting skill in your team rather than being the only trusted adviser.
+- [ ] Close Engagements Well: Ensure the organisation can sustain change after the architects leave.
+
+### Skill: Making and guiding decisions
+
+- [ ] Make Medium-Risk Decisions: Own decisions of medium risk and complexity, and record the reasoning.
+- [ ] Recommend on Higher Risk: Frame recommendations sharply when the decision sits with executives.
+- [ ] Build Consensus: Create agreement between services and independent stakeholders.
+- [ ] Develop Decision Capability: Coach others to make and record decisions well.
+
+### Skill: Methods and tools
+
+- [ ] Set Direction on Methods: Define the methodologies and tools, and give others the authority to advise on them.
+- [ ] Ensure Consistent Adoption: Make sure the chosen approaches are actually used across teams.
+- [ ] Assess Approach Effectiveness: Evaluate Agile and plan-driven approaches honestly for each context.
+- [ ] Build Collaboration Capability: Recommend tools that genuinely improve organisational collaboration.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
+- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
+- [ ] Influence and Negotiate Senior Stakeholders: Resolve issues at senior level to enable progress.
+- [ ] Manage Political Complexity: Learn to work effectively where interests are genuinely opposed.
+
+### Skill: Strategic design and business change
+
+- [ ] Understand Business Impact Deeply: Show strong grasp of business issues and their long-term impact.
+- [ ] Define Principles and Patterns: Own the principles, patterns, standards, policies, roadmaps, and vision statements.
+- [ ] Focus Relentlessly on Outcomes: Hold the organisation to outcomes rather than activity.
+- [ ] Update Strategy From Findings: Maintain strategy as a living thing that responds to evidence.
+- [ ] Lead Business Change: Study and apply change leadership, including the human side of transition.
+
+### Skill: Strategic thinking
+
+- [ ] Define Strategies and Policies: Own strategy and policy definition, and guide others on working within it.
+- [ ] Evaluate Current Strategies: Assess whether strategies meet and exceed business requirements, honestly.
+- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version an executive will actually read.
+- [ ] Align With Government Direction: Track wider government strategy and align your organisation's direction.
+
+### Skill Growth Plan: Beyond Lead Business Architect
+
+- [ ] Review Adjacent Roles: Read the enterprise architect and head of profession descriptions.
+- [ ] Broaden Beyond Architecture: Deepen your policy, commercial, and finance knowledge.
+- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance or investment boards.
+- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,87 +187,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Business architect** role at the **Lead business architect** level. You are accountable for the outputs of the business architecture team, you direct the application of architectural principles and methods to high level and complex scenarios, you work with executive stakeholders, and you develop the capability through coaching, mentoring, and training. Your development is now about enterprise-level judgement and the health of the profession you lead.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/architecture/business-architect/4-lead-business-architect.md`](../../../assessments/architecture/business-architect/4-lead-business-architect.md)
-- Upskilling: [`upskills/architecture/business-architect/4-lead-business-architect.md`](../../../upskills/architecture/business-architect/4-lead-business-architect.md)
-
-### Role Level Focus: Lead Business Architect
-
-- [ ] Own Team Outputs: Take genuine accountability for the quality of everything the team publishes.
-- [ ] Direct Method Application: Set how principles, methods, and tools are applied to complex scenarios.
-- [ ] Form the Whole-Enterprise View: Maintain a view of the whole enterprise that stakeholders can actually follow.
-- [ ] Work at Executive Level: Build standing relationships with executive stakeholders, not just meeting-by-meeting ones.
-- [ ] Provide Overall Direction: Publish the definition and direction of business architecture in your organisation.
-- [ ] Develop Capability: Run coaching, mentoring, and training that measurably raises team capability.
-- [ ] Grow Successors: Identify and develop people who could take your role.
-- [ ] Learn Government Finance: Understand business cases, spend controls, and funding cycles well enough to shape them.
-
-### Skill: Business architecture
-
-- [ ] Simplify Frameworks Into Actions: Turn heavyweight frameworks into a small number of clear, usable actions.
-- [ ] Develop Organisational Maturity: Build maturity deliberately, such as through a community of practice.
-- [ ] Lead on Best Practice: Guide others in industry standards and where to deviate from them sensibly.
-- [ ] Identify Strategic Misalignment: Find where the organisation's structure and strategy do not match, and recommend improvement.
-- [ ] Benchmark Externally: Compare your architecture practice with peers in other organisations.
-
-### Skill: Communicating information
-
-- [ ] Mediate and Mend Relationships: Use mediation skill where relationships between areas have broken down.
-- [ ] Communicate at All Levels: Move between operational, board, and public audiences without losing accuracy.
-- [ ] Host High-Risk Discussions: Facilitate discussions of high risk and complexity within constrained timescales.
-- [ ] Represent the Community: Speak for your community to large audiences inside and outside government.
-
-### Skill: Consultancy
-
-- [ ] Advise From Significant Experience: Bring deep pattern knowledge to the organisation's hardest questions.
-- [ ] Lead Guidance Definition: Own how the organisation approaches delivery and uses digital and data skills.
-- [ ] Build Advisory Capability: Develop consulting skill in your team rather than being the only trusted adviser.
-- [ ] Close Engagements Well: Ensure the organisation can sustain change after the architects leave.
-
-### Skill: Making and guiding decisions
-
-- [ ] Make Medium-Risk Decisions: Own decisions of medium risk and complexity, and record the reasoning.
-- [ ] Recommend on Higher Risk: Frame recommendations sharply when the decision sits with executives.
-- [ ] Build Consensus: Create agreement between services and independent stakeholders.
-- [ ] Develop Decision Capability: Coach others to make and record decisions well.
-
-### Skill: Methods and tools
-
-- [ ] Set Direction on Methods: Define the methodologies and tools, and give others the authority to advise on them.
-- [ ] Ensure Consistent Adoption: Make sure the chosen approaches are actually used across teams.
-- [ ] Assess Approach Effectiveness: Evaluate Agile and plan-driven approaches honestly for each context.
-- [ ] Build Collaboration Capability: Recommend tools that genuinely improve organisational collaboration.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Direct the Relationship Strategy: Own the stakeholder relationship strategy for your teams.
-- [ ] Set Stakeholder Objectives: Ensure objectives are agreed and support teams to meet them.
-- [ ] Influence and Negotiate Senior Stakeholders: Resolve issues at senior level to enable progress.
-- [ ] Manage Political Complexity: Learn to work effectively where interests are genuinely opposed.
-
-### Skill: Strategic design and business change
-
-- [ ] Understand Business Impact Deeply: Show strong grasp of business issues and their long-term impact.
-- [ ] Define Principles and Patterns: Own the principles, patterns, standards, policies, roadmaps, and vision statements.
-- [ ] Focus Relentlessly on Outcomes: Hold the organisation to outcomes rather than activity.
-- [ ] Update Strategy From Findings: Maintain strategy as a living thing that responds to evidence.
-- [ ] Lead Business Change: Study and apply change leadership, including the human side of transition.
-
-### Skill: Strategic thinking
-
-- [ ] Define Strategies and Policies: Own strategy and policy definition, and guide others on working within it.
-- [ ] Evaluate Current Strategies: Assess whether strategies meet and exceed business requirements, honestly.
-- [ ] Learn Strategy Craft: Study strategy seriously, and practise the version an executive will actually read.
-- [ ] Align With Government Direction: Track wider government strategy and align your organisation's direction.
-
-### Skill Growth Plan: Beyond Lead Business Architect
-
-- [ ] Review Adjacent Roles: Read the enterprise architect and head of profession descriptions.
-- [ ] Broaden Beyond Architecture: Deepen your policy, commercial, and finance knowledge.
-- [ ] Take Corporate Responsibility: Volunteer for organisation-wide roles such as assurance or investment boards.
-- [ ] Invest in Your Own Leadership: Undertake formal senior leadership development, and get an external coach.

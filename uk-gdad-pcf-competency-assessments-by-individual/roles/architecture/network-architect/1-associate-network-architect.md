@@ -49,24 +49,23 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 proficiency scale — how well someone does the thing, on the evidence
 available, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example.** Take Skill: IT infrastructure. At 1 — Beginner, someone can describe how to configure a switch port or a firewall rule with
+**Worked example.** Take Skill: IT infrastructure. At 1 — Awareness, someone can describe how to configure a switch port or a firewall rule with
 someone checking their work step by step, but has not done it unsupervised. At
-2 — Intermediate, the baseline for this level, they have built, configured or
+2 — Working, the baseline for this level, they have built, configured or
 supported a piece of infrastructure themselves — a test-lab network segment, a
 supported production change — with a senior colleague available to check in
-on but not directing every step. At 3 — Advanced, they have administered and
+on but not directing every step. At 3 — Practitioner, they have administered and
 supported infrastructure independently across a change window without needing
 a colleague to intervene. Calibrate against evidence like this before you
 start scoring.
@@ -114,21 +113,19 @@ senior is supervising them.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording caps this skill at
+Baseline: 1 — Awareness. The framework's own wording caps this skill at
 explaining and following-under-supervision; nothing here asks someone to
-run a process unassisted, so a baseline above Beginner would be asking for
+run a process unassisted, so a baseline above Awareness would be asking for
 more than the level requires.
 
 **Behavioural indicators**
 
-- 0 — None: cannot say why a design needs sign-off or what a governance gate
-  is for.
-- 1 — Beginner: can explain in their own words why a change goes through a
+- 1 — Awareness: can explain in their own words why a change goes through a
   design review or an assurance gate, and follows the steps of a governance
   process when someone more senior checks their work.
-- 2 — Intermediate: follows a governance or assurance process correctly with
+- 2 — Working: follows a governance or assurance process correctly with
   only occasional prompting, and can flag when a step has been missed.
-- 3 — Advanced: runs a governance or assurance step unsupervised and spots
+- 3 — Practitioner: runs a governance or assurance step unsupervised and spots
   where the process itself does not fit the change in front of them.
 - 4 — Expert: designs or improves a governance process and coaches others
   through it.
@@ -144,10 +141,9 @@ more than the level requires.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -163,20 +159,18 @@ packages and solutions, or virtual and cloud computing.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a hands-on operational skill the
+Baseline: 2 — Working. This is a hands-on operational skill the
 framework expects someone to already be doing, not merely learning about,
-so the baseline sits above Beginner; but it is one skill among several they
-are still developing, so it stops short of Advanced.
+so the baseline sits above Awareness; but it is one skill among several they
+are still developing, so it stops short of Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: has not built, configured or supported any infrastructure
-  component.
-- 1 — Beginner: has configured a component — a switch port, a virtual
+- 1 — Awareness: has configured a component — a switch port, a virtual
   machine, a cloud resource — with someone checking each step.
-- 2 — Intermediate: has built, configured or supported infrastructure
+- 2 — Working: has built, configured or supported infrastructure
   themselves, with a senior colleague available but not directing every step.
-- 3 — Advanced: administers and supports infrastructure independently across
+- 3 — Practitioner: administers and supports infrastructure independently across
   a full change window without needing a colleague to intervene.
 - 4 — Expert: designs infrastructure standards others build to, and is someone colleagues escalate a hard infrastructure problem to.
 
@@ -193,10 +187,9 @@ are still developing, so it stops short of Advanced.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -214,7 +207,7 @@ patterns.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Producing detailed designs and documenting them
+Baseline: 2 — Working. Producing detailed designs and documenting them
 to a standard is real design work, not an introductory task, but it is
 explicitly scoped to well understood technology and managed risk — the
 guard-rails that keep this below the independent, higher-risk design work
@@ -222,13 +215,12 @@ expected one level up.
 
 **Behavioural indicators**
 
-- 0 — None: cannot translate a logical design into a workable physical one.
-- 1 — Beginner: can produce a physical design from a logical one with close
+- 1 — Awareness: can produce a physical design from a logical one with close
   review of every stage.
-- 2 — Intermediate: independently turns a logical design into a documented
+- 2 — Working: independently turns a logical design into a documented
   physical design for a well understood, managed-risk system, using the
   required standards and templates.
-- 3 — Advanced: produces designs for systems of medium complexity or risk
+- 3 — Practitioner: produces designs for systems of medium complexity or risk
   without close supervision, and identifies which established pattern fits a
   new problem.
 - 4 — Expert: sets the design standards other network architects work to, and
@@ -245,10 +237,9 @@ expected one level up.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -263,20 +254,19 @@ testing interfaces between systems.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own verbs here — explain, describe —
+Baseline: 1 — Awareness. The framework's own verbs here — explain, describe —
 ask for understanding, not for someone to run an integration themselves;
 that hands-on ownership arrives at the next level up, where the framework
 asks the network architect to define and coordinate integration builds.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what "integrating two systems" involves.
-- 1 — Beginner: explains, when asked, the basic process of integrating
+- 1 — Awareness: explains, when asked, the basic process of integrating
   systems and can name one or two challenges of building and testing an
   interface between them.
-- 2 — Intermediate: explains integration principles unprompted and links them
+- 2 — Working: explains integration principles unprompted and links them
   to a real example from their own work or study.
-- 3 — Advanced: has taken part in planning or testing a real system
+- 3 — Practitioner: has taken part in planning or testing a real system
   integration and can describe what went wrong and why.
 - 4 — Expert: has led the definition and coordination of an integration build
   across systems.
@@ -292,10 +282,9 @@ asks the network architect to define and coordinate integration builds.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -309,20 +298,19 @@ different technology capabilities.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Troubleshooting is a practical skill this level
+Baseline: 2 — Working. Troubleshooting is a practical skill this level
 is expected to already exercise day to day, across more than one technology
-area, so the baseline sits above Beginner even though someone is still
+area, so the baseline sits above Awareness even though someone is still
 working under guidance overall.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe an approach to diagnosing a fault.
-- 1 — Beginner: follows a runbook or a colleague's direction to diagnose a
+- 1 — Awareness: follows a runbook or a colleague's direction to diagnose a
   known type of fault.
-- 2 — Intermediate: diagnoses a fault in a familiar technology area
+- 2 — Working: diagnoses a fault in a familiar technology area
   unassisted, and asks the right questions when the fault spans an area they
   know less well.
-- 3 — Advanced: diagnoses faults confidently across several different
+- 3 — Practitioner: diagnoses faults confidently across several different
   technology capabilities without needing a colleague's direction.
 - 4 — Expert: is someone others escalate to when a fault has resisted
   diagnosis, and teaches a structured troubleshooting approach.
@@ -337,10 +325,9 @@ working under guidance overall.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -349,11 +336,11 @@ working under guidance overall.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | ---: | --- | --- |
-| Governance and assurance | 1 — Beginner | | |
-| IT infrastructure | 2 — Intermediate | | |
-| Systems design | 2 — Intermediate | | |
-| Systems integration | 1 — Beginner | | |
-| Troubleshooting and problem resolution | 2 — Intermediate | | |
+| Governance and assurance | 1 — Awareness | | |
+| IT infrastructure | 2 — Working | | |
+| Systems design | 2 — Working | | |
+| Systems integration | 1 — Awareness | | |
+| Troubleshooting and problem resolution | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

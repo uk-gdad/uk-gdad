@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -52,14 +51,13 @@ The framework expects a senior operations analyst to maintain secure configurati
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is a step up in wording from "track, log and correct" at the level below, describing active independent maintenance rather than supported administration, matching Intermediate.
+Baseline: 2 — Working. This is a step up in wording from "track, log and correct" at the level below, describing active independent maintenance rather than supported administration, matching Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a configuration record is for.
-- 1 — Beginner: Updates a configuration record accurately only with checking.
-- 2 — Intermediate: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state.
-- 3 — Advanced: Proactively catches and corrects configuration discrepancies across more than one area.
+- 1 — Awareness: Updates a configuration record accurately only with checking.
+- 2 — Working: Maintains accurate configuration and asset records for their own area unprompted, and periodically verifies location and state.
+- 3 — Practitioner: Proactively catches and corrects configuration discrepancies across more than one area.
 - 4 — Expert: Owns configuration accuracy for the operations centre.
 
 **Evidence to gather**
@@ -68,10 +66,9 @@ Baseline: 2 — Intermediate. This is a step up in wording from "track, log and 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -84,14 +81,13 @@ The framework expects a senior operations analyst to manage service components s
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Managing components against a KPI, including through monitor checks and on-call notification handling, is applied working-level practice at this level, matching Intermediate.
+Baseline: 2 — Working. Managing components against a KPI, including through monitor checks and on-call notification handling, is applied working-level practice at this level, matching Working.
 
 **Behavioural indicators**
 
-- 0 — None: Does not know what availability or capacity KPIs apply to the services they monitor.
-- 1 — Beginner: Reads KPI figures but needs help interpreting them.
-- 2 — Intermediate: Detects notifications and conducts monitor checks unprompted, taking routine action to keep KPIs within target.
-- 3 — Advanced: Spots capacity or availability trends before they breach KPIs and acts pre-emptively, including out of hours.
+- 1 — Awareness: Reads KPI figures but needs help interpreting them.
+- 2 — Working: Detects notifications and conducts monitor checks unprompted, taking routine action to keep KPIs within target.
+- 3 — Practitioner: Spots capacity or availability trends before they breach KPIs and acts pre-emptively, including out of hours.
 - 4 — Expert: Sets availability and capacity monitoring standards for the team.
 
 **Evidence to gather**
@@ -101,10 +97,9 @@ Baseline: 2 — Intermediate. Managing components against a KPI, including throu
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -117,14 +112,13 @@ The framework expects a senior operations analyst to analyse and assess the impa
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Analyse and assess" independently, without the "under supervision" language used at the level below, marks a step up matching Intermediate working practice.
+Baseline: 2 — Working. "Analyse and assess" independently, without the "under supervision" language used at the level below, marks a step up matching Working working practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how to assess the impact of a proposed change.
-- 1 — Beginner: Documents a change request only with someone checking the impact assessment.
-- 2 — Intermediate: Assesses change impact and actions changes correctly, with occasional guidance on complex cases.
-- 3 — Advanced: Analyses and assesses change impact independently, including changes affecting monitored services.
+- 1 — Awareness: Documents a change request only with someone checking the impact assessment.
+- 2 — Working: Assesses change impact and actions changes correctly, with occasional guidance on complex cases.
+- 3 — Practitioner: Analyses and assesses change impact independently, including changes affecting monitored services.
 - 4 — Expert: Sets the standard others follow for change impact assessment in the operations centre.
 
 **Evidence to gather**
@@ -133,10 +127,9 @@ Baseline: 2 — Intermediate. "Analyse and assess" independently, without the "u
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -149,14 +142,13 @@ The framework expects a senior operations analyst to contribute to the work of o
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Works in isolation and does not contribute to how the team operates.
-- 1 — Beginner: Contributes to the work of others when asked, particularly during a shift handover.
-- 2 — Intermediate: Actively helps create a good working environment for the team, including across shifts.
-- 3 — Advanced: Motivates and empowers colleagues and helps identify the best team makeup for a given monitoring situation.
+- 1 — Awareness: Contributes to the work of others when asked, particularly during a shift handover.
+- 2 — Working: Actively helps create a good working environment for the team, including across shifts.
+- 3 — Practitioner: Motivates and empowers colleagues and helps identify the best team makeup for a given monitoring situation.
 - 4 — Expert: Sets the collaborative standard other analysts follow.
 
 **Evidence to gather**
@@ -165,10 +157,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -181,14 +172,13 @@ The framework expects a senior operations analyst to explain the basic principle
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is unchanged from the level below and remains knowledge-level, so the baseline stays consistent at Beginner.
+Baseline: 1 — Awareness. The wording is unchanged from the level below and remains knowledge-level, so the baseline stays consistent at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what IT continuity management is for.
-- 1 — Beginner: Can explain the basic principles of standard continuity processes and procedures.
-- 2 — Intermediate: Connects continuity principles to an out-of-hours event they have handled.
-- 3 — Advanced: Applies continuity principles independently when escalating an out-of-hours event.
+- 1 — Awareness: Can explain the basic principles of standard continuity processes and procedures.
+- 2 — Working: Connects continuity principles to an out-of-hours event they have handled.
+- 3 — Practitioner: Applies continuity principles independently when escalating an out-of-hours event.
 - 4 — Expert: Owns continuity documentation or testing for their area.
 
 **Evidence to gather**
@@ -197,10 +187,9 @@ Baseline: 1 — Beginner. The wording is unchanged from the level below and rema
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -213,14 +202,13 @@ The framework expects a senior operations analyst to diagnose and prioritise inc
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Diagnose and prioritise" and "find resolutions" is a clear step above logging and routing incidents at the level below, and fits Intermediate for this stage of the role's ladder.
+Baseline: 2 — Working. "Diagnose and prioritise" and "find resolutions" is a clear step above logging and routing incidents at the level below, and fits Working for this stage of the role's ladder.
 
 **Behavioural indicators**
 
-- 0 — None: Has never diagnosed the cause of an incident.
-- 1 — Beginner: Diagnoses a straightforward incident with support.
-- 2 — Intermediate: Diagnoses and prioritises routine incidents unprompted, including those surfaced by out-of-hours monitoring, and finds resolutions.
-- 3 — Advanced: Diagnoses and resolves incidents of varying complexity consistently.
+- 1 — Awareness: Diagnoses a straightforward incident with support.
+- 2 — Working: Diagnoses and prioritises routine incidents unprompted, including those surfaced by out-of-hours monitoring, and finds resolutions.
+- 3 — Practitioner: Diagnoses and resolves incidents of varying complexity consistently.
 - 4 — Expert: Is called on to diagnose the operations centre's hardest incidents.
 
 **Evidence to gather**
@@ -230,10 +218,9 @@ Baseline: 2 — Intermediate. "Diagnose and prioritise" and "find resolutions" i
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -246,14 +233,13 @@ The framework expects a senior operations analyst to own an issue until a new ow
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the level below, so the baseline stays consistent at Intermediate.
+Baseline: 2 — Working. The wording is unchanged from the level below, so the baseline stays consistent at Working.
 
 **Behavioural indicators**
 
-- 0 — None: Drops issues once they become someone else's to chase.
-- 1 — Beginner: Holds an issue for a short time but needs reminding to follow it through.
-- 2 — Intermediate: Consistently holds an issue until it is mitigated, resolved, or properly handed to a new owner, including across a shift handover.
-- 3 — Advanced: Proactively chases stalled issues to keep them moving, including out of hours.
+- 1 — Awareness: Holds an issue for a short time but needs reminding to follow it through.
+- 2 — Working: Consistently holds an issue until it is mitigated, resolved, or properly handed to a new owner, including across a shift handover.
+- 3 — Practitioner: Proactively chases stalled issues to keep them moving, including out of hours.
 - 4 — Expert: Is relied on to make sure nothing important falls through the cracks.
 
 **Evidence to gather**
@@ -262,10 +248,9 @@ Baseline: 2 — Intermediate. The wording is unchanged from the level below, so 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -278,14 +263,13 @@ The framework expects a senior operations analyst to initiate and monitor action
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Initiate and monitor" independently is a step up from contributing to someone else's investigation at the level below, matching Intermediate.
+Baseline: 2 — Working. "Initiate and monitor" independently is a step up from contributing to someone else's investigation at the level below, matching Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot distinguish an incident from a problem.
-- 1 — Beginner: Contributes a small piece of investigation when directed.
-- 2 — Intermediate: Initiates a problem investigation from a monitoring trend unprompted, consulting a specialist where needed and contributing to a resolution.
-- 3 — Advanced: Runs a problem investigation independently, from evidence to proposed remedy, for moderately complex problems.
+- 1 — Awareness: Contributes a small piece of investigation when directed.
+- 2 — Working: Initiates a problem investigation from a monitoring trend unprompted, consulting a specialist where needed and contributing to a resolution.
+- 3 — Practitioner: Runs a problem investigation independently, from evidence to proposed remedy, for moderately complex problems.
 - 4 — Expert: Leads problem investigations and judges escalation without checking.
 
 **Evidence to gather**
@@ -294,10 +278,9 @@ Baseline: 2 — Intermediate. "Initiate and monitor" independently is a step up 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -310,14 +293,13 @@ The framework expects a senior operations analyst to take inputs and establish c
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Turning a set of inputs into a working monitoring approach for their own area is applied independent work rather than a beginner exercise, matching Intermediate.
+Baseline: 2 — Working. Turning a set of inputs into a working monitoring approach for their own area is applied independent work rather than a beginner exercise, matching Working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their monitoring work fits into a wider service.
-- 1 — Beginner: Follows an existing monitoring framework without adapting it.
-- 2 — Intermediate: Takes a set of inputs and puts together a working monitoring approach for their own area.
-- 3 — Advanced: Builds coherent monitoring frameworks that other analysts adopt.
+- 1 — Awareness: Follows an existing monitoring framework without adapting it.
+- 2 — Working: Takes a set of inputs and puts together a working monitoring approach for their own area.
+- 3 — Practitioner: Builds coherent monitoring frameworks that other analysts adopt.
 - 4 — Expert: Designs frameworks that span multiple monitored services.
 
 **Evidence to gather**
@@ -326,10 +308,9 @@ Baseline: 2 — Intermediate. Turning a set of inputs into a working monitoring 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -342,14 +323,13 @@ The framework expects a senior operations analyst to show they have a Level 3 se
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. A named Level 3 qualification maps to solid, certified working knowledge — Intermediate on this scale, unchanged from the level below.
+Baseline: 2 — Working. A named Level 3 qualification maps to solid, certified working knowledge — Working on this scale, unchanged from the level below.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Is working towards a Level 3 qualification.
-- 2 — Intermediate: Holds a Level 3 qualification and applies its concepts correctly.
-- 3 — Advanced: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
+- 1 — Awareness: Is working towards a Level 3 qualification.
+- 2 — Working: Holds a Level 3 qualification and applies its concepts correctly.
+- 3 — Practitioner: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
 - 4 — Expert: Holds an expert-level qualification and teaches concepts to others.
 
 **Evidence to gather**
@@ -358,10 +338,9 @@ Baseline: 2 — Intermediate. A named Level 3 qualification maps to solid, certi
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -374,14 +353,13 @@ The framework expects a senior operations analyst to identify and engage with us
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This describes active engagement and use of data, matching Intermediate working practice, unchanged from the level below.
+Baseline: 2 — Working. This describes active engagement and use of data, matching Working working practice, unchanged from the level below.
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with users or use any user evidence in their work.
-- 1 — Beginner: Collects user or stakeholder feedback when asked.
-- 2 — Intermediate: Actively collates user needs evidence and uses it to inform routine decisions about monitoring priorities.
-- 3 — Advanced: Defines what research would fit a user needs question and uses data to shape outcomes.
+- 1 — Awareness: Collects user or stakeholder feedback when asked.
+- 2 — Working: Actively collates user needs evidence and uses it to inform routine decisions about monitoring priorities.
+- 3 — Practitioner: Defines what research would fit a user needs question and uses data to shape outcomes.
 - 4 — Expert: Is sought out for how to turn user evidence into a concrete change.
 
 **Evidence to gather**
@@ -390,10 +368,9 @@ Baseline: 2 — Intermediate. This describes active engagement and use of data, 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -402,17 +379,17 @@ Baseline: 2 — Intermediate. This describes active engagement and use of data, 
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Asset and configuration management | 2 — Intermediate | | |
-| Availability and capacity management | 2 — Intermediate | | |
-| Change management | 2 — Intermediate | | |
-| Community collaboration | 1 — Beginner | | |
-| Continuity management | 1 — Beginner | | |
-| Incident management | 2 — Intermediate | | |
-| Ownership and initiative | 2 — Intermediate | | |
-| Problem management | 2 — Intermediate | | |
-| Service focus | 2 — Intermediate | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| User focus | 2 — Intermediate | | |
+| Asset and configuration management | 2 — Working | | |
+| Availability and capacity management | 2 — Working | | |
+| Change management | 2 — Working | | |
+| Community collaboration | 1 — Awareness | | |
+| Continuity management | 1 — Awareness | | |
+| Incident management | 2 — Working | | |
+| Ownership and initiative | 2 — Working | | |
+| Problem management | 2 — Working | | |
+| Service focus | 2 — Working | | |
+| Service management framework knowledge | 2 — Working | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when every skill above is rated at or above its baseline target.
 

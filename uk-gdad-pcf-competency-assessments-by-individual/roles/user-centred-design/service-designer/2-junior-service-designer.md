@@ -49,29 +49,28 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix below is rated on the same five-point
+Every skill in the competency matrix below is rated on the same four-point
 scale. This is a **proficiency** scale — it rates how well someone does the
 thing, on the evidence available, not how often they do it or how they feel
 about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example — Design communication.** The framework expects a junior
 service designer to "clearly explain problems and design ideas to others"
 and "clearly explain design decisions to others using appropriate tools and
 methods." Someone who can only explain a decision vaguely, or needs a
-colleague to fill the gaps, is showing at most **1 — Beginner**. Someone
+colleague to fill the gaps, is showing at most **1 — Awareness**. Someone
 who clearly explains a design problem and the reasoning behind it, choosing
 an appropriate way to show it such as an annotated journey map, is showing
-**2 — Intermediate** — the baseline this level expects. Someone who does
+**2 — Working** — the baseline this level expects. Someone who does
 this for complex, multi-part problems with stakeholders outside design is
-showing evidence closer to **3 — Advanced**, above this level's own
+showing evidence closer to **3 — Practitioner**, above this level's own
 baseline.
 
 ## About this role level
@@ -114,21 +113,19 @@ using appropriate tools and methods.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill matches
+Baseline: 2 — Working. The framework's wording for this skill matches
 the service designer level above rather than the associate level below, so
 this is treated as genuine, demonstrated communication practice rather than
 the associate's "explain the importance of" framing.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain a design decision, even when asked directly what
-  problem it solves.
-- 1 — Beginner: Explains a design decision when prompted, but the
+- 1 — Awareness: Explains a design decision when prompted, but the
   explanation is vague or needs a colleague to fill gaps.
-- 2 — Intermediate: Clearly explains a design problem and the reasoning
+- 2 — Working: Clearly explains a design problem and the reasoning
   behind a decision, choosing an appropriate way to show it, such as an
   annotated journey map or a short walkthrough.
-- 3 — Advanced: Explains complex design problems to stakeholders outside
+- 3 — Practitioner: Explains complex design problems to stakeholders outside
   design and builds consensus around a design approach.
 - 4 — Expert: Gains support for design strategy from senior leaders and
   coaches others in communicating design effectively.
@@ -143,10 +140,9 @@ the associate's "explain the importance of" framing.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -162,20 +158,18 @@ appropriate standards, for example accessibility regulations, with support.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. "Work with others to design and deliver" is
+Baseline: 2 — Working. "Work with others to design and deliver" is
 applied, collaborative practice, matching the service designer level above;
 "with support" on the standards bullet keeps full independent assurance out
 of reach.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what makes a service accessible or inclusive, for
-  example an assisted digital channel or plain language content.
-- 1 — Beginner: With guidance, checks a part of a service against a basic
+- 1 — Awareness: With guidance, checks a part of a service against a basic
   accessibility or inclusion checklist.
-- 2 — Intermediate: Works with others to design an inclusive, accessible
+- 2 — Working: Works with others to design an inclusive, accessible
   service, and, with support, checks it against a named standard.
-- 3 — Advanced: Advises other designers on inclusive service design and
+- 3 — Practitioner: Advises other designers on inclusive service design and
   ensures a design meets accessibility regulations without prompting.
 - 4 — Expert: Measurably improves inclusive design practice across multiple
   teams.
@@ -190,10 +184,9 @@ of reach.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -209,20 +202,18 @@ patterns and components in design.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework repeats this skill's wording
+Baseline: 1 — Awareness. The framework repeats this skill's wording
 unchanged from the associate service designer level below, so the baseline
-stays at Beginner even though the accountability bullets at this level
+stays at Awareness even though the accountability bullets at this level
 describe more independent working overall.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a service designer's work should connect to
-  their team's goals.
-- 1 — Beginner: Explains why aligning to organisational strategy matters,
+- 1 — Awareness: Explains why aligning to organisational strategy matters,
   and the value of reusing patterns and components.
-- 2 — Intermediate: With some support, describes how a specific piece of
+- 2 — Working: With some support, describes how a specific piece of
   their own work aligns to a team goal.
-- 3 — Advanced: Independently aligns their own work to team and
+- 3 — Practitioner: Independently aligns their own work to team and
   organisational goals.
 - 4 — Expert: Helps teams understand how design meets organisational goals
   and creates new patterns.
@@ -237,10 +228,9 @@ describe more independent working overall.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -255,19 +245,17 @@ explain the importance of constructive feedback in the design process.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework repeats this skill's wording
+Baseline: 1 — Awareness. The framework repeats this skill's wording
 unchanged from the associate service designer level below, so the baseline
-stays at Beginner.
+stays at Awareness.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a service design session might involve more than
-  one person's perspective.
-- 1 — Beginner: Names a technique for bringing together different
+- 1 — Awareness: Names a technique for bringing together different
   perspectives, such as a workshop or a blueprinting session, and explains
   why constructive feedback matters.
-- 2 — Intermediate: Plans and runs a simple design session, with support.
-- 3 — Advanced: Independently plans and runs design sessions and adapts
+- 2 — Working: Plans and runs a simple design session, with support.
+- 3 — Practitioner: Independently plans and runs design sessions and adapts
   them when they are not working.
 - 4 — Expert: Runs sessions that include senior leaders and coaches others
   in collaborative design practice.
@@ -281,10 +269,9 @@ stays at Beginner.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -300,19 +287,17 @@ develop and test a design idea.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill matches
+Baseline: 2 — Working. The framework's wording for this skill matches
 the service designer level above rather than the associate level below, so
 this is treated as genuine, applied evidence analysis rather than the
 associate's understanding of where evidence comes from.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say what evidence, such as analytics or user research,
-  might tell them about a service.
-- 1 — Beginner: Explains what a piece of evidence shows, with support.
-- 2 — Intermediate: Analyses and explains evidence relevant to a service,
+- 1 — Awareness: Explains what a piece of evidence shows, with support.
+- 2 — Working: Analyses and explains evidence relevant to a service,
   and works with a researcher or analyst to test a design idea.
-- 3 — Advanced: Analyses and explains complex evidence and helps a team
+- 3 — Practitioner: Analyses and explains complex evidence and helps a team
   frame design hypotheses.
 - 4 — Expert: Embeds hypothesis-driven design practice and guides the
   organisation on using evidence.
@@ -327,10 +312,9 @@ associate's understanding of where evidence comes from.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -347,20 +331,18 @@ techniques, and use and iterate design patterns and components.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's wording for this skill matches
+Baseline: 2 — Working. The framework's wording for this skill matches
 the service designer level above rather than the associate level below —
 this is applying iteration in practice, not describing what it is.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what changed between two versions of a service
-  design and why.
-- 1 — Beginner: Makes a small change to a service element following
+- 1 — Awareness: Makes a small change to a service element following
   feedback, with guidance.
-- 2 — Intermediate: Iterates a design across successive rounds of research,
+- 2 — Working: Iterates a design across successive rounds of research,
   prototypes at more than one fidelity, and uses and adjusts existing
   patterns and components.
-- 3 — Advanced: Iterates complex service designs, prototypes independently
+- 3 — Practitioner: Iterates complex service designs, prototypes independently
   at the right fidelity, and adapts quickly when requirements change.
 - 4 — Expert: Embeds iterative practice across teams and leads prototyping
   of complex ideas at any fidelity.
@@ -375,10 +357,9 @@ this is applying iteration in practice, not describing what it is.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -394,20 +375,19 @@ work with.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework repeats this skill's wording
+Baseline: 1 — Awareness. The framework repeats this skill's wording
 unchanged from the associate service designer level below, so the baseline
-stays at Beginner — leadership is still awareness at this stage, even
+stays at Awareness — leadership is still awareness at this stage, even
 though the role's other accountabilities describe more independent working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why user-centred design matters to an organisation.
-- 1 — Beginner: Explains the role of user-centred design in an
+- 1 — Awareness: Explains the role of user-centred design in an
   organisation, and describes typical leadership responsibilities in a
   design team.
-- 2 — Intermediate: With support, leads or coordinates a small piece of
+- 2 — Working: With support, leads or coordinates a small piece of
   design work.
-- 3 — Advanced: Leads and coordinates design work in a team independently
+- 3 — Practitioner: Leads and coordinates design work in a team independently
   and mentors other designers.
 - 4 — Expert: Sets a vision for and leads design across multiple teams or a
   whole organisation.
@@ -421,10 +401,9 @@ though the role's other accountabilities describe more independent working.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -433,13 +412,13 @@ though the role's other accountabilities describe more independent working.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Design communication | 2 — Intermediate | | |
-| Designing for everyone | 2 — Intermediate | | |
-| Designing strategically | 1 — Beginner | | |
-| Designing together | 1 — Beginner | | |
-| Evidence-based design | 2 — Intermediate | | |
-| Iterative design | 2 — Intermediate | | |
-| Leading design | 1 — Beginner | | |
+| Design communication | 2 — Working | | |
+| Designing for everyone | 2 — Working | | |
+| Designing strategically | 1 — Awareness | | |
+| Designing together | 1 — Awareness | | |
+| Evidence-based design | 2 — Working | | |
+| Iterative design | 2 — Working | | |
+| Leading design | 1 — Awareness | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

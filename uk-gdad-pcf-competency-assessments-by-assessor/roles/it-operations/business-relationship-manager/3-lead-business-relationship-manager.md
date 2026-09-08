@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -56,10 +55,9 @@ Baseline: 4 — Expert. "Direct" business analysis — setting the approach othe
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how to direct a business analysis effort involving other people.
-- 1 — Beginner: Contributes analysis to an effort someone else directs.
-- 2 — Intermediate: Directs a straightforward analysis effort with support ensuring it fits strategic objectives.
-- 3 — Advanced: Directs business analysis independently, and communicates recommendations persuasively to important stakeholders most of the time.
+- 1 — Awareness: Contributes analysis to an effort someone else directs.
+- 2 — Working: Directs a straightforward analysis effort with support ensuring it fits strategic objectives.
+- 3 — Practitioner: Directs business analysis independently, and communicates recommendations persuasively to important stakeholders most of the time.
 - 4 — Expert: Consistently directs complex, multi-stakeholder analysis efforts, identifies the simplest of several viable approaches, and is trusted to make the persuasive case to the most important stakeholders in the organisation.
 
 **Evidence to gather**
@@ -70,10 +68,9 @@ Baseline: 4 — Expert. "Direct" business analysis — setting the approach othe
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -86,14 +83,13 @@ The framework expects a lead business relationship manager to take accountabilit
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays consistent at Advanced rather than rising on wording alone.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays consistent at Practitioner rather than rising on wording alone.
 
 **Behavioural indicators**
 
-- 0 — None: Only responds to issues once someone else raises them.
-- 1 — Beginner: Takes accountability for an issue when told to.
-- 2 — Intermediate: Takes accountability for issues in their own relationships, occasionally spotting problems early.
-- 3 — Advanced: Consistently and independently searches for potential problems ahead of time across a portfolio of relationships, and produces excellent outcomes for users.
+- 1 — Awareness: Takes accountability for an issue when told to.
+- 2 — Working: Takes accountability for issues in their own relationships, occasionally spotting problems early.
+- 3 — Practitioner: Consistently and independently searches for potential problems ahead of time across a portfolio of relationships, and produces excellent outcomes for users.
 - 4 — Expert: Builds proactive ownership into how a whole team of business relationship managers operates.
 
 **Evidence to gather**
@@ -103,10 +99,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -123,10 +118,9 @@ Baseline: 4 — Expert. "See the bigger picture" across groups of services is th
 
 **Behavioural indicators**
 
-- 0 — None: Only considers a single relationship or engagement in isolation.
-- 1 — Beginner: Considers how one other service or relationship connects to their own, with help.
-- 2 — Intermediate: Considers how a small group of related services or relationships interact.
-- 3 — Advanced: Investigates how to get the best from groups of underlying services independently.
+- 1 — Awareness: Considers how one other service or relationship connects to their own, with help.
+- 2 — Working: Considers how a small group of related services or relationships interact.
+- 3 — Practitioner: Investigates how to get the best from groups of underlying services independently.
 - 4 — Expert: Is the person others rely on to see how the whole set of business relationships and underlying services should best work together.
 
 **Evidence to gather**
@@ -136,10 +130,9 @@ Baseline: 4 — Expert. "See the bigger picture" across groups of services is th
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -152,14 +145,13 @@ The framework expects a lead business relationship manager to show they have a L
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays at Advanced rather than rising on wording alone.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays at Practitioner rather than rising on wording alone.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management qualification and cannot describe ITIL's life cycle.
-- 1 — Beginner: Holds a Level 3 qualification but cannot describe how ITIL life cycle elements connect to their own work.
-- 2 — Intermediate: Holds Level 3 and can describe ITIL life cycle elements in general terms.
-- 3 — Advanced: Holds Level 3 and applies ITIL life cycle or capability knowledge directly to how they manage strategic relationships.
+- 1 — Awareness: Holds a Level 3 qualification but cannot describe how ITIL life cycle elements connect to their own work.
+- 2 — Working: Holds Level 3 and can describe ITIL life cycle elements in general terms.
+- 3 — Practitioner: Holds Level 3 and applies ITIL life cycle or capability knowledge directly to how they manage strategic relationships.
 - 4 — Expert: Holds expert-level certification and teaches ITIL concepts to others.
 
 **Evidence to gather**
@@ -169,10 +161,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -189,10 +180,9 @@ Baseline: 4 — Expert. This is the core skill of the role, and the level's own 
 
 **Behavioural indicators**
 
-- 0 — None: Has never negotiated with a senior stakeholder or been asked to resolve a strained relationship.
-- 1 — Beginner: Manages a straightforward strategic relationship with support.
-- 2 — Intermediate: Manages strategic relationships independently, with occasional support on the most difficult ones.
-- 3 — Advanced: Directs the strategic approach for a set of stakeholder relationships and establishes clear objectives for them, largely without support.
+- 1 — Awareness: Manages a straightforward strategic relationship with support.
+- 2 — Working: Manages strategic relationships independently, with occasional support on the most difficult ones.
+- 3 — Practitioner: Directs the strategic approach for a set of stakeholder relationships and establishes clear objectives for them, largely without support.
 - 4 — Expert: Is the organisation's point of escalation when a stakeholder relationship breaks down, influences the most senior stakeholders directly, and facilitates discussion across high risk, complex, time-constrained situations that others could not resolve alone.
 
 **Evidence to gather**
@@ -203,10 +193,9 @@ Baseline: 4 — Expert. This is the core skill of the role, and the level's own 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -219,14 +208,13 @@ The framework expects a lead business relationship manager to define strategies 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays at Advanced rather than rising on wording alone; a candidate whose strategic work sets direction across the whole function should be rated 4.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays at Practitioner rather than rising on wording alone; a candidate whose strategic work sets direction across the whole function should be rated 4.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect their work to the organisation's wider strategic goals.
-- 1 — Beginner: Repeats a stated strategic goal but cannot explain how their own work supports it.
-- 2 — Intermediate: Contributes useful input into strategy or policy development when asked.
-- 3 — Advanced: Defines strategies and policies independently, guides others in working within the strategic context, and evaluates existing strategy against business requirements.
+- 1 — Awareness: Repeats a stated strategic goal but cannot explain how their own work supports it.
+- 2 — Working: Contributes useful input into strategy or policy development when asked.
+- 3 — Practitioner: Defines strategies and policies independently, guides others in working within the strategic context, and evaluates existing strategy against business requirements.
 - 4 — Expert: Sets the strategic direction the whole team of business relationship managers follows.
 
 **Evidence to gather**
@@ -236,10 +224,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -256,10 +243,9 @@ Baseline: 4 — Expert. "Give direction on which tools or methods to use" and br
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with user needs or channel differences in their work.
-- 1 — Beginner: Considers user needs for a single channel, with support.
-- 2 — Intermediate: Meets user needs across more than one channel independently.
-- 3 — Advanced: Applies strategic thinking to how the business serves the end user, adjusting as needs change.
+- 1 — Awareness: Considers user needs for a single channel, with support.
+- 2 — Working: Meets user needs across more than one channel independently.
+- 3 — Practitioner: Applies strategic thinking to how the business serves the end user, adjusting as needs change.
 - 4 — Expert: Gives direction to others on which tools or methods to use, and brings recognised insight into how user needs have shifted over time to keep the business aligned to them.
 
 **Evidence to gather**
@@ -269,10 +255,9 @@ Baseline: 4 — Expert. "Give direction on which tools or methods to use" and br
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -282,11 +267,11 @@ Baseline: 4 — Expert. "Give direction on which tools or methods to use" and br
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
 | Business analysis (IT operations) | 4 — Expert | | |
-| Ownership and initiative | 3 — Advanced | | |
+| Ownership and initiative | 3 — Practitioner | | |
 | Service focus | 4 — Expert | | |
-| Service management framework knowledge | 3 — Advanced | | |
+| Service management framework knowledge | 3 — Practitioner | | |
 | Stakeholder relationship management (IT operations) | 4 — Expert | | |
-| Strategic thinking | 3 — Advanced | | |
+| Strategic thinking | 3 — Practitioner | | |
 | User focus | 4 — Expert | | |
 
 The baseline for this role level is normally met when every skill above is rated at or above its baseline target.

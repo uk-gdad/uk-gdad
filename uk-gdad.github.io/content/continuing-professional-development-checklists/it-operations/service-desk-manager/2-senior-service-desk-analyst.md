@@ -2,10 +2,92 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Service desk manager** role at the **Senior service desk analyst** level. You monitor inbound calls, support colleagues in resolution, intervene in difficult calls, own and update the script for analysts, and coach and develop analysts while managing availability. Your development now is about coaching, quality, and difficult conversations.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/it-operations/service-desk-manager/2-senior-service-desk-analyst.md`](../../../assessments/it-operations/service-desk-manager/2-senior-service-desk-analyst.md)
+- Upskilling: [`upskills/it-operations/service-desk-manager/2-senior-service-desk-analyst.md`](../../../upskills/it-operations/service-desk-manager/2-senior-service-desk-analyst.md)
+
+### Role Level Focus: Senior Service Desk Analyst
+
+- [ ] Own the Script: Keep the analyst script accurate, humane, and genuinely useful.
+- [ ] Intervene Well: Build the skill of taking over a difficult call without undermining a colleague.
+- [ ] Coach Analysts: Develop colleagues with agreed goals and regular feedback.
+- [ ] Manage Availability: Learn to balance cover, breaks, and demand fairly.
+- [ ] Improve Quality: Establish how call and ticket quality is checked and improved.
+- [ ] Get Qualified: Complete a level 3 service management framework qualification.
+- [ ] Spot Patterns: Notice what keeps generating contacts and raise it.
+- [ ] Look After Wellbeing: Watch for the toll that difficult calls take, on yourself and others.
+
+### Skill: Asset and configuration management
+
+- [ ] Track and Log Accurately: Keep asset and component information correct.
+- [ ] Correct What Is Wrong: Fix inaccurate records when you find them.
+- [ ] Protect Assets: Understand how accurate records support support work.
+- [ ] Coach on Record Quality: Help analysts keep their records useful.
+
+### Skill: Customer service management
+
+- [ ] Maintain High Service: Resolve requests while keeping service quality high.
+- [ ] Deal With Complex Complaints: Handle escalated and complicated complaints properly.
+- [ ] Use Empathy: Understand and meet customer needs, not just their stated request.
+- [ ] Learn Complaint Handling: Study formal complaint processes and apply them fairly.
+
+### Skill: IT service reporting
+
+- [ ] Produce Relevant Reports: Deliver reports in the right format and agreed timeframe.
+- [ ] Work With Stakeholders: Discuss and agree changes to reporting processes.
+- [ ] Interpret Data Sets: Explain what the data means, not just what it says.
+- [ ] Report Honestly: Include the uncomfortable numbers as well as the good ones.
+
+### Skill: Ownership and topic
+
+- [ ] Own Until Handover: Keep an issue until it is resolved or properly handed on.
+- [ ] Follow Through: Check what happened after you escalated something.
+- [ ] Be Proactive: Look for problems before users report them.
+- [ ] Model Ownership: Show the behaviour you want analysts to copy.
+
+### Skill: Problem management
+
+- [ ] Investigate Problems: Look into problems in systems, processes, and services.
+- [ ] Understand Problem Levels: Distinguish strategic, tactical, and operational problems.
+- [ ] Contribute to Remedies: Help implement fixes and preventative measures.
+- [ ] Escalate Repeats: Report recurring contact drivers so they get solved properly.
+
+### Skill: Service focus
+
+- [ ] Build Coherent Frameworks: Take inputs and establish frameworks that genuinely work.
+- [ ] Understand the Whole Service: Know how the service desk fits the wider service.
+- [ ] Reduce Repeat Contacts: Identify and remove the causes of avoidable contact.
+- [ ] Measure User Experience: Track what getting support actually feels like.
+
+### Skill: Service management framework knowledge
+
+- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
+- [ ] Apply the Framework: Use what you learned in daily practice.
+- [ ] Coach Others: Help analysts understand and use the framework.
+- [ ] Keep Current: Track how service desk practice is evolving.
+
+### Skill: User focus
+
+- [ ] Collate User Needs Evidence: Engage with users and stakeholders to gather real evidence.
+- [ ] Define Fitting Research: Understand enough about research to define what would answer your question.
+- [ ] Use Both Kinds of Data: Combine service data with what users tell you.
+- [ ] Include Everyone: Make sure colleagues with access needs get equal support.
+
+### Skill Growth Plan: Toward Service Desk Manager
+
+- [ ] Review the Next Level: Read the Service desk manager skill descriptions and mark your gaps.
+- [ ] Spot Emerging Issues: Practise identifying problems before they become widespread.
+- [ ] Learn Automation: Investigate which processes could be automated and how.
+- [ ] Learn Resourcing: Get involved in team resourcing and development.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,85 +185,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Service desk manager** role at the **Senior service desk analyst** level. You monitor inbound calls, support colleagues in resolution, intervene in difficult calls, own and update the script for analysts, and coach and develop analysts while managing availability. Your development now is about coaching, quality, and difficult conversations.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/it-operations/service-desk-manager/2-senior-service-desk-analyst.md`](../../../assessments/it-operations/service-desk-manager/2-senior-service-desk-analyst.md)
-- Upskilling: [`upskills/it-operations/service-desk-manager/2-senior-service-desk-analyst.md`](../../../upskills/it-operations/service-desk-manager/2-senior-service-desk-analyst.md)
-
-### Role Level Focus: Senior Service Desk Analyst
-
-- [ ] Own the Script: Keep the analyst script accurate, humane, and genuinely useful.
-- [ ] Intervene Well: Build the skill of taking over a difficult call without undermining a colleague.
-- [ ] Coach Analysts: Develop colleagues with agreed goals and regular feedback.
-- [ ] Manage Availability: Learn to balance cover, breaks, and demand fairly.
-- [ ] Improve Quality: Establish how call and ticket quality is checked and improved.
-- [ ] Get Qualified: Complete a level 3 service management framework qualification.
-- [ ] Spot Patterns: Notice what keeps generating contacts and raise it.
-- [ ] Look After Wellbeing: Watch for the toll that difficult calls take, on yourself and others.
-
-### Skill: Asset and configuration management
-
-- [ ] Track and Log Accurately: Keep asset and component information correct.
-- [ ] Correct What Is Wrong: Fix inaccurate records when you find them.
-- [ ] Protect Assets: Understand how accurate records support support work.
-- [ ] Coach on Record Quality: Help analysts keep their records useful.
-
-### Skill: Customer service management
-
-- [ ] Maintain High Service: Resolve requests while keeping service quality high.
-- [ ] Deal With Complex Complaints: Handle escalated and complicated complaints properly.
-- [ ] Use Empathy: Understand and meet customer needs, not just their stated request.
-- [ ] Learn Complaint Handling: Study formal complaint processes and apply them fairly.
-
-### Skill: IT service reporting
-
-- [ ] Produce Relevant Reports: Deliver reports in the right format and agreed timeframe.
-- [ ] Work With Stakeholders: Discuss and agree changes to reporting processes.
-- [ ] Interpret Data Sets: Explain what the data means, not just what it says.
-- [ ] Report Honestly: Include the uncomfortable numbers as well as the good ones.
-
-### Skill: Ownership and topic
-
-- [ ] Own Until Handover: Keep an issue until it is resolved or properly handed on.
-- [ ] Follow Through: Check what happened after you escalated something.
-- [ ] Be Proactive: Look for problems before users report them.
-- [ ] Model Ownership: Show the behaviour you want analysts to copy.
-
-### Skill: Problem management
-
-- [ ] Investigate Problems: Look into problems in systems, processes, and services.
-- [ ] Understand Problem Levels: Distinguish strategic, tactical, and operational problems.
-- [ ] Contribute to Remedies: Help implement fixes and preventative measures.
-- [ ] Escalate Repeats: Report recurring contact drivers so they get solved properly.
-
-### Skill: Service focus
-
-- [ ] Build Coherent Frameworks: Take inputs and establish frameworks that genuinely work.
-- [ ] Understand the Whole Service: Know how the service desk fits the wider service.
-- [ ] Reduce Repeat Contacts: Identify and remove the causes of avoidable contact.
-- [ ] Measure User Experience: Track what getting support actually feels like.
-
-### Skill: Service management framework knowledge
-
-- [ ] Hold a Level 3 Qualification: Complete a level 3 service management framework qualification.
-- [ ] Apply the Framework: Use what you learned in daily practice.
-- [ ] Coach Others: Help analysts understand and use the framework.
-- [ ] Keep Current: Track how service desk practice is evolving.
-
-### Skill: User focus
-
-- [ ] Collate User Needs Evidence: Engage with users and stakeholders to gather real evidence.
-- [ ] Define Fitting Research: Understand enough about research to define what would answer your question.
-- [ ] Use Both Kinds of Data: Combine service data with what users tell you.
-- [ ] Include Everyone: Make sure colleagues with access needs get equal support.
-
-### Skill Growth Plan: Toward Service Desk Manager
-
-- [ ] Review the Next Level: Read the Service desk manager skill descriptions and mark your gaps.
-- [ ] Spot Emerging Issues: Practise identifying problems before they become widespread.
-- [ ] Learn Automation: Investigate which processes could be automated and how.
-- [ ] Learn Resourcing: Get involved in team resourcing and development.

@@ -49,23 +49,22 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point proficiency scale:
+Every skill in the competency matrix is rated on the same four-point proficiency scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This rates how well someone does the thing, on the evidence available — not how often
 they do it. A worked example, using this level's skill of Stakeholder relationship
 management:
 
-- **2 — Intermediate**: they identified the main stakeholders on a project with some
+- **2 — Working**: they identified the main stakeholders on a project with some
   help from a colleague, and communicated with them when prompted to.
-- **3 — Advanced**: they independently identified important stakeholders,
+- **3 — Practitioner**: they independently identified important stakeholders,
   communicated with them regularly, tailored their communication to what each
   stakeholder needed, and built consensus with a stakeholder who initially disagreed
   with a research recommendation.
@@ -110,19 +109,18 @@ multidisciplinary digital team to plan and do user research.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Designing and conducting research specifically so findings can
+Baseline: 3 — Practitioner. Designing and conducting research specifically so findings can
 be embedded into an agile workflow, and working with the team's different roles to
 plan research, is independent, applied practice consistent with a level the framework
 says is expected to work independently on a team.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain a benefit or a limitation of agile working for research.
-- 1 — Beginner: describes agile working in general terms, without connecting it to how
+- 1 — Awareness: describes agile working in general terms, without connecting it to how
   research gets planned.
-- 2 — Intermediate: has designed one piece of research to fit an agile workflow, with
+- 2 — Working: has designed one piece of research to fit an agile workflow, with
   support.
-- 3 — Advanced: independently explains the benefits and limitations of agile working,
+- 3 — Practitioner: independently explains the benefits and limitations of agile working,
   designs and conducts research so findings embed into an agile workflow, and works
   with the team's different roles to plan and do research.
 - 4 — Expert: is not expected at this level.
@@ -138,10 +136,9 @@ says is expected to work independently on a team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -157,7 +154,7 @@ and use. This wording is identical to the junior user researcher level below.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Because the text repeats the junior level's wording word
+Baseline: 2 — Working. Because the text repeats the junior level's wording word
 for word, the honest baseline for this specific skill stays the same as that level —
 this level's real step up shows in the other six skills and in the level's own
 statement that you are expected to work independently, not in a claim this text does
@@ -165,13 +162,11 @@ not make.
 
 **Behavioural indicators**
 
-- 0 — None: cannot apply a basic analysis technique to research data, even with
-  support.
-- 1 — Beginner: has watched a more senior researcher analyse data and synthesise
+- 1 — Awareness: has watched a more senior researcher analyse data and synthesise
   findings, without applying a technique themselves.
-- 2 — Intermediate: applies a basic analysis technique to research data with support,
+- 2 — Working: applies a basic analysis technique to research data with support,
   involves their team in the analysis, and presents findings colleagues can understand.
-- 3 — Advanced: independently applies a range of analysis techniques and produces
+- 3 — Practitioner: independently applies a range of analysis techniques and produces
   clear findings without close support.
 - 4 — Expert: is not expected at this level.
 
@@ -184,10 +179,9 @@ not make.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -203,20 +197,18 @@ activities.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This level's text is a step up from the junior level's mere
+Baseline: 2 — Working. This level's text is a step up from the junior level's mere
 "awareness" wording — it now asks for working with colleagues to actually include many
 kinds of users, though it stops short of the independent leadership language used
 elsewhere in this level's matrix.
 
 **Behavioural indicators**
 
-- 0 — None: cannot explain why including a diverse range of users matters for
-  government research.
-- 1 — Beginner: explains, in general terms, why diverse and accessible research
+- 1 — Awareness: explains, in general terms, why diverse and accessible research
   matters, without having recruited or included such users themselves.
-- 2 — Intermediate: works with colleagues to include a range of user types in a
+- 2 — Working: works with colleagues to include a range of user types in a
   research activity, with some support recruiting or accommodating access needs.
-- 3 — Advanced: independently plans research that includes a wide range of user types
+- 3 — Practitioner: independently plans research that includes a wide range of user types
   without needing support to do so.
 - 4 — Expert: is not expected at this level.
 
@@ -231,10 +223,9 @@ elsewhere in this level's matrix.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -250,19 +241,18 @@ user research; and improve practice through reflection and feedback.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The framework's own wording explicitly still allows for
+Baseline: 2 — Working. The framework's own wording explicitly still allows for
 getting advice from someone more experienced when needed — a meaningful step up from
 junior level's "explain the importance", but not yet the fully unsupported ownership
 expected of a senior user researcher.
 
 **Behavioural indicators**
 
-- 0 — None: has not defined the scope or purpose of a piece of research.
-- 1 — Beginner: has followed a scope and purpose someone else defined.
-- 2 — Intermediate: defines the scope and purpose of a piece of research, seeking
+- 1 — Awareness: has followed a scope and purpose someone else defined.
+- 2 — Working: defines the scope and purpose of a piece of research, seeking
   advice from someone more experienced when needed, and improves their practice through
   reflection and feedback.
-- 3 — Advanced: independently defines research scope and purpose without needing to
+- 3 — Practitioner: independently defines research scope and purpose without needing to
   seek advice, and applies good practice standards without prompting.
 - 4 — Expert: is not expected at this level.
 
@@ -277,10 +267,9 @@ expected of a senior user researcher.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -297,17 +286,16 @@ evidence to explain decisions.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Building and reaching consensus with stakeholders, and using
+Baseline: 3 — Practitioner. Building and reaching consensus with stakeholders, and using
 evidence to improve relationships, is independent relationship management, consistent
 with this level's own statement that you are expected to work independently.
 
 **Behavioural indicators**
 
-- 0 — None: has not identified or communicated with a stakeholder independently.
-- 1 — Beginner: has attended a stakeholder meeting led by someone more senior.
-- 2 — Intermediate: has identified stakeholders and communicated with them regularly,
+- 1 — Awareness: has attended a stakeholder meeting led by someone more senior.
+- 2 — Working: has identified stakeholders and communicated with them regularly,
   with support tailoring the message.
-- 3 — Advanced: independently identifies important stakeholders, tailors
+- 3 — Practitioner: independently identifies important stakeholders, tailors
   communication to their needs, builds and reaches consensus, and uses evidence to
   explain a decision and improve the relationship.
 - 4 — Expert: is not expected at this level.
@@ -323,10 +311,9 @@ with this level's own statement that you are expected to work independently.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -342,19 +329,18 @@ identical to the junior user researcher level below.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. Because the text repeats the junior level's wording word
+Baseline: 2 — Working. Because the text repeats the junior level's wording word
 for word, the honest baseline for this specific skill stays the same as that level;
 this level's own "work independently" statement is a general expectation for the role
 level, not a specific claim this skill's own text makes.
 
 **Behavioural indicators**
 
-- 0 — None: cannot apply a basic user research method, even with support.
-- 1 — Beginner: has observed a research session run by a more senior researcher,
+- 1 — Awareness: has observed a research session run by a more senior researcher,
   without planning or conducting one themselves.
-- 2 — Intermediate: plans and conducts a user research project with support, applies a
+- 2 — Working: plans and conducts a user research project with support, applies a
   basic method correctly, and involves their team in research activities.
-- 3 — Advanced: independently plans and conducts a research project using a range of
+- 3 — Practitioner: independently plans and conducts a research project using a range of
   basic methods, without needing close support.
 - 4 — Expert: is not expected at this level.
 
@@ -367,10 +353,9 @@ level, not a specific claim this skill's own text makes.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -385,19 +370,18 @@ changing user behaviour with their team.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This level's text is a step up from the junior level's
+Baseline: 2 — Working. This level's text is a step up from the junior level's
 "describe" and "explain" wording — it now asks the researcher to use a range of
 practices and actively advocate for the user, though it stops short of the independent
 consensus-building language used elsewhere in this level's matrix.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe or use a user-centred practice.
-- 1 — Beginner: describes a user-centred practice without having applied it
+- 1 — Awareness: describes a user-centred practice without having applied it
   themselves.
-- 2 — Intermediate: uses a range of user-centred practices with some support, and
+- 2 — Working: uses a range of user-centred practices with some support, and
   shares a research insight with their team to advocate for the user.
-- 3 — Advanced: independently uses a range of user-centred practices and consistently
+- 3 — Practitioner: independently uses a range of user-centred practices and consistently
   advocates for the user, including with a team that starts sceptical.
 - 4 — Expert: is not expected at this level.
 
@@ -411,10 +395,9 @@ consensus-building language used elsewhere in this level's matrix.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

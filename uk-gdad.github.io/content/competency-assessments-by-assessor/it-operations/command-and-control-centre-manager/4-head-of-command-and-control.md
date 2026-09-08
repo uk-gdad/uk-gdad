@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -56,10 +55,9 @@ Baseline: 4 — Expert. "Manage service compliance and risk" is organisation-lev
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what service compliance or risk means for configuration management.
-- 1 — Beginner: Manages configuration items for a single area with support.
-- 2 — Intermediate: Manages configuration items independently but has not yet owned compliance or risk at an estate level.
-- 3 — Advanced: Manages configuration compliance and risk across more than one area, catching issues before they become material.
+- 1 — Awareness: Manages configuration items for a single area with support.
+- 2 — Working: Manages configuration items independently but has not yet owned compliance or risk at an estate level.
+- 3 — Practitioner: Manages configuration compliance and risk across more than one area, catching issues before they become material.
 - 4 — Expert: Owns configuration compliance and risk policy for the whole operations centre, and other managers escalate their hardest configuration risk decisions to this person.
 
 **Evidence to gather**
@@ -69,10 +67,9 @@ Baseline: 4 — Expert. "Manage service compliance and risk" is organisation-lev
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -89,10 +86,9 @@ Baseline: 4 — Expert. "Ensure correct implementation of standards" across the 
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how availability or capacity standards are set.
-- 1 — Beginner: Follows availability and capacity standards someone else set.
-- 2 — Intermediate: Applies standards independently within their own area.
-- 3 — Advanced: Ensures standards are correctly implemented across more than one area, and initiates remedial action when they are not.
+- 1 — Awareness: Follows availability and capacity standards someone else set.
+- 2 — Working: Applies standards independently within their own area.
+- 3 — Practitioner: Ensures standards are correctly implemented across more than one area, and initiates remedial action when they are not.
 - 4 — Expert: Owns the availability and capacity standards themselves, and is accountable for their correct implementation across the operations centre.
 
 **Evidence to gather**
@@ -101,10 +97,9 @@ Baseline: 4 — Expert. "Ensure correct implementation of standards" across the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -117,14 +112,13 @@ The framework expects a head of command and control to manage high impact, compl
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays at Advanced rather than rising on wording alone; a candidate demonstrably setting or redefining release policy for the whole centre should be rated 4.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays at Practitioner rather than rising on wording alone; a candidate demonstrably setting or redefining release policy for the whole centre should be rated 4.
 
 **Behavioural indicators**
 
-- 0 — None: Has never handled a complex, high impact change.
-- 1 — Beginner: Handles a high impact change only with close direction.
-- 2 — Intermediate: Manages moderately complex changes with occasional guidance.
-- 3 — Advanced: Manages high impact, complex change requests independently, ensuring release policy is applied correctly throughout.
+- 1 — Awareness: Handles a high impact change only with close direction.
+- 2 — Working: Manages moderately complex changes with occasional guidance.
+- 3 — Practitioner: Manages high impact, complex change requests independently, ensuring release policy is applied correctly throughout.
 - 4 — Expert: Sets or substantially redefines the release policies and processes the whole operations centre applies.
 
 **Evidence to gather**
@@ -133,10 +127,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -149,14 +142,13 @@ The framework expects a head of command and control to work collaboratively in a
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays consistent at Advanced.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays consistent at Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Works in isolation and does not engage in team health or collaboration practices.
-- 1 — Beginner: Participates in a team health check without acting on what it surfaces.
-- 2 — Intermediate: Networks and collaborates with support identifying underlying team dynamic issues.
-- 3 — Advanced: Actively networks across the operations centre, adapts feedback so it lands effectively, and uses insight to identify and rectify team dynamic problems.
+- 1 — Awareness: Participates in a team health check without acting on what it surfaces.
+- 2 — Working: Networks and collaborates with support identifying underlying team dynamic issues.
+- 3 — Practitioner: Actively networks across the operations centre, adapts feedback so it lands effectively, and uses insight to identify and rectify team dynamic problems.
 - 4 — Expert: Builds team health practices into how the whole function, not just their own team, is developed.
 
 **Evidence to gather**
@@ -165,10 +157,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -181,14 +172,13 @@ The framework expects a head of command and control to manage the runbooks and t
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays consistent at Advanced.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays consistent at Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what a runbook is for.
-- 1 — Beginner: Follows an existing runbook without maintaining or testing it.
-- 2 — Intermediate: Maintains a runbook with support.
-- 3 — Advanced: Manages runbooks and continuity processes independently, and runs tests that verify service availability is maintained across the operations centre.
+- 1 — Awareness: Follows an existing runbook without maintaining or testing it.
+- 2 — Working: Maintains a runbook with support.
+- 3 — Practitioner: Manages runbooks and continuity processes independently, and runs tests that verify service availability is maintained across the operations centre.
 - 4 — Expert: Owns continuity strategy for the whole function and is trusted to redesign it.
 
 **Evidence to gather**
@@ -197,10 +187,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -213,14 +202,13 @@ The framework expects a head of command and control to lead the investigation an
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays consistent at Advanced; a candidate demonstrably mentoring others through incident leadership should score 4.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays consistent at Practitioner; a candidate demonstrably mentoring others through incident leadership should score 4.
 
 **Behavioural indicators**
 
-- 0 — None: Has never led an incident response.
-- 1 — Beginner: Contributes to incidents someone else leads.
-- 2 — Intermediate: Leads straightforward incidents with support available.
-- 3 — Advanced: Leads the investigation and resolution of incidents independently, including the most difficult ones.
+- 1 — Awareness: Contributes to incidents someone else leads.
+- 2 — Working: Leads straightforward incidents with support available.
+- 3 — Practitioner: Leads the investigation and resolution of incidents independently, including the most difficult ones.
 - 4 — Expert: Is called on to lead the organisation's hardest incidents, and mentors other managers in incident leadership.
 
 **Evidence to gather**
@@ -229,10 +217,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -245,14 +232,13 @@ The framework expects a head of command and control to take accountability for i
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays consistent at Advanced.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays consistent at Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Only responds to issues once someone else raises them.
-- 1 — Beginner: Takes accountability for an issue when told to.
-- 2 — Intermediate: Takes accountability for issues in their own area, occasionally spotting problems early.
-- 3 — Advanced: Consistently and independently searches for potential problems ahead of time across the operations centre, and produces excellent outcomes for users.
+- 1 — Awareness: Takes accountability for an issue when told to.
+- 2 — Working: Takes accountability for issues in their own area, occasionally spotting problems early.
+- 3 — Practitioner: Consistently and independently searches for potential problems ahead of time across the operations centre, and produces excellent outcomes for users.
 - 4 — Expert: Builds proactive ownership into how the whole function and its tooling strategy operate.
 
 **Evidence to gather**
@@ -261,10 +247,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -281,10 +266,9 @@ Baseline: 4 — Expert. "Ensure the right actions are taken" and "co-ordinate th
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how problem management is co-ordinated across a team.
-- 1 — Beginner: Investigates individual problems personally, without co-ordinating others.
-- 2 — Intermediate: Co-ordinates a small piece of problem investigation involving another person.
-- 3 — Advanced: Co-ordinates the team's problem investigation for most situations, ensuring resolution and preventative measures follow.
+- 1 — Awareness: Investigates individual problems personally, without co-ordinating others.
+- 2 — Working: Co-ordinates a small piece of problem investigation involving another person.
+- 3 — Practitioner: Co-ordinates the team's problem investigation for most situations, ensuring resolution and preventative measures follow.
 - 4 — Expert: Owns and continuously improves how the whole team anticipates, investigates and resolves problems.
 
 **Evidence to gather**
@@ -294,10 +278,9 @@ Baseline: 4 — Expert. "Ensure the right actions are taken" and "co-ordinate th
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -310,14 +293,13 @@ The framework expects a head of command and control to see the bigger picture by
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from the level below, so the baseline stays consistent at Advanced.
+Baseline: 3 — Practitioner. The wording is unchanged from the level below, so the baseline stays consistent at Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Only considers a single service in isolation.
-- 1 — Beginner: Considers how one other service connects to their own, with help.
-- 2 — Intermediate: Considers how a small group of related services interact.
-- 3 — Advanced: Investigates how to get the best from groups of underlying services independently.
+- 1 — Awareness: Considers how one other service connects to their own, with help.
+- 2 — Working: Considers how a small group of related services interact.
+- 3 — Practitioner: Investigates how to get the best from groups of underlying services independently.
 - 4 — Expert: Is the person others rely on to see how the whole operations estate's underlying services should best work together, and sets the roadmap around it.
 
 **Evidence to gather**
@@ -326,10 +308,9 @@ Baseline: 3 — Advanced. The wording is unchanged from the level below, so the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -346,10 +327,9 @@ Baseline: 4 — Expert. The framework names an expert-level qualification explic
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Holds only a Level 3 qualification, working towards something higher.
-- 2 — Intermediate: Holds an intermediate-level qualification above Level 3.
-- 3 — Advanced: Holds an expert-level qualification, applied consistently but not yet used to teach others.
+- 1 — Awareness: Holds only a Level 3 qualification, working towards something higher.
+- 2 — Working: Holds an intermediate-level qualification above Level 3.
+- 3 — Practitioner: Holds an expert-level qualification, applied consistently but not yet used to teach others.
 - 4 — Expert: Holds an expert-level qualification and is regularly asked to settle disputes about, or train others in, how the framework should be applied.
 
 **Evidence to gather**
@@ -358,10 +338,9 @@ Baseline: 4 — Expert. The framework names an expert-level qualification explic
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -378,10 +357,9 @@ Baseline: 4 — Expert. "Give direction on which tools or methods to use" and br
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with user needs or channel differences in their work.
-- 1 — Beginner: Considers user needs for a single channel, with support.
-- 2 — Intermediate: Meets user needs across more than one channel independently.
-- 3 — Advanced: Applies strategic thinking to how operations serves the end user.
+- 1 — Awareness: Considers user needs for a single channel, with support.
+- 2 — Working: Meets user needs across more than one channel independently.
+- 3 — Practitioner: Applies strategic thinking to how operations serves the end user.
 - 4 — Expert: Gives direction to others on which tools or methods to use, and this insight shapes the strategy roadmap the role level is accountable for.
 
 **Evidence to gather**
@@ -391,10 +369,9 @@ Baseline: 4 — Expert. "Give direction on which tools or methods to use" and br
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -405,13 +382,13 @@ Baseline: 4 — Expert. "Give direction on which tools or methods to use" and br
 | --- | --- | --- | --- |
 | Asset and configuration management | 4 — Expert | | |
 | Availability and capacity management | 4 — Expert | | |
-| Change management | 3 — Advanced | | |
-| Community collaboration | 3 — Advanced | | |
-| Continuity management | 3 — Advanced | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
+| Change management | 3 — Practitioner | | |
+| Community collaboration | 3 — Practitioner | | |
+| Continuity management | 3 — Practitioner | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
 | Problem management | 4 — Expert | | |
-| Service focus | 3 — Advanced | | |
+| Service focus | 3 — Practitioner | | |
 | Service management framework knowledge | 4 — Expert | | |
 | User focus | 4 — Expert | | |
 

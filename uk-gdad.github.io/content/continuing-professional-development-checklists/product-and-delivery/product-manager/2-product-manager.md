@@ -2,10 +2,102 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Product manager** role at the **Product manager** level. You are responsible for product quality and value, you work with the team to identify, implement, and improve strategies and tactics, you lead a product through the whole life cycle from discovery to retirement, you support senior and lead product managers, and you may recruit and manage people in the product profession. Your development now is about ownership and evidence-led judgement.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/product-and-delivery/product-manager/2-product-manager.md`](../../../assessments/product-and-delivery/product-manager/2-product-manager.md)
+- Upskilling: [`upskills/product-and-delivery/product-manager/2-product-manager.md`](../../../upskills/product-and-delivery/product-manager/2-product-manager.md)
+
+### Role Level Focus: Product Manager
+
+- [ ] Lead Through the Life Cycle: Take a product through phases, including the hard decision to stop or retire.
+- [ ] Own Quality and Value: Take genuine responsibility for whether the product is good and worth its cost.
+- [ ] Prioritise Ruthlessly: Practise saying no clearly and explaining why.
+- [ ] Measure Outcomes: Establish outcome measures with a baseline, and act on what they say.
+- [ ] Work in the Open: Publish your roadmap, decisions, and learning where policy allows.
+- [ ] Learn Recruitment: If you hire, train in Success Profiles and inclusive recruitment.
+- [ ] Deepen Product Craft: Study product discovery, experimentation, and strategy seriously.
+
+### Skill: Agile and Lean practices
+
+- [ ] Select the Right Method: Compare delivery methods and choose deliberately for the context.
+- [ ] Adapt When It Fails: Reflect and adapt when something does not work, and encourage experimentation.
+- [ ] Blend Approaches: Use a mixed approach where that genuinely fits.
+- [ ] Help Teams Measure Outcomes: Support teams to measure, evaluate, and visualise real outcomes.
+- [ ] Encourage Reflective Practice: Build reflection into how the team works.
+
+### Skill: Applying user-centred insights
+
+- [ ] Represent Users Internally: Use insight to speak for users in internal discussions.
+- [ ] Advocate for Inclusive Research: Push for research with all types of users, including excluded ones.
+- [ ] Prioritise From Needs: Use user needs to agree the work and set priorities with the team.
+- [ ] Recommend Insight Tools: Work with others to choose the right tools for getting insight.
+
+### Skill: Creating value for money
+
+- [ ] Estimate Roadmap Value: Estimate the value of each item on your roadmap.
+- [ ] Compare Effort to Value: Use that comparison explicitly when prioritising.
+- [ ] Decide on Reuse: Judge when reuse is right and when it is not.
+- [ ] Escalate Value Risk: Know when and how to escalate risks to achieving value.
+- [ ] Validate With Stakeholders: Discuss estimates with stakeholders to check shared understanding.
+
+### Skill: Life cycle management
+
+- [ ] Manage Across Phases: Deliver value through different life cycle phases, with some support.
+- [ ] Judge Phase Transitions: Decide whether a product should move to the next phase and how.
+- [ ] Meet Service Standards: Ensure development aligns with the standards for each phase.
+- [ ] Adapt From New Information: Change your approach when evidence says you should.
+
+### Skill: Managing product outcomes
+
+- [ ] Define Key Performance Indicators: Work with others to define indicators that assess real value.
+- [ ] Use Trusted Data: Analyse and use reliable data to drive continuous improvement.
+- [ ] Be Open About Decisions: Share how and why you decided, including when you were wrong.
+- [ ] Explain Success Metrics: Help stakeholders understand what success looks like and why.
+
+### Skill: Product leadership
+
+- [ ] Advocate a Product-Led Approach: Make the case for products over projects.
+- [ ] Seek Reuse and Learning: Look actively for what already exists in your area.
+- [ ] Protect the Team: Shield the team from unnecessary distraction and direction changes.
+- [ ] Consult and Mediate: Work with stakeholders to resolve disagreements constructively.
+- [ ] Participate in the Community: Take an active part in product management community activity.
+
+### Skill: Product management
+
+- [ ] Validate What Adds Value: Investigate what adds value now and what could add value later.
+- [ ] Create a Prioritised Roadmap: Use it to discuss strategy with stakeholders, not just to track work.
+- [ ] Manage Uncertainty and Scope: Meet critical deadlines while still delivering value.
+- [ ] Recommend Methods: Know a range of product management methods well enough to advise.
+- [ ] Work in the Open: Share your work and your reasoning.
+
+### Skill: Stakeholder relationship management
+
+- [ ] Develop Team Understanding: Build a shared view of stakeholders with the team.
+- [ ] Implement Communication Strategies: Develop and run stakeholder communication strategies.
+- [ ] Resolve Issues and Influence: Identify and resolve issues before they become blockers.
+- [ ] Build Long-Term Relationships: Invest in relationships that outlast this product.
+
+### Skill: Strategic ownership
+
+- [ ] Develop Strategy With Others: Engage users and stakeholders in developing strategy and vision.
+- [ ] Justify Investment: Ensure the strategy sets out value, benefits, and outcomes clearly.
+- [ ] Review and Iterate: Revisit the strategy regularly rather than annually.
+- [ ] Learn Strategy Craft: Study how good product strategy is written.
+
+### Skill Growth Plan: Toward Senior Product Manager
+
+- [ ] Review the Next Level: Read the Senior product manager skill descriptions and mark your gaps.
+- [ ] Take On Complexity: Ask for a complex, high risk, or sensitive product.
+- [ ] Start Managing: Prepare for managing product managers, including formal training.
+- [ ] Learn Business Cases: Contribute to a business case and learn how funding really works.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,95 +195,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Product manager** role at the **Product manager** level. You are responsible for product quality and value, you work with the team to identify, implement, and improve strategies and tactics, you lead a product through the whole life cycle from discovery to retirement, you support senior and lead product managers, and you may recruit and manage people in the product profession. Your development now is about ownership and evidence-led judgement.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/product-and-delivery/product-manager/2-product-manager.md`](../../../assessments/product-and-delivery/product-manager/2-product-manager.md)
-- Upskilling: [`upskills/product-and-delivery/product-manager/2-product-manager.md`](../../../upskills/product-and-delivery/product-manager/2-product-manager.md)
-
-### Role Level Focus: Product Manager
-
-- [ ] Lead Through the Life Cycle: Take a product through phases, including the hard decision to stop or retire.
-- [ ] Own Quality and Value: Take genuine responsibility for whether the product is good and worth its cost.
-- [ ] Prioritise Ruthlessly: Practise saying no clearly and explaining why.
-- [ ] Measure Outcomes: Establish outcome measures with a baseline, and act on what they say.
-- [ ] Work in the Open: Publish your roadmap, decisions, and learning where policy allows.
-- [ ] Learn Recruitment: If you hire, train in Success Profiles and inclusive recruitment.
-- [ ] Deepen Product Craft: Study product discovery, experimentation, and strategy seriously.
-
-### Skill: Agile and Lean practices
-
-- [ ] Select the Right Method: Compare delivery methods and choose deliberately for the context.
-- [ ] Adapt When It Fails: Reflect and adapt when something does not work, and encourage experimentation.
-- [ ] Blend Approaches: Use a mixed approach where that genuinely fits.
-- [ ] Help Teams Measure Outcomes: Support teams to measure, evaluate, and visualise real outcomes.
-- [ ] Encourage Reflective Practice: Build reflection into how the team works.
-
-### Skill: Applying user-centred insights
-
-- [ ] Represent Users Internally: Use insight to speak for users in internal discussions.
-- [ ] Advocate for Inclusive Research: Push for research with all types of users, including excluded ones.
-- [ ] Prioritise From Needs: Use user needs to agree the work and set priorities with the team.
-- [ ] Recommend Insight Tools: Work with others to choose the right tools for getting insight.
-
-### Skill: Creating value for money
-
-- [ ] Estimate Roadmap Value: Estimate the value of each item on your roadmap.
-- [ ] Compare Effort to Value: Use that comparison explicitly when prioritising.
-- [ ] Decide on Reuse: Judge when reuse is right and when it is not.
-- [ ] Escalate Value Risk: Know when and how to escalate risks to achieving value.
-- [ ] Validate With Stakeholders: Discuss estimates with stakeholders to check shared understanding.
-
-### Skill: Life cycle management
-
-- [ ] Manage Across Phases: Deliver value through different life cycle phases, with some support.
-- [ ] Judge Phase Transitions: Decide whether a product should move to the next phase and how.
-- [ ] Meet Service Standards: Ensure development aligns with the standards for each phase.
-- [ ] Adapt From New Information: Change your approach when evidence says you should.
-
-### Skill: Managing product outcomes
-
-- [ ] Define Key Performance Indicators: Work with others to define indicators that assess real value.
-- [ ] Use Trusted Data: Analyse and use reliable data to drive continuous improvement.
-- [ ] Be Open About Decisions: Share how and why you decided, including when you were wrong.
-- [ ] Explain Success Metrics: Help stakeholders understand what success looks like and why.
-
-### Skill: Product leadership
-
-- [ ] Advocate a Product-Led Approach: Make the case for products over projects.
-- [ ] Seek Reuse and Learning: Look actively for what already exists in your area.
-- [ ] Protect the Team: Shield the team from unnecessary distraction and direction changes.
-- [ ] Consult and Mediate: Work with stakeholders to resolve disagreements constructively.
-- [ ] Participate in the Community: Take an active part in product management community activity.
-
-### Skill: Product management
-
-- [ ] Validate What Adds Value: Investigate what adds value now and what could add value later.
-- [ ] Create a Prioritised Roadmap: Use it to discuss strategy with stakeholders, not just to track work.
-- [ ] Manage Uncertainty and Scope: Meet critical deadlines while still delivering value.
-- [ ] Recommend Methods: Know a range of product management methods well enough to advise.
-- [ ] Work in the Open: Share your work and your reasoning.
-
-### Skill: Stakeholder relationship management
-
-- [ ] Develop Team Understanding: Build a shared view of stakeholders with the team.
-- [ ] Implement Communication Strategies: Develop and run stakeholder communication strategies.
-- [ ] Resolve Issues and Influence: Identify and resolve issues before they become blockers.
-- [ ] Build Long-Term Relationships: Invest in relationships that outlast this product.
-
-### Skill: Strategic ownership
-
-- [ ] Develop Strategy With Others: Engage users and stakeholders in developing strategy and vision.
-- [ ] Justify Investment: Ensure the strategy sets out value, benefits, and outcomes clearly.
-- [ ] Review and Iterate: Revisit the strategy regularly rather than annually.
-- [ ] Learn Strategy Craft: Study how good product strategy is written.
-
-### Skill Growth Plan: Toward Senior Product Manager
-
-- [ ] Review the Next Level: Read the Senior product manager skill descriptions and mark your gaps.
-- [ ] Take On Complexity: Ask for a complex, high risk, or sensitive product.
-- [ ] Start Managing: Prepare for managing product managers, including formal training.
-- [ ] Learn Business Cases: Contribute to a business case and learn how funding really works.

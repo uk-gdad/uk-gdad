@@ -76,15 +76,14 @@ itself.
 
 ## Rating scale
 
-Every skill in this record is rated on the same five-point scale:
+Every skill in this record is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well the
 person does the thing, on the evidence available, not how often they do it.
@@ -93,10 +92,10 @@ describe the person's actual, observed practice rather than to compare that
 practice against a target.
 
 **A worked example**, using Cyber incident management, one of the eight
-skills this role names. Evidence at 1 — Beginner might be a candidate who can
+skills this role names. Evidence at 1 — Awareness might be a candidate who can
 describe the phases of incident response in general terms, but has only ever
 followed someone else's instructions during an actual incident. Evidence at 3
-— Advanced might be a candidate who has led the response to a real cyber
+— Practitioner might be a candidate who has led the response to a real cyber
 incident for a mid-sized organisation, can describe the decisions they made
 under pressure, and can explain what they changed afterwards so the
 organisation would detect and respond faster next time. Evidence at 4 —
@@ -164,17 +163,14 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has built security capability in
-  others — no training programme, no coaching relationship, no example of
-  raising a team's or organisation's security skill.
-- 1 — Beginner: The person can describe why security capability building
+- 1 — Awareness: The person can describe why security capability building
   matters, but the evidence shows only informal, occasional help to
   individual colleagues rather than a deliberate effort.
-- 2 — Intermediate: The person has contributed to a capability activity — a
+- 2 — Working: The person has contributed to a capability activity — a
   security training programme, a coaching relationship, a recruitment or
   upskilling plan for a security function — with support from a learning and
   development function.
-- 3 — Advanced: The person has independently implemented a practice that
+- 3 — Practitioner: The person has independently implemented a practice that
   increased the maturity of information and cyber security through building
   people's capability, and can describe how they measured whether it worked.
 - 4 — Expert: The person has built security capability at a scale that
@@ -193,10 +189,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -207,14 +202,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has changed how people in an
-  organisation think about or practise security day to day.
-- 1 — Beginner: The person can describe what a good security culture looks
+- 1 — Awareness: The person can describe what a good security culture looks
   like, but has not led an effort to change one themselves.
-- 2 — Intermediate: The person has contributed to a security awareness
+- 2 — Working: The person has contributed to a security awareness
   campaign or culture initiative led by someone else, and can describe what
   made it land or fail.
-- 3 — Advanced: The person has independently encouraged a culture of cyber
+- 3 — Practitioner: The person has independently encouraged a culture of cyber
   security awareness and good security practices, and can describe a
   measurable change in behaviour — not just awareness — that resulted.
 - 4 — Expert: The person's approach to security culture has demonstrably
@@ -233,10 +226,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -247,15 +239,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has been part of, let alone led,
-  the response to a real cyber incident.
-- 1 — Beginner: The person can describe the phases of incident response in
+- 1 — Awareness: The person can describe the phases of incident response in
   general terms, but has only followed instructions during an actual
   incident rather than led one.
-- 2 — Intermediate: The person has taken a defined role in incident response,
+- 2 — Working: The person has taken a defined role in incident response,
   with support from a more senior incident lead, and can describe what they
   personally were responsible for.
-- 3 — Advanced: The person has independently ensured their organisation is
+- 3 — Practitioner: The person has independently ensured their organisation is
   prepared for cyber attacks and can detect, respond to and recover from one,
   and can describe a real incident they led, without disclosing sensitive
   detail, and what changed afterwards.
@@ -277,10 +267,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -291,14 +280,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has assessed or advised on cyber
-  risk for an organisation.
-- 1 — Beginner: The person can describe cyber risk concepts in general terms,
+- 1 — Awareness: The person can describe cyber risk concepts in general terms,
   but has not personally advised the board or a senior leader on a real risk.
-- 2 — Intermediate: The person has contributed to a risk assessment or advice
+- 2 — Working: The person has contributed to a risk assessment or advice
   paper, with support from a risk function, and can describe the reasoning
   behind a specific risk judgement.
-- 3 — Advanced: The person has independently understood risks across an
+- 3 — Practitioner: The person has independently understood risks across an
   organisation and advised the board and other leaders on how to mitigate
   them, in their areas and in future plans, and can describe a risk they
   judged should be accepted rather than mitigated, and why.
@@ -318,10 +305,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -332,15 +318,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has evaluated or led how an
-  organisation governs its information and cyber security.
-- 1 — Beginner: The person can describe governance structures in general
+- 1 — Awareness: The person can describe governance structures in general
   terms, but has only followed governance set by others rather than led or
   evaluated it.
-- 2 — Intermediate: The person has contributed to evaluating the current
+- 2 — Working: The person has contributed to evaluating the current
   status and maturity of an organisation's information and cyber security,
   with support, and can describe a specific gap the evaluation found.
-- 3 — Advanced: The person has independently evaluated an organisation's
+- 3 — Practitioner: The person has independently evaluated an organisation's
   security maturity and led the implementation of a strategy to close the
   gap, and can describe how governance changed as a result.
 - 4 — Expert: The person's governance leadership has demonstrably lifted an
@@ -359,10 +343,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -373,15 +356,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has enabled an organisation to
-  innovate safely and securely, or that they have balanced innovation
-  against security risk.
-- 1 — Beginner: The person can describe examples of safe innovation
+- 1 — Awareness: The person can describe examples of safe innovation
   elsewhere, but has no example of enabling one themselves.
-- 2 — Intermediate: The person has supported an innovative approach or
+- 2 — Working: The person has supported an innovative approach or
   technology introduced by someone else, and can describe how security was
   built in alongside it.
-- 3 — Advanced: The person has independently enabled the organisation to be
+- 3 — Practitioner: The person has independently enabled the organisation to be
   innovative in a safe and secure way, and can describe a specific
   innovation they made possible by finding a proportionate security approach
   rather than blocking it.
@@ -401,10 +381,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -415,16 +394,13 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: The person cannot describe how their organisation's security
-  architecture works, and shows no evidence of having shaped a decision about
-  it.
-- 1 — Beginner: The person can talk about security architecture principles
+- 1 — Awareness: The person can talk about security architecture principles
   in general terms, but has not been accountable for a real architecture
   decision.
-- 2 — Intermediate: The person has contributed to a security architecture
+- 2 — Working: The person has contributed to a security architecture
   decision, working alongside specialist security architects, and can
   explain the reasoning behind at least one such decision.
-- 3 — Advanced: The person has independently determined how to get an
+- 3 — Practitioner: The person has independently determined how to get an
   organisation to the level of security maturity it needs through
   architecture choices, and can describe a specific decision and the maturity
   gap it closed.
@@ -445,10 +421,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -459,14 +434,12 @@ published against any of them:
 
 **Behavioural indicators**
 
-- 0 — None: There is no evidence the person has written or led a cyber
-  security strategy.
-- 1 — Beginner: The person can explain what a cyber security strategy is and
+- 1 — Awareness: The person can explain what a cyber security strategy is and
   why an organisation needs one, but has never written or led one themselves.
-- 2 — Intermediate: The person has contributed to a cyber security strategy,
+- 2 — Working: The person has contributed to a cyber security strategy,
   with support from a more senior sponsor, and can describe how it aligned
   with the organisation's and wider government security strategy.
-- 3 — Advanced: The person has independently created a strategy for
+- 3 — Practitioner: The person has independently created a strategy for
   information and cyber security that supports both the organisation's
   strategy and wider government security strategy, led its implementation,
   and can describe how it raised the organisation's maturity.
@@ -487,10 +460,9 @@ published against any of them:
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

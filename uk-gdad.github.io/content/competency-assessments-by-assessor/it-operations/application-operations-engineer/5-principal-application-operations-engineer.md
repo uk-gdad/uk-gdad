@@ -24,11 +24,10 @@ This competency assessment is created by AI and is a work in progress for educat
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well the person does the thing, on the evidence available, not how often they do it.
 
@@ -56,10 +55,9 @@ Baseline: 4 — Expert. "Manage service compliance and risk" is organisation-lev
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what service compliance or risk means for configuration management.
-- 1 — Beginner: Manages configuration items for a single area with support.
-- 2 — Intermediate: Manages configuration items independently but has not yet owned compliance or risk at an estate level.
-- 3 — Advanced: Manages configuration compliance and risk across the estate, catching issues before they become material.
+- 1 — Awareness: Manages configuration items for a single area with support.
+- 2 — Working: Manages configuration items independently but has not yet owned compliance or risk at an estate level.
+- 3 — Practitioner: Manages configuration compliance and risk across the estate, catching issues before they become material.
 - 4 — Expert: Owns configuration compliance and risk policy for the estate, and other leads escalate their hardest configuration risk decisions to this person.
 
 **Evidence to gather**
@@ -69,10 +67,9 @@ Baseline: 4 — Expert. "Manage service compliance and risk" is organisation-lev
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -89,10 +86,9 @@ Baseline: 4 — Expert. "Ensure correct implementation of standards" across the 
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how availability or capacity standards are set.
-- 1 — Beginner: Follows availability and capacity standards someone else set.
-- 2 — Intermediate: Applies standards independently within their own area.
-- 3 — Advanced: Ensures standards are correctly implemented across more than one area, and initiates remedial action when they are not.
+- 1 — Awareness: Follows availability and capacity standards someone else set.
+- 2 — Working: Applies standards independently within their own area.
+- 3 — Practitioner: Ensures standards are correctly implemented across more than one area, and initiates remedial action when they are not.
 - 4 — Expert: Owns the availability and capacity standards themselves, and is accountable for their correct implementation estate-wide.
 
 **Evidence to gather**
@@ -102,10 +98,9 @@ Baseline: 4 — Expert. "Ensure correct implementation of standards" across the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -118,14 +113,13 @@ The framework expects a principal application operations engineer to manage high
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is identical to the lead level's, so the baseline stays at Advanced rather than rising to Expert on wording alone — a principal candidate who also sets or redefines release policy for the estate should be rated 4, but that is not what the framework's own text names as the expectation.
+Baseline: 3 — Practitioner. The wording is identical to the lead level's, so the baseline stays at Practitioner rather than rising to Expert on wording alone — a principal candidate who also sets or redefines release policy for the estate should be rated 4, but that is not what the framework's own text names as the expectation.
 
 **Behavioural indicators**
 
-- 0 — None: Has never handled a complex, high impact change.
-- 1 — Beginner: Handles a high impact change only with close direction.
-- 2 — Intermediate: Manages moderately complex changes with occasional guidance.
-- 3 — Advanced: Manages high impact, complex change requests independently, ensuring release policy is applied correctly throughout.
+- 1 — Awareness: Handles a high impact change only with close direction.
+- 2 — Working: Manages moderately complex changes with occasional guidance.
+- 3 — Practitioner: Manages high impact, complex change requests independently, ensuring release policy is applied correctly throughout.
 - 4 — Expert: Sets or substantially redefines the release policies and processes the whole team applies.
 
 **Evidence to gather**
@@ -135,10 +129,9 @@ Baseline: 3 — Advanced. The wording is identical to the lead level's, so the b
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -151,14 +144,13 @@ The framework expects a principal application operations engineer to lead the in
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. As with change management, the wording matches the lead level exactly, so the baseline stays at Advanced; a candidate demonstrably mentoring others through incident leadership should score 4.
+Baseline: 3 — Practitioner. As with change management, the wording matches the lead level exactly, so the baseline stays at Practitioner; a candidate demonstrably mentoring others through incident leadership should score 4.
 
 **Behavioural indicators**
 
-- 0 — None: Has never led an incident response.
-- 1 — Beginner: Contributes to incidents someone else leads.
-- 2 — Intermediate: Leads straightforward incidents with support available.
-- 3 — Advanced: Leads the investigation and resolution of incidents independently, including the most difficult ones.
+- 1 — Awareness: Contributes to incidents someone else leads.
+- 2 — Working: Leads straightforward incidents with support available.
+- 3 — Practitioner: Leads the investigation and resolution of incidents independently, including the most difficult ones.
 - 4 — Expert: Is called on to lead the organisation's hardest incidents, and mentors other leads in incident leadership.
 
 **Evidence to gather**
@@ -168,10 +160,9 @@ Baseline: 3 — Advanced. As with change management, the wording matches the lea
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -184,14 +175,13 @@ The framework expects a principal application operations engineer to take accoun
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording matches the lead level exactly, so the baseline stays consistent at Advanced.
+Baseline: 3 — Practitioner. The wording matches the lead level exactly, so the baseline stays consistent at Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Only responds to issues once raised by someone else.
-- 1 — Beginner: Takes accountability for an issue when told to.
-- 2 — Intermediate: Takes accountability for issues in their own area, occasionally spotting problems early.
-- 3 — Advanced: Consistently and independently searches for potential problems ahead of time, and produces excellent outcomes for users across the estate.
+- 1 — Awareness: Takes accountability for an issue when told to.
+- 2 — Working: Takes accountability for issues in their own area, occasionally spotting problems early.
+- 3 — Practitioner: Consistently and independently searches for potential problems ahead of time, and produces excellent outcomes for users across the estate.
 - 4 — Expert: Builds proactive ownership into how the whole team and its vendors operate.
 
 **Evidence to gather**
@@ -201,10 +191,9 @@ Baseline: 3 — Advanced. The wording matches the lead level exactly, so the bas
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -221,10 +210,9 @@ Baseline: 4 — Expert. "Ensure the right actions are taken" and "co-ordinate th
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how problem management is co-ordinated across a team.
-- 1 — Beginner: Investigates individual problems personally, without co-ordinating others.
-- 2 — Intermediate: Co-ordinates a small piece of problem investigation involving another person.
-- 3 — Advanced: Co-ordinates the team's problem investigation for most situations, ensuring resolution and preventative measures follow.
+- 1 — Awareness: Investigates individual problems personally, without co-ordinating others.
+- 2 — Working: Co-ordinates a small piece of problem investigation involving another person.
+- 3 — Practitioner: Co-ordinates the team's problem investigation for most situations, ensuring resolution and preventative measures follow.
 - 4 — Expert: Owns and continuously improves how the whole team anticipates, investigates and resolves problems, including problems that span vendors.
 
 **Evidence to gather**
@@ -234,10 +222,9 @@ Baseline: 4 — Expert. "Ensure the right actions are taken" and "co-ordinate th
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -254,10 +241,9 @@ Baseline: 4 — Expert. "See the bigger picture" across groups of services is th
 
 **Behavioural indicators**
 
-- 0 — None: Only considers their own application in isolation.
-- 1 — Beginner: Considers how one other service connects to their own, with help.
-- 2 — Intermediate: Considers how a small group of related services interact.
-- 3 — Advanced: Investigates how to get the best from groups of underlying services independently.
+- 1 — Awareness: Considers how one other service connects to their own, with help.
+- 2 — Working: Considers how a small group of related services interact.
+- 3 — Practitioner: Investigates how to get the best from groups of underlying services independently.
 - 4 — Expert: Is the person others rely on to see how the whole application estate's underlying services should best work together.
 
 **Evidence to gather**
@@ -267,10 +253,9 @@ Baseline: 4 — Expert. "See the bigger picture" across groups of services is th
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -287,10 +272,9 @@ Baseline: 4 — Expert. The framework names an expert-level qualification explic
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Holds only a Level 3 qualification, working towards something higher.
-- 2 — Intermediate: Holds an intermediate-level qualification above Level 3.
-- 3 — Advanced: Holds an expert-level qualification, applied consistently but not yet used to teach others.
+- 1 — Awareness: Holds only a Level 3 qualification, working towards something higher.
+- 2 — Working: Holds an intermediate-level qualification above Level 3.
+- 3 — Practitioner: Holds an expert-level qualification, applied consistently but not yet used to teach others.
 - 4 — Expert: Holds an expert-level qualification and is regularly asked to settle disputes about, or train others in, how the framework should be applied.
 
 **Evidence to gather**
@@ -300,10 +284,9 @@ Baseline: 4 — Expert. The framework names an expert-level qualification explic
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -320,10 +303,9 @@ Baseline: 4 — Expert. Understanding where technology is heading and delivering
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe any technology trend relevant to the application estate.
-- 1 — Beginner: Is aware of technology trends but has not connected them to a plan.
-- 2 — Intermediate: Contributes to a technical model someone else is leading.
-- 3 — Advanced: Delivers a technical model for a defined part of the estate independently.
+- 1 — Awareness: Is aware of technology trends but has not connected them to a plan.
+- 2 — Working: Contributes to a technical model someone else is leading.
+- 3 — Practitioner: Delivers a technical model for a defined part of the estate independently.
 - 4 — Expert: Sets the technical direction for the application estate, including how future technologies will coexist with current databases and systems.
 
 **Evidence to gather**
@@ -333,10 +315,9 @@ Baseline: 4 — Expert. Understanding where technology is heading and delivering
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -353,10 +334,9 @@ Baseline: 4 — Expert. Managing risk thresholds and customer relations around t
 
 **Behavioural indicators**
 
-- 0 — None: Has never managed testing risk or customer relations around a test cycle.
-- 1 — Beginner: Contributes to testing risk management someone else owns.
-- 2 — Intermediate: Manages testing risk for a defined, lower-stakes area.
-- 3 — Advanced: Manages testing risk and customer relations for significant development or integration activities independently.
+- 1 — Awareness: Contributes to testing risk management someone else owns.
+- 2 — Working: Manages testing risk for a defined, lower-stakes area.
+- 3 — Practitioner: Manages testing risk and customer relations for significant development or integration activities independently.
 - 4 — Expert: Sets the threshold for when testing risk becomes unacceptable across the estate, and is trusted to manage the customer relationship when that threshold is reached.
 
 **Evidence to gather**
@@ -366,10 +346,9 @@ Baseline: 4 — Expert. Managing risk thresholds and customer relations around t
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -386,10 +365,9 @@ Baseline: 4 — Expert. The wording matches the lead level exactly, but at the t
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with user research or represent users internally.
-- 1 — Beginner: Engages with user research when asked.
-- 2 — Intermediate: Represents users internally on straightforward matters.
-- 3 — Advanced: Champions user research and clearly distinguishes user needs from desires, guiding individual colleagues.
+- 1 — Awareness: Engages with user research when asked.
+- 2 — Working: Represents users internally on straightforward matters.
+- 3 — Practitioner: Champions user research and clearly distinguishes user needs from desires, guiding individual colleagues.
 - 4 — Expert: Sets how the whole team approaches user focus, is the recognised source of tool and method recommendations, and actively coaches others, including other leads.
 
 **Evidence to gather**
@@ -399,10 +377,9 @@ Baseline: 4 — Expert. The wording matches the lead level exactly, but at the t
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -413,9 +390,9 @@ Baseline: 4 — Expert. The wording matches the lead level exactly, but at the t
 | --- | --- | --- | --- |
 | Asset and configuration management | 4 — Expert | | |
 | Availability and capacity management | 4 — Expert | | |
-| Change management | 3 — Advanced | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
+| Change management | 3 — Practitioner | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
 | Problem management | 4 — Expert | | |
 | Service focus | 4 — Expert | | |
 | Service management framework knowledge | 4 — Expert | | |

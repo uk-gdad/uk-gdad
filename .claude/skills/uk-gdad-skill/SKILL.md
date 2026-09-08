@@ -41,7 +41,7 @@ Given a slug, these are the pages that exist for it on the website:
 | CPD checklist | `/<slug>/continuing-professional-development/` | Things to do to keep developing |
 | Assessment, by assessor | `/<slug>/assessment-by-assessor/` | Practice items written for someone else to administer to a candidate, with the answer key held back |
 | Assessment, by individual | `/<slug>/assessment-by-individual/` | The same four assessment types, to work through alone — try each question before reading the answer |
-| Competency assessment, by assessor | `/<slug>/competency-assessment-by-assessor/` | A skill-by-skill matrix an assessor rates a candidate or employee against, 0–4 |
+| Competency assessment, by assessor | `/<slug>/competency-assessment-by-assessor/` | A skill-by-skill matrix an assessor rates a candidate or employee against, 1–4 |
 | Competency assessment, by individual | `/<slug>/competency-assessment-by-individual/` | The same matrix, generated from its sibling, for you to rate yourself against |
 | Skills gap form | `/<slug>/skills-gap-form/` | A form to compare what you do now against what the level expects — fillable on the page, saved in your own browser |
 

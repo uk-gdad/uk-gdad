@@ -49,22 +49,21 @@ still building.
 
 ## Rating scale
 
-Every skill below is rated on the same five-point scale. This is a
+Every skill below is rated on the same four-point scale. This is a
 **proficiency** scale, not a frequency scale — it measures how well someone does the thing, on the evidence available, not how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 **Worked example, using Product leadership.** Someone rated
-**2 — Intermediate** represents their own product area to senior
+**2 — Working** represents their own product area to senior
 stakeholders when asked, but has not yet been asked to speak for product
 management more broadly and does not yet coordinate other product managers'
-work. Someone rated **3 — Advanced** independently represents a
+work. Someone rated **3 — Practitioner** independently represents a
 business unit to senior stakeholders, mentors several product managers, and
 has led a specific piece of community activity, such as a guild session or
 a hiring panel. Someone rated **4 — Expert** co-ordinates the whole
@@ -151,13 +150,11 @@ portfolio.
 
 **Behavioural indicators**
 
-- 0 — None: Has not shaped how a team or the organisation works, beyond
-  following an approach designed elsewhere.
-- 1 — Beginner: Understands Agile and Lean concepts, but has not
+- 1 — Awareness: Understands Agile and Lean concepts, but has not
   introduced or changed a working approach at scale.
-- 2 — Intermediate: Has adapted a working approach for one team or
+- 2 — Working: Has adapted a working approach for one team or
   portfolio, with support from more experienced colleagues.
-- 3 — Advanced: Has independently introduced or reshaped a working
+- 3 — Practitioner: Has independently introduced or reshaped a working
   approach across several teams and can defend the reasoning.
 - 4 — Expert: Is the organisation's recognised authority on Agile and Lean
   practice, has run experiments that changed how delivery works
@@ -176,10 +173,9 @@ portfolio.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -203,13 +199,11 @@ within a portfolio that the same wording implies at lead product manager.
 
 **Behavioural indicators**
 
-- 0 — None: Has not championed the use of user insight beyond their own
-  immediate decisions.
-- 1 — Beginner: Uses research findings when handed them but does not seek
+- 1 — Awareness: Uses research findings when handed them but does not seek
   them out proactively or push others to.
-- 2 — Intermediate: Encourages research use within their own area, with
+- 2 — Working: Encourages research use within their own area, with
   mixed success getting other teams to follow.
-- 3 — Advanced: Has visibly changed how more than one business area uses
+- 3 — Practitioner: Has visibly changed how more than one business area uses
   user insight in decision making.
 - 4 — Expert: Has built or embedded an organisation-wide standard for using
   user insight in product decisions, and senior leaders outside product
@@ -226,10 +220,9 @@ within a portfolio that the same wording implies at lead product manager.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -255,13 +248,11 @@ others about a business case rather than owning one.
 
 **Behavioural indicators**
 
-- 0 — None: Has not owned a business case across its life cycle, and
-  cannot describe how value is tracked once a product goes live.
-- 1 — Beginner: Has contributed sections to a business case but has not
+- 1 — Awareness: Has contributed sections to a business case but has not
   owned or iterated one themselves.
-- 2 — Intermediate: Owns a business case for one product, with support
+- 2 — Working: Owns a business case for one product, with support
   when it needs to be revised.
-- 3 — Advanced: Owns and iterates a business case independently across a
+- 3 — Practitioner: Owns and iterates a business case independently across a
   product's life cycle, and coaches one or two other product managers on
   value-for-money thinking.
 - 4 — Expert: Has built the organisation's approach to demonstrating
@@ -280,10 +271,9 @@ others about a business case rather than owning one.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -300,7 +290,7 @@ other teams, providing guidance and support.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The published wording describes coaching teams and
+Baseline: 3 — Practitioner. The published wording describes coaching teams and
 contributing to assessments — the same accountability, at the same
 independent, strong-practice level, as lead product manager. Unlike
 Creating value for money or Product leadership, nothing in this level's own
@@ -310,13 +300,11 @@ supports it.
 
 **Behavioural indicators**
 
-- 0 — None: Has not led a product through a full life cycle transition or
-  contributed to another team's service assessment.
-- 1 — Beginner: Understands the life cycle phases but has followed rather
+- 1 — Awareness: Understands the life cycle phases but has followed rather
   than led decisions about moving between them.
-- 2 — Intermediate: Manages life cycle risk for one product with support,
+- 2 — Working: Manages life cycle risk for one product with support,
   and has sat on but not led an assessment.
-- 3 — Advanced: Coaches teams through life cycle transitions, anticipates
+- 3 — Practitioner: Coaches teams through life cycle transitions, anticipates
   and mitigates risk before it lands, and formally contributes guidance to
   other teams' assessments.
 - 4 — Expert: Sets the organisation's expectations for how a life cycle
@@ -334,10 +322,9 @@ supports it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -363,13 +350,11 @@ teams within a portfolio to build measurement methods.
 
 **Behavioural indicators**
 
-- 0 — None: Has not used data to influence a decision above their own
-  product's scope.
-- 1 — Beginner: Reports outcome data but has not used it to change a
+- 1 — Awareness: Reports outcome data but has not used it to change a
   senior stakeholder's priorities.
-- 2 — Intermediate: Uses data to influence prioritisation within their own
+- 2 — Working: Uses data to influence prioritisation within their own
   area, with mixed success at a senior level.
-- 3 — Advanced: Has changed a senior stakeholder's priorities with data on
+- 3 — Practitioner: Has changed a senior stakeholder's priorities with data on
   more than one occasion, and challenges teams to demonstrate outcomes
   properly.
 - 4 — Expert: Routinely uses data to shape senior, cross-organisation
@@ -387,10 +372,9 @@ teams within a portfolio to build measurement methods.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -417,13 +401,11 @@ local area and its community.
 
 **Behavioural indicators**
 
-- 0 — None: Has not co-ordinated a product community or represented
-  product management to a senior stakeholder beyond their own team.
-- 1 — Beginner: Contributes to community activities organised by someone
+- 1 — Awareness: Contributes to community activities organised by someone
   else, without leading any of them.
-- 2 — Intermediate: Leads occasional community activities within their own
+- 2 — Working: Leads occasional community activities within their own
   organisation, and represents one product area to senior stakeholders.
-- 3 — Advanced: Regularly leads coaching and mentoring for product
+- 3 — Practitioner: Regularly leads coaching and mentoring for product
   management across the organisation, and takes part in cross-government
   community work.
 - 4 — Expert: Co-ordinates the entire product management community in
@@ -442,10 +424,9 @@ local area and its community.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -471,13 +452,11 @@ mastery is the expectation at that scale.
 
 **Behavioural indicators**
 
-- 0 — None: Has not set a product strategy that shaped work across more
-  than one portfolio.
-- 1 — Beginner: Follows a roadmap set at portfolio level without shaping
+- 1 — Awareness: Follows a roadmap set at portfolio level without shaping
   organisation-wide strategy.
-- 2 — Intermediate: Contributes to strategy discussions above portfolio
+- 2 — Working: Contributes to strategy discussions above portfolio
   level, with support from more senior colleagues.
-- 3 — Advanced: Sets strategy independently for more than one portfolio,
+- 3 — Practitioner: Sets strategy independently for more than one portfolio,
   and discusses it credibly with senior stakeholders.
 - 4 — Expert: Sets and defends product strategy at organisation level,
   routinely discusses it with the most senior stakeholders, and coaches
@@ -496,10 +475,9 @@ mastery is the expectation at that scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -523,13 +501,11 @@ mastery at that scale.
 
 **Behavioural indicators**
 
-- 0 — None: Has not personally negotiated with the most senior
-  stakeholders in the organisation to resolve a contentious issue.
-- 1 — Beginner: Manages stakeholder relationships for a single product,
+- 1 — Awareness: Manages stakeholder relationships for a single product,
   escalating anything senior to someone else.
-- 2 — Intermediate: Negotiates with senior stakeholders on their own
+- 2 — Working: Negotiates with senior stakeholders on their own
   product's behalf, with occasional support.
-- 3 — Advanced: Directs stakeholder strategy for a portfolio, and has
+- 3 — Practitioner: Directs stakeholder strategy for a portfolio, and has
   independently resolved a contentious senior disagreement.
 - 4 — Expert: Directs stakeholder strategy at organisation level, and is
   someone other product managers bring their most difficult senior
@@ -546,10 +522,9 @@ mastery at that scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -566,7 +541,7 @@ alignment across the organisation.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The framework's own wording at this level, as at
+Baseline: 3 — Practitioner. The framework's own wording at this level, as at
 lead product manager, describes supporting and coaching others toward
 strategy rather than personally owning or setting it — strong, independent
 contribution and organisation-wide alignment-checking, but the text stops
@@ -575,13 +550,11 @@ Product leadership and Managing product outcomes explicitly do.
 
 **Behavioural indicators**
 
-- 0 — None: Has not checked or influenced strategic alignment beyond their
-  own immediate area.
-- 1 — Beginner: Can describe organisation strategy but has not supported
+- 1 — Awareness: Can describe organisation strategy but has not supported
   anyone else in shaping or delivering it.
-- 2 — Intermediate: Supports one other product manager's strategic work,
+- 2 — Working: Supports one other product manager's strategic work,
   with guidance from someone more senior.
-- 3 — Advanced: Coaches multiple product managers through building and
+- 3 — Practitioner: Coaches multiple product managers through building and
   delivering strategy, has persuaded a resistant senior stakeholder to back
   one, and actively checks alignment across the organisation.
 - 4 — Expert: Is the final point of escalation for strategic alignment
@@ -599,10 +572,9 @@ Product leadership and Managing product outcomes explicitly do.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -614,12 +586,12 @@ Product leadership and Managing product outcomes explicitly do.
 | Agile and Lean practices | 4 — Expert | | |
 | Applying user-centred insights | 4 — Expert | | |
 | Creating value for money | 4 — Expert | | |
-| Life cycle management | 3 — Advanced | | |
+| Life cycle management | 3 — Practitioner | | |
 | Managing product outcomes | 4 — Expert | | |
 | Product leadership | 4 — Expert | | |
 | Product management | 4 — Expert | | |
 | Stakeholder relationship management | 4 — Expert | | |
-| Strategic ownership | 3 — Advanced | | |
+| Strategic ownership | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

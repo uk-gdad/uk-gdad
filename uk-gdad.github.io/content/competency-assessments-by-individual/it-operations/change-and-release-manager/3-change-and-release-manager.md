@@ -51,11 +51,10 @@ still building.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a proficiency scale, not a frequency scale — it rates how well someone does the thing, on the evidence available, not how often they do it.
 
@@ -83,10 +82,9 @@ Baseline: 4 — Expert. "Manage configuration management for the organisation" a
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe organisation-level configuration management policy.
-- 1 — Beginner: Manages configuration accuracy for a single area with support.
-- 2 — Intermediate: Manages configuration accuracy for a single area independently.
-- 3 — Advanced: Ensures changes to assets are recorded and controlled across more than one area, catching gaps in policy adherence.
+- 1 — Awareness: Manages configuration accuracy for a single area with support.
+- 2 — Working: Manages configuration accuracy for a single area independently.
+- 3 — Practitioner: Ensures changes to assets are recorded and controlled across more than one area, catching gaps in policy adherence.
 - 4 — Expert: Owns configuration management policy for the whole organisation and actively advocates for asset control commitment at a senior level.
 
 **Evidence to gather**
@@ -96,10 +94,9 @@ Baseline: 4 — Expert. "Manage configuration management for the organisation" a
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -112,14 +109,13 @@ The framework expects a change and release manager to manage service components 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Managing components against a KPI, independently and reliably, is solid working practice; the wording here does not reach the organisation-wide ownership language used elsewhere in this level's skill set, so it stays at Advanced rather than Expert.
+Baseline: 3 — Practitioner. Managing components against a KPI, independently and reliably, is solid working practice; the wording here does not reach the organisation-wide ownership language used elsewhere in this level's skill set, so it stays at Practitioner rather than Expert.
 
 **Behavioural indicators**
 
-- 0 — None: Does not know what availability or capacity KPIs apply to changes they schedule.
-- 1 — Beginner: Reads KPI figures but needs help interpreting them.
-- 2 — Intermediate: Manages routine capacity actions with some guidance.
-- 3 — Advanced: Independently manages service components to meet KPIs, factoring capacity into change scheduling decisions.
+- 1 — Awareness: Reads KPI figures but needs help interpreting them.
+- 2 — Working: Manages routine capacity actions with some guidance.
+- 3 — Practitioner: Independently manages service components to meet KPIs, factoring capacity into change scheduling decisions.
 - 4 — Expert: Sets or redefines the availability and capacity standards the CAB uses to judge change risk.
 
 **Evidence to gather**
@@ -128,10 +124,9 @@ Baseline: 3 — Advanced. Managing components against a KPI, independently and r
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -148,10 +143,9 @@ Baseline: 4 — Expert. This is the defining skill of the role — chairing the 
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how a change management process is designed or improved.
-- 1 — Beginner: Follows an existing change process without contributing to its improvement.
-- 2 — Intermediate: Suggests improvements to a change process with support implementing them.
-- 3 — Advanced: Implements new change management processes independently and optimises existing ones.
+- 1 — Awareness: Follows an existing change process without contributing to its improvement.
+- 2 — Working: Suggests improvements to a change process with support implementing them.
+- 3 — Practitioner: Implements new change management processes independently and optimises existing ones.
 - 4 — Expert: Chairs the CAB, is the final decision point on contested technical changes, and continuously improves the process the whole organisation follows.
 
 **Evidence to gather**
@@ -162,10 +156,9 @@ Baseline: 4 — Expert. This is the defining skill of the role — chairing the 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -178,14 +171,13 @@ The framework expects a change and release manager to work collaboratively in a 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Actively diagnosing and rectifying team dynamic issues is independent, applied leadership of collaboration, which matches Advanced.
+Baseline: 3 — Practitioner. Actively diagnosing and rectifying team dynamic issues is independent, applied leadership of collaboration, which matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Works in isolation and does not engage in team health or collaboration practices.
-- 1 — Beginner: Participates in a team health check without acting on what it surfaces.
-- 2 — Intermediate: Networks and collaborates with support identifying underlying team dynamic issues.
-- 3 — Advanced: Actively networks across the organisation, adapts feedback so it lands effectively, and uses insight from their own area to identify and rectify team dynamic problems.
+- 1 — Awareness: Participates in a team health check without acting on what it surfaces.
+- 2 — Working: Networks and collaborates with support identifying underlying team dynamic issues.
+- 3 — Practitioner: Actively networks across the organisation, adapts feedback so it lands effectively, and uses insight from their own area to identify and rectify team dynamic problems.
 - 4 — Expert: Is asked to run or improve Agile health checks for other teams beyond their own.
 
 **Evidence to gather**
@@ -195,10 +187,9 @@ Baseline: 3 — Advanced. Actively diagnosing and rectifying team dynamic issues
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -211,14 +202,13 @@ The framework expects a change and release manager to explain the basic principl
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The wording is identical to the entry level of this role's ladder — "explain the basic principles" — so the baseline stays at Beginner rather than rising with seniority elsewhere in the level.
+Baseline: 1 — Awareness. The wording is identical to the entry level of this role's ladder — "explain the basic principles" — so the baseline stays at Awareness rather than rising with seniority elsewhere in the level.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe what IT continuity management is for.
-- 1 — Beginner: Can explain the basic principles of standard continuity processes and procedures.
-- 2 — Intermediate: Connects continuity principles to a change or release decision they have made.
-- 3 — Advanced: Applies continuity principles independently when authorising high-risk changes.
+- 1 — Awareness: Can explain the basic principles of standard continuity processes and procedures.
+- 2 — Working: Connects continuity principles to a change or release decision they have made.
+- 3 — Practitioner: Applies continuity principles independently when authorising high-risk changes.
 - 4 — Expert: Owns continuity testing or documentation relevant to change and release.
 
 **Evidence to gather**
@@ -227,10 +217,9 @@ Baseline: 1 — Beginner. The wording is identical to the entry level of this ro
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -243,14 +232,13 @@ The framework expects a change and release manager to diagnose and prioritise in
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Diagnosing, prioritising and resolving incidents independently is a clear step above logging or routing them, matching Advanced.
+Baseline: 3 — Practitioner. Diagnosing, prioritising and resolving incidents independently is a clear step above logging or routing them, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Has never diagnosed the cause of an incident.
-- 1 — Beginner: Diagnoses a straightforward incident with support.
-- 2 — Intermediate: Diagnoses and prioritises routine incidents with occasional guidance.
-- 3 — Advanced: Diagnoses and prioritises incidents independently, particularly change-related ones, investigates their causes, and finds resolutions.
+- 1 — Awareness: Diagnoses a straightforward incident with support.
+- 2 — Working: Diagnoses and prioritises routine incidents with occasional guidance.
+- 3 — Practitioner: Diagnoses and prioritises incidents independently, particularly change-related ones, investigates their causes, and finds resolutions.
 - 4 — Expert: Is called in to diagnose the organisation's most difficult change-related incidents.
 
 **Evidence to gather**
@@ -259,10 +247,9 @@ Baseline: 3 — Advanced. Diagnosing, prioritising and resolving incidents indep
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -275,14 +262,13 @@ The framework expects a change and release manager to own an issue until a new o
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Consistently holding an issue through to resolution or a proper handover, as the escalation point the framework names for this level, matches Advanced.
+Baseline: 3 — Practitioner. Consistently holding an issue through to resolution or a proper handover, as the escalation point the framework names for this level, matches Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Drops issues once they become someone else's to chase.
-- 1 — Beginner: Holds an issue for a short time but needs reminding to follow it through.
-- 2 — Intermediate: Consistently holds an issue until it is mitigated, resolved, or properly handed to a new owner within their own area.
-- 3 — Advanced: Holds issues across releases and teams until properly resolved, acting as the escalation point the role requires.
+- 1 — Awareness: Holds an issue for a short time but needs reminding to follow it through.
+- 2 — Working: Consistently holds an issue until it is mitigated, resolved, or properly handed to a new owner within their own area.
+- 3 — Practitioner: Holds issues across releases and teams until properly resolved, acting as the escalation point the role requires.
 - 4 — Expert: Is relied on organisation-wide as someone who ensures nothing important falls through the cracks in a change or release.
 
 **Evidence to gather**
@@ -291,10 +277,9 @@ Baseline: 3 — Advanced. Consistently holding an issue through to resolution or
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -307,14 +292,13 @@ The framework expects a change and release manager to initiate and monitor actio
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Initiating and monitoring investigation, and determining resolution independently, is a clear step above contributing to someone else's investigation, matching Advanced.
+Baseline: 3 — Practitioner. Initiating and monitoring investigation, and determining resolution independently, is a clear step above contributing to someone else's investigation, matching Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how to investigate a pattern of recurring change-related problems.
-- 1 — Beginner: Contributes to a problem investigation someone else initiated.
-- 2 — Intermediate: Initiates a problem investigation with support and determines a resolution with guidance.
-- 3 — Advanced: Initiates and monitors problem investigations independently, consults specialists appropriately, and determines both the resolution and preventative measures.
+- 1 — Awareness: Contributes to a problem investigation someone else initiated.
+- 2 — Working: Initiates a problem investigation with support and determines a resolution with guidance.
+- 3 — Practitioner: Initiates and monitors problem investigations independently, consults specialists appropriately, and determines both the resolution and preventative measures.
 - 4 — Expert: Sets the approach the organisation uses for problem investigation connected to change and release.
 
 **Evidence to gather**
@@ -323,10 +307,9 @@ Baseline: 3 — Advanced. Initiating and monitoring investigation, and determini
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -339,14 +322,13 @@ The framework expects a change and release manager to take inputs and establish 
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. At this level, the frameworks someone establishes — for example, how the CAB itself runs — need to work for other people, not just for their own tasks, which fits Advanced.
+Baseline: 3 — Practitioner. At this level, the frameworks someone establishes — for example, how the CAB itself runs — need to work for other people, not just for their own tasks, which fits Practitioner.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how their work fits into a wider service.
-- 1 — Beginner: Follows a given framework without adapting it.
-- 2 — Intermediate: Builds a working framework for their own area from a set of inputs.
-- 3 — Advanced: Establishes coherent frameworks — such as how the CAB runs — that other people adopt and rely on.
+- 1 — Awareness: Follows a given framework without adapting it.
+- 2 — Working: Builds a working framework for their own area from a set of inputs.
+- 3 — Practitioner: Establishes coherent frameworks — such as how the CAB runs — that other people adopt and rely on.
 - 4 — Expert: Designs frameworks that shape how change and release works across the organisation.
 
 **Evidence to gather**
@@ -355,10 +337,9 @@ Baseline: 3 — Advanced. At this level, the frameworks someone establishes — 
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -371,14 +352,13 @@ The framework expects a change and release manager to show they have a Level 3 s
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording is unchanged from the entry level of this role's ladder, so the baseline stays at Intermediate rather than rising with seniority elsewhere in the level.
+Baseline: 2 — Working. The wording is unchanged from the entry level of this role's ladder, so the baseline stays at Working rather than rising with seniority elsewhere in the level.
 
 **Behavioural indicators**
 
-- 0 — None: Holds no service management framework qualification.
-- 1 — Beginner: Is working towards a Level 3 qualification.
-- 2 — Intermediate: Holds a Level 3 qualification and applies its concepts correctly to change and release decisions.
-- 3 — Advanced: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
+- 1 — Awareness: Is working towards a Level 3 qualification.
+- 2 — Working: Holds a Level 3 qualification and applies its concepts correctly to change and release decisions.
+- 3 — Practitioner: Holds Level 3 and demonstrates working knowledge beyond what this level formally asks for.
 - 4 — Expert: Holds an expert-level qualification and teaches concepts to the CAB or wider organisation.
 
 **Evidence to gather**
@@ -387,10 +367,9 @@ Baseline: 2 — Intermediate. The wording is unchanged from the entry level of t
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -403,14 +382,13 @@ The framework expects a change and release manager to identify and engage with u
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. The wording describes active engagement and use of data, which is applied independent practice, matching Intermediate.
+Baseline: 2 — Working. The wording describes active engagement and use of data, which is applied independent practice, matching Working.
 
 **Behavioural indicators**
 
-- 0 — None: Does not engage with users or use any user evidence when scheduling changes.
-- 1 — Beginner: Collects user or stakeholder feedback when asked.
-- 2 — Intermediate: Actively collates user needs evidence from stakeholders affected by changes and uses it to inform scheduling decisions.
-- 3 — Advanced: Defines what research would fit a given user needs question about a change programme, using quantitative and qualitative data together.
+- 1 — Awareness: Collects user or stakeholder feedback when asked.
+- 2 — Working: Actively collates user needs evidence from stakeholders affected by changes and uses it to inform scheduling decisions.
+- 3 — Practitioner: Defines what research would fit a given user needs question about a change programme, using quantitative and qualitative data together.
 - 4 — Expert: Is sought out for how to turn user evidence into change and release policy.
 
 **Evidence to gather**
@@ -419,10 +397,9 @@ Baseline: 2 — Intermediate. The wording describes active engagement and use of
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -432,16 +409,16 @@ Baseline: 2 — Intermediate. The wording describes active engagement and use of
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
 | Asset and configuration management | 4 — Expert | | |
-| Availability and capacity management | 3 — Advanced | | |
+| Availability and capacity management | 3 — Practitioner | | |
 | Change management | 4 — Expert | | |
-| Community collaboration | 3 — Advanced | | |
-| Continuity management | 1 — Beginner | | |
-| Incident management | 3 — Advanced | | |
-| Ownership and initiative | 3 — Advanced | | |
-| Problem management | 3 — Advanced | | |
-| Service focus | 3 — Advanced | | |
-| Service management framework knowledge | 2 — Intermediate | | |
-| User focus | 2 — Intermediate | | |
+| Community collaboration | 3 — Practitioner | | |
+| Continuity management | 1 — Awareness | | |
+| Incident management | 3 — Practitioner | | |
+| Ownership and initiative | 3 — Practitioner | | |
+| Problem management | 3 — Practitioner | | |
+| Service focus | 3 — Practitioner | | |
+| Service management framework knowledge | 2 — Working | | |
+| User focus | 2 — Working | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

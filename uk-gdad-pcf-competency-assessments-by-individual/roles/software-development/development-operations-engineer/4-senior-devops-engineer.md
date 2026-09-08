@@ -49,21 +49,20 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale:
+Every skill in the competency matrix is rated on the same four-point scale:
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 This is a **proficiency** scale, not a frequency scale: it rates how well someone does the thing, on the evidence available, not how often they do it.
 
-**Worked example — Systems design.** At Intermediate (2), someone could
+**Worked example — Systems design.** At Working (2), someone could
 describe producing a design for a component with someone checking their
-choice of patterns and standards. At Advanced (3) — this level's baseline —
+choice of patterns and standards. At Practitioner (3) — this level's baseline —
 they independently design systems characterised by medium risk, impact and
 complexity, select appropriate standards, methods and tools, and can point to
 a time they reviewed a colleague's design and improved its choice of
@@ -115,19 +114,18 @@ they meet business needs and key performance indicators (KPIs).
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is unchanged from the level below, but
+Baseline: 3 — Practitioner. This wording is unchanged from the level below, but
 this level's deep technical knowledge and support-to-delivery-teams
 accountability means a senior engineer should manage this independently and
 be able to support others doing the same.
 
 **Behavioural indicators**
 
-- 0 — None: cannot describe what KPIs a service is managed against.
-- 1 — Beginner: can explain the KPIs but has not managed a service against
+- 1 — Awareness: can explain the KPIs but has not managed a service against
   them.
-- 2 — Intermediate: manages a service component's availability and capacity
+- 2 — Working: manages a service component's availability and capacity
   with occasional guidance.
-- 3 — Advanced: manages multiple service components against business needs
+- 3 — Practitioner: manages multiple service components against business needs
   and KPIs independently, and proactively adjusts before a KPI is at risk.
 - 4 — Expert: sets the KPIs, coaches junior colleagues on managing to them,
   and is consulted when a service repeatedly misses targets.
@@ -141,10 +139,9 @@ be able to support others doing the same.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -159,21 +156,19 @@ of proposed solutions.
 
 **Baseline for this role level**
 
-Baseline: 2 — Intermediate. This is worth noting plainly rather than smoothing
+Baseline: 2 — Working. This is worth noting plainly rather than smoothing
 over: the framework's own wording for this skill at senior level ("work under
 guidance") reads no more independently than at the level below, so the
-baseline stays at Intermediate rather than rising to match the level's other,
+baseline stays at Working rather than rising to match the level's other,
 more senior accountabilities.
 
 **Behavioural indicators**
 
-- 0 — None: cannot identify a process optimisation opportunity, even with
-  guidance.
-- 1 — Beginner: identifies a straightforward optimisation opportunity with
+- 1 — Awareness: identifies a straightforward optimisation opportunity with
   significant guidance.
-- 2 — Intermediate: identifies process optimisation opportunities under
+- 2 — Working: identifies process optimisation opportunities under
   guidance, and contributes meaningfully to implementing proposed solutions.
-- 3 — Advanced: identifies opportunities with little guidance and takes a
+- 3 — Practitioner: identifies opportunities with little guidance and takes a
   visible lead on implementing them.
 - 4 — Expert: not expected at this level.
 
@@ -186,10 +181,9 @@ more senior accountabilities.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -204,18 +198,17 @@ threats.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is unchanged from the level below, but a
+Baseline: 3 — Practitioner. This wording is unchanged from the level below, but a
 senior engineer's deep technical knowledge and problem-solving
 accountability supports an expectation of consistent, independent, strong
 practice across more complex solutions.
 
 **Behavioural indicators**
 
-- 0 — None: designs a solution without considering security threats.
-- 1 — Beginner: names relevant threats but needs help choosing controls.
-- 2 — Intermediate: includes security controls in straightforward solutions,
+- 1 — Awareness: names relevant threats but needs help choosing controls.
+- 2 — Working: includes security controls in straightforward solutions,
   with some guidance on complex ones.
-- 3 — Advanced: consistently designs solutions and services with appropriate
+- 3 — Practitioner: consistently designs solutions and services with appropriate
   security controls engineered against the threats they actually face, across
   complex work.
 - 4 — Expert: reviews others' designs for security gaps and sets security
@@ -229,10 +222,9 @@ practice across more complex solutions.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -246,16 +238,15 @@ and support others in applying them.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Support others in applying them" is a clear step up
+Baseline: 3 — Practitioner. "Support others in applying them" is a clear step up
 from the level below's guided application, matching this level's coaching and
 mentoring accountability.
 
 **Behavioural indicators**
 
-- 0 — None: does not apply development standards consistently.
-- 1 — Beginner: applies standards with reminders.
-- 2 — Intermediate: applies standards consistently to their own work.
-- 3 — Advanced: applies standards consistently and actively supports junior
+- 1 — Awareness: applies standards with reminders.
+- 2 — Working: applies standards consistently to their own work.
+- 3 — Practitioner: applies standards consistently and actively supports junior
   colleagues in applying them correctly, for example through code review.
 - 4 — Expert: sets or refines the standards themselves and is someone
   others check an ambiguous case with.
@@ -269,10 +260,9 @@ mentoring accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -288,18 +278,17 @@ complexity, using the right standards and tools.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording matches the level below's, and a
+Baseline: 3 — Practitioner. This wording matches the level below's, and a
 strong, independent grasp of medium-to-high complexity work is consistent
 with this level's deep technical knowledge and problem-solving
 accountability.
 
 **Behavioural indicators**
 
-- 0 — None: cannot independently build from an agreed specification.
-- 1 — Beginner: needs significant support even on medium-complexity work.
-- 2 — Intermediate: builds medium-complexity programs or scripts with
+- 1 — Awareness: needs significant support even on medium-complexity work.
+- 2 — Working: builds medium-complexity programs or scripts with
   occasional guidance.
-- 3 — Advanced: designs, codes, tests, corrects and documents programs or
+- 3 — Practitioner: designs, codes, tests, corrects and documents programs or
   scripts of medium-to-high complexity independently, and collaborates
   effectively on specification review.
 - 4 — Expert: does this at the highest complexity the team sees, and is
@@ -314,10 +303,9 @@ accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -333,17 +321,16 @@ prototyping methods and choose the most appropriate.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording is unchanged from the level below, and a
+Baseline: 3 — Practitioner. This wording is unchanged from the level below, and a
 strong, independent grasp fits this level's overall seniority even where the
 skill's own text has not visibly escalated.
 
 **Behavioural indicators**
 
-- 0 — None: has not actively solicited or led a prototyping activity.
-- 1 — Beginner: takes part in prototyping activities others set up.
-- 2 — Intermediate: solicits and runs prototyping activities with occasional
+- 1 — Awareness: takes part in prototyping activities others set up.
+- 2 — Working: solicits and runs prototyping activities with occasional
   guidance on method choice.
-- 3 — Advanced: consistently chooses the most appropriate prototyping method,
+- 3 — Practitioner: consistently chooses the most appropriate prototyping method,
   establishes design patterns that get reused, and iterates them based on
   testing with others.
 - 4 — Expert: not expected at this level.
@@ -357,10 +344,9 @@ skill's own text has not visibly escalated.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -375,17 +361,16 @@ service support.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. "Complex service faults" and advising others are a
+Baseline: 3 — Practitioner. "Complex service faults" and advising others are a
 clear step up from the level below's typical-difficulty faults, matching this
 level's deep technical knowledge and support-to-delivery-teams
 accountability.
 
 **Behavioural indicators**
 
-- 0 — None: cannot locate the source of a complex service fault.
-- 1 — Beginner: needs significant support to diagnose a complex fault.
-- 2 — Intermediate: diagnoses complex faults with some guidance.
-- 3 — Advanced: identifies, locates and fixes complex service faults
+- 1 — Awareness: needs significant support to diagnose a complex fault.
+- 2 — Working: diagnoses complex faults with some guidance.
+- 3 — Practitioner: identifies, locates and fixes complex service faults
   independently, and advises colleagues on which support methodology or
   approach fits a given situation.
 - 4 — Expert: is the escalation point for the hardest faults the team sees.
@@ -399,10 +384,9 @@ accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -420,18 +404,16 @@ integration of multiple systems and technology.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Reviewing others' designs, in addition to producing
+Baseline: 3 — Practitioner. Reviewing others' designs, in addition to producing
 their own, is a real step up from the level below and matches this level's
 coaching and mentoring accountability.
 
 **Behavioural indicators**
 
-- 0 — None: cannot design a system of medium risk or complexity
-  independently.
-- 1 — Beginner: designs simple systems with heavy support.
-- 2 — Intermediate: designs medium-complexity systems with some guidance, and
+- 1 — Awareness: designs simple systems with heavy support.
+- 2 — Working: designs medium-complexity systems with some guidance, and
   does not yet review others' work.
-- 3 — Advanced: independently designs systems of medium risk, impact and
+- 3 — Practitioner: independently designs systems of medium risk, impact and
   complexity, selects appropriate standards, methods and tools, and reviews
   others' designs for good technology choice and resource use.
 - 4 — Expert: designs the most complex systems the team sees, and their
@@ -446,10 +428,9 @@ coaching and mentoring accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -464,17 +445,16 @@ and support integration testing activities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Defining and co-ordinating the build across systems
+Baseline: 3 — Practitioner. Defining and co-ordinating the build across systems
 is a clear step up from building and testing individual interfaces, matching
 this level's toolchain-ownership accountability.
 
 **Behavioural indicators**
 
-- 0 — None: cannot define what an integration build needs to cover.
-- 1 — Beginner: contributes to an integration build defined by someone else.
-- 2 — Intermediate: defines a straightforward integration build with
+- 1 — Awareness: contributes to an integration build defined by someone else.
+- 2 — Working: defines a straightforward integration build with
   guidance.
-- 3 — Advanced: defines the integration build, co-ordinates build activities
+- 3 — Practitioner: defines the integration build, co-ordinates build activities
   across systems independently, and supports integration testing effectively.
 - 4 — Expert: not expected at this level.
 
@@ -486,10 +466,9 @@ this level's toolchain-ownership accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -507,18 +486,17 @@ methods to use.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Championing user research and guiding others is a
+Baseline: 3 — Practitioner. Championing user research and guiding others is a
 clear step up from independently gathering and using user evidence, matching
 this level's coaching and mentoring accountability.
 
 **Behavioural indicators**
 
-- 0 — None: does not represent user needs in their work or decisions.
-- 1 — Beginner: uses user evidence when given it, but does not yet champion
+- 1 — Awareness: uses user evidence when given it, but does not yet champion
   research.
-- 2 — Intermediate: engages with user researchers and uses evidence
+- 2 — Working: engages with user researchers and uses evidence
   independently, with some guidance on prioritising approaches.
-- 3 — Advanced: represents users internally, distinguishes user needs from
+- 3 — Practitioner: represents users internally, distinguishes user needs from
   user desires in a real decision, champions research across the team, and
   guides others on how to approach understanding a user story.
 - 4 — Expert: not expected at this level.
@@ -532,10 +510,9 @@ this level's coaching and mentoring accountability.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -544,16 +521,16 @@ this level's coaching and mentoring accountability.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Availability and capacity management | 3 — Advanced | | |
-| Development process optimisation | 2 — Intermediate | | |
-| Information security | 3 — Advanced | | |
-| Modern development standards | 3 — Advanced | | |
-| Programming and build (software engineering) | 3 — Advanced | | |
-| Prototyping | 3 — Advanced | | |
-| Service support | 3 — Advanced | | |
-| Systems design | 3 — Advanced | | |
-| Systems integration | 3 — Advanced | | |
-| User focus | 3 — Advanced | | |
+| Availability and capacity management | 3 — Practitioner | | |
+| Development process optimisation | 2 — Working | | |
+| Information security | 3 — Practitioner | | |
+| Modern development standards | 3 — Practitioner | | |
+| Programming and build (software engineering) | 3 — Practitioner | | |
+| Prototyping | 3 — Practitioner | | |
+| Service support | 3 — Practitioner | | |
+| Systems design | 3 — Practitioner | | |
+| Systems integration | 3 — Practitioner | | |
+| User focus | 3 — Practitioner | | |
 
 The baseline for this role level is normally met when you rate yourself at
 or above the target for every skill above. One or two skills below target

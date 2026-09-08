@@ -49,22 +49,21 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 **proficiency** scale — how well someone does the thing, on the evidence
 available, not how often they do it or how they feel about it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
 Take **Product management**, one of the skills this role level names. Someone
-at Intermediate (2) plans prioritised work across two teams with guidance, and
+at Working (2) plans prioritised work across two teams with guidance, and
 can explain how dependencies between them were handled when asked. Someone at
-Advanced (3) independently sets strategy and vision for a group of products
+Practitioner (3) independently sets strategy and vision for a group of products
 and plans across multiple teams, minimising dependencies and risk, without
 needing that plan checked by someone more senior. Someone at Expert (4) does
 all of that and also coaches or mentors other product managers in the
@@ -137,7 +136,7 @@ reflective practice so ways of working keep improving.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The published wording is unchanged from product
+Baseline: 3 — Practitioner. The published wording is unchanged from product
 manager, but a senior product manager works across a group of products or a
 single complex, high-risk product, and manages other product managers — so
 the baseline for independently choosing a method and coaching someone else
@@ -145,15 +144,12 @@ through a change is higher than it is at product manager.
 
 **Behavioural indicators**
 
-- 0 — None: Has not worked within an agile, lean or other iterative delivery
-  approach; cannot describe how any team they have led plans or reviews its
-  work.
-- 1 — Beginner: Uses the method a team already has in place, but needs
+- 1 — Awareness: Uses the method a team already has in place, but needs
   support to judge whether it still suits a more complex or higher-risk
   product.
-- 2 — Intermediate: Chooses a delivery approach for their own team with some
+- 2 — Working: Chooses a delivery approach for their own team with some
   guidance, and runs a retrospective that produces one real change.
-- 3 — Advanced: Blends or changes delivery approaches across more than one
+- 3 — Practitioner: Blends or changes delivery approaches across more than one
   team without needing sign-off from someone more senior, and coaches
   another product manager through an experiment that was not working for
   their team.
@@ -173,10 +169,9 @@ through a change is higher than it is at product manager.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -193,20 +188,18 @@ understand and recommend tools for getting the right user insight.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is identical to product manager, but at
+Baseline: 3 — Practitioner. The wording is identical to product manager, but at
 this level the product may be complex, high risk or sensitive, so the
 baseline is that user insight independently shapes strategic decisions, not
 only day-to-day prioritisation.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot cite user research when discussing the strategy or
-  direction of a complex or high-risk product.
-- 1 — Beginner: Uses research findings that already exist, but needs support
+- 1 — Awareness: Uses research findings that already exist, but needs support
   to judge what is missing for a higher-risk product.
-- 2 — Intermediate: Brings insight into prioritisation discussions, and asks
+- 2 — Working: Brings insight into prioritisation discussions, and asks
   for research to be extended to a group of users that was missed.
-- 3 — Advanced: Independently commissions research to fill a gap that
+- 3 — Practitioner: Independently commissions research to fill a gap that
   matters for a complex or sensitive product, changes strategic direction on
   the strength of it, and helps other product managers judge what insight
   their own products need.
@@ -225,10 +218,9 @@ only day-to-day prioritisation.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -254,13 +246,11 @@ working.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain the value case for their product beyond its
-  immediate roadmap.
-- 1 — Beginner: Can describe a value case someone else wrote, but needs
+- 1 — Awareness: Can describe a value case someone else wrote, but needs
   support to persuade a sceptical stakeholder.
-- 2 — Intermediate: Contributes sections to a business case with guidance,
+- 2 — Working: Contributes sections to a business case with guidance,
   and communicates a value proposition to a receptive audience.
-- 3 — Advanced: Writes a business case largely unaided, and persuades a
+- 3 — Practitioner: Writes a business case largely unaided, and persuades a
   stakeholder who started sceptical that a product is the right one to
   invest in.
 - 4 — Expert: Is trusted to write or lead business cases that secure
@@ -279,10 +269,9 @@ working.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -299,20 +288,18 @@ colleagues and stakeholders through different phases of the life cycle.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Unlike product manager, this wording drops "with some
+Baseline: 3 — Practitioner. Unlike product manager, this wording drops "with some
 support" and adds guiding colleagues and stakeholders through the life cycle,
 so the baseline is independently running phase decisions, including the
 harder call to stop.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how they would decide whether a team should
-  continue, change direction or stop.
-- 1 — Beginner: Can describe the phases of a life cycle, but needs support
+- 1 — Awareness: Can describe the phases of a life cycle, but needs support
   to decide when a team should change direction.
-- 2 — Intermediate: Moves a product through a phase transition with some
+- 2 — Working: Moves a product through a phase transition with some
   guidance, and identifies the tools a phase needs.
-- 3 — Advanced: Independently decides, on evidence, that a team should
+- 3 — Practitioner: Independently decides, on evidence, that a team should
   change direction or stop, and guides colleagues or stakeholders through
   what that means, without a more senior person making the call for them.
 - 4 — Expert: Is someone consulted on the hardest stop-or-continue
@@ -330,10 +317,9 @@ harder call to stop.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -350,20 +336,18 @@ opportunities to share and connect product data.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording moves from defining and using metrics for
+Baseline: 3 — Practitioner. The wording moves from defining and using metrics for
 your own product to leading teams to build measurement methods and helping
 others prioritise, so the baseline includes leading that work for people
 other than yourself.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe a method for measuring outcomes beyond a single
-  metric someone else set.
-- 1 — Beginner: Uses outcome metrics that already exist, but needs support
+- 1 — Awareness: Uses outcome metrics that already exist, but needs support
   to help another product manager improve theirs.
-- 2 — Intermediate: Contributes to building a measurement method for a
+- 2 — Working: Contributes to building a measurement method for a
   team, and uses data to suggest one improvement.
-- 3 — Advanced: Leads a team to build its own outcome-measurement method,
+- 3 — Practitioner: Leads a team to build its own outcome-measurement method,
   helps another product manager prioritise using their data, and identifies
   a genuine opportunity to connect data across products.
 - 4 — Expert: Sets the standard for outcome measurement across a product
@@ -381,10 +365,9 @@ other than yourself.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -402,21 +385,19 @@ participating in cross-government communities.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording adds representing product management to
+Baseline: 3 — Practitioner. This wording adds representing product management to
 senior stakeholders and coaching and managing others, which product manager
 does not carry, so the baseline moves from advocating for one product to
 leading and protecting more than one team.
 
 **Behavioural indicators**
 
-- 0 — None: Does not speak for product management with senior stakeholders,
-  and has no part in coaching or managing anyone in the discipline.
-- 1 — Beginner: Represents their own product to senior stakeholders when
+- 1 — Awareness: Represents their own product to senior stakeholders when
   asked, but needs support to coach another product manager.
-- 2 — Intermediate: Protects more than one team from an unnecessary
+- 2 — Working: Protects more than one team from an unnecessary
   distraction, and gives another product manager occasional informal
   coaching.
-- 3 — Advanced: Independently represents product management to senior
+- 3 — Practitioner: Independently represents product management to senior
   stakeholders across their area, formally manages or coaches other product
   managers, and leads a community activity rather than only attending one.
 - 4 — Expert: Is a recognised voice for product management at a senior level
@@ -434,10 +415,9 @@ leading and protecting more than one team.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -462,13 +442,11 @@ reserves for teaching and guiding others, not only delivering well yourself.
 
 **Behavioural indicators**
 
-- 0 — None: Has no strategy, roadmap or planning artefact that spans more
-  than one team.
-- 1 — Beginner: Manages a roadmap for one team, and needs significant
+- 1 — Awareness: Manages a roadmap for one team, and needs significant
   support to plan across more than one.
-- 2 — Intermediate: Plans prioritised work across two teams with guidance,
+- 2 — Working: Plans prioritised work across two teams with guidance,
   and can explain how dependencies were handled.
-- 3 — Advanced: Independently sets strategy and vision for a group of
+- 3 — Practitioner: Independently sets strategy and vision for a group of
   products, plans across multiple teams while minimising dependencies and
   risk, and supports those teams to deliver quality outcomes.
 - 4 — Expert: Does all of the above, and actively coaches or mentors other
@@ -485,10 +463,9 @@ reserves for teaching and guiding others, not only delivering well yourself.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -506,7 +483,7 @@ stakeholders.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. The wording is unchanged from product manager, but at
+Baseline: 3 — Practitioner. The wording is unchanged from product manager, but at
 this level stakeholder relationships often sit around a complex, high-risk or
 sensitive product and may include recruitment and programme-level contacts,
 so the baseline for handling them independently, including the hardest ones,
@@ -514,13 +491,11 @@ is higher.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name the stakeholders around a complex or sensitive
-  product, or describe what tension exists between them.
-- 1 — Beginner: Maintains relationships with straightforward stakeholders
+- 1 — Awareness: Maintains relationships with straightforward stakeholders
   but needs support with a difficult or senior one.
-- 2 — Intermediate: Manages a stakeholder map for a complex product with
+- 2 — Working: Manages a stakeholder map for a complex product with
   some support, and resolves a routine disagreement without escalation.
-- 3 — Advanced: Independently builds and sustains a relationship with a
+- 3 — Practitioner: Independently builds and sustains a relationship with a
   senior or difficult stakeholder on a high-risk or sensitive product, and
   resolves a genuine conflict of interest between two stakeholders without
   it needing to be escalated above them.
@@ -539,10 +514,9 @@ is higher.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -559,20 +533,18 @@ iterates the strategy based on user and organisation insights.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This wording adds challenging the strategy against
+Baseline: 3 — Practitioner. This wording adds challenging the strategy against
 policy intent with evidence and building stakeholder agreement and trust,
 which is a step up from contributing to and reviewing a strategy, so the
 baseline is independently owning and defending it.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe the intended benefits or policy intent behind
-  their product's strategy.
-- 1 — Beginner: Can repeat the strategy and its intended benefits, but needs
+- 1 — Awareness: Can repeat the strategy and its intended benefits, but needs
   support to challenge it when evidence suggests it is wrong.
-- 2 — Intermediate: Reviews the strategy against its benefits with guidance,
+- 2 — Working: Reviews the strategy against its benefits with guidance,
   and gets stakeholder agreement on straightforward points.
-- 3 — Advanced: Independently uses evidence to challenge the strategy or
+- 3 — Practitioner: Independently uses evidence to challenge the strategy or
   policy intent when it is not working, builds genuine stakeholder trust and
   agreement on the strategic approach, and iterates the strategy
   proactively rather than waiting to be asked.
@@ -591,10 +563,9 @@ baseline is independently owning and defending it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*

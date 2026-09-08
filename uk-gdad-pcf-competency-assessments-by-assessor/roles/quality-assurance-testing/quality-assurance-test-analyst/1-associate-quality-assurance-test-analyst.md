@@ -58,25 +58,24 @@ specification for what this rules out.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point scale.
+Every skill in the competency matrix is rated on the same four-point scale.
 This is a **proficiency** scale — how well the person does the thing, on the
 evidence available — not a frequency scale of how often they do it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Designing and executing tests.** At 1 (Beginner), a
+**Worked example — Designing and executing tests.** At 1 (Awareness), a
 candidate might describe following a written test script step by step, with a
 colleague checking their work before it is signed off — they can carry out a
-simple test but cannot yet judge which test to run. At 2 (Intermediate), they
+simple test but cannot yet judge which test to run. At 2 (Working), they
 might describe building a small set of test cases from a set of acceptance
 criteria on their own, then asking a more senior tester to review the coverage
-before executing them. At 3 (Advanced), they would design and execute a mixed
+before executing them. At 3 (Practitioner), they would design and execute a mixed
 suite of functional and exploratory tests for an unfamiliar feature without
 being told which techniques to use, and explain the trade-offs they made. Two
 people can both say "I test software"; only the evidence tells you which point
@@ -133,21 +132,19 @@ conversation.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The framework's own wording for this level is entirely
+Baseline: 1 — Awareness. The framework's own wording for this level is entirely
 about explaining concepts, not applying them under real conditions; that sits
 squarely at the entry point of the scale.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot say why a non-technical stakeholder might struggle with a
-  technical defect report, or has never tried to explain one.
-- 1 — Beginner: Can explain, when asked, why a bug report full of stack traces
+- 1 — Awareness: Can explain, when asked, why a bug report full of stack traces
   would confuse a product owner, and names one or two ways to communicate
   differently with different audiences.
-- 2 — Intermediate: Rewrites a technical defect summary into plain language for
+- 2 — Working: Rewrites a technical defect summary into plain language for
   a stakeholder update, with a colleague checking the result before it goes
   out.
-- 3 — Advanced: Runs a short walkthrough of test results for a mixed technical
+- 3 — Practitioner: Runs a short walkthrough of test results for a mixed technical
   and non-technical audience unsupervised, adjusting language as questions come
   in.
 - 4 — Expert: Coaches another tester on how to reframe a complex technical
@@ -164,10 +161,9 @@ squarely at the entry point of the scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -183,18 +179,17 @@ simple tests with support, and explain the value of automation within testing.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Every substantive action in the framework's wording is
+Baseline: 1 — Awareness. Every substantive action in the framework's wording is
 qualified "with support" or "follow guidance"; the person contributes to a
 decision rather than owning it.
 
 **Behavioural indicators**
 
-- 0 — None: Has not designed or executed a test, even a simple one.
-- 1 — Beginner: Follows a written test case or script to execute a test, and
+- 1 — Awareness: Follows a written test case or script to execute a test, and
   needs a colleague to check the case was appropriate before running it.
-- 2 — Intermediate: Builds a small set of simple test cases from a set of
+- 2 — Working: Builds a small set of simple test cases from a set of
   acceptance criteria, with a more experienced tester reviewing the coverage.
-- 3 — Advanced: Chooses appropriate test types unprompted for a small,
+- 3 — Practitioner: Chooses appropriate test types unprompted for a small,
   well-understood piece of functionality and executes them without
   supervision.
 - 4 — Expert: Designs and leads execution of a mixed functional and
@@ -212,10 +207,9 @@ decision rather than owning it.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -231,19 +225,18 @@ defects when needed.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The level's general accountability is to operate
+Baseline: 1 — Awareness. The level's general accountability is to operate
 "under supervision", and while this skill's bullets describe real actions
 (retesting, escalating), they are actions within a process someone else set
 up and checks — consistent with the entry point of the scale.
 
 **Behavioural indicators**
 
-- 0 — None: Has never logged or tracked a defect.
-- 1 — Beginner: Logs a defect using the team's process, with the fields and
+- 1 — Awareness: Logs a defect using the team's process, with the fields and
   wording checked by a colleague before it is confirmed.
-- 2 — Intermediate: Logs a complete, well-evidenced defect unprompted,
+- 2 — Working: Logs a complete, well-evidenced defect unprompted,
   including steps to reproduce, and retests a fix when asked.
-- 3 — Advanced: Escalates a defect appropriately when it blocks other work,
+- 3 — Practitioner: Escalates a defect appropriately when it blocks other work,
   choosing the right person and framing the impact without being told to.
 - 4 — Expert: Spots a pattern across several related defects and raises it
   with the team before being asked.
@@ -259,10 +252,9 @@ up and checks — consistent with the entry point of the scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -278,19 +270,17 @@ risk in achieving quality goals.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. The verbs are "describe" and "explain", and the one
+Baseline: 1 — Awareness. The verbs are "describe" and "explain", and the one
 analytical action carries "with support" explicitly — this is understanding
 being built, not independent analysis.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot name a quality characteristic (such as usability or
-  reliability) or say why it matters.
-- 1 — Beginner: Explains what a quality characteristic like accessibility
+- 1 — Awareness: Explains what a quality characteristic like accessibility
   means and gives a simple example of why it matters to users.
-- 2 — Intermediate: Reads a user story with a colleague and jointly identifies
+- 2 — Working: Reads a user story with a colleague and jointly identifies
   a gap or ambiguity that could cause a defect later.
-- 3 — Advanced: Reviews a set of user stories unsupervised and flags specific,
+- 3 — Practitioner: Reviews a set of user stories unsupervised and flags specific,
   well-reasoned quality risks before development starts.
 - 4 — Expert: Notices a systemic risk pattern across several artefacts (for
   example, several stories missing non-functional criteria) and raises it
@@ -307,10 +297,9 @@ being built, not independent analysis.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -327,19 +316,17 @@ why that matters.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Three of the four bullets are "explain"; the one
+Baseline: 1 — Awareness. Three of the four bullets are "explain"; the one
 applied bullet is explicitly "with support" — this is foundational knowledge,
 not planning ability yet.
 
 **Behavioural indicators**
 
-- 0 — None: Has no view on why a team would write a test plan rather than
-  test ad hoc.
-- 1 — Beginner: Explains why a team following an agile delivery approach might
+- 1 — Awareness: Explains why a team following an agile delivery approach might
   test differently from one following a waterfall approach.
-- 2 — Intermediate: Follows an existing test plan for a piece of work,
+- 2 — Working: Follows an existing test plan for a piece of work,
   checking with a colleague when the plan does not clearly cover something.
-- 3 — Advanced: Adapts part of an existing test plan to cover a change in
+- 3 — Practitioner: Adapts part of an existing test plan to cover a change in
   scope, without needing sign-off first.
 - 4 — Expert: Proposes a measure of test plan effectiveness (such as defect
   escape rate) and explains what it would tell the team.
@@ -355,10 +342,9 @@ not planning ability yet.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*
@@ -374,18 +360,17 @@ tools required for testing.
 
 **Baseline for this role level**
 
-Baseline: 1 — Beginner. Every action bullet at this level is qualified "with
+Baseline: 1 — Awareness. Every action bullet at this level is qualified "with
 support" or "support the maintenance of" — this is assisting, not owning, test
 engineering work.
 
 **Behavioural indicators**
 
-- 0 — None: Has never touched a test environment or an automated test.
-- 1 — Beginner: Explains, in simple terms, why a consistent test environment
+- 1 — Awareness: Explains, in simple terms, why a consistent test environment
   matters for reliable results.
-- 2 — Intermediate: Helps maintain an existing automated test — for example,
+- 2 — Working: Helps maintain an existing automated test — for example,
   updating a locator or a test data value — under a colleague's guidance.
-- 3 — Advanced: Sets up a test environment correctly from documented steps
+- 3 — Practitioner: Sets up a test environment correctly from documented steps
   without needing help, and notices when something about it looks wrong.
 - 4 — Expert: Diagnoses why an automated test is flaky and proposes a fix,
   unprompted.
@@ -401,10 +386,9 @@ engineering work.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Assessor notes:*

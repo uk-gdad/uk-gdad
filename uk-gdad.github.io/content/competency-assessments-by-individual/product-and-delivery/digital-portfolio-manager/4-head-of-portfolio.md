@@ -49,23 +49,22 @@ still building.
 
 ## Rating scale
 
-Every skill in the competency matrix is rated on the same five-point
+Every skill in the competency matrix is rated on the same four-point
 **proficiency** scale — it measures how well someone does the thing, on the
 evidence available, not how often they do it or how they feel about doing it.
 
 | Value | Rating | Meaning |
 | ---: | --- | --- |
-| 0 | None | No demonstrated experience of this skill |
-| 1 | Beginner | Just starting to learn the skill; requires close supervision |
-| 2 | Intermediate | Knows the basics and can perform tasks with some guidance |
-| 3 | Advanced | Has a strong grasp of the skill and can work independently |
-| 4 | Expert | Demonstrates full mastery and can teach or guide others in the skill |
+| 1 | Awareness | You can describe skill fundamentals and show basic knowledge of related tools |
+| 2 | Working | You can apply the skill with some support and use appropriate tools |
+| 3 | Practitioner | You can apply the skill independently, determine the best tools, and share your experience |
+| 4 | Expert | You can lead organisational best practice and teach advanced techniques |
 
-**Worked example — Governance and assurance.** At 1 (Beginner), a person can
+**Worked example — Governance and assurance.** At 1 (Awareness), a person can
 describe what a governance process is for but has only followed one someone
-else designed, with close supervision. At 2 (Intermediate), they have run an
+else designed, with close supervision. At 2 (Working), they have run an
 existing governance process for a single project with some guidance, and can
-explain why each control exists. At 3 (Advanced), they have designed a
+explain why each control exists. At 3 (Practitioner), they have designed a
 governance or assurance process for a portfolio unsupervised, adjusted it when
 it was not working, and can defend the design to a sceptical stakeholder. At 4
 (Expert), they have done all of that and have also coached another portfolio
@@ -124,7 +123,7 @@ iteration matters, and iterate quickly.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Leading a team that governs a whole portfolio of
+Baseline: 3 — Practitioner. Leading a team that governs a whole portfolio of
 digital projects means applying Agile principles to portfolio-level decisions
 without needing another person to interpret them first, so a strong,
 independent grasp is the minimum, even though the framework's own wording
@@ -133,16 +132,13 @@ own right.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot explain why an iterative approach might suit a portfolio of
-  digital projects, or defaults to a fixed, plan-everything-up-front approach
-  without reflecting on it.
-- 1 — Beginner: Can recite Agile terms but applies them mechanically — for
+- 1 — Awareness: Can recite Agile terms but applies them mechanically — for
   example, insists on a standard sprint cadence for every project in the
   portfolio regardless of what each one actually needs.
-- 2 — Intermediate: Adapts an Agile approach to an individual project with
+- 2 — Working: Adapts an Agile approach to an individual project with
   guidance from someone more experienced, and can explain the reasoning after
   the fact.
-- 3 — Advanced: Chooses and adjusts an iterative approach for the portfolio
+- 3 — Practitioner: Chooses and adjusts an iterative approach for the portfolio
   unsupervised, revisits a plan quickly when new information arrives, and
   stays open-minded when a project team wants to work differently from the
   rest of the portfolio.
@@ -162,10 +158,9 @@ own right.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -180,7 +175,7 @@ and a strategic level.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This level exists to give organisational leaders
+Baseline: 3 — Practitioner. This level exists to give organisational leaders
 insight into the portfolio's future so they can make informed decisions, which
 means translating complex portfolio analysis into something a senior audience
 can act on, independently and without a communications specialist rewriting
@@ -188,13 +183,11 @@ it first.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot turn portfolio data into a narrative a non-specialist
-  audience could follow.
-- 1 — Beginner: Presents portfolio status as raw figures or a status report,
+- 1 — Awareness: Presents portfolio status as raw figures or a status report,
   with support needed to draw out what it means for decision-makers.
-- 2 — Intermediate: Builds a straightforward update for a known audience with
+- 2 — Working: Builds a straightforward update for a known audience with
   some guidance on what to include and what to leave out.
-- 3 — Advanced: Chooses the medium and the level of detail to suit a senior
+- 3 — Practitioner: Chooses the medium and the level of detail to suit a senior
   audience unprompted, and turns a complex, multi-project analysis into a
   recommendation a leader can act on at a glance.
 - 4 — Expert: Does all of the above, and coaches other portfolio managers on
@@ -211,10 +204,9 @@ it first.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -229,21 +221,19 @@ others in following or applying them.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. Leading tracking and governing of digital projects and
+Baseline: 3 — Practitioner. Leading tracking and governing of digital projects and
 ensuring the right controls are used means designing and refining governance
 independently across a portfolio, not merely operating a process someone else
 built.
 
 **Behavioural indicators**
 
-- 0 — None: Has no experience designing or operating a governance or
-  assurance process for digital projects.
-- 1 — Beginner: Follows an existing governance process step by step, with
+- 1 — Awareness: Follows an existing governance process step by step, with
   supervision, and cannot yet explain why a particular control exists.
-- 2 — Intermediate: Operates an established governance process for a single
+- 2 — Working: Operates an established governance process for a single
   project with some guidance, and flags where a control feels wrong for the
   situation.
-- 3 — Advanced: Designs or substantially adapts a governance or assurance
+- 3 — Practitioner: Designs or substantially adapts a governance or assurance
   process for a portfolio, recommends specific improvements based on what is
   and is not working, and does this unsupervised.
 - 4 — Expert: Does all of the above, and actively supports other portfolio
@@ -261,10 +251,9 @@ built.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -281,20 +270,18 @@ capacity.
 
 **Baseline for this role level**
 
-Baseline: 3 — Advanced. This level is accountable for delivery confidence
+Baseline: 3 — Practitioner. This level is accountable for delivery confidence
 across a whole portfolio and for removing blockers that a single project
 manager could not remove alone, which requires planning independently at
 portfolio scale rather than executing a plan someone else set.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot describe how work is currently prioritised across the
-  projects they are responsible for.
-- 1 — Beginner: Follows a plan set by someone else, and needs help
+- 1 — Awareness: Follows a plan set by someone else, and needs help
   identifying which dependencies matter.
-- 2 — Intermediate: Builds a plan for a single project with guidance, and can
+- 2 — Working: Builds a plan for a single project with guidance, and can
   point to the data behind a prioritisation decision when asked.
-- 3 — Advanced: Manages complex dependencies across multiple projects in the
+- 3 — Practitioner: Manages complex dependencies across multiple projects in the
   portfolio unsupervised, gives leaders a credible view of delivery
   confidence, and removes blockers that individual project managers could not
   clear themselves.
@@ -314,10 +301,9 @@ portfolio scale rather than executing a plan someone else set.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -341,13 +327,11 @@ personally, the definition of full mastery on this scale.
 
 **Behavioural indicators**
 
-- 0 — None: Has no experience managing a relationship with a stakeholder
-  outside their immediate team.
-- 1 — Beginner: Attends stakeholder meetings but relies on someone more senior
+- 1 — Awareness: Attends stakeholder meetings but relies on someone more senior
   to lead the conversation and decide what to say.
-- 2 — Intermediate: Manages a single stakeholder relationship with guidance,
+- 2 — Working: Manages a single stakeholder relationship with guidance,
   and can explain what that stakeholder needs from the portfolio.
-- 3 — Advanced: Manages several stakeholder relationships independently, sets
+- 3 — Practitioner: Manages several stakeholder relationships independently, sets
   clear objectives with them, and resolves routine disagreements without
   escalation.
 - 4 — Expert: Sets the stakeholder relationship strategy for a team of
@@ -367,10 +351,9 @@ personally, the definition of full mastery on this scale.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -392,13 +375,11 @@ mastery on this scale rather than independent, unsupported practice.
 
 **Behavioural indicators**
 
-- 0 — None: Cannot connect a portfolio decision to the organisation's wider
-  strategy.
-- 1 — Beginner: Repeats the stated strategy when asked, but cannot yet apply
+- 1 — Awareness: Repeats the stated strategy when asked, but cannot yet apply
   it to a real portfolio decision without help.
-- 2 — Intermediate: Applies an existing strategy to a portfolio decision with
+- 2 — Working: Applies an existing strategy to a portfolio decision with
   guidance from someone more senior.
-- 3 — Advanced: Defines strategy or policy for the portfolio independently,
+- 3 — Practitioner: Defines strategy or policy for the portfolio independently,
   and evaluates whether the current strategy is meeting business requirements.
 - 4 — Expert: Does all of the above, and actively guides other portfolio
   managers on how to think and act strategically, including when a
@@ -416,10 +397,9 @@ mastery on this scale rather than independent, unsupported practice.
 
 **Rate this skill**
 
-- [ ] 0 — None
-- [ ] 1 — Beginner
-- [ ] 2 — Intermediate
-- [ ] 3 — Advanced
+- [ ] 1 — Awareness
+- [ ] 2 — Working
+- [ ] 3 — Practitioner
 - [ ] 4 — Expert
 
 *Your notes:*
@@ -428,10 +408,10 @@ mastery on this scale rather than independent, unsupported practice.
 
 | Skill | Baseline target | Rating given | Met baseline? |
 | --- | --- | --- | --- |
-| Agile working | 3 — Advanced | | |
-| Communicating analysis and insight | 3 — Advanced | | |
-| Governance and assurance | 3 — Advanced | | |
-| Planning | 3 — Advanced | | |
+| Agile working | 3 — Practitioner | | |
+| Communicating analysis and insight | 3 — Practitioner | | |
+| Governance and assurance | 3 — Practitioner | | |
+| Planning | 3 — Practitioner | | |
 | Stakeholder relationship management | 4 — Expert | | |
 | Strategic thinking | 4 — Expert | | |
 

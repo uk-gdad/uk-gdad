@@ -770,20 +770,6 @@ th {
   margin-top: 0.5rem;
 }
 
-.layout-with-aside {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 17rem;
-  gap: 3rem;
-  align-items: start;
-}
-.layout-aside {
-  position: sticky;
-  top: 1.5rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-
 .doc-header {
   border-bottom: 2px solid var(--lily-border-subtle);
   padding-bottom: 1.25rem;
@@ -795,41 +781,6 @@ th {
 .doc-context {
   margin: 0;
   color: var(--lily-text-muted);
-}
-
-.resource-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin: 1.25rem 0 0;
-  padding: 0;
-  list-style: none;
-}
-.resource-nav li {
-  margin: 0;
-}
-.resource-nav a,
-.resource-nav span {
-  display: block;
-  padding: 0.4rem 0.85rem;
-  border: 1px solid var(--lily-border);
-  border-radius: 999px;
-  font-size: 0.9375rem;
-  text-decoration: none;
-  background: var(--lily-page-bg);
-}
-.resource-nav a:hover {
-  background: var(--lily-primary-wash);
-}
-.resource-nav [aria-current='page'] {
-  background: var(--lily-primary);
-  border-color: var(--lily-primary);
-  color: #ffffff;
-  font-weight: 600;
-}
-.resource-nav span {
-  color: var(--lily-text-muted);
-  border-style: dashed;
 }
 
 .prose {
@@ -1067,20 +1018,6 @@ th {
 }
 
 /* 6. Responsive and motion ---------------------------------------------- */
-
-@media (max-width: 60rem) {
-  .layout-with-aside {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
-  .layout-aside {
-    position: static;
-  }
-  /* On a long prose page the contents list earns its place above the text. */
-  .layout-contents-first .layout-aside {
-    order: -1;
-  }
-}
 
 @media (max-width: 40rem) {
   .site-main {

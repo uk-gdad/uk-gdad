@@ -2,10 +2,83 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Content designer** role at the **Senior content designer** level. You are an expert practitioner who develops content strategy and solutions for large-scale problems and high-profile events. You take responsibility for content quality, manage small teams, mentor colleagues, write and map user stories, review others' work to assure quality, and lead cross-government content projects. Your development now is about strategy, quality assurance, and leadership.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/user-centred-design/content-designer/4-senior-content-designer.md`](../../../assessments/user-centred-design/content-designer/4-senior-content-designer.md)
+- Upskilling: [`upskills/user-centred-design/content-designer/4-senior-content-designer.md`](../../../upskills/user-centred-design/content-designer/4-senior-content-designer.md)
+
+### Role Level Focus: Senior Content Designer
+
+- [ ] Handle Large-Scale Problems: Develop content strategy for problems too big for one page or one team.
+- [ ] Prepare for High-Profile Events: Build the ability to work well under public and political pressure.
+- [ ] Own Content Quality: Take responsibility for quality across a team, not just your own work.
+- [ ] Manage and Mentor: If you manage anyone, complete line manager training and run reliable one-to-ones.
+- [ ] Write and Map User Stories: Get skilled at mapping stories across a whole journey.
+- [ ] Lead Cross-Government Projects: Take the lead on work spanning organisations.
+- [ ] Contribute to the Community: Be a visible, generous member of the cross-government content community.
+
+### Skill: Agile working (content design)
+
+- [ ] Apply an Agile Mindset: Work iteratively and flexibly to enable rapid delivery.
+- [ ] Work in a Fast-Paced Environment: Stay effective when priorities shift suddenly.
+- [ ] Take Sensible Risks: Be willing to try things and learn openly from mistakes.
+- [ ] Build Situational Awareness: Ensure the team understands how work relates to objectives and user needs.
+- [ ] Use Tools Well: Stay fluent with tools and platforms for planning and managing work.
+
+### Skill: Content concepts and prototyping
+
+- [ ] Build a Range of Prototypes: Create everything from paper sketches to coded prototypes.
+- [ ] Choose the Best Visualisation: Pick the right way to show content in context for each audience.
+- [ ] Combine With Other Outputs: Blend prototypes with other design outputs to test and to persuade.
+- [ ] Establish and Iterate Patterns: Create content patterns, test them, and improve them.
+
+### Skill: Stakeholder relationship management (content design)
+
+- [ ] Negotiate and Influence: Manage relationships effectively and influence real decisions.
+- [ ] Deal With Challenge: Handle difficult situations and remove blockers.
+- [ ] Build Long-Term Relationships: Support mutual needs while keeping user needs central.
+- [ ] Communicate Regularly: Keep stakeholders informed before they have to ask.
+
+### Skill: Strategic thinking (content design)
+
+- [ ] Help Lead Strategy: Contribute to designing and implementing strategies, and evaluating their impact.
+- [ ] Direct Improvement Projects: Lead strategic content improvement, focusing on the highest priority areas.
+- [ ] Measure Strategic Progress: Establish how you will know the strategy is working.
+- [ ] Learn Strategy Craft: Study how good strategy is written and practise the concise version.
+
+### Skill: User focus (content design)
+
+- [ ] Advocate With Researchers and Analysts: Work with them to represent users effectively.
+- [ ] Understand Research Types: Know which evidence suits alpha, beta, and live.
+- [ ] Decide From Findings: Form hypotheses, gain insight, and explain how you decided.
+- [ ] Prioritise Approaches: Evaluate quantitative and qualitative data and choose the right approach.
+- [ ] Champion All Users: Push for research that includes everyone, especially excluded groups.
+- [ ] Put Accessibility First: Make accessibility central to your approach and encourage others to do the same.
+- [ ] Guide Others: Recommend the best tools and methods to colleagues.
+
+### Skill: User-centred content design
+
+- [ ] Understand End-to-End Journeys: Show deep understanding of how content works within whole journeys.
+- [ ] Identify Journey Fixes: Spot where journey or content improvements are needed.
+- [ ] Assure Others' Quality: Take responsibility for junior colleagues' content, and coach them.
+- [ ] Review and Evaluate Regularly: Ensure content is reviewed, evaluated, and iterated.
+- [ ] Encourage Continuous Improvement: Build that mindset in teams and junior colleagues.
+- [ ] Deliver Through Others: Direct and critique others' work rather than doing it all yourself.
+
+### Skill Growth Plan: Toward Lead Content Designer
+
+- [ ] Review the Next Level: Read the Lead content designer skill descriptions and mark your gaps.
+- [ ] Direct a Team: Seek responsibility for directing a team of content designers.
+- [ ] Work With Programme Leaders: Build relationships with service managers and programme directors.
+- [ ] Promote the Discipline: Advocate for content design with senior stakeholders.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,76 +176,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Content designer** role at the **Senior content designer** level. You are an expert practitioner who develops content strategy and solutions for large-scale problems and high-profile events. You take responsibility for content quality, manage small teams, mentor colleagues, write and map user stories, review others' work to assure quality, and lead cross-government content projects. Your development now is about strategy, quality assurance, and leadership.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/user-centred-design/content-designer/4-senior-content-designer.md`](../../../assessments/user-centred-design/content-designer/4-senior-content-designer.md)
-- Upskilling: [`upskills/user-centred-design/content-designer/4-senior-content-designer.md`](../../../upskills/user-centred-design/content-designer/4-senior-content-designer.md)
-
-### Role Level Focus: Senior Content Designer
-
-- [ ] Handle Large-Scale Problems: Develop content strategy for problems too big for one page or one team.
-- [ ] Prepare for High-Profile Events: Build the ability to work well under public and political pressure.
-- [ ] Own Content Quality: Take responsibility for quality across a team, not just your own work.
-- [ ] Manage and Mentor: If you manage anyone, complete line manager training and run reliable one-to-ones.
-- [ ] Write and Map User Stories: Get skilled at mapping stories across a whole journey.
-- [ ] Lead Cross-Government Projects: Take the lead on work spanning organisations.
-- [ ] Contribute to the Community: Be a visible, generous member of the cross-government content community.
-
-### Skill: Agile working (content design)
-
-- [ ] Apply an Agile Mindset: Work iteratively and flexibly to enable rapid delivery.
-- [ ] Work in a Fast-Paced Environment: Stay effective when priorities shift suddenly.
-- [ ] Take Sensible Risks: Be willing to try things and learn openly from mistakes.
-- [ ] Build Situational Awareness: Ensure the team understands how work relates to objectives and user needs.
-- [ ] Use Tools Well: Stay fluent with tools and platforms for planning and managing work.
-
-### Skill: Content concepts and prototyping
-
-- [ ] Build a Range of Prototypes: Create everything from paper sketches to coded prototypes.
-- [ ] Choose the Best Visualisation: Pick the right way to show content in context for each audience.
-- [ ] Combine With Other Outputs: Blend prototypes with other design outputs to test and to persuade.
-- [ ] Establish and Iterate Patterns: Create content patterns, test them, and improve them.
-
-### Skill: Stakeholder relationship management (content design)
-
-- [ ] Negotiate and Influence: Manage relationships effectively and influence real decisions.
-- [ ] Deal With Challenge: Handle difficult situations and remove blockers.
-- [ ] Build Long-Term Relationships: Support mutual needs while keeping user needs central.
-- [ ] Communicate Regularly: Keep stakeholders informed before they have to ask.
-
-### Skill: Strategic thinking (content design)
-
-- [ ] Help Lead Strategy: Contribute to designing and implementing strategies, and evaluating their impact.
-- [ ] Direct Improvement Projects: Lead strategic content improvement, focusing on the highest priority areas.
-- [ ] Measure Strategic Progress: Establish how you will know the strategy is working.
-- [ ] Learn Strategy Craft: Study how good strategy is written and practise the concise version.
-
-### Skill: User focus (content design)
-
-- [ ] Advocate With Researchers and Analysts: Work with them to represent users effectively.
-- [ ] Understand Research Types: Know which evidence suits alpha, beta, and live.
-- [ ] Decide From Findings: Form hypotheses, gain insight, and explain how you decided.
-- [ ] Prioritise Approaches: Evaluate quantitative and qualitative data and choose the right approach.
-- [ ] Champion All Users: Push for research that includes everyone, especially excluded groups.
-- [ ] Put Accessibility First: Make accessibility central to your approach and encourage others to do the same.
-- [ ] Guide Others: Recommend the best tools and methods to colleagues.
-
-### Skill: User-centred content design
-
-- [ ] Understand End-to-End Journeys: Show deep understanding of how content works within whole journeys.
-- [ ] Identify Journey Fixes: Spot where journey or content improvements are needed.
-- [ ] Assure Others' Quality: Take responsibility for junior colleagues' content, and coach them.
-- [ ] Review and Evaluate Regularly: Ensure content is reviewed, evaluated, and iterated.
-- [ ] Encourage Continuous Improvement: Build that mindset in teams and junior colleagues.
-- [ ] Deliver Through Others: Direct and critique others' work rather than doing it all yourself.
-
-### Skill Growth Plan: Toward Lead Content Designer
-
-- [ ] Review the Next Level: Read the Lead content designer skill descriptions and mark your gaps.
-- [ ] Direct a Team: Seek responsibility for directing a team of content designers.
-- [ ] Work With Programme Leaders: Build relationships with service managers and programme directors.
-- [ ] Promote the Discipline: Advocate for content design with senior stakeholders.

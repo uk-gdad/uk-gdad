@@ -2,10 +2,98 @@
 
 Continuing Professional Development (CPD) is the intentional, ongoing process of tracking and documenting the skills, knowledge, and experience gained throughout a professional career, both formally and informally, beyond initial training. It functions as a structured lifelong learning framework to ensure that your practical qualifications and competencies remain up-to-date, legally compliant, and aligned with modern industry standards.
 
-This page is a helpful checklist that you can use for your own continuing professional development. This page starts with general-purpose checklists, then provides UK GDAD PCF specific-purpose checklists.
+This page is a helpful checklist that you can use for your own continuing professional development. This page starts with your role-specific checklist, then provides the general-purpose checklists that apply to everyone.
 
 This information is created by AI and is work in progress for educational purposes. If you intend to use it in any way, please consult with your organization's appropriate teammates, such as with human resources staff, or people and organizational development staff, or legal compliance staff.
 
+## UK GDAD PCF Role Skill Specifics
+
+This part of the checklist is written for your exact place in the UK GDAD PCF: the **Delivery manager** role at the **Senior delivery manager** level. You are accountable for the effective delivery of complex, high risk products and services, you have experience across the entire product life cycle, you are the main point of escalation, you engage senior stakeholders, and you coach and mentor delivery managers. Your development now is about complexity, escalation, and coaching.
+
+Two companion files in this repository pair well with this checklist:
+
+- Assessment: [`assessments/product-and-delivery/delivery-manager/3-senior-delivery-manager.md`](../../../assessments/product-and-delivery/delivery-manager/3-senior-delivery-manager.md)
+- Upskilling: [`upskills/product-and-delivery/delivery-manager/3-senior-delivery-manager.md`](../../../upskills/product-and-delivery/delivery-manager/3-senior-delivery-manager.md)
+
+### Role Level Focus: Senior Delivery Manager
+
+- [ ] Handle High Risk Delivery: Take accountability for complex, high risk products and services.
+- [ ] Be a Dependable Escalation Point: Build the calm and judgement that makes escalation to you useful.
+- [ ] Engage Senior Stakeholders: Build standing relationships with senior people, not meeting-by-meeting ones.
+- [ ] Coach Delivery Managers: Mentor colleagues in the role with agreed goals and review points.
+- [ ] Broaden Life Cycle Experience: Deliberately gain experience in phases you have not worked in.
+- [ ] Learn Government Finance: Understand business cases, benefits, and spend controls properly.
+- [ ] Build Commercial Skill: Learn to negotiate and get genuine value from suppliers.
+
+### Skill: Agile and Lean practices
+
+- [ ] Coach and Lead Teams: Coach teams in Agile and Lean good practice rather than enforcing it.
+- [ ] Tailor the Approach: Create and iterate the right approach for each team through the life cycle.
+- [ ] Experiment Organisationally: Trial new ways of working that improve delivery beyond one team.
+- [ ] Be a Recognised Advocate: Build a reputation as an expert others seek out.
+
+### Skill: Commercial management
+
+- [ ] Own Complex Supplier Relationships: Take responsibility for the difficult contracted relationships.
+- [ ] Identify Frameworks and Suppliers: Learn which contractual frameworks and suppliers fit which need.
+- [ ] Negotiate Well: Study negotiation and practise it with suppliers.
+- [ ] Get Value From Contracts: Focus on outcomes delivered, not just contract compliance.
+
+### Skill: Communicating between the technical and non-technical
+
+- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
+- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
+- [ ] Represent the Community: Speak for the community to large audiences inside and outside the organisation.
+- [ ] Deliver Bad News Well: Practise being early, clear, and calm with unwelcome information.
+
+### Skill: Financial management
+
+- [ ] Set and Influence Budgets: Negotiate and set budgets in complex environments.
+- [ ] Write Business Cases: Contribute to or write business cases and communicate value propositions.
+- [ ] Track Benefits: Ensure benefits are measured after funding, not just promised before it.
+- [ ] Learn the Rules: Understand spend controls, funding cycles, and approval routes.
+
+### Skill: Life cycle management
+
+- [ ] Consult the Right People: Work with the right people at the right time to move through the life cycle.
+- [ ] Decide With Evidence: Use evidence to decide whether a team continues, pivots, or stops.
+- [ ] Match Tools to Phases: Identify the tools and techniques each phase actually needs.
+- [ ] Guide Others: Take colleagues and stakeholders through the life cycle confidently.
+
+### Skill: Maintaining delivery momentum
+
+- [ ] Optimise Flow Across Teams: Improve delivery flow beyond a single team.
+- [ ] Address Ownerless Risks: Take on the risks and dependencies nobody owns.
+- [ ] Unblock Innovatively: Find routes through obstacles that others have accepted as fixed.
+- [ ] Protect Sustainable Pace: Hold the line on sustainability even under delivery pressure.
+
+### Skill: Making a process work
+
+- [ ] Challenge Complexity: Identify and challenge unnecessarily complicated organisational processes.
+- [ ] Coach Inspection and Adaptation: Help the organisation inspect and adapt its processes.
+- [ ] Guide Process Implementation: Take teams through new processes without losing them.
+- [ ] Measure Process Change: Evidence whether a process change actually improved anything.
+
+### Skill: Planning
+
+- [ ] Lead Continual Planning: Run a continual planning process in a very complex environment.
+- [ ] Plan Beyond Delivery: Plan for operation, support, and change after go-live.
+- [ ] Co-ordinate Across Services: Identify and co-ordinate dependencies across services.
+- [ ] Coach Other Teams: Act as the central point of planning expertise.
+
+### Skill: Team dynamics and collaboration
+
+- [ ] Rectify Dynamic Issues: Identify and fix problems in team dynamics.
+- [ ] Use Health Checks: Surface issues through Agile health checks and stimulate the right responses.
+- [ ] Choose the Right Feedback: Match feedback type to the moment, and make it stick.
+- [ ] Accelerate Team Development: Learn how teams form and mature, and speed that up deliberately.
+
+### Skill Growth Plan: Toward Head of Agile Delivery Management
+
+- [ ] Review the Next Level: Read the Head of delivery management skill descriptions and mark your gaps.
+- [ ] Lead the Community: Take a role in running the delivery community of practice.
+- [ ] Recruit and Develop: Get involved in recruitment and professional development for the role.
+- [ ] Build Cross-Department Credibility: Contribute across government, not just inside your organisation.
 ## Types
 
 The three main types of Continuing Professional Development (CPD) recognised by most professional bodies are structured learning (formal courses), reflective practice (learning from experience), and self-directed learning (independent research). Combining all three creates a balanced professional development record.
@@ -103,91 +191,3 @@ The three main types of Continuing Professional Development (CPD) recognised by 
 - [ ] Take Active Notes: Summarise key takeaways, software tools mentioned, and action items during each talk.
 - [ ] Draft an Event Brief: Write a one-page summary of core learnings to share with your wider internal team.
 
-## UK GDAD PCF Role Skill Specifics
-
-This last part of the checklist is written for your exact place in the UK GDAD PCF: the **Delivery manager** role at the **Senior delivery manager** level. You are accountable for the effective delivery of complex, high risk products and services, you have experience across the entire product life cycle, you are the main point of escalation, you engage senior stakeholders, and you coach and mentor delivery managers. Your development now is about complexity, escalation, and coaching.
-
-Two companion files in this repository pair well with this checklist:
-
-- Assessment: [`assessments/product-and-delivery/delivery-manager/3-senior-delivery-manager.md`](../../../assessments/product-and-delivery/delivery-manager/3-senior-delivery-manager.md)
-- Upskilling: [`upskills/product-and-delivery/delivery-manager/3-senior-delivery-manager.md`](../../../upskills/product-and-delivery/delivery-manager/3-senior-delivery-manager.md)
-
-### Role Level Focus: Senior Delivery Manager
-
-- [ ] Handle High Risk Delivery: Take accountability for complex, high risk products and services.
-- [ ] Be a Dependable Escalation Point: Build the calm and judgement that makes escalation to you useful.
-- [ ] Engage Senior Stakeholders: Build standing relationships with senior people, not meeting-by-meeting ones.
-- [ ] Coach Delivery Managers: Mentor colleagues in the role with agreed goals and review points.
-- [ ] Broaden Life Cycle Experience: Deliberately gain experience in phases you have not worked in.
-- [ ] Learn Government Finance: Understand business cases, benefits, and spend controls properly.
-- [ ] Build Commercial Skill: Learn to negotiate and get genuine value from suppliers.
-
-### Skill: Agile and Lean practices
-
-- [ ] Coach and Lead Teams: Coach teams in Agile and Lean good practice rather than enforcing it.
-- [ ] Tailor the Approach: Create and iterate the right approach for each team through the life cycle.
-- [ ] Experiment Organisationally: Trial new ways of working that improve delivery beyond one team.
-- [ ] Be a Recognised Advocate: Build a reputation as an expert others seek out.
-
-### Skill: Commercial management
-
-- [ ] Own Complex Supplier Relationships: Take responsibility for the difficult contracted relationships.
-- [ ] Identify Frameworks and Suppliers: Learn which contractual frameworks and suppliers fit which need.
-- [ ] Negotiate Well: Study negotiation and practise it with suppliers.
-- [ ] Get Value From Contracts: Focus on outcomes delivered, not just contract compliance.
-
-### Skill: Communicating between the technical and non-technical
-
-- [ ] Mediate and Strengthen Relationships: Use appropriate methods with stakeholders at all levels.
-- [ ] Moderate High-Risk Discussions: Handle complex, high-risk topics within constrained timescales.
-- [ ] Represent the Community: Speak for the community to large audiences inside and outside the organisation.
-- [ ] Deliver Bad News Well: Practise being early, clear, and calm with unwelcome information.
-
-### Skill: Financial management
-
-- [ ] Set and Influence Budgets: Negotiate and set budgets in complex environments.
-- [ ] Write Business Cases: Contribute to or write business cases and communicate value propositions.
-- [ ] Track Benefits: Ensure benefits are measured after funding, not just promised before it.
-- [ ] Learn the Rules: Understand spend controls, funding cycles, and approval routes.
-
-### Skill: Life cycle management
-
-- [ ] Consult the Right People: Work with the right people at the right time to move through the life cycle.
-- [ ] Decide With Evidence: Use evidence to decide whether a team continues, pivots, or stops.
-- [ ] Match Tools to Phases: Identify the tools and techniques each phase actually needs.
-- [ ] Guide Others: Take colleagues and stakeholders through the life cycle confidently.
-
-### Skill: Maintaining delivery momentum
-
-- [ ] Optimise Flow Across Teams: Improve delivery flow beyond a single team.
-- [ ] Address Ownerless Risks: Take on the risks and dependencies nobody owns.
-- [ ] Unblock Innovatively: Find routes through obstacles that others have accepted as fixed.
-- [ ] Protect Sustainable Pace: Hold the line on sustainability even under delivery pressure.
-
-### Skill: Making a process work
-
-- [ ] Challenge Complexity: Identify and challenge unnecessarily complicated organisational processes.
-- [ ] Coach Inspection and Adaptation: Help the organisation inspect and adapt its processes.
-- [ ] Guide Process Implementation: Take teams through new processes without losing them.
-- [ ] Measure Process Change: Evidence whether a process change actually improved anything.
-
-### Skill: Planning
-
-- [ ] Lead Continual Planning: Run a continual planning process in a very complex environment.
-- [ ] Plan Beyond Delivery: Plan for operation, support, and change after go-live.
-- [ ] Co-ordinate Across Services: Identify and co-ordinate dependencies across services.
-- [ ] Coach Other Teams: Act as the central point of planning expertise.
-
-### Skill: Team dynamics and collaboration
-
-- [ ] Rectify Dynamic Issues: Identify and fix problems in team dynamics.
-- [ ] Use Health Checks: Surface issues through Agile health checks and stimulate the right responses.
-- [ ] Choose the Right Feedback: Match feedback type to the moment, and make it stick.
-- [ ] Accelerate Team Development: Learn how teams form and mature, and speed that up deliberately.
-
-### Skill Growth Plan: Toward Head of Agile Delivery Management
-
-- [ ] Review the Next Level: Read the Head of delivery management skill descriptions and mark your gaps.
-- [ ] Lead the Community: Take a role in running the delivery community of practice.
-- [ ] Recruit and Develop: Get involved in recruitment and professional development for the role.
-- [ ] Build Cross-Department Credibility: Contribute across government, not just inside your organisation.

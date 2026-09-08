@@ -9,16 +9,19 @@
 // page's own path, so a reader can close the tab and come back; the exports
 // build a file in memory and hand it to the browser's download.
 //
-// The toolbar is hidden in the markup and shown here, so a reader without
-// JavaScript is never offered a button that cannot work.
+// The toolbar appears twice — once above the checklist, once below a long
+// one — so a reader does not have to scroll back up to export or clear. Both
+// copies are hidden in the markup and shown here, so a reader without
+// JavaScript is never offered a button that cannot work. Only the top copy
+// carries the live status region, so an action announces once, not twice.
 
 (function () {
   'use strict';
 
-  var tools = document.getElementById('cpdform-tools');
+  var tools = document.querySelectorAll('.cpdform-tools');
   var status = document.getElementById('cpdform-status');
   var boxes = document.querySelectorAll('input[type="checkbox"][data-key]');
-  if (!tools || !boxes.length) return;
+  if (!tools.length || !boxes.length) return;
 
   var STORE = 'uk-gdad-pcf:cpdform:' + window.location.pathname;
   var SAVE_DELAY = 400;
@@ -177,9 +180,13 @@
 
   // Wiring ---------------------------------------------------------------
 
-  function on(id, handler) {
-    var button = document.getElementById(id);
-    if (button) button.addEventListener('click', handler);
+  // Every toolbar copy carries the same class on its buttons, so one action
+  // wires up both the top and the bottom row.
+  function on(className, handler) {
+    var buttons = document.querySelectorAll('.' + className);
+    Array.prototype.forEach.call(buttons, function (button) {
+      button.addEventListener('click', handler);
+    });
   }
 
   on('cpdform-export-tsv', exportTsv);
@@ -196,5 +203,7 @@
   });
 
   restore();
-  tools.hidden = false;
+  Array.prototype.forEach.call(tools, function (toolbar) {
+    toolbar.hidden = false;
+  });
 })();
