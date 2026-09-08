@@ -13,9 +13,10 @@
 <div class="hero">
     <h1>UK GDAD: Professions, Roles, Skills</h1>
     <p class="hero-lede">
-        The Government Digital and Data (GDAD) Profession Capability Framework
-        (PCF) describes the digital and data roles across UK government. This
-        site makes it browsable, with learning pathways, upskilling resources,
+        The United Kingdom (UK) Government Digital and Data (GDAD) Profession
+        Capability Framework (PCF) describes the digital and data roles
+        across UK government. This site makes it browsable, with learning
+        pathways, upskilling resources,
         professional development checklists, and various kinds of assessments.
     </p>
     <div class="button-row">
