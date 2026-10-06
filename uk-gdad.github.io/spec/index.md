@@ -52,11 +52,18 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 | `content/competency-assessments-by-assessor/` | `uk-gdad-pcf-competency-assessments-by-assessor/roles/` |
 | `content/competency-assessments-by-individual/` | `uk-gdad-pcf-competency-assessments-by-individual/roles/` |
 | `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
-| `src/lib/lily/` | Lily Design System headless components, per `bin/lily-components.txt` |
-| `src/lib/lily-helpers/` | Lily Design System helper components (theme, text size, share pickers), per `bin/lily-helper-components.txt` |
+| `static/assets/themes/` | Lily Design System reference themes, per `bin/lily-themes.txt` |
 | `static/tools/skills-self-assessment/index.html` | `uk-gdad-pcf-skills-self-assessment/index.html` |
 
 Never edit a vendored file. Edit the source and re-run `bin/sync`.
+
+The Lily Design System's Svelte components — headless components and the
+theme, locale, text size and share pickers and picker bar — are **not**
+vendored. They are ordinary npm dependencies under the `@lilydesignsystem`
+scope (see `package.json`), installed with `pnpm install` like any other
+package and upgraded with `pnpm update`. Only the 45 reference themes above
+have no npm package of their own, which is why they are still vendored by
+file copy.
 
 ## URLs
 
@@ -165,8 +172,11 @@ means the breadcrumb trail: every document page's breadcrumb links back to
 ## Site tools
 
 Every page — content and non-content alike — carries a small toolbar in the
-header: a colour theme picker, a text size picker, and a share picker. They are
-the three vendored components in `src/lib/lily-helpers/`, mounted in
+header: a colour theme picker, a language picker, a text size picker, and a
+share picker. They are composed by `PickerBar`, from
+`@lilydesignsystem/svelte-picker-bar` — a real npm dependency, like the four
+individual pickers it wraps and the headless component library, all under the
+`@lilydesignsystem` scope in `package.json` — mounted in
 `src/routes/+layout.svelte`. This is why every route hydrates: an interactive,
 site-wide control needs client-side JavaScript to work, so there is no
 JS-free page left to preserve. Before this, six content route kinds set
@@ -174,26 +184,45 @@ JS-free page left to preserve. Before this, six content route kinds set
 every route hydrates a small router payload so the toolbar works everywhere.
 
 - **Theme picker** sets `data-theme` on `<html>` and swaps a managed
-  stylesheet between `static/assets/themes/light.css` and `dark.css`, both of
-  which redefine the `--lily-*` tokens declared in `static/assets/style.css`.
-  The choice persists to `localStorage` under `uk-gdad-pcf:theme`, and falls
-  back to the reader's OS preference on first visit.
+  stylesheet between the 45 real Lily reference themes vendored at
+  `static/assets/themes/` (`bin/lily-themes.txt`, mirroring `PickerBar`'s own
+  `DEFAULT_THEMES`) — full standalone stylesheets defining Lily's own
+  `--color-*` and `--lily-*` hook tokens. This site's own `--site-*` tokens in
+  `static/assets/style.css` are deliberately named apart from Lily's, and each
+  is an explicit `var(--color-..., <fallback>)` read of one of Lily's tokens,
+  so a theme swap re-themes the whole page rather than only the handful of
+  names that happen to collide. The choice persists to `localStorage` under
+  `uk-gdad-pcf:theme`. It does **not** fall back to the reader's OS light/dark
+  preference: Lily's own `light`/`dark` reference themes are generic palettes
+  unrelated to GOV.UK's blue, so `detectFromSystem` is off and the default is
+  `united-kingdom-government-digital-service` instead — this site's own
+  identity, for a visitor who has not chosen anything yet.
+- **Language picker** sets `lang` on `<html>` and offers four locales, each
+  named in itself: `en-gb` English, `cy-gb` Cymraeg, `gd-gb` Gàidhlig, and
+  `ga-gb` Gaeilge.
+  The choice persists under `uk-gdad-pcf:locale`, defaulting to `en-gb`. Only
+  `en-gb` has content: the other three are a foundation for translation, so
+  choosing one changes `lang` but the pages stay English until they are
+  translated. The locale rules are in
+  [`spec/locales-for-global-sharing-with-svelte`](../../spec/locales-for-global-sharing-with-svelte/index.md).
 - **Text size picker** sets `data-text-size` on `<html>`, and
   `static/assets/style.css` scales the root font-size from it — every other
   size in the file is in `rem`, so the whole page scales, headings included.
   Persists under `uk-gdad-pcf:text-size`.
-- **Share picker** offers LinkedIn, Mastodon, Bluesky, Reddit, and a copy-link
-  button, all built from the current page's own URL and title. Uses the
-  browser's native share sheet where one exists, and falls back to this list
-  otherwise. Mastodon and Bluesky take one combined `text` parameter rather
-  than separate URL and title fields, so both get the title and the URL
-  joined by a line break; Mastodon's link goes to the official
-  `share.joinmastodon.org` widget, which asks the visitor which instance
-  they're on and redirects there, because the network is federated and this
-  site cannot know it.
+- **Share picker** offers a copy-link button, email, LinkedIn, Reddit,
+  Bluesky, and Mastodon, all built from the current page's own URL and title.
+  Uses the browser's native share sheet where one exists, and falls back to
+  this list otherwise. Bluesky takes one combined `text` parameter rather than
+  separate URL and title fields, so it gets the title and the URL joined by a
+  line break. Mastodon's link goes to the `mastodonshare.com` widget, which
+  takes `text` and `url` as two separate parameters and asks the visitor which
+  instance they're on before redirecting there, because the network is
+  federated and this site cannot know it.
 
-All three are headless: every visual rule they need is in
-`static/assets/style.css`, not in the vendored component.
+All four pickers are headless: every visual rule they need is in
+`static/assets/style.css`, not in the vendored component. `PickerBar` itself
+is headless too — its default `class="picker-bar"` is joined with this site's
+own `class="site-tools"`, and `.site-tools` carries the layout.
 
 ### The `page.data.title` convention
 
