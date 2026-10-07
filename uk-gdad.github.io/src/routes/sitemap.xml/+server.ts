@@ -1,5 +1,5 @@
-import { getSkills, getProfessions, getSlugsFor } from '$lib/server/content';
-import { resourceHref, type ResourceKind } from '$lib/types';
+import { getSkills, getProfessions, getSlugsFor } from '#lib/server/content.js';
+import { resourceHref, type ResourceKind } from '#lib/types.js';
 
 export const prerender = true;
 

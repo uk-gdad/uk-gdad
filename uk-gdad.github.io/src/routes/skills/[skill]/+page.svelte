@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Breadcrumbs from '$lib/Breadcrumbs.svelte';
+  import Breadcrumbs from '#lib/Breadcrumbs.svelte';
 
   let { data } = $props();
 </script>

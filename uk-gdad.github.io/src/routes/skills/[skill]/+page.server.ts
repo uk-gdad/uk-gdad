@@ -1,5 +1,5 @@
 import { error } from '@sveltejs/kit';
-import { getSkill, getSkills } from '$lib/server/content';
+import { getSkill, getSkills } from '#lib/server/content.js';
 
 export function entries() {
   return getSkills().map((skill) => ({ skill: skill.slug }));

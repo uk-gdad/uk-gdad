@@ -1,5 +1,5 @@
 import { error } from '@sveltejs/kit';
-import { getProfession, getProfessions } from '$lib/server/content';
+import { getProfession, getProfessions } from '#lib/server/content.js';
 
 export function entries() {
   return getProfessions().map((profession) => ({ profession: profession.slug }));

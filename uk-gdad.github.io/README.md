@@ -25,8 +25,8 @@ Specification: [spec/index.md](spec/index.md) · Working notes:
 uk-gdad.github.io/
 ├── spec/index.md             What this site must do
 ├── bin/
-│   ├── sync                  Vendors Lily components and PCF markdown in
-│   └── lily-components.txt   Which Lily components this site uses
+│   ├── sync                  Vendors Lily reference themes and PCF markdown in
+│   └── lily-themes.txt       Which Lily reference themes this site uses
 ├── content/                  Vendored markdown — the source of every role page
 │   ├── role-summaries/
 │   ├── role-level-start-here/
@@ -40,13 +40,14 @@ uk-gdad.github.io/
 ├── src/
 │   ├── app.html              Document shell
 │   ├── lib/
-│   │   ├── lily/             Lily components (vendored — do not edit)
 │   │   ├── server/           Build-time reading and parsing of content/
 │   │   └── types.ts          Shapes shared with the browser
 │   └── routes/               One folder per URL
 ├── static/
 │   ├── .nojekyll             Disables Jekyll on GitHub Pages
-│   ├── assets/               style.css, favicon.svg
+│   ├── assets/
+│   │   ├── style.css, favicon.svg
+│   │   └── themes/           Lily reference themes (vendored — do not edit)
 │   └── tools/                The vendored skills self-assessment tool
 ├── .github/workflows/
 │   └── deploy.yml            CI: builds and deploys on push to main
@@ -94,21 +95,30 @@ pnpm check        # type-check; must be clean
 
 ## Sync
 
-`content/`, `src/lib/lily/` and `static/tools/` are **vendored, not authored
-here**, so that this project stays buildable on its own once it is pushed to its
-public repository. Refresh them after the upstream sources change:
+`content/` and `static/tools/` are **vendored, not authored here**, so that
+this project stays buildable on its own once it is pushed to its public
+repository. `static/assets/themes/` — Lily's 45 reference themes — is
+vendored too, since those have no npm package of their own. Refresh them
+after the upstream sources change:
 
 ```sh
 ./bin/sync
 ```
 
-It reads the sibling UK GDAD PCF projects in the parent directory, and the Lily
-Design System at `~/git/lilydesignsystem/lily-design-system` (override with
+It reads the sibling UK GDAD PCF projects in the parent directory, and the
+Lily Design System's `themes/` directory at
+`~/git/lilydesignsystem/lily-design-system` (override with
 `LILY_DESIGN_SYSTEM`).
 
 Never edit a vendored file — edit the source and re-sync. The repository's
 `bin/check` compares the copies against their sources byte for byte, so a stale
 copy is a failing check.
+
+The Lily Design System's Svelte components themselves — headless components
+and the theme, locale, text size and share pickers and picker bar — are
+ordinary npm dependencies under the `@lilydesignsystem` scope (see
+`package.json`), not vendored. `pnpm install` and `pnpm update` manage those
+like any other dependency.
 
 ## How the content becomes pages
 

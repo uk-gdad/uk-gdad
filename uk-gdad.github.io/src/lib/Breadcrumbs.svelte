@@ -1,7 +1,5 @@
 <script lang="ts">
-  import BreadcrumbNav from '$lib/lily/BreadcrumbNav.svelte';
-  import BreadcrumbList from '$lib/lily/BreadcrumbList.svelte';
-  import BreadcrumbListItem from '$lib/lily/BreadcrumbListItem.svelte';
+  import { BreadcrumbNav, BreadcrumbList, BreadcrumbListItem } from '@lilydesignsystem/svelte-headless';
 
   type Crumb = { href?: string; label: string };
   let { trail }: { trail: Crumb[] } = $props();

@@ -2,8 +2,8 @@
   // One markdown document for one role level, with breadcrumbs back to this
   // level's start-here page, which is where the links to every sibling
   // document live.
-  import Breadcrumbs from '$lib/Breadcrumbs.svelte';
-  import type { ResourceKind } from '$lib/types';
+  import Breadcrumbs from '#lib/Breadcrumbs.svelte';
+  import type { ResourceKind } from '#lib/types.js';
 
   type DocumentData = {
     kind: ResourceKind;

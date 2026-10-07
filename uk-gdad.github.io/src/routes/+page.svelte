@@ -1,5 +1,22 @@
 <script lang="ts">
+    import { goto } from '$app/navigation';
+    import { localeRouteFor } from '#lib/locale-redirect.js';
+
     let { data } = $props();
+
+    // Send a visitor whose browser prefers a language this site has a locale
+    // route for (navigator.language, then the rest of navigator.languages) to
+    // that route, e.g. "cy_GB" to "/cy-gb/". Effects do not run while
+    // prerendering, so the English page below is what is built and served.
+    // `replaceState` keeps "/" out of the history, so Back does not bounce
+    // the visitor straight to the locale again.
+    $effect(() => {
+        const preferred = navigator.languages?.length
+            ? navigator.languages
+            : [navigator.language];
+        const route = localeRouteFor(preferred);
+        if (route) goto(route, { replaceState: true });
+    });
 </script>
 
 <svelte:head>

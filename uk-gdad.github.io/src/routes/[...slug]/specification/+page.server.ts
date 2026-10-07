@@ -4,8 +4,8 @@ import {
   getSlugsFor,
   parseSummary,
   readDocument
-} from '$lib/server/content';
-import { normalizeSlug } from '$lib/types';
+} from '#lib/server/content.js';
+import { normalizeSlug } from '#lib/types.js';
 
 export function entries() {
   return getSlugsFor('summary').map((slug) => ({ slug }));

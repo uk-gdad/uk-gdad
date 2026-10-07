@@ -16,8 +16,8 @@ import type {
   Skill,
   Summary,
   TocEntry
-} from '$lib/types';
-import { resourceHref, slugify } from '$lib/types';
+} from '#lib/types.js';
+import { resourceHref, slugify } from '#lib/types.js';
 import { createFormWriter } from './gapform';
 import { createChecklistWriter } from './checklist';
 

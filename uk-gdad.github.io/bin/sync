@@ -2,9 +2,16 @@
 # Vendor everything this site builds from into the site project itself, so the
 # project stays buildable on its own once it is pushed to its public repository.
 #
-#   1. Lily Design System Svelte components  -> src/lib/lily/
+#   1. Lily Design System reference themes -> static/assets/themes/
 #   2. UK GDAD PCF markdown from the sibling projects -> content/
 #   3. The standalone skills self-assessment tool -> static/self-assessment/
+#
+# The Lily Design System Svelte components themselves — headless components,
+# theme/locale/text-size/share pickers, and the picker bar — are real npm
+# dependencies (see package.json, the @lilydesignsystem/* packages) and are
+# not vendored. Only the 45 reference themes have no npm package to install:
+# they live at themes/ in the Lily Design System monorepo with no
+# package.json of their own, so this script is still how they get here.
 #
 # Re-run after the upstream sources change:  ./bin/sync
 set -eu
@@ -13,46 +20,25 @@ site="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
 gdad="$(CDPATH= cd -- "$site/.." && pwd)"
 lily="${LILY_DESIGN_SYSTEM:-$HOME/git/lilydesignsystem/lily-design-system}"
 
-# 1. Lily Design System components.
+# 1. Lily Design System reference themes, loaded by ThemePicker/PickerBar at
+# runtime. Each line in lily-themes.txt is a theme slug, e.g. "dracula" ->
+# themes/dracula.css. This mirrors PickerBar's own DEFAULT_THEMES exactly.
 
-lily_svelte="$lily/lily-design-system-svelte-headless/components"
-if [ -d "$lily_svelte" ]; then
-    mkdir -p "$site/src/lib/lily"
-    for component in $(cat "$site/bin/lily-components.txt"); do
-        source_file="$lily_svelte/$component/$component.svelte"
+lily_themes="$lily/themes"
+if [ -d "$lily_themes" ]; then
+    mkdir -p "$site/static/assets/themes"
+    for slug in $(cat "$site/bin/lily-themes.txt"); do
+        source_file="$lily_themes/$slug.css"
         if [ -f "$source_file" ]; then
-            cp "$source_file" "$site/src/lib/lily/$component.svelte"
+            cp "$source_file" "$site/static/assets/themes/$slug.css"
         else
-            echo "sync: missing Lily component: $component" >&2
+            echo "sync: missing Lily theme: $slug" >&2
             exit 1
         fi
     done
-    echo "sync: Lily components -> src/lib/lily/"
+    echo "sync: Lily themes -> static/assets/themes/"
 else
-    echo "sync: skipping Lily components; not found at $lily_svelte" >&2
-fi
-
-# 1b. Lily Design System helper packages (theme-picker, text-size-picker,
-# share-picker, ...). Each line in lily-helper-components.txt is
-# "<package>/<Component>", e.g. "lily-design-system-svelte-theme-picker/ThemePicker".
-
-lily_helpers="$lily/lily-design-system-svelte-helpers"
-if [ -d "$lily_helpers" ]; then
-    mkdir -p "$site/src/lib/lily-helpers"
-    for entry in $(cat "$site/bin/lily-helper-components.txt"); do
-        package="${entry%/*}"
-        component="${entry#*/}"
-        source_file="$lily_helpers/$package/$component.svelte"
-        if [ -f "$source_file" ]; then
-            cp "$source_file" "$site/src/lib/lily-helpers/$component.svelte"
-        else
-            echo "sync: missing Lily helper component: $entry" >&2
-            exit 1
-        fi
-    done
-    echo "sync: Lily helper components -> src/lib/lily-helpers/"
-else
-    echo "sync: skipping Lily helper components; not found at $lily_helpers" >&2
+    echo "sync: skipping Lily themes; not found at $lily_themes" >&2
 fi
 
 # 2. UK GDAD PCF content.

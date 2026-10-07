@@ -1,4 +1,4 @@
-import { getProfessions } from '$lib/server/content';
+import { getProfessions } from '#lib/server/content.js';
 
 export function load() {
   return {

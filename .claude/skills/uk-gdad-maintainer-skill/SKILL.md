@@ -86,8 +86,10 @@ directly, so it stays buildable once pushed to its own repository.
 - `cd uk-gdad.github.io && pnpm check` (svelte-check, must be clean) and
   `pnpm build` (must complete with no prerender errors — a broken internal
   link fails the build) before considering a website change done.
-- **Never edit `uk-gdad.github.io/content/`, `src/lib/lily/`, or
-  `static/tools/`** — all vendored. Edit the source project, then sync.
+- **Never edit `uk-gdad.github.io/content/`, `static/assets/themes/`, or
+  `static/tools/`** — all vendored. Edit the source project, then sync. The
+  Lily Svelte components are npm dependencies, not vendored — upgrade with
+  `pnpm update`.
 - **Publish** with `bin/make-github-pages` (or `make github-pages`) from the
   repository root — never by committing inside `uk-gdad.github.io/` itself,
   which is a `git subtree` publishing target. A commit made there blocks the

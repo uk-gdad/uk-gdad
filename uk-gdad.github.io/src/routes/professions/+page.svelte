@@ -1,6 +1,6 @@
 <script lang="ts">
-  import Breadcrumbs from '$lib/Breadcrumbs.svelte';
-  import Card from '$lib/lily/Card.svelte';
+  import Breadcrumbs from '#lib/Breadcrumbs.svelte';
+  import { Card } from '@lilydesignsystem/svelte-headless';
 
   let { data } = $props();
 </script>

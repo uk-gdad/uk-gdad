@@ -44,9 +44,12 @@ SPDX-License-Identifier: OGL-UK-3.0
   videos, and books, and link to them. Those titles and their contents belong to
   their publishers; nothing of theirs is reproduced here beyond a title and a
   sentence of description.
-- **The Lily Design System.** The website vendors components from
-  [Lily Design System™](https://lilydesignsystem.com/) under that project's own
-  terms; see [`uk-gdad.github.io/src/lib/lily/`](uk-gdad.github.io/src/lib/lily).
+- **The Lily Design System.** The website depends on
+  [Lily Design System™](https://lilydesignsystem.com/) components — installed
+  as npm packages under the `@lilydesignsystem` scope, plus its 45 reference
+  themes vendored at
+  [`uk-gdad.github.io/static/assets/themes/`](uk-gdad.github.io/static/assets/themes) —
+  under that project's own terms.
 - **Endorsement.** The Open Government Licence explicitly does not grant any
   right to imply endorsement. This project is not a government service, and
   says so on every page.

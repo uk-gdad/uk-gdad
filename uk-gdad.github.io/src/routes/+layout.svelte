@@ -1,5 +1,6 @@
 <script lang="ts">
   import { page } from '$app/state';
+  import { goto } from '$app/navigation';
   import { SkipLink, PhaseBanner, Tag } from '@lilydesignsystem/svelte-headless';
   import { themeName } from '@lilydesignsystem/svelte-theme-picker';
   import { sizeName } from '@lilydesignsystem/svelte-text-size-picker';
@@ -117,7 +118,7 @@
     <PickerBar
       class="site-tools"
       labels={pickerLabels}
-      searchProps={{ action: '/roles/' }}
+      searchProps={{ action: '/search/', navigate: (href: string) => goto(href) }}
       themesUrl="/assets/themes/"
       themeProps={{
         storageKey: 'uk-gdad-pcf:theme',

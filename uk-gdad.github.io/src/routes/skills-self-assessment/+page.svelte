@@ -1,6 +1,6 @@
 <script lang="ts">
-  import Breadcrumbs from '$lib/Breadcrumbs.svelte';
-  import WarningCallout from '$lib/lily/WarningCallout.svelte';
+  import Breadcrumbs from '#lib/Breadcrumbs.svelte';
+  import { WarningCallout } from '@lilydesignsystem/svelte-headless';
 
   let { data } = $props();
 </script>

@@ -12,9 +12,10 @@ Two things here are not this project's to license:
 <https://ddat-capability-framework.service.gov.uk/>,
   © Crown copyright, under the same licence, and attribution is required
   wherever they are republished.
-- **The Lily Design System.** `src/lib/lily/` vendors components from
-  [Lily Design System™](https://lilydesignsystem.com/) under that project's own
-  terms.
+- **The Lily Design System.** This site depends on
+  [Lily Design System™](https://lilydesignsystem.com/) components — installed
+  as npm packages under the `@lilydesignsystem` scope, plus its 45 reference
+  themes vendored at `static/assets/themes/` — under that project's own terms.
 
 Part of the [UK GDAD PCF monorepo](../README.md), which is licensed under the
 Open Government Licence v3.0 throughout. See [LICENSE.md](../LICENSE.md) for the

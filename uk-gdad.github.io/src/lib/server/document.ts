@@ -4,7 +4,7 @@
 
 import { error } from '@sveltejs/kit';
 import { getLevelContext, getSlugsFor, readDocument, renderMarkdown } from './content';
-import { RESOURCES, normalizeSlug, type ResourceKind } from '$lib/types';
+import { RESOURCES, normalizeSlug, type ResourceKind } from '#lib/types.js';
 
 /** Prerender entries: one per level that actually has this kind of document. */
 export function documentEntries(kind: ResourceKind) {

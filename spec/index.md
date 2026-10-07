@@ -317,17 +317,19 @@ Three helpers support step 3, all at the repository root:
 ## Website
 
 `uk-gdad.github.io` is a SvelteKit project that prerenders every document to
-static HTML. It **vendors** its inputs rather than reading across directories,
-so that it stays buildable when it is pushed to its own repository:
+static HTML. It **vendors** the UK GDAD PCF content it renders, rather than
+reading across directories, so that it stays buildable when it is pushed to
+its own repository. The Lily Design System's Svelte components — headless
+components, the theme, locale, text size and share pickers, and the picker
+bar that composes them — are not vendored; they are real npm dependencies
+under the `@lilydesignsystem` scope (`package.json`), installed like any
+other package. Only the 45 reference themes the theme picker switches between
+have no npm package of their own, so those are still vendored by file copy:
 
 - `uk-gdad.github.io/content/<project>/` is a byte-for-byte copy of each
   project's `roles/` tree.
-- `uk-gdad.github.io/src/lib/lily/` is a copy of the Lily Design System's
-  headless Svelte components listed in `uk-gdad.github.io/bin/lily-components.txt`.
-- `uk-gdad.github.io/src/lib/lily-helpers/` is a copy of the Lily Design
-  System's helper Svelte components — a theme picker, a text size picker and a
-  share picker — listed in `uk-gdad.github.io/bin/lily-helper-components.txt`.
-  They are mounted site-wide in the header, so every page hydrates.
+- `uk-gdad.github.io/static/assets/themes/` is a copy of the Lily Design
+  System's 45 reference themes, listed in `uk-gdad.github.io/bin/lily-themes.txt`.
 - `uk-gdad.github.io/static/tools/skills-self-assessment/` is a copy of the
   self-assessment tool.
 
@@ -369,7 +371,7 @@ Run it before every commit that touches content. It checks:
    skill its summary names, in the summary's order, with the skill name
    exactly as written.
 6. The website's vendored content matches its sources byte for byte.
-7. Every Lily component and helper component named in its manifest is vendored.
+7. Every Lily reference theme named in its manifest is vendored.
 
 Adding a rule to this specification means adding it to `bin/check`, or marking
 it **advisory** because it needs human judgement.

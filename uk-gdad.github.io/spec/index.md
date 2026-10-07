@@ -79,6 +79,7 @@ after it — `<slug>/<kind>/` — rather than a prefix before it.
 | `/professions/` | All professions | 1 |
 | `/professions/<profession>/` | One profession, its roles and levels | 8 |
 | `/roles/` | Role finder, searchable | 1 |
+| `/search/` | Search results for roles and skills, from the header search box | 1 |
 | `/<slug>/` | Start here: friendly introduction and learning pathway | 205 |
 | `/<slug>/specification/` | Role summary, parsed into sections | 205 |
 | `/<slug>/upskilling-resources/` | Upskilling resources | 205 |
@@ -92,7 +93,7 @@ after it — `<slug>/<kind>/` — rather than a prefix before it.
 | `/skills/<skill>/` | One skill and every level that expects it | 183 |
 | `/skills-self-assessment/` | The self-assessment tool | 1 |
 | `/about/` | Provenance, licensing, how it is built | 1 |
-| `/sitemap.xml` | Every URL above | 1 |
+| `/sitemap.xml` | Every URL above except `/search/` | 1 |
 
 `/roles/` (the finder) and `/<slug>/` (a specific role level) are both static
 and rest-parameter routes respectively at the site root; SvelteKit always

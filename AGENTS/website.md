@@ -7,7 +7,9 @@ Contract: [`uk-gdad.github.io/spec/index.md`](../uk-gdad.github.io/spec/index.md
 SvelteKit 2 with Svelte 5 runes, `@sveltejs/adapter-static`, `marked` for
 markdown at build time, pnpm, and the
 [Lily Design System™](https://lilydesignsystem.com/) for components and class
-names. Every page is prerendered; there is no server and no runtime API.
+names — installed as real npm dependencies under the `@lilydesignsystem`
+scope, not vendored. Every page is prerendered; there is no server and no
+runtime API.
 
 ## Commands
 
@@ -27,12 +29,17 @@ checks and then publishes.
 ## Vendored, never edited
 
 - `content/` — a byte-for-byte copy of the five `roles/` trees
-- `src/lib/lily/` — Lily headless components, per `bin/lily-components.txt`
-- `src/lib/lily-helpers/` — Lily helper components (theme, text size, share
-  pickers), per `bin/lily-helper-components.txt`
+- `static/assets/themes/` — Lily's 45 reference themes, per
+  `bin/lily-themes.txt`
 - `static/tools/skills-self-assessment/index.html` — the self-assessment tool
 
 Edit the source, run `./bin/sync`, then `bin/check` from the repository root.
+
+The Lily Svelte components — headless components (`@lilydesignsystem/svelte-headless`)
+and the theme, locale, text size and share pickers and picker bar
+(`@lilydesignsystem/svelte-*`) — are ordinary npm dependencies in
+`package.json`, not vendored. Upgrade them with `pnpm update`, same as any
+other dependency.
 
 ## Publishing
 
@@ -78,8 +85,8 @@ policy.
 - **`{#each}` keys must be unique.** Summary bullets repeat, and some summaries
   name a skill twice. A duplicate key throws at hydration and blanks the page,
   while the prerendered HTML looks fine. Do not key a loop on its text.
-- **Every route hydrates.** The theme, text size, and share pickers in the
-  header (`src/lib/lily-helpers/`, mounted in `+layout.svelte`) are
+- **Every route hydrates.** The picker bar in the header
+  (`@lilydesignsystem/svelte-picker-bar`, mounted in `+layout.svelte`) is
   interactive on every page, so no route sets `csr = false` any more. That
   used to halve the built site's client JS; the trade-off is gone now that a
   site-wide control needs JS everywhere.

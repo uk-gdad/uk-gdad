@@ -1,4 +1,4 @@
-import { getSkills } from '$lib/server/content';
+import { getSkills } from '#lib/server/content.js';
 
 export function load() {
   return {

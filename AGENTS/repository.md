@@ -72,8 +72,9 @@ path on the website. Changing a slug means changing eight files and re-running
 
 ## Do not
 
-- Edit anything under `uk-gdad.github.io/content/`, `uk-gdad.github.io/src/lib/lily/`,
-  or `uk-gdad.github.io/static/tools/` — all vendored. Edit the source, then sync.
+- Edit anything under `uk-gdad.github.io/content/`,
+  `uk-gdad.github.io/static/assets/themes/`, or
+  `uk-gdad.github.io/static/tools/` — all vendored. Edit the source, then sync.
 - Add a file to one role project without adding it to the other eight.
 - Write `TODO` into a published document. An unwritten section is a defect.
 - Add a role level that the framework does not publish.

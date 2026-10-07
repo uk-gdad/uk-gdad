@@ -1,7 +1,7 @@
 <script lang="ts">
-  import Breadcrumbs from '$lib/Breadcrumbs.svelte';
-  import Badge from '$lib/lily/Badge.svelte';
-  import { RESOURCES } from '$lib/types';
+  import Breadcrumbs from '#lib/Breadcrumbs.svelte';
+  import { Badge } from '@lilydesignsystem/svelte-headless';
+  import { RESOURCES } from '#lib/types.js';
 
   let { data } = $props();
 

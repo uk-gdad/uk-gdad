@@ -340,10 +340,10 @@ For a custom domain, add `static/CNAME` and update the origin in
 
 ### Change how it looks
 
-All styling is in `static/assets/style.css`. The components in `src/lib/lily/`
-are headless — they carry class names and ARIA and no styles — so restyling
-means editing the stylesheet, not the components. Never edit `src/lib/lily/`
-itself; it is vendored from the Lily Design System by `bin/sync`.
+All styling is in `static/assets/style.css`. The Lily Design System
+components (`@lilydesignsystem/svelte-headless` and friends, real npm
+dependencies) are headless — they carry class names and ARIA and no styles —
+so restyling means editing the stylesheet, not the components.
 
 ---
 

@@ -15,35 +15,72 @@
 
 /* 1. Tokens ------------------------------------------------------------- */
 
+/* This site's own token names (`--site-*`) are deliberately distinct from
+ * Lily's own hook variables (`--lily-*`, e.g. `--lily-surface`,
+ * `--lily-text-muted`) even though several mean almost the same thing.
+ * ThemePicker swaps in one of Lily's 45 real reference themes from
+ * static/assets/themes/ (see bin/lily-themes.txt and bin/sync) — full
+ * standalone stylesheets, each defining Lily's own `--color-*` and
+ * `--lily-*` hooks under `:root` or `:root[data-theme="<slug>"]`. Reusing
+ * Lily's own names for this site's tokens would mean a handful of them
+ * (border, surface, text, text-muted, shadow-lg, font-mono) got silently
+ * overwritten by the loaded theme while everything else — primary, danger,
+ * page background, card background — stayed stuck at whatever this block
+ * sets, because Lily's files never define those names. Every `--site-*`
+ * token below is instead an explicit, considered choice of which of Lily's
+ * tokens feeds it, so a theme swap re-themes the whole page consistently.
+ * The literal fallback in each `var()` is what renders before ThemePicker's
+ * JS runs, and for a visit with JavaScript disabled entirely (no managed
+ * theme <link> is ever inserted) — it is this site's own light theme,
+ * restated. */
 :root {
-  --lily-primary: #1d70b8;
-  --lily-primary-hover: #003078;
-  --lily-primary-wash: #eaf2f9;
-  --lily-accent: #28a197;
-  --lily-danger: #d4351c;
-  --lily-warning: #f47738;
-  --lily-success: #00703c;
-  --lily-focus: #ffdd00;
+  --site-primary: var(--color-primary, #1d70b8);
+  --site-primary-hover: var(--color-secondary, #003078);
+  --site-primary-wash: color-mix(in oklch, var(--color-primary, #1d70b8) 12%, var(--color-base-100, #ffffff));
+  --site-accent: var(--color-accent, #28a197);
+  --site-danger: var(--color-error, #d4351c);
+  --site-warning: var(--color-warning, #f47738);
+  --site-success: var(--color-success, #00703c);
+  /* Fixed, not themed — GOV.UK's yellow-and-black focus indicator stays the
+   * same in every theme, see § 2. */
+  --site-focus: #ffdd00;
 
-  --lily-page-bg: #ffffff;
-  --lily-surface: #f3f2f1;
-  --lily-card-bg: #ffffff;
+  --site-page-bg: var(--color-base-100, #ffffff);
+  --site-surface: var(--color-base-200, #f3f2f1);
+  --site-card-bg: var(--color-base-100, #ffffff);
 
-  --lily-text: #0b0c0c;
-  --lily-text-muted: #505a5f;
-  --lily-border: #b1b4b6;
-  --lily-border-subtle: #dee0e2;
+  --site-text: var(--color-base-content, #0b0c0c);
+  --site-text-muted: var(--lily-text-muted, #505a5f);
+  --site-border: var(--lily-border, #b1b4b6);
+  --site-border-subtle: var(--color-base-300, #dee0e2);
 
-  --lily-shadow: 0 1px 2px rgba(11, 12, 12, 0.08);
-  --lily-shadow-lg: 0 8px 24px -8px rgba(11, 12, 12, 0.18);
-  --lily-radius: 4px;
+  --site-shadow: var(--lily-shadow-sm, 0 1px 2px rgba(11, 12, 12, 0.08));
+  --site-shadow-lg: var(--lily-shadow-lg, 0 8px 24px -8px rgba(11, 12, 12, 0.18));
+  --site-radius: var(--lily-radius-md, 4px);
 
-  --lily-content-max: 74rem;
-  --lily-prose-max: 42rem;
+  /* Layout constants, not colours — untouched by a theme swap. */
+  --site-content-max: 74rem;
+  --site-prose-max: 42rem;
 
-  --lily-font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
-    sans-serif;
-  --lily-font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  --site-font-sans: var(
+    --lily-font-body,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif
+  );
+  --site-font-mono: var(
+    --lily-font-mono,
+    ui-monospace,
+    SFMono-Regular,
+    "SF Mono",
+    Menlo,
+    Consolas,
+    monospace
+  );
 }
 
 /* TextSizePicker sets data-text-size on <html>. Every other size in this
@@ -74,34 +111,34 @@ html {
 
 body {
   margin: 0;
-  font-family: var(--lily-font-sans);
+  font-family: var(--site-font-sans);
   font-size: 1.0625rem;
   line-height: 1.6;
-  color: var(--lily-text);
-  background: var(--lily-page-bg);
+  color: var(--site-text);
+  background: var(--site-page-bg);
   -webkit-font-smoothing: antialiased;
 }
 
 a {
-  color: var(--lily-primary);
+  color: var(--site-primary);
   text-decoration: underline;
   text-underline-offset: 0.15em;
 }
 a:hover {
-  color: var(--lily-primary-hover);
+  color: var(--site-primary-hover);
 }
 a:focus-visible,
 button:focus-visible,
 input:focus-visible,
 summary:focus-visible {
   outline: 3px solid transparent;
-  /* Fixed, not `var(--lily-text)`: GOV.UK's yellow-and-black focus state is
+  /* Fixed, not `var(--site-text)`: GOV.UK's yellow-and-black focus state is
    * the same in every theme, so it stays visible and high-contrast in dark
    * mode instead of inheriting a light body colour onto a yellow chip. */
   color: #0b0c0c;
-  background: var(--lily-focus);
+  background: var(--site-focus);
   box-shadow:
-    0 -2px var(--lily-focus),
+    0 -2px var(--site-focus),
     0 4px #0b0c0c;
   text-decoration: none;
 }
@@ -142,17 +179,17 @@ li {
 
 hr {
   border: 0;
-  border-top: 1px solid var(--lily-border-subtle);
+  border-top: 1px solid var(--site-border-subtle);
   margin: 2.5rem 0;
 }
 
 code,
 pre {
-  font-family: var(--lily-font-mono);
+  font-family: var(--site-font-mono);
   font-size: 0.9em;
 }
 code {
-  background: var(--lily-surface);
+  background: var(--site-surface);
   padding: 0.1em 0.35em;
   border-radius: 3px;
 }
@@ -160,7 +197,7 @@ pre {
   background: #0b0c0c;
   color: #f3f2f1;
   padding: 1rem;
-  border-radius: var(--lily-radius);
+  border-radius: var(--site-radius);
   overflow-x: auto;
 }
 pre code {
@@ -178,7 +215,7 @@ th,
 td {
   text-align: left;
   padding: 0.65rem 0.75rem;
-  border-bottom: 1px solid var(--lily-border-subtle);
+  border-bottom: 1px solid var(--site-border-subtle);
   vertical-align: top;
 }
 th {
@@ -192,12 +229,12 @@ th {
   top: -100px;
   left: 1rem;
   z-index: 100;
-  background: var(--lily-focus);
-  color: var(--lily-text);
+  background: var(--site-focus);
+  color: var(--site-text);
   padding: 0.6rem 1rem;
   font-weight: 700;
   text-decoration: none;
-  box-shadow: 0 3px var(--lily-text);
+  box-shadow: 0 3px var(--site-text);
 }
 .skip-link:focus {
   top: 0.5rem;
@@ -208,12 +245,12 @@ th {
   flex-wrap: wrap;
   align-items: baseline;
   gap: 0.75rem;
-  max-width: var(--lily-content-max);
+  max-width: var(--site-content-max);
   margin: 0 auto;
   padding: 0.75rem 1.5rem;
-  border-bottom: 1px solid var(--lily-border-subtle);
+  border-bottom: 1px solid var(--site-border-subtle);
   font-size: 0.95rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 .phase-banner span:last-child {
   flex: 1 1 20rem;
@@ -227,7 +264,7 @@ th {
   text-transform: uppercase;
   padding: 0.2rem 0.5rem;
   border-radius: 3px;
-  background: var(--lily-primary);
+  background: var(--site-primary);
   color: #ffffff;
 }
 .tag-group {
@@ -236,8 +273,8 @@ th {
   gap: 0.4rem;
 }
 .tag-quiet {
-  background: var(--lily-surface);
-  color: var(--lily-text-muted);
+  background: var(--site-surface);
+  color: var(--site-text-muted);
 }
 
 .badge {
@@ -246,12 +283,12 @@ th {
   font-weight: 600;
   padding: 0.1rem 0.5rem;
   border-radius: 999px;
-  background: var(--lily-surface);
-  color: var(--lily-text-muted);
+  background: var(--site-surface);
+  color: var(--site-text-muted);
 }
 .badge[data-type='info'] {
-  background: var(--lily-primary-wash);
-  color: var(--lily-primary-hover);
+  background: var(--site-primary-wash);
+  color: var(--site-primary-hover);
 }
 .badge[data-type='warning'] {
   background: #fdf0e5;
@@ -273,7 +310,7 @@ th {
 .breadcrumb-list-item {
   position: relative;
   margin: 0;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 .breadcrumb-list-item + .breadcrumb-list-item::before {
   content: '';
@@ -282,13 +319,13 @@ th {
   top: 0.45em;
   width: 0.4em;
   height: 0.4em;
-  border: solid var(--lily-text-muted);
+  border: solid var(--site-text-muted);
   border-width: 1.5px 1.5px 0 0;
   transform: rotate(45deg);
 }
 .breadcrumb-list-item[aria-current='page'] {
   font-weight: 600;
-  color: var(--lily-text);
+  color: var(--site-text);
 }
 
 .back-link {
@@ -304,15 +341,15 @@ th {
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
-  background: var(--lily-card-bg);
-  border: 1px solid var(--lily-border-subtle);
-  border-left: 4px solid var(--lily-primary);
-  border-radius: var(--lily-radius);
+  background: var(--site-card-bg);
+  border: 1px solid var(--site-border-subtle);
+  border-left: 4px solid var(--site-primary);
+  border-radius: var(--site-radius);
   padding: 1.25rem 1.35rem;
-  box-shadow: var(--lily-shadow);
+  box-shadow: var(--site-shadow);
 }
 .card:hover {
-  box-shadow: var(--lily-shadow-lg);
+  box-shadow: var(--site-shadow-lg);
 }
 .card h2,
 .card h3 {
@@ -329,14 +366,14 @@ th {
 }
 .card p {
   margin: 0;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
   font-size: 0.9375rem;
 }
 .card-meta {
   margin-top: auto;
   padding-top: 0.5rem;
   font-size: 0.8125rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 
 .section-heading {
@@ -348,29 +385,29 @@ th {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--lily-primary);
+  color: var(--site-primary);
 }
 .section-heading-heading {
   margin: 0;
 }
 .section-heading-subtitle {
   margin: 0.5rem 0 0;
-  color: var(--lily-text-muted);
-  max-width: var(--lily-prose-max);
+  color: var(--site-text-muted);
+  max-width: var(--site-prose-max);
 }
 
 .inset-text {
-  border-left: 5px solid var(--lily-border);
+  border-left: 5px solid var(--site-border);
   padding: 0.5rem 0 0.5rem 1.15rem;
   margin: 1.5rem 0;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 
 .warning-callout {
   display: block;
-  background: var(--lily-primary-wash);
-  border-left: 5px solid var(--lily-primary);
-  border-radius: 0 var(--lily-radius) var(--lily-radius) 0;
+  background: var(--site-primary-wash);
+  border-left: 5px solid var(--site-primary);
+  border-radius: 0 var(--site-radius) var(--site-radius) 0;
   padding: 1rem 1.25rem;
   margin: 1.5rem 0;
 }
@@ -379,8 +416,8 @@ th {
 }
 
 .contents-nav {
-  background: var(--lily-surface);
-  border-radius: var(--lily-radius);
+  background: var(--site-surface);
+  border-radius: var(--site-radius);
   padding: 1rem 1.25rem;
 }
 .contents-nav h2 {
@@ -403,20 +440,20 @@ th {
 .statistic {
   display: flex;
   flex-direction: column;
-  background: var(--lily-surface);
-  border-radius: var(--lily-radius);
+  background: var(--site-surface);
+  border-radius: var(--site-radius);
   padding: 1rem 1.25rem;
 }
 .statistic-title {
   order: 2;
   font-size: 0.9375rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 .statistic-value {
   font-size: 2.25rem;
   font-weight: 700;
   line-height: 1.1;
-  color: var(--lily-primary-hover);
+  color: var(--site-primary-hover);
 }
 
 .summary-list {
@@ -427,7 +464,7 @@ th {
   grid-template-columns: minmax(8rem, 14rem) 1fr;
   gap: 0.5rem 1.5rem;
   padding: 0.75rem 0;
-  border-bottom: 1px solid var(--lily-border-subtle);
+  border-bottom: 1px solid var(--site-border-subtle);
 }
 .summary-list-item dt {
   font-weight: 700;
@@ -437,13 +474,13 @@ th {
 }
 
 .details {
-  border-bottom: 1px solid var(--lily-border-subtle);
+  border-bottom: 1px solid var(--site-border-subtle);
   padding: 0.75rem 0;
 }
 .details summary {
   cursor: pointer;
   font-weight: 600;
-  color: var(--lily-primary);
+  color: var(--site-primary);
 }
 /* Assessments wrap each question's worked answer in a `.details`, so a
    reader can attempt the question before checking it. It sits right after
@@ -456,11 +493,11 @@ th {
 }
 .assessment-answer summary {
   padding: 0.5rem 0.75rem;
-  border: 2px solid var(--lily-border);
-  border-radius: var(--lily-radius);
+  border: 2px solid var(--site-border);
+  border-radius: var(--site-radius);
 }
 .assessment-answer summary:hover {
-  background: var(--lily-primary-wash);
+  background: var(--site-primary-wash);
 }
 .assessment-answer[open] summary {
   margin-bottom: 0.75rem;
@@ -471,10 +508,10 @@ th {
   margin-bottom: 0;
 }
 
-/* Site tools: ThemePicker, TextSizePicker and SharePicker, from
- * lily-design-system-svelte-helpers rather than the headless package —
- * see src/lib/lily-helpers/. All three are headless, so every rule below
- * is this site's own visual decision, not the component's. */
+/* Site tools: ThemePicker, LocalePicker, TextSizePicker and SharePicker,
+ * composed by PickerBar — all @lilydesignsystem/svelte-* npm dependencies,
+ * not the headless package. All four are headless, so every rule below is
+ * this site's own visual decision, not the component's. */
 
 .site-tools {
   display: flex;
@@ -483,6 +520,7 @@ th {
 }
 
 .theme-picker,
+.locale-picker,
 .text-size-picker,
 .share-picker {
   position: relative;
@@ -490,6 +528,7 @@ th {
 }
 
 .theme-picker-button,
+.locale-picker-button,
 .text-size-picker-button,
 .share-picker-button {
   display: inline-flex;
@@ -498,26 +537,29 @@ th {
   width: 2.25rem;
   height: 2.25rem;
   padding: 0;
-  border: 1px solid var(--lily-border);
-  border-radius: var(--lily-radius);
-  background: var(--lily-page-bg);
-  color: var(--lily-text);
+  border: 1px solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-page-bg);
+  color: var(--site-text);
   cursor: pointer;
   line-height: 1;
 }
 .theme-picker-button:hover,
+.locale-picker-button:hover,
 .text-size-picker-button:hover,
 .share-picker-button:hover {
-  background: var(--lily-surface);
+  background: var(--site-surface);
 }
 .theme-picker-button[aria-expanded='true'],
+.locale-picker-button[aria-expanded='true'],
 .text-size-picker-button[aria-expanded='true'],
 .share-picker-button[aria-expanded='true'] {
-  background: var(--lily-surface);
-  border-color: var(--lily-text);
+  background: var(--site-surface);
+  border-color: var(--site-text);
 }
 
 .theme-picker-icon,
+.locale-picker-icon,
 .text-size-picker-icon,
 .share-picker-icon {
   font-family: system-ui, 'Segoe UI Symbol', 'Apple Symbols', sans-serif;
@@ -525,6 +567,7 @@ th {
 }
 
 .theme-picker-list,
+.locale-picker-list,
 .text-size-picker-list,
 .share-picker-list {
   position: absolute;
@@ -535,32 +578,41 @@ th {
   margin: 0;
   padding: 0.35rem;
   list-style: none;
-  border: 1px solid var(--lily-border);
-  border-radius: var(--lily-radius);
-  background: var(--lily-card-bg);
-  box-shadow: var(--lily-shadow-lg);
+  border: 1px solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-card-bg);
+  /* The theme list alone holds 45 options — the others stay well under
+   * this height and never scroll. Keyboard nav already calls
+   * scrollIntoView on the active option (see the vendored ThemePicker). */
+  max-height: min(60vh, 28rem);
+  overflow-y: auto;
+  box-shadow: var(--site-shadow-lg);
 }
 .theme-picker-list[hidden],
+.locale-picker-list[hidden],
 .text-size-picker-list[hidden],
 .share-picker-list[hidden] {
   display: none;
 }
 
 .theme-picker-option,
+.locale-picker-option,
 .text-size-picker-option {
   padding: 0.4rem 0.6rem;
-  border-radius: var(--lily-radius);
+  border-radius: var(--site-radius);
   cursor: pointer;
   font-size: 0.9375rem;
 }
 .theme-picker-option[data-active],
+.locale-picker-option[data-active],
 .text-size-picker-option[data-active] {
-  background: var(--lily-surface);
+  background: var(--site-surface);
 }
 .theme-picker-option[aria-selected='true'],
+.locale-picker-option[aria-selected='true'],
 .text-size-picker-option[aria-selected='true'] {
   font-weight: 700;
-  color: var(--lily-primary-hover);
+  color: var(--site-primary-hover);
 }
 
 .share-picker-list-item {
@@ -572,9 +624,9 @@ th {
   width: 100%;
   padding: 0.4rem 0.6rem;
   border: 0;
-  border-radius: var(--lily-radius);
+  border-radius: var(--site-radius);
   background: transparent;
-  color: var(--lily-text);
+  color: var(--site-text);
   font: inherit;
   text-align: left;
   text-decoration: none;
@@ -582,8 +634,8 @@ th {
 }
 .share-picker-target:hover,
 .share-picker-copy:hover {
-  background: var(--lily-surface);
-  color: var(--lily-text);
+  background: var(--site-surface);
+  color: var(--site-text);
 }
 
 .theme-picker-status,
@@ -595,8 +647,8 @@ th {
 /* 4. Site chrome -------------------------------------------------------- */
 
 .site-header {
-  border-bottom: 4px solid var(--lily-text);
-  background: var(--lily-page-bg);
+  border-bottom: 4px solid var(--site-text);
+  background: var(--site-page-bg);
 }
 .site-header-inner {
   display: flex;
@@ -604,7 +656,7 @@ th {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  max-width: var(--lily-content-max);
+  max-width: var(--site-content-max);
   margin: 0 auto;
   padding: 1rem 1.5rem;
 }
@@ -612,7 +664,7 @@ th {
   display: flex;
   align-items: center;
   gap: 0.65rem;
-  color: var(--lily-text);
+  color: var(--site-text);
   text-decoration: none;
 }
 .site-brand-mark {
@@ -630,7 +682,7 @@ th {
 }
 .site-brand-tagline {
   font-size: 0.8125rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 .site-nav {
   display: flex;
@@ -639,31 +691,31 @@ th {
 }
 .site-nav a {
   padding: 0.4rem 0.65rem;
-  border-radius: var(--lily-radius);
-  color: var(--lily-text-muted);
+  border-radius: var(--site-radius);
+  color: var(--site-text-muted);
   text-decoration: none;
   font-size: 0.9375rem;
 }
 .site-nav a:hover {
-  background: var(--lily-surface);
-  color: var(--lily-text);
+  background: var(--site-surface);
+  color: var(--site-text);
 }
 .site-nav a[aria-current='page'] {
-  color: var(--lily-primary-hover);
+  color: var(--site-primary-hover);
   font-weight: 700;
-  box-shadow: inset 0 -3px var(--lily-primary);
+  box-shadow: inset 0 -3px var(--site-primary);
   border-radius: 0;
 }
 
 .site-main {
-  max-width: var(--lily-content-max);
+  max-width: var(--site-content-max);
   margin: 0 auto;
   padding: 2.5rem 1.5rem 4rem;
 }
 
 .site-footer {
-  border-top: 2px solid var(--lily-border);
-  background: var(--lily-surface);
+  border-top: 2px solid var(--site-border);
+  background: var(--site-surface);
   padding: 2rem 1.5rem;
 }
 .site-footer-inner {
@@ -671,10 +723,10 @@ th {
   flex-wrap: wrap;
   gap: 1.5rem 3rem;
   justify-content: space-between;
-  max-width: var(--lily-content-max);
+  max-width: var(--site-content-max);
   margin: 0 auto;
   font-size: 0.9375rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 .site-footer p {
   margin: 0 0 0.5rem;
@@ -700,7 +752,7 @@ th {
 }
 .hero-lede {
   font-size: 1.25rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 
 .button {
@@ -709,26 +761,26 @@ th {
   font-weight: 700;
   text-decoration: none;
   padding: 0.65rem 1.25rem;
-  border: 2px solid var(--lily-primary);
-  border-radius: var(--lily-radius);
-  background: var(--lily-primary);
+  border: 2px solid var(--site-primary);
+  border-radius: var(--site-radius);
+  background: var(--site-primary);
   color: #ffffff;
-  box-shadow: 0 2px 0 var(--lily-primary-hover);
+  box-shadow: 0 2px 0 var(--site-primary-hover);
   cursor: pointer;
 }
 .button:hover {
-  background: var(--lily-primary-hover);
-  border-color: var(--lily-primary-hover);
+  background: var(--site-primary-hover);
+  border-color: var(--site-primary-hover);
   color: #ffffff;
 }
 .button-secondary {
-  background: var(--lily-page-bg);
-  color: var(--lily-primary-hover);
-  box-shadow: 0 2px 0 var(--lily-border);
+  background: var(--site-page-bg);
+  color: var(--site-primary-hover);
+  box-shadow: 0 2px 0 var(--site-border);
 }
 .button-secondary:hover {
-  background: var(--lily-primary-wash);
-  color: var(--lily-primary-hover);
+  background: var(--site-primary-wash);
+  color: var(--site-primary-hover);
 }
 .button-row {
   display: flex;
@@ -796,8 +848,8 @@ th {
 .prose blockquote {
   margin: 1.5rem 0;
   padding-left: 1rem;
-  border-left: 4px solid var(--lily-border);
-  color: var(--lily-text-muted);
+  border-left: 4px solid var(--site-border);
+  color: var(--site-text-muted);
 }
 
 /* Skills gap forms are filled in on the page, so their questions, answer
@@ -821,16 +873,16 @@ th {
   width: 100%;
   padding: 0.5rem;
   font: inherit;
-  color: var(--lily-text);
-  background: var(--lily-page-bg);
-  border: 2px solid var(--lily-text);
+  color: var(--site-text);
+  background: var(--site-page-bg);
+  border: 2px solid var(--site-text);
   border-radius: 0;
   resize: vertical;
 }
 .form-textarea:focus-visible {
-  outline: 3px solid var(--lily-focus);
+  outline: 3px solid var(--site-focus);
   outline-offset: 0;
-  box-shadow: inset 0 0 0 2px var(--lily-text);
+  box-shadow: inset 0 0 0 2px var(--site-text);
 }
 
 .form-choices {
@@ -843,18 +895,18 @@ th {
   gap: 0.6rem;
   align-items: flex-start;
   padding: 0.35rem 0.5rem;
-  border-radius: var(--lily-radius);
+  border-radius: var(--site-radius);
 }
 .form-choice:hover,
 .form-choice:has(input:checked) {
-  background: var(--lily-primary-wash);
+  background: var(--site-primary-wash);
 }
 .form-choice input {
   flex: none;
   width: 1.25rem;
   height: 1.25rem;
   margin: 0.3rem 0 0;
-  accent-color: var(--lily-primary);
+  accent-color: var(--site-primary);
 }
 .form-choice label {
   cursor: pointer;
@@ -866,9 +918,9 @@ th {
 /* The global focus style fills the control itself, which hides a tick. */
 .form-choices input:focus-visible {
   background: none;
-  outline: 3px solid var(--lily-focus);
+  outline: 3px solid var(--site-focus);
   outline-offset: 1px;
-  box-shadow: 0 0 0 4px var(--lily-text);
+  box-shadow: 0 0 0 4px var(--site-text);
 }
 
 .gapform-tools {
@@ -880,7 +932,7 @@ th {
 .gapform-status {
   margin: 0;
   font-size: 0.9375rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 
 .skill-list {
@@ -890,7 +942,7 @@ th {
 }
 .skill-list > li {
   padding: 1.15rem 0;
-  border-bottom: 1px solid var(--lily-border-subtle);
+  border-bottom: 1px solid var(--site-border-subtle);
 }
 .skill-list h3 {
   margin: 0 0 0.5rem;
@@ -904,11 +956,11 @@ th {
   list-style: none;
   padding: 0;
   margin: 0 0 2rem;
-  border-top: 1px solid var(--lily-border-subtle);
+  border-top: 1px solid var(--site-border-subtle);
 }
 .level-list > li {
   margin: 0;
-  border-bottom: 1px solid var(--lily-border-subtle);
+  border-bottom: 1px solid var(--site-border-subtle);
 }
 .level-list a {
   display: flex;
@@ -919,13 +971,13 @@ th {
   text-decoration: none;
 }
 .level-list a:hover {
-  background: var(--lily-surface);
+  background: var(--site-surface);
 }
 .level-list-number {
   min-width: 1.75rem;
   font-variant-numeric: tabular-nums;
   font-weight: 700;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 .level-list-title {
   font-weight: 600;
@@ -934,7 +986,7 @@ th {
 .level-list-meta {
   margin-left: auto;
   font-size: 0.8125rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 
 .finder-form {
@@ -950,18 +1002,18 @@ th {
   width: 100%;
   font: inherit;
   padding: 0.65rem 0.85rem;
-  border: 2px solid var(--lily-text);
-  border-radius: var(--lily-radius);
-  background: var(--lily-page-bg);
+  border: 2px solid var(--site-text);
+  border-radius: var(--site-radius);
+  background: var(--site-page-bg);
 }
 .finder-count {
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
   font-size: 0.9375rem;
   margin: 0 0 1rem;
 }
 .finder-empty {
-  background: var(--lily-surface);
-  border-radius: var(--lily-radius);
+  background: var(--site-surface);
+  border-radius: var(--site-radius);
   padding: 1.5rem;
 }
 
@@ -969,11 +1021,11 @@ th {
   list-style: none;
   padding: 0;
   margin: 0;
-  border-top: 1px solid var(--lily-border-subtle);
+  border-top: 1px solid var(--site-border-subtle);
 }
 .result-list > li {
   margin: 0;
-  border-bottom: 1px solid var(--lily-border-subtle);
+  border-bottom: 1px solid var(--site-border-subtle);
   padding: 0.85rem 0.5rem;
 }
 .result-list a {
@@ -982,7 +1034,7 @@ th {
 .result-meta {
   display: block;
   font-size: 0.875rem;
-  color: var(--lily-text-muted);
+  color: var(--site-text-muted);
 }
 
 .column-list {
@@ -1050,7 +1102,7 @@ th {
   /* A form is printed as often as it is filled in on screen. */
   .form-textarea {
     min-height: 6rem;
-    border: 1px solid var(--lily-text);
+    border: 1px solid var(--site-text);
     print-color-adjust: exact;
   }
   .form-choice input {

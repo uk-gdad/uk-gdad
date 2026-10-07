@@ -1,4 +1,4 @@
-import { getLevelRows } from '$lib/server/content';
+import { getLevelRows } from '#lib/server/content.js';
 
 export function load() {
   return {
