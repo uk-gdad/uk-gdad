@@ -1,7 +1,7 @@
 <script lang="ts">
   import { page } from '$app/state';
   import { goto } from '$app/navigation';
-  import { SkipLink, PhaseBanner, Tag } from '@lilydesignsystem/svelte-headless';
+  import { SkipLink } from '@lilydesignsystem/svelte-headless';
   import { themeName } from '@lilydesignsystem/svelte-theme-picker';
   import { sizeName } from '@lilydesignsystem/svelte-text-size-picker';
   import type { ShareTarget } from '@lilydesignsystem/svelte-share-picker';
@@ -104,7 +104,7 @@
       <img class="site-brand-mark" src="/assets/favicon.svg" alt="" aria-hidden="true" />
       <span class="site-brand-text">
         <span class="site-brand-name">UK GDAD</span>
-        <span class="site-brand-tagline">Profession Capability Framework</span>
+        <span class="site-brand-tagline">Unofficial Community Project</span>
       </span>
     </a>
     <nav class="site-nav" aria-label="Main">
@@ -152,14 +152,6 @@
   </div>
 </header>
 
-<PhaseBanner class="site-phase-banner">
-  <Tag label="Status">Unofficial</Tag>
-  <span>
-    A community project, not a government service. See
-    <a href="https://ddat-capability-framework.service.gov.uk/">the official framework</a>.
-  </span>
-</PhaseBanner>
-
 <main id="main" class="site-main">
   {@render children()}
 </main>
@@ -172,7 +164,8 @@
         community-built reference.
       </p>
       <p class="site-footer-fine">
-        Source content adapted from the Government Digital and Data Profession Capability Framework,
+        Source content adapted from the
+        <a href="https://ddat-capability-framework.service.gov.uk/">Government Digital and Data Profession Capability Framework</a>,
         available under the Open Government Licence v3.0. Built with the
         <a href="https://lilydesignsystem.com/">Lily Design System™</a>.
       </p>
