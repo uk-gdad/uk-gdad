@@ -22,7 +22,8 @@
     next.
   </p>
   <div class="button-row">
-    <a class="button" href="/tools/skills-self-assessment/">Open the self-assessment</a>
+    <!-- A static file outside the app: reload, so the router does not try to render it as a page. -->
+    <a class="button" href="/tools/skills-self-assessment/" data-sveltekit-reload>Open the self-assessment</a>
   </div>
 </div>
 
