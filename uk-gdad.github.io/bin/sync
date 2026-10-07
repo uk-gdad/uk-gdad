@@ -4,7 +4,6 @@
 #
 #   1. Lily Design System reference themes -> static/assets/themes/
 #   2. UK GDAD PCF markdown from the sibling projects -> content/
-#   3. The standalone skills self-assessment tool -> static/self-assessment/
 #
 # The Lily Design System Svelte components themselves — headless components,
 # theme/locale/text-size/share pickers, and the picker bar — are real npm
@@ -46,15 +45,18 @@ fi
 # 2. UK GDAD PCF content.
 
 sync_content() {
-    from="$gdad/$1/roles/"
-    to="$site/content/$2/"
+    from="$gdad/$1/locales/"
+    to="$site/content/$2/locales/"
     if [ ! -d "$from" ]; then
         echo "sync: skipping $2; not found at $from" >&2
         return
     fi
     mkdir -p "$to"
+    # Before locales/ existed a project's role tree sat directly in its content
+    # directory; drop anything left over from that layout.
+    find "$site/content/$2" -mindepth 1 -maxdepth 1 ! -name locales -exec rm -rf {} +
     rsync -a --delete --prune-empty-dirs --include='*/' --include='*.md' --exclude='*' "$from" "$to"
-    echo "sync: $1 -> content/$2/"
+    echo "sync: $1 -> content/$2/locales/"
 }
 
 sync_content uk-gdad-pcf-role-summaries role-summaries
@@ -70,18 +72,3 @@ sync_content uk-gdad-pcf-roles-skills-gap-forms roles-skills-gap-forms
 # The old singular assessments/ dir is retired now that it is split in two —
 # remove it so a stale copy is never accidentally left in place.
 rm -rf "$site/content/assessments"
-
-# 3. Skills self-assessment tool.
-
-self_assessment="$gdad/uk-gdad-pcf-skills-self-assessment/index.html"
-if [ -f "$self_assessment" ]; then
-    # A directory with its own index.html, not a bare .html file, so the URL
-    # takes a trailing slash like every other URL on this site — a bare
-    # skills-self-assessment.html has no trailing-slash form that resolves.
-    mkdir -p "$site/static/tools/skills-self-assessment"
-    rm -f "$site/static/tools/skills-self-assessment.html"
-    cp "$self_assessment" "$site/static/tools/skills-self-assessment/index.html"
-    echo "sync: uk-gdad-pcf-skills-self-assessment -> static/tools/skills-self-assessment/"
-else
-    echo "sync: skipping skills self-assessment; not found at $self_assessment" >&2
-fi

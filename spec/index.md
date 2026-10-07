@@ -114,13 +114,27 @@ Every project has the same shape:
 ```
 <project>/
 ├── spec/index.md     What this project's documents must contain
-└── roles/            One markdown file per role level
-    └── <profession>/<role>/<level>.md
+└── locales/
+    └── <locale>/     One directory per locale, e.g. en-gb
+        └── roles/    One markdown file per role level
+            └── <profession>/<role>/<level>.md
 ```
+
+### Locales
+
+Every document lives under a locale directory, `locales/<locale>/`, named by a
+lower-case language and region: `en-gb`. Only `en-gb` has content today, and
+it holds the whole framework as written in en-GB. A locale is not an extra
+folder to fill in later without care: the same rules as for the role index
+apply to it, so a translated locale mirrors the same slugs, and the locale
+specification in [`spec/locales`](locales/locales-by-priority.md) says which
+are planned. The website's language picker offers exactly the locales that have
+a directory.
 
 ## Role index
 
-`uk-gdad-pcf-role-summaries/roles/` **is** the role index. It defines which role
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/` **is** the role index for
+the `en-gb` locale. It defines which role
 levels exist. Eight other role projects mirror it exactly: same paths, same
 file names, 205 files each. A file that exists in one of the eight
 fully-mirrored projects and not the others is a defect, not a variation.
@@ -128,8 +142,8 @@ fully-mirrored projects and not the others is a defect, not a variation.
 ### Path shape
 
 ```
-roles/<profession>/<role>/<number>-<level>.md    (201 files)
-roles/<profession>/<role>.md                     (4 files)
+<profession>/<role>/<number>-<level>.md    (201 files)
+<profession>/<role>.md                     (4 files)
 ```
 
 The second shape is used only where the framework defines a role with no levels
@@ -147,7 +161,7 @@ Rules:
 
 ### Slugs
 
-The path minus `roles/` and minus `.md` is the **slug**, and it is the identity
+The path under `locales/<locale>/roles/`, minus `.md`, is the **slug**, and it is the identity
 of a role level everywhere in this repository:
 
 ```
@@ -292,12 +306,12 @@ role summary ──┬──> start here
 
 The steps, for one role level:
 
-1. Read `uk-gdad-pcf-role-summaries/roles/<slug>.md`. It gives the role, the
+1. Read `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md`. It gives the role, the
    level and the skills, which is the whole input.
 2. Read the project's `spec/index.md` for the document contract.
 3. Research and draft. For upskilling, search the named sources; do not copy
    another level's document.
-4. Write to `<project>/roles/<slug>.md` — the same slug, no exceptions.
+4. Write to `<project>/locales/en-gb/roles/<slug>.md` — the same slug, no exceptions.
 5. Run `bin/check`.
 6. Review as a human. Nothing here is publishable unreviewed.
 
@@ -327,12 +341,10 @@ other package. The 45 reference themes the theme picker switches between are
 the npm package `@lilydesignsystem/themes`, but the picker loads them by URL,
 so they are copied out of it into the site by `bin/sync`:
 
-- `uk-gdad.github.io/content/<project>/` is a byte-for-byte copy of each
-  project's `roles/` tree.
+- `uk-gdad.github.io/content/<project>/locales/` is a byte-for-byte copy of
+  each project's `locales/` tree.
 - `uk-gdad.github.io/static/assets/themes/` is a copy of the Lily Design
   System's 45 reference themes, listed in `uk-gdad.github.io/bin/lily-themes.txt`.
-- `uk-gdad.github.io/static/tools/skills-self-assessment/` is a copy of the
-  self-assessment tool.
 
 Skills gap forms are the one document kind the site does more than render: it
 turns their `*Your answer:*` prompts and tick lists into HTML form controls, so
@@ -341,7 +353,12 @@ reader's own browser and can be exported as TSV or as JSON; nothing is submitted
 and nothing reaches the site. See
 [the project specification](../uk-gdad-pcf-roles-skills-gap-forms/spec/index.md).
 
-`uk-gdad.github.io/bin/sync` refreshes all four. `bin/check` verifies that the
+The skills self-assessment is a page of the site, not a vendored copy: it rates
+the skills 0–4, saves the ratings in the reader's own browser, and exports them
+as TSV or JSON in the same way. See
+[its project specification](../uk-gdad-pcf-skills-self-assessment/spec/index.md).
+
+`uk-gdad.github.io/bin/sync` refreshes both vendored sets. `bin/check` verifies that the
 content copies match their sources byte for byte, and that every listed Lily
 component and helper component is present, so stale vendored content is a
 failing check rather than a silent inconsistency.

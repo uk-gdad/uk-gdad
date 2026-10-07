@@ -103,7 +103,7 @@ management track. Take the first.
 ### 2. Read what the level expects
 
 ```sh
-cat uk-gdad-pcf-role-summaries/roles/software-development/software-developer/4-senior-developer.md
+cat uk-gdad-pcf-role-summaries/locales/en-gb/roles/software-development/software-developer/4-senior-developer.md
 ```
 
 ```
@@ -127,7 +127,7 @@ Ten skills are named. That list is the agenda.
 
 ### 3. Rate yourself
 
-Open the [skills self-assessment](https://uk-gdad.github.io/tools/skills-self-assessment/)
+Open the [skills self-assessment](https://uk-gdad.github.io/skills-self-assessment/)
 and score each skill from 0 (none) to 4 (expert). Nothing is sent anywhere and
 nothing is saved, so download the result when you are done — it writes
 `skills.tsv`, one header row and one data row.
@@ -147,14 +147,14 @@ quarter.
 For learning material:
 
 ```sh
-cat uk-gdad-pcf-upskilling-resources/roles/software-development/software-developer/4-senior-developer.md
+cat uk-gdad-pcf-upskilling-resources/locales/en-gb/roles/software-development/software-developer/4-senior-developer.md
 ```
 
 For the habit rather than the course:
 
 ```sh
 sed -n '/## UK GDAD PCF Role Skill Specifics/,$p' \
-  uk-gdad-pcf-continuing-professional-development-checklists/roles/software-development/software-developer/4-senior-developer.md
+  uk-gdad-pcf-continuing-professional-development-checklists/locales/en-gb/roles/software-development/software-developer/4-senior-developer.md
 ```
 
 Those items are markdown task items. Copy the handful you chose into your own
@@ -186,7 +186,7 @@ others fails `bin/check`.
 Check the numbering already in use so the new one follows without a gap:
 
 ```sh
-ls uk-gdad-pcf-role-summaries/roles/data/data-engineer/
+ls uk-gdad-pcf-role-summaries/locales/en-gb/roles/data/data-engineer/
 ```
 
 ```
@@ -201,7 +201,7 @@ Plain text, not markdown. See
 [the contract](uk-gdad-pcf-role-summaries/spec/index.md).
 
 ```sh
-cat > uk-gdad-pcf-role-summaries/roles/data/data-engineer/5-principal-data-engineer.md <<'EOF'
+cat > uk-gdad-pcf-role-summaries/locales/en-gb/roles/data/data-engineer/5-principal-data-engineer.md <<'EOF'
 Data role: Data engineer
 - A data engineer builds and maintains the systems that move and store data.
 
@@ -495,15 +495,15 @@ It is the identity of a role level everywhere:
 
 | Where | Form |
 | --- | --- |
-| Summary | `uk-gdad-pcf-role-summaries/roles/<slug>.md` |
-| Start here | `uk-gdad-pcf-role-level-start-here/roles/<slug>.md` |
-| Upskilling | `uk-gdad-pcf-upskilling-resources/roles/<slug>.md` |
-| CPD | `uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md` |
-| Assessment (by assessor) | `uk-gdad-pcf-psychometric-assessments-by-assessor/roles/<slug>.md` |
-| Assessment (by individual) | `uk-gdad-pcf-psychometric-assessments-by-individual/roles/<slug>.md` |
-| Competency assessment (by assessor) | `uk-gdad-pcf-competency-assessments-by-assessor/roles/<slug>.md` |
-| Competency assessment (by individual) | `uk-gdad-pcf-competency-assessments-by-individual/roles/<slug>.md` |
-| Skills gap form | `uk-gdad-pcf-roles-skills-gap-forms/roles/<slug>.md` |
+| Summary | `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` |
+| Start here | `uk-gdad-pcf-role-level-start-here/locales/en-gb/roles/<slug>.md` |
+| Upskilling | `uk-gdad-pcf-upskilling-resources/locales/en-gb/roles/<slug>.md` |
+| CPD | `uk-gdad-pcf-continuing-professional-development-checklists/locales/en-gb/roles/<slug>.md` |
+| Assessment (by assessor) | `uk-gdad-pcf-psychometric-assessments-by-assessor/locales/en-gb/roles/<slug>.md` |
+| Assessment (by individual) | `uk-gdad-pcf-psychometric-assessments-by-individual/locales/en-gb/roles/<slug>.md` |
+| Competency assessment (by assessor) | `uk-gdad-pcf-competency-assessments-by-assessor/locales/en-gb/roles/<slug>.md` |
+| Competency assessment (by individual) | `uk-gdad-pcf-competency-assessments-by-individual/locales/en-gb/roles/<slug>.md` |
+| Skills gap form | `uk-gdad-pcf-roles-skills-gap-forms/locales/en-gb/roles/<slug>.md` |
 | Website | `https://uk-gdad.github.io/<slug>/specification/` |
 
 Rules: kebab-case throughout; the profession is one of the eight; the number
@@ -556,7 +556,7 @@ the `$` and you get 77.
 **The skills one level expects**
 
 ```sh
-grep "^Skill: " uk-gdad-pcf-role-summaries/roles/data/data-analyst/3-senior-data-analyst.md \
+grep "^Skill: " uk-gdad-pcf-role-summaries/locales/en-gb/roles/data/data-analyst/3-senior-data-analyst.md \
   | sed 's/^Skill: //' | sort -u
 ```
 
@@ -577,7 +577,7 @@ bin/check --list | grep '^user-centred-design/'
 
 ```sh
 grep -o 'https\?://[^)]*' \
-  uk-gdad-pcf-upskilling-resources/roles/data/data-analyst/2-data-analyst.md
+  uk-gdad-pcf-upskilling-resources/locales/en-gb/roles/data/data-analyst/2-data-analyst.md
 ```
 
 **Levels missing a derived document** — `bin/check` reports these, but to see
@@ -592,14 +592,14 @@ comm -23 \
 **A role's levels in order**
 
 ```sh
-ls uk-gdad-pcf-role-summaries/roles/software-development/software-developer/
+ls uk-gdad-pcf-role-summaries/locales/en-gb/roles/software-development/software-developer/
 ```
 
 **How one skill changes across a role** — the check to run before writing any
 "identical at X" or "a step up from X" claim in a skills gap form:
 
 ```sh
-ROLE=uk-gdad-pcf-role-summaries/roles/it-operations/infrastructure-engineer
+ROLE=uk-gdad-pcf-role-summaries/locales/en-gb/roles/it-operations/infrastructure-engineer
 for f in "$ROLE"/*.md; do
   echo "== $(basename "$f" .md)"
   awk '/^Skill: Coding and scripting$/{f=1;next} /^Skill:/{f=0} f&&/^- /' "$f"
@@ -614,7 +614,7 @@ sibling is the same level on a different track, so it is not the next step.
 
 ```sh
 grep -n '^\*\*Q[0-9]*\.' \
-  uk-gdad-pcf-roles-skills-gap-forms/roles/data/data-analyst/3-senior-data-analyst.md
+  uk-gdad-pcf-roles-skills-gap-forms/locales/en-gb/roles/data/data-analyst/3-senior-data-analyst.md
 ```
 
 They run in one sequence from `Q1` through the whole document, so an answer

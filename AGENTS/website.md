@@ -31,7 +31,6 @@ checks and then publishes.
 - `content/` — a byte-for-byte copy of the five `roles/` trees
 - `static/assets/themes/` — Lily's 45 reference themes, per
   `bin/lily-themes.txt`
-- `static/tools/skills-self-assessment/index.html` — the self-assessment tool
 
 Edit the source, run `./bin/sync`, then `bin/check` from the repository root.
 

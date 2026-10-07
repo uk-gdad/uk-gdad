@@ -66,7 +66,7 @@ The legal position, which constrains what may be written and how it may be used:
 ## Use it
 
 ```sh
-cat roles/data/data-analyst/3-senior-data-analyst.md
+cat locales/en-gb/roles/data/data-analyst/3-senior-data-analyst.md
 ```
 
 Or read it on the web, e.g.

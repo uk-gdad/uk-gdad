@@ -48,7 +48,7 @@ uk-gdad.github.io/
 │   ├── assets/
 │   │   ├── style.css, favicon.svg
 │   │   └── themes/           Lily reference themes (vendored — do not edit)
-│   └── tools/                The vendored skills self-assessment tool
+│   └── tools/                A redirect from the old self-assessment URL
 ├── .github/workflows/
 │   └── deploy.yml            CI: builds and deploys on push to main
 ├── svelte.config.js
@@ -95,7 +95,7 @@ pnpm check        # type-check; must be clean
 
 ## Sync
 
-`content/` and `static/tools/` are **vendored, not authored here**, so that
+`content/` is **vendored, not authored here**, so that
 this project stays buildable on its own once it is pushed to its public
 repository. `static/assets/themes/` — Lily's 45 reference themes — is
 copied from the `@lilydesignsystem/themes` npm package, because the theme

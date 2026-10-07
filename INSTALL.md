@@ -31,7 +31,7 @@ git clone https://gitlab.com/uk-gdad/uk-gdad.git
 Find the file for one role level — the path is the slug:
 
 ```sh
-cat uk-gdad-pcf-role-summaries/roles/software-development/software-developer/4-senior-developer.md
+cat uk-gdad-pcf-role-summaries/locales/en-gb/roles/software-development/software-developer/4-senior-developer.md
 ```
 
 The same slug addresses that level in all nine projects, and is the URL path on

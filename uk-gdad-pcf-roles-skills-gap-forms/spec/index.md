@@ -80,7 +80,7 @@ results can sit side by side.
 
 ## Input
 
-- `uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, the level, the
+- `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — the role, the level, the
   duties, the accountabilities and the skills, in the summary's order. This is
   the whole input for the body of the form.
 - The **adjacent level summaries** in the same role directory, used only for the
@@ -105,7 +105,7 @@ whole point of a per-level form is that the expectations differ.
 
 ## Output
 
-`roles/<slug>.md`, the same slug as the summary.
+`locales/en-gb/roles/<slug>.md`, the same slug as the summary.
 
 ### Title
 
@@ -438,9 +438,9 @@ conversation follows, and roughly when. Then the sibling documents for the same
 slug, as relative markdown links to the `.md` files:
 
 ```
-../../../../uk-gdad-pcf-upskilling-resources/roles/<slug>.md
-../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md
-../../../../uk-gdad-pcf-psychometric-assessments-by-individual/roles/<slug>.md
+../../../../uk-gdad-pcf-upskilling-resources/locales/en-gb/roles/<slug>.md
+../../../../uk-gdad-pcf-continuing-professional-development-checklists/locales/en-gb/roles/<slug>.md
+../../../../uk-gdad-pcf-psychometric-assessments-by-individual/locales/en-gb/roles/<slug>.md
 ```
 
 Four `../` from a three-segment slug; three from a two-segment one — the four
@@ -562,7 +562,7 @@ and is not a target to pad towards.
 
 ## Authoring
 
-1. Read `uk-gdad-pcf-role-summaries/roles/<slug>.md`. List the duties, the
+1. Read `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md`. List the duties, the
    accountabilities and the skills in the summary's order, merging any skill
    named twice.
 2. Read the next level's summary in the same role directory, for the "next step"
@@ -585,7 +585,7 @@ and is not a target to pad towards.
 6. Read it back at the level's register. An apprentice's form and a principal's
    form for the same role should not read the same way.
 7. Walk the legal and privacy constraints, question by question.
-8. Write `roles/<slug>.md`.
+8. Write `locales/en-gb/roles/<slug>.md`.
 9. Run `bin/check` from the repository root.
 10. Human review, ideally including someone who does human resources work, with
    the summary open alongside.

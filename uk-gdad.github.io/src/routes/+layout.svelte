@@ -7,7 +7,7 @@
   import type { ShareTarget } from '@lilydesignsystem/svelte-share-picker';
   import PickerBar from '@lilydesignsystem/svelte-picker-bar';
 
-  let { children } = $props();
+  let { children, data } = $props();
 
   const navLinks = [
     { href: '/', label: 'Home' },
@@ -74,12 +74,11 @@
     share: 'Share this page'
   };
 
-  // The picker offers the languages of the United Kingdom this site is
-  // planned for, in priority order, each named in itself. Only en-gb has
-  // content so far; choosing another sets `lang` on <html> and is remembered,
-  // but the pages stay English until they are translated — see
-  // uk-gdad.github.io/spec/index.md § Site tools.
-  const locales = ['en-gb', 'cy-gb', 'gd-gb', 'ga-gb'];
+  // The picker offers the locales that have a directory under `locales/` in
+  // the content (see `getLocales`), so a new locale appears here when its
+  // content does. Each is named in itself; a code with no name here falls back
+  // to the picker's own label for it.
+  const locales = $derived(data.locales);
   const localeLabels = {
     'en-gb': 'English',
     'cy-gb': 'Cymraeg',

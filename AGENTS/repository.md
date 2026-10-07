@@ -41,7 +41,7 @@ Each role project holds `spec/index.md` and `roles/`. Nothing else.
 
 ## The one invariant
 
-`uk-gdad-pcf-role-summaries/roles/` defines which role levels exist. Eight
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/` defines which role levels exist. Eight
 other role projects mirror it exactly — same paths, same names, 205 files each.
 
 The **slug** is the path under `roles/` without `.md`:
@@ -73,8 +73,7 @@ path on the website. Changing a slug means changing eight files and re-running
 ## Do not
 
 - Edit anything under `uk-gdad.github.io/content/`,
-  `uk-gdad.github.io/static/assets/themes/`, or
-  `uk-gdad.github.io/static/tools/` — all vendored. Edit the source, then sync.
+  or `uk-gdad.github.io/static/assets/themes/` — all vendored. Edit the source, then sync.
 - Add a file to one role project without adding it to the other eight.
 - Write `TODO` into a published document. An unwritten section is a defect.
 - Add a role level that the framework does not publish.

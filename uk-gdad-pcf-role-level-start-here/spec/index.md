@@ -20,14 +20,14 @@ a real role level. See the root [`spec/index.md`](../../spec/index.md)
 
 ## Input
 
-`uk-gdad-pcf-role-summaries/roles/<slug>.md` — nothing else. The role, the
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — nothing else. The role, the
 level, its accountabilities and its skills are the whole input. Do not derive
 one level's page from another level's page: a senior and a lead in the same
 role need different pathways even though the shape of the page is identical.
 
 ## Output
 
-`roles/<slug>.md`, the same slug as the summary.
+`locales/en-gb/roles/<slug>.md`, the same slug as the summary.
 
 ### Title
 
@@ -126,7 +126,7 @@ rules — no resource links, no product names, unchecked boxes — still apply.
 4. Order the skills into a teaching sequence, and write one checklist item per
    skill with a genuinely specific "Ask AI" prompt — not "Ask AI: how do I get
    better at this?" for every item.
-5. Write `roles/<slug>.md`.
+5. Write `locales/en-gb/roles/<slug>.md`.
 6. Run `bin/check` from the repository root.
 7. Human review: confirm nothing was copied from a neighbouring level, and
    that no product name or resource link slipped into the pathway.

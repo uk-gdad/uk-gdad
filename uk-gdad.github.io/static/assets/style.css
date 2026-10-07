@@ -1026,6 +1026,235 @@ th {
   color: var(--site-text-muted);
 }
 
+/* Skills self-assessment ---------------------------------------------------
+ * One row per skill, each a five-step choice. The radios are real inputs, so
+ * the arrow keys, labels, and the browser's own focus handling all work; the
+ * label is what is drawn as a button. */
+
+.sa-scale {
+  margin: 0 0 2rem;
+}
+.sa-scale-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 0.5rem 1.5rem;
+  margin: 0 0 1rem;
+  padding: 0;
+  list-style: none;
+}
+.sa-scale-list li {
+  display: flex;
+  gap: 0.75rem;
+  align-items: baseline;
+}
+.sa-scale-value {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  background: var(--site-primary-wash);
+  color: var(--site-primary-hover);
+  font-weight: 700;
+}
+.sa-note {
+  color: var(--site-text-muted);
+  max-width: 46rem;
+}
+
+.sa-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 0 0.5rem;
+  background: var(--site-page-bg);
+  border-bottom: 1px solid var(--site-border-subtle);
+}
+.sa-progress {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+}
+.sa-progress-text {
+  margin: 0;
+  white-space: nowrap;
+}
+.sa-progress progress {
+  flex: 1 1 12rem;
+  height: 0.75rem;
+  accent-color: var(--site-primary);
+}
+.sa-actions {
+  margin: 0 0 0.35rem;
+}
+.sa-actions .button {
+  padding: 0.4rem 0.9rem;
+}
+.sa-actions .button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.sa-summary {
+  margin: 0 0 2rem;
+}
+.sa-summary-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.sa-summary-list li {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--site-border-subtle);
+  border-radius: var(--site-radius);
+  background: var(--site-surface);
+}
+.sa-summary-count {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+.sa-summary-label {
+  font-size: 0.875rem;
+  color: var(--site-text-muted);
+}
+
+.sa-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 2rem;
+  align-items: flex-end;
+}
+.sa-filters .finder-form {
+  flex: 1 1 18rem;
+}
+.sa-filter-group {
+  display: flex;
+  gap: 0.25rem 1rem;
+  flex-wrap: wrap;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  border: 0;
+}
+.sa-filter-group legend {
+  padding: 0;
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+}
+.sa-filter {
+  display: inline-flex;
+  gap: 0.4rem;
+  align-items: center;
+  cursor: pointer;
+}
+.sa-filter input {
+  width: 1.1rem;
+  height: 1.1rem;
+  accent-color: var(--site-primary);
+}
+
+.sa-skills {
+  display: grid;
+  gap: 0.75rem;
+  margin: 0 0 3rem;
+  padding: 0;
+  list-style: none;
+}
+.sa-skill {
+  padding: 0.75rem 1rem 1rem;
+  border: 1px solid var(--site-border-subtle);
+  border-left: 4px solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-card-bg);
+}
+.sa-skill-rated {
+  border-left-color: var(--site-primary);
+}
+.sa-skill fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-inline-size: 0;
+}
+.sa-skill legend {
+  padding: 0;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+.sa-choices {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.35rem;
+}
+.sa-choice {
+  position: relative;
+  display: block;
+  cursor: pointer;
+}
+/* Visually hidden, but still focusable and still the thing the label toggles. */
+.sa-choice input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.sa-choice-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.1rem;
+  padding: 0.4rem 0.25rem;
+  border: 2px solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-page-bg);
+  text-align: center;
+  line-height: 1.2;
+}
+.sa-choice:hover .sa-choice-box {
+  background: var(--site-primary-wash);
+  border-color: var(--site-primary);
+}
+.sa-choice input:checked + .sa-choice-box {
+  background: var(--site-primary);
+  border-color: var(--site-primary);
+  color: #ffffff;
+}
+.sa-choice input:focus-visible + .sa-choice-box {
+  outline: 3px solid var(--site-focus);
+  outline-offset: 1px;
+  box-shadow: 0 0 0 4px var(--site-text);
+}
+.sa-choice-value {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+.sa-choice-label {
+  font-size: 0.75rem;
+  overflow-wrap: anywhere;
+}
+.sa-after {
+  margin-top: 1rem;
+}
+
+@media (max-width: 40rem) {
+  .sa-choice-label {
+    display: none;
+  }
+}
+
+
 .finder-form {
   margin: 0 0 1.5rem;
   max-width: 34rem;

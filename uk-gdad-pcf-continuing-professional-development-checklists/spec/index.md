@@ -16,7 +16,7 @@ rather than being a good intention.
 
 ## Input
 
-- `uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, level, and skills.
+- `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — the role, level, and skills.
 - [`spec/template.md`](template.md) — the general-purpose material, identical in
   every file.
 - For context on what the level is working towards, the matching documents in
@@ -25,7 +25,7 @@ rather than being a good intention.
 
 ## Output
 
-`roles/<slug>.md`, the same slug as the summary.
+`locales/en-gb/roles/<slug>.md`, the same slug as the summary.
 
 ### Title
 
@@ -86,7 +86,7 @@ It must:
 1. Read the summary for the slug and list its skills.
 2. Copy `spec/template.md` as the base.
 3. Write `## UK GDAD PCF Role Skill Specifics` against those skills.
-4. Write `roles/<slug>.md`.
+4. Write `locales/en-gb/roles/<slug>.md`.
 5. Run `bin/check` from the repository root.
 6. Human review, with the summary open alongside.
 

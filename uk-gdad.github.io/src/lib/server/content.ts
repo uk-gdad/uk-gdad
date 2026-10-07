@@ -23,6 +23,33 @@ import { createChecklistWriter } from './checklist';
 
 const CONTENT = join(process.cwd(), 'content');
 
+/**
+ * The locale this site reads. Every project's documents live at
+ * `<project>/locales/<locale>/roles/<slug>.md`, and `content/` mirrors that;
+ * only `en-gb` has content so far.
+ */
+const LOCALE = 'en-gb';
+
+/**
+ * The locales that have content: a directory under the canonical project's
+ * `locales/`. The language picker offers exactly these, so a locale appears
+ * in it when its directory does.
+ */
+export function getLocales(): string[] {
+  try {
+    return readdirSync(join(CONTENT, DIRECTORIES.summary, 'locales'))
+      .filter((entry) => statSync(join(CONTENT, DIRECTORIES.summary, 'locales', entry)).isDirectory())
+      .sort();
+  } catch {
+    return [LOCALE];
+  }
+}
+
+/** Where one document kind's role tree is, for the locale being read. */
+function rolesRoot(directory: string): string {
+  return join(CONTENT, directory, 'locales', LOCALE, 'roles');
+}
+
 const DIRECTORIES: Record<ResourceKind, string> = {
   summary: 'role-summaries',
   startHere: 'role-level-start-here',
@@ -37,7 +64,7 @@ const DIRECTORIES: Record<ResourceKind, string> = {
 
 /** Every markdown file under a directory, as slugs relative to it. */
 function slugsUnder(directory: string): string[] {
-  const root = join(CONTENT, directory);
+  const root = rolesRoot(directory);
   const found: string[] = [];
   const walk = (current: string) => {
     for (const entry of readdirSync(current).sort()) {
@@ -53,7 +80,7 @@ function slugsUnder(directory: string): string[] {
 }
 
 function sourcePath(kind: ResourceKind, slug: string): string {
-  return join(CONTENT, DIRECTORIES[kind], `${slug}.md`);
+  return join(rolesRoot(DIRECTORIES[kind]), `${slug}.md`);
 }
 
 /** The raw markdown for one document, or null when that document does not exist. */

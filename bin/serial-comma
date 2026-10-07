@@ -90,7 +90,7 @@ def official_names() -> list[str]:
     inside one makes it a different skill. `spec/index.md` § Taxonomy.
     """
     names = set()
-    summaries = ROOT / "uk-gdad-pcf-role-summaries" / "roles"
+    summaries = ROOT / "uk-gdad-pcf-role-summaries" / "locales" / "en-gb" / "roles"
     for path in summaries.rglob("*.md"):
         for line in path.read_text(encoding="utf-8").split("\n"):
             if line.startswith("Skill: "):

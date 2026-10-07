@@ -58,9 +58,9 @@ deliberately, so a person familiar with one recognises the shape of the other.
 
 Two sources, both required:
 
-1. `uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, the level, the
+1. `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — the role, the level, the
    duties, the accountabilities and the skills, in the summary's order.
-2. `uk-gdad-pcf-competency-assessments-by-assessor/roles/<slug>.md` — the
+2. `uk-gdad-pcf-competency-assessments-by-assessor/locales/en-gb/roles/<slug>.md` — the
    already-written matrix for the same slug: the baseline points, the
    behavioural indicators, and the evidence-gathering prompts. This project
    never invents a different baseline or a different set of indicators from
@@ -69,7 +69,7 @@ Two sources, both required:
 
 ## Output
 
-`roles/<slug>.md`, the same slug as the summary.
+`locales/en-gb/roles/<slug>.md`, the same slug as the summary.
 
 ### Title
 
@@ -185,12 +185,12 @@ not exist.
 
 ## Authoring
 
-1. Read `uk-gdad-pcf-role-summaries/roles/<slug>.md` for the role and level
+1. Read `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` for the role and level
    sentences used in `## Introduction`.
-2. Read `uk-gdad-pcf-competency-assessments-by-assessor/roles/<slug>.md` for
+2. Read `uk-gdad-pcf-competency-assessments-by-assessor/locales/en-gb/roles/<slug>.md` for
    the matrix content to carry over.
 3. Rewrite the sections listed above; carry the rest across unchanged.
-4. Write `roles/<slug>.md`.
+4. Write `locales/en-gb/roles/<slug>.md`.
 5. Run `bin/check` from the repository root.
 6. Human review — the voice transform is mechanical in places, so check that
    nothing reads as if it were still addressed to an assessor.

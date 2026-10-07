@@ -38,6 +38,14 @@ PROFESSIONS = {
 # spec/index.md § Projects — the canonical project is listed first; the other
 # five must mirror its role index exactly.
 CANONICAL = "uk-gdad-pcf-role-summaries"
+
+# spec/index.md § Locales — the one locale that has content. Every project
+# holds its documents at <project>/locales/<locale>/roles/<slug>.md.
+LOCALE = "en-gb"
+
+
+def roles_dir(project: str) -> Path:
+    return ROOT / project / "locales" / LOCALE / "roles"
 START_HERE = "uk-gdad-pcf-role-level-start-here"
 DERIVED = [
     START_HERE,
@@ -186,10 +194,10 @@ def fail(message: str) -> None:
 
 
 def role_slugs(project: str) -> list[str]:
-    """Every role document in a project, as a slug relative to its roles/ dir."""
-    root = ROOT / project / "roles"
+    """Every role document in a project, as a slug relative to its locales/<locale>/roles/ dir."""
+    root = roles_dir(project)
     if not root.is_dir():
-        fail(f"{project}: no roles/ directory")
+        fail(f"{project}: no locales/{LOCALE}/roles/ directory")
         return []
     return sorted(
         path.relative_to(root).with_suffix("").as_posix()
@@ -249,7 +257,7 @@ def check_mirrors(canonical: list[str]) -> None:
 def check_summaries(canonical: list[str]) -> None:
     """§ Document contracts — role summaries parse into role, level and skills."""
     for slug in canonical:
-        path = ROOT / CANONICAL / "roles" / f"{slug}.md"
+        path = roles_dir(CANONICAL) / f"{slug}.md"
         lines = path.read_text(encoding="utf-8").splitlines()
         if not lines:
             fail(f"{CANONICAL}: {slug}.md is empty")
@@ -291,7 +299,7 @@ def check_documents(canonical: list[str]) -> None:
     """§ Document contracts — titles and required sections in derived projects."""
     for project in DERIVED:
         for slug in canonical:
-            path = ROOT / project / "roles" / f"{slug}.md"
+            path = roles_dir(project) / f"{slug}.md"
             if not path.is_file():
                 continue  # already reported by check_mirrors
             check_document_shape(project, slug, path)
@@ -310,8 +318,8 @@ def check_skill_blocks(canonical: list[str]) -> None:
             continue
 
         for slug in canonical:
-            summary = ROOT / CANONICAL / "roles" / f"{slug}.md"
-            form = ROOT / project / "roles" / f"{slug}.md"
+            summary = roles_dir(CANONICAL) / f"{slug}.md"
+            form = roles_dir(project) / f"{slug}.md"
             if not form.is_file():
                 continue  # already reported by check_mirrors
 
@@ -354,9 +362,9 @@ def check_website(canonical: list[str]) -> None:
         return
 
     for directory, project in SITE_CONTENT.items():
-        target = content / directory
+        target = content / directory / "locales" / LOCALE / "roles"
         if not target.is_dir():
-            fail(f"{SITE}: content/{directory}/ is missing — run {SITE}/bin/sync")
+            fail(f"{SITE}: content/{directory}/locales/{LOCALE}/roles/ is missing — run {SITE}/bin/sync")
             continue
 
         vendored = sorted(
@@ -367,16 +375,16 @@ def check_website(canonical: list[str]) -> None:
             extra = set(vendored) - set(canonical)
             missing = set(canonical) - set(vendored)
             for slug in sorted(extra):
-                fail(f"{SITE}: content/{directory}/{slug}.md is not a canonical role")
+                fail(f"{SITE}: content/{directory}/locales/{LOCALE}/roles/{slug}.md is not a canonical role")
             for slug in sorted(missing):
-                fail(f"{SITE}: content/{directory}/{slug}.md is missing")
+                fail(f"{SITE}: content/{directory}/locales/{LOCALE}/roles/{slug}.md is missing")
             continue
 
         for slug in canonical:
-            source = ROOT / project / "roles" / f"{slug}.md"
+            source = roles_dir(project) / f"{slug}.md"
             copy = target / f"{slug}.md"
             if source.is_file() and source.read_bytes() != copy.read_bytes():
-                fail(f"{SITE}: content/{directory}/{slug}.md is stale — run {SITE}/bin/sync")
+                fail(f"{SITE}: content/{directory}/locales/{LOCALE}/roles/{slug}.md is stale — run {SITE}/bin/sync")
 
     theme_manifest = site / "bin" / "lily-themes.txt"
     if theme_manifest.is_file():

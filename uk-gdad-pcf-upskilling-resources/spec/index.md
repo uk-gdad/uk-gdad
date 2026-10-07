@@ -11,14 +11,14 @@ posts, research, videos, and books. Good starting points, not a catalogue.
 
 ## Input
 
-`uk-gdad-pcf-role-summaries/roles/<slug>.md` — nothing else. The role, the level
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — nothing else. The role, the level
 and the skills named there decide what to search for. Do not derive one level's
 document from another level's document; a senior developer and a lead developer
 need different material even when the role is the same.
 
 ## Output
 
-`roles/<slug>.md`, the same slug as the summary.
+`locales/en-gb/roles/<slug>.md`, the same slug as the summary.
 
 ### Title
 
@@ -94,7 +94,7 @@ Rules:
 3. Draft. If the output arrives as numbered `Title:` / `URL:` / `Summary:`
    blocks, [`bin/cook`](../../bin/cook) reformats it into the list format above
    and normalises the shouted headings.
-4. Write `roles/<slug>.md`.
+4. Write `locales/en-gb/roles/<slug>.md`.
 5. Run `bin/check` from the repository root.
 6. Human review: open a sample of the links and confirm they are what the
    summary claims.

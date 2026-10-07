@@ -43,17 +43,16 @@ Refreshed by `bin/sync`, verified by the repository's `bin/check`:
 
 | Path | Copied from |
 | --- | --- |
-| `content/role-summaries/` | `uk-gdad-pcf-role-summaries/roles/` |
-| `content/role-level-start-here/` | `uk-gdad-pcf-role-level-start-here/roles/` |
-| `content/upskilling-resources/` | `uk-gdad-pcf-upskilling-resources/roles/` |
-| `content/continuing-professional-development-checklists/` | `uk-gdad-pcf-continuing-professional-development-checklists/roles/` |
-| `content/assessments-by-assessor/` | `uk-gdad-pcf-psychometric-assessments-by-assessor/roles/` |
-| `content/assessments-by-individual/` | `uk-gdad-pcf-psychometric-assessments-by-individual/roles/` |
-| `content/competency-assessments-by-assessor/` | `uk-gdad-pcf-competency-assessments-by-assessor/roles/` |
-| `content/competency-assessments-by-individual/` | `uk-gdad-pcf-competency-assessments-by-individual/roles/` |
-| `content/roles-skills-gap-forms/` | `uk-gdad-pcf-roles-skills-gap-forms/roles/` |
+| `content/role-summaries/locales/` | `uk-gdad-pcf-role-summaries/locales/` |
+| `content/role-level-start-here/locales/` | `uk-gdad-pcf-role-level-start-here/locales/` |
+| `content/upskilling-resources/locales/` | `uk-gdad-pcf-upskilling-resources/locales/` |
+| `content/continuing-professional-development-checklists/locales/` | `uk-gdad-pcf-continuing-professional-development-checklists/locales/` |
+| `content/assessments-by-assessor/locales/` | `uk-gdad-pcf-psychometric-assessments-by-assessor/locales/` |
+| `content/assessments-by-individual/locales/` | `uk-gdad-pcf-psychometric-assessments-by-individual/locales/` |
+| `content/competency-assessments-by-assessor/locales/` | `uk-gdad-pcf-competency-assessments-by-assessor/locales/` |
+| `content/competency-assessments-by-individual/locales/` | `uk-gdad-pcf-competency-assessments-by-individual/locales/` |
+| `content/roles-skills-gap-forms/locales/` | `uk-gdad-pcf-roles-skills-gap-forms/locales/` |
 | `static/assets/themes/` | Lily Design System reference themes, per `bin/lily-themes.txt` |
-| `static/tools/skills-self-assessment/index.html` | `uk-gdad-pcf-skills-self-assessment/index.html` |
 
 Never edit a vendored file. Edit the source and re-run `bin/sync`.
 
@@ -91,7 +90,7 @@ after it — `<slug>/<kind>/` — rather than a prefix before it.
 | `/<slug>/skills-gap-form/` | Skills gap form | 205 |
 | `/skills/` | All skills, searchable | 1 |
 | `/skills/<skill>/` | One skill and every level that expects it | 183 |
-| `/skills-self-assessment/` | The self-assessment tool | 1 |
+| `/skills-self-assessment/` | The self-assessment tool: rate 189 skills 0–4, saved in the browser, downloaded as TSV or JSON | 1 |
 | `/about/` | Provenance, licensing, how it is built | 1 |
 | `/sitemap.xml` | Every URL above except `/search/` | 1 |
 
@@ -198,13 +197,13 @@ every route hydrates a small router payload so the toolbar works everywhere.
   unrelated to GOV.UK's blue, so `detectFromSystem` is off and the default is
   `united-kingdom-government-digital-service` instead — this site's own
   identity, for a visitor who has not chosen anything yet.
-- **Language picker** sets `lang` on `<html>` and offers four locales, each
-  named in itself: `en-gb` English, `cy-gb` Cymraeg, `gd-gb` Gàidhlig, and
-  `ga-gb` Gaeilge.
-  The choice persists under `uk-gdad-pcf:locale`, defaulting to `en-gb`. Only
-  `en-gb` has content: the other three are a foundation for translation, so
-  choosing one changes `lang` but the pages stay English until they are
-  translated. The locale rules are in
+- **Language picker** sets `lang` on `<html>` and offers the locales that have
+  a directory under `locales/` in the content, each named in itself. The list
+  comes from `getLocales()` in `src/lib/server/content.ts`, so a locale appears
+  when its directory does. Today that is `en-gb` English alone; `cy-gb`
+  Cymraeg, `gd-gb` Gàidhlig and `ga-gb` Gaeilge are named in the layout and
+  join the picker once they have content. The choice persists under
+  `uk-gdad-pcf:locale`, defaulting to `en-gb`. The locale rules are in
   [`spec/locales-for-global-sharing-with-svelte`](../../spec/locales-for-global-sharing-with-svelte/index.md).
 - **Text size picker** sets `data-text-size` on `<html>`, and
   `static/assets/style.css` scales the root font-size from it — every other
@@ -233,7 +232,7 @@ UK GDAD PCF"`. `+layout.svelte` reads it as `page.data.title` and passes it to
 the share picker, so the share sheet and the browser tab always agree, and the
 layout never needs to know any one route's data shape to get there.
 
-A route with nothing else to load — `/about/`, `/skills-self-assessment/` —
+A route with nothing else to load — `/about/` —
 still gets a `+page.ts` whose only job is to return `title`. A route whose data
 already used `title` to mean something else keeps that meaning under a
 different name rather than overloading it: the five markdown document routes

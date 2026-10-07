@@ -46,7 +46,7 @@ with job performance are the failure mode to avoid.
 
 ## Input
 
-`uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, the level, and the
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — the role, the level, and the
 skills. Scenarios come from the accountabilities the summary lists, so that the
 material is about the job rather than about puzzles.
 
@@ -63,7 +63,7 @@ assessed.
 
 ## Output
 
-`roles/<slug>.md`, the same slug as the summary.
+`locales/en-gb/roles/<slug>.md`, the same slug as the summary.
 
 ### Title
 
@@ -149,7 +149,7 @@ on other teams.
 1. Read the summary for the slug; list the skills and accountabilities.
 2. Read the reference file for each assessment type, and the relevant legal file.
 3. Draft the seven sections in order, addressed to the assessor throughout.
-4. Write `roles/<slug>.md`.
+4. Write `locales/en-gb/roles/<slug>.md`.
 5. Run `bin/check` from the repository root.
 6. Human review, against both the summary and the legal constraints.
 

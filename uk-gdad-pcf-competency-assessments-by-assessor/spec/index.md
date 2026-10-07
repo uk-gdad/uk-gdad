@@ -54,7 +54,7 @@ readers, but a person familiar with one recognises the shape of the other.
 
 ## Input
 
-`uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, the level, the duties,
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — the role, the level, the duties,
 the accountabilities and the skills, in the summary's order. This is the whole
 input. Do not read an adjacent level's summary and do not derive one level's
 assessment from another level's assessment — the whole point of a per-level
@@ -62,7 +62,7 @@ instrument is that the baseline differs.
 
 ## Output
 
-`roles/<slug>.md`, the same slug as the summary.
+`locales/en-gb/roles/<slug>.md`, the same slug as the summary.
 
 ### Title
 
@@ -274,8 +274,8 @@ process; if development areas were noted, point at the sibling documents for
 the same slug as relative markdown links —
 
 ```
-../../../../uk-gdad-pcf-continuing-professional-development-checklists/roles/<slug>.md
-../../../../uk-gdad-pcf-upskilling-resources/roles/<slug>.md
+../../../../uk-gdad-pcf-continuing-professional-development-checklists/locales/en-gb/roles/<slug>.md
+../../../../uk-gdad-pcf-upskilling-resources/locales/en-gb/roles/<slug>.md
 ```
 
 Four `../` from a three-segment slug; three from a two-segment one — the four
@@ -333,7 +333,7 @@ baseline from.
 
 ## Authoring
 
-1. Read `uk-gdad-pcf-role-summaries/roles/<slug>.md`. List the duties, the
+1. Read `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md`. List the duties, the
    accountabilities and the skills in the summary's order, merging any skill
    named twice.
 2. Judge each skill's baseline point on the 1–4 scale from the level's place in
@@ -342,7 +342,7 @@ baseline from.
    differently, and the baseline should say what this level's own text
    supports.
 3. Draft the nine sections in order.
-4. Write `roles/<slug>.md`.
+4. Write `locales/en-gb/roles/<slug>.md`.
 5. Run `bin/check` from the repository root.
 6. Human review, ideally including someone who does human resources or
    occupational assessment work, with the summary open alongside.

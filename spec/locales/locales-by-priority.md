@@ -1,5 +1,13 @@
 # Locales by priority
 
+This repository's locale codes are a language and a region, such as `en-gb`,
+not the `-001` form in the priority list below. Read each `<language>-001` entry
+as the language, and name a locale directory by the code in the Details list:
+`en-gb`, `cy-gb`, and so on. The list is a priority order for translation, and
+only `en-gb` exists today. See
+[Locales for global sharing with Svelte](../locales-for-global-sharing-with-svelte/index.md#in-this-repository)
+for how locales are laid out and served here.
+
 Translate into these locales. Translate serially NOT subagents. After each locale: commit, push, publish, verify, stop, and prompt to continue.
 
 - en-001

@@ -61,15 +61,32 @@ The summaries stay canonical for what a *role level* requires; this list stays
 canonical for what the framework publishes as a catalogue. When the framework
 changes, re-fetch the catalogue and redo that comparison.
 
-## Publishing
+## On the website
 
-The website vendors this file:
-`uk-gdad.github.io/static/tools/skills-self-assessment/index.html`, refreshed
-by `uk-gdad.github.io/bin/sync`. It is served at `/tools/skills-self-assessment/`
-and introduced by the page at `/skills-self-assessment/`.
+The website no longer vendors this file. It carries its own version of the tool
+as a page of the SvelteKit app, at `/skills-self-assessment/`, built to behave
+like the site's skills gap forms:
 
-Because it is a copy, edit `index.html` here and re-run sync — never edit the
-vendored copy.
+- Five-step choices per skill, with search, a progress count, and a filter for
+  skills not yet rated. A skill that has not been rated is distinct from one
+  rated 0.
+- Ratings are saved in the reader's own browser as they go, and restored on the
+  next visit. This is the one difference from the standalone page: nothing is
+  sent anywhere, but the browser does keep a copy until it is cleared.
+- **Download TSV** writes `skills-self-assessment.tsv`: the columns `Form`,
+  `URL` and `Exported`, then one column per skill id, and one row of ratings
+  with unrated skills blank. **Download JSON** writes the same ratings with
+  the scale. **Clear ratings** deletes the saved copy.
+
+The old address, `/tools/skills-self-assessment/`, is a redirect to it.
+
+The site's skill list is `uk-gdad.github.io/src/lib/skills-self-assessment.ts`,
+copied from this file's list. The two lists are not synchronised: change a
+skill id in one and make the same change in the other, since an id is a column
+heading in an export.
+
+This single file stays as the version that needs no build step and no browser
+storage, and works opened from a file path.
 
 ## Quality bar
 

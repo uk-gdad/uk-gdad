@@ -47,7 +47,7 @@ Full contract: [spec/index.md](spec/index.md).
 ## Use it
 
 ```sh
-cat roles/data/data-analyst/3-senior-data-analyst.md
+cat locales/en-gb/roles/data/data-analyst/3-senior-data-analyst.md
 ```
 
 ## Licence

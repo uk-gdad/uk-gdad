@@ -56,14 +56,14 @@ bin/check --list
 
 # One role level, eight ways
 SLUG=software-development/software-developer/4-senior-developer
-cat uk-gdad-pcf-role-summaries/roles/$SLUG.md
-cat uk-gdad-pcf-upskilling-resources/roles/$SLUG.md
-cat uk-gdad-pcf-continuing-professional-development-checklists/roles/$SLUG.md
-cat uk-gdad-pcf-psychometric-assessments-by-assessor/roles/$SLUG.md
-cat uk-gdad-pcf-psychometric-assessments-by-individual/roles/$SLUG.md
-cat uk-gdad-pcf-competency-assessments-by-assessor/roles/$SLUG.md
-cat uk-gdad-pcf-competency-assessments-by-individual/roles/$SLUG.md
-cat uk-gdad-pcf-roles-skills-gap-forms/roles/$SLUG.md
+cat uk-gdad-pcf-role-summaries/locales/en-gb/roles/$SLUG.md
+cat uk-gdad-pcf-upskilling-resources/locales/en-gb/roles/$SLUG.md
+cat uk-gdad-pcf-continuing-professional-development-checklists/locales/en-gb/roles/$SLUG.md
+cat uk-gdad-pcf-psychometric-assessments-by-assessor/locales/en-gb/roles/$SLUG.md
+cat uk-gdad-pcf-psychometric-assessments-by-individual/locales/en-gb/roles/$SLUG.md
+cat uk-gdad-pcf-competency-assessments-by-assessor/locales/en-gb/roles/$SLUG.md
+cat uk-gdad-pcf-competency-assessments-by-individual/locales/en-gb/roles/$SLUG.md
+cat uk-gdad-pcf-roles-skills-gap-forms/locales/en-gb/roles/$SLUG.md
 
 # Which levels need a given skill?
 grep -rl "^Skill: User focus" uk-gdad-pcf-role-summaries/roles | wc -l
@@ -93,7 +93,7 @@ projects, and as the URL on the website:
 software-development/software-developer/4-senior-developer
 ```
 
-`uk-gdad-pcf-role-summaries/roles/` is the role index: it defines which role
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/` is the role index: it defines which role
 levels exist, and the other eight projects mirror it exactly, 205 files each.
 
 Derived documents are always written from the canonical summary, never from

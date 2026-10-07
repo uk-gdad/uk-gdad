@@ -17,7 +17,7 @@ was written.
 
 ## The one invariant
 
-`uk-gdad-pcf-role-summaries/roles/` defines which of the 205 role levels
+`uk-gdad-pcf-role-summaries/locales/en-gb/roles/` defines which of the 205 role levels
 exist. Eight other role projects mirror it exactly — same paths, same file
 names, 205 files each:
 
@@ -35,7 +35,7 @@ doing the same in all nine, then re-running `bin/check`.
 
 ## Writing one derived document
 
-1. Read `uk-gdad-pcf-role-summaries/roles/<slug>.md` — the role, the level,
+1. Read `uk-gdad-pcf-role-summaries/locales/en-gb/roles/<slug>.md` — the role, the level,
    its accountabilities, and its skills. This is the whole input for most
    projects.
 2. Read the target project's own `spec/index.md` for its document contract
@@ -48,7 +48,7 @@ doing the same in all nine, then re-running `bin/check`.
    their "by assessor" sibling for the same slug, not drafted from the
    summary directly — see each project's own `spec/index.md` for exactly
    what carries over unchanged and what gets rewritten for voice.
-5. Write to `<project>/roles/<slug>.md` — the same slug, no exceptions.
+5. Write to `<project>/locales/en-gb/roles/<slug>.md` — the same slug, no exceptions.
 6. Run `bin/check` from the repository root.
 7. Human review. Nothing here is publishable unreviewed.
 
@@ -86,8 +86,8 @@ directly, so it stays buildable once pushed to its own repository.
 - `cd uk-gdad.github.io && pnpm check` (svelte-check, must be clean) and
   `pnpm build` (must complete with no prerender errors — a broken internal
   link fails the build) before considering a website change done.
-- **Never edit `uk-gdad.github.io/content/`, `static/assets/themes/`, or
-  `static/tools/`** — all vendored. Edit the source project, then sync. The
+- **Never edit `uk-gdad.github.io/content/`, or
+  `static/assets/themes/`** — all vendored. Edit the source project, then sync. The
   Lily Svelte components are npm dependencies, not vendored — upgrade with
   `pnpm update`.
 - **Publish** with `bin/make-github-pages` (or `make github-pages`) from the

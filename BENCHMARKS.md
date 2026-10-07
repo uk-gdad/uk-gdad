@@ -20,7 +20,7 @@ any of them with the commands given.
 
 ```sh
 find uk-gdad-pcf-psychometric-assessments-by-assessor/roles -name '*.md' | wc -l
-cat uk-gdad-pcf-psychometric-assessments-by-assessor/roles/**/*.md | wc -w
+cat uk-gdad-pcf-psychometric-assessments-by-assessor/locales/en-gb/roles/**/*.md | wc -w
 ```
 
 The assessments are two-thirds of the words: each carries four assessment

@@ -127,3 +127,60 @@ Fix: have `locales/[locale]/+layout.server.js` supply this locale's own title,
 which overrides the root layout's canonical one via SvelteKit's merged
 `page.data` on any route under `/locales/<locale>/` — the root picker and
 `/about/` (no locale in the URL) correctly keep the canonical English title.
+
+## In this repository
+
+How the rules above are applied here, where this repository differs, and what is
+not built yet.
+
+### Codes
+
+Locale codes are a lower-case language and region joined by a hyphen:
+`en-gb`, `cy-gb`, `gd-gb`, `ga-gb`. There is no `-001` (world) variant, so the
+`-001` ordering rules above do not apply, and no route forwards
+`/<language>-001/` to `/<language>/`. A locale is exactly one directory name.
+
+| Code    | Picker label | Content                |
+| ------- | ------------ | ---------------------- |
+| `en-gb` | English      | Complete, 9 projects   |
+| `cy-gb` | Cymraeg      | None yet — deferred    |
+| `gd-gb` | Gàidhlig     | None yet — deferred    |
+| `ga-gb` | Gaeilge      | None yet — deferred    |
+
+### Where content lives
+
+Each of the nine role projects holds its documents at
+`<project>/locales/<locale>/roles/<slug>.md`, and the same slug addresses the
+same role level in every locale. The slug is not translated: this repository
+keeps slugs shared across locales, unlike the per-locale slugs described under
+Slugs above, so that one role level has one identity in every language.
+
+The website mirrors this, byte for byte, at
+`uk-gdad.github.io/content/<project>/locales/`, refreshed by
+`uk-gdad.github.io/bin/sync` and verified by `bin/check`.
+
+`bin/check` reads one locale, `en-gb` (`LOCALE` in `bin/check`), and requires it
+to be complete: all 205 role levels in all nine projects.
+
+### The language picker
+
+The Lily `LocalePicker` offers the locales that have a directory under
+`locales/` in the content, each named in itself, so a locale appears in the
+picker when its content does. The list comes from `getLocales()` in
+`uk-gdad.github.io/src/lib/server/content.ts`, and the labels are in
+`uk-gdad.github.io/src/routes/+layout.svelte`. Today that is `en-gb` alone.
+The choice is saved in the browser under `uk-gdad-pcf:locale` and sets `lang`
+on `<html>`. It does not change the URL yet.
+
+### Not built yet
+
+- Locale routes such as `/cy-gb/`, and a picker that navigates between them.
+- Translated site text: navigation, headings, picker, and form labels.
+- The browser-language redirect from `/`. It is built, in
+  `uk-gdad.github.io/src/lib/locale-redirect.ts`, but its list of routed
+  locales is empty, so it does nothing until a locale route exists. Add a code
+  to that list only when its route exists.
+- `.locale-peer-id` files. They are not needed while there is one locale.
+
+Translating a locale is serial work, one locale at a time, and does not use
+subagents: see `spec/locales/locales-by-priority.md`.
