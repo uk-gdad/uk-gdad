@@ -786,9 +786,19 @@ th {
 
 /* 5. Page patterns ------------------------------------------------------ */
 
+/* `.hero` is also a Lily component: every Lily theme ships a primary-filled,
+ * centred banner under that name, with `:where()` so any rule here wins. This
+ * site's hero is a plain heading and lede on the page background, so each
+ * property the Lily banner sets is stated here, or a theme such as one with
+ * a purple primary shows a coloured block with white and black text mixed. */
 .hero {
   max-width: 46rem;
   padding: 1rem 0 2rem;
+  display: block;
+  background: none;
+  color: inherit;
+  border-radius: 0;
+  text-align: start;
 }
 .hero h1 {
   margin-bottom: 0.75rem;
