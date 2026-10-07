@@ -98,17 +98,16 @@ pnpm check        # type-check; must be clean
 `content/` and `static/tools/` are **vendored, not authored here**, so that
 this project stays buildable on its own once it is pushed to its public
 repository. `static/assets/themes/` — Lily's 45 reference themes — is
-vendored too, since those have no npm package of their own. Refresh them
-after the upstream sources change:
+copied from the `@lilydesignsystem/themes` npm package, because the theme
+picker loads them by URL. Refresh them after the upstream sources change:
 
 ```sh
 ./bin/sync
 ```
 
 It reads the sibling UK GDAD PCF projects in the parent directory, and the
-Lily Design System's `themes/` directory at
-`~/git/lilydesignsystem/lily-design-system` (override with
-`LILY_DESIGN_SYSTEM`).
+themes from `node_modules/@lilydesignsystem/themes/dist/`, so run
+`pnpm install` first.
 
 Never edit a vendored file — edit the source and re-sync. The repository's
 `bin/check` compares the copies against their sources byte for byte, so a stale

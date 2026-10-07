@@ -26,6 +26,9 @@ importers:
       '@lilydesignsystem/svelte-theme-picker':
         specifier: ^0.2.0
         version: 0.2.0(svelte@5.56.10)
+      '@lilydesignsystem/themes':
+        specifier: 0.3.1
+        version: 0.3.1
       marked:
         specifier: ^15.0.0
         version: 15.0.12
@@ -120,6 +123,10 @@ packages:
     engines: {node: '=26'}
     peerDependencies:
       svelte: ^5.0.0
+
+  '@lilydesignsystem/themes@0.3.1':
+    resolution: {integrity: sha512-ds11oY7MPLP+qpIj+Ruhl6uKmQO9cSnIgP1kYT98TFcGrtjUvndqeXdXEIyS1yjw1QaVECEm3WpMqaewgl70rw==}
+    engines: {node: '=26'}
 
   '@oxc-project/types@0.152.0':
     resolution: {integrity: sha512-oM/5rLBm2tPkg0iBgkH/FOeR3PCDpY19GTgAZjMFM8h9WI9VW7cLgzp6nwtarYKmovavIQZ+Fe/RKX/8C8O/Rw==}
@@ -629,6 +636,8 @@ snapshots:
     dependencies:
       '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.56.10)
       svelte: 5.56.10
+
+  '@lilydesignsystem/themes@0.3.1': {}
 
   '@oxc-project/types@0.152.0': {}
 

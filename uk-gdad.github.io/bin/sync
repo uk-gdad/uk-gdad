@@ -9,22 +9,23 @@
 # The Lily Design System Svelte components themselves — headless components,
 # theme/locale/text-size/share pickers, and the picker bar — are real npm
 # dependencies (see package.json, the @lilydesignsystem/* packages) and are
-# not vendored. Only the 45 reference themes have no npm package to install:
-# they live at themes/ in the Lily Design System monorepo with no
-# package.json of their own, so this script is still how they get here.
+# not vendored. The 45 reference themes are an npm package too
+# (@lilydesignsystem/themes), but the theme picker loads them by URL at
+# runtime, so this script still copies them into static/assets/themes/.
 #
 # Re-run after the upstream sources change:  ./bin/sync
 set -eu
 
 site="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
 gdad="$(CDPATH= cd -- "$site/.." && pwd)"
-lily="${LILY_DESIGN_SYSTEM:-$HOME/git/lilydesignsystem/lily-design-system}"
 
 # 1. Lily Design System reference themes, loaded by ThemePicker/PickerBar at
-# runtime. Each line in lily-themes.txt is a theme slug, e.g. "dracula" ->
-# themes/dracula.css. This mirrors PickerBar's own DEFAULT_THEMES exactly.
+# runtime, so they have to be served as static files. They come from the
+# @lilydesignsystem/themes npm package. Each line in lily-themes.txt is a theme
+# slug, e.g. "dracula" -> dist/dracula.css. This mirrors PickerBar's own
+# DEFAULT_THEMES exactly.
 
-lily_themes="$lily/themes"
+lily_themes="$site/node_modules/@lilydesignsystem/themes/dist"
 if [ -d "$lily_themes" ]; then
     mkdir -p "$site/static/assets/themes"
     for slug in $(cat "$site/bin/lily-themes.txt"); do
@@ -36,9 +37,10 @@ if [ -d "$lily_themes" ]; then
             exit 1
         fi
     done
-    echo "sync: Lily themes -> static/assets/themes/"
+    echo "sync: @lilydesignsystem/themes -> static/assets/themes/"
 else
-    echo "sync: skipping Lily themes; not found at $lily_themes" >&2
+    echo "sync: @lilydesignsystem/themes is not installed; run pnpm install" >&2
+    exit 1
 fi
 
 # 2. UK GDAD PCF content.

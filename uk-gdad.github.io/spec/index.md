@@ -61,9 +61,9 @@ The Lily Design System's Svelte components — headless components and the
 theme, locale, text size and share pickers and picker bar — are **not**
 vendored. They are ordinary npm dependencies under the `@lilydesignsystem`
 scope (see `package.json`), installed with `pnpm install` like any other
-package and upgraded with `pnpm update`. Only the 45 reference themes above
-have no npm package of their own, which is why they are still vendored by
-file copy.
+package and upgraded with `pnpm update`. The 45 reference themes above are an
+npm package too, `@lilydesignsystem/themes`, but the theme picker loads them
+by URL, so `bin/sync` still copies them into `static/assets/themes/`.
 
 ## URLs
 

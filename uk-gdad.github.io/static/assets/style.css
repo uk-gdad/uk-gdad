@@ -508,7 +508,7 @@ th {
   margin-bottom: 0;
 }
 
-/* Site tools: ThemePicker, LocalePicker, TextSizePicker and SharePicker,
+/* Site tools: SearchPicker, ThemePicker, LocalePicker, TextSizePicker and SharePicker,
  * composed by PickerBar — all @lilydesignsystem/svelte-* npm dependencies,
  * not the headless package. All four are headless, so every rule below is
  * this site's own visual decision, not the component's. */
@@ -519,6 +519,7 @@ th {
   gap: 0.35rem;
 }
 
+.search-picker,
 .theme-picker,
 .locale-picker,
 .text-size-picker,
@@ -527,6 +528,7 @@ th {
   display: inline-block;
 }
 
+.search-picker-button,
 .theme-picker-button,
 .locale-picker-button,
 .text-size-picker-button,
@@ -544,12 +546,14 @@ th {
   cursor: pointer;
   line-height: 1;
 }
+.search-picker-button:hover,
 .theme-picker-button:hover,
 .locale-picker-button:hover,
 .text-size-picker-button:hover,
 .share-picker-button:hover {
   background: var(--site-surface);
 }
+.search-picker-button[aria-expanded='true'],
 .theme-picker-button[aria-expanded='true'],
 .locale-picker-button[aria-expanded='true'],
 .text-size-picker-button[aria-expanded='true'],
@@ -558,6 +562,7 @@ th {
   border-color: var(--site-text);
 }
 
+.search-picker-icon,
 .theme-picker-icon,
 .locale-picker-icon,
 .text-size-picker-icon,
@@ -566,6 +571,7 @@ th {
   font-size: 1.125em;
 }
 
+.search-picker-panel,
 .theme-picker-list,
 .locale-picker-list,
 .text-size-picker-list,
@@ -588,10 +594,47 @@ th {
   overflow-y: auto;
   box-shadow: var(--site-shadow-lg);
 }
+.search-picker-panel[hidden],
+.search-picker-tooltip[hidden],
 .theme-picker-list[hidden],
 .locale-picker-list[hidden],
 .text-size-picker-list[hidden],
 .share-picker-list[hidden] {
+  display: none;
+}
+
+.search-picker-panel {
+  min-inline-size: 16rem;
+}
+.search-picker-form {
+  display: flex;
+  gap: 0.35rem;
+}
+.search-picker-input {
+  flex: 1;
+  min-inline-size: 0;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-page-bg);
+  color: var(--site-text);
+  font: inherit;
+}
+.search-picker-submit {
+  padding: 0 0.7rem;
+  border: 1px solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-surface);
+  color: var(--site-text);
+  cursor: pointer;
+  font: inherit;
+}
+.search-picker-submit:hover {
+  border-color: var(--site-text);
+}
+/* The tooltip only repeats the button's accessible name; the buttons beside
+ * it have none shown either, so keep it out of the layout. */
+.search-picker-tooltip {
   display: none;
 }
 

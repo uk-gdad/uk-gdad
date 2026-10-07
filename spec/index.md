@@ -323,8 +323,9 @@ its own repository. The Lily Design System's Svelte components — headless
 components, the theme, locale, text size and share pickers, and the picker
 bar that composes them — are not vendored; they are real npm dependencies
 under the `@lilydesignsystem` scope (`package.json`), installed like any
-other package. Only the 45 reference themes the theme picker switches between
-have no npm package of their own, so those are still vendored by file copy:
+other package. The 45 reference themes the theme picker switches between are
+the npm package `@lilydesignsystem/themes`, but the picker loads them by URL,
+so they are copied out of it into the site by `bin/sync`:
 
 - `uk-gdad.github.io/content/<project>/` is a byte-for-byte copy of each
   project's `roles/` tree.
